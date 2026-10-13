@@ -1,23 +1,246 @@
 {
   "metas": [
     {
-      "id": "tt32268691",
+      "id": "tt32896542",
       "type": "movie",
-      "name": "Aniquilación",
-      "poster": "https://image.tmdb.org/t/p/w500/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
+      "name": "Elden Ring",
+      "poster": "https://image.tmdb.org/t/p/w500/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-      "description": "Cuando un escuadrón rebelde de supersoldados modificados genéticamente se desata en el desierto, una francotiradora del ejército de armas tomar debe desatar el infierno para proteger a su hija pequeña.",
-      "releaseInfo": "2026",
+      "description": "A live-action adaptation of the dark fantasy video game, set in the war-torn world of the Lands Between, which was once united by the Elden Ring. Plot details TBA.",
+      "releaseInfo": "2028",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "id": "tt37360759",
+      "type": "movie",
+      "name": "Slayground",
+      "poster": "https://image.tmdb.org/t/p/w500/85JcCat1n2fizmf5fgAJTn5n49s.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lE9pX6hPaiwsKgomIHn4gFU150o.jpg",
+      "description": "On the week of Halloween, the primary suspect in a mass murder investigation escapes police custody and goes on the run, attempting to prove his innocence while becoming the target of a massive manhunt.",
+      "releaseInfo": "2027",
       "genres": [
         "Acción",
         "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "id": "tt38078084",
+      "type": "movie",
+      "name": "Please",
+      "poster": "https://image.tmdb.org/t/p/w500/umyZQo2bGqjVED6Fgfm7LHSxtUH.jpg",
+      "posterShape": "poster",
+      "description": "In 1870s, Long Island, a woman's urgent attempt to cure her hidden infertility leads to an unexpected revelation: she never wanted children at all. Armed with this truth, she must challenge her husband to claim her independence.",
+      "releaseInfo": "2027",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt45368240",
+      "type": "movie",
+      "name": "You Can See Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "1.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt33095251",
+      "type": "movie",
+      "name": "Tony",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+      "description": "Un Anthony Bourdain de 19 años viaja a Provincetown y se adentra en el caótico mundo de la cocina de un restaurante, dando inicio a un verano que marcará el rumbo de su vida.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
         "Suspense"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "5.8"
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt48487817",
+      "type": "movie",
+      "name": "Phoebe Bridgers | Sound Check at Cherry Lane Theatre",
+      "poster": "https://image.tmdb.org/t/p/w500/y1iElB8Yxr2egBDenbZK7yzBD62.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ePEbrArUoQQJMtz4UNrF0PwBsFL.jpg",
+      "description": "Phoebe Bridgers stops by Cherry Lane Theatre for Sound Check.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Música"
+      ]
+    },
+    {
+      "id": "tt39150922",
+      "type": "movie",
+      "name": "Nuisance Bear",
+      "poster": "https://image.tmdb.org/t/p/w500/An1QdmHWNxX2V03kq3akOCid69r.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hqDiQteXWMoyezEmbPy0nRYdUST.jpg",
+      "description": "A polar bear is forced to navigate a human world of tourists, wildlife officers, and hunters as its ancient migration collides with modern life. When a sacred predator is branded a nuisance, it becomes unclear who truly belongs in this shared landscape.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
+      "id": "tt27200708",
+      "type": "movie",
+      "name": "Mother Mary",
+      "poster": "https://image.tmdb.org/t/p/w500/icFriZyktJO96UX9BMqEFJU3J7P.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+      "description": "Viejas heridas enterradas salen a la luz cuando la icónica estrella del pop, Mother Mary, se reencuentra con su distanciada mejor amiga y exdiseñadora de vestuario, Sam Anselm, en la víspera de su actuación de regreso.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Música",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt34385184",
+      "type": "movie",
+      "name": "Misty Green",
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+      "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "id": "tt37660536",
+      "type": "movie",
+      "name": "Marc by Sofia",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/reSa0DcGoinsguV7QUNeG2V6rp4.jpg",
+      "description": "Un retrato de Marc Jacobs, elaborado por Sofia Coppola, para captar el genio y el singular universo del icónico diseñador estadounidense.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35524793",
+      "type": "movie",
+      "name": "El Momento",
+      "poster": "https://image.tmdb.org/t/p/w500/zgbjNx4RAMivZ1ZlFrRC356caL9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
+      "description": "Una cantante pop afronta la fama reciente y las presiones de la industria musical mientras prepara su primera gira en estadios.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Música",
+        "Comedia",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt34718200",
+      "type": "movie",
+      "name": "El Gran Debut",
+      "poster": "https://image.tmdb.org/t/p/w500/n1JWZlpOZmNMF2mCoRbatRfHMXT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+      "description": "Una mujer tímida que inesperadamente es elegida para participar en una producción musical local se pierde en el papel bajo el hechizo del director, de carácter fuerte, y se sumerge en el arriesgado mundo del teatro comunitario.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Música",
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "El Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "description": "Cuenta la historia de una pareja cuyo romance cambia radicalmente antes de su gran día.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
           }
         }
       }
@@ -45,64 +268,126 @@
       }
     },
     {
-      "id": "tt34206385",
+      "id": "tt32268691",
       "type": "movie",
-      "name": "Primetime",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "name": "Aniquilación",
+      "poster": "https://image.tmdb.org/t/p/w500/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década.",
+      "background": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "description": "Cuando un escuadrón rebelde de supersoldados modificados genéticamente se desata en el desierto, una francotiradora del ejército de armas tomar debe desatar el infierno para proteger a su hija pequeña.",
       "releaseInfo": "2026",
       "genres": [
-        "Drama",
+        "Acción",
+        "Terror",
         "Suspense"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.9"
+            "rating": "5.8"
           }
         }
       }
     },
     {
-      "id": "tt13560574",
+      "id": "tt34963034",
       "type": "movie",
-      "name": "X",
-      "poster": "https://image.tmdb.org/t/p/w500/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg",
+      "name": "André Is an Idiot",
+      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
-      "description": "En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.",
-      "releaseInfo": "2022",
+      "background": "https://image.tmdb.org/t/p/w1280/yf7OJzxWAg0LRFUMyp0Jpa2sRKY.jpg",
+      "description": "André, a brilliant idiot, is dying because he didn’t get a colonoscopy. His sobering diagnosis, complete irreverence, and insatiable curiosity, send him on an unexpected journey learning how to die happily and ridiculously without losing his sense of humor.",
+      "releaseInfo": "2026",
       "genres": [
-        "Terror"
+        "Documental"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.7"
+            "rating": "7.3"
           }
         }
       }
     },
     {
-      "id": "tt33071426",
+      "id": "tt31434639",
       "type": "movie",
-      "name": "El Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg",
+      "name": "Tiempo de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-      "description": "Cuenta la historia de una pareja cuyo romance cambia radicalmente antes de su gran día.",
-      "releaseInfo": "2026",
+      "background": "https://image.tmdb.org/t/p/w1280/30jbD8Er4aB7FbfUbyZLORMDnJN.jpg",
+      "description": "Un pelotón de SEALs de la Marina estadounidense en la casa de una familia iraquí supervisa el movimiento de las fuerzas estadounidenses a través de territorio insurgente.",
+      "releaseInfo": "2025",
       "genres": [
-        "Romance",
-        "Comedia",
+        "Bélica",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18382850",
+      "type": "movie",
+      "name": "Si pudiera, te daría una patada",
+      "poster": "https://image.tmdb.org/t/p/w500/dpXbEKk1eMcXRgl62zWhNcZH4BN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
+      "description": "Con su vida literalmente derrumbándose a su alrededor, Linda intenta lidiar con la misteriosa enfermedad de su hija, su marido ausente, una persona desaparecida y una relación cada vez más hostil con su terapeuta.",
+      "releaseInfo": "2025",
+      "genres": [
         "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.9"
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt29929565",
+      "type": "movie",
+      "name": "Opus",
+      "poster": "https://image.tmdb.org/t/p/w500/5KPh4GB1Vng9g9QOhvXCTtMAEc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
+      "description": "Una joven escritora es invitada a la remota casa de una legendaria estrella del pop que desapareció misteriosamente hace treinta años. Rodeada por el culto de aduladores y periodistas borrachos de la estrella, se encuentra en medio de su perverso plan.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt29649688",
+      "type": "movie",
+      "name": "My Mercury",
+      "poster": "https://image.tmdb.org/t/p/w500/1AJwxLPagG2S08j9NJlwbwMHaQ3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/28kzQaJIpF2HcXS4lcWLShZiihJ.jpg",
+      "description": "A passionate conservationist makes a cruel pact to save endangered seabirds from extinction on an inhospitable island, alone. In the end, it's a victory for the birds, but at what price?",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.0"
           }
         }
       }
@@ -151,299 +436,23 @@
       }
     },
     {
-      "id": "tt32246771",
+      "id": "tt11214558",
       "type": "movie",
-      "name": "Haz que regrese",
-      "poster": "https://image.tmdb.org/t/p/w500/7Gh8dMAGNMvyr5YA2H1KgJK3wq3.jpg",
+      "name": "La Máquina: The Smashing Machine",
+      "poster": "https://image.tmdb.org/t/p/w500/3NzQbBgaHsOp7HiHdiIKF0A5YOw.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
-      "description": "Tras el fallecimiento de su padre, dos hermanos son adoptados por una mujer que vive en el bosque y cuyas actitudes les generan sospechas.",
+      "background": "https://image.tmdb.org/t/p/w1280/hTCr9dDf0EcBGZSUaY0YCeBjBr5.jpg",
+      "description": "La historia del campeón de artes marciales mixtas y de la UFC, Mark Kerr.",
       "releaseInfo": "2025",
       "genres": [
-        "Terror"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.3"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt5727208",
-      "type": "movie",
-      "name": "Diamantes en bruto",
-      "poster": "https://image.tmdb.org/t/p/w500/1tOzBr9wvo37KgFiFYLc16AGvAX.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
-      "description": "Howard Ratner es el propietario de una joyería ubicada en el barrio de los diamantes de la ciudad de Nueva York que vende en exclusiva a ricos y famosos. Un día se produce un importante robo que le obliga a tener que afrontar una deuda económica que no está preparado para pagar.",
-      "releaseInfo": "2019",
-      "genres": [
         "Drama",
-        "Suspense",
-        "Crimen"
+        "Historia",
+        "Acción"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "7.2"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt13238346",
-      "type": "movie",
-      "name": "Vidas Pasadas",
-      "poster": "https://image.tmdb.org/t/p/w500/z34UKyOAONFN54O340rL1dQRHKa.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
-      "description": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt6710474",
-      "type": "movie",
-      "name": "Todo en Todas Partes al Mismo Tiempo",
-      "poster": "https://image.tmdb.org/t/p/w500/vbR5YirdyIQyLzWHALmdDAJshWC.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
-      "description": "Cuando una ruptura interdimensional altera la realidad, Evelyn Wang, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que solo ella puede salvar el mundo.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt30253473",
-      "type": "movie",
-      "name": "Amores materialistas",
-      "poster": "https://image.tmdb.org/t/p/w500/jpUFowlZitohC06voHrIyDAPVZ5.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
-      "description": "Lucy es una joven casamentera de Nueva York que se encarga de unir solteros para encontrar la pareja perfecta. Sin embargo, su mundo se desestabiliza al encontrarse atrapada en un triángulo amoroso con Harry, un apuesto financiero multimillonario, y su exnovio John, un actor de poco éxito.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.3"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt17279496",
-      "type": "movie",
-      "name": "Guerra Civil",
-      "poster": "https://image.tmdb.org/t/p/w500/rLyuE271bVhhRMTjukRNXkWTg6C.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/t2SXZ7KLriaLyf5QT8Iar6fSOGp.jpg",
-      "description": "En un futuro cercano, un grupo de periodistas de guerra intenta sobrevivir mientras informan la verdad mientras Estados Unidos se encuentra al borde de una guerra civil.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Bélica",
-        "Acción",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.8"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt13833688",
-      "type": "movie",
-      "name": "La Ballena",
-      "poster": "https://image.tmdb.org/t/p/w500/3cgOB3d3YA8OlYibhO3NH5aCJxG.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
-      "description": "Un profesor de inglés solitario que sufre de obesidad severa intenta volver a conectarse con su hija adolescente separada para tener una última oportunidad de redención.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.8"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt7984734",
-      "type": "movie",
-      "name": "El Faro",
-      "poster": "https://image.tmdb.org/t/p/w500/atwJGO4Ks8k9aUcGN968YFvnwbB.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
-      "description": "Ambientada a finales del siglo XIX, cuenta la historia de dos fareros que trabajan juntos en una misteriosa isla perdida de Nueva Inglaterra.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Fantasía",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt31194612",
-      "type": "movie",
-      "name": "Del cielo al infierno",
-      "poster": "https://image.tmdb.org/t/p/w500/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/saErQCTkKbqiggCJbSltBMDD4oy.jpg",
-      "description": "Cuando un poderoso productor musical es víctima de una extorsión, debe luchar por su familia y su legado mientras enfrenta un dilema moral de vida o muerte.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Suspense",
-        "Crimen",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt21064584",
-      "type": "movie",
-      "name": "Garra de Hierro",
-      "poster": "https://image.tmdb.org/t/p/w500/bsw7Bxhm2eYHzdEOTI0yHi7N3jl.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
-      "description": "Sigue la historia de los Von Erich, una dinastía de luchadores que tuvo un gran impacto en el deporte desde la década de 1960 hasta la actualidad.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt4975722",
-      "type": "movie",
-      "name": "Luz de luna",
-      "poster": "https://image.tmdb.org/t/p/w500/xVzMkuXkRrmfYSYTzBCCJlj990Y.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
-      "description": "La historia sensible, angustiosa de un joven que se esfuerza por encontrarse, contada a través de tres capítulos definitorios en su vida, ya que experimenta el éxtasis, el dolor y la belleza de enamorarse, mientras lucha cuerpo a cuerpo con su propia sexualidad.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt21942866",
-      "type": "movie",
-      "name": "El Hombre de Los Sueños",
-      "poster": "https://image.tmdb.org/t/p/w500/8LJVauVacKhi0xuUa8aKTPGn4pW.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/2WRe1y5S1jGWTKUcSPPmD1Ixq56.jpg",
-      "description": "El desafortunado hombre de familia Paul Matthews encuentra su vida patas arriba cuando millones de extraños de repente comienzan a verlo en sus sueños. Pero cuando sus apariciones nocturnas toman un giro de pesadilla, Paul se ve obligado a navegar por su nuevo estrellato.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedia",
-        "Fantasía"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10096842",
-      "type": "movie",
-      "name": "Oscura Verdad",
-      "poster": "https://image.tmdb.org/t/p/w500/3HSov8EW2fI3oQbUJxOvnf684ej.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/8FHQFJGCuIuSQ8hC7Iyrd8fPdy7.jpg",
-      "description": "Lucy y Adrian llevan tiempo intentando tener un hijo. Finalmente, recurren al doctor Hindle, especialista en fertilidad. Lucy se somete a una inseminación artificial y queda embarazada de trillizos. Días después, el doctor les informa de que un embarazo de estas características puede poner en riesgo la salud tanto de los niños como de la madre, por lo que deberán tomar una difícil decisión. A medida que avanza el embarazo, el mundo de Lucy se va transformando en una terrorífica pesadilla.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt9243804",
-      "type": "movie",
-      "name": "La Leyenda del Caballero Verde",
-      "poster": "https://image.tmdb.org/t/p/w500/7vFQym17htVEKnQGcSr4C9oJLhT.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
-      "description": "Una aventura de fantasía épica basada en la eterna leyenda artúrica, El Caballero Verde cuenta la historia de Sir Gawain, el sobrino imprudente y testarudo del Rey Arturo, que se embarca en una atrevida búsqueda para enfrentarse al Caballero Verde del mismo nombre, un gigantesco extraño de piel esmeralda y retador de hombres.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Aventura",
-        "Drama",
-        "Fantasía"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.6"
+            "rating": "6.4"
           }
         }
       }
@@ -471,172 +480,21 @@
       }
     },
     {
-      "id": "tt11214558",
+      "id": "tt32246771",
       "type": "movie",
-      "name": "La Máquina: The Smashing Machine",
-      "poster": "https://image.tmdb.org/t/p/w500/3NzQbBgaHsOp7HiHdiIKF0A5YOw.jpg",
+      "name": "Haz que regrese",
+      "poster": "https://image.tmdb.org/t/p/w500/7Gh8dMAGNMvyr5YA2H1KgJK3wq3.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/hTCr9dDf0EcBGZSUaY0YCeBjBr5.jpg",
-      "description": "La historia del campeón de artes marciales mixtas y de la UFC, Mark Kerr.",
+      "background": "https://image.tmdb.org/t/p/w1280/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+      "description": "Tras el fallecimiento de su padre, dos hermanos son adoptados por una mujer que vive en el bosque y cuyas actitudes les generan sospechas.",
       "releaseInfo": "2025",
       "genres": [
-        "Drama",
-        "Historia",
-        "Acción"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt15574270",
-      "type": "movie",
-      "name": "Vi el brillo del televisor",
-      "poster": "https://image.tmdb.org/t/p/w500/6KeQT6HS9AyWQS2OrPGzoCLHNgb.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/jKulL2hdp5S7dVbpoItAtdCyzXI.jpg",
-      "description": "Dos adolescentes comparten su amor por una serie de televisión de terror, pero esta se cancela misteriosamente.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama",
         "Terror"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.2"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt13521006",
-      "type": "movie",
-      "name": "Beau tiene miedo",
-      "poster": "https://image.tmdb.org/t/p/w500/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
-      "description": "Beau es un hombre que tendrá que enfrentarse a sus miedos y paranoias al aventurarse en una épica odisea para llegar a casa de su controladora madre.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Fantasía"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt33095251",
-      "type": "movie",
-      "name": "Tony",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-      "description": "Un Anthony Bourdain de 19 años viaja a Provincetown y se adentra en el caótico mundo de la cocina de un restaurante, dando inicio a un verano que marcará el rumbo de su vida.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt31434639",
-      "type": "movie",
-      "name": "Tiempo de guerra",
-      "poster": "https://image.tmdb.org/t/p/w500/fkVpNJugieKeTu7Se8uQRqRag2M.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/30jbD8Er4aB7FbfUbyZLORMDnJN.jpg",
-      "description": "Un pelotón de SEALs de la Marina estadounidense en la casa de una familia iraquí supervisa el movimiento de las fuerzas estadounidenses a través de territorio insurgente.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Bélica",
-        "Acción"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt7160372",
-      "type": "movie",
-      "name": "Zona de Interés",
-      "poster": "https://image.tmdb.org/t/p/w500/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
-      "description": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama",
-        "Historia",
-        "Bélica"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt30057084",
-      "type": "movie",
-      "name": "Babygirl: Deseo Prohibido",
-      "poster": "https://image.tmdb.org/t/p/w500/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
-      "description": "Romy es una alta ejecutiva que inicia una ardiente aventura de sexo extremo con su joven becario, Samuel a espaldas de su marido Jacob. Romy invertirá su rol habitual en el trabajo, pasando de ser quien da las órdenes a disfrutar siendo sometida en la cama. Esta tórrida relación extramatrimonial le permitirá encontrar el camino hacia su libertad sexual, a pesar del riesgo y los prejuicios.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Romance",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt28015403",
-      "type": "movie",
-      "name": "Hereje",
-      "poster": "https://image.tmdb.org/t/p/w500/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
-      "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Suspense",
-        "Terror"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.0"
+            "rating": "7.3"
           }
         }
       }
@@ -664,91 +522,6 @@
       }
     },
     {
-      "id": "tt19637052",
-      "type": "movie",
-      "name": "Amor, Mentiras y Sangre",
-      "poster": "https://image.tmdb.org/t/p/w500/GG2PW2j0Vk7ynWGDv7LC3ngoQm.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/oMiKHO3H5RixfLsiU5Vumhlp5sj.jpg",
-      "description": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una competición. En su camino, pasa por un pequeño pueblo de Nuevo México donde conoce a Lou, la solitaria gerente del gimnasio local. El padre de Lou es traficante de armas y lleva las riendas de un sindicato del crimen. Jackie y Lou se enamoran. Pero su relación provoca violencia y ambas se ven inmersas en las maquinaciones de la familia de Lou.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Crimen",
-        "Romance",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt22048412",
-      "type": "movie",
-      "name": "MaXXXine",
-      "poster": "https://image.tmdb.org/t/p/w500/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
-      "description": "En los años 80 en Hollywood, la estrella de cine para adultos y aspirante a actriz Maxine Minx finalmente obtiene su gran oportunidad. Pero cuando un misterioso asesino acecha a las estrellas de Hollywood, un rastro de sangre amenaza con revelar su siniestro pasado.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Terror"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.3"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt18925334",
-      "type": "movie",
-      "name": "Pearl",
-      "poster": "https://image.tmdb.org/t/p/w500/orYlKu8i5NRdbdhSXWg1cbRn3eB.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
-      "description": "Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre, deseando una vida glamorosa como la que ha visto en las películas. Precuela de 'X' (2022) centrada en los orígenes del personaje de Pearl (Mia Goth).",
-      "releaseInfo": "2022",
-      "genres": [
-        "Terror",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.2"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt27200708",
-      "type": "movie",
-      "name": "Mother Mary",
-      "poster": "https://image.tmdb.org/t/p/w500/icFriZyktJO96UX9BMqEFJU3J7P.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
-      "description": "Viejas heridas enterradas salen a la luz cuando la icónica estrella del pop, Mother Mary, se reencuentra con su distanciada mejor amiga y exdiseñadora de vestuario, Sam Anselm, en la víspera de su actuación de regreso.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Música",
-        "Drama",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.7"
-          }
-        }
-      }
-    },
-    {
       "id": "tt31176520",
       "type": "movie",
       "name": "Eddington: Regresamos a 2020",
@@ -771,349 +544,44 @@
       }
     },
     {
-      "id": "tt45368240",
+      "id": "tt31194612",
       "type": "movie",
-      "name": "You Can See Everything",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "name": "Del cielo al infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "1.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt21097228",
-      "type": "movie",
-      "name": "Un Hombre Diferente",
-      "poster": "https://image.tmdb.org/t/p/w500/x8nynAOohBR0fWp8TEVtdr34jzo.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/xSqaVqkbeSaPmeEyurWBaTSkgL9.jpg",
-      "description": "El aspirante a actor Edward se somete a un procedimiento médico radical para transformar drásticamente su apariencia. Pero el nuevo rostro de sus sueños se convierte rápidamente en una pesadilla, ya que pierde el papel para el que nació y se obsesiona con recuperar lo perdido.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10095582",
-      "type": "movie",
-      "name": "La tragedia de Macbeth",
-      "poster": "https://image.tmdb.org/t/p/w500/d0vFvJ1x6pflLzam7rIRvoc24o9.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
-      "description": "Nominada a tres premios Oscar, incluido el de Mejor Actor. Denzel Washington y Frances McDormand protagonizan esta adaptación, cruda y audaz, de Joel Coen. Un lord escocés es convencido por unas brujas de que se convertirá en el futuro rey de Escocia. Adaptación de \"Macbeth\", de William Shakespeare.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt7014006",
-      "type": "movie",
-      "name": "La vida de Kayla",
-      "poster": "https://image.tmdb.org/t/p/w500/70VRCeqBZAMMrCA0IBcEVEySGVi.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
-      "description": "Kayla, una niña de 13 años, tiene que lidiar con las inseguridades y terremotos del inicio de la adolescencia en la última semana de colegio, tras un año desastroso, antes de empezar el instituto.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt18382850",
-      "type": "movie",
-      "name": "Si pudiera, te daría una patada",
-      "poster": "https://image.tmdb.org/t/p/w500/dpXbEKk1eMcXRgl62zWhNcZH4BN.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
-      "description": "Con su vida literalmente derrumbándose a su alrededor, Linda intenta lidiar con la misteriosa enfermedad de su hija, su marido ausente, una persona desaparecida y una relación cada vez más hostil con su terapeuta.",
+      "background": "https://image.tmdb.org/t/p/w1280/saErQCTkKbqiggCJbSltBMDD4oy.jpg",
+      "description": "Cuando un poderoso productor musical es víctima de una extorsión, debe luchar por su familia y su legado mientras enfrenta un dilema moral de vida o muerte.",
       "releaseInfo": "2025",
       "genres": [
+        "Suspense",
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30253473",
+      "type": "movie",
+      "name": "Amores materialistas",
+      "poster": "https://image.tmdb.org/t/p/w500/jpUFowlZitohC06voHrIyDAPVZ5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+      "description": "Lucy es una joven casamentera de Nueva York que se encarga de unir solteros para encontrar la pareja perfecta. Sin embargo, su mundo se desestabiliza al encontrarse atrapada en un triángulo amoroso con Harry, un apuesto financiero multimillonario, y su exnovio John, un actor de poco éxito.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Romance",
         "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
             "rating": "6.3"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt8110652",
-      "type": "movie",
-      "name": "Muerte muerte muerte",
-      "poster": "https://image.tmdb.org/t/p/w500/lypI7oQ8Ko4LiE4oGWclYNIIi16.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/qYCl28dMJwRTzlbteTrW75szZPN.jpg",
-      "description": "Cuando un grupo de veinteañeros adinerados planea una fiesta del huracán en una remota mansión familiar, un juego se vuelve mortal en esta historia de puñaladas por la espalda, falsos amigos y una velada que sale muy, muy mal.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedia",
-        "Misterio",
-        "Terror"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt8633464",
-      "type": "movie",
-      "name": "Despidiendo a Yang",
-      "poster": "https://image.tmdb.org/t/p/w500/7POMD21p0ISkSPY3GRv9qkefStF.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/2kj6FOo0B9NtCen1Ta7LoaPW9wG.jpg",
-      "description": "Un hombre y su hija intentan salvar por todos los medios posibles la vida de Yang, un robot mitad asistente y mitad niñera, al que consideran un miembro más de su familia.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Ciencia ficción",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt4695012",
-      "type": "movie",
-      "name": "Viene de noche",
-      "poster": "https://image.tmdb.org/t/p/w500/6Qr6KPW7Z1FXAAMbV0SEOImBctd.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/6h9pjTsWzaUWuUszHHbeI1JWE1.jpg",
-      "description": "Una familia vive en una casa desolada en el bosque para protegerse de una amenaza que aterroriza al mundo. El hogar se verá afectado cuando una familia llega en busca de refugio. Aun así, el padre hará todo lo posible para proteger a los suyos de una presencia diabólica que amenaza con destruir sus vidas.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "Terror",
-        "Misterio"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt35524793",
-      "type": "movie",
-      "name": "El Momento",
-      "poster": "https://image.tmdb.org/t/p/w500/zgbjNx4RAMivZ1ZlFrRC356caL9.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
-      "description": "Una cantante pop afronta la fama reciente y las presiones de la industria musical mientras prepara su primera gira en estadios.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Música",
-        "Comedia",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.3"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10986222",
-      "type": "movie",
-      "name": "C’mon C’mon: Siempre adelante",
-      "poster": "https://image.tmdb.org/t/p/w500/vXp02XiRgSPMBOmntU2ST5WQ8ik.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/zs1I3ZFUDEWa5rFyph7OrMH1aJ9.jpg",
-      "description": "Johnny (Joaquin Phoenix) es un periodista radiofónico que se embarca en un viaje a través del país con su pequeño sobrino (Woody Norman). Premiere: en septiembre en el Festival de Telluride.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt6160448",
-      "type": "movie",
-      "name": "Ruido de Fondo",
-      "poster": "https://image.tmdb.org/t/p/w500/9RiDRGuEz3Qu7q3iOGs1ckLhvZb.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/4QB2TfxmzgMDLmsVVk1HM4tt7ef.jpg",
-      "description": "Jack Gladney, profesor de estudios en Hitler en la Universidad en la colina, esposo de Babette y padre de cuatro hijos e hijastros, es alcanzado por un derrame químico de un vagón de tren que libera un \"elemento tóxico en el aire\", lo que obliga a Jack a enfrentar su mayor temor: su propia mortalidad.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt29929565",
-      "type": "movie",
-      "name": "Opus",
-      "poster": "https://image.tmdb.org/t/p/w500/5KPh4GB1Vng9g9QOhvXCTtMAEc.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
-      "description": "Una joven escritora es invitada a la remota casa de una legendaria estrella del pop que desapareció misteriosamente hace treinta años. Rodeada por el culto de aduladores y periodistas borrachos de la estrella, se encuentra en medio de su perverso plan.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt34718200",
-      "type": "movie",
-      "name": "El Gran Debut",
-      "poster": "https://image.tmdb.org/t/p/w500/n1JWZlpOZmNMF2mCoRbatRfHMXT.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
-      "description": "Una mujer tímida que inesperadamente es elegida para participar en una producción musical local se pierde en el papel bajo el hechizo del director, de carácter fuerte, y se sumerge en el arriesgado mundo del teatro comunitario.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Música",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt10023286",
-      "type": "movie",
-      "name": "The Humans",
-      "poster": "https://image.tmdb.org/t/p/w500/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/xVZijHBpoQCuH1RjLDmDHjwrCzM.jpg",
-      "description": "Erik Blake ha reunido a tres generaciones de su familia de Pensilvania para celebrar el Día de Acción de Gracias en el apartamento de su hija en el bajo Manhattan. A medida que la oscuridad cae afuera y las cosas espeluznantes comienzan a surgir en la noche, los temores más profundos del grupo quedan al descubierto.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10192406",
-      "type": "movie",
-      "name": "Resurgir",
-      "poster": "https://image.tmdb.org/t/p/w500/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/e3GJaLTXrKzFAMB2kIQtzgadBHw.jpg",
-      "description": "Una soldado estadounidense (Jennifer Lawrence) es herida en combate en Afganistán y sufre daño cerebral, tras lo cual vuelve a su casa de Nueva Orleans donde luchará por recuperarse.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt5613484",
-      "type": "movie",
-      "name": "en los 90s",
-      "poster": "https://image.tmdb.org/t/p/w500/fzbNK9ZCv82hdHJIHcZmgP9sKYN.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/BOeORWljjIPGuCwUgLls24ctF3.jpg",
-      "description": "Stevie, un chico de 13 años que vive en el Los Ángeles de los años 90, pasa el verano lidiando con los problemas de su vida doméstica y divirtiéndose con su nuevo grupo de amigos, que ha conocido en una tienda de skate.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.5"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt34963034",
-      "type": "movie",
-      "name": "André Is an Idiot",
-      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/yf7OJzxWAg0LRFUMyp0Jpa2sRKY.jpg",
-      "description": "André, a brilliant idiot, is dying because he didn’t get a colonoscopy. His sobering diagnosis, complete irreverence, and insatiable curiosity, send him on an unexpected journey learning how to die happily and ridiculously without losing his sense of humor.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.3"
           }
         }
       }
@@ -1141,122 +609,17 @@
       }
     },
     {
-      "id": "tt12573454",
+      "id": "tt15574270",
       "type": "movie",
-      "name": "Sharper: Un plan perfecto",
-      "poster": "https://image.tmdb.org/t/p/w500/zrU5uN3plB7EQK9BLbOqKD6Z9aZ.jpg",
+      "name": "Vi el brillo del televisor",
+      "poster": "https://image.tmdb.org/t/p/w500/6KeQT6HS9AyWQS2OrPGzoCLHNgb.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
-      "description": "Este largometraje se desarrolla dentro de los secretos de la ciudad de Nueva York, desde los penthouses de la Quinta Avenida hasta los oscuros rincones de Queens. Las motivaciones resultan sospechosas y las expectativas dan un vuelco cuando nada es lo que parece.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Crimen",
-        "Suspense"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt13841850",
-      "type": "movie",
-      "name": "Men: Terror en las sombras",
-      "poster": "https://image.tmdb.org/t/p/w500/8bcHelHF3TZcBQtfvXsKOmfjhPc.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/4N2FuCTuqH3h4dw9XPFtsnDPSz7.jpg",
-      "description": "Tras sufrir una tragedia personal, Harper (Jessie Buckley) se retira sola a la hermosa campiña inglesa, con la esperanza de haber encontrado el lugar ideal para curarse. Pero algo o alguien parece estar acechándola. Lo que comienza como un pavor latente terminará convirtiéndose en una auténtica pesadilla, habitada por sus recuerdos y miedos más oscuros.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Fantasía"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt2201261",
-      "type": "movie",
-      "name": "El cielo está en cualquier lugar",
-      "poster": "https://image.tmdb.org/t/p/w500/t7gkTKPJ5lssacKTrhA3gOU1n0s.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/4V5EWfD7ydCF2sZlePaWar7zVOd.jpg",
-      "description": "Lennie es una adolescente y prodigio musical que vive el duelo de la muerte de su hermana, y a la vez se ve dividida entre un chico nuevo en la escuela y el devastado novio de su hermana. Mediante su vívida imaginación y su corazón conflictuado, Lennie se enfrenta al primer amor y a la primera pérdida.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Música"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt13923216",
-      "type": "movie",
-      "name": "Showing Up",
-      "poster": "https://image.tmdb.org/t/p/w500/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/wFZ0b8r8pGLubLUFO2SoNGzyRbp.jpg",
-      "description": "Antes de la inauguración de su exposición, se retrata el día a día de una artista y su relación con los demás. El caos de su vida se convertirá en su fuente de inspiración.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt11534720",
-      "type": "movie",
-      "name": "All Dirt Roads Taste of Salt",
-      "poster": "https://image.tmdb.org/t/p/w500/m1Rap5zhPUBctPcX8h7TBFJQth4.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/p65KvZIFrlYxB3LZU2e5WtYvmfZ.jpg",
-      "description": "Una exploración a lo largo de décadas de la vida de una mujer en Mississippi y una oda a las generaciones de personas, lugares y momentos inefables que nos conforman.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt28366692",
-      "type": "movie",
-      "name": "Janet Planet",
-      "poster": "https://image.tmdb.org/t/p/w500/taB7tftLYfMFNAu4wMriqrz70QY.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/fuv2TxJb1retWu3XMwsVJqm8ylr.jpg",
-      "description": "Durante un verano de 1991 en el oeste de Massachusetts, tres personas entran en las vidas de Lacy, de 11 años, y su madre Janet.",
+      "background": "https://image.tmdb.org/t/p/w1280/jKulL2hdp5S7dVbpoItAtdCyzXI.jpg",
+      "description": "Dos adolescentes comparten su amor por una serie de televisión de terror, pero esta se cancela misteriosamente.",
       "releaseInfo": "2024",
       "genres": [
-        "Drama"
+        "Drama",
+        "Terror"
       ],
       "app_extras": {
         "ratings": {
@@ -1267,77 +630,79 @@
       }
     },
     {
-      "id": "tt8652728",
+      "id": "tt21097228",
       "type": "movie",
-      "name": "Las Olas",
-      "poster": "https://image.tmdb.org/t/p/w500/zsMsvHN3SDhaJiDYcnFyF2zjBd6.jpg",
+      "name": "Un Hombre Diferente",
+      "poster": "https://image.tmdb.org/t/p/w500/x8nynAOohBR0fWp8TEVtdr34jzo.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/jQ06O9JAFN0VfDS4ezE09pfoj2h.jpg",
-      "description": "Traza el viaje de una familia afroamericana suburbana, liderada por un padre bien intencionado pero dominante, mientras navegan por el amor, el perdón y la unión después de una pérdida.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt4353250",
-      "type": "movie",
-      "name": "The Last Black Man in San Francisco",
-      "poster": "https://image.tmdb.org/t/p/w500/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/n0FzDpOvVhkj3uN7WHXXnAXOKFi.jpg",
-      "description": "Jimmie Fails (Jimmie Fails) sueña con volver a tener la casa victoriana que su abuelo construyó en el corazón de San Francisco. Cada semana, él y Montgomery (Jonathan Majors), su único amigo, realizan un peregrinaje hacia la casa e imaginan qué habría sucedido si el barrio no hubiese cambiado. Cuando un día Jimmie ve la oportunidad de tratar de volver a conectar con sus raíces familiares y de pertenecer a la comunidad que tanto echa de menos, el joven muchacho vive totalmente ajeno a la realidad del mundo que le rodea.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt21905744",
-      "type": "movie",
-      "name": "La habitación del frente",
-      "poster": "https://image.tmdb.org/t/p/w500/vuNoHG9DkJ6TYxAKvRf46CklK5e.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/86vpf0kTFk0epGRJpyemNNQbWmS.jpg",
-      "description": "Cuenta la historia de una pareja recién embarazada que se ve obligada a acoger a una madrastra enferma y distanciada. Cuenta la historia de una pareja recién embarazada que se ve obligada a acoger a una madrastra enferma y distanciada.",
+      "background": "https://image.tmdb.org/t/p/w1280/xSqaVqkbeSaPmeEyurWBaTSkgL9.jpg",
+      "description": "El aspirante a actor Edward se somete a un procedimiento médico radical para transformar drásticamente su apariencia. Pero el nuevo rostro de sus sueños se convierte rápidamente en una pesadilla, ya que pierde el papel para el que nació y se obsesiona con recuperar lo perdido.",
       "releaseInfo": "2024",
       "genres": [
-        "Terror"
+        "Comedia",
+        "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "5.1"
+            "rating": "6.9"
           }
         }
       }
     },
     {
-      "id": "tt10375396",
+      "id": "tt14682800",
       "type": "movie",
-      "name": "Criaturas de Dios",
-      "poster": "https://image.tmdb.org/t/p/w500/nS82UU0W7BuBDXoVlEtPVWY3mPg.jpg",
+      "name": "Tuesday, Abrazando La Vida",
+      "poster": "https://image.tmdb.org/t/p/w500/aVFgxDiBPFaXpbRKCDTosTBR39K.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/srCp0GBqeTOCtPprRoPjzJX4XQl.jpg",
-      "description": "En un pueblo de pescadores irlandés azotado por la lluvia, una madre miente para proteger a su hijo. Esa decisión tiene un impacto devastador en su comunidad, en su familia y en ella misma.",
-      "releaseInfo": "2022",
+      "background": "https://image.tmdb.org/t/p/w1280/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
+      "description": "Una madre y su hija adolescente se enfrentan a la muerte cuando ésta aparece en forma de un sorprendente pájaro parlante.",
+      "releaseInfo": "2024",
       "genres": [
+        "Fantasía",
         "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt29644446",
+      "type": "movie",
+      "name": "The Sixth",
+      "poster": "https://image.tmdb.org/t/p/w500/asDTwKxL6OHcLacEIbHOqowf3eX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/diGLwPJ79qlDBL3a8rE1Zf5GEnE.jpg",
+      "description": "The Sixth is a visceral intersection of six extraordinary Americans whose lives will be forever changed by the attack on the United States Capitol on January 6, 2021.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31039503",
+      "type": "movie",
+      "name": "Ramy Youssef: Más sentimientos",
+      "poster": "https://image.tmdb.org/t/p/w500/ewzAkp88a6xc8WOs7bDlEFaydMt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8rQRItGmRYJC1N4Z5meZQa2kRfa.jpg",
+      "description": "El ganador del Globo de Oro®, Ramy Youssef, regresa al escenario para ofrecer sus reflexiones sobre temas grandes y pequeños, desde eventos globales hasta un informe escolar que cambió su vida... todo con su característico estilo relajado.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedia",
+        "Película de TV"
       ],
       "app_extras": {
         "ratings": {
@@ -1368,21 +733,331 @@
       }
     },
     {
-      "id": "tt13495458",
+      "id": "tt29649645",
       "type": "movie",
-      "name": "La inspección",
-      "poster": "https://image.tmdb.org/t/p/w500/g0TDsnWxdVyWo6jCYY0DwZjf9UO.jpg",
+      "name": "Open Wide",
+      "poster": "https://image.tmdb.org/t/p/w500/ba0vZOv8Gv0MmsM0GkCGvFQp0Dr.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/lLaeFLQNsZ11zG3LTSczD3YNLad.jpg",
-      "description": "Ellis Francés es un joven negro gay, rechazado por su madre y con pocas opciones para su futuro, decide unirse a la Marina, haciendo lo que sea necesario para tener éxito en un sistema que lo dejaría de lado. Pero incluso mientras lucha contra los prejuicios profundamente arraigados y las rutinas extenuantes del entrenamiento básico, encuentra camaradería, fuerza y apoyo inesperados en esta nueva comunidad, lo que le da un sentido de pertenencia ganado con tanto esfuerzo que moldeará su identidad y cambiará su vida para siempre.",
-      "releaseInfo": "2022",
+      "background": "https://image.tmdb.org/t/p/w1280/9dmX3Cc7J2TjMI5Ujmk9Y7cRHnd.jpg",
+      "description": "Las extravagantes teorías sobre ortodoncia de John y Mike Mew han encontrado un público apasionado en Internet, pero ahora Mike debe luchar contra la clase dirigente para mantener su consulta.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32083311",
+      "type": "movie",
+      "name": "On Becoming a Guinea Fowl",
+      "poster": "https://image.tmdb.org/t/p/w500/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
+      "description": "On an empty road in the middle of the night, Shula stumbles across the body of her uncle. As funeral proceedings begin around them, she and her cousins bring to light the buried secrets of their middle-class Zambian family.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt22048412",
+      "type": "movie",
+      "name": "MaXXXine",
+      "poster": "https://image.tmdb.org/t/p/w500/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+      "description": "En los años 80 en Hollywood, la estrella de cine para adultos y aspirante a actriz Maxine Minx finalmente obtiene su gran oportunidad. Pero cuando un misterioso asesino acecha a las estrellas de Hollywood, un rastro de sangre amenaza con revelar su siniestro pasado.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt19121796",
+      "type": "movie",
+      "name": "Look into My Eyes",
+      "poster": "https://image.tmdb.org/t/p/w500/mp1UYL6Z8A5aMbQQKxyWPWwNJkU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/crF6INgzwVsbuFqzszjntvCP3TC.jpg",
+      "description": "Film que documenta una serie de sesiones íntimas con videntes y sus clientes, gente interesada en conectar con seres que ya no están. La película no trata de desenmascarar ni de dar crédito a los médiums, simplemente se limita a mostrar las sesiones y el impacto que tienen en los videntes y en sus terapias con sus clientes.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14093994",
+      "type": "movie",
+      "name": "Las últimas mujeres del mar",
+      "poster": "https://image.tmdb.org/t/p/w500/lP9PPT3CJrfFVeon4anExuTjy93.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iZhgYcM1Df4KScSac9BryKtC9PN.jpg",
+      "description": "En las costas de la isla de Jeju, un valiente grupo de buceadoras surcoreanas lucha por salvar su cultura en extinción de las amenazas inminentes.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21905744",
+      "type": "movie",
+      "name": "La habitación del frente",
+      "poster": "https://image.tmdb.org/t/p/w500/vuNoHG9DkJ6TYxAKvRf46CklK5e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/86vpf0kTFk0epGRJpyemNNQbWmS.jpg",
+      "description": "Cuenta la historia de una pareja recién embarazada que se ve obligada a acoger a una madrastra enferma y distanciada. Cuenta la historia de una pareja recién embarazada que se ve obligada a acoger a una madrastra enferma y distanciada.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30841122",
+      "type": "movie",
+      "name": "Jenny Slate: Seasoned Professional",
+      "poster": "https://image.tmdb.org/t/p/w500/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jcemCvJPIqEEBaNvFeaGCCOBu2Z.jpg",
+      "description": "Slate afirma que ser valiente por amor merece la pena, ya se trate de un embarazo inesperado, de buscar un terapeuta o de confiar en una pareja con la que uno se siente vulnerable.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28366692",
+      "type": "movie",
+      "name": "Janet Planet",
+      "poster": "https://image.tmdb.org/t/p/w500/taB7tftLYfMFNAu4wMriqrz70QY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fuv2TxJb1retWu3XMwsVJqm8ylr.jpg",
+      "description": "Durante un verano de 1991 en el oeste de Massachusetts, tres personas entran en las vidas de Lacy, de 11 años, y su madre Janet.",
+      "releaseInfo": "2024",
       "genres": [
         "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.1"
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28015403",
+      "type": "movie",
+      "name": "Hereje",
+      "poster": "https://image.tmdb.org/t/p/w500/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+      "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt17279496",
+      "type": "movie",
+      "name": "Guerra Civil",
+      "poster": "https://image.tmdb.org/t/p/w500/rLyuE271bVhhRMTjukRNXkWTg6C.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t2SXZ7KLriaLyf5QT8Iar6fSOGp.jpg",
+      "description": "En un futuro cercano, un grupo de periodistas de guerra intenta sobrevivir mientras informan la verdad mientras Estados Unidos se encuentra al borde de una guerra civil.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Bélica",
+        "Acción",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30057084",
+      "type": "movie",
+      "name": "Babygirl: Deseo Prohibido",
+      "poster": "https://image.tmdb.org/t/p/w500/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
+      "description": "Romy es una alta ejecutiva que inicia una ardiente aventura de sexo extremo con su joven becario, Samuel a espaldas de su marido Jacob. Romy invertirá su rol habitual en el trabajo, pasando de ser quien da las órdenes a disfrutar siendo sometida en la cama. Esta tórrida relación extramatrimonial le permitirá encontrar el camino hacia su libertad sexual, a pesar del riesgo y los prejuicios.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18346498",
+      "type": "movie",
+      "name": "Architecton",
+      "poster": "https://image.tmdb.org/t/p/w500/ko5fY3Y05u3rRFQUXNGyRybnxqT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9Sl9oyD2rrFKbCWvWiHQifwOoTn.jpg",
+      "description": "An extraordinary journey through the material that makes up our habitat: concrete and its ancestor, stone. Victor Kossakovsky raises a fundamental question: how do we inhabit the world of tomorrow?",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt19637052",
+      "type": "movie",
+      "name": "Amor, Mentiras y Sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/GG2PW2j0Vk7ynWGDv7LC3ngoQm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oMiKHO3H5RixfLsiU5Vumhlp5sj.jpg",
+      "description": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una competición. En su camino, pasa por un pequeño pueblo de Nuevo México donde conoce a Lou, la solitaria gerente del gimnasio local. El padre de Lou es traficante de armas y lleva las riendas de un sindicato del crimen. Jackie y Lou se enamoran. Pero su relación provoca violencia y ambas se ven inmersas en las maquinaciones de la familia de Lou.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Crimen",
+        "Romance",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7160372",
+      "type": "movie",
+      "name": "Zona de Interés",
+      "poster": "https://image.tmdb.org/t/p/w500/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+      "description": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13238346",
+      "type": "movie",
+      "name": "Vidas Pasadas",
+      "poster": "https://image.tmdb.org/t/p/w500/z34UKyOAONFN54O340rL1dQRHKa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+      "description": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31829513",
+      "type": "movie",
+      "name": "The Making of Priscilla",
+      "poster": "https://image.tmdb.org/t/p/w500/M6l7c0dNShjIdg4jyKlH1p3Izf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/AdKp7mgM2VyEy3mv270ZuKYbP2w.jpg",
+      "description": "An exclusive, behind-the-scenes look at Sofia Coppola’s Priscilla, Liv McNeil’s documentary sparkles with an infectious enthusiasm for the magic of cinema. From visual moodboards to the creation of Graceland, this engaging short reveals the extraordinary craft behind the making of a dark fairytale.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
           }
         }
       }
@@ -1408,21 +1083,125 @@
       }
     },
     {
-      "id": "tt14093994",
+      "id": "tt13923216",
       "type": "movie",
-      "name": "Las últimas mujeres del mar",
-      "poster": "https://image.tmdb.org/t/p/w500/lP9PPT3CJrfFVeon4anExuTjy93.jpg",
+      "name": "Showing Up",
+      "poster": "https://image.tmdb.org/t/p/w500/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/iZhgYcM1Df4KScSac9BryKtC9PN.jpg",
-      "description": "En las costas de la isla de Jeju, un valiente grupo de buceadoras surcoreanas lucha por salvar su cultura en extinción de las amenazas inminentes.",
-      "releaseInfo": "2024",
+      "background": "https://image.tmdb.org/t/p/w1280/wFZ0b8r8pGLubLUFO2SoNGzyRbp.jpg",
+      "description": "Antes de la inauguración de su exposición, se retrata el día a día de una artista y su relación con los demás. El caos de su vida se convertirá en su fuente de inspiración.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12573454",
+      "type": "movie",
+      "name": "Sharper: Un plan perfecto",
+      "poster": "https://image.tmdb.org/t/p/w500/zrU5uN3plB7EQK9BLbOqKD6Z9aZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+      "description": "Este largometraje se desarrolla dentro de los secretos de la ciudad de Nueva York, desde los penthouses de la Quinta Avenida hasta los oscuros rincones de Queens. Las motivaciones resultan sospechosas y las expectativas dan un vuelco cuando nada es lo que parece.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Crimen",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt24132732",
+      "type": "movie",
+      "name": "La inspiración más profunda",
+      "poster": "https://image.tmdb.org/t/p/w500/rl4AkmB2nAMaTaYZQV0pwesOz3e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8J0gmuwmq8z7TI4YuWDTclHoB75.jpg",
+      "description": "Unidos por su amor a la apnea, una campeona de buceo y un heroico buzo de seguridad intentan hacer historia..., y están dispuestos a arriesgarlo todo.",
+      "releaseInfo": "2023",
       "genres": [
         "Documental"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "7.2"
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21064584",
+      "type": "movie",
+      "name": "Garra de Hierro",
+      "poster": "https://image.tmdb.org/t/p/w500/bsw7Bxhm2eYHzdEOTI0yHi7N3jl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+      "description": "Sigue la historia de los Von Erich, una dinastía de luchadores que tuvo un gran impacto en el deporte desde la década de 1960 hasta la actualidad.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21942866",
+      "type": "movie",
+      "name": "El Hombre de Los Sueños",
+      "poster": "https://image.tmdb.org/t/p/w500/8LJVauVacKhi0xuUa8aKTPGn4pW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2WRe1y5S1jGWTKUcSPPmD1Ixq56.jpg",
+      "description": "El desafortunado hombre de familia Paul Matthews encuentra su vida patas arriba cuando millones de extraños de repente comienzan a verlo en sus sueños. Pero cuando sus apariciones nocturnas toman un giro de pesadilla, Paul se ve obligado a navegar por su nuevo estrellato.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18382328",
+      "type": "movie",
+      "name": "Earth Mama",
+      "poster": "https://image.tmdb.org/t/p/w500/pA20kQaKxPvUbPeXyyc6ENJEEuN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nLQ7jOeBmCQEETS3FCtZDWvYYtA.jpg",
+      "description": "Gia, una joven madre embarazada con dos hijos en acogida, debe decidir cómo retomar el control del futuro de sus hijos para que su hijo nonato no tenga que ser acogido también.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
           }
         }
       }
@@ -1449,110 +1228,21 @@
       }
     },
     {
-      "id": "tt14682800",
+      "id": "tt9573150",
       "type": "movie",
-      "name": "Tuesday, Abrazando La Vida",
-      "poster": "https://image.tmdb.org/t/p/w500/aVFgxDiBPFaXpbRKCDTosTBR39K.jpg",
+      "name": "De Bezette Stad",
+      "poster": "https://image.tmdb.org/t/p/w500/vPQ3NWx8FohkN1fY6pBsckWmxyN.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
-      "description": "Una madre y su hija adolescente se enfrentan a la muerte cuando ésta aparece en forma de un sorprendente pájaro parlante.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Fantasía",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.8"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt39635043",
-      "type": "movie",
-      "name": "The Texas Chainsaw Massacre",
-      "poster": "https://image.tmdb.org/t/p/w500/iH2dwaYfIYnfQ2zGJ1xyO92QSOz.jpg",
-      "posterShape": "poster",
-      "description": "The tenth installment in the Texas Chainsaw Massacre franchise. Plot details TBA.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "id": "tt31039503",
-      "type": "movie",
-      "name": "Ramy Youssef: Más sentimientos",
-      "poster": "https://image.tmdb.org/t/p/w500/ewzAkp88a6xc8WOs7bDlEFaydMt.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/8rQRItGmRYJC1N4Z5meZQa2kRfa.jpg",
-      "description": "El ganador del Globo de Oro®, Ramy Youssef, regresa al escenario para ofrecer sus reflexiones sobre temas grandes y pequeños, desde eventos globales hasta un informe escolar que cambió su vida... todo con su característico estilo relajado.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedia",
-        "Película de TV"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt37360759",
-      "type": "movie",
-      "name": "Slayground",
-      "poster": "https://image.tmdb.org/t/p/w500/85JcCat1n2fizmf5fgAJTn5n49s.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/lE9pX6hPaiwsKgomIHn4gFU150o.jpg",
-      "description": "On the week of Halloween, the primary suspect in a mass murder investigation escapes police custody and goes on the run, attempting to prove his innocence while becoming the target of a massive manhunt.",
-      "releaseInfo": "2027",
-      "genres": [
-        "Acción",
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "id": "tt14731254",
-      "type": "movie",
-      "name": "Val",
-      "poster": "https://image.tmdb.org/t/p/w500/vWJKmfmjpkFeTbUGep6t7w5TexA.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/gV2wSIlNMIUxEArKYrTF2NX4tjb.jpg",
-      "description": "Durante más de 40 años, Val Kilmer, uno de los actores más volubles y/o incomprendidos de Hollywood, ha estado documentando su propia vida y su oficio a través de películas y vídeos. Ha acumulado miles de horas de metraje, desde películas caseras de 16 mm realizadas con sus hermanos hasta el tiempo dedicado a papeles icónicos en películas taquilleras como Top Gun, The Doors, Tombstone y Batman Forever. Este documental crudo, tremendamente original e inquebrantable revela una vida vivida hasta los extremos y una mirada llena de corazón, a veces hilarante, sobre lo que significa ser un artista y un hombre complejo.",
-      "releaseInfo": "2021",
+      "background": "https://image.tmdb.org/t/p/w1280/dpaRhhMQe1l1mpTSw3OTUuIObG4.jpg",
+      "description": "The past collides with the present in this excavation of the Nazi occupation of Amsterdam: a journey from World War II to recent years of pandemic and protest and a provocative, life-affirming reflection on memory, time and what's to come.",
+      "releaseInfo": "2023",
       "genres": [
         "Documental"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "7.2"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt18382328",
-      "type": "movie",
-      "name": "Earth Mama",
-      "poster": "https://image.tmdb.org/t/p/w500/pA20kQaKxPvUbPeXyyc6ENJEEuN.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/nLQ7jOeBmCQEETS3FCtZDWvYYtA.jpg",
-      "description": "Gia, una joven madre embarazada con dos hijos en acogida, debe decidir cómo retomar el control del futuro de sus hijos para que su hijo nonato no tenga que ser acogido también.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.7"
+            "rating": "6.6"
           }
         }
       }
@@ -1579,31 +1269,245 @@
       }
     },
     {
-      "id": "tt34385184",
+      "id": "tt13521006",
       "type": "movie",
-      "name": "Misty Green",
-      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "name": "Beau tiene miedo",
+      "poster": "https://image.tmdb.org/t/p/w500/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
-      "description": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ]
-    },
-    {
-      "id": "tt9356952",
-      "type": "movie",
-      "name": "La muerte de Dick Long",
-      "poster": "https://image.tmdb.org/t/p/w500/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/gTNCO9iTeOq9m4pyUZwNoMCvdGf.jpg",
-      "description": "Tras participar en el ensayo de su grupo de música, el mejor amigo de Zeke y Earl muere sin motivo aparente, por lo que sus compañeros deciden no contarle a nadie lo que ha sucedido. Claro que su empresa es difícil: las noticias vuelan en un pequeño pueblo de Alabama, y estos chicos no son precisamente unos expertos a la hora de cubrir sus huellas. Las autoridades aún no han podido identificar el cadáver, pero la mujer de Zeke y su hija comienzan a sospechar que algo huele a podrido. Y no es precisamente Dick.",
-      "releaseInfo": "2019",
+      "background": "https://image.tmdb.org/t/p/w1280/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
+      "description": "Beau es un hombre que tendrá que enfrentarse a sus miedos y paranoias al aventurarse en una épica odisea para llegar a casa de su controladora madre.",
+      "releaseInfo": "2023",
       "genres": [
         "Comedia",
-        "Crimen",
+        "Aventura",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11534720",
+      "type": "movie",
+      "name": "All Dirt Roads Taste of Salt",
+      "poster": "https://image.tmdb.org/t/p/w500/m1Rap5zhPUBctPcX8h7TBFJQth4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/p65KvZIFrlYxB3LZU2e5WtYvmfZ.jpg",
+      "description": "Una exploración a lo largo de décadas de la vida de una mujer en Mississippi y una oda a las generaciones de personas, lugares y momentos inefables que nos conforman.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13560574",
+      "type": "movie",
+      "name": "X",
+      "poster": "https://image.tmdb.org/t/p/w500/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
+      "description": "En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt19266900",
+      "type": "movie",
+      "name": "Would It Kill You to Laugh? Starring Kate Berlant + John Early",
+      "poster": "https://image.tmdb.org/t/p/w500/nNdAhOyXuv5ib1EBQeuoOAsnd0l.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/q6P3mM34EKndJ8SjsTiD4mJOFNI.jpg",
+      "description": "Presenta a Kate Berlant y John Early, que interpretan versiones exageradas de sí mismos y se reúnen después de haber sufrido una ruptura pública hace varios años",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6710474",
+      "type": "movie",
+      "name": "Todo en Todas Partes al Mismo Tiempo",
+      "poster": "https://image.tmdb.org/t/p/w500/vbR5YirdyIQyLzWHALmdDAJshWC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+      "description": "Cuando una ruptura interdimensional altera la realidad, Evelyn Wang, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que solo ella puede salvar el mundo.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt23950956",
+      "type": "movie",
+      "name": "This Place Rules",
+      "poster": "https://image.tmdb.org/t/p/w500/9Kml8c7L1IySs1g8Q9v8l1EPS1J.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xqP1GCgijXQol2JFrAFFt5jixJI.jpg",
+      "description": "Acontecimientos y personajes que rodearon la insurrección del 6 de enero de 2021 del edificio de la capital de Estados Unidos en los días previos al atentado.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6160448",
+      "type": "movie",
+      "name": "Ruido de Fondo",
+      "poster": "https://image.tmdb.org/t/p/w500/9RiDRGuEz3Qu7q3iOGs1ckLhvZb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4QB2TfxmzgMDLmsVVk1HM4tt7ef.jpg",
+      "description": "Jack Gladney, profesor de estudios en Hitler en la Universidad en la colina, esposo de Babette y padre de cuatro hijos e hijastros, es alcanzado por un derrame químico de un vagón de tren que libera un \"elemento tóxico en el aire\", lo que obliga a Jack a enfrentar su mayor temor: su propia mortalidad.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10192406",
+      "type": "movie",
+      "name": "Resurgir",
+      "poster": "https://image.tmdb.org/t/p/w500/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/e3GJaLTXrKzFAMB2kIQtzgadBHw.jpg",
+      "description": "Una soldado estadounidense (Jennifer Lawrence) es herida en combate en Afganistán y sufre daño cerebral, tras lo cual vuelve a su casa de Nueva Orleans donde luchará por recuperarse.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18925334",
+      "type": "movie",
+      "name": "Pearl",
+      "poster": "https://image.tmdb.org/t/p/w500/orYlKu8i5NRdbdhSXWg1cbRn3eB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
+      "description": "Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre, deseando una vida glamorosa como la que ha visto en las películas. Precuela de 'X' (2022) centrada en los orígenes del personaje de Pearl (Mia Goth).",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8110652",
+      "type": "movie",
+      "name": "Muerte muerte muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/lypI7oQ8Ko4LiE4oGWclYNIIi16.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qYCl28dMJwRTzlbteTrW75szZPN.jpg",
+      "description": "Cuando un grupo de veinteañeros adinerados planea una fiesta del huracán en una remota mansión familiar, un juego se vuelve mortal en esta historia de puñaladas por la espalda, falsos amigos y una velada que sale muy, muy mal.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedia",
+        "Misterio",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13841850",
+      "type": "movie",
+      "name": "Men: Terror en las sombras",
+      "poster": "https://image.tmdb.org/t/p/w500/8bcHelHF3TZcBQtfvXsKOmfjhPc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4N2FuCTuqH3h4dw9XPFtsnDPSz7.jpg",
+      "description": "Tras sufrir una tragedia personal, Harper (Jessie Buckley) se retira sola a la hermosa campiña inglesa, con la esperanza de haber encontrado el lugar ideal para curarse. Pero algo o alguien parece estar acechándola. Lo que comienza como un pavor latente terminará convirtiéndose en una auténtica pesadilla, habitada por sus recuerdos y miedos más oscuros.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13495458",
+      "type": "movie",
+      "name": "La inspección",
+      "poster": "https://image.tmdb.org/t/p/w500/g0TDsnWxdVyWo6jCYY0DwZjf9UO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lLaeFLQNsZ11zG3LTSczD3YNLad.jpg",
+      "description": "Ellis Francés es un joven negro gay, rechazado por su madre y con pocas opciones para su futuro, decide unirse a la Marina, haciendo lo que sea necesario para tener éxito en un sistema que lo dejaría de lado. Pero incluso mientras lucha contra los prejuicios profundamente arraigados y las rutinas extenuantes del entrenamiento básico, encuentra camaradería, fuerza y apoyo inesperados en esta nueva comunidad, lo que le da un sentido de pertenencia ganado con tanto esfuerzo que moldeará su identidad y cambiará su vida para siempre.",
+      "releaseInfo": "2022",
+      "genres": [
         "Drama"
       ],
       "app_extras": {
@@ -1615,77 +1519,42 @@
       }
     },
     {
-      "id": "tt24132732",
+      "id": "tt13833688",
       "type": "movie",
-      "name": "La inspiración más profunda",
-      "poster": "https://image.tmdb.org/t/p/w500/rl4AkmB2nAMaTaYZQV0pwesOz3e.jpg",
+      "name": "La Ballena",
+      "poster": "https://image.tmdb.org/t/p/w500/3cgOB3d3YA8OlYibhO3NH5aCJxG.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/8J0gmuwmq8z7TI4YuWDTclHoB75.jpg",
-      "description": "Unidos por su amor a la apnea, una campeona de buceo y un heroico buzo de seguridad intentan hacer historia..., y están dispuestos a arriesgarlo todo.",
-      "releaseInfo": "2023",
+      "background": "https://image.tmdb.org/t/p/w1280/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
+      "description": "Un profesor de inglés solitario que sufre de obesidad severa intenta volver a conectarse con su hija adolescente separada para tener una última oportunidad de redención.",
+      "releaseInfo": "2022",
       "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt39150922",
-      "type": "movie",
-      "name": "Nuisance Bear",
-      "poster": "https://image.tmdb.org/t/p/w500/An1QdmHWNxX2V03kq3akOCid69r.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/hqDiQteXWMoyezEmbPy0nRYdUST.jpg",
-      "description": "A polar bear is forced to navigate a human world of tourists, wildlife officers, and hunters as its ancient migration collides with modern life. When a sacred predator is branded a nuisance, it becomes unclear who truly belongs in this shared landscape.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
-      "id": "tt32083311",
-      "type": "movie",
-      "name": "On Becoming a Guinea Fowl",
-      "poster": "https://image.tmdb.org/t/p/w500/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
-      "description": "On an empty road in the middle of the night, Shula stumbles across the body of her uncle. As funeral proceedings begin around them, she and her cousins bring to light the buried secrets of their middle-class Zambian family.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedia",
         "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "7.6"
+            "rating": "7.8"
           }
         }
       }
     },
     {
-      "id": "tt5770620",
+      "id": "tt11764342",
       "type": "movie",
-      "name": "Los amantes",
-      "poster": "https://image.tmdb.org/t/p/w500/tRWza39fHyef12FvScIBduaHMi6.jpg",
+      "name": "Jerry Lee Lewis: Trouble in Mind",
+      "poster": "https://image.tmdb.org/t/p/w500/A5rLX2MgUMAsdpT0Jbd7c1JiSM8.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/3PezXrFmOQhGkDcsmRj9nlwKgFn.jpg",
-      "description": "Un matrimonio de muchos años, ya sin pasión, quienes están en el medio de serios amoríos y en el borde del divorcio, se dan cuenta que una chispa inesperada vuelve a encenderse, llevándolos a un impulsivo romance.",
-      "releaseInfo": "2017",
+      "background": "https://image.tmdb.org/t/p/w1280/w2kzNhdET87IrGA2ciRDQsNuEdV.jpg",
+      "description": "An electrifying glimpse into the complex life and thrilling, unparalleled performances of rock and roll's first and wildest practitioner: Jerry Lee Lewis.",
+      "releaseInfo": "2022",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
+        "Documental",
+        "Música"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "5.4"
+            "rating": "6.4"
           }
         }
       }
@@ -1712,53 +1581,256 @@
       }
     },
     {
-      "id": "tt37898908",
+      "id": "tt2201261",
       "type": "movie",
-      "name": "The Chaperones",
-      "poster": "https://image.tmdb.org/t/p/w500/cerSsamrPF0rlyu835sjCMddd5s.jpg",
+      "name": "El cielo está en cualquier lugar",
+      "poster": "https://image.tmdb.org/t/p/w500/t7gkTKPJ5lssacKTrhA3gOU1n0s.jpg",
       "posterShape": "poster",
-      "description": "Three slacker friends are hired to transport a troubled teen across the country.",
-      "releaseInfo": "",
+      "background": "https://image.tmdb.org/t/p/w1280/4V5EWfD7ydCF2sZlePaWar7zVOd.jpg",
+      "description": "Lennie es una adolescente y prodigio musical que vive el duelo de la muerte de su hermana, y a la vez se ve dividida entre un chico nuevo en la escuela y el devastado novio de su hermana. Mediante su vívida imaginación y su corazón conflictuado, Lennie se enfrenta al primer amor y a la primera pérdida.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8633464",
+      "type": "movie",
+      "name": "Despidiendo a Yang",
+      "poster": "https://image.tmdb.org/t/p/w500/7POMD21p0ISkSPY3GRv9qkefStF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2kj6FOo0B9NtCen1Ta7LoaPW9wG.jpg",
+      "description": "Un hombre y su hija intentan salvar por todos los medios posibles la vida de Yang, un robot mitad asistente y mitad niñera, al que consideran un miembro más de su familia.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10375396",
+      "type": "movie",
+      "name": "Criaturas de Dios",
+      "poster": "https://image.tmdb.org/t/p/w500/nS82UU0W7BuBDXoVlEtPVWY3mPg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/srCp0GBqeTOCtPprRoPjzJX4XQl.jpg",
+      "description": "En un pueblo de pescadores irlandés azotado por la lluvia, una madre miente para proteger a su hijo. Esa decisión tiene un impacto devastador en su comunidad, en su familia y en ella misma.",
+      "releaseInfo": "2022",
       "genres": [
         "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt17542000",
+      "type": "movie",
+      "name": "Ali Wong: Don Wong",
+      "poster": "https://image.tmdb.org/t/p/w500/rhwfoNRrTTLbdkkqjjC6yCDZXte.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rRJRRth2ZlYQtThM5lJ7pCX4I1n.jpg",
+      "description": "In her third Netflix stand-up special, Ali Wong reveals her wildest fantasies, the challenges of monogamy and how she really feels about single people.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14731254",
+      "type": "movie",
+      "name": "Val",
+      "poster": "https://image.tmdb.org/t/p/w500/vWJKmfmjpkFeTbUGep6t7w5TexA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gV2wSIlNMIUxEArKYrTF2NX4tjb.jpg",
+      "description": "Durante más de 40 años, Val Kilmer, uno de los actores más volubles y/o incomprendidos de Hollywood, ha estado documentando su propia vida y su oficio a través de películas y vídeos. Ha acumulado miles de horas de metraje, desde películas caseras de 16 mm realizadas con sus hermanos hasta el tiempo dedicado a papeles icónicos en películas taquilleras como Top Gun, The Doors, Tombstone y Batman Forever. Este documental crudo, tremendamente original e inquebrantable revela una vida vivida hasta los extremos y una mirada llena de corazón, a veces hilarante, sobre lo que significa ser un artista y un hombre complejo.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10023286",
+      "type": "movie",
+      "name": "The Humans",
+      "poster": "https://image.tmdb.org/t/p/w500/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xVZijHBpoQCuH1RjLDmDHjwrCzM.jpg",
+      "description": "Erik Blake ha reunido a tres generaciones de su familia de Pensilvania para celebrar el Día de Acción de Gracias en el apartamento de su hija en el bajo Manhattan. A medida que la oscuridad cae afuera y las cosas espeluznantes comienzan a surgir en la noche, los temores más profundos del grupo quedan al descubierto.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt15513290",
+      "type": "movie",
+      "name": "Phoebe Robinson: Sorry, Harriet Tubman",
+      "poster": "https://image.tmdb.org/t/p/w500/gQu4J4Rt9KMaaVR9oxXSzvYD0WA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/TE9aucPjmfwpe55qz3ieuWzYFn.jpg",
+      "description": "﻿After a truly trash year, actor, producer, and New York Times bestselling author Phoebe Robinson is finally out of quarantine and ready to get back onstage. Bringing her signature brand of authentic confessional humor to her first-ever solo stand-up special, Robinson gets real about therapy, interracial dating, reparations, hanging out with Michelle Obama, aging out of watching civil rights movies, and more in a no-holds-barred hour of comedy that’s both unflinchingly honest – and uniquely hilarious.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedia"
       ]
     },
     {
-      "id": "tt40828231",
+      "id": "tt10096842",
       "type": "movie",
-      "name": "Bloodsport",
-      "poster": "https://image.tmdb.org/t/p/w500/YvXnUYsotDkwHDEAv3tw2fSMtm.jpg",
+      "name": "Oscura Verdad",
+      "poster": "https://image.tmdb.org/t/p/w500/3HSov8EW2fI3oQbUJxOvnf684ej.jpg",
       "posterShape": "poster",
-      "description": "A reimagining of the 1988 film. Plot TBA.",
-      "releaseInfo": "",
+      "background": "https://image.tmdb.org/t/p/w1280/8FHQFJGCuIuSQ8hC7Iyrd8fPdy7.jpg",
+      "description": "Lucy y Adrian llevan tiempo intentando tener un hijo. Finalmente, recurren al doctor Hindle, especialista en fertilidad. Lucy se somete a una inseminación artificial y queda embarazada de trillizos. Días después, el doctor les informa de que un embarazo de estas características puede poner en riesgo la salud tanto de los niños como de la madre, por lo que deberán tomar una difícil decisión. A medida que avanza el embarazo, el mundo de Lucy se va transformando en una terrorífica pesadilla.",
+      "releaseInfo": "2021",
       "genres": [
-        "Acción"
-      ]
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.5"
+          }
+        }
+      }
     },
     {
-      "id": "tt32896542",
+      "id": "tt15845288",
       "type": "movie",
-      "name": "Elden Ring",
-      "poster": "https://image.tmdb.org/t/p/w500/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
+      "name": "Mo Amer: Mohammed in Texas",
+      "poster": "https://image.tmdb.org/t/p/w500/AoIrMhg7kMlntWpC6XIRNZIDPZg.jpg",
       "posterShape": "poster",
-      "description": "A live-action adaptation of the dark fantasy video game, set in the war-torn world of the Lands Between, which was once united by the Elden Ring. Plot details TBA.",
-      "releaseInfo": "2028",
+      "background": "https://image.tmdb.org/t/p/w1280/npgx0XRpFHrfqB6aGe20x4OF2d4.jpg",
+      "description": "In his hometown of Houston, Mo Amer takes on pandemic panic, disappointing Bradley Cooper, hummus appropriation and the subtle art of cursing in Arabic.",
+      "releaseInfo": "2021",
       "genres": [
-        "Fantasía",
-        "Acción",
-        "Aventura"
-      ]
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.7"
+          }
+        }
+      }
     },
     {
-      "id": "tt37660536",
+      "id": "tt10095582",
       "type": "movie",
-      "name": "Marc by Sofia",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "name": "La tragedia de Macbeth",
+      "poster": "https://image.tmdb.org/t/p/w500/d0vFvJ1x6pflLzam7rIRvoc24o9.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/reSa0DcGoinsguV7QUNeG2V6rp4.jpg",
-      "description": "Un retrato de Marc Jacobs, elaborado por Sofia Coppola, para captar el genio y el singular universo del icónico diseñador estadounidense.",
-      "releaseInfo": "2026",
+      "background": "https://image.tmdb.org/t/p/w1280/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+      "description": "Nominada a tres premios Oscar, incluido el de Mejor Actor. Denzel Washington y Frances McDormand protagonizan esta adaptación, cruda y audaz, de Joel Coen. Un lord escocés es convencido por unas brujas de que se convertirá en el futuro rey de Escocia. Adaptación de \"Macbeth\", de William Shakespeare.",
+      "releaseInfo": "2021",
       "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9243804",
+      "type": "movie",
+      "name": "La Leyenda del Caballero Verde",
+      "poster": "https://image.tmdb.org/t/p/w500/7vFQym17htVEKnQGcSr4C9oJLhT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+      "description": "Una aventura de fantasía épica basada en la eterna leyenda artúrica, El Caballero Verde cuenta la historia de Sir Gawain, el sobrino imprudente y testarudo del Rey Arturo, que se embarca en una atrevida búsqueda para enfrentarse al Caballero Verde del mismo nombre, un gigantesco extraño de piel esmeralda y retador de hombres.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10986222",
+      "type": "movie",
+      "name": "C’mon C’mon: Siempre adelante",
+      "poster": "https://image.tmdb.org/t/p/w500/vXp02XiRgSPMBOmntU2ST5WQ8ik.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zs1I3ZFUDEWa5rFyph7OrMH1aJ9.jpg",
+      "description": "Johnny (Joaquin Phoenix) es un periodista radiofónico que se embarca en un viaje a través del país con su pequeño sobrino (Woody Norman). Premiere: en septiembre en el Festival de Telluride.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11736170",
+      "type": "movie",
+      "name": "Whitmer Thomas: The Golden One",
+      "poster": "https://image.tmdb.org/t/p/w500/wR9xAXKPKqPRpDGYV5imuqlUjbq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kefuspcTdazx5Dd5EHdl8wcnXBX.jpg",
+      "description": "Thomas reflects on his Alabama childhood and his identity as an “aging emo kid” in LA through stories and songs on topics like dating, drinking, family and his mom’s legacy.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia",
         "Documental"
       ],
       "app_extras": {
@@ -1770,16 +1842,44 @@
       }
     },
     {
-      "id": "tt35667402",
+      "id": "tt12886236",
       "type": "movie",
-      "name": "Peaked",
-      "poster": "https://image.tmdb.org/t/p/w500/rg2sgyrTYxBSeOCoAVP9P0ZwmtW.jpg",
+      "name": "The Lighthouse: A Dark & Stormy Tale",
+      "poster": "https://image.tmdb.org/t/p/w500/z61UNFwHyeAxQRuVaetklpvPenn.jpg",
       "posterShape": "poster",
-      "description": "The two girls who traumatized you in high school try to relive their glory days at their 10-year reunion.",
-      "releaseInfo": "",
+      "background": "https://image.tmdb.org/t/p/w1280/iLPznQPMT3M5mPwDONMuBCgiIZX.jpg",
+      "description": "A look behind the scenes of Rober Eggers' film \"The Lighthouse\" (2019).",
+      "releaseInfo": "2020",
       "genres": [
-        "Comedia"
-      ]
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12748016",
+      "type": "movie",
+      "name": "Strasbourg 1518",
+      "poster": "https://image.tmdb.org/t/p/w500/uMKUZOtfjcWqOzWSJZoK24kctg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xl1qwCGckM7lCYcCenYnuvZr2J1.jpg",
+      "description": "Inspired by a powerful involuntary mania which took hold of citizens in the city of Strasbourg just over five hundred years ago, this film is a collaboration in isolation with some of the greatest dancers working today.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
+          }
+        }
+      }
     },
     {
       "id": "tt16419168",
@@ -1802,6 +1902,131 @@
       }
     },
     {
+      "id": "tt12327104",
+      "type": "movie",
+      "name": "Eric Andre: Legalize Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/epCjHq5yefl7h3cKaOJgexc0AMY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1xZgkxH2Cwr0mN029htFghCQOEj.jpg",
+      "description": "Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4353250",
+      "type": "movie",
+      "name": "The Last Black Man in San Francisco",
+      "poster": "https://image.tmdb.org/t/p/w500/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/n0FzDpOvVhkj3uN7WHXXnAXOKFi.jpg",
+      "description": "Jimmie Fails (Jimmie Fails) sueña con volver a tener la casa victoriana que su abuelo construyó en el corazón de San Francisco. Cada semana, él y Montgomery (Jonathan Majors), su único amigo, realizan un peregrinaje hacia la casa e imaginan qué habría sucedido si el barrio no hubiese cambiado. Cuando un día Jimmie ve la oportunidad de tratar de volver a conectar con sus raíces familiares y de pertenecer a la comunidad que tanto echa de menos, el joven muchacho vive totalmente ajeno a la realidad del mundo que le rodea.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10432620",
+      "type": "movie",
+      "name": "Ramy Youssef: Feelings",
+      "poster": "https://image.tmdb.org/t/p/w500/6KeiYGcYT9ordNslVvLJ9pMebXM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ikYI8Gh5E6x4T7mjnHORjyGXzIA.jpg",
+      "description": "Ramy, el hijo de inmigrantes egipcios, se encuentra en un viaje espiritualmente conflictivo en su vecindario de Nueva Jersey, entre su comunidad musulmana que piensa que la vida es una prueba constante, sus amigos milenarios que piensan que la vida está llena de posibilidades infinitas y un Dios que siempre está acecho.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedia",
+        "Película de TV"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10624458",
+      "type": "movie",
+      "name": "My Favorite Shapes by Julio Torres",
+      "poster": "https://image.tmdb.org/t/p/w500/v1Bx5clsiLnAmHPOqRIMOnFmKrY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dqXW5kXQeok9AOaAu6WzBW1DkB5.jpg",
+      "description": "In this multimedia comedy show, Torres explores his favorite shapes, which include a plexiglass square, a triangle, an oval that wishes he were a circle, a self-conscious cactus and a Ferrero Rocher chocolate that Julio is mad at because she left her little skirt at home. The objects are presented via an industrial conveyer belt and serve as a jumping-off point for fantastical stories, anecdotes and jokes.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedia",
+        "Película de TV"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8652728",
+      "type": "movie",
+      "name": "Las Olas",
+      "poster": "https://image.tmdb.org/t/p/w500/zsMsvHN3SDhaJiDYcnFyF2zjBd6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jQ06O9JAFN0VfDS4ezE09pfoj2h.jpg",
+      "description": "Traza el viaje de una familia afroamericana suburbana, liderada por un padre bien intencionado pero dominante, mientras navegan por el amor, el perdón y la unión después de una pérdida.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9356952",
+      "type": "movie",
+      "name": "La muerte de Dick Long",
+      "poster": "https://image.tmdb.org/t/p/w500/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gTNCO9iTeOq9m4pyUZwNoMCvdGf.jpg",
+      "description": "Tras participar en el ensayo de su grupo de música, el mejor amigo de Zeke y Earl muere sin motivo aparente, por lo que sus compañeros deciden no contarle a nadie lo que ha sucedido. Claro que su empresa es difícil: las noticias vuelan en un pequeño pueblo de Alabama, y estos chicos no son precisamente unos expertos a la hora de cubrir sus huellas. Las autoridades aún no han podido identificar el cadáver, pero la mujer de Zeke y su hija comienzan a sospechar que algo huele a podrido. Y no es precisamente Dick.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
       "id": "tt11318624",
       "type": "movie",
       "name": "John Mulaney & The Sack Lunch Bunch",
@@ -1814,72 +2039,6 @@
         "Comedia",
         "Familia",
         "Música"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt38078084",
-      "type": "movie",
-      "name": "Please",
-      "poster": "https://image.tmdb.org/t/p/w500/umyZQo2bGqjVED6Fgfm7LHSxtUH.jpg",
-      "posterShape": "poster",
-      "description": "In 1870s, Long Island, a woman's urgent attempt to cure her hidden infertility leads to an unexpected revelation: she never wanted children at all. Armed with this truth, she must challenge her husband to claim her independence.",
-      "releaseInfo": "2027",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt19266900",
-      "type": "movie",
-      "name": "Would It Kill You to Laugh? Starring Kate Berlant + John Early",
-      "poster": "https://image.tmdb.org/t/p/w500/nNdAhOyXuv5ib1EBQeuoOAsnd0l.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/q6P3mM34EKndJ8SjsTiD4mJOFNI.jpg",
-      "description": "Presenta a Kate Berlant y John Early, que interpretan versiones exageradas de sí mismos y se reúnen después de haber sufrido una ruptura pública hace varios años",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "4.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt36729041",
-      "type": "movie",
-      "name": "The Peasant",
-      "poster": "https://image.tmdb.org/t/p/w500/8AKumT7CAaFLzTM5TXoTfxfT8y8.jpg",
-      "posterShape": "poster",
-      "description": "A shepherd in the 1300s embarks on a rage-fueled campaign against a group of mercenary knights who ransacked his community.",
-      "releaseInfo": "",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ]
-    },
-    {
-      "id": "tt23950956",
-      "type": "movie",
-      "name": "This Place Rules",
-      "poster": "https://image.tmdb.org/t/p/w500/9Kml8c7L1IySs1g8Q9v8l1EPS1J.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/xqP1GCgijXQol2JFrAFFt5jixJI.jpg",
-      "description": "Acontecimientos y personajes que rodearon la insurrección del 6 de enero de 2021 del edificio de la capital de Estados Unidos en los días previos al atentado.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documental"
       ],
       "app_extras": {
         "ratings": {
@@ -1910,143 +2069,45 @@
       }
     },
     {
-      "id": "tt17542000",
+      "id": "tt7984734",
       "type": "movie",
-      "name": "Ali Wong: Don Wong",
-      "poster": "https://image.tmdb.org/t/p/w500/rhwfoNRrTTLbdkkqjjC6yCDZXte.jpg",
+      "name": "El Faro",
+      "poster": "https://image.tmdb.org/t/p/w500/atwJGO4Ks8k9aUcGN968YFvnwbB.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/rRJRRth2ZlYQtThM5lJ7pCX4I1n.jpg",
-      "description": "In her third Netflix stand-up special, Ali Wong reveals her wildest fantasies, the challenges of monogamy and how she really feels about single people.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.8"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt12886236",
-      "type": "movie",
-      "name": "The Lighthouse: A Dark & Stormy Tale",
-      "poster": "https://image.tmdb.org/t/p/w500/z61UNFwHyeAxQRuVaetklpvPenn.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/iLPznQPMT3M5mPwDONMuBCgiIZX.jpg",
-      "description": "A look behind the scenes of Rober Eggers' film \"The Lighthouse\" (2019).",
-      "releaseInfo": "2020",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10050780",
-      "type": "movie",
-      "name": "Anthony Jeselnik: Fire in the Maternity Ward",
-      "poster": "https://image.tmdb.org/t/p/w500/10EkzjVA0AWUArKnE53Nzf2pigj.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/rdaHUEeRSKeeL7tHc7Ry6oV0wif.jpg",
-      "description": "Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can't in this stand-up special shot in New York.",
+      "background": "https://image.tmdb.org/t/p/w1280/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "description": "Ambientada a finales del siglo XIX, cuenta la historia de dos fareros que trabajan juntos en una misteriosa isla perdida de Nueva Inglaterra.",
       "releaseInfo": "2019",
       "genres": [
-        "Comedia",
-        "Documental"
+        "Drama",
+        "Fantasía",
+        "Suspense"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "7.0"
+            "rating": "7.5"
           }
         }
       }
     },
     {
-      "id": "tt10624458",
+      "id": "tt5727208",
       "type": "movie",
-      "name": "My Favorite Shapes by Julio Torres",
-      "poster": "https://image.tmdb.org/t/p/w500/v1Bx5clsiLnAmHPOqRIMOnFmKrY.jpg",
+      "name": "Diamantes en bruto",
+      "poster": "https://image.tmdb.org/t/p/w500/1tOzBr9wvo37KgFiFYLc16AGvAX.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/dqXW5kXQeok9AOaAu6WzBW1DkB5.jpg",
-      "description": "In this multimedia comedy show, Torres explores his favorite shapes, which include a plexiglass square, a triangle, an oval that wishes he were a circle, a self-conscious cactus and a Ferrero Rocher chocolate that Julio is mad at because she left her little skirt at home. The objects are presented via an industrial conveyer belt and serve as a jumping-off point for fantastical stories, anecdotes and jokes.",
+      "background": "https://image.tmdb.org/t/p/w1280/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+      "description": "Howard Ratner es el propietario de una joyería ubicada en el barrio de los diamantes de la ciudad de Nueva York que vende en exclusiva a ricos y famosos. Un día se produce un importante robo que le obliga a tener que afrontar una deuda económica que no está preparado para pagar.",
       "releaseInfo": "2019",
       "genres": [
-        "Comedia",
-        "Película de TV"
+        "Drama",
+        "Suspense",
+        "Crimen"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "7.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt18346498",
-      "type": "movie",
-      "name": "Architecton",
-      "poster": "https://image.tmdb.org/t/p/w500/ko5fY3Y05u3rRFQUXNGyRybnxqT.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/9Sl9oyD2rrFKbCWvWiHQifwOoTn.jpg",
-      "description": "An extraordinary journey through the material that makes up our habitat: concrete and its ancestor, stone. Victor Kossakovsky raises a fundamental question: how do we inhabit the world of tomorrow?",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.8"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt9573150",
-      "type": "movie",
-      "name": "De Bezette Stad",
-      "poster": "https://image.tmdb.org/t/p/w500/vPQ3NWx8FohkN1fY6pBsckWmxyN.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/dpaRhhMQe1l1mpTSw3OTUuIObG4.jpg",
-      "description": "The past collides with the present in this excavation of the Nazi occupation of Amsterdam: a journey from World War II to recent years of pandemic and protest and a provocative, life-affirming reflection on memory, time and what's to come.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt29649645",
-      "type": "movie",
-      "name": "Open Wide",
-      "poster": "https://image.tmdb.org/t/p/w500/ba0vZOv8Gv0MmsM0GkCGvFQp0Dr.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/9dmX3Cc7J2TjMI5Ujmk9Y7cRHnd.jpg",
-      "description": "Las extravagantes teorías sobre ortodoncia de John y Mike Mew han encontrado un público apasionado en Internet, pero ahora Mike debe luchar contra la clase dirigente para mantener su consulta.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.2"
+            "rating": "7.2"
           }
         }
       }
@@ -2073,14 +2134,14 @@
       }
     },
     {
-      "id": "tt11736170",
+      "id": "tt10050780",
       "type": "movie",
-      "name": "Whitmer Thomas: The Golden One",
-      "poster": "https://image.tmdb.org/t/p/w500/wR9xAXKPKqPRpDGYV5imuqlUjbq.jpg",
+      "name": "Anthony Jeselnik: Fire in the Maternity Ward",
+      "poster": "https://image.tmdb.org/t/p/w500/10EkzjVA0AWUArKnE53Nzf2pigj.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/kefuspcTdazx5Dd5EHdl8wcnXBX.jpg",
-      "description": "Thomas reflects on his Alabama childhood and his identity as an “aging emo kid” in LA through stories and songs on topics like dating, drinking, family and his mom’s legacy.",
-      "releaseInfo": "2020",
+      "background": "https://image.tmdb.org/t/p/w1280/rdaHUEeRSKeeL7tHc7Ry6oV0wif.jpg",
+      "description": "Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can't in this stand-up special shot in New York.",
+      "releaseInfo": "2019",
       "genres": [
         "Comedia",
         "Documental"
@@ -2088,75 +2149,114 @@
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.0"
+            "rating": "7.0"
           }
         }
       }
     },
     {
-      "id": "tt13206992",
+      "id": "tt5613484",
       "type": "movie",
-      "name": "NYC, 1981",
-      "poster": "https://image.tmdb.org/t/p/w500/oOOUADaYXxuWRaN0ItwzyTgecvM.jpg",
+      "name": "en los 90s",
+      "poster": "https://image.tmdb.org/t/p/w500/fzbNK9ZCv82hdHJIHcZmgP9sKYN.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/fwlUVZM2io87cPeBh2pFmCuMODl.jpg",
-      "description": "A24 and A MOST VIOLENT YEAR present NYC, 1981. An original short documentary featuring stories from one of the most dangerous years on record for New York City.  Featuring Guardian Angels founder Curtis Sliwa, performance artist and former Warhol Factory fixture Penny Arcade, actress Johnnie Mae, Harlem street-style legend Dapper Dan, auto body shop owner Nick Rosello, and trucking union rep Wayne Walsh.",
-      "releaseInfo": "2015",
+      "background": "https://image.tmdb.org/t/p/w1280/BOeORWljjIPGuCwUgLls24ctF3.jpg",
+      "description": "Stevie, un chico de 13 años que vive en el Los Ángeles de los años 90, pasa el verano lidiando con los problemas de su vida doméstica y divirtiéndose con su nuevo grupo de amigos, que ha conocido en una tienda de skate.",
+      "releaseInfo": "2018",
       "genres": [
-        "Documental"
-      ]
-    },
-    {
-      "id": "tt31829513",
-      "type": "movie",
-      "name": "The Making of Priscilla",
-      "poster": "https://image.tmdb.org/t/p/w500/M6l7c0dNShjIdg4jyKlH1p3Izf.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/AdKp7mgM2VyEy3mv270ZuKYbP2w.jpg",
-      "description": "An exclusive, behind-the-scenes look at Sofia Coppola’s Priscilla, Liv McNeil’s documentary sparkles with an infectious enthusiasm for the magic of cinema. From visual moodboards to the creation of Graceland, this engaging short reveals the extraordinary craft behind the making of a dark fairytale.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.2"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt35627565",
-      "type": "movie",
-      "name": "The Masque of the Red Death",
-      "poster": "https://image.tmdb.org/t/p/w500/lT6IMZrhS4zjAQioeQU3Fft11Et.jpg",
-      "posterShape": "poster",
-      "description": "A noblewoman's exile leads her twin to assume her identity in a plague-sealed medieval kingdom. As she navigates deadly court intrigue with her daughter, she questions whether safety behind castle walls is worth the price of brutality.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror",
         "Drama",
         "Comedia"
-      ]
-    },
-    {
-      "id": "tt11764342",
-      "type": "movie",
-      "name": "Jerry Lee Lewis: Trouble in Mind",
-      "poster": "https://image.tmdb.org/t/p/w500/A5rLX2MgUMAsdpT0Jbd7c1JiSM8.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/w2kzNhdET87IrGA2ciRDQsNuEdV.jpg",
-      "description": "An electrifying glimpse into the complex life and thrilling, unparalleled performances of rock and roll's first and wildest practitioner: Jerry Lee Lewis.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documental",
-        "Música"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "6.4"
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7014006",
+      "type": "movie",
+      "name": "La vida de Kayla",
+      "poster": "https://image.tmdb.org/t/p/w500/70VRCeqBZAMMrCA0IBcEVEySGVi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+      "description": "Kayla, una niña de 13 años, tiene que lidiar con las inseguridades y terremotos del inicio de la adolescencia en la última semana de colegio, tras un año desastroso, antes de empezar el instituto.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8563704",
+      "type": "movie",
+      "name": "Drew Michael",
+      "poster": "https://image.tmdb.org/t/p/w500/3MrxmKU0qweUnf9G1Z4hpFDF0cj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/48XZdtsqsz5eeqnYJBZMwHijHko.jpg",
+      "description": "Comedian Drew Michael is taking the stage and is holding nothing back in his first HBO stand-up special, in which he navigates his fears, anxieties and insecurities in an unconventional stand-up setting. Michael’s darkly comic, stream-of-consciousness monologue raises questions of identity, narrative, self-awareness and the limits of the medium itself.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedia",
+        "Película de TV"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4695012",
+      "type": "movie",
+      "name": "Viene de noche",
+      "poster": "https://image.tmdb.org/t/p/w500/6Qr6KPW7Z1FXAAMbV0SEOImBctd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6h9pjTsWzaUWuUszHHbeI1JWE1.jpg",
+      "description": "Una familia vive en una casa desolada en el bosque para protegerse de una amenaza que aterroriza al mundo. El hogar se verá afectado cuando una familia llega en busca de refugio. Aun así, el padre hará todo lo posible para proteger a los suyos de una presencia diabólica que amenaza con destruir sus vidas.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5770620",
+      "type": "movie",
+      "name": "Los amantes",
+      "poster": "https://image.tmdb.org/t/p/w500/tRWza39fHyef12FvScIBduaHMi6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3PezXrFmOQhGkDcsmRj9nlwKgFn.jpg",
+      "description": "Un matrimonio de muchos años, ya sin pasión, quienes están en el medio de serios amoríos y en el borde del divorcio, se dan cuenta que una chispa inesperada vuelve a encenderse, llevándolos a un impulsivo romance.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.4"
           }
         }
       }
@@ -2183,195 +2283,6 @@
       }
     },
     {
-      "id": "tt36500972",
-      "type": "movie",
-      "name": "Enemies",
-      "poster": "https://image.tmdb.org/t/p/w500/4qaMYIdvaKqofYOKwWfkfEp7CYj.jpg",
-      "posterShape": "poster",
-      "description": "A solitary hitman's new job catches a detective's attention, leading both to discover unexpected similarities between them.",
-      "releaseInfo": "",
-      "genres": [
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
-      "id": "tt10145062",
-      "type": "movie",
-      "name": "Jonty",
-      "poster": "https://image.tmdb.org/t/p/w500/zB5nurbHFQJGVkelLuzjz9PrySh.jpg",
-      "posterShape": "poster",
-      "description": "A coddled kid takes off for NYC where he joins forces with an old friend to produce a terrible Broadway play.",
-      "releaseInfo": "",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "id": "tt19121796",
-      "type": "movie",
-      "name": "Look into My Eyes",
-      "poster": "https://image.tmdb.org/t/p/w500/mp1UYL6Z8A5aMbQQKxyWPWwNJkU.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/crF6INgzwVsbuFqzszjntvCP3TC.jpg",
-      "description": "Film que documenta una serie de sesiones íntimas con videntes y sus clientes, gente interesada en conectar con seres que ya no están. La película no trata de desenmascarar ni de dar crédito a los médiums, simplemente se limita a mostrar las sesiones y el impacto que tienen en los videntes y en sus terapias con sus clientes.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.4"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt31261128",
-      "type": "movie",
-      "name": "Famous",
-      "poster": "https://image.tmdb.org/t/p/w500/hsNV5YItzkvUoFjrF62MBRuQGW.jpg",
-      "posterShape": "poster",
-      "description": "Lance Dunkquist has one asset that’s about to change his life—he has the face of a movie star. And not just any movie star—Lance is the spitting image of a Hollywood icon, James Jansen. Lance is about to travel to Los Angeles to make his dream come true. Lance is going to be famous, no matter what it takes…",
-      "releaseInfo": "",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "id": "tt28618494",
-      "type": "movie",
-      "name": "Talk 2 Me",
-      "poster": "https://image.tmdb.org/t/p/w500/2E29MakRFDXxfBvwDfYf5rJT5Kw.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/rqmEBjdSbJXRHKNqG6GeVGmjK61.jpg",
-      "description": "The sequel to the 2022 film. Plot TBA.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "id": "tt30841122",
-      "type": "movie",
-      "name": "Jenny Slate: Seasoned Professional",
-      "poster": "https://image.tmdb.org/t/p/w500/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/jcemCvJPIqEEBaNvFeaGCCOBu2Z.jpg",
-      "description": "Slate afirma que ser valiente por amor merece la pena, ya se trate de un embarazo inesperado, de buscar un terapeuta o de confiar en una pareja con la que uno se siente vulnerable.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "4.8"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt12327104",
-      "type": "movie",
-      "name": "Eric Andre: Legalize Everything",
-      "poster": "https://image.tmdb.org/t/p/w500/epCjHq5yefl7h3cKaOJgexc0AMY.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/1xZgkxH2Cwr0mN029htFghCQOEj.jpg",
-      "description": "Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!",
-      "releaseInfo": "2020",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt15845288",
-      "type": "movie",
-      "name": "Mo Amer: Mohammed in Texas",
-      "poster": "https://image.tmdb.org/t/p/w500/AoIrMhg7kMlntWpC6XIRNZIDPZg.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/npgx0XRpFHrfqB6aGe20x4OF2d4.jpg",
-      "description": "In his hometown of Houston, Mo Amer takes on pandemic panic, disappointing Bradley Cooper, hummus appropriation and the subtle art of cursing in Arabic.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "4.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt32384713",
-      "type": "movie",
-      "name": "Altar",
-      "poster": "https://image.tmdb.org/t/p/w500/ojcO3TaUCOjQFMsZ3aYMMcXPau.jpg",
-      "posterShape": "poster",
-      "description": "Described as a horror film that follows the summer of a young boy, forced to grow up faster than he ever imagined.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "id": "tt8563704",
-      "type": "movie",
-      "name": "Drew Michael",
-      "poster": "https://image.tmdb.org/t/p/w500/3MrxmKU0qweUnf9G1Z4hpFDF0cj.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/48XZdtsqsz5eeqnYJBZMwHijHko.jpg",
-      "description": "Comedian Drew Michael is taking the stage and is holding nothing back in his first HBO stand-up special, in which he navigates his fears, anxieties and insecurities in an unconventional stand-up setting. Michael’s darkly comic, stream-of-consciousness monologue raises questions of identity, narrative, self-awareness and the limits of the medium itself.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedia",
-        "Película de TV"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.9"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt37008269",
-      "type": "movie",
-      "name": "Breakthrough",
-      "poster": "https://image.tmdb.org/t/p/w500/tzd0TZeGAZ26lDJtsp52Ov8BxDY.jpg",
-      "posterShape": "poster",
-      "description": "An alienated young man comes under the influence of a motivational guru, whose intoxicating charm masks his morally questionable methods of manipulation and his own concealed darkness.",
-      "releaseInfo": "",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "id": "tt35934883",
-      "type": "movie",
-      "name": "Deep Cuts",
-      "poster": "https://image.tmdb.org/t/p/w500/4rjFWSodM8NBhwuqiQKkuwz2w9I.jpg",
-      "posterShape": "poster",
-      "description": "A love story about two music-obsessed twenty-somethings navigating the messy realities of ambition, belonging and adulthood over the course of an era-defining decade.",
-      "releaseInfo": "",
-      "genres": [
-        "Romance",
-        "Música",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt5861260",
       "type": "movie",
       "name": "Reggie Watts: Spatial",
@@ -2392,6 +2303,175 @@
       }
     },
     {
+      "id": "tt4975722",
+      "type": "movie",
+      "name": "Luz de luna",
+      "poster": "https://image.tmdb.org/t/p/w500/xVzMkuXkRrmfYSYTzBCCJlj990Y.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+      "description": "La historia sensible, angustiosa de un joven que se esfuerza por encontrarse, contada a través de tres capítulos definitorios en su vida, ya que experimenta el éxtasis, el dolor y la belleza de enamorarse, mientras lucha cuerpo a cuerpo con su propia sexualidad.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13206992",
+      "type": "movie",
+      "name": "NYC, 1981",
+      "poster": "https://image.tmdb.org/t/p/w500/oOOUADaYXxuWRaN0ItwzyTgecvM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fwlUVZM2io87cPeBh2pFmCuMODl.jpg",
+      "description": "A24 and A MOST VIOLENT YEAR present NYC, 1981. An original short documentary featuring stories from one of the most dangerous years on record for New York City.  Featuring Guardian Angels founder Curtis Sliwa, performance artist and former Warhol Factory fixture Penny Arcade, actress Johnnie Mae, Harlem street-style legend Dapper Dan, auto body shop owner Nick Rosello, and trucking union rep Wayne Walsh.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
+      "id": "tt32659630",
+      "type": "movie",
+      "name": "The Wives",
+      "poster": "https://image.tmdb.org/t/p/w500/huTGnFGG6YfkteU1L88i29NpRlX.jpg",
+      "posterShape": "poster",
+      "description": "Plot details are being kept in the body bag, but it is being described as being partly inspired by the Real Housewives franchise, which focuses on the soap operatic and over-the-top theatrics of well-to-do women in areas ranging from Orange County to Miami to Atlanta.",
+      "releaseInfo": "",
+      "genres": [
+        "Misterio"
+      ]
+    },
+    {
+      "id": "tt39635043",
+      "type": "movie",
+      "name": "The Texas Chainsaw Massacre",
+      "poster": "https://image.tmdb.org/t/p/w500/iH2dwaYfIYnfQ2zGJ1xyO92QSOz.jpg",
+      "posterShape": "poster",
+      "description": "The tenth installment in the Texas Chainsaw Massacre franchise. Plot details TBA.",
+      "releaseInfo": "",
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "id": "tt36729041",
+      "type": "movie",
+      "name": "The Peasant",
+      "poster": "https://image.tmdb.org/t/p/w500/8AKumT7CAaFLzTM5TXoTfxfT8y8.jpg",
+      "posterShape": "poster",
+      "description": "A shepherd in the 1300s embarks on a rage-fueled campaign against a group of mercenary knights who ransacked his community.",
+      "releaseInfo": "",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ]
+    },
+    {
+      "id": "tt35627565",
+      "type": "movie",
+      "name": "The Masque of the Red Death",
+      "poster": "https://image.tmdb.org/t/p/w500/lT6IMZrhS4zjAQioeQU3Fft11Et.jpg",
+      "posterShape": "poster",
+      "description": "A noblewoman's exile leads her twin to assume her identity in a plague-sealed medieval kingdom. As she navigates deadly court intrigue with her daughter, she questions whether safety behind castle walls is worth the price of brutality.",
+      "releaseInfo": "",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "id": "tt32332882",
+      "type": "movie",
+      "name": "The Looming",
+      "poster": "https://image.tmdb.org/t/p/w500/leTKH1gx8QKWOfaFUhgl5RWD4PG.jpg",
+      "posterShape": "poster",
+      "description": "A feature adaptation of Masha Ko’s Sundance short of the same name. When a virtual home assistant speaker picks up the strange noise a man has heard in his house, he realizes that it may not be a symptom of dementia.",
+      "releaseInfo": "",
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "id": "tt19393768",
+      "type": "movie",
+      "name": "The Governesses",
+      "poster": "https://image.tmdb.org/t/p/w500/cMf9ExBa96Z6rj2lEaKCy9e1j6d.jpg",
+      "posterShape": "poster",
+      "description": "Three rebellious governesses upend the household they work in - inspiriting the minds of the males in their care, igniting the imaginations of the bohemian couple who employ them, and abandoning their charges for erotic adventures.",
+      "releaseInfo": "",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt37898908",
+      "type": "movie",
+      "name": "The Chaperones",
+      "poster": "https://image.tmdb.org/t/p/w500/cerSsamrPF0rlyu835sjCMddd5s.jpg",
+      "posterShape": "poster",
+      "description": "Three slacker friends are hired to transport a troubled teen across the country.",
+      "releaseInfo": "",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt28618494",
+      "type": "movie",
+      "name": "Talk 2 Me",
+      "poster": "https://image.tmdb.org/t/p/w500/2E29MakRFDXxfBvwDfYf5rJT5Kw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rqmEBjdSbJXRHKNqG6GeVGmjK61.jpg",
+      "description": "The sequel to the 2022 film. Plot TBA.",
+      "releaseInfo": "",
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "id": "tt10310044",
+      "type": "movie",
+      "name": "Sour Hearts",
+      "poster": "https://image.tmdb.org/t/p/w500/goEtwgjiwgqteRgGS1mxKtDKnIK.jpg",
+      "posterShape": "poster",
+      "description": "The movie unfolds from the perspective of a girl growing up in the outer boroughs of New York in the ’90s. With parents newly arrived from Shanghai, the family works through the unique trials of ascending to the middle class. A coming-of-age tale told with insight and humor, the story offers a sweeping perspective on the humility and heartache of the immigrant experience, as told from the point of view of children and parents.",
+      "releaseInfo": "",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt35667402",
+      "type": "movie",
+      "name": "Peaked",
+      "poster": "https://image.tmdb.org/t/p/w500/rg2sgyrTYxBSeOCoAVP9P0ZwmtW.jpg",
+      "posterShape": "poster",
+      "description": "The two girls who traumatized you in high school try to relive their glory days at their 10-year reunion.",
+      "releaseInfo": "",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "id": "tt10644644",
+      "type": "movie",
+      "name": "Notes from a Young Black Chef",
+      "poster": "https://image.tmdb.org/t/p/w500/moCi29E4bJKwKzArY6BfENWneTk.jpg",
+      "posterShape": "poster",
+      "description": "Based on Kwame Onwuachi's memoir which tells his unprecedented journey from childhood in the Bronx with a mostly single mother to opening a fine-dining restaurant in Washington D.C. at the age of 26.",
+      "releaseInfo": "",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt21303934",
       "type": "movie",
       "name": "Nekrokosm",
@@ -2406,36 +2486,54 @@
       ]
     },
     {
-      "id": "tt29649688",
+      "id": "tt10145062",
       "type": "movie",
-      "name": "My Mercury",
-      "poster": "https://image.tmdb.org/t/p/w500/1AJwxLPagG2S08j9NJlwbwMHaQ3.jpg",
+      "name": "Jonty",
+      "poster": "https://image.tmdb.org/t/p/w500/zB5nurbHFQJGVkelLuzjz9PrySh.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/28kzQaJIpF2HcXS4lcWLShZiihJ.jpg",
-      "description": "A passionate conservationist makes a cruel pact to save endangered seabirds from extinction on an inhospitable island, alone. In the end, it's a victory for the birds, but at what price?",
-      "releaseInfo": "2025",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "4.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt15513290",
-      "type": "movie",
-      "name": "Phoebe Robinson: Sorry, Harriet Tubman",
-      "poster": "https://image.tmdb.org/t/p/w500/gQu4J4Rt9KMaaVR9oxXSzvYD0WA.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/TE9aucPjmfwpe55qz3ieuWzYFn.jpg",
-      "description": "﻿After a truly trash year, actor, producer, and New York Times bestselling author Phoebe Robinson is finally out of quarantine and ready to get back onstage. Bringing her signature brand of authentic confessional humor to her first-ever solo stand-up special, Robinson gets real about therapy, interracial dating, reparations, hanging out with Michelle Obama, aging out of watching civil rights movies, and more in a no-holds-barred hour of comedy that’s both unflinchingly honest – and uniquely hilarious.",
-      "releaseInfo": "2021",
+      "description": "A coddled kid takes off for NYC where he joins forces with an old friend to produce a terrible Broadway play.",
+      "releaseInfo": "",
       "genres": [
         "Comedia"
+      ]
+    },
+    {
+      "id": "tt31261128",
+      "type": "movie",
+      "name": "Famous",
+      "poster": "https://image.tmdb.org/t/p/w500/hsNV5YItzkvUoFjrF62MBRuQGW.jpg",
+      "posterShape": "poster",
+      "description": "Lance Dunkquist has one asset that’s about to change his life—he has the face of a movie star. And not just any movie star—Lance is the spitting image of a Hollywood icon, James Jansen. Lance is about to travel to Los Angeles to make his dream come true. Lance is going to be famous, no matter what it takes…",
+      "releaseInfo": "",
+      "genres": [
+        "Suspense"
+      ]
+    },
+    {
+      "id": "tt36500972",
+      "type": "movie",
+      "name": "Enemies",
+      "poster": "https://image.tmdb.org/t/p/w500/4qaMYIdvaKqofYOKwWfkfEp7CYj.jpg",
+      "posterShape": "poster",
+      "description": "A solitary hitman's new job catches a detective's attention, leading both to discover unexpected similarities between them.",
+      "releaseInfo": "",
+      "genres": [
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "id": "tt35934883",
+      "type": "movie",
+      "name": "Deep Cuts",
+      "poster": "https://image.tmdb.org/t/p/w500/4rjFWSodM8NBhwuqiQKkuwz2w9I.jpg",
+      "posterShape": "poster",
+      "description": "A love story about two music-obsessed twenty-somethings navigating the messy realities of ambition, belonging and adulthood over the course of an era-defining decade.",
+      "releaseInfo": "",
+      "genres": [
+        "Romance",
+        "Música",
+        "Drama"
       ]
     },
     {
@@ -2452,137 +2550,27 @@
       ]
     },
     {
-      "id": "tt10432620",
+      "id": "tt37008269",
       "type": "movie",
-      "name": "Ramy Youssef: Feelings",
-      "poster": "https://image.tmdb.org/t/p/w500/6KeiYGcYT9ordNslVvLJ9pMebXM.jpg",
+      "name": "Breakthrough",
+      "poster": "https://image.tmdb.org/t/p/w500/tzd0TZeGAZ26lDJtsp52Ov8BxDY.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/ikYI8Gh5E6x4T7mjnHORjyGXzIA.jpg",
-      "description": "Ramy, el hijo de inmigrantes egipcios, se encuentra en un viaje espiritualmente conflictivo en su vecindario de Nueva Jersey, entre su comunidad musulmana que piensa que la vida es una prueba constante, sus amigos milenarios que piensan que la vida está llena de posibilidades infinitas y un Dios que siempre está acecho.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Comedia",
-        "Película de TV"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10644644",
-      "type": "movie",
-      "name": "Notes from a Young Black Chef",
-      "poster": "https://image.tmdb.org/t/p/w500/moCi29E4bJKwKzArY6BfENWneTk.jpg",
-      "posterShape": "poster",
-      "description": "Based on Kwame Onwuachi's memoir which tells his unprecedented journey from childhood in the Bronx with a mostly single mother to opening a fine-dining restaurant in Washington D.C. at the age of 26.",
+      "description": "An alienated young man comes under the influence of a motivational guru, whose intoxicating charm masks his morally questionable methods of manipulation and his own concealed darkness.",
       "releaseInfo": "",
       "genres": [
-        "Drama"
+        "Suspense"
       ]
     },
     {
-      "id": "tt32659630",
+      "id": "tt40828231",
       "type": "movie",
-      "name": "The Wives",
-      "poster": "https://image.tmdb.org/t/p/w500/huTGnFGG6YfkteU1L88i29NpRlX.jpg",
+      "name": "Bloodsport",
+      "poster": "https://image.tmdb.org/t/p/w500/YvXnUYsotDkwHDEAv3tw2fSMtm.jpg",
       "posterShape": "poster",
-      "description": "Plot details are being kept in the body bag, but it is being described as being partly inspired by the Real Housewives franchise, which focuses on the soap operatic and over-the-top theatrics of well-to-do women in areas ranging from Orange County to Miami to Atlanta.",
+      "description": "A reimagining of the 1988 film. Plot TBA.",
       "releaseInfo": "",
       "genres": [
-        "Misterio"
-      ]
-    },
-    {
-      "id": "tt12748016",
-      "type": "movie",
-      "name": "Strasbourg 1518",
-      "poster": "https://image.tmdb.org/t/p/w500/uMKUZOtfjcWqOzWSJZoK24kctg.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/xl1qwCGckM7lCYcCenYnuvZr2J1.jpg",
-      "description": "Inspired by a powerful involuntary mania which took hold of citizens in the city of Strasbourg just over five hundred years ago, this film is a collaboration in isolation with some of the greatest dancers working today.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Música"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt19393768",
-      "type": "movie",
-      "name": "The Governesses",
-      "poster": "https://image.tmdb.org/t/p/w500/cMf9ExBa96Z6rj2lEaKCy9e1j6d.jpg",
-      "posterShape": "poster",
-      "description": "Three rebellious governesses upend the household they work in - inspiriting the minds of the males in their care, igniting the imaginations of the bohemian couple who employ them, and abandoning their charges for erotic adventures.",
-      "releaseInfo": "",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt29644446",
-      "type": "movie",
-      "name": "The Sixth",
-      "poster": "https://image.tmdb.org/t/p/w500/asDTwKxL6OHcLacEIbHOqowf3eX.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/diGLwPJ79qlDBL3a8rE1Zf5GEnE.jpg",
-      "description": "The Sixth is a visceral intersection of six extraordinary Americans whose lives will be forever changed by the attack on the United States Capitol on January 6, 2021.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "5.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt10310044",
-      "type": "movie",
-      "name": "Sour Hearts",
-      "poster": "https://image.tmdb.org/t/p/w500/goEtwgjiwgqteRgGS1mxKtDKnIK.jpg",
-      "posterShape": "poster",
-      "description": "The movie unfolds from the perspective of a girl growing up in the outer boroughs of New York in the ’90s. With parents newly arrived from Shanghai, the family works through the unique trials of ascending to the middle class. A coming-of-age tale told with insight and humor, the story offers a sweeping perspective on the humility and heartache of the immigrant experience, as told from the point of view of children and parents.",
-      "releaseInfo": "",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt32332882",
-      "type": "movie",
-      "name": "The Looming",
-      "poster": "https://image.tmdb.org/t/p/w500/leTKH1gx8QKWOfaFUhgl5RWD4PG.jpg",
-      "posterShape": "poster",
-      "description": "A feature adaptation of Masha Ko’s Sundance short of the same name. When a virtual home assistant speaker picks up the strange noise a man has heard in his house, he realizes that it may not be a symptom of dementia.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "id": "tt48487817",
-      "type": "movie",
-      "name": "Phoebe Bridgers | Sound Check at Cherry Lane Theatre",
-      "poster": "https://image.tmdb.org/t/p/w500/y1iElB8Yxr2egBDenbZK7yzBD62.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/ePEbrArUoQQJMtz4UNrF0PwBsFL.jpg",
-      "description": "Phoebe Bridgers stops by Cherry Lane Theatre for Sound Check.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Música"
+        "Acción"
       ]
     },
     {
@@ -2592,6 +2580,18 @@
       "poster": "https://image.tmdb.org/t/p/w500/n4QX4oBi5EOlXQpomzx124tIXJo.jpg",
       "posterShape": "poster",
       "description": "",
+      "releaseInfo": "",
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "id": "tt32384713",
+      "type": "movie",
+      "name": "Altar",
+      "poster": "https://image.tmdb.org/t/p/w500/ojcO3TaUCOjQFMsZ3aYMMcXPau.jpg",
+      "posterShape": "poster",
+      "description": "Described as a horror film that follows the summer of a young boy, forced to grow up faster than he ever imagined.",
       "releaseInfo": "",
       "genres": [
         "Terror"
