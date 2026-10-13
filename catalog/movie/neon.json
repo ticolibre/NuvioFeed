@@ -266,17 +266,6 @@
       }
     },
     {
-      "id": "tt41983461",
-      "type": "movie",
-      "name": "MORA",
-      "posterShape": "poster",
-      "description": "A struggling artist searches for a mysterious woman that shows up in gruesome AI-generated images. Based on Sam Evenson's 2024 short film of the same name.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
       "id": "tt39141722",
       "type": "movie",
       "name": "Together Forever",
@@ -419,15 +408,6 @@
       }
     },
     {
-      "id": "tt19224010",
-      "type": "movie",
-      "name": "Cassandra at the Wedding",
-      "posterShape": "poster",
-      "description": "Follows Cassandra Edwards, a graduate student at Berkeley, who is gay, brilliant, nerve-wracked, and miserable. She drives to her family ranch in the foothills of the Sierras to attend the wedding of her identical twin, Judith, to a young doctor from Connecticut. Cassandra has plans to sabotage the wedding.",
-      "releaseInfo": "",
-      "genres": []
-    },
-    {
       "id": "tt36833552",
       "type": "movie",
       "name": "Fish",
@@ -492,17 +472,6 @@
           }
         }
       }
-    },
-    {
-      "id": "tt13839478",
-      "type": "movie",
-      "name": "What Do You Want from Me?",
-      "posterShape": "poster",
-      "description": "An intimate look at the singer-songwriter's journey, navigating life on the road, on stage, and at home, while creating his album",
-      "releaseInfo": "",
-      "genres": [
-        "Documental"
-      ]
     }
   ],
   "cacheMaxAge": 86400,
