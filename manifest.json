@@ -1,0 +1,90 @@
+{
+  "id": "com.ticolibre.catalogues",
+  "version": "1.0.0",
+  "name": "TicoLibre Catalogues",
+  "description": "Personal catalogue (es-MX / CR): A24, NEON, Blumhouse. Powered by TMDB.",
+  "resources": [
+    "catalog",
+    {
+      "name": "meta",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "tt",
+        "tmdb:"
+      ]
+    }
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "a24",
+      "name": "A24 Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "neon",
+      "name": "NEON Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "blumhouse",
+      "name": "Blumhouse Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "config": [
+    {
+      "key": "language",
+      "type": "text",
+      "title": "Language locale",
+      "default": "es-MX",
+      "required": true
+    },
+    {
+      "key": "region",
+      "type": "text",
+      "title": "Region",
+      "default": "CR",
+      "required": true
+    }
+  ],
+  "behaviorHints": {
+    "configurable": true,
+    "adult": false,
+    "p2p": false
+  }
+}

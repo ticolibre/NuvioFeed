@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt7144666",
+    "type": "movie",
+    "name": "El teléfono negro",
+    "poster": "https://image.tmdb.org/t/p/w500/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+    "description": "El tímido pero inteligente Finney Blake, de 13 años, es secuestrado por un asesino sádico. En el sótano insonorizado, un teléfono desconectado en la pared empieza a sonar.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tmdb:1593893",
+    "type": "movie",
+    "name": "Made in Eddington",
+    "poster": "https://image.tmdb.org/t/p/w500/9W5JYgNTrJt3ax8QLUjVxEmXFTq.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/51i81hCgJNTSckW6xADmaQBD48S.jpg",
+    "description": "Made in Eddington gives a behind the scenes look at the making of Ari Aster's modern political nightmare.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

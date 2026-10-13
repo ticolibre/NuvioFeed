@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt21979910",
+    "type": "movie",
+    "name": "El pasajero",
+    "poster": "https://image.tmdb.org/t/p/w500/1boNMXWbsq22OUSe1JIqWs5iZyM.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/tkNwAiWE9hbiJUUwz42jU2dbWfi.jpg",
+    "description": "Un hombre se ve obligado a enfrentar sus miedos y confrontar su pasado turbulento. Debe encontrar una manera de sobrevivir cuando su compañero de trabajo se rompe y se lanza a una matanza violenta.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    }
+  }
+}

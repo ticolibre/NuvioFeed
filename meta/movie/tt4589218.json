@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt4589218",
+    "type": "movie",
+    "name": "Five Nights at Freddy's",
+    "poster": "https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+    "description": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

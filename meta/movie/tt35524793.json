@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt35524793",
+    "type": "movie",
+    "name": "El Momento",
+    "poster": "https://image.tmdb.org/t/p/w500/zgbjNx4RAMivZ1ZlFrRC356caL9.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
+    "description": "Una cantante pop afronta la fama reciente y las presiones de la industria musical mientras prepara su primera gira en estadios.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Música",
+      "Comedia",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.3"
+        }
+      }
+    }
+  }
+}

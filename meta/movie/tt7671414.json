@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt7671414",
+    "type": "movie",
+    "name": "Thriller",
+    "poster": "https://image.tmdb.org/t/p/w500/mliD95nVqBijPGQdZ3xcg8Nsagu.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/3CRqN7QfY43vp920P3GxBIQwC92.jpg",
+    "description": "Years after a childhood prank goes horribly wrong, a clique of South Central LA teens find themselves terrorized during Homecoming weekend by a killer hell-bent on revenge.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Terror",
+      "Misterio"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "4.2"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt9243804",
+    "type": "movie",
+    "name": "La Leyenda del Caballero Verde",
+    "poster": "https://image.tmdb.org/t/p/w500/7vFQym17htVEKnQGcSr4C9oJLhT.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+    "description": "Una aventura de fantasía épica basada en la eterna leyenda artúrica, El Caballero Verde cuenta la historia de Sir Gawain, el sobrino imprudente y testarudo del Rey Arturo, que se embarca en una atrevida búsqueda para enfrentarse al Caballero Verde del mismo nombre, un gigantesco extraño de piel esmeralda y retador de hombres.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    }
+  }
+}

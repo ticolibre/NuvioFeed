@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0460812",
+    "type": "movie",
+    "name": "Griffin & Phoenix",
+    "poster": "https://image.tmdb.org/t/p/w500/mcgEP9PtxdvgsX70htVj2ZjYzPY.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/fgcCpffc6bPXwVz29vcLbzrbxzp.jpg",
+    "description": "A terminally ill man falls in love with a woman who has a secret that threatens their time spent together.",
+    "releaseInfo": "2006",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

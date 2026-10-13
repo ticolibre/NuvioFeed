@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt8652728",
+    "type": "movie",
+    "name": "Las Olas",
+    "poster": "https://image.tmdb.org/t/p/w500/zsMsvHN3SDhaJiDYcnFyF2zjBd6.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jQ06O9JAFN0VfDS4ezE09pfoj2h.jpg",
+    "description": "Traza el viaje de una familia afroamericana suburbana, liderada por un padre bien intencionado pero dominante, mientras navegan por el amor, el perdón y la unión después de una pérdida.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

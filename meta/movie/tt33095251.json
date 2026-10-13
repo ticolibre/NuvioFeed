@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt33095251",
+    "type": "movie",
+    "name": "Tony",
+    "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+    "description": "Un Anthony Bourdain de 19 años viaja a Provincetown y se adentra en el caótico mundo de la cocina de un restaurante, dando inicio a un verano que marcará el rumbo de su vida.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}
