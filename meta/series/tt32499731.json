@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt32499731",
+    "type": "series",
+    "name": "El robo",
+    "poster": "https://image.tmdb.org/t/p/w500/txcrTTjG5hCo7oYl4J8hsIyBFxu.jpg",
+    "posterShape": "poster",
+    "description": "Un típico día en Lochmill Capital da un vuelco cuando Zara y Luke deben ejecutar las instrucciones de los ladrones armados que entraron al edificio. El detective Rhys tiene muchos conflictos y poco tiempo para averiguar quién robó 4000 millones de libras de un fondo de pensiones y por qué.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt32499731:1:1",
+        "title": "Completar o cancelar",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un grupo de ladrones profesionales entra a Lochmill Capital y somete a Zara y a sus colegas a punta de pistola para tratar de cometer el atraco del siglo.",
+        "released": "2026-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/92RKb1U77W7dzvSrUper30VyMBf.jpg"
+      },
+      {
+        "id": "tt32499731:1:2",
+        "title": "Valor nominal",
+        "season": 1,
+        "episode": 2,
+        "overview": "Después del robo, Zara enfrenta muchísima presión cuando Luke se desmorona. El detective Rhys encuentra resistencia inesperada en la investigación.",
+        "released": "2026-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aeWoD0LsDxvijO3AZun9nJLm8XW.jpg"
+      },
+      {
+        "id": "tt32499731:1:3",
+        "title": "Corto plazo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un flashback muestra más de la vida de Zara y Luke antes del atraco. En el presente, Zara termina involucrada en una situación crítica. Como se le empiezan a acabar las opciones, toma una decisión arriesgada.",
+        "released": "2026-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jAqUCuVcE1jGVCk5X324MCOXef7.jpg"
+      },
+      {
+        "id": "tt32499731:1:4",
+        "title": "Apetito por el riesgo",
+        "season": 1,
+        "episode": 4,
+        "overview": "Zara hace una alianza peligrosa para descubrir la verdad sobre el atraco. Tras una revelación sobre el dinero robado a Lochmill, Rhys entra en conflicto con figuras poderosas.",
+        "released": "2026-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dEP70Ts8kOeqY5rYNPET5KS3Lwu.jpg"
+      },
+      {
+        "id": "tt32499731:1:5",
+        "title": "Primero págate a ti mismo",
+        "season": 1,
+        "episode": 5,
+        "overview": "Zara recibe un ultimátum que le cambia la vida. Cuando su supervivencia está en juego, ¿en quién puede confiar realmente?",
+        "released": "2026-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xQOnswRDH3yms34jYqDY1Xk8uja.jpg"
+      },
+      {
+        "id": "tt32499731:1:6",
+        "title": "El rebote del gato muerto",
+        "season": 1,
+        "episode": 6,
+        "overview": "El violento enfrentamiento en Lochmill Capital tiene consecuencias devastadoras. En un giro impactante, toda la verdad sobre el atraco sale a la luz.",
+        "released": "2026-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c9CpC4Rf6zewAD21zNBmyYkG1pY.jpg"
+      }
+    ]
+  }
+}

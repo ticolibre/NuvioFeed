@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "id": "tt13366604",
+    "type": "series",
+    "name": "Platónico",
+    "poster": "https://image.tmdb.org/t/p/w500/mUYqyjhcmE8vVJkwY0VTwfXev8v.jpg",
+    "posterShape": "poster",
+    "description": "Después de un largo paréntesis en su amistad, unos viejos amigos con una conexión platónica vuelven a encontrarse en la mediana edad. Su amistad se vuelve más obsesiva y desestabiliza sus vidas de una manera muy divertida.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt13366604:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Tras un largo distanciamiento, Sylvia se reúne con su antiguo mejor amigo, el recién divorciado, Will.",
+        "released": "2023-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1KYObNxzT45sUuGUWw5Em8DmCyy.jpg"
+      },
+      {
+        "id": "tt13366604:1:2",
+        "title": "Gandalf el lagarto",
+        "season": 1,
+        "episode": 2,
+        "overview": "Will acompaña a Sylvia a ver una casa. Sylvia le ayuda a Will a entrar a la casa de su exesposa para recoger sus cosas y así poder dejarla en el pasado.",
+        "released": "2023-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xydh0dxpHJYEznXaAXXO6iu0lnC.jpg"
+      },
+      {
+        "id": "tt13366604:1:3",
+        "title": "La conferencia",
+        "season": 1,
+        "episode": 3,
+        "overview": "Cuando el esposo de Sylvia va a una conferencia, ella pasa el día embriagándose con Will, quien le cuenta sobre una evolución en su bar.",
+        "released": "2023-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4US9L1Fs7izSsnZI6hImOBRQPYA.jpg"
+      },
+      {
+        "id": "tt13366604:1:4",
+        "title": "Fiesta de divorcio",
+        "season": 1,
+        "episode": 4,
+        "overview": "Sylvia hace una fiesta de divorcio para Will para alegrarlo, pero se sale de control cuando sus amigos intentan apoderarse de la noche.",
+        "released": "2023-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/68X2LD15cwIi8ohWHMhWSEujk7J.jpg"
+      },
+      {
+        "id": "tt13366604:1:5",
+        "title": "El novio de mi esposa",
+        "season": 1,
+        "episode": 5,
+        "overview": "Desconcertado por la cercanía de Will y Sylvia, Charlie invita a Will a un partido de béisbol.",
+        "released": "2023-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dQ8DRjpsRMkHp1JGtZjCHe3GqNm.jpg"
+      },
+      {
+        "id": "tt13366604:1:6",
+        "title": "El gran 66",
+        "season": 1,
+        "episode": 6,
+        "overview": "Will le presenta a Sylvia a su novia menor que él, Peyton, luego se molesta de que Sylvia la contrate de niñera.",
+        "released": "2023-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zREBlNPB056XsSQk7IPbAXJ2vfl.jpg"
+      },
+      {
+        "id": "tt13366604:1:7",
+        "title": "Déjate llevar",
+        "season": 1,
+        "episode": 7,
+        "overview": "Sylvia se esfuerza por seguir el ritmo en su nuevo despacho de abogados. Will se entera de los planes de Reggie y Andy.",
+        "released": "2023-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fcJBIWaW2Ld8zkoopu6ZMhbN1A2.jpg"
+      },
+      {
+        "id": "tt13366604:1:8",
+        "title": "San Diego",
+        "season": 1,
+        "episode": 8,
+        "overview": "Will y los demás llevan a Sylvia a un viaje de negocios en San Diego. Charlie sospecha más de la relación entre Sylvia y Will.",
+        "released": "2023-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xzzLgC1ELYRZuBRVTc0Fm7yGg2o.jpg"
+      },
+      {
+        "id": "tt13366604:1:9",
+        "title": "Pijamada",
+        "season": 1,
+        "episode": 9,
+        "overview": "Frustrado de la cantidad de tiempo que Sylvia pasa con Will, Charlie cruza una línea. Will confronta a Reggie y a Andy.",
+        "released": "2023-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5s5TypxgHs87I9lc57EED9ApZjk.jpg"
+      },
+      {
+        "id": "tt13366604:1:10",
+        "title": "Cuando Will conoció a Sylvia",
+        "season": 1,
+        "episode": 10,
+        "overview": "La tensión estalla entre Sylvia y Will en la fiesta de su casa nueva.",
+        "released": "2023-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yjrJwtoDvMo7obZpAZpBuPNZKG5.jpg"
+      },
+      {
+        "id": "tt13366604:2:1",
+        "title": "La fiesta de compromiso",
+        "season": 2,
+        "episode": 1,
+        "overview": "Sylvia y Will descubren los nuevos límites de su amistad ahora que Will está comprometido con Jenna.",
+        "released": "2025-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1oyyk36Oku6SdK2vCf689PHhbU8.jpg"
+      },
+      {
+        "id": "tt13366604:2:2",
+        "title": "Cena en parejas",
+        "season": 2,
+        "episode": 2,
+        "overview": "En un esfuerzo por conocer a Jenna, Sylvia y Charlie la invitan a ella y a Will a una cena en parejas.",
+        "released": "2025-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hh3qUBDzkjuWMuTJeGqh0nTdIA9.jpg"
+      },
+      {
+        "id": "tt13366604:2:3",
+        "title": "La despedida de soltero",
+        "season": 2,
+        "episode": 3,
+        "overview": "El amigo de Sylvia y de Will llega a la ciudad para la despedida de soltero. Sylvia ayuda a Will a hacerle frente a su relación.",
+        "released": "2025-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v1OsPOxVHYIzt5VNCYDeDc7oQMz.jpg"
+      },
+      {
+        "id": "tt13366604:2:4",
+        "title": "¡Cuidado!",
+        "season": 2,
+        "episode": 4,
+        "overview": "Will le recomienda a Sylvia a ir más allá. En San Diego, los planes de Will con Jenna toman un giro inesperado.",
+        "released": "2025-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9D0o3yDQxSQZx2oqw2yFYLRjycr.jpg"
+      },
+      {
+        "id": "tt13366604:2:5",
+        "title": "Jeopardy",
+        "season": 2,
+        "episode": 5,
+        "overview": "Cuando Will se muda con Sylvia y Charlie, su nuevo empleo los obliga a pasar tiempo juntos. Charlie va a Jeopardy!.",
+        "released": "2025-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vlW3FYid7s2MinsseWc8X8aLa0c.jpg"
+      },
+      {
+        "id": "tt13366604:2:6",
+        "title": "El viaje",
+        "season": 2,
+        "episode": 6,
+        "overview": "Sylvia, Will y Katie viajan al desierto. Will enfrenta la realidad de trabajar para su exprometida. Sylvia cuestiona la estabilidad de Charlie.",
+        "released": "2025-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r5eM62SLWvt5ABw4XK9k1TfTtFl.jpg"
+      },
+      {
+        "id": "tt13366604:2:7",
+        "title": "La gran fiesta",
+        "season": 2,
+        "episode": 7,
+        "overview": "Will ayuda a Sylvia a organizar una fiesta para el bufete de Charlie, quien hace un anuncio.",
+        "released": "2025-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bNvB7f28UGyynR1Khe7LmZUvIJn.jpg"
+      },
+      {
+        "id": "tt13366604:2:8",
+        "title": "Los misterios del joven Darcy",
+        "season": 2,
+        "episode": 8,
+        "overview": "Sylvia organiza una fiesta importante de Hollywood. Will encuentra a un extraño inversionista para su nuevo bar. Charlie piensa en su futuro profesional.",
+        "released": "2025-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2GFWoM65LajrX8X8jZzpjipHhs2.jpg"
+      },
+      {
+        "id": "tt13366604:2:9",
+        "title": "Límites",
+        "season": 2,
+        "episode": 9,
+        "overview": "Para no lidiar con Charlie, Sylvia se une a la aventura de Will y Katie al río LA.",
+        "released": "2025-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aJXFuGjqUd7p2kD98nFsebZbbdm.jpg"
+      },
+      {
+        "id": "tt13366604:2:10",
+        "title": "La misión final de Brett Coyote",
+        "season": 2,
+        "episode": 10,
+        "overview": "La amistad de Sylvia y Will topa con pared. Sylvia tiene una revelación sobre su matrimonio. Will recibe noticias sobre su bar.",
+        "released": "2025-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sLPAPCC7U2GOnfPrN1RGceeRIvo.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "id": "tt10982034",
+    "type": "series",
+    "name": "Trying",
+    "poster": "https://image.tmdb.org/t/p/w500/g22MReRLEc2Zey6hKIWEsT0Uu59.jpg",
+    "posterShape": "poster",
+    "description": "Nikki y Jason anhelan un bebé y, al no poder concebir, deciden adoptar. Pero con vidas caóticas, amigos disfuncionales y parientes dramáticos, ¿logrará esta pareja formar la familia de sus sueños?",
+    "releaseInfo": "2020",
+    "genres": [
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/jeGWGcS2OrCvwFh3NBb3KxX7OZY.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10982034:1:1",
+        "title": "Nikky y Jason",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cuando se enteran de que una segunda ronda de fecundación in vitro sería demasiado cara y con pocas probabilidades de éxito, empiezan a considerar la posibilidad de adoptar.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o28WB1afDS68zAkVrhd3ZC4OGeF.jpg"
+      },
+      {
+        "id": "tt10982034:1:2",
+        "title": "La exnovia",
+        "season": 1,
+        "episode": 2,
+        "overview": "Jason contacta a una exnovia antes de que los trabajadores sociales la entrevisten. Nikki sale a cenar con su hermana y su desagradable novio.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zEYzVFGbPndVMTUXqW95wPs419L.jpg"
+      },
+      {
+        "id": "tt10982034:1:3",
+        "title": "Entradas para una fila",
+        "season": 1,
+        "episode": 3,
+        "overview": "Nikki y Jason acuden a un día de campo con otros padres potenciales y se sienten intimidados por la calidad de la competencia.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xHxTSoPXJzcxehYoRbybDqiDurh.jpg"
+      },
+      {
+        "id": "tt10982034:1:4",
+        "title": "La gente del castiio arcoíris",
+        "season": 1,
+        "episode": 4,
+        "overview": "Después de una noche alocada con Érica y Freddy, Nikki y Jason se enfrentan a un posible desastre como consecuencia a la mañana siguiente.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oTVCtV39hebXJbAUHMSV3mD3KM5.jpg"
+      },
+      {
+        "id": "tt10982034:1:5",
+        "title": "Los niños de alguien más",
+        "season": 1,
+        "episode": 5,
+        "overview": "Para obtener más experiencia con niños, Nikki y Jason acceden a cuidar a los dos hijos de sus amigos.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ozNoXTG2KkJdlpcouFxiCFnE38o.jpg"
+      },
+      {
+        "id": "tt10982034:1:6",
+        "title": "Muéstrame el amor",
+        "season": 1,
+        "episode": 6,
+        "overview": "Jason se asusta de la adopción después de una sesión obligatoria de capacitación. Karen le da a Nikki una mala noticia.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eAyyJ8G192jHj7bBy9n9N3H9k0B.jpg"
+      },
+      {
+        "id": "tt10982034:1:7",
+        "title": "Un buen mapa familiar",
+        "season": 1,
+        "episode": 7,
+        "overview": "Nikki desconfía de Jason después de leer un mensaje sospechoso en su tableta. Una reunión familiar se sale de control.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zUWfAvG8I4QbQ6U0lugygdns29j.jpg"
+      },
+      {
+        "id": "tt10982034:1:8",
+        "title": "Conocemos el camino",
+        "season": 1,
+        "episode": 8,
+        "overview": "A pesar de su nuevo inquilino incómodo, llegó el momento de que Nikki y Jason enfrenten al panel de adopción.",
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eTjU6T0c5c1z8T8w3z5F1M7rogU.jpg"
+      },
+      {
+        "id": "tt10982034:2:1",
+        "title": "Un buen niño",
+        "season": 2,
+        "episode": 1,
+        "overview": "Nikki y Jason han sido aprobados para adoptar, pero el proceso de encontrar un niño les es un desafío. La trabajadora social, Penny, tiene un plan.",
+        "released": "2021-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wdUKUvI66snhQ50QbagrsMIht8v.jpg"
+      },
+      {
+        "id": "tt10982034:2:2",
+        "title": "Cálido como la luz del Sol",
+        "season": 2,
+        "episode": 2,
+        "overview": "Penny envía a Nikki y a Jason a una fiesta de disfraces que podría cambiarles la vida. Nikki ayuda a su hermana, Karen, a elegir un vestido de novia.",
+        "released": "2021-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2bs4Wn2hhEJk9Cb8LBMadHujIbi.jpg"
+      },
+      {
+        "id": "tt10982034:2:3",
+        "title": "Cabezones",
+        "season": 2,
+        "episode": 3,
+        "overview": "La ex de Jason amenaza con interponerse entre él y Nikki durante un funeral familiar. Karen se esfuerza por hacer que Scott se involucre en la planeación de su boda.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/udXi7izmzle2JUyUnuC4gL5jHWK.jpg"
+      },
+      {
+        "id": "tt10982034:2:4",
+        "title": "Sobreprotectores",
+        "season": 2,
+        "episode": 4,
+        "overview": "Nikki y Jason hacen una visita durante su viaje de adopción. Nikki le hace una cita a Erica con un amigo de Jason. Karen se siente atraída a Deven, un padre soltero.",
+        "released": "2021-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8IqrivJ2S4MIqrhKkdaPS7ApSaJ.jpg"
+      },
+      {
+        "id": "tt10982034:2:5",
+        "title": "La cosa más loca y dulce",
+        "season": 2,
+        "episode": 5,
+        "overview": "Nikki y Jason buscan un apartamento más grande, apto para niños. Nikki lucha por un ascenso en el trabajo. Karen es tentada con ser infiel.",
+        "released": "2021-06-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/opPXz9wvvL9t4OPiy96uYFN7gHi.jpg"
+      },
+      {
+        "id": "tt10982034:2:6",
+        "title": "Una largo camino abajo",
+        "season": 2,
+        "episode": 6,
+        "overview": "Jason juega al detective después de que un problema es revelado en la fiesta de Ben y Denise. Freddy tiene problemas en su relación.",
+        "released": "2021-06-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gvS20CtNLec4wPZ44181OTi1Hqi.jpg"
+      },
+      {
+        "id": "tt10982034:2:7",
+        "title": "Elévame",
+        "season": 2,
+        "episode": 7,
+        "overview": "Planear la despedida de soltero de Scott es un dolor de cabeza para Jason. Karen le cuenta un secreto a Nikki. La relación de Erica y Freddy se vuelve confusa.",
+        "released": "2021-06-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7DRmAkXNJQ6vDj7sjpxQqXt2IaC.jpg"
+      },
+      {
+        "id": "tt10982034:2:8",
+        "title": "Tengo miedo",
+        "season": 2,
+        "episode": 8,
+        "overview": "Nikki y Jason deben tomar una enorme decisión en muy poco tiempo.",
+        "released": "2021-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oss5cPg67oMX8kRh6b4hWeFpj4d.jpg"
+      },
+      {
+        "id": "tt10982034:3:1",
+        "title": "Casa",
+        "season": 3,
+        "episode": 1,
+        "overview": "Jason y Nikki despiertan como los nuevos padres de dos niños que apenas conocen. Pero ¿podrán quedarse a ambos?",
+        "released": "2022-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ue4BzMWcQrAWgi3K0bZCwgLcRcF.jpg"
+      },
+      {
+        "id": "tt10982034:3:2",
+        "title": "El círculo",
+        "season": 3,
+        "episode": 2,
+        "overview": "Jason se preocupa de que molesten a Tyler en la escuela. Nikki debe despedir a alguien del trabajo. Una mala noticia del casero fuerza a Jason a hacer una apuesta arriesgada.",
+        "released": "2022-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/IRjoVWJxbqTIZzZNzMqxr02N9W.jpg"
+      },
+      {
+        "id": "tt10982034:3:3",
+        "title": "Captura la bandera",
+        "season": 3,
+        "episode": 3,
+        "overview": "En un fin de semana de campamento, Nikki y Jason intentan crear lazos con los niños. En casa, Karen enfrenta una crisis existencial y Freddy se da cuenta de que está solo.",
+        "released": "2022-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cblviEO62cNFMJN4C5KZi9yOEF8.jpg"
+      },
+      {
+        "id": "tt10982034:3:4",
+        "title": "Pasos pequeños",
+        "season": 3,
+        "episode": 4,
+        "overview": "Planear la fiesta de cumpleaños de Tyler resulta más complicado de lo que Nikki y Jason esperaban, especialmente después de que Karen comparte una gran noticia.",
+        "released": "2022-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aeBBvux2I22QY8FoaHLHjxBNZFJ.jpg"
+      },
+      {
+        "id": "tt10982034:3:5",
+        "title": "Elige un lado",
+        "season": 3,
+        "episode": 5,
+        "overview": "Jason hace un enorme sacrificio por Tyler. Nikki intenta amor duro con Princess. Freddy prueba una terapia de grupo diferente.",
+        "released": "2022-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s9PhltU3WwnXHis43SMzw2YopQo.jpg"
+      },
+      {
+        "id": "tt10982034:3:6",
+        "title": "Los sentimientos son lo peor",
+        "season": 3,
+        "episode": 6,
+        "overview": "El futuro de Jason y Nikki con los niños parece estar en juego tras un error. Tyler se despide de un amigo. Scott consigue un contrato para su libro.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6W8plRlGVAWTP8SF4FUvdnbcSIm.jpg"
+      },
+      {
+        "id": "tt10982034:3:7",
+        "title": "¡Vaya banquero!",
+        "season": 3,
+        "episode": 7,
+        "overview": "El lanzamiento del libro de Scott no sale según lo planeado. Jason tiene dificultades en su nuevo trabajo. Nikki al fin aprende de amor duro.",
+        "released": "2022-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uNCcR5A7FH2MJedbCGHktyCcOvc.jpg"
+      },
+      {
+        "id": "tt10982034:3:8",
+        "title": "El fin del principio",
+        "season": 3,
+        "episode": 8,
+        "overview": "Mientras Nikki y Jason se preparan para averiguar si podrán quedarse a los niños, toman una decisión impulsiva que requiere la ayuda de su familia.",
+        "released": "2022-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rd8PyXkbpW76HiDyWFXdqJHwprw.jpg"
+      },
+      {
+        "id": "tt10982034:4:1",
+        "title": "La despedida",
+        "season": 4,
+        "episode": 1,
+        "overview": "La familia se reúne por una pérdida... y también podría separarse.",
+        "released": "2024-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aG6vG3kBw5egBkUAGZmkWZnk1vJ.jpg"
+      },
+      {
+        "id": "tt10982034:4:2",
+        "title": "Ignorado",
+        "season": 4,
+        "episode": 2,
+        "overview": "La impulsividad de Nikki provoca una salida nocturna con Jason y un hombre misterioso.",
+        "released": "2024-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uB0v4mad5XqTeeXNUuNqcgq8UMV.jpg"
+      },
+      {
+        "id": "tt10982034:4:3",
+        "title": "Asesinato en la mansión Slaughterbridge",
+        "season": 4,
+        "episode": 3,
+        "overview": "Una fiesta familiar hace que el cumpleañero tome una decisión que cambiará su vida.",
+        "released": "2024-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w1GnVAmJg4ZWv9qA0yqsE238g6.jpg"
+      },
+      {
+        "id": "tt10982034:4:4",
+        "title": "Viaje",
+        "season": 4,
+        "episode": 4,
+        "overview": "Jason crea un equipo de fútbol juvenil para ayudar a Tyler a encajar. Nikki, Karen y Princess van a Brighton... y una tiene un secreto.",
+        "released": "2024-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fnfFsoV84wrsZnlX2g2WjZU0qlX.jpg"
+      },
+      {
+        "id": "tt10982034:4:5",
+        "title": "Día de las Madres",
+        "season": 4,
+        "episode": 5,
+        "overview": "Una celebración en el spa termina siendo sorprendentemente estresante. El plan de Jason para unir al equipo se sale de control.",
+        "released": "2024-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sfEZMdRi2VZWMQ7NSorJgiLh7d8.jpg"
+      },
+      {
+        "id": "tt10982034:4:6",
+        "title": "Carrera al aeropuerto",
+        "season": 4,
+        "episode": 6,
+        "overview": "Unos viejos amigos estropean las buenas intenciones de Jason y Nikki mientras que, sin saberlo, su familia está a punto de desequilibrarse.",
+        "released": "2024-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lUEUgBlSj9GoLmeEHQhMzaYtXxK.jpg"
+      },
+      {
+        "id": "tt10982034:4:7",
+        "title": "Mentiras piadosas",
+        "season": 4,
+        "episode": 7,
+        "overview": "Nikki busca respuestas en España. En casa, Jason debe pedir refuerzos para evitar un desastre.",
+        "released": "2024-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fALhE0gCSJ52IDJjbRIPFe0SJAl.jpg"
+      },
+      {
+        "id": "tt10982034:4:8",
+        "title": "Scott del Atlántico",
+        "season": 4,
+        "episode": 8,
+        "overview": "Scott ya no puede dar marcha atrás. Jason y su equipo deben enfrentar la verdad. Princess hace un gran descubrimiento.",
+        "released": "2024-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hHz7GV8jgkeljTqQjC9KNjsE4Oe.jpg"
+      },
+      {
+        "id": "tt10982034:5:1",
+        "title": "Montaña rusa",
+        "season": 5,
+        "episode": 1,
+        "overview": "Las consecuencias de la mentira de Nikki continúan mientras la llegada de Kat amenaza la dinámica familiar de Nikki y Jason.",
+        "released": "2026-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/99Wdp9JJNCoF8NUpPIMqXNFWTuf.jpg"
+      },
+      {
+        "id": "tt10982034:5:2",
+        "title": "Primeros días",
+        "season": 5,
+        "episode": 2,
+        "overview": "Nikki y Jason comienzan una nueva etapa en sus vidas. Karen descubre algo impactante.",
+        "released": "2026-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ghrXknQbFl8IiBWrHUuWlU8wYRN.jpg"
+      },
+      {
+        "id": "tt10982034:5:3",
+        "title": "La ratonera",
+        "season": 5,
+        "episode": 3,
+        "overview": "Mientras Jason revive su juventud, Nikki conoce a un nuevo compañero de trabajo. Karen descubre el precio de guardar un secreto.",
+        "released": "2026-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yUwBHXjW6b9cbyk7EATj7uOGIhn.jpg"
+      },
+      {
+        "id": "tt10982034:5:4",
+        "title": "El huracán",
+        "season": 5,
+        "episode": 4,
+        "overview": "Un desastre natural reúne a la familia.",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kjjTQDcNQE1WTGvTHizyWuXsT6Z.jpg"
+      },
+      {
+        "id": "tt10982034:5:5",
+        "title": "Asco",
+        "season": 5,
+        "episode": 5,
+        "overview": "Tanto Jason como Nikki enfrentan su realidad. Vic se rinde ante la presión de su propio éxito.",
+        "released": "2026-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eeoy2T3DfXLLIUh8MnZazfPloWv.jpg"
+      },
+      {
+        "id": "tt10982034:5:6",
+        "title": "Halloween",
+        "season": 5,
+        "episode": 6,
+        "overview": "La cita de Nikki y Jason se arruina por el recelo, mientras la noche de Princess se sale de control.",
+        "released": "2026-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cxZsE1ax4mN87hfogApXXl95DNk.jpg"
+      },
+      {
+        "id": "tt10982034:5:7",
+        "title": "Toscana",
+        "season": 5,
+        "episode": 7,
+        "overview": "Cuando Nikki y Jason viajan a la Toscana, nada sale como lo esperaban, ni en casa ni en el extranjero.",
+        "released": "2026-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lB5XmIj3kiGi8tA4BbrxpKqQpK5.jpg"
+      },
+      {
+        "id": "tt10982034:5:8",
+        "title": "WoodScott",
+        "season": 5,
+        "episode": 8,
+        "overview": "Las verdades salen a la luz en un festival familiar.",
+        "released": "2026-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/edl0VKnXkobNpEqrY9jw83LjmaG.jpg"
+      }
+    ]
+  }
+}

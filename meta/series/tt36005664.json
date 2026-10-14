@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "id": "tt36005664",
+    "type": "series",
+    "name": "Las estrellas afrodescendientes más influyentes de Hollywood",
+    "poster": "https://image.tmdb.org/t/p/w500/g8R1GpzOB6XR8tXQOXN9qikP2j0.jpg",
+    "posterShape": "poster",
+    "description": "Algunas de las mayores estrellas de Hollywood revelan sus procesos hacia los protagónicos que cambiaron el juego. En entrevistas sinceras, sacan a la luz los altos y bajos de su profesión, sus momentos de descubrimiento, los planos para le éxito y el gran potencial de la próxima generación.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/a6aOiUBrOTnLnQ7zYNjEhLlpRqx.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "3.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt36005664:1:1",
+        "title": "Los hombres afrodescendientes más influyentes de Hollywood",
+        "season": 1,
+        "episode": 1,
+        "overview": "Gigantes del cine se sinceran sobre logros históricos, el verdadero rol del protagonista, el arte del éxito prolongado y la dominación de la taquilla.",
+        "released": "2025-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AsiqXnFjJb6NhVW5BY8ddnXPRNV.jpg"
+      },
+      {
+        "id": "tt36005664:1:2",
+        "title": "Las mujeres afrodescendientes más influyentes de Hollywood",
+        "season": 1,
+        "episode": 2,
+        "overview": "Leyendas del cine conversan sobre sus grandes oportunidades, navegar el sistema de estrellas de Hollywood con gracia y reclamar un lugar en la mesa.",
+        "released": "2025-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f3hbFaNH20lwbziwYji7HjcS7A9.jpg"
+      }
+    ]
+  }
+}

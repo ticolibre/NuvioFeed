@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "id": "tt25515858",
+    "type": "series",
+    "name": "La isla de las figuras",
+    "poster": "https://image.tmdb.org/t/p/w500/A0Faip1t1qCLRhVz9kw0Bf8k63J.jpg",
+    "posterShape": "poster",
+    "description": "En una isla encantadora, Cuadrado, Triángulo y Círculo buscan aventura y conexión mientras aprenden a sobrellevar las diferencias de cada uno.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Kids",
+      "Familia",
+      "Animación"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/mBQLw9TkOWERNmAlKlkOAo3ehdA.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt25515858:1:1",
+        "title": "El muy lindo gesto de Cuadrado / El eclipse",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cuadrado comete un error al compartir unos raros plátanos. Triángulo y Cuadrado intentan ocultarle un secreto a Círculo.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8PbVHTRZUz186HtRmWldAZTMXu1.jpg"
+      },
+      {
+        "id": "tt25515858:1:2",
+        "title": "La gran broma de Cuadrado / El plan de Círculo se desmorona",
+        "season": 1,
+        "episode": 2,
+        "overview": "Ansioso por hacerle una broma a Triángulo, Cuadrado planea una sorpresa furtiva. Círculo busca respuestas cuando un animal secuestra su preciada planta.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6eVfdJFqUeXUGp5gg80Kj5xWYml.jpg"
+      },
+      {
+        "id": "tt25515858:1:3",
+        "title": "Triángulo se deja llevar / El día diferente de Cuadrado",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un simple plan resulta en un proyecto enorme para Triángulo. Cuadrado trabaja en una escultura de Círculo.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rG9UjkcqveIattHsidCZUzBz38w.jpg"
+      },
+      {
+        "id": "tt25515858:1:4",
+        "title": "Día del Triángulo / La tormenta",
+        "season": 1,
+        "episode": 4,
+        "overview": "Círculo y Cuadrado aprenden a celebrar una fiesta única. Una tormenta que se aproxima emociona a Triángulo y preocupa a sus amigos.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dSmWpBrslF9elIMnpYbu20PoJxD.jpg"
+      },
+      {
+        "id": "tt25515858:1:5",
+        "title": "Mensaje en una botella / El lugar especial de Cuadrado",
+        "season": 1,
+        "episode": 5,
+        "overview": "Triángulo y Cuadrado encuentran unas misteriosas botellas en la playa. Mientras juegan al escondite, Cuadrado descubre un lugar tranquilo.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zkKLKtb7EWo14iUYwA6DIY3MNGb.jpg"
+      },
+      {
+        "id": "tt25515858:1:6",
+        "title": "Triángulo explora solo / Círculo se equivoca",
+        "season": 1,
+        "episode": 6,
+        "overview": "El intrépido Triángulo sale a explorar solo. Círculo dirige un viaje a unas ruinas antiguas donde inesperadamente encuentra problemas.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iJ0yvlFBeBxI928BLQ7diMnBEgB.jpg"
+      },
+      {
+        "id": "tt25515858:1:7",
+        "title": "La pijamada de Cuadrado / Crecer cuesta",
+        "season": 1,
+        "episode": 7,
+        "overview": "Un cambio de planes pone a prueba la paciencia de Cuadrado. Círculo ayuda a Cuadrado a armar un jardín, pero su éxito inmediato le afecta.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rOtJgPonIrBjeW0lZITMqqkX0uH.jpg"
+      },
+      {
+        "id": "tt25515858:1:8",
+        "title": "El gran juego de Triángulo y Cuadrado / La estrella fugaz",
+        "season": 1,
+        "episode": 8,
+        "overview": "Cuando Círculo desestima su juego, Triángulo y Cuadrado se sienten inseguros. Un misterioso meteorito inspira un viaje a través de la isla.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bU7EBKQxKhSHqaMiaBiOvFbyw6o.jpg"
+      },
+      {
+        "id": "tt25515858:1:9",
+        "title": "La cueva embrujada",
+        "season": 1,
+        "episode": 9,
+        "overview": "Después de la broma de Triángulo, Círculo y Cuadrado celebran Halloween por sí solos con muchos dulces y sin nada de trucos.",
+        "released": "2023-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fSlkVghjdcQYzGuEfnvdrp4Rw2z.jpg"
+      },
+      {
+        "id": "tt25515858:1:10",
+        "title": "Tristeza invernal",
+        "season": 1,
+        "episode": 10,
+        "overview": "La época fría hace que Cuadrado se ponga triste, así que Círculo y Triángulo intentan alegrarlo creando una nueva celebración: La noche yeti.",
+        "released": "2023-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q5glOAcsZQXH7FvBSFlDdaYh4IU.jpg"
+      },
+      {
+        "id": "tt25515858:2:1",
+        "title": "El gran día de la Narradora / El cofre del tiempo de Cuadrado",
+        "season": 2,
+        "episode": 1,
+        "overview": "Un día bastante normal de las figuras le da tiempo a la Narradora para ella sola. A Cuadrado le cuesta encontrar el objeto perfecto para su cápsula del tiempo.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5JQCdcBRBOKgWi6bMFdDlhknVrH.jpg"
+      },
+      {
+        "id": "tt25515858:2:2",
+        "title": "Bolígrafo de brillos / La alergia de Triángulo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Cuadrado se siente culpable tras intercambiar un regalo de Círculo. Cuadrado y Círculo tratan de encontrar la causa de las alergias de Triángulo.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nRJifxZ9gNyfMmmQ3QzY7XjlGWn.jpg"
+      },
+      {
+        "id": "tt25515858:2:3",
+        "title": "La taza perdida de Cuadrado / Triángulo se queda quieto",
+        "season": 2,
+        "episode": 3,
+        "overview": "La desaparición de la taza favorita de Cuadrado lo lleva a buscar por toda la isla. Triángulo apuesta con Círculo que puede meditar durante 10 minutos.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/I2XNhqlOrTBVikxIio8hlNtvVZ.jpg"
+      },
+      {
+        "id": "tt25515858:2:4",
+        "title": "El nuevo roomie de Círculo / La ranatencia",
+        "season": 2,
+        "episode": 4,
+        "overview": "Círculo despierta con una sorpresa... y de pronto necesita un lugar donde quedarse. Un nuevo visitante en la isla causa gran revuelo.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mcApduhQ6CSbtnp42mWwVk0zcWy.jpg"
+      },
+      {
+        "id": "tt25515858:2:5",
+        "title": "Desde arriba hasta abajo / El igual de Círculo",
+        "season": 2,
+        "episode": 5,
+        "overview": "Círculo, Cuadrado y Triángulo compiten en una carrera alocada por un sabroso premio. Círculo está emocionada de conocer por fin a una figura como ella.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sBTcYSWMwVkkTxuO6NowiyylAzS.jpg"
+      },
+      {
+        "id": "tt25515858:2:6",
+        "title": "El regalo perfecto / Sombrero de alta costura",
+        "season": 2,
+        "episode": 6,
+        "overview": "Triángulo y Cuadrado siguen un mapa misterioso, con la esperanza de encontrar un tesoro. El diseño del sombrero de Círculo la inspira a crear cosas más grandes y mejores.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b14Ezdfz5WzAhjTV0ndUAPF8B4b.jpg"
+      },
+      {
+        "id": "tt25515858:2:7",
+        "title": "Triángulo tiene superpoderes / El sonido de Círculo",
+        "season": 2,
+        "episode": 7,
+        "overview": "Tras pedir un deseo a una “estrella”, Triángulo está convencido de que se cumplió. Triángulo y Cuadrado quieren que Círculo se una a su banda.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wQd9hiU95W6GMMbrUykfAPNkIzu.jpg"
+      },
+      {
+        "id": "tt25515858:2:8",
+        "title": "El diente gigante / Día de la foto",
+        "season": 2,
+        "episode": 8,
+        "overview": "Una pequeña Círculo está decidida a demostrar que no necesita ayuda. Las figuras se topan con obstáculos al intentar tomarse su foto anual.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lO0wXyGv0dU7NnrgIdbCSQ16VpA.jpg"
+      }
+    ]
+  }
+}

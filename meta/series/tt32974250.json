@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "tt32974250",
+    "type": "series",
+    "name": "Cochinas",
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+    "posterShape": "poster",
+    "description": "When her husband falls into a coma, Nines, a traditional housewife, transforms the family business into the first adult video store in Valladolid.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/pGhq2AODZEB1y0aAYYF6DqiJMj7.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt32974250:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yfvizo9TlKQ10a4mJKi85NAuxmC.jpg"
+      },
+      {
+        "id": "tt32974250:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oF5GRrv2yJo1yCxhGVUp8zj6kD0.jpg"
+      },
+      {
+        "id": "tt32974250:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b6BGaqD4f9BNKovZPtwt5JqTUoI.jpg"
+      },
+      {
+        "id": "tt32974250:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eu1czpNC0F0P0rLqNz3yJQz2aj8.jpg"
+      },
+      {
+        "id": "tt32974250:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qNqZsakFP9ofqXtkE2t01QCsN6o.jpg"
+      },
+      {
+        "id": "tt32974250:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o8srCqu6xTE0JPdUiD2zBY4idHI.jpg"
+      },
+      {
+        "id": "tt32974250:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vaRcMhVum8obFBmsMm4RU13tRU3.jpg"
+      },
+      {
+        "id": "tt32974250:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8kbrPHZCFlFE9atXCZmDHRtYz6k.jpg"
+      }
+    ]
+  }
+}

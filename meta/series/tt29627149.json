@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "tt29627149",
+    "type": "series",
+    "name": "John Lennon: Asesinato sin juicio",
+    "poster": "https://image.tmdb.org/t/p/w500/c6baoLRzK4PG4SThgSpO4F69G2R.jpg",
+    "posterShape": "poster",
+    "description": "Por primera vez, figuras clave de la vida y la muerte de John Lennon, entre ellos amigos, médicos e investigadores, comparten sus recuerdos personales y revelan lo que sucedió la noche de su asesinato.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wUZPZXP9INmE7KzHUaPnRIbXHQQ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt29627149:1:1",
+        "title": "El último día",
+        "season": 1,
+        "episode": 1,
+        "overview": "El 8 de diciembre de 1980 se desata una tragedia en el edificio Dakota en la ciudad de Nueva York, y los amigos cercanos de un ícono intentan entender este crimen sin sentido.",
+        "released": "2023-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/760CMiFn89rkpp9iBJrM25czqdL.jpg"
+      },
+      {
+        "id": "tt29627149:1:2",
+        "title": "La investigación",
+        "season": 1,
+        "episode": 2,
+        "overview": "Al tiempo que llegan los medios al Upper West Side, policías y médicos analizan la mente de Mark David Chapman y comparten sus hallazgos.",
+        "released": "2023-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dO6kpsb5K2xW776ajEAl5mzfqh5.jpg"
+      },
+      {
+        "id": "tt29627149:1:3",
+        "title": "El juicio",
+        "season": 1,
+        "episode": 3,
+        "overview": "En grabaciones inéditas, el equipo legal de Chapman asesora a su cliente y se prepara para defender al hombre más odiado de los Estados Unidos.",
+        "released": "2023-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p5WZ76rTB94EMSFv9dO7EtvCgFK.jpg"
+      }
+    ]
+  }
+}

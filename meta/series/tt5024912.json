@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "id": "tt5024912",
+    "type": "series",
+    "name": "Insecure",
+    "poster": "https://image.tmdb.org/t/p/w500/sGMwPIE6m9QI3LzCRXnZG8opZtB.jpg",
+    "posterShape": "poster",
+    "description": "Las amigas Issa y Molly nos traen la historia dos mujeres negras que desafían todos los estereotipos en la nueva comedia de HBO, “Insecure”. Enfrentándose a la complicada realidad cotidiana, Issa y Molly aprenderán sobre relaciones y a asumir sus lados más intrépidos, mientras se dan cuenta de que dejar las inseguridades atrás es una tarea difícil de lograr.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/jS2R26p1S7JQtSCo4MjA9El45A8.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt5024912:1:1",
+        "title": "Más insegura que nunca",
+        "season": 1,
+        "episode": 1,
+        "overview": "En su cumpleaños número veintinueve, Issa se harta de su novio y se reencuentra con su ex en una noche de talentos. Molly, por su parte, se cuestiona su soltería...",
+        "released": "2016-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6knKgEZVPoDTOMDuqPIA5qsAGz4.jpg"
+      },
+      {
+        "id": "tt5024912:1:2",
+        "title": "Más desastrosa que nunca",
+        "season": 1,
+        "episode": 2,
+        "overview": "Issa intenta mostrar una personalidad más audaz, pero sigue evitando a Lawrence. Molly se regala un «día de fiesta» y se encuentra con un nuevo hombre.",
+        "released": "2016-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kzZwIfVDWGtClQejE00sZjgwtDX.jpg"
+      },
+      {
+        "id": "tt5024912:1:3",
+        "title": "Más racistas que nunca",
+        "season": 1,
+        "episode": 3,
+        "overview": "Lawrence e Issa se dan una nueva oportunidad. Molly descubre algo más del pasado de Jared en una situación muy incómoda. Issa oye a sus compañeros de trabajo hablar mal de ella.",
+        "released": "2016-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nlFN4u7PVpYnDBkV4TtnGu1p2HX.jpg"
+      },
+      {
+        "id": "tt5024912:1:4",
+        "title": "Más sedienta que nunca",
+        "season": 1,
+        "episode": 4,
+        "overview": "La jefa de Molly le pide que hable con una colega sobre la «cultura de la empresa». Los compañeros de clase de Issa aprenden demasiado de ella en el Día de las Carreras.",
+        "released": "2016-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zupXlDCvndW87ICD1kYqXHxQCZl.jpg"
+      },
+      {
+        "id": "tt5024912:1:5",
+        "title": "Más turbio que nunca",
+        "season": 1,
+        "episode": 5,
+        "overview": "Issa necesita que ese video desaparezca. Para eso, acude a Daniel y a Molly, quien llama a Jared..., y todos terminan donde no esperaban.",
+        "released": "2016-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sHSY4fmfHKlDbPcYTfpQdRejqpy.jpg"
+      },
+      {
+        "id": "tt5024912:1:6",
+        "title": "Más culpable que nunca",
+        "season": 1,
+        "episode": 6,
+        "overview": "Lawrence redobla su estrategia, pero Issa tiene sentimientos encontrados. Molly se siente incómoda cuando Jared le cuenta algo sobre su pasado.",
+        "released": "2016-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/92jsgqxLNiKaSPer0oJBTTjmsSP.jpg"
+      },
+      {
+        "id": "tt5024912:1:7",
+        "title": "Más real que nunca",
+        "season": 1,
+        "episode": 7,
+        "overview": "Molly se encuentra con una vieja amiga que alaba la terapia. En el trabajo de Issa, la recaudación de fondos va por buen camino, hasta que aparece Daniel.",
+        "released": "2016-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hmHwOOjOpRoqcSnidFkGAE9tFlL.jpg"
+      },
+      {
+        "id": "tt5024912:1:8",
+        "title": "Más rota que nunca",
+        "season": 1,
+        "episode": 8,
+        "overview": "Lawrence dice que está harto de Issa, pero pronto descubre que la extraña. En un dramático viaje de chicas con Kelli y Tiffany, Issa intenta reconciliarse con Molly .",
+        "released": "2016-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1rNL3Xobcd2pOva3DvmcWL5Wgsv.jpg"
+      },
+      {
+        "id": "tt5024912:2:1",
+        "title": "Superbién",
+        "season": 2,
+        "episode": 1,
+        "overview": "Issa comienza a salir de nuevo, pero no puede sacarse a Lawrence de la cabeza. Sin esperarlo, Molly descubre cuánto la valora su empresa.",
+        "released": "2017-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vRm6dtXxByeEgvjiBRIQe2SSm3o.jpg"
+      },
+      {
+        "id": "tt5024912:2:2",
+        "title": "Superpreguntas",
+        "season": 2,
+        "episode": 2,
+        "overview": "Mientras Issa se obsesiona, Lawrence se confiesa. Molly intenta infiltrarse en el club de chicos de la oficina. Frieda e Issa lidian con un subdirector prejuicioso.",
+        "released": "2017-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u1wVg59rrlr20BbcPK24ZfF19L2.jpg"
+      },
+      {
+        "id": "tt5024912:2:3",
+        "title": "Superabierta",
+        "season": 2,
+        "episode": 3,
+        "overview": "Issa se siente atrapada en una fase de citas frustrante. Lawrence debe elegir entre el amor y los amigos. Molly conoce a un chico que es increíble... en teoría.",
+        "released": "2017-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sZ7QNJdKTcAym07fI6TWSJPYeLd.jpg"
+      },
+      {
+        "id": "tt5024912:2:4",
+        "title": "Super Los Ángeles",
+        "season": 2,
+        "episode": 4,
+        "overview": "Una simple compra en el supermercado acaba en un encuentro extraordinario. Un viejo amigo coquetea con Molly. Una experiencia con una app de citas golpea la confianza de Issa.",
+        "released": "2017-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cM1dESHuRbBs2Rtg1lctRGp0Hpi.jpg"
+      },
+      {
+        "id": "tt5024912:2:5",
+        "title": "Supersacudón",
+        "season": 2,
+        "episode": 5,
+        "overview": "Tras enterarse de algo inquietante en un evento familiar, Molly toma una decisión apresurada. La conexión entre Daniel e Issa saca a Lawrence de sus casillas.",
+        "released": "2017-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v8cfFIUPjenNq1NwIlM7Pq0QFG.jpg"
+      },
+      {
+        "id": "tt5024912:2:6",
+        "title": "Supermamadas",
+        "season": 2,
+        "episode": 6,
+        "overview": "Issa se da cuenta de que sus parejas quieren demasiado de ella... o le ofrecen muy poco. Molly vuelve con Dro, pero jura que esta será la última vez.",
+        "released": "2017-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zcifEXv2ZotmCLoLV68kVmNqNHf.jpg"
+      },
+      {
+        "id": "tt5024912:2:7",
+        "title": "Superirrespetuoso",
+        "season": 2,
+        "episode": 7,
+        "overview": "Issa descubre que Frieda tenía razón. La cena de Derek y Tiffany abre los ojos de Molly e Issa... en un momento crucial.",
+        "released": "2017-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t41Xd6YvQsagl7TVaWMto5Y783V.jpg"
+      },
+      {
+        "id": "tt5024912:2:8",
+        "title": "Superperspectiva",
+        "season": 2,
+        "episode": 8,
+        "overview": "Molly intenta pasar la página de muchas maneras. Lawrence se acerca a Aparna, pero le cuesta volver a confiar. Issa debe lidiar con el drama desde todos los frentes.",
+        "released": "2017-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zo0tQSTefs988ZZlbP4ZRlBF0EE.jpg"
+      },
+      {
+        "id": "tt5024912:3:1",
+        "title": "Tipo mejor",
+        "season": 3,
+        "episode": 1,
+        "overview": "Issa duerme en el sofá de Daniel para ahorrar dinero y empieza a trabajar como chofer de viajes compartidos. Molly regresa de sus vacaciones y le marca los límites a Alejandro.",
+        "released": "2018-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pWD0oXXfXMfMf4Yk2AnUW6Kt0mq.jpg"
+      },
+      {
+        "id": "tt5024912:3:2",
+        "title": "Tipo familiar",
+        "season": 3,
+        "episode": 2,
+        "overview": "Los problemas no cesan: Issa padece una terrible reunión de trabajo, recibe malas noticias sobre sus finanzas y se preocupa por su difícil situación.",
+        "released": "2018-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y9WeM6guq7q1crso6Jc7phpsKlv.jpg"
+      },
+      {
+        "id": "tt5024912:3:3",
+        "title": "Tipo para atrás",
+        "season": 3,
+        "episode": 3,
+        "overview": "Issa espera que un nuevo empleo como administradora le traiga algo de estabilidad. Molly empieza a trabajar en el bufete de abogados de sus sueños, pero debe aprender a adaptarse.",
+        "released": "2018-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/luFTVbNXUkR8q32LmO8qmAkH1i6.jpg"
+      },
+      {
+        "id": "tt5024912:3:4",
+        "title": "Tipo casual",
+        "season": 3,
+        "episode": 4,
+        "overview": "Tras una reunión casual con Nathan, su pasajero de viajes compartidos, Issa decide llevarlo a recorrer Los Ángeles. Los problemas en el trabajo de Molly continúan.",
+        "released": "2018-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pEj85CgyEgivBKunFt8inkGsZga.jpg"
+      },
+      {
+        "id": "tt5024912:3:5",
+        "title": "Tipo de fiesta",
+        "season": 3,
+        "episode": 5,
+        "overview": "Las amigas van a Coachella el fin de semana para ver a Beyoncé, pero cada una carga con sus propias preocupaciones..., y Molly no puede olvidar el trabajo.",
+        "released": "2018-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v2yDtyFwkays0zAt797Cn6SRlvj.jpg"
+      },
+      {
+        "id": "tt5024912:3:6",
+        "title": "Tipo lista",
+        "season": 3,
+        "episode": 6,
+        "overview": "Tras encontrarse con Lawrence en una gasolinera, Issa se entera de su vida después de la ruptura. El baby shower de Tiffany despierta emociones en Kelli.",
+        "released": "2018-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b1pFkqFmR3CgDATzweXvaDRcXzn.jpg"
+      },
+      {
+        "id": "tt5024912:3:7",
+        "title": "Tipo obsesionada",
+        "season": 3,
+        "episode": 7,
+        "overview": "Aunque Nathan parece ignorarla, Issa lucha por concentrarse en sus planes. Molly tiene una cita con Andrew, el amigo de Nathan.",
+        "released": "2018-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ZnHpQRpwGicX5YYrw72kJyslt.jpg"
+      },
+      {
+        "id": "tt5024912:3:8",
+        "title": "Tipo fantasma",
+        "season": 3,
+        "episode": 8,
+        "overview": "Issa lidia con su nuevo proyecto. Molly descubre que tal vez esté siendo muy agresiva con sus compañeros de trabajo. Amigos y ex se reúnen en el cumpleaños número treinta de Issa.",
+        "released": "2018-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yyM4H2YGXlQdTh9qf46vmsVWiJk.jpg"
+      },
+      {
+        "id": "tt5024912:4:1",
+        "title": "Un toque yo misma",
+        "season": 4,
+        "episode": 1,
+        "overview": "Issa organiza una fiesta para conseguir patrocinadores, pero se siente eclipsada por su nueva amiga, Condola. Molly quiere dar un paso más con Andrew.",
+        "released": "2020-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5GpIhhHf9gqUC85Np6xA5GQFOht.jpg"
+      },
+      {
+        "id": "tt5024912:4:2",
+        "title": "Un toque distante",
+        "season": 4,
+        "episode": 2,
+        "overview": "Issa y Condola intentan que la incomodidad por Lawrence no afecte su trabajo en la fiesta de la cuadra. Andrew se muestra reacio a tener una relación, lo que molesta a Molly.",
+        "released": "2020-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ghV9kDh0O2Yv5ur6ZUhdUwg2k2z.jpg"
+      },
+      {
+        "id": "tt5024912:4:3",
+        "title": "Un toque agradecida",
+        "season": 4,
+        "episode": 3,
+        "overview": "Lawrence complica las cosas cuando lo invitan a la fiesta de Acción de Gracias de Condola. Issa y Molly pasan los días festivos con sus familias.",
+        "released": "2020-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iyzQvoPUVffTCvccWtWWHnlyH6L.jpg"
+      },
+      {
+        "id": "tt5024912:4:4",
+        "title": "Un toque enloquecida",
+        "season": 4,
+        "episode": 4,
+        "overview": "Los nuevos problemas de Issa comienzan con la falta de agua en su edificio. Más tarde, también choca con Molly cuando se reúnen para conocer a la nueva bebé de Tiffany.",
+        "released": "2020-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wOCtAqiZovNYGWPbszEEDANp9BM.jpg"
+      },
+      {
+        "id": "tt5024912:4:5",
+        "title": "Un toque pasando de página",
+        "season": 4,
+        "episode": 5,
+        "overview": "Por fin llega el día de la fiesta de la cuadra. Además de las probabilidades de lluvia, se avecinan señales de tormenta entre Issa y Molly.",
+        "released": "2020-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tQcJhNlmT962kk0fjK5IQHTJsIG.jpg"
+      },
+      {
+        "id": "tt5024912:4:6",
+        "title": "Un toque harta",
+        "season": 4,
+        "episode": 6,
+        "overview": "Tras la fiesta de la cuadra, Issa trata de reflexionar. Pero sus intentos de demostrar que Molly está equivocada no le traen demasiada felicidad.",
+        "released": "2020-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d2OBAMVuvOQi2464MDH7DtFJrpI.jpg"
+      },
+      {
+        "id": "tt5024912:4:7",
+        "title": "Un toque de viaje",
+        "season": 4,
+        "episode": 7,
+        "overview": "Para dejar atrás sus problemas con Issa, Molly se va de vacaciones a México con Andrew, su hermano y su cuñada.",
+        "released": "2020-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jatGWtJ1CQR5sk5ZGIjJ5OFcqt4.jpg"
+      },
+      {
+        "id": "tt5024912:4:8",
+        "title": "Un toque feliz",
+        "season": 4,
+        "episode": 8,
+        "overview": "Issa y Lawrence salen a tomar algo. A pesar de la incomodidad inicial, los eventos de esa noche demuestran cuán profunda es su conexión.",
+        "released": "2020-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lN4Z943lNZ92Lx8XtppbEbzfrEe.jpg"
+      },
+      {
+        "id": "tt5024912:4:9",
+        "title": "Un toque intentándolo",
+        "season": 4,
+        "episode": 9,
+        "overview": "Issa se pregunta si hacerle un favor a Nathan pondrá en peligro su nueva relación con Lawrence. Molly tiene una sesión intensa con su terapeuta.",
+        "released": "2020-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e0AkMCQ0XqqXTZ8hzL0RXtVzn4V.jpg"
+      },
+      {
+        "id": "tt5024912:4:10",
+        "title": "Un toque perdida",
+        "season": 4,
+        "episode": 10,
+        "overview": "Lawrence consigue un trabajo en San Francisco, pero Issa afirma que la distancia no es un factor decisivo. Una salida con Andrew hace que Molly se cuestione su relación.",
+        "released": "2020-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1PF6yFYBW1JHMIMQFJQ9GMWSVdq.jpg"
+      },
+      {
+        "id": "tt5024912:5:1",
+        "title": "Reunión, ¿okey?",
+        "season": 5,
+        "episode": 1,
+        "overview": "Las cuatro amigas se dirigen a Stanford para la reunión de diez años, donde Issa habla en un panel, y Kelli descubre que los organizadores creían que había muerto.",
+        "released": "2021-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/86C8Zkj8RppTUYWKOE58PByGojX.jpg"
+      },
+      {
+        "id": "tt5024912:5:2",
+        "title": "Crecimiento, ¿okey?",
+        "season": 5,
+        "episode": 2,
+        "overview": "Un año más tarde, Molly atraviesa un gran momento laboral... y personal. El negocio de Issa crece y la obliga a enfrentar todos los problemas que conlleva el éxito.",
+        "released": "2021-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/22q1df2A80kbvz0LgCq7ddhNt6c.jpg"
+      },
+      {
+        "id": "tt5024912:5:3",
+        "title": "Presión, ¿okey?",
+        "season": 5,
+        "episode": 3,
+        "overview": "Lawrence hace malabares entre su trabajo en San Francisco y su deseo de estar con su hijo recién nacido en Los Ángeles. Pero Condola no está feliz con su comportamiento...",
+        "released": "2021-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kHnaIKMR21CxiJo5dRMuTAyMewL.jpg"
+      },
+      {
+        "id": "tt5024912:5:4",
+        "title": "Imperfecta, ¿okey?",
+        "season": 5,
+        "episode": 4,
+        "overview": "En la fiesta de la barbería, el clima se pone muy tenso para Issa y Nathan. Issa y Quoia enfrentan algunas críticas en las redes sociales.",
+        "released": "2021-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gI7b15DSruX6HyRkIQWUoO3A1Zj.jpg"
+      },
+      {
+        "id": "tt5024912:5:5",
+        "title": "Sobreviviendo, ¿okey?",
+        "season": 5,
+        "episode": 5,
+        "overview": "Una emergencia médica familiar no es suficiente para evitar que Molly asuma más tareas en el trabajo. El nuevo vínculo entre Issa y Nathan se fortalece.",
+        "released": "2021-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eZBLnOp7ot3ODTS2CctHjpjiUy2.jpg"
+      },
+      {
+        "id": "tt5024912:5:6",
+        "title": "Cansada, ¿okey?",
+        "season": 5,
+        "episode": 6,
+        "overview": "Molly intenta mantener la compostura en un retiro del trabajo, mientras crece su preocupación por su madre. Issa y Nathan reciben críticas profesionales.",
+        "released": "2021-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lN1QNvXswRT0mqzRQZbtPkdoKOC.jpg"
+      },
+      {
+        "id": "tt5024912:5:7",
+        "title": "Pasándola bien, ¿okey?",
+        "season": 5,
+        "episode": 7,
+        "overview": "Las cuatro amigas se reúnen en una noche de chicas. Pero ante algunos problemas inesperados, aprovechan el tiempo para ponerse al día y responder preguntas difíciles.",
+        "released": "2021-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/arqOqG6HCoEw01dwD6j5MWz9Os3.jpg"
+      },
+      {
+        "id": "tt5024912:5:8",
+        "title": "Opciones, ¿okey?",
+        "season": 5,
+        "episode": 8,
+        "overview": "Kelli ayuda a Molly a hablar con sus padres sobre su testamento. Issa evalúa algunas ofertas que podrían cambiar el rumbo de su carrera.",
+        "released": "2021-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/psDd6FlwsAgvBTbjbSzdLOK0V9T.jpg"
+      },
+      {
+        "id": "tt5024912:5:9",
+        "title": "Fuera, ¿okey?",
+        "season": 5,
+        "episode": 9,
+        "overview": "Los sentimientos abruman a Issa y Lawrence en la fiesta de despedida de Tiffany y Derek. Molly y Taurean se sinceran con ayuda de unos «productos comestibles».",
+        "released": "2021-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t8z3pWzJeggMQzQnYQNL9otOxbm.jpg"
+      },
+      {
+        "id": "tt5024912:5:10",
+        "title": "Todo va a estar ¿okey?",
+        "season": 5,
+        "episode": 10,
+        "overview": "Las amigas se ven entre nuevos trabajos, nuevas relaciones... e incluso algunas bodas. ¿Por fin habrán encontrado la vida que siempre quisieron?",
+        "released": "2021-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w466UW7l6KdAtuomZpTBjcmr44f.jpg"
+      }
+    ]
+  }
+}

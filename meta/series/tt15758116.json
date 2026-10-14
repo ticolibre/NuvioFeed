@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "id": "tt15758116",
+    "type": "series",
+    "name": "Dragones: Los nueve reinos",
+    "poster": "https://image.tmdb.org/t/p/w500/2ZKHqtjyyWq2ilF5tfiX8AalUJe.jpg",
+    "posterShape": "poster",
+    "description": "Ambientada 1300 años después de los acontecimientos de Cómo entrenar a tu dragón, los dragones son ya sólo una leyenda para el mundo moderno. Cuando una anomalía geológica abre una enorme fisura a kilómetros de profundidad en la superficie de la Tierra, científicos de todo el mundo se reúnen en un nuevo centro de investigación para estudiar el misterioso fenómeno. Pronto, un grupo de niños inadaptados, fueron llevados al lugar por sus padres, descubren la verdad sobre los dragones y el lugar donde se esconden, un secreto que deben guardar para proteger lo que han descubierto.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Familia",
+      "Kids",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/jRN6Qbrqm9hpiX8s1Ie90l1mxnF.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt15758116:1:1",
+        "title": "El Primer Vuelo: Parte 1",
+        "season": 1,
+        "episode": 1,
+        "overview": "Al mudarse a un nuevo y exótico hogar, un adolescente aventurero conoce a un nuevo grupo de niños y descubre un dragón en la fisura.",
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h7UmQkhwqWUHnUBzlkIbpqpk9XK.jpg"
+      },
+      {
+        "id": "tt15758116:1:2",
+        "title": "El Primer Vuelo: Parte 2",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tom forja una amistad con el dragón y descubre todo un mundo de dragones dentro de la fisura.",
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dfzIgAaw660JeonUoHLKEhxEwh.jpg"
+      },
+      {
+        "id": "tt15758116:1:3",
+        "title": "Un Mundo Nuevo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Tom y Jun se encuentran con peligros inesperados y se separan mientras exploran el Reino Oculto de los dragones. Tom introduce a Jun en el mundo de los dragones y Jun se une a uno de sus propios dragones: Wu y Wei.",
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7DE0GO2UOIU5cziK6DquFYUhWWk.jpg"
+      },
+      {
+        "id": "tt15758116:1:4",
+        "title": "El Club De Los Dragones",
+        "season": 1,
+        "episode": 4,
+        "overview": "Tom y Jun se arriesgan a revelar el secreto del Reino Oculto a D'Angelo para ayudar a un dragón herido, y D'Angelo crea un vínculo con Plowhorn.",
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o3jJnN97sGNHnP0joPfJmUdWTRT.jpg"
+      },
+      {
+        "id": "tt15758116:1:5",
+        "title": "Camuplumaje",
+        "season": 1,
+        "episode": 5,
+        "overview": "Tom y los demás discuten sobre cómo mantener los dragones en secreto, incluso cuando un joven y revoltoso dragón \"camuflado\" anda suelto por la ciudad y busca una amistad con Alex.",
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1wfMsMkQHhRq0NwFJCyd13hS9sJ.jpg"
+      },
+      {
+        "id": "tt15758116:1:6",
+        "title": "Rompefallas",
+        "season": 1,
+        "episode": 6,
+        "overview": "Tom y la pandilla intentan salvar la estación ICARIS cuando se revela que está en peligro por un dragón monstruoso.",
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mdXUXclEkzfq3fKxTZG9H7bOkht.jpg"
+      },
+      {
+        "id": "tt15758116:2:1",
+        "title": "Unicorneados",
+        "season": 2,
+        "episode": 1,
+        "overview": "Jun rompe las reglas al tomar a un pequeño y adorable dragón del Reino de los Cristales y llevárselo a casa, pero descubre que su hermano mayor, Eugene, ha llegado y vigila todos sus movimientos.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kCzie9RPb9UlVoM80VntyNyEtPE.jpg"
+      },
+      {
+        "id": "tt15758116:2:2",
+        "title": "Escupidor de Magma",
+        "season": 2,
+        "episode": 2,
+        "overview": "Tom tiene que mantener a su mamá, Olivia, distraída mientras Jun, Ale y D'Angelo usan a un nuevo dragón para cerrar la cueva que lleva al Reino de los Cristales y así evitar que ella descubra a los dragones.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qlwJeZAuyV8IGnicuP8xf121zpS.jpg"
+      },
+      {
+        "id": "tt15758116:2:3",
+        "title": "Dragones Zombis",
+        "season": 2,
+        "episode": 3,
+        "overview": "Cuando un grupo de lo que parecen ser dragones zombi secuestra a Plumas, Ale descubre a su heroína interior al ir a su rescate.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gS2kfdmyBTB1ia44YvPW95Xh6CQ.jpg"
+      },
+      {
+        "id": "tt15758116:2:4",
+        "title": "Aguacero",
+        "season": 2,
+        "episode": 4,
+        "overview": "Tom y Thunder entrenan una nueva especie de dragones de marea agresivos para ayudar a los otros jinetes a apagar un incendio forestal que amenaza a ICARIS.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wksxyZLzZ2lvJW2BWcxH2pwvvr2.jpg"
+      },
+      {
+        "id": "tt15758116:2:5",
+        "title": "El Enredo",
+        "season": 2,
+        "episode": 5,
+        "overview": "Tom y D'Angelo deben unirse para ayudar a Alex y Jun a escapar de las garras de los Spiderwings.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y16Opr8SyzYdpKXK4Eh6tTaQc0z.jpg"
+      },
+      {
+        "id": "tt15758116:2:6",
+        "title": "Sigue los rayos: parte 1",
+        "season": 2,
+        "episode": 6,
+        "overview": "Tom y los jinetes van en busca de Thunder y deben enfrentarse a un grupo de peligrosos dragones para encontrar a su amigo perdido. En el camino, Tom revela su gran secreto a D'Angelo y Alex.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o6g3rIlKNDG0ieSejE6mHWoNXkV.jpg"
+      },
+      {
+        "id": "tt15758116:2:7",
+        "title": "Sigue los rayos: parte 2",
+        "season": 2,
+        "episode": 7,
+        "overview": "Tom y los jinetes ayudan a Thunder, que busca venganza contra los dragones que ahuyentaron a su familia.",
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Asv8geQXEe0sI5zbqDPAmF5qXOW.jpg"
+      },
+      {
+        "id": "tt15758116:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cT1CfziRmBZ6VI2yubFL3WcowRp.jpg"
+      },
+      {
+        "id": "tt15758116:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t1RfWLuqAsPZPfsbJNKvXpP4k8D.jpg"
+      },
+      {
+        "id": "tt15758116:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5gWiGx2Bs1aXksfSklAI8DIIQM5.jpg"
+      },
+      {
+        "id": "tt15758116:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bIhWFanq4kNHDpbWdn6hRYgCIMF.jpg"
+      },
+      {
+        "id": "tt15758116:3:5",
+        "title": "Episodio 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Aad01aWoiB1JK3QfSjcQhPyj6a8.jpg"
+      },
+      {
+        "id": "tt15758116:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r2wKERgsu69xaJuz0QVpvtqnVFs.jpg"
+      },
+      {
+        "id": "tt15758116:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zlTfBijj0UFS12KpHviOFaIN5BO.jpg"
+      },
+      {
+        "id": "tt15758116:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2022-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mbp4zETJGxIusPVnlqvwcd2EEvl.jpg"
+      },
+      {
+        "id": "tt15758116:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2022-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wswAjgdvSw3IdGfhn8VCfemAFJj.jpg"
+      },
+      {
+        "id": "tt15758116:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2022-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vckDJb53AxAk6mCWDPX4a2da7aO.jpg"
+      },
+      {
+        "id": "tt15758116:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2022-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oJjCEvDuRq4C3GECSBzn7ni8f3O.jpg"
+      },
+      {
+        "id": "tt15758116:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2022-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v17KiFokSkGFLeDpthOmtnMrsbZ.jpg"
+      },
+      {
+        "id": "tt15758116:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2022-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kl1gYr1Y4YW3qcMlFyqhxlew8rm.jpg"
+      },
+      {
+        "id": "tt15758116:5:1",
+        "title": "Episodio 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ooSeRxBobhHnMRGeQ4VDqwLGsp9.jpg"
+      },
+      {
+        "id": "tt15758116:5:2",
+        "title": "Episodio 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mPeIevShiDoL0mzWafZqro39fra.jpg"
+      },
+      {
+        "id": "tt15758116:5:3",
+        "title": "Episodio 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xWW5rMhoWwU1y4iItJfuqdGbAKr.jpg"
+      },
+      {
+        "id": "tt15758116:5:4",
+        "title": "Episodio 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mqp5hEoQCESjgJdkUAJlk8lmPGD.jpg"
+      },
+      {
+        "id": "tt15758116:5:5",
+        "title": "Episodio 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lF0ELMg110oZCky713jGkWBW2fA.jpg"
+      },
+      {
+        "id": "tt15758116:5:6",
+        "title": "Episodio 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hTQTsAmyjE16E2dfy1B8kXrGlwO.jpg"
+      },
+      {
+        "id": "tt15758116:6:1",
+        "title": "Episodio 1",
+        "season": 6,
+        "episode": 1,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xZ1UZMU5VBCjn0y0GHoHnjSTqwa.jpg"
+      },
+      {
+        "id": "tt15758116:6:2",
+        "title": "Episodio 2",
+        "season": 6,
+        "episode": 2,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4XiKRFc9vCiq6xK56BRVOgUMqtE.jpg"
+      },
+      {
+        "id": "tt15758116:6:3",
+        "title": "Episodio 3",
+        "season": 6,
+        "episode": 3,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fYf9xfSWMikuq7FbfarnnaEQmNz.jpg"
+      },
+      {
+        "id": "tt15758116:6:4",
+        "title": "Episodio 4",
+        "season": 6,
+        "episode": 4,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vSWLaCmtA2AH1MIuRZJrAnnyt1n.jpg"
+      },
+      {
+        "id": "tt15758116:6:5",
+        "title": "Episodio 5",
+        "season": 6,
+        "episode": 5,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Ryip0j8irW0e7YUzYr3JIomKjv.jpg"
+      },
+      {
+        "id": "tt15758116:6:6",
+        "title": "Episodio 6",
+        "season": 6,
+        "episode": 6,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yDaK3CWXw5clyMrd07bS3BN7987.jpg"
+      },
+      {
+        "id": "tt15758116:6:7",
+        "title": "Episodio 7",
+        "season": 6,
+        "episode": 7,
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mTwSG2NwZQxppASTnFzLUY8eQEc.jpg"
+      },
+      {
+        "id": "tt15758116:7:1",
+        "title": "Episodio 1",
+        "season": 7,
+        "episode": 1,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A2JQNK94XWb6nc2nR8XsM69atVf.jpg"
+      },
+      {
+        "id": "tt15758116:7:2",
+        "title": "Episodio 2",
+        "season": 7,
+        "episode": 2,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ht17VAyUstnvgVxz2MlFL7qOQ4V.jpg"
+      },
+      {
+        "id": "tt15758116:7:3",
+        "title": "Episodio 3",
+        "season": 7,
+        "episode": 3,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aNMP2c3F637Vip84lJVGABiBMPU.jpg"
+      },
+      {
+        "id": "tt15758116:7:4",
+        "title": "Episodio 4",
+        "season": 7,
+        "episode": 4,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xiMWA5A5dbx43g3gwvZuE2J6WyS.jpg"
+      },
+      {
+        "id": "tt15758116:7:5",
+        "title": "Episodio 5",
+        "season": 7,
+        "episode": 5,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/auBJUO2wKThIwaaPKOc7KefHZVh.jpg"
+      },
+      {
+        "id": "tt15758116:7:6",
+        "title": "Episodio 6",
+        "season": 7,
+        "episode": 6,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p1QaKXKT3KY9uzgHf1mQVYq5UXr.jpg"
+      },
+      {
+        "id": "tt15758116:7:7",
+        "title": "Episodio 7",
+        "season": 7,
+        "episode": 7,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jJEMktV7Roi3JcXv0ADJMlePozC.jpg"
+      },
+      {
+        "id": "tt15758116:8:1",
+        "title": "Episodio 1",
+        "season": 8,
+        "episode": 1,
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gHS3s1qk6XPIWfEGrayGUk1UOs0.jpg"
+      },
+      {
+        "id": "tt15758116:8:2",
+        "title": "Episodio 2",
+        "season": 8,
+        "episode": 2,
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9OrV74u3TM8BsJDsdslObS0eXCQ.jpg"
+      },
+      {
+        "id": "tt15758116:8:3",
+        "title": "Episodio 3",
+        "season": 8,
+        "episode": 3,
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cppXk4pko0pRG5roImKwNhJRRgk.jpg"
+      },
+      {
+        "id": "tt15758116:8:4",
+        "title": "Episodio 4",
+        "season": 8,
+        "episode": 4,
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yFWhsnTQp6oHCwi5H41k1YVuTSC.jpg"
+      },
+      {
+        "id": "tt15758116:8:5",
+        "title": "Episodio 5",
+        "season": 8,
+        "episode": 5,
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vT9D51PrwpgJjRrIBQjvaGlJlvO.jpg"
+      },
+      {
+        "id": "tt15758116:8:6",
+        "title": "Episodio 6",
+        "season": 8,
+        "episode": 6,
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eELuhKyT1cPLkRSgxvRNvx3w6RK.jpg"
+      }
+    ]
+  }
+}

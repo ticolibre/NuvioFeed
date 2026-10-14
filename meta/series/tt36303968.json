@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "id": "tt36303968",
+    "type": "series",
+    "name": "Furia",
+    "poster": "https://image.tmdb.org/t/p/w500/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+    "posterShape": "poster",
+    "description": "La agente del FBI Alice Black busca a una misteriosa y calculadora asesina en serie. Ambos siguen sus propios caminos hacia la justicia, y a medida que sus vidas comienzan a entrelazarse, la línea entre el bien y el mal empieza a desdibujarse.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt36303968:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3CAXYZcMB2KbGb94QRCXIiLOSbm.jpg"
+      },
+      {
+        "id": "tt36303968:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/toPs3I6xYnLIA45fT2vsec1hivx.jpg"
+      },
+      {
+        "id": "tt36303968:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aJdKDKDO98avPnimD1tALGnfeZ5.jpg"
+      },
+      {
+        "id": "tt36303968:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dnyydu5oR85fCbg74fKELYBWnex.jpg"
+      },
+      {
+        "id": "tt36303968:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aANtKit2t6DGAWitzNt2GQBPIB1.jpg"
+      },
+      {
+        "id": "tt36303968:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a3N9FWri1bEaGmn1dZMUBClhaZ7.jpg"
+      },
+      {
+        "id": "tt36303968:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a1FCwi0xeB5jrFouIV5fITyxfx6.jpg"
+      },
+      {
+        "id": "tt36303968:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bCyVhvnoxmW6mqcCX9rYq3ei60Z.jpg"
+      }
+    ]
+  }
+}

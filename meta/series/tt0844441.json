@@ -1,0 +1,746 @@
+{
+  "meta": {
+    "id": "tt0844441",
+    "type": "series",
+    "name": "True Blood",
+    "poster": "https://image.tmdb.org/t/p/w500/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
+    "posterShape": "poster",
+    "description": "Con la creación de sangre sintética, los vampiros viven en la sociedad. La serie muestra la coexistencia de estas criaturas en un pueblo. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
+    "releaseInfo": "2008",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/nGhC6P0lgcrY57NRB9nweu4nWaK.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0844441:1:1",
+        "title": "Extraño amor",
+        "season": 1,
+        "episode": 1,
+        "overview": "En todo el país, los vampiros han \"salido del ataúd\" tras la invención de la sangre sintética producida en masa. En Luisiana, la casa de Sookie Stack, una camarera con habilidades telepáticas, cae bajo el hechizo del sexy vampiro Bill Compton, de 173 años, cuyos pensamientos no puede leer. Después de salvar a Bill de las bandejas de ratas, un par de despiadados \"drenadores de vampiros\", Sookie pone a prueba los límites de la gratitud de Bill cuando los dos se quedan solos en la oscuridad. Mientras tanto, la mejor amiga de Sookie, Tara, va a trabajar para Sam Merlette en su bar y parrilla, mientras que el pícaro hermano de Sookie, Jason, se encuentra en un aprieto cuando un \"fang-banger\" con el que ha tenido intimidad tiene un final trágico.",
+        "released": "2008-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/brvTMK7XuNU2JzOJnfVElZ1g6HI.jpg"
+      },
+      {
+        "id": "tt0844441:1:2",
+        "title": "El primer sorbo",
+        "season": 1,
+        "episode": 2,
+        "overview": "Después de que Bill salva a Sookie, sufre muchas lesiones y Bill intenta salvarla \"al estilo de los vampiros\". Al día siguiente, su hermano es liberado de la custodia policial y se encuentran los cuerpos de los atacantes de Sookie. Más tarde ese día, Bill va a visitar a la familia de Sookie y recibe una bienvenida no tan amistosa.",
+        "released": "2008-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gAJlmNhmbxwvqqc0KIxVPDVrzWU.jpg"
+      },
+      {
+        "id": "tt0844441:1:3",
+        "title": "Sookie es mía",
+        "season": 1,
+        "episode": 3,
+        "overview": "Tara visita a LaFayette en busca de consuelo de sus problemas, Sookie conoce a algunos de los amigos ruidosos de Bill y los salva del daño de un humano entre ellos, y Sookie y Hugo visitan la Iglesia de la Comunidad del Sol.",
+        "released": "2008-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gpOuW8gcnxSGeuCAcZexSyvQaXT.jpg"
+      },
+      {
+        "id": "tt0844441:1:4",
+        "title": "Huída de la guarida del dragón",
+        "season": 1,
+        "episode": 4,
+        "overview": "Una de las camareras de Merlotte's es asesinada y todos los indicios apuntan a Jason como su asesino. También es evidente el hecho de que ha estado rodeada de vampiros, y Sookie sabe exactamente adónde ir para averiguar con quién había estado la chica. Bill le presenta a Sookie Fangtasia, el bar de vampiros más grande de Shreveport, y a Eric, el vampiro más anciano de Shreveport. Su búsqueda podría llevarla a un territorio que nunca pensó que cubriría.",
+        "released": "2008-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lan9QkY43EKYN106cGpZUZ6jbVY.jpg"
+      },
+      {
+        "id": "tt0844441:1:5",
+        "title": "Saltan chispas",
+        "season": 1,
+        "episode": 5,
+        "overview": "Bill se gana al grupo de la iglesia de Adele con sus vívidos recuerdos de la Guerra Civil; Sam le revela sus sentimientos a Sookie; Jason le da otra oportunidad a la sangre de vampiro con la ayuda de Lafayette y lastima a Tara en el proceso.",
+        "released": "2008-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3VVZNZnRNDGrQkJjpDkfLevQi99.jpg"
+      },
+      {
+        "id": "tt0844441:1:6",
+        "title": "Tierra fría",
+        "season": 1,
+        "episode": 6,
+        "overview": "Sookie busca refugio de las voces internas de sus amigos y vecinos; Jason lucha con los síntomas de abstinencia; La madre de Tara necesita su ayuda; Sam y Tara hacen una conexión.",
+        "released": "2008-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c5dZrRxrEh2ar4GHWyQw1XUecVK.jpg"
+      },
+      {
+        "id": "tt0844441:1:7",
+        "title": "La casa del amor ardiente",
+        "season": 1,
+        "episode": 7,
+        "overview": "La dolorosa revelación de la infancia de Sookie impulsa a Bill a la acción; Tara acepta pagar un exorcismo para Lettie Mae; Jason viaja a Fangtasia en busca del jugo V.",
+        "released": "2008-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mdAvASHpuWKhrOu9KiFjLTIRIdo.jpg"
+      },
+      {
+        "id": "tt0844441:1:8",
+        "title": "El cuarto hombre del incendio",
+        "season": 1,
+        "episode": 8,
+        "overview": "Sookie intenta mantenerse unida a raíz de otra posible tragedia; Tara arremete contra Sookie y Sam; Amy encanta a la multitud en Merlotte's.",
+        "released": "2008-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vdPAxXWnYQhlBNQXLuLqPRVkudQ.jpg"
+      },
+      {
+        "id": "tt0844441:1:9",
+        "title": "Plaisir D'Amour",
+        "season": 1,
+        "episode": 9,
+        "overview": "Bill debe pagar un alto precio por proteger a Sookie; Jason y Amy rompen un tabú; Tara consulta con la señorita Jeanette sobre exorcizar su demonio interior; Bill recluta a un guardaespaldas poco probable.",
+        "released": "2008-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gDuhBufU7LadYaMv47Cg8c9wQX6.jpg"
+      },
+      {
+        "id": "tt0844441:1:10",
+        "title": "No quiero saber",
+        "season": 1,
+        "episode": 10,
+        "overview": "Sam comparte un secreto con Sookie; Lettie Mae y Tara celebran; Jason y Amy debaten qué hacer con Eddie; Bill se enfrenta a una dura sanción.",
+        "released": "2008-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rWuPC6bKLhxCOdlXVgCv9KnSgKm.jpg"
+      },
+      {
+        "id": "tt0844441:1:11",
+        "title": "Enterrar es amar",
+        "season": 1,
+        "episode": 11,
+        "overview": "Sookie y Sam investigan su visión más reciente; Jason ayuda a limpiar el desorden de Amy; Tara se enfada con Lettie Mae; Lafayette visita a un senador.",
+        "released": "2008-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vk3frAw5bVk8scpFW9TmARhywAU.jpg"
+      },
+      {
+        "id": "tt0844441:1:12",
+        "title": "¿Me vas a matar?",
+        "season": 1,
+        "episode": 12,
+        "overview": "Sookie encuentra un enlace a la cadena de asesinatos en Bon Temps; Tara quiere aprovechar al máximo su segunda oportunidad; Jason encuentra una nueva vocación; Bill tienta al destino; Sam está molesto por un encuentro con un viejo conocido.",
+        "released": "2008-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zp5Kw5caPpupHxkJoUuVY5djNbf.jpg"
+      },
+      {
+        "id": "tt0844441:2:1",
+        "title": "Nada más que la sangre",
+        "season": 2,
+        "episode": 1,
+        "overview": "Cuando Tara encuentra un cadáver, debe responderle a la policía. Sookie y Bill discuten a causa de Jessica. Jason se involucra con un grupo que está en contra de los vampiros.",
+        "released": "2009-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mdgIquVRT63NPiXHynQApDgNxtq.jpg"
+      },
+      {
+        "id": "tt0844441:2:2",
+        "title": "Que siga la fiesta",
+        "season": 2,
+        "episode": 2,
+        "overview": "Eric busca información que podría afectar a Lafayette. El cambio de actitud de Sookie hacia Jessica causa problemas. Tara descubre más cosas sobre Huevo.",
+        "released": "2009-06-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4XdNuPgWosS6xdaCsaPmIggVzFe.jpg"
+      },
+      {
+        "id": "tt0844441:2:3",
+        "title": "Arañazos",
+        "season": 2,
+        "episode": 3,
+        "overview": "Cuando Sookie es víctima de un ataque, Bill se ve obligado a tomar decisiones drásticas. Jason no sabe qué pensar de los vampiros. Cansado de Maryann, Sam considera irse.",
+        "released": "2009-06-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u93YRXJJEUN5CBziR2iIb4Ut5N4.jpg"
+      },
+      {
+        "id": "tt0844441:2:4",
+        "title": "Agitar y remover",
+        "season": 2,
+        "episode": 4,
+        "overview": "La decisión de irse de casa de Maryann podría tener repercusiones mayores para Tara. Sookie y Bill viajan a Dallas en compañía de Jessica. Jason y los Newlin se vuelven cercanos.",
+        "released": "2009-07-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zXN88xYeDUKIEBbftUPHVdiZFAV.jpg"
+      },
+      {
+        "id": "tt0844441:2:5",
+        "title": "No me dejes nunca",
+        "season": 2,
+        "episode": 5,
+        "overview": "Daphne revela su secreto. Sookie intenta conocer mejor a otro telépata, mientras Bill y Eric discuten con los vampiros de Dallas. Jason comienza su entrenamiento.",
+        "released": "2009-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dTxiPdWwj8G42hdZZIxIi5olONs.jpg"
+      },
+      {
+        "id": "tt0844441:2:6",
+        "title": "Despiadada Hannah",
+        "season": 2,
+        "episode": 6,
+        "overview": "Eric involucra a Lorena, quien transformó a Bill, en sus planes. Tras acceder a recibir ayuda externa, Sookie sigue adelante en su misión de infiltrarse en la Comunidad.",
+        "released": "2009-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qopNFfX2coI2VwnXqqbKQPeiO8w.jpg"
+      },
+      {
+        "id": "tt0844441:2:7",
+        "title": "Libérame",
+        "season": 2,
+        "episode": 7,
+        "overview": "Lo que ocurre en el ritual de Maryann deja a Sam y Andy alterados. Sookie intenta calmar a Hugo y descubrir quién los traicionó. Lorena se rehúsa a dejar ir a Bill.",
+        "released": "2009-08-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l7FDUsmIpiUJ6EkETZlD51YLIjx.jpg"
+      },
+      {
+        "id": "tt0844441:2:8",
+        "title": "Bomba de relojería",
+        "season": 2,
+        "episode": 8,
+        "overview": "Hay más peligro en la Comunidad tras las acciones de Godric. Tara y Huevo se sienten cada vez más incómodos con las cosas extrañas que ocurren en Bon Temps.",
+        "released": "2009-08-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wzYWXoq7vkWSU5JCyXJ8WbLFZm1.jpg"
+      },
+      {
+        "id": "tt0844441:2:9",
+        "title": "Y me alzaré",
+        "season": 2,
+        "episode": 9,
+        "overview": "Eric se aprovecha del caos tras la explosión y engaña a Sookie. Hoyt le presenta a Jessica a su madre. El control que ejerce Maryann sobre Tara y Huevo aumenta.",
+        "released": "2009-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eYHYZiFbTMYK7b9SiS2dnXhwII4.jpg"
+      },
+      {
+        "id": "tt0844441:2:10",
+        "title": "Un mundo nuevo ante mí",
+        "season": 2,
+        "episode": 10,
+        "overview": "Sookie, Bill y Jason descubren el desastre que Maryann provocó en Bon Temps. Sam y Andy se arriesgan para salvar a un amigo.",
+        "released": "2009-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/57HqR3BBu6TXYZLBKtMfkjZE76k.jpg"
+      },
+      {
+        "id": "tt0844441:2:11",
+        "title": "Frenesí",
+        "season": 2,
+        "episode": 11,
+        "overview": "Bill le pide ayuda a la reina de los vampiros de Luisiana. Tara solicita una oportunidad para salvar a Huevo. Sam les revela su verdadera naturaleza a Andy y Jason.",
+        "released": "2009-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7oXJe8XOzzFs6ddaw3oyGjbzQkH.jpg"
+      },
+      {
+        "id": "tt0844441:2:12",
+        "title": "Después no hay nada",
+        "season": 2,
+        "episode": 12,
+        "overview": "A punto de lograr su plan, Maryann obliga a Sookie a participar en el ritual y a servir de carnada para Sam. Jason y Andy intentan un rescate peligroso.",
+        "released": "2009-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nExAhAFG1XTDtNZ9yyEzgKFqq0M.jpg"
+      },
+      {
+        "id": "tt0844441:3:1",
+        "title": "Mala sangre",
+        "season": 3,
+        "episode": 1,
+        "overview": "Desesperada por encontrar a Bill, Sookie le pide ayuda a Eric. Andy y Jason deben enfrentar la muerte de Huevo, mientras Tara se hunde en su pena.",
+        "released": "2010-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ylpOteNX5nzIR4lCvgLZUFYa1Q4.jpg"
+      },
+      {
+        "id": "tt0844441:3:2",
+        "title": "Rota hermosura",
+        "season": 3,
+        "episode": 2,
+        "overview": "El rey de los vampiros de Misisipi le ofrece a Bill su hospitalidad. Sam se encuentra con su familia biológica. Lafayette intenta salvar a Tara del borde del abismo.",
+        "released": "2010-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9dOrZvhcSvcOwgP5nyhzV8f7IrQ.jpg"
+      },
+      {
+        "id": "tt0844441:3:3",
+        "title": "A mí también me duele",
+        "season": 3,
+        "episode": 3,
+        "overview": "Russell le exige a Bill que lo acompañe para salvar la vida de Sookie. Jason decide volverse policía, mientras Sookie conoce a su nuevo protector.",
+        "released": "2010-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t0ypoe8u2CsEwSvESLRzZQZa0OY.jpg"
+      },
+      {
+        "id": "tt0844441:3:4",
+        "title": "Nueve delitos",
+        "season": 3,
+        "episode": 4,
+        "overview": "Aunque una llamada de Bill la deja devastada, Sookie no ceja en sus esfuerzos por encontrarlo. Franklin tiene cada vez más control sobre Tara.",
+        "released": "2010-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kKnWvuPTNHzZHetI5tRv9A9TX9X.jpg"
+      },
+      {
+        "id": "tt0844441:3:5",
+        "title": "Meterse en problemas",
+        "season": 3,
+        "episode": 5,
+        "overview": "Franklin le da información valiosa a Russell. Sookie y Alcide descubren cuál es el poder del rey de los vampiros sobre la manada. Jason tiene su primer día en el trabajo.",
+        "released": "2010-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2c1y0ZQUjsOuxwa3KNYBzSNmjpc.jpg"
+      },
+      {
+        "id": "tt0844441:3:6",
+        "title": "Tengo derecho a estar triste",
+        "season": 3,
+        "episode": 6,
+        "overview": "Sookie y Bill deben soportar la tortura y los trucos mentales que les infligen Russell y Lorena. Tara se prepara para escapar. Lafayette se conecta con Jesús.",
+        "released": "2010-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5GbRv7XCefKKhMlOWRkyC6t8tXE.jpg"
+      },
+      {
+        "id": "tt0844441:3:7",
+        "title": "Aprovechar la oportunidad",
+        "season": 3,
+        "episode": 7,
+        "overview": "Tras el enfrentamiento de Sookie y Bill contra Lorena, llegan Tara y Alcide como refuerzos. Sam busca las peleas de perros secretas… y a su hermano.",
+        "released": "2010-08-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2NOaSOs9M7amBFVstMb1Q5FcFs5.jpg"
+      },
+      {
+        "id": "tt0844441:3:8",
+        "title": "Una noche al sol",
+        "season": 3,
+        "episode": 8,
+        "overview": "Sookie se preocupa al darse cuenta de que estar con Bill podría ser muy peligroso. Debbie le causa problemas a Alcide. Russell planea capturar a Sookie.",
+        "released": "2010-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nHLEx6Z1QmVCrWAkrpl4EEFwi6f.jpg"
+      },
+      {
+        "id": "tt0844441:3:9",
+        "title": "Todo se ha estropeado",
+        "season": 3,
+        "episode": 9,
+        "overview": "La Autoridad vampírica le exige respuestas a Eric sobre la desaparición del magistrado. Jason y Crystal hacen equipo contra Felton. Bill descubre algo.",
+        "released": "2010-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qcAvEJjgeas8rBrvHIXEnY3TPOv.jpg"
+      },
+      {
+        "id": "tt0844441:3:10",
+        "title": "Huele a gato encerrado",
+        "season": 3,
+        "episode": 10,
+        "overview": "Bill sorprende a Sookie con una revelación sobre quién es ella. Lafayette usa V para revivir a Calvin. Anticipando la ira de Russell, Eric pone su vida en orden.",
+        "released": "2010-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kyZxuQ6HDgSGxAcVGf9pbPFRka4.jpg"
+      },
+      {
+        "id": "tt0844441:3:11",
+        "title": "Sangre del día",
+        "season": 3,
+        "episode": 11,
+        "overview": "Aunque Bill salva a Sookie de Pam, el peligro sigue subyacente. El consumo de V tiene un precio alto para Lafayette. Eric intenta llegar a un acuerdo con Russell.",
+        "released": "2010-08-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wy76kpI2LzGC6rlPKhEpURVwtg5.jpg"
+      },
+      {
+        "id": "tt0844441:3:12",
+        "title": "Y el mal persiste",
+        "season": 3,
+        "episode": 12,
+        "overview": "La batalla entre Eric y Russell provoca una crisis entre Sookie y Bill. La revelación que hace Sam resulta demasiado para Tara. La madre de Hoyt cree tener las respuestas.",
+        "released": "2010-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dXeTxue9HzIhrFG0LaMu73luS3o.jpg"
+      },
+      {
+        "id": "tt0844441:4:1",
+        "title": "Ella no está ahí",
+        "season": 4,
+        "episode": 1,
+        "overview": "Sookie descubre algo aterrador en el reino de las hadas. En su ausencia, Bon Temps atraviesa muchos cambios inesperados. Lafayette conoce a una bruja poderosa.",
+        "released": "2011-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vlaIcSg42lzJVHGheCou9logk4N.jpg"
+      },
+      {
+        "id": "tt0844441:4:2",
+        "title": "Hueles como una cena",
+        "season": 4,
+        "episode": 2,
+        "overview": "La relación entre Eric y Sookie cambia ahora que él es dueño de su casa. Bill ordena que se investigue a la cofradía. Sam tiene una nueva conexión romántica.",
+        "released": "2011-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3PzXhBsaeGZjIIz9KPyIzkEb69T.jpg"
+      },
+      {
+        "id": "tt0844441:4:3",
+        "title": "Si me quieres, ¿por qué me estoy muriendo?",
+        "season": 4,
+        "episode": 3,
+        "overview": "Sookie llega al auxilio de Eric cuando él tiene un encuentro peligroso con Marnie y las brujas. Ahora que está atrapado en Hotshot, la situación de Jason es más preocupante.",
+        "released": "2011-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wum1pPPmYUF0rTlIaRzOF8q2YhH.jpg"
+      },
+      {
+        "id": "tt0844441:4:4",
+        "title": "Estoy vivo y ardiendo",
+        "season": 4,
+        "episode": 4,
+        "overview": "Sookie le pide a Alcide que la ayude con Eric. Bill debe lidiar con las conspiraciones de las brujas, la oposición de Nan y un descubrimiento perturbador sobre Portia.",
+        "released": "2011-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kPhEoNf37bmRvX70BloPpOa1ZcT.jpg"
+      },
+      {
+        "id": "tt0844441:4:5",
+        "title": "El diablo y yo",
+        "season": 4,
+        "episode": 5,
+        "overview": "Sookie se vuelve más cercana a Eric y tiene un encuentro incómodo con Marnie. El hechizo lanzado sobre Pam obliga a Bill a actuar. Jason se interpone entre Jessica y Hoyt.",
+        "released": "2011-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fs94LPznPrVdDBbuM7ZUtAaChO7.jpg"
+      },
+      {
+        "id": "tt0844441:4:6",
+        "title": "Desearía ser la luna",
+        "season": 4,
+        "episode": 6,
+        "overview": "Bill considera tomar medidas extremas en su enfrentamiento con Eric. Lafayette intenta desesperadamente curar a Jesús. Jason teme que sus problemas no hayan terminado.",
+        "released": "2011-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dl2VXXPsJHpMOB0CMYFUxN9mlMc.jpg"
+      },
+      {
+        "id": "tt0844441:4:7",
+        "title": "La fría luz gris del amanecer",
+        "season": 4,
+        "episode": 7,
+        "overview": "La amenaza que Antonia representa para Bill y los vampiros aumenta. Aún víctima del hechizo de descomposición, Pam le causa problemas a Tara. Lafayette descubre algo.",
+        "released": "2011-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tZiaQpIXaYASkjFWMk0kIxtUUFk.jpg"
+      },
+      {
+        "id": "tt0844441:4:8",
+        "title": "Hechizado",
+        "season": 4,
+        "episode": 8,
+        "overview": "Bill intenta evitar que el conflicto con las brujas de Antonia se convierta en una guerra. La relación entre Jessica y Hoyt llega a un punto de inflexión.",
+        "released": "2011-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ly939Idh7L4gjBi49FxeERNcW8t.jpg"
+      },
+      {
+        "id": "tt0844441:4:9",
+        "title": "Vámonos de aquí",
+        "season": 4,
+        "episode": 9,
+        "overview": "Tras un hecho violento y catastrófico, se fortalece una conexión inesperada. Lafayette es poseído por un espíritu. Jessica decide seguir adelante tras terminar con Hoyt.",
+        "released": "2011-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nobLGlroalJSHFuNrr3HGi3R8oK.jpg"
+      },
+      {
+        "id": "tt0844441:4:10",
+        "title": "Quemar la casa",
+        "season": 4,
+        "episode": 10,
+        "overview": "Entre el caos, Sookie revela sus poderes. Andy lucha con su adicción a la V. Tommy intenta conectar de nuevo con Sam antes de que se acabe el tiempo.",
+        "released": "2011-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zx2tckOv9wtYnjQy2CrTLmMEWRP.jpg"
+      },
+      {
+        "id": "tt0844441:4:11",
+        "title": "Alma de fuego",
+        "season": 4,
+        "episode": 11,
+        "overview": "Los vampiros continúan la pelea en el Emporio de la Diosa Lunar, con Sookie atrapada dentro. El conflicto de Sam y Alcide con Marcus llega a un clímax peligroso.",
+        "released": "2011-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eWCnb70EkZ7tYTWHhdnh0umJba0.jpg"
+      },
+      {
+        "id": "tt0844441:4:12",
+        "title": "Y cuando yo muera",
+        "season": 4,
+        "episode": 12,
+        "overview": "Un espíritu se apodera de un cuerpo y provoca el caos. Jason y Hoyt evalúan su amistad. Sookie toma una decisión importante. Una nueva tragedia cae sobre Bon Temps.",
+        "released": "2011-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iOPD6Xh6tMEed6YCzqlHts104Iw.jpg"
+      },
+      {
+        "id": "tt0844441:5:1",
+        "title": "Un tiempo de cambios",
+        "season": 5,
+        "episode": 1,
+        "overview": "La vida de Tara pende de un hilo, así que Sookie y Lafayette hacen una petición impensable. Sam y Alcide enfrentan la furia de la manada.",
+        "released": "2012-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2srkaRXfBGd0hEfl8vhPMN55xfO.jpg"
+      },
+      {
+        "id": "tt0844441:5:2",
+        "title": "La autoridad siempre gana",
+        "season": 5,
+        "episode": 2,
+        "overview": "Eric y Bill deben dar cuentas a Roman, el carismático líder de la Autoridad vampírica. Sookie y Lafayette ayudan a Tara a acostumbrarse a su nueva realidad.",
+        "released": "2012-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8ucGAIhCIMlXgrFDTfyk5mFlIfn.jpg"
+      },
+      {
+        "id": "tt0844441:5:3",
+        "title": "Tú me hiciste así",
+        "season": 5,
+        "episode": 3,
+        "overview": "Sin poder controlar sus impulsos, Tara halla refugio con Sam. Roman le ordena a Bill y a Eric que desentierren a Russell. Pam recuerda los asesinatos de prostitutas de 1905.",
+        "released": "2012-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sSy8ZPVD3mC66uSHyidIwhZmYrH.jpg"
+      },
+      {
+        "id": "tt0844441:5:4",
+        "title": "Volveremos a vernos",
+        "season": 5,
+        "episode": 4,
+        "overview": "La misión de Bill y Eric los pone en riesgo. El enojo y la incredulidad sacuden Bon Temps al descubrirse las decisiones que Sookie tomó. Andy investiga la muerte de una persona.",
+        "released": "2012-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dSNhHqbEjjx7m8zDjtX1vEGQdU3.jpg"
+      },
+      {
+        "id": "tt0844441:5:5",
+        "title": "Bebe hasta reventar",
+        "season": 5,
+        "episode": 5,
+        "overview": "Gracias a Pam, Tara obtiene un empleo en Fangtasía. Lafayette intenta huir de un demonio. Los intentos de dar con Russell llevan a una serie de revelaciones sobre los sanguinistas.",
+        "released": "2012-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yhJTd7L4lfhULnaCH9Wt7H1josl.jpg"
+      },
+      {
+        "id": "tt0844441:5:6",
+        "title": "Desesperación",
+        "season": 5,
+        "episode": 6,
+        "overview": "Russell sigue siendo un peligro, incluso después de su captura. El ataque que sufren Sam y Luna hace pensar en una nueva amenaza. Sookie confía en sus habilidades de hada.",
+        "released": "2012-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aNyRNILzigmiM6MpY7dI3aXcg2J.jpg"
+      },
+      {
+        "id": "tt0844441:5:7",
+        "title": "Al principio",
+        "season": 5,
+        "episode": 7,
+        "overview": "Russell provoca el caos en la Autoridad. Sookie descubre que sus poderes de hada tienen límites. Alcide se enfrenta a J. D. por el control de la manada.",
+        "released": "2012-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3YOlYcroBNBRZGqBDm55TqBLlSX.jpg"
+      },
+      {
+        "id": "tt0844441:5:8",
+        "title": "Alguien a quien conocía",
+        "season": 5,
+        "episode": 8,
+        "overview": "Los vampiros caen bajo el encanto de Lilith, mientras el grupo de odio obliga a Hoyt a tomar una dolorosa decisión. Sookie y Jason descubren la verdad sobre sus padres.",
+        "released": "2012-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eFBW7sZ5UBo3elLoQLag3jUNwWo.jpg"
+      },
+      {
+        "id": "tt0844441:5:9",
+        "title": "Todos quieren dominar el mundo",
+        "season": 5,
+        "episode": 9,
+        "overview": "Cuando se revelan los planes del grupo de odio, Sookie y Hoyt descubren que están en peligro. Eric intenta liberar a Bill del poder de la Autoridad.",
+        "released": "2012-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ibjX23ZN09kX9MjZVy7fElFdzdc.jpg"
+      },
+      {
+        "id": "tt0844441:5:10",
+        "title": "Adiós, adiós, adiós",
+        "season": 5,
+        "episode": 10,
+        "overview": "La ola de terror aumenta tras las explosiones y el ascenso de Russell al poder. Hoyt toma una decisión importante y la comparte con Jessica. Luna busca a Emma.",
+        "released": "2012-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yA0a4uVciIsuTPpMjxWTSl84In3.jpg"
+      },
+      {
+        "id": "tt0844441:5:11",
+        "title": "Anochecer",
+        "season": 5,
+        "episode": 11,
+        "overview": "Las visiones que Bill tiene de Lilith llevan a situaciones extremas. Jessica hace un oferta desesperada para proteger a Jason. Sookie recibe información inesperada de las hadas.",
+        "released": "2012-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hWHRBYL6hnONj1jKVJ0VrsgUncM.jpg"
+      },
+      {
+        "id": "tt0844441:5:12",
+        "title": "Sálvate a ti mismo",
+        "season": 5,
+        "episode": 12,
+        "overview": "El poder absoluto parece estar al alcance de Bill después de una explosión de terror y violencia descarnada. ¿Podrá Sookie salvarlo de sí mismo?",
+        "released": "2012-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lW4Hj3V38NPOXMXuXnxEYh0mrDj.jpg"
+      },
+      {
+        "id": "tt0844441:6:1",
+        "title": "¿Quién eres en realidad?",
+        "season": 6,
+        "episode": 1,
+        "overview": "Tras el ataque a la Autoridad, Sookie y sus aliados se reagrupan. Cuando el gobernador establece un toque de queda para los vampiros, se vislumbran nuevos episodios de violencia.",
+        "released": "2013-06-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wGXP1gCkjiTFTIklDErafn6NZz4.jpg"
+      },
+      {
+        "id": "tt0844441:6:2",
+        "title": "El sol",
+        "season": 6,
+        "episode": 2,
+        "overview": "Jason y Sookie se involucran con desconocidos que tienen vínculos con las hadas. Lilith quiere que Bill termine su encargo. Los vampiros se preparan para la guerra.",
+        "released": "2013-06-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2Qgp0bc8b3X1wKngIRJ8VwFMRkM.jpg"
+      },
+      {
+        "id": "tt0844441:6:3",
+        "title": "No eres bueno",
+        "season": 6,
+        "episode": 3,
+        "overview": "Mientras Eric descubre más información sobre las intenciones reales del gobernador Burrell, Bill arma un plan osado. Niall y Jason se movilizan para proteger a Sookie de Warlow.",
+        "released": "2013-06-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/46rojun3z9X2rucgfj5iZlTVrfx.jpg"
+      },
+      {
+        "id": "tt0844441:6:4",
+        "title": "Por fin",
+        "season": 6,
+        "episode": 4,
+        "overview": "Al intentar salvar a Jason, Sookie se da cuenta de lo cerca que podría estar Warlow. Eric intenta encontrar a Willa antes que el gobernador.",
+        "released": "2013-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1IvBKNxrE40XUetOLdtczGvzhom.jpg"
+      },
+      {
+        "id": "tt0844441:6:5",
+        "title": "Deja atrás el dolor",
+        "season": 6,
+        "episode": 5,
+        "overview": "Warlow sorprende a Sookie con una revelación sobre su pasado común. Eric y Tara se dejan capturar para entrar al campamento. Andy descubre algo devastador.",
+        "released": "2013-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/exCUsFpquPkDIi8Z4b8v45zBdSs.jpg"
+      },
+      {
+        "id": "tt0844441:6:6",
+        "title": "¿No me sientes?",
+        "season": 6,
+        "episode": 6,
+        "overview": "Para proteger a Warlow, Sookie toma una decisión drástica. Eric y Pam les dan problemas a sus captores en el campamento. Bill le pide respuestas a Lilith.",
+        "released": "2013-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4KwebHsZU9q56osjaNwIZbhd4JO.jpg"
+      },
+      {
+        "id": "tt0844441:6:7",
+        "title": "Por la tarde",
+        "season": 6,
+        "episode": 7,
+        "overview": "Eric intenta salvar a Nora, pero no logra impedir que la Sangre Verdadera alterada llegue al resto de los vampiros. Bon Temps reacciona a una muerte en Merlotte.",
+        "released": "2013-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u0T6bphhUzsj8voBzE8dcMN6sbT.jpg"
+      },
+      {
+        "id": "tt0844441:6:8",
+        "title": "Carne muerta",
+        "season": 6,
+        "episode": 8,
+        "overview": "Warlow exige un pago alto por ayudar a salvar a los vampiros. La determinación de Sarah por lograr el plan de Burrell pone a todo el campamento en riesgo.",
+        "released": "2013-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dVS1vsjZSxPSYYMpibUxfGRtzEL.jpg"
+      },
+      {
+        "id": "tt0844441:6:9",
+        "title": "La vida importa",
+        "season": 6,
+        "episode": 9,
+        "overview": "En contra de los planes de Bill, Eric desata su furia en el campamento, y Sarah debe enfrentar las consecuencias de sus actos. Bon Temps se reúne para un emotivo funeral.",
+        "released": "2013-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mqFvLrNZfaeNHy7xfUfplvqyFOl.jpg"
+      },
+      {
+        "id": "tt0844441:6:10",
+        "title": "Radiactivo",
+        "season": 6,
+        "episode": 10,
+        "overview": "La relación de Sookie y Warlow da otro giro, y Bill busca la redención. Los habitantes de Bon Temps intentan sobreponerse a las tragedias recientes.",
+        "released": "2013-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4DqkYh7rhVlKLcqMQR0C7r5gpIM.jpg"
+      },
+      {
+        "id": "tt0844441:7:1",
+        "title": "Jesús estará aquí",
+        "season": 7,
+        "episode": 1,
+        "overview": "Cuando una reunión amistosa en Bellefleur termina en una masacre, Sookie debe enfrentar el dolor y el enojo de la comunidad. Pam sigue buscando a Eric.",
+        "released": "2014-06-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1BJUYXUYJM15X5O7e4sQyZguFyW.jpg"
+      },
+      {
+        "id": "tt0844441:7:2",
+        "title": "Te encontré",
+        "season": 7,
+        "episode": 2,
+        "overview": "Sookie y sus amigos viajan a St. Alice y descubren el nivel de amenaza que enfrentan. Arlene encuentra una posible aliada entre los vampiros infectados.",
+        "released": "2014-06-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xA8XBanetRLArN6umQrTrJFgkj0.jpg"
+      },
+      {
+        "id": "tt0844441:7:3",
+        "title": "A punto de explotar",
+        "season": 7,
+        "episode": 3,
+        "overview": "Pam intenta ayudar a Eric a salir de su dolor. Bill usa a Sookie como carnada para los vampiros infectados. El grupo de vigilantes son una amenaza cada vez mayor.",
+        "released": "2014-07-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d5VxdRS4Lmb277x7vYHPVwlLwwv.jpg"
+      },
+      {
+        "id": "tt0844441:7:4",
+        "title": "La muerte no es el final",
+        "season": 7,
+        "episode": 4,
+        "overview": "Bon Temps enfrenta otra terrible pérdida. Sookie planea un rescate en Fangtasía. Las revelaciones sobre el pasado de Eric permiten comprender mejor los eventos recientes.",
+        "released": "2014-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tE8HP60v5snzCp01sL6qrPOO5Ui.jpg"
+      },
+      {
+        "id": "tt0844441:7:5",
+        "title": "Causa perdida",
+        "season": 7,
+        "episode": 5,
+        "overview": "Willa les cuenta a Eric y Pam un secreto sobre Sarah. Sookie y Jessica se sienten confortadas al ver los esfuerzos de sus amigos por traer felicidad a todos.",
+        "released": "2014-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7tSJUSn2COJxRbNOFS4r7WFBrfb.jpg"
+      },
+      {
+        "id": "tt0844441:7:6",
+        "title": "Karma",
+        "season": 7,
+        "episode": 6,
+        "overview": "Bill reacciona a su diagnóstico, mientras que Eric y Pam se enfrentan a la Corporación Yakonomo. Jason no logra elegir entre dos amores.",
+        "released": "2014-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gq61J1Dq5derSzPKG5sU8ZZp7jF.jpg"
+      },
+      {
+        "id": "tt0844441:7:7",
+        "title": "Podría ser la última vez",
+        "season": 7,
+        "episode": 7,
+        "overview": "A medida que se intensifica la búsqueda de Sarah y de la cura contra la hepatitis V, Bill se preocupa por lo rápido que avanza su enfermedad. Jason se encuentra con un viejo amigo.",
+        "released": "2014-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yTZQpwDoto9n2MgylzAbOdoBZxC.jpg"
+      },
+      {
+        "id": "tt0844441:7:8",
+        "title": "Casi en casa",
+        "season": 7,
+        "episode": 8,
+        "overview": "Eric, Pam y el señor Gus deciden el futuro de Sarah. Lettie Mae y el reverendo intentan comunicarse con Tara. La crisis de Bill lo acerca a Sookie.",
+        "released": "2014-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ljwcMBCM3LarFJgDZd6wyiUZFg8.jpg"
+      },
+      {
+        "id": "tt0844441:7:9",
+        "title": "Amar es morir",
+        "season": 7,
+        "episode": 9,
+        "overview": "Sookie y Jessica se esfuerzan por aceptar las decisiones difíciles que han tomado sus seres queridos. El regreso de Hoyt a Bon Temps implica más drama para Jason.",
+        "released": "2014-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/keobUGBXAgfdhSLu8gyDzDl38N5.jpg"
+      },
+      {
+        "id": "tt0844441:7:10",
+        "title": "Gracias",
+        "season": 7,
+        "episode": 10,
+        "overview": "Bill le pide algo a Sookie, mientras Eric revela cuáles son sus planes para Sarah y Sangre Nueva. Un evento sorprendente es el inicio de mejores días para los amigos de Bon Temps.",
+        "released": "2014-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sLlG9aFpgKFFznFvEayLq8e9I2j.jpg"
+      }
+    ]
+  }
+}

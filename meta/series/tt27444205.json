@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "id": "tt27444205",
+    "type": "series",
+    "name": "Paradise",
+    "poster": "https://image.tmdb.org/t/p/w500/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
+    "posterShape": "poster",
+    "description": "En una tranquila comunidad habitada por algunas de las personas más destacadas del mundo, se estalla cuando se produce un impactante asesinato y se desencadena una investigación de alto riesgo.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt27444205:1:1",
+        "title": "Wildcat caído",
+        "season": 1,
+        "episode": 1,
+        "overview": "Es un día cualquiera en Paradise hasta que el agente Xavier Collins descubre que uno de los individuos más poderosos del mundo ha sido vilmente asesinado. Xavier analiza la escena del crimen mientras recuerda su compleja relación con la víctima.",
+        "released": "2025-01-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nxQvawxQGMS2tYOVxoX2WcUFdQz.jpg"
+      },
+      {
+        "id": "tt27444205:1:2",
+        "title": "Sinatra",
+        "season": 1,
+        "episode": 2,
+        "overview": "El agente Xavier Collins es interrogado. Samantha Redmond (nombre en clave Sinatra) empieza a tranquilizar a la comunidad mientras reflexiona sobre cómo llegó a Paradise.",
+        "released": "2025-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AaprHET2NOxTPQmzvTzn7kj0t4a.jpg"
+      },
+      {
+        "id": "tt27444205:1:3",
+        "title": "El arquitecto del bienestar social",
+        "season": 1,
+        "episode": 3,
+        "overview": "Aislado, Xavier busca respuestas por su cuenta y acude cautelosamente a la Dra. Gabriela Torabi. Mientras tanto, Billy y Jane sienten la presión de la investigación de Robinson.",
+        "released": "2025-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yVVL5CSjRIuJuzwp04ghEfRAz0s.jpg"
+      },
+      {
+        "id": "tt27444205:1:4",
+        "title": "Agente Billy Pace",
+        "season": 1,
+        "episode": 4,
+        "overview": "Los ciudadanos de Paradise celebran el carnaval anual. Xavier y Billy profundizan en su investigación.",
+        "released": "2025-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8rXULOzGqBiSK4LZTFyJkLBk5qk.jpg"
+      },
+      {
+        "id": "tt27444205:1:5",
+        "title": "En los palacios de los reyes coronados",
+        "season": 1,
+        "episode": 5,
+        "overview": "Xavier se enfrenta a las consecuencias de su investigación, y se ve obligado a plantearse cómo proceder. Mientras tanto, examinamos la historia familiar de Cal y sus últimos días.",
+        "released": "2025-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zGcORguODT4h85MOAmkLhx3Lfyq.jpg"
+      },
+      {
+        "id": "tt27444205:1:6",
+        "title": "Pediste milagros",
+        "season": 1,
+        "episode": 6,
+        "overview": "Xavier y Robinson ponen en marcha sus planes mientras Sinatra trabaja para preservar el statu quo en Paradise.",
+        "released": "2025-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5HNIOzGkXAyp8qyTOK4kg0OnwQ.jpg"
+      },
+      {
+        "id": "tt27444205:1:7",
+        "title": "El día",
+        "season": 1,
+        "episode": 7,
+        "overview": "Sinatra y Xavier se enfrentan al pasado, volviendo al angustioso día que los trajo a Paradise.",
+        "released": "2025-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hXIzbxpJpVy6Prvc5tbC6MPoZTz.jpg"
+      },
+      {
+        "id": "tt27444205:1:8",
+        "title": "El hombre que guardaba los secretos",
+        "season": 1,
+        "episode": 8,
+        "overview": "Xavier y Robinson se apresuran para encontrar al asesino del presidente Bradford antes de que sea demasiado tarde.",
+        "released": "2025-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ZqroIZYHOa7mgthXGWVuGTCo0i.jpg"
+      },
+      {
+        "id": "tt27444205:2:1",
+        "title": "Graceland",
+        "season": 2,
+        "episode": 1,
+        "overview": "Annie es guía de turistas en Memphis, Tennessee, cuando el mundo llega a su fin.",
+        "released": "2026-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6BctnBvrEBdRfkhILd1cvix7WCX.jpg"
+      },
+      {
+        "id": "tt27444205:2:2",
+        "title": "Mayday",
+        "season": 2,
+        "episode": 2,
+        "overview": "Xavier se enfrenta a los elementos y otras amenazas mientras sigue una transmisión rumbo a Atlanta.",
+        "released": "2026-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dHAnbIgM8BbtR6t9LFCcIpBdRF4.jpg"
+      },
+      {
+        "id": "tt27444205:2:3",
+        "title": "Otro día en el paraíso",
+        "season": 2,
+        "episode": 3,
+        "overview": "Sinatra descubre un nuevo paradigma en el búnker y lucha por mantenerlo en secreto.",
+        "released": "2026-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uIfgNiXbJFboCxemOtlTf9AdjYB.jpg"
+      },
+      {
+        "id": "tt27444205:2:4",
+        "title": "Deber sagrado",
+        "season": 2,
+        "episode": 4,
+        "overview": "Xavier y Annie viajan a Atlanta, contrastando su nueva vida con la que él dejo atrás.",
+        "released": "2026-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hUP9sQh2QjuRMgirHjlT1bwrcMs.jpg"
+      },
+      {
+        "id": "tt27444205:2:5",
+        "title": "El cartero",
+        "season": 2,
+        "episode": 5,
+        "overview": "Xavier conoce a Gary y descubre lo que le pasó a Teri en El Día.",
+        "released": "2026-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gMnJk4u9bWv1wod1uxfavauIISC.jpg"
+      },
+      {
+        "id": "tt27444205:2:6",
+        "title": "Jane",
+        "season": 2,
+        "episode": 6,
+        "overview": "Xavier y Gary ponen en marcha su plan. En Paradise, Sinatra pasa a la acción.",
+        "released": "2026-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4h77tf4UGMJ2YtHCc1tsYlOJ5TP.jpg"
+      },
+      {
+        "id": "tt27444205:2:7",
+        "title": "La cuenta atrás",
+        "season": 2,
+        "episode": 7,
+        "overview": "Xavier tiene asuntos pendientes. Mientras tanto, Sinatra se reúne con Link.",
+        "released": "2026-03-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bFpe4QW3WSZ28BzJdZSIlAH1xpx.jpg"
+      },
+      {
+        "id": "tt27444205:2:8",
+        "title": "Éxodo",
+        "season": 2,
+        "episode": 8,
+        "overview": "Los mundos chocan. El tiempo es crucial para Xavier. Link y su equipo se ponen manos a la obra. Sinatra se lo juega todo.",
+        "released": "2026-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6V2EnynbNcRDqJ7X8l7ye9SJYZ6.jpg"
+      }
+    ]
+  }
+}

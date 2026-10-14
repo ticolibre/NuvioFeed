@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "id": "tt6773088",
+    "type": "series",
+    "name": "Casi hermanos",
+    "poster": "https://image.tmdb.org/t/p/w500/2KZleiyQwgvPu05mQolZBKY6asv.jpg",
+    "posterShape": "poster",
+    "description": "Los actores de Hollywood, Matthew McConaughey y Woody Harrelson, han sido los mejores amigos por años, pero un secreto familiar sugiere que sus lazos podrían ser más cercanos.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt6773088:1:1",
+        "title": "En Camino",
+        "season": 1,
+        "episode": 1,
+        "overview": "Una visita sorpresa de los Harrelson se complica cuando la madre de Matthew suelta una bomba.",
+        "released": "2026-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jx6eXdoKXd80LloPAh9Z59QLIp5.jpg"
+      },
+      {
+        "id": "tt6773088:1:2",
+        "title": "La caza",
+        "season": 1,
+        "episode": 2,
+        "overview": "Matthew lleva a su hijo Wyatt a su primer viaje de caza, mientras que Woody sigue un rastro de otra clase.",
+        "released": "2026-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xnAMUoVX81EqvDEC2Oh3QP7b9kG.jpg"
+      },
+      {
+        "id": "tt6773088:1:3",
+        "title": "Pequeño Woody",
+        "season": 1,
+        "episode": 3,
+        "overview": "Cuando Ma Mac quiere que los Harrelson se vayan, Woody hace un plan descabellado para ganar tiempo.",
+        "released": "2026-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nuPBwXpcmyxqNpuURh3OVv3wyRB.jpg"
+      },
+      {
+        "id": "tt6773088:1:4",
+        "title": "La banda",
+        "season": 1,
+        "episode": 4,
+        "overview": "Woody y Matthew ponen a prueba su talento musical a medida que la investigación de Olive se intensifica.",
+        "released": "2026-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lW0XG1IMoBNGx2YmCkZtQbO2EFj.jpg"
+      },
+      {
+        "id": "tt6773088:1:5",
+        "title": "El Día de San Valentín",
+        "season": 1,
+        "episode": 5,
+        "overview": "Las cosas se descontrolan rápidamente para Matthew y Woody después de olvidar el Día de San Valentín.",
+        "released": "2026-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mpXHBFmNAAt3DfX4xDF5BET15fi.jpg"
+      },
+      {
+        "id": "tt6773088:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-10-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3325hvMGbj11VXMstIjyn9rdycF.jpg"
+      },
+      {
+        "id": "tt6773088:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-10-27"
+      },
+      {
+        "id": "tt6773088:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-11-03"
+      }
+    ]
+  }
+}

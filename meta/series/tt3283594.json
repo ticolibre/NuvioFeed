@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt3283594",
+    "type": "series",
+    "name": "Después del huracán Katrina",
+    "poster": "https://image.tmdb.org/t/p/w500/v8RkwdY8m08Ee4V4joKGYBykaht.jpg",
+    "posterShape": "poster",
+    "description": "Basado en eventos reales del huracán Katrina. Cuando la inundación sube, no hay electricidad y el calor es insoportable, los exhaustos doctores y enfermeras en un hospital de Nueva Orleans fueron obligados a tomar desgarradoras e importantes decisiones.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wlzOQRDD5k5sDXUimLgZfWcd6nz.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt3283594:1:1",
+        "title": "Día uno",
+        "season": 1,
+        "episode": 1,
+        "overview": "El huracán Katrina toca tierra en Nueva Orleans. En el hospital Memorial, los doctores, enfermeras y el personal atienden a los pacientes y se preparan para el huracán.",
+        "released": "2022-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yrYy66eKbDZsxsmHvL0f6auklLH.jpg"
+      },
+      {
+        "id": "tt3283594:1:2",
+        "title": "Día dos",
+        "season": 1,
+        "episode": 2,
+        "overview": "El personal y los pacientes creen que superaron lo peor, sin embargo, la inundación no disminuye. Circulan informes de una nueva crisis.",
+        "released": "2022-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6DeFA34ItzqfEY7btGDuUxIZxUE.jpg"
+      },
+      {
+        "id": "tt3283594:1:3",
+        "title": "Día tres",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras la ciudad se inunda, el hospital se queda sin electricidad. Mulderick y el personal intenta resistir las terribles condiciones y se preparan para una evacuación.",
+        "released": "2022-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wICVZT0e9txJ45aFNNfC28PyBO7.jpg"
+      },
+      {
+        "id": "tt3283594:1:4",
+        "title": "Día cuatro",
+        "season": 1,
+        "episode": 4,
+        "overview": "Las condiciones siguen empeorando. Mulderick, Pou y parte del personal se pregunta cómo ayudar a sus pacientes y a quiénes ayudarán primero.",
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qhjRz4TSeZRjdClxhL3EkW26nIu.jpg"
+      },
+      {
+        "id": "tt3283594:1:5",
+        "title": "Día cinco",
+        "season": 1,
+        "episode": 5,
+        "overview": "Presionados por abandonar el hospital, el personal es obligado a tomar difíciles decisiones.",
+        "released": "2022-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g1rJDTdg2fvw681q2Zu0OI443GA.jpg"
+      },
+      {
+        "id": "tt3283594:1:6",
+        "title": "45 muertos",
+        "season": 1,
+        "episode": 6,
+        "overview": "Los investigadores estatales comienzan a explorar lo que le pasó a las 45 personas muertas encontradas en el Memorial tras el paso del huracán.",
+        "released": "2022-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jmHHSssfpLZnAQ93uD4QJSRIefd.jpg"
+      },
+      {
+        "id": "tt3283594:1:7",
+        "title": "Nadie ha visto lo que yo he visto",
+        "season": 1,
+        "episode": 7,
+        "overview": "Nueva evidencia sale a la luz mientras Schafer y Rider profundizan en su investigación de las muertes en el Memorial.",
+        "released": "2022-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wHSyVoBzR2T1q29B6Or1sNwYotp.jpg"
+      },
+      {
+        "id": "tt3283594:1:8",
+        "title": "El juicio final",
+        "season": 1,
+        "episode": 8,
+        "overview": "Pou se esfuerza para defenderse. Schafer y Rider siguen adelante con su caso.",
+        "released": "2022-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k1ZACVqfIiiRn9MUYKtj6USlGDh.jpg"
+      }
+    ]
+  }
+}

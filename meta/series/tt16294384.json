@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "tt16294384",
+    "type": "series",
+    "name": "Desprecio",
+    "poster": "https://image.tmdb.org/t/p/w500/hV9VZXN9GRiNOOPPGM4EFD7JlyX.jpg",
+    "posterShape": "poster",
+    "description": "Cuando aparece una misteriosa novela junto a la cama de una periodista que ha dedicado toda su carrera a exhibir transgresiones, queda horrorizada al darse cuenta de que ella misma es un personaje clave en una historia que permaneció oculta durante mucho tiempo y que pone al descubierto su más oscuro secreto.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/j7HEQlQoWA2weOR7jS1h5YbsEvM.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt16294384:1:1",
+        "title": "I",
+        "season": 1,
+        "episode": 1,
+        "overview": "Para mi hijo Jonathan.",
+        "released": "2024-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gT5oePRm2cixOopcI5gnK7aId14.jpg"
+      },
+      {
+        "id": "tt16294384:1:2",
+        "title": "II",
+        "season": 1,
+        "episode": 2,
+        "overview": "¿Tú piensas en mí?",
+        "released": "2024-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ndNveEwowbdMguBCjMBZyfHrClW.jpg"
+      },
+      {
+        "id": "tt16294384:1:3",
+        "title": "III",
+        "season": 1,
+        "episode": 3,
+        "overview": "El destino no pide permiso.",
+        "released": "2024-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1nP0tztEeGsuV8qaPaXDQLBpupF.jpg"
+      },
+      {
+        "id": "tt16294384:1:4",
+        "title": "IV",
+        "season": 1,
+        "episode": 4,
+        "overview": "Quería que se muriera.",
+        "released": "2024-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hrafG9RbSuSwO63zkVh7zr68jH7.jpg"
+      },
+      {
+        "id": "tt16294384:1:5",
+        "title": "V",
+        "season": 1,
+        "episode": 5,
+        "overview": "Debía decirles a todos la verdad.",
+        "released": "2024-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sWwB2omq8K8Gn7o9lkguhfzxZxN.jpg"
+      },
+      {
+        "id": "tt16294384:1:6",
+        "title": "VI",
+        "season": 1,
+        "episode": 6,
+        "overview": "Solo la muerte es irrevocable.",
+        "released": "2024-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q8V4nidwLpu3FwkIzUAwZb1huR5.jpg"
+      },
+      {
+        "id": "tt16294384:1:7",
+        "title": "VII",
+        "season": 1,
+        "episode": 7,
+        "overview": "Es hora de que mi voz sea escuchada.",
+        "released": "2024-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jzRKUpq7T0iGUhaP6gqM1aPgsiZ.jpg"
+      }
+    ]
+  }
+}

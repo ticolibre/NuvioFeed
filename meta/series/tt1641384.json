@@ -1,0 +1,828 @@
+{
+  "meta": {
+    "id": "tt1641384",
+    "type": "series",
+    "name": "Justicia Joven",
+    "poster": "https://image.tmdb.org/t/p/w500/qYA2o1y67stEBAkQLRwbpGWHxTQ.jpg",
+    "posterShape": "poster",
+    "description": "Un grupo de superhéroes adolescentes formado por Robin, Kid Flash, Aqualad, Miss Martian, entre otros, tratan de demostrar su valía para formar parte de la Liga de la Justicia mientras conviven con sus problemas de adolescencia.",
+    "releaseInfo": "2010",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1641384:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2010-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lMIIv0YPrbCgkQmAUqZNm0HbZw3.jpg"
+      },
+      {
+        "id": "tt1641384:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2010-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l0it1ftVsJHP4N34A865Z0E95fS.jpg"
+      },
+      {
+        "id": "tt1641384:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2011-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g33Nuxw0lRjmZHDk1wUgf2lZbcg.jpg"
+      },
+      {
+        "id": "tt1641384:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2011-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9J040mDC2Lrajpq2MpQyygib3mi.jpg"
+      },
+      {
+        "id": "tt1641384:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2011-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p139g0jE50eVNTUHhUT5vfTRbzc.jpg"
+      },
+      {
+        "id": "tt1641384:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ah47UB5pd1hrXZ60Ss1sOCbeJhV.jpg"
+      },
+      {
+        "id": "tt1641384:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2011-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vvnsHCID7u6XoVUmcs7y7VBhG0f.jpg"
+      },
+      {
+        "id": "tt1641384:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2011-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iezyUQB2Jj8dmh9UHtpGhgYS4KZ.jpg"
+      },
+      {
+        "id": "tt1641384:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2011-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6aJv1mMzbS6X8SQVSt87V1sHBfJ.jpg"
+      },
+      {
+        "id": "tt1641384:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2011-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/swRYWxAQ28AmEfRknVYkBdH6Pxh.jpg"
+      },
+      {
+        "id": "tt1641384:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2011-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c8souJBKq7vuvDTzF8vGvFIwGmR.jpg"
+      },
+      {
+        "id": "tt1641384:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2011-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aT50LbOaDxvIAyYRrSCYxNPjGRO.jpg"
+      },
+      {
+        "id": "tt1641384:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2011-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aiNljjTojvkVHPxzRmckVghPtYV.jpg"
+      },
+      {
+        "id": "tt1641384:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2011-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d6pEyx19LYlFzbEKMW4CUbTZg4o.jpg"
+      },
+      {
+        "id": "tt1641384:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2011-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jF81w2GmsVSZVmdsCdOoiJ9W1SZ.jpg"
+      },
+      {
+        "id": "tt1641384:1:16",
+        "title": "Episodio 16",
+        "season": 1,
+        "episode": 16,
+        "released": "2011-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zaIqwCqpieWkJ50umvjmdzPQtoK.jpg"
+      },
+      {
+        "id": "tt1641384:1:17",
+        "title": "Episodio 17",
+        "season": 1,
+        "episode": 17,
+        "released": "2011-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nDkfB7efCtKR7UyVXWT7s0D5mgN.jpg"
+      },
+      {
+        "id": "tt1641384:1:18",
+        "title": "Episodio 18",
+        "season": 1,
+        "episode": 18,
+        "released": "2011-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w3m9zKBWv7u9MWwViaul0T8wbKe.jpg"
+      },
+      {
+        "id": "tt1641384:1:19",
+        "title": "Episodio 19",
+        "season": 1,
+        "episode": 19,
+        "released": "2012-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d6D0LkYV4gelIlD8Vf5HLrI4xGu.jpg"
+      },
+      {
+        "id": "tt1641384:1:20",
+        "title": "Episodio 20",
+        "season": 1,
+        "episode": 20,
+        "released": "2012-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A0xbCwhTVgqsWCW4YYV5uCUds8s.jpg"
+      },
+      {
+        "id": "tt1641384:1:21",
+        "title": "Episodio 21",
+        "season": 1,
+        "episode": 21,
+        "released": "2012-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uoapcpqyM5v8VGUaEkRUjL03BO5.jpg"
+      },
+      {
+        "id": "tt1641384:1:22",
+        "title": "Episodio 22",
+        "season": 1,
+        "episode": 22,
+        "released": "2012-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dLec6dOOgGw7yomf6Crs11XNiYf.jpg"
+      },
+      {
+        "id": "tt1641384:1:23",
+        "title": "Episodio 23",
+        "season": 1,
+        "episode": 23,
+        "released": "2012-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uvYlNmY2HW1ZoXxJeMTvJe3PsTP.jpg"
+      },
+      {
+        "id": "tt1641384:1:24",
+        "title": "Episodio 24",
+        "season": 1,
+        "episode": 24,
+        "released": "2012-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g3L7f8vZAkl22zsHLocmoQ0ySWP.jpg"
+      },
+      {
+        "id": "tt1641384:1:25",
+        "title": "Episodio 25",
+        "season": 1,
+        "episode": 25,
+        "released": "2012-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/68XYsY3R9TmX5akxq1IllBVgf66.jpg"
+      },
+      {
+        "id": "tt1641384:1:26",
+        "title": "Episodio 26",
+        "season": 1,
+        "episode": 26,
+        "released": "2012-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7BGv3xyxxk53F4sH2PVmOuyLjdf.jpg"
+      },
+      {
+        "id": "tt1641384:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2012-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vQ6phdn6Z7H8aKJiEHQVlOgJjxM.jpg"
+      },
+      {
+        "id": "tt1641384:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2012-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hk3HtXE0DlC2Q0ncT4FJzkkjXUq.jpg"
+      },
+      {
+        "id": "tt1641384:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2012-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sNzWlmIwlueLt6MM8KI21RFG9In.jpg"
+      },
+      {
+        "id": "tt1641384:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2012-05-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/acXCzmE26QmdmgOmtFKu1zvzIPL.jpg"
+      },
+      {
+        "id": "tt1641384:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2012-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lRn5twnNu8dxrqAHwDClNlUZAVm.jpg"
+      },
+      {
+        "id": "tt1641384:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2012-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eqFHrcXDdMKMrRda6wkoF9KEe39.jpg"
+      },
+      {
+        "id": "tt1641384:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2012-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nXIktKdAoA94mRBFakTUQL6LSpb.jpg"
+      },
+      {
+        "id": "tt1641384:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2012-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yNm9ZAa6kh2NXDSDriaV6A5MKDa.jpg"
+      },
+      {
+        "id": "tt1641384:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2012-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w1QHyQqqKXLnYECbQaQbPXp6jgJ.jpg"
+      },
+      {
+        "id": "tt1641384:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2013-01-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ybjSbpjTDXGQWWgBvOhpvItOWxG.jpg"
+      },
+      {
+        "id": "tt1641384:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2013-01-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bmhfECV6k9dhzxsPuA1rQgrs231.jpg"
+      },
+      {
+        "id": "tt1641384:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2013-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6d9w02OgkY0xC87ZtyVVvxkCRAB.jpg"
+      },
+      {
+        "id": "tt1641384:2:13",
+        "title": "Arreglado",
+        "season": 2,
+        "episode": 13,
+        "overview": "Black Manta busca liberar a Kaldur del daño provocado en su mente y manda a Tigresa y Deathstroke a que capturen a la Srta. Marciana para obligarla a revertir ese efecto.",
+        "released": "2013-01-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1AN1zXMCmu51UTKE9CYNM31vIHK.jpg"
+      },
+      {
+        "id": "tt1641384:2:14",
+        "title": "Episodio 14",
+        "season": 2,
+        "episode": 14,
+        "released": "2013-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aflspgrCmmLJfxOElyxAp89zjy9.jpg"
+      },
+      {
+        "id": "tt1641384:2:15",
+        "title": "Episodio 15",
+        "season": 2,
+        "episode": 15,
+        "released": "2013-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yOlwVx9DrPxuqA9pSjm3uOx91WK.jpg"
+      },
+      {
+        "id": "tt1641384:2:16",
+        "title": "Episodio 16",
+        "season": 2,
+        "episode": 16,
+        "released": "2013-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lAUAqJrQ4SshjEeRMZrsN9c1Izq.jpg"
+      },
+      {
+        "id": "tt1641384:2:17",
+        "title": "Episodio 17",
+        "season": 2,
+        "episode": 17,
+        "released": "2013-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cLEiBHzhasXFwe7dW9BDiMqyND1.jpg"
+      },
+      {
+        "id": "tt1641384:2:18",
+        "title": "Episodio 18",
+        "season": 2,
+        "episode": 18,
+        "released": "2013-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5L8QqSXUFqRN8Jta9Wk98CuEIRE.jpg"
+      },
+      {
+        "id": "tt1641384:2:19",
+        "title": "Episodio 19",
+        "season": 2,
+        "episode": 19,
+        "released": "2013-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rPWoIH8n3XTTktQe5HxNNLXeTDt.jpg"
+      },
+      {
+        "id": "tt1641384:2:20",
+        "title": "Episodio 20",
+        "season": 2,
+        "episode": 20,
+        "released": "2013-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/myQxeSgcma4rrfxK4WVg95VCZuI.jpg"
+      },
+      {
+        "id": "tt1641384:3:1",
+        "title": "Príncipes todos",
+        "season": 3,
+        "episode": 1,
+        "overview": "Después de que la Liga de la Justicia se enfrente a un incidente horroroso en el planeta Rann, Dick Grayson reúne a un escuadrón de héroes de élite para cerrar un sindicato de traficantes de personas en Markovia.",
+        "released": "2019-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gorAhQMHKcJnJMfttl58cbsRjDx.jpg"
+      },
+      {
+        "id": "tt1641384:3:2",
+        "title": "Somos reales",
+        "season": 3,
+        "episode": 2,
+        "overview": "Dick Grayson, Artemis Crock, Conner Kent y Jefferson Pierce van de forma encubierta en Markovia para detener el cartel del tráfico de personas y el sindicato de Bedlam antes de que se lleve otra víctima.",
+        "released": "2019-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/71uL7zfxfwnFOf158Yhl71QGgNC.jpg"
+      },
+      {
+        "id": "tt1641384:3:3",
+        "title": "Amenaza Eminente",
+        "season": 3,
+        "episode": 3,
+        "overview": "Conner Kent y el príncipe Biron Markov están en las garras del conde Vertigo, dejando a Dick Grayson, Artemis Crock y Jefferson Pierce emocionalmente dañado para salvarlos y ponerle fin al sindicato Bedlam.",
+        "released": "2019-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eUGNzQcrLZb4wjF45ZLtroVc9Qw.jpg"
+      },
+      {
+        "id": "tt1641384:3:4",
+        "title": "Seguridad privada",
+        "season": 3,
+        "episode": 4,
+        "overview": "Después de que la Liga de la Justicia se enfrente a un incidente horroroso en el planeta Rann, Dick Grayson reúne a un escuadrón de héroes de élite para cerrar un sindicato de traficantes de personas en Markovia.",
+        "released": "2019-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gDpwUkQzMlwvkxgn0q808744VtM.jpg"
+      },
+      {
+        "id": "tt1641384:3:5",
+        "title": "Misión ausente",
+        "season": 3,
+        "episode": 5,
+        "overview": "Dick Grayson, Artemis Crock, Conner Kent y Jefferson Pierce van de forma encubierta en Markovia para detener el cartel del tráfico de personas y el sindicato de Bedlam antes de que se lleve otra víctima.",
+        "released": "2019-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zXaQbCgPCCnl3HdrwDKYadyuQjm.jpg"
+      },
+      {
+        "id": "tt1641384:3:6",
+        "title": "Operación de rescate",
+        "season": 3,
+        "episode": 6,
+        "overview": "Brion Markov está decidido a rescatar a su hermana desaparecida, incluso si eso significa derribarse contra toda la Liga de las Sombras.",
+        "released": "2019-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lbHeY8BQa1SxBtKNtruFDwLQyiz.jpg"
+      },
+      {
+        "id": "tt1641384:3:7",
+        "title": "Evolución",
+        "season": 3,
+        "episode": 7,
+        "overview": "Los alienígenas nuevamente amenazan a la Tierra, pero con la Liga de la Justicia dividida y dispersa, solo el primer y más grande héroe del planeta puede salvar el día.",
+        "released": "2019-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aqlwe7dxBef29JRj8dUpKcj0yI5.jpg"
+      },
+      {
+        "id": "tt1641384:3:8",
+        "title": "Tríptico",
+        "season": 3,
+        "episode": 8,
+        "overview": "A medida que el tráfico meta-humano se extiende a lo largo de los Estados Unidos, tres equipos muy diferentes de héroes esperan detenerlo.",
+        "released": "2019-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1yDPjSG0m45XdGgWOIQEYal43fQ.jpg"
+      },
+      {
+        "id": "tt1641384:3:9",
+        "title": "Incendios caseros",
+        "season": 3,
+        "episode": 9,
+        "overview": "La Luz ha contratado a un asesino intergaláctico, pero ¿quién es el objetivo previsto?",
+        "released": "2019-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8SY4NBY2bZGMjL7hukVEcyOaoKW.jpg"
+      },
+      {
+        "id": "tt1641384:3:10",
+        "title": "Seres Humanos Excepcionales",
+        "season": 3,
+        "episode": 10,
+        "overview": "La búsqueda de Tara Markov continúa, pero ¿quién está buscando y dónde?",
+        "released": "2019-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xhYqjMKoCpB19BH1uc9MVwQP50C.jpg"
+      },
+      {
+        "id": "tt1641384:3:11",
+        "title": "Otro monstruo",
+        "season": 3,
+        "episode": 11,
+        "overview": "Es el primer día de clases para Violet Harper y Forager (JASON SPISAK). Y el último día para un monstruo diferente ...",
+        "released": "2019-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wgdyzYNtkUool0KRjtl6evheG5H.jpg"
+      },
+      {
+        "id": "tt1641384:3:12",
+        "title": "Pesadillas de mono",
+        "season": 3,
+        "episode": 12,
+        "overview": "Garfield Logan prueba un par de gafas Goode VR. Entonces las gafas le ponen a prueba!",
+        "released": "2019-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4lTP0g3VFzKf5N2n4C6C3keSnEy.jpg"
+      },
+      {
+        "id": "tt1641384:3:13",
+        "title": "Verdaderos Héroes",
+        "season": 3,
+        "episode": 13,
+        "overview": "Los operativos de Grayson intentan detener una subasta de meta-adolescentes esclavizados.",
+        "released": "2019-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xzHBApi46MtFJv7QTWAl2z8zZcP.jpg"
+      },
+      {
+        "id": "tt1641384:3:14",
+        "title": "Episodio 14",
+        "season": 3,
+        "episode": 14,
+        "released": "2019-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/97e0y5aoRSW7zXePSFJPgZ0AtMe.jpg"
+      },
+      {
+        "id": "tt1641384:3:15",
+        "title": "Episodio 15",
+        "season": 3,
+        "episode": 15,
+        "released": "2019-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zHgKgwPOjyW5ooHDQJ2qtaDwphc.jpg"
+      },
+      {
+        "id": "tt1641384:3:16",
+        "title": "Episodio 16",
+        "season": 3,
+        "episode": 16,
+        "released": "2019-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ycSMjJbkvpZ6nYsYG3JebktbxEi.jpg"
+      },
+      {
+        "id": "tt1641384:3:17",
+        "title": "Episodio 17",
+        "season": 3,
+        "episode": 17,
+        "released": "2019-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vKsye9kI3f9ulrmBtAkFW7wjbTQ.jpg"
+      },
+      {
+        "id": "tt1641384:3:18",
+        "title": "Episodio 18",
+        "season": 3,
+        "episode": 18,
+        "released": "2019-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zqQwrbHCho3BBJIHqFYI7oWaJi6.jpg"
+      },
+      {
+        "id": "tt1641384:3:19",
+        "title": "Episodio 19",
+        "season": 3,
+        "episode": 19,
+        "released": "2019-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4I1IbvjF4xPsvAfGh0tv7lCpTFc.jpg"
+      },
+      {
+        "id": "tt1641384:3:20",
+        "title": "Episodio 20",
+        "season": 3,
+        "episode": 20,
+        "released": "2019-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pVCPvVI81gwXi4oMZ3VneUx7vYW.jpg"
+      },
+      {
+        "id": "tt1641384:3:21",
+        "title": "Episodio 21",
+        "season": 3,
+        "episode": 21,
+        "released": "2019-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ppA6C3j2jRugoEijIcgx6Eie3Sq.jpg"
+      },
+      {
+        "id": "tt1641384:3:22",
+        "title": "Episodio 22",
+        "season": 3,
+        "episode": 22,
+        "released": "2019-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xI3iaHYBj650m0kBa04Xor1Katl.jpg"
+      },
+      {
+        "id": "tt1641384:3:23",
+        "title": "Episodio 23",
+        "season": 3,
+        "episode": 23,
+        "released": "2019-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/37R088cd063vp02WX2n3HEhRANr.jpg"
+      },
+      {
+        "id": "tt1641384:3:24",
+        "title": "Episodio 24",
+        "season": 3,
+        "episode": 24,
+        "released": "2019-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mNgrJn0duWaUdQff7nXtXjfING9.jpg"
+      },
+      {
+        "id": "tt1641384:3:25",
+        "title": "Episodio 25",
+        "season": 3,
+        "episode": 25,
+        "released": "2019-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c2OKN7cNHzsu6MXkI0LZzcEOjxf.jpg"
+      },
+      {
+        "id": "tt1641384:3:26",
+        "title": "Episodio 26",
+        "season": 3,
+        "episode": 26,
+        "released": "2019-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9DCwaniE7PVyYRsJcOEFcSNhknY.jpg"
+      },
+      {
+        "id": "tt1641384:4:1",
+        "title": "Inhóspito",
+        "season": 4,
+        "episode": 1,
+        "overview": "Miss Martian, Superboy, Beast Boy y Martian Manhunter se toman unas pequeñas vacaciones ... en climas algo hostiles.",
+        "released": "2021-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eqmpINsUhWpy7CLNtl2G7viROrt.jpg"
+      },
+      {
+        "id": "tt1641384:4:2",
+        "title": "Necesario",
+        "season": 4,
+        "episode": 2,
+        "overview": "Mientras intenta resolver una creciente lista de misterios, Miss Martian, Superboy y Beast Boy consultan con la realeza.",
+        "released": "2021-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jO5McGq9llDifFyKd5ZxQFZoxAQ.jpg"
+      },
+      {
+        "id": "tt1641384:4:3",
+        "title": "Volátil",
+        "season": 4,
+        "episode": 3,
+        "overview": "Miss Martian y Superboy lidian con las tradiciones familiares, mientras que Beast Boy lucha con algo mucho más oscuro.",
+        "released": "2021-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dpnzB2wFHm4QAPa6rBKXlvHgs0F.jpg"
+      },
+      {
+        "id": "tt1641384:4:4",
+        "title": "Involuntario",
+        "season": 4,
+        "episode": 4,
+        "overview": "Las respuestas salen a la luz cuando Chico Bestia, Miss Martian y Superboy descubren una horrible verdad.",
+        "released": "2021-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uOutHpzWmtlrUCfCY2uddbr7K99.jpg"
+      },
+      {
+        "id": "tt1641384:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2021-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zcdPQFUvveJZ1Nc37mpFUXW1eET.jpg"
+      },
+      {
+        "id": "tt1641384:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2021-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gdnUuKXw41gj1f8OrMJYcrc95dt.jpg"
+      },
+      {
+        "id": "tt1641384:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "2021-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ykiP02cUOVsukaM2bKWTB5MaeTY.jpg"
+      },
+      {
+        "id": "tt1641384:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "2021-11-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1VBkirv08oHzhmHRSw4xw6Ryn2G.jpg"
+      },
+      {
+        "id": "tt1641384:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "2021-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3ceRVgFCdvvbZQscWhPbqdomiNF.jpg"
+      },
+      {
+        "id": "tt1641384:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "2021-12-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/axc9UNARVMFZxePq3UGmo8O8fuC.jpg"
+      },
+      {
+        "id": "tt1641384:4:11",
+        "title": "Episodio 11",
+        "season": 4,
+        "episode": 11,
+        "released": "2021-12-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l4vcAh0epJfDCtnm2pNh0b2Rw7a.jpg"
+      },
+      {
+        "id": "tt1641384:4:12",
+        "title": "Episodio 12",
+        "season": 4,
+        "episode": 12,
+        "released": "2021-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ylrj7qGTQnrnteO498hclKM2GXq.jpg"
+      },
+      {
+        "id": "tt1641384:4:13",
+        "title": "Episodio 13",
+        "season": 4,
+        "episode": 13,
+        "released": "2021-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5xr9St1GHJK23x5IOHtyeqUVs3E.jpg"
+      },
+      {
+        "id": "tt1641384:4:14",
+        "title": "Episodio 14",
+        "season": 4,
+        "episode": 14,
+        "released": "2022-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7SivECbuqVS5su3LuvKDy8zC9FJ.jpg"
+      },
+      {
+        "id": "tt1641384:4:15",
+        "title": "Episodio 15",
+        "season": 4,
+        "episode": 15,
+        "released": "2022-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yuBsvKNN2cAFwxgYoBP0u9GkGkJ.jpg"
+      },
+      {
+        "id": "tt1641384:4:16",
+        "title": "Episodio 16",
+        "season": 4,
+        "episode": 16,
+        "released": "2022-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vhlMFI4OucgtlApwlBqPUf18WOm.jpg"
+      },
+      {
+        "id": "tt1641384:4:17",
+        "title": "Episodio 17",
+        "season": 4,
+        "episode": 17,
+        "released": "2022-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mf2uQquKQcAeWYHyMIrWkf3cybH.jpg"
+      },
+      {
+        "id": "tt1641384:4:18",
+        "title": "Episodio 18",
+        "season": 4,
+        "episode": 18,
+        "released": "2022-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vRDVcwybVmpPrr7n6obzpLsPhG1.jpg"
+      },
+      {
+        "id": "tt1641384:4:19",
+        "title": "Episodio 19",
+        "season": 4,
+        "episode": 19,
+        "released": "2022-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tWWLu1sWfzDfMrIQdrxUYG6RbC8.jpg"
+      },
+      {
+        "id": "tt1641384:4:20",
+        "title": "Episodio 20",
+        "season": 4,
+        "episode": 20,
+        "released": "2022-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8nphlQaEHVutAQw2wkwt6D9tWDy.jpg"
+      },
+      {
+        "id": "tt1641384:4:21",
+        "title": "Episodio 21",
+        "season": 4,
+        "episode": 21,
+        "released": "2022-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/agvyPDzhQFWTod0NMB5vuLcyeXJ.jpg"
+      },
+      {
+        "id": "tt1641384:4:22",
+        "title": "Episodio 22",
+        "season": 4,
+        "episode": 22,
+        "released": "2022-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kvIDudZUcghR2qlhZas6c6IQLGx.jpg"
+      },
+      {
+        "id": "tt1641384:4:23",
+        "title": "Episodio 23",
+        "season": 4,
+        "episode": 23,
+        "released": "2022-05-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hMSq4ZgQcJGnlP2R8ejqlYoAw4I.jpg"
+      },
+      {
+        "id": "tt1641384:4:24",
+        "title": "Episodio 24",
+        "season": 4,
+        "episode": 24,
+        "released": "2022-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ThPLpfemxBiew1tGCoktCyw2JB.jpg"
+      },
+      {
+        "id": "tt1641384:4:25",
+        "title": "Episodio 25",
+        "season": 4,
+        "episode": 25,
+        "released": "2022-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bGxARSZUuDbgkX03TzrXSXcHgNJ.jpg"
+      },
+      {
+        "id": "tt1641384:4:26",
+        "title": "Episodio 26",
+        "season": 4,
+        "episode": 26,
+        "released": "2022-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aIrFAxd14cA3vf0ieShje23KedZ.jpg"
+      }
+    ]
+  }
+}

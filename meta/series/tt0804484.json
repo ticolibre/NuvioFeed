@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "id": "tt0804484",
+    "type": "series",
+    "name": "Fundación",
+    "poster": "https://image.tmdb.org/t/p/w500/9kxffO5nrGBCw8pQoKEVx7q0VW7.jpg",
+    "posterShape": "poster",
+    "description": "Fundación retrata a un grupo de exiliados de la galaxia en su épica misión de salvar a la humanidad y reconstruir la civilización.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0804484:1:1",
+        "title": "La paz del emperador",
+        "season": 1,
+        "episode": 1,
+        "overview": "Una joven abandona su planeta hogar en una misión épica que inicia en el corazón de la galaxia que es dominada por la mano de hierro de una dinastía conocida como el Imperio.",
+        "released": "2021-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eYwAsUtxMxyGv1qJ9asMftaqjUE.jpg"
+      },
+      {
+        "id": "tt0804484:1:2",
+        "title": "La preparación",
+        "season": 1,
+        "episode": 2,
+        "overview": "La Fundación hace un largo viaje a Términus mientras Gaal y Raych se vuelven cercanos. El imperio se enfrenta a una decisión difícil.",
+        "released": "2021-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uC0BRA2QgSKZnswPAdaw1u5UwWf.jpg"
+      },
+      {
+        "id": "tt0804484:1:3",
+        "title": "El fantasma del matemático",
+        "season": 1,
+        "episode": 3,
+        "overview": "Hermano Ocaso reflexiona sobre su legado mientras se prepara para la ascención. La Fundación llega a Términus y encuentra un objeto misterioso.",
+        "released": "2021-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cU2elll7NKNGnXxmDPSFntlJnul.jpg"
+      },
+      {
+        "id": "tt0804484:1:4",
+        "title": "Bárbaros en las puertas",
+        "season": 1,
+        "episode": 4,
+        "overview": "Salvor se enfrenta a un enemigo del imperio. Hermano Día y Ocaso se enfrentan mientras Hermano Alba lucha con su verdad.",
+        "released": "2021-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k0sNoraOGogMPnzn68Ws973PtEN.jpg"
+      },
+      {
+        "id": "tt0804484:1:5",
+        "title": "Espero el despertar",
+        "season": 1,
+        "episode": 5,
+        "overview": "Un flashback revela el origen del conflicto de Gaal entre la fe y la ciencia. El conflicto en Términus toma un camino desafortunado.",
+        "released": "2021-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dIjF3UqGq0Rqa0yJ6QpMQtpo3xu.jpg"
+      },
+      {
+        "id": "tt0804484:1:6",
+        "title": "La muerte y la doncella",
+        "season": 1,
+        "episode": 6,
+        "overview": "Hermano día se reune con Zephyr Halima, una futura líder que se opone al imperio. Hermano Ocaso sospecha de Hermano Alba.",
+        "released": "2021-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v7E6LyZoEgNwtCwS2l17Q0irFZf.jpg"
+      },
+      {
+        "id": "tt0804484:1:7",
+        "title": "Misterios y mártires",
+        "season": 1,
+        "episode": 7,
+        "overview": "Los Anacreontes y sus rehenes abordan la legendaria nave de guerra Invictus. El lazo entre Hermano Alba y Azura se intensifica.",
+        "released": "2021-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xFFvPC2E2pvItVpz6VHdSD8WxJ1.jpg"
+      },
+      {
+        "id": "tt0804484:1:8",
+        "title": "La pieza faltante",
+        "season": 1,
+        "episode": 8,
+        "overview": "Hermano Día hace un viaje que ningún otro Cleón ha intentado. Salvor se prepara para el máximo sacrificio a fin de volver a casa.",
+        "released": "2021-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lTr4e8NpKN60X3fd24FAxiY32WB.jpg"
+      },
+      {
+        "id": "tt0804484:1:9",
+        "title": "La primera crisis",
+        "season": 1,
+        "episode": 9,
+        "overview": "En Términus, la potencia del campo de fuerza es más alta. Hermano Alba toma una decisión osada.",
+        "released": "2021-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oB5uoHXfPIFeDkmfSrHL8SdxAAS.jpg"
+      },
+      {
+        "id": "tt0804484:1:10",
+        "title": "El salto",
+        "season": 1,
+        "episode": 10,
+        "overview": "Un aliado inesperado ayuda a Salvor a crear una alianza. Una lucha entre los hermanos trae consecuencias impensables.",
+        "released": "2021-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tJXAQitxYZ4QjghdgDJrKPsbJUx.jpg"
+      },
+      {
+        "id": "tt0804484:2:1",
+        "title": "En la sombra de Seldon",
+        "season": 2,
+        "episode": 1,
+        "overview": "Hari se encuentra atrapado en una prisión misteriosa. Un intento de asesinato deja a Día herido. Gaal y Salvor idean un plan de escape.",
+        "released": "2023-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tLNS2wdCSAFmPmunZo1P5WQg0Pi.jpg"
+      },
+      {
+        "id": "tt0804484:2:2",
+        "title": "Un vistazo a la oscuridad",
+        "season": 2,
+        "episode": 2,
+        "overview": "Gaal tiene una visión perturbadora. El vínculo de Día y la reina Sareth se fortalece. La Bóveda se abre y revela un mensaje críptico.",
+        "released": "2023-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hOF35xreGykyz32jsPCZQKiLXNB.jpg"
+      },
+      {
+        "id": "tt0804484:2:3",
+        "title": "El rey y el plebeyo",
+        "season": 2,
+        "episode": 3,
+        "overview": "El Imperio recluta a Bel Riose para investigar el renacimiento de la Fundación. Hari lleva a Gaal y a Salvor a un planeta desierto.",
+        "released": "2023-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vuUsc3ROf2fWWcQ1d5Zonm85KmE.jpg"
+      },
+      {
+        "id": "tt0804484:2:4",
+        "title": "Donde las estrellas son dispersas",
+        "season": 2,
+        "episode": 4,
+        "overview": "La reina Sareth y Alba comparten tiempo mientras ella intenta aprender más sobre Día. El Hermano Constant y Poly llevan a Hober Mallow a Términus.",
+        "released": "2023-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4yMVqiszhhX38NetKQCKEijcHnq.jpg"
+      },
+      {
+        "id": "tt0804484:2:5",
+        "title": "Un vistazo a la oscuridad",
+        "season": 2,
+        "episode": 5,
+        "overview": "Gaal, Salvor y Hari llegan a Ignis y conocen a la fuente de la extraña señal que han seguido. Ocaso y Alba sospechan de Día.",
+        "released": "2023-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/53dsfLChOJKy6Nq7ujzPvCf1wM1.jpg"
+      },
+      {
+        "id": "tt0804484:2:6",
+        "title": "Por qué los dioses crearon el vino",
+        "season": 2,
+        "episode": 6,
+        "overview": "Día y la reina Sareth hacen un anuncio. Tellem siembra desconfianza entre Gaal y Hari. Hober Mallow llega a su destino.",
+        "released": "2023-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qH7tvEWcfvt6UrkJAw50cCx0lr7.jpg"
+      },
+      {
+        "id": "tt0804484:2:7",
+        "title": "Una muerte necesaria",
+        "season": 2,
+        "episode": 7,
+        "overview": "Salvor comienza a dudar de los motivos de los Mentálicos. La propuesta de Hober Mallow no es bien recibida entre los espaciales. El Hermano Constant y Poly enfrentan un juicio.",
+        "released": "2023-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Q6kNbwsGUyircoQqe2lV6TnW4m.jpg"
+      },
+      {
+        "id": "tt0804484:2:8",
+        "title": "La última emperatriz",
+        "season": 2,
+        "episode": 8,
+        "overview": "La adjunta Rue le confiesa a Ocaso su desconfianza en Demerzel. Hober Mallow hace una jugada arriesgada. Día se dirige hacia Términus y a la Fundación.",
+        "released": "2023-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6GYAXHmylEJY2K3Oeqgux7CO89J.jpg"
+      },
+      {
+        "id": "tt0804484:2:9",
+        "title": "En el pasado, no lejos de aquí",
+        "season": 2,
+        "episode": 9,
+        "overview": "Ocaso y la adjunta Rue conocen el origen de Demerzel y su propósito. Los planes de Tellem para Gaal se tornan oscuros. En Términus, Día encara al doctor Seldon.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/TdUee5ZozmAkQYIW3vguNOLy5u.jpg"
+      },
+      {
+        "id": "tt0804484:2:10",
+        "title": "Mitos de la creación",
+        "season": 2,
+        "episode": 10,
+        "overview": "El  Gaal, Salvor y Hari crean un nuevo camino en Ignis. Demerzel regresa a Trántor y toma acciones que cambiarán al Imperio para siempre.",
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rDBBUToa28804yhpI5A1Qlu0E6P.jpg"
+      },
+      {
+        "id": "tt0804484:3:1",
+        "title": "Una canción por el fin de todo",
+        "season": 3,
+        "episode": 1,
+        "overview": "Un misterioso nuevo pirata con habilidades aterradoras conocido como El Mulo llama la atención de la Fundación y de Imperio.",
+        "released": "2025-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9YXWjKj6SDCaE3SaWbyfjjrPJIt.jpg"
+      },
+      {
+        "id": "tt0804484:3:2",
+        "title": "Sombras en los cálculos",
+        "season": 3,
+        "episode": 2,
+        "overview": "Gaal y Hari avanzan con su plan en Ignis. Imperio enfrenta una predicción inesperada. Pritcher recluta ayuda para investigar al Mulo.",
+        "released": "2025-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wJGsaCKAQYwSnD972hWsPKTn13W.jpg"
+      },
+      {
+        "id": "tt0804484:3:3",
+        "title": "Cuando un libro te encuentra",
+        "season": 3,
+        "episode": 3,
+        "overview": "Se forma una alianza inesperada. Pritcher, Bayta y Toran se enfrentan cara a cara con el Mulo. Demerzel busca guía espiritual.",
+        "released": "2025-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1NAH40bTLHuAPNdpRK9TRdhFEsG.jpg"
+      },
+      {
+        "id": "tt0804484:3:4",
+        "title": "La fuerza de su mirada",
+        "season": 3,
+        "episode": 4,
+        "overview": "Demerzel tiene dificultades con la paradoja de su programación. Se revela la verdadera lealtad de Pritcher. Día inicia su búsqueda por respuestas.",
+        "released": "2025-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fwTUbKEki6eO6z6zIPkvrUbQpjd.jpg"
+      },
+      {
+        "id": "tt0804484:3:5",
+        "title": "Donde los tiranos pasan la eternidad",
+        "season": 3,
+        "episode": 5,
+        "overview": "Día entra a territorio desconocido. Alba y Gaal ponen su plan en acción. La importancia de Magnífico se hace evidente. Demerzel intenta restaurar el poder.",
+        "released": "2025-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4243bk9E9odifNWS8HNJCWiGfiO.jpg"
+      },
+      {
+        "id": "tt0804484:3:6",
+        "title": "La forma del tiempo",
+        "season": 3,
+        "episode": 6,
+        "overview": "Una esperada reunión se vuelve violenta. Día busca a Song. En Nueva Términus, la bóveda se abre y el Mulo ataca.",
+        "released": "2025-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vnGCFHmCWi4jimCF78mZpOsK2tb.jpg"
+      },
+      {
+        "id": "tt0804484:3:7",
+        "title": "El fin de la Fundación",
+        "season": 3,
+        "episode": 7,
+        "overview": "Caos y destrucción llueven sobre Nueva Términus. En Trántor, Ocaso y Quent se unen para evaluar el estado de la galaxia.",
+        "released": "2025-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ka66SFrROXRhnyJeMjBE5jZHGp8.jpg"
+      },
+      {
+        "id": "tt0804484:3:8",
+        "title": "Involucrarse en el juego",
+        "season": 3,
+        "episode": 8,
+        "overview": "Gaal y la Segunda Fundación observan la caída de Nueva Términus. Día enfrenta su juicio en Mycogen. La ascensión de Ocaso se acerca.",
+        "released": "2025-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hBNYVvVkU1mMgJh5Do7ol8Ck4gi.jpg"
+      },
+      {
+        "id": "tt0804484:3:9",
+        "title": "Los caminos que nos eligen",
+        "season": 3,
+        "episode": 9,
+        "overview": "Gaal presencia el poder de las conversiones del Mulo. Ocaso recurre a medidas drásticas. Demerzel busca claridad sobre el futuro.",
+        "released": "2025-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6fmWveBPYdcAKxMT7tEGVZLvYJx.jpg"
+      },
+      {
+        "id": "tt0804484:3:10",
+        "title": "La oscuridad",
+        "season": 3,
+        "episode": 10,
+        "overview": "Gaal y la Segunda Fundación enfrentan al Mulo mientras el legado del Imperio sufre un golpe catastrófico.",
+        "released": "2025-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eFNDKhD0uNFH04yAXjVoNnyoWdR.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "id": "tt5011816",
+    "type": "series",
+    "name": "Sneaky Pete",
+    "poster": "https://image.tmdb.org/t/p/w500/nNpcea9lLHI4iv8QpOIvHveVnT9.jpg",
+    "posterShape": "poster",
+    "description": "Un joven estafador, tras salir de la cárcel, decide robar la identidad de su compañero de celda con el objetivo de escaparse de sus acreedores.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/f1Z5X3iCCKK5FGu5VvzPkXO7eOl.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt5011816:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un estafador que huye de un gángster peligroso encuentra refugio en el pasado asumiendo la identidad de su compañero de celda, Pete.",
+        "released": "2015-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h3kn9QmhNhe16H5EnSBZ93UNYp7.jpg"
+      },
+      {
+        "id": "tt5011816:1:2",
+        "title": "Caja Fuerte",
+        "season": 1,
+        "episode": 2,
+        "overview": "A medida que el negocio va mal, aumenta la tensión entre Otto y Audrey. A Marius se le ocurre un plan para ayudar a Julia a lidiar con un cliente peligroso.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ys99C5x5WTlXGNMu9rS9s3kO1kB.jpg"
+      },
+      {
+        "id": "tt5011816:1:3",
+        "title": "Señor Éxito",
+        "season": 1,
+        "episode": 3,
+        "overview": "El exigente oficial de libertad condicional de Marius insiste en que venga a Manhattan en una visita obligatoria.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hjFINeleSiSiqxkteVa6iVqtN5V.jpg"
+      },
+      {
+        "id": "tt5011816:1:4",
+        "title": "La Furia",
+        "season": 1,
+        "episode": 4,
+        "overview": "Atraído por la promesa de una gran suma escondida en la caja fuerte de la oficina de fianzas, Marius intenta tenderle una trampa a la familia de Pete. Sin embargo, le resulta más difícil de lo esperado manipular a Taylor.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oHHRDMxZjm464NbHFrIQpXHkPAC.jpg"
+      },
+      {
+        "id": "tt5011816:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "overview": "Audrey y Otto discuten las decisiones unilaterales de Audrey que podrían terminar costándoles su negocio.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dPrZ0LnHRfJ2VNFmcCE4gf2ipy5.jpg"
+      },
+      {
+        "id": "tt5011816:1:6",
+        "title": "El Coyote Siempre Tiene Hambre",
+        "season": 1,
+        "episode": 6,
+        "overview": "Cuando un cliente peligroso va a juicio, los Bernhardt luchan por recuperar el dinero que puso como garantía.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zFKDrzii3isciS4cOPy8xk2oudV.jpg"
+      },
+      {
+        "id": "tt5011816:1:7",
+        "title": "Teniente Bernhardt",
+        "season": 1,
+        "episode": 7,
+        "overview": "En la lucha por salvar la empresa, Audrey y Marius elaboran estrategias, pero Otto quiere hacer las cosas a su manera.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wwbtDeUfVEsCPhOPyCt6wKf8LfE.jpg"
+      },
+      {
+        "id": "tt5011816:1:8",
+        "title": "El Cambio",
+        "season": 1,
+        "episode": 8,
+        "overview": "Después de descubrir que Audrey ha arriesgado el futuro de la empresa en un fraude, Marius convence a Audrey, a la renuente Julia y al equipo de ex cómplices de realizar una estafa.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qSNt093RBC4r4SGcHxicSZzwV0Z.jpg"
+      },
+      {
+        "id": "tt5011816:1:9",
+        "title": "El Turno",
+        "season": 1,
+        "episode": 9,
+        "overview": "Cuando el plan de Otto termina con un hombre muerto en el piso de la tienda de fianzas, Otto, Marius y Lance quedan a merced del peligroso cliente de la firma, Dockery.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/19TEhyPKSsqxnlHHfLEzS2FfAgE.jpg"
+      },
+      {
+        "id": "tt5011816:1:10",
+        "title": "El Día Más Largo",
+        "season": 1,
+        "episode": 10,
+        "overview": "Con el plan en su lugar, Marius se sienta en la mesa de póquer de Vince para la carta final. Todo sale como se esperaba hasta que Vince sospecha que ya ha visto este movimiento.",
+        "released": "2017-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iEAEdmSw6STJSPYADNh96CWtdRg.jpg"
+      },
+      {
+        "id": "tt5011816:2:1",
+        "title": "El Misterio De La Siniestra Habitación De Hotel",
+        "season": 2,
+        "episode": 1,
+        "overview": "Marius ve una oportunidad cuando dos mercenarios lo atrapan en busca de Maggie, la madre de Pete, y los millones que ella le robó a su jefe.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6z3oaCwGs1p3AtzTnOk4NkZkdEL.jpg"
+      },
+      {
+        "id": "tt5011816:2:2",
+        "title": "De Adentro Hacia Afuera",
+        "season": 2,
+        "episode": 2,
+        "overview": "Marius y Marjorie atacan el sistema penitenciario en un intento por liberar a Pete.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xG3Qii4vIAPiqLfjum4ccDDwvT.jpg"
+      },
+      {
+        "id": "tt5011816:2:3",
+        "title": "El Fugitivo",
+        "season": 2,
+        "episode": 3,
+        "overview": "Marius intenta contener al recién liberado Pete y le pide información sobre Maggie. Frank y Joe refuerzan el control sobre la vigilancia de la familia.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uyWOf14oANbqQmbMmI9mZIBtT26.jpg"
+      },
+      {
+        "id": "tt5011816:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "overview": "Después de enviar a Pete a una misión falsa, Marius lleva a Frank y Joe al presunto escondite de Maggie en la ciudad psíquica de Rosedale.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1XFww4igDlB3fSJo2OKlEFWyXIB.jpg"
+      },
+      {
+        "id": "tt5011816:2:5",
+        "title": "La Torre",
+        "season": 2,
+        "episode": 5,
+        "overview": "Burlado por Maggie y bajo la amenaza de ser llevado al capo Luka, Marius intenta desesperadamente alejarse de Frank y Joe.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lRF6F1UfRHi5bAaQqi4H38Ai2e1.jpg"
+      },
+      {
+        "id": "tt5011816:2:6",
+        "title": "11 Millones De Razones Por Las Que Ya No Deberías Volver A Casa",
+        "season": 2,
+        "episode": 6,
+        "overview": "El regreso de Maggie a la granja de Bernhardt trae viejas tensiones familiares. Cuando Marius intenta que Maggie le diga dónde está el dinero, los dos son atrapados por agentes del FBI.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q05dO3mjj0uQYlFlhrDHkWPxHTo.jpg"
+      },
+      {
+        "id": "tt5011816:2:7",
+        "title": "El Taxidermista Reacio",
+        "season": 2,
+        "episode": 7,
+        "overview": "Se revela la ubicación del dinero y Marius hace un movimiento audaz para tratar de quedarse con todo, pero Maggie y Luka no están convencidos.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7X0Ds0wifG5kaf7y5Him4HRLOuI.jpg"
+      },
+      {
+        "id": "tt5011816:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "overview": "Celoso de la relación de Marius con la familia, Pete amenaza con hacer implosionar el golpe a menos que le concedan una petición especial.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1m5SRsx0QDv8zeFrYus6NcnCCBe.jpg"
+      },
+      {
+        "id": "tt5011816:2:9",
+        "title": "Soldados De Búfalo",
+        "season": 2,
+        "episode": 9,
+        "overview": "Después de que el plan \"Roosevelt's Buffalo\" de Marius fracasa, el destino del golpe está en manos de Pete.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n8BDdAzCyDKvdOpVlw996h51whc.jpg"
+      },
+      {
+        "id": "tt5011816:2:10",
+        "title": "El Cambio",
+        "season": 2,
+        "episode": 10,
+        "overview": "El plan de Marius implosiona cuando queda claro que se ha equivocado sobre la ubicación del dinero y se ve obligado a enfrentarse a la ira de Luka.",
+        "released": "2018-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jAT5yJbmc9g2AgaqMv3UqI8sUqO.jpg"
+      },
+      {
+        "id": "tt5011816:3:1",
+        "title": "Apuesta Doble O Nada",
+        "season": 3,
+        "episode": 1,
+        "overview": "Marius regresa a la granja con la esperanza de encontrar una conexión más profunda con los Bernhardt, pero su pasado pronto lo alcanza y lo tienta de nuevo a la vida de un estafador.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggrkzmYiNDLxTqQmK0htAn7JrWw.jpg"
+      },
+      {
+        "id": "tt5011816:3:2",
+        "title": "El Huckleberry Jones",
+        "season": 3,
+        "episode": 2,
+        "overview": "Marius vuelve a involucrarse con una peligrosa estafadora llamada Lizzie. Julia, despedida por Audrey, busca un nuevo trabajo. Audrey y Otto luchan por salvar su negocio.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4L4qkUbMqlVOxrZhMuisunuQHFv.jpg"
+      },
+      {
+        "id": "tt5011816:3:3",
+        "title": "La Caída De Stamford",
+        "season": 3,
+        "episode": 3,
+        "overview": "Marius necesita dividir el foco de su movimiento con Lizzie para ayudar a Julia con otro movimiento.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c6vr6K9fD5WGd2X1ChXc7cHc7el.jpg"
+      },
+      {
+        "id": "tt5011816:3:4",
+        "title": "La Víctima De Vermont Y El Intercambio De Bakersfield",
+        "season": 3,
+        "episode": 4,
+        "overview": "Marius y Julia viajan a Vermont para tratar de sacar del retiro a un falsificador de pinturas reacio.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9bWUKAqkIVH3l5ycRjpa3k7dDNa.jpg"
+      },
+      {
+        "id": "tt5011816:3:5",
+        "title": "El Hombre Invisible",
+        "season": 3,
+        "episode": 5,
+        "overview": "La estafa de Marius y Julia los lleva a California. Audrey y Carly siguen varias pistas para encontrar respuestas sobre el paradero de Lila.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbkFVRuPFK3bsIUoJyfsCpGXkYD.jpg"
+      },
+      {
+        "id": "tt5011816:3:6",
+        "title": "El Golpe De California",
+        "season": 3,
+        "episode": 6,
+        "overview": "Audrey le pide ayuda a Marius en la búsqueda de Lila. Pronto descubren que su vida era más complicada de lo que esperaban.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b3pHos9LlZ8wiocmswjI0HThMFs.jpg"
+      },
+      {
+        "id": "tt5011816:3:7",
+        "title": "La Hermana Pequeña",
+        "season": 3,
+        "episode": 7,
+        "overview": "Tras el encuentro cercano con Lila, la familia lucha por aceptar el hecho de que ella puede estar viva y en grave peligro.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aXlqZ2Q572pBR7HiRS1oHRf4jiG.jpg"
+      },
+      {
+        "id": "tt5011816:3:8",
+        "title": "El Intercambio Soleado",
+        "season": 3,
+        "episode": 8,
+        "overview": "Julia es secuestrada y Marius debe elegir sus lealtades mientras lucha por mantener los dos atracos.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rGFQSM5qohHGIyVq5AIW3jKFp2j.jpg"
+      },
+      {
+        "id": "tt5011816:3:9",
+        "title": "Suelta La Mascara",
+        "season": 3,
+        "episode": 9,
+        "overview": "Marius debe lidiar con la traición de Lizzie y mantener la confianza de los Bernhardt.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iVeBoENoFpj0oqLEkiw3DSbNPt0.jpg"
+      },
+      {
+        "id": "tt5011816:3:10",
+        "title": "La Ginga De Brooklyn",
+        "season": 3,
+        "episode": 10,
+        "overview": "Marius y los Bernhardt organizan un golpe para liberar a Julia. Marius y Lizzie chocan mientras la vida de Julia pende de un hilo.",
+        "released": "2019-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kl9DHmeA4U1uILkKOPiHIU0UmOk.jpg"
+      }
+    ]
+  }
+}

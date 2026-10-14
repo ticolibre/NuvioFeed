@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "id": "tt14584186",
+    "type": "series",
+    "name": "El yo que no ves",
+    "poster": "https://image.tmdb.org/t/p/w500/cCiIK3MnpEODXvIgEakjKMzrqxn.jpg",
+    "posterShape": "poster",
+    "description": "Oprah Winfrey y el príncipe Harry hablan de salud mental, compartiendo experiencias propias y testimonios de personas de todo el mundo, incluso de otras figuras públicas. La serie arroja luz y esperanza sobre una realidad a menudo estigmatizada.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/lIsKmUMr9yGSdMlWpfig7OUdRVl.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt14584186:1:1",
+        "title": "Dilo en voz alta",
+        "season": 1,
+        "episode": 1,
+        "overview": "Millones de personas alrededor del mundo lidian con enfermedades mentales en silencio. Para sanar, ese silencio debe romperse. Y ahora es el momento.",
+        "released": "2021-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b2snCIZs2LzEarwqvHixhem09XD.jpg"
+      },
+      {
+        "id": "tt14584186:1:2",
+        "title": "Pedir ayuda",
+        "season": 1,
+        "episode": 2,
+        "overview": "El dolor, el sufrimiento y la necesidad urgente de ayuda son universales, y la simple acción de compartirlo es un primer paso poderoso.",
+        "released": "2021-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bcNT01lZyGi94ED63On6qVOhKum.jpg"
+      },
+      {
+        "id": "tt14584186:1:3",
+        "title": "Descubrir qué funciona",
+        "season": 1,
+        "episode": 3,
+        "overview": "La salud mental se trata de personas, no de pacientes. No hay una fórmula única para recibir la clase de ayuda adecuada.",
+        "released": "2021-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rNHG1Kvx8elKCeI4U7hH8Eg8HdM.jpg"
+      },
+      {
+        "id": "tt14584186:1:4",
+        "title": "Nos necesitamos unos a otros",
+        "season": 1,
+        "episode": 4,
+        "overview": "Nadie sana solo. Al cuidarnos unos a otros, las comunidades son una ruta poderosa hacia una recuperación sostenible.",
+        "released": "2021-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/NiG5LpSkoHeMr9JXZS6zjDWo4M.jpg"
+      },
+      {
+        "id": "tt14584186:1:5",
+        "title": "Este soy yo",
+        "season": 1,
+        "episode": 5,
+        "overview": "El camino hacia la recuperación no es una línea recta. Los retos son inevitables, pero nuestra esperanza está en hacernos conscientes, aceptarlo y tomar acciones.",
+        "released": "2021-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nkzoXwnSMxD9keOQW2zYOcvt5SI.jpg"
+      },
+      {
+        "id": "tt14584186:1:6",
+        "title": "UN CAMINO A SEGUIR",
+        "season": 1,
+        "episode": 6,
+        "overview": "Oprah y el príncipe Harry se reúnen con los asesores y participantes para tener una conversación amplia sobre la salud mental y qué es lo que sigue.",
+        "released": "2021-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qHPLZZtwo8paHDBaJQU4dKmVALR.jpg"
+      }
+    ]
+  }
+}

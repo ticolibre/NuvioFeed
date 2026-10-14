@@ -1,0 +1,795 @@
+{
+  "meta": {
+    "id": "tt0085017",
+    "type": "series",
+    "name": "Los Fraguel",
+    "poster": "https://image.tmdb.org/t/p/w500/56f4ZeWil5BDQawwTrHG4S7rlmV.jpg",
+    "posterShape": "poster",
+    "description": "Esta serie trata de las actividades de unos jóvenes Doozers.",
+    "releaseInfo": "1983",
+    "genres": [
+      "Kids",
+      "Familia",
+      "Sci-Fi & Fantasy",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/mJOBGeYAmb7gVfhtc4guOhhzrjq.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0085017:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "1983-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rLAQJ493gJ9IVN2gNQ7uotpTNH0.jpg"
+      },
+      {
+        "id": "tt0085017:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "1983-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gavPDLa4EWTaffCMMINLAsSdrLI.jpg"
+      },
+      {
+        "id": "tt0085017:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "1983-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bCB2Q6v2EQyrySQk6gJnDySeSfL.jpg"
+      },
+      {
+        "id": "tt0085017:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "1983-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2SmX28lF5zxmmgacPX6bj93nA9M.jpg"
+      },
+      {
+        "id": "tt0085017:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "1983-02-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2Fk3Jv3zdil342l5QsqMDLy3dfB.jpg"
+      },
+      {
+        "id": "tt0085017:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "1983-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yi5HbYJzjMwwtA1AVOQcPdToyxB.jpg"
+      },
+      {
+        "id": "tt0085017:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "1983-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/inycUI8hhiFE99aBl4SRTAwwhsp.jpg"
+      },
+      {
+        "id": "tt0085017:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "1983-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v71qGIB0QleENrHHFgZ3YZKLGNM.jpg"
+      },
+      {
+        "id": "tt0085017:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "1983-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v7vayNpKC2zkMOJZqnhtYY30PSr.jpg"
+      },
+      {
+        "id": "tt0085017:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "1983-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jNvgYr0Iw4jkEnPJcDwOmMeXO3z.jpg"
+      },
+      {
+        "id": "tt0085017:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "1983-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aeZAv0wdEIQfJ4MF7tG3ilBOBam.jpg"
+      },
+      {
+        "id": "tt0085017:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "1983-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jGZA5djBRcP2WJhwQJAj1GVYKaz.jpg"
+      },
+      {
+        "id": "tt0085017:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "1983-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pRLSRdnbrSirLSpOHrbjfKDqMVw.jpg"
+      },
+      {
+        "id": "tt0085017:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "1983-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2d73UAyjww9fNQDO2md6i4IGRWI.jpg"
+      },
+      {
+        "id": "tt0085017:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "1983-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5htYy9M8tk0ljxPFlOclqrhM01J.jpg"
+      },
+      {
+        "id": "tt0085017:1:16",
+        "title": "Episodio 16",
+        "season": 1,
+        "episode": 16,
+        "released": "1983-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r2ALraP0LUhgZBPj5NGZsb91aTJ.jpg"
+      },
+      {
+        "id": "tt0085017:1:17",
+        "title": "Episodio 17",
+        "season": 1,
+        "episode": 17,
+        "released": "1983-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lLrVz5DXMqAhVshVOdd1aQzLl2l.jpg"
+      },
+      {
+        "id": "tt0085017:1:18",
+        "title": "Episodio 18",
+        "season": 1,
+        "episode": 18,
+        "released": "1983-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fzgnS42cSY9K4V6tc2a8JYHrQqT.jpg"
+      },
+      {
+        "id": "tt0085017:1:19",
+        "title": "Episodio 19",
+        "season": 1,
+        "episode": 19,
+        "released": "1983-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m12jcXtzrG6MljKfo3enRs0V2Wm.jpg"
+      },
+      {
+        "id": "tt0085017:1:20",
+        "title": "Episodio 20",
+        "season": 1,
+        "episode": 20,
+        "released": "1983-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y7HSAkxAekNnZ7slrSWI1GOSrSB.jpg"
+      },
+      {
+        "id": "tt0085017:1:21",
+        "title": "Episodio 21",
+        "season": 1,
+        "episode": 21,
+        "released": "1983-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/G8KPwMKetGkhx2wFkviDSxfxC3.jpg"
+      },
+      {
+        "id": "tt0085017:1:22",
+        "title": "Episodio 22",
+        "season": 1,
+        "episode": 22,
+        "released": "1983-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/exelsN2IX3xugcM9GPckTT0tgW0.jpg"
+      },
+      {
+        "id": "tt0085017:1:23",
+        "title": "Episodio 23",
+        "season": 1,
+        "episode": 23,
+        "released": "1983-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jPnVASgUm9y1S9XsZbsJU8WwGAF.jpg"
+      },
+      {
+        "id": "tt0085017:1:24",
+        "title": "Episodio 24",
+        "season": 1,
+        "episode": 24,
+        "released": "1983-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zW6GhUkV8Acld9pPB46R8K3zZIM.jpg"
+      },
+      {
+        "id": "tt0085017:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "1984-01-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uY0DfUQA6A7ddoAtDgnMPuk94WQ.jpg"
+      },
+      {
+        "id": "tt0085017:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "1984-01-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2yIum7WdrSN15BUngy0UT1GVRNH.jpg"
+      },
+      {
+        "id": "tt0085017:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "1984-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rmG6GrGhbF8UeUpDPjVZRFJORE9.jpg"
+      },
+      {
+        "id": "tt0085017:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "1984-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7o2wxPOutDVK31pBSxhMjaFkkkR.jpg"
+      },
+      {
+        "id": "tt0085017:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "1984-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6tOpd4GeJCn0oj84ct2eGfWsMYa.jpg"
+      },
+      {
+        "id": "tt0085017:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "1984-02-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6IgtH68krezg5bVHnBDp9hNzCRL.jpg"
+      },
+      {
+        "id": "tt0085017:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "1984-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/diUuNW830uvWzjLQDssVuUuNNBq.jpg"
+      },
+      {
+        "id": "tt0085017:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "1984-02-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2W3ROsrPzLVyjALHWsbJtiABLor.jpg"
+      },
+      {
+        "id": "tt0085017:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "1984-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qcqPJcAN7gULQXdEdYikXNVXjzU.jpg"
+      },
+      {
+        "id": "tt0085017:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "1984-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4HGgS2Eur45KQz8OyJrdu0H09a6.jpg"
+      },
+      {
+        "id": "tt0085017:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "1984-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9MZWekpZ57hFN9lsGYzh3RwAP8M.jpg"
+      },
+      {
+        "id": "tt0085017:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "1984-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/98Ydf8TxODNyOKqMn8MRKUXLtPZ.jpg"
+      },
+      {
+        "id": "tt0085017:2:13",
+        "title": "Episodio 13",
+        "season": 2,
+        "episode": 13,
+        "released": "1984-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ceSr9Oxl04mOtSw18wkFnJJgdQ.jpg"
+      },
+      {
+        "id": "tt0085017:2:14",
+        "title": "Episodio 14",
+        "season": 2,
+        "episode": 14,
+        "released": "1984-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w6i1p7TosV8EEYvSSxiCJS4Z17j.jpg"
+      },
+      {
+        "id": "tt0085017:2:15",
+        "title": "Episodio 15",
+        "season": 2,
+        "episode": 15,
+        "released": "1984-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ne5Jt2Y75QLbGrqRKV3Ng4zdJMC.jpg"
+      },
+      {
+        "id": "tt0085017:2:16",
+        "title": "Episodio 16",
+        "season": 2,
+        "episode": 16,
+        "released": "1984-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f5sk6wEJTpwPZRZHlsYG6uthW2Q.jpg"
+      },
+      {
+        "id": "tt0085017:2:17",
+        "title": "Episodio 17",
+        "season": 2,
+        "episode": 17,
+        "released": "1984-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wOLJq21ksQw99897sMbc9gtzWeC.jpg"
+      },
+      {
+        "id": "tt0085017:2:18",
+        "title": "Episodio 18",
+        "season": 2,
+        "episode": 18,
+        "released": "1984-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2ICWeTEDMX4plLiS2ze9p65Cyg7.jpg"
+      },
+      {
+        "id": "tt0085017:2:19",
+        "title": "Episodio 19",
+        "season": 2,
+        "episode": 19,
+        "released": "1984-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fWEZfKIZXlgHTDXx6Mzw7OHDip4.jpg"
+      },
+      {
+        "id": "tt0085017:2:20",
+        "title": "Episodio 20",
+        "season": 2,
+        "episode": 20,
+        "released": "1984-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Rdm3Xr8gKBhMceM3VsxzPAX9dh.jpg"
+      },
+      {
+        "id": "tt0085017:2:21",
+        "title": "Episodio 21",
+        "season": 2,
+        "episode": 21,
+        "released": "1984-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wI9Kvdqt2H1bhXqzMPVSZKaHwoI.jpg"
+      },
+      {
+        "id": "tt0085017:2:22",
+        "title": "Episodio 22",
+        "season": 2,
+        "episode": 22,
+        "released": "1984-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e34Zi4ZuCD4dvwc5iowLONrLWht.jpg"
+      },
+      {
+        "id": "tt0085017:2:23",
+        "title": "Episodio 23",
+        "season": 2,
+        "episode": 23,
+        "released": "1984-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fC5eTCXHcQLFRuCoYAZ3Mz34nMi.jpg"
+      },
+      {
+        "id": "tt0085017:2:24",
+        "title": "Episodio 24",
+        "season": 2,
+        "episode": 24,
+        "released": "1984-06-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kpKLKUznBDh3NiFOunQu6sanWxL.jpg"
+      },
+      {
+        "id": "tt0085017:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "1984-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aiCfh4a4gEf4Y5uR8ENCoJZOGLl.jpg"
+      },
+      {
+        "id": "tt0085017:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "1985-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cDfFezzPJ4HLw2LZ59tBHFcc5N3.jpg"
+      },
+      {
+        "id": "tt0085017:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "1985-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wOzVOWhfv90r9XphcVp4Fyocx9m.jpg"
+      },
+      {
+        "id": "tt0085017:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "1985-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h2jl5Lwei8vKIb1AKgvxff1M1eX.jpg"
+      },
+      {
+        "id": "tt0085017:3:5",
+        "title": "Episodio 5",
+        "season": 3,
+        "episode": 5,
+        "released": "1985-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jpBa3ELExP6k3qYHW47CEeKUGJK.jpg"
+      },
+      {
+        "id": "tt0085017:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "1985-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Agi2rU0DS5Typjk9bsvFR2OwfJp.jpg"
+      },
+      {
+        "id": "tt0085017:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "1985-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/phdQaopEdm9dcd4QoYbmFOZmlfd.jpg"
+      },
+      {
+        "id": "tt0085017:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "1985-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2ZJJB220b8OEoc2xeGLUvrOuhmh.jpg"
+      },
+      {
+        "id": "tt0085017:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "1985-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yVjTJB9fHcxwYry2AfoPX0Gsn0z.jpg"
+      },
+      {
+        "id": "tt0085017:3:10",
+        "title": "Episodio 10",
+        "season": 3,
+        "episode": 10,
+        "released": "1985-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rCi3QUyk2F3IQ4F9PtFOxhwwQug.jpg"
+      },
+      {
+        "id": "tt0085017:3:11",
+        "title": "Episodio 11",
+        "season": 3,
+        "episode": 11,
+        "released": "1985-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rMbrYFtmWBgCfYQVk7x6Wpq78sG.jpg"
+      },
+      {
+        "id": "tt0085017:3:12",
+        "title": "Episodio 12",
+        "season": 3,
+        "episode": 12,
+        "released": "1985-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g6ZQuB6oF0FgmKklWVJ94AT36Rx.jpg"
+      },
+      {
+        "id": "tt0085017:3:13",
+        "title": "Episodio 13",
+        "season": 3,
+        "episode": 13,
+        "released": "1985-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ej6wG9Wu3wqHzKa2gJ3GnGTMa7z.jpg"
+      },
+      {
+        "id": "tt0085017:3:14",
+        "title": "Episodio 14",
+        "season": 3,
+        "episode": 14,
+        "released": "1985-04-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wuqDEDiEzibJP2PsNqoXQxpa9Gx.jpg"
+      },
+      {
+        "id": "tt0085017:3:15",
+        "title": "Episodio 15",
+        "season": 3,
+        "episode": 15,
+        "released": "1985-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lHpqAvGppi5xO2t8iLwxIvWEgGL.jpg"
+      },
+      {
+        "id": "tt0085017:3:16",
+        "title": "Episodio 16",
+        "season": 3,
+        "episode": 16,
+        "released": "1985-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2Bd3PI5E5G1gUZwrFyyUZVrFZqS.jpg"
+      },
+      {
+        "id": "tt0085017:3:17",
+        "title": "Episodio 17",
+        "season": 3,
+        "episode": 17,
+        "released": "1985-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pbNzHeZq67Jy7rYdfeCqYZXu1JC.jpg"
+      },
+      {
+        "id": "tt0085017:3:18",
+        "title": "Episodio 18",
+        "season": 3,
+        "episode": 18,
+        "released": "1985-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A7ETY01C5QGAPGNfVxYjVJVsfwL.jpg"
+      },
+      {
+        "id": "tt0085017:3:19",
+        "title": "Episodio 19",
+        "season": 3,
+        "episode": 19,
+        "released": "1985-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qbxwkrLnP4E52QFON6O5YQvWvmg.jpg"
+      },
+      {
+        "id": "tt0085017:3:20",
+        "title": "Episodio 20",
+        "season": 3,
+        "episode": 20,
+        "released": "1985-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aogu7DBbQUq0hZqAybhKaeD0sEc.jpg"
+      },
+      {
+        "id": "tt0085017:3:21",
+        "title": "Episodio 21",
+        "season": 3,
+        "episode": 21,
+        "released": "1985-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8ul1ahUE9QysS4DLkcAZL0PCm1K.jpg"
+      },
+      {
+        "id": "tt0085017:3:22",
+        "title": "Episodio 22",
+        "season": 3,
+        "episode": 22,
+        "released": "1985-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iVolaI72r3KpJ8Of02O6giQm14e.jpg"
+      },
+      {
+        "id": "tt0085017:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "1986-01-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s3ES13UcJgGIIiZRPB2UYPGPA3Z.jpg"
+      },
+      {
+        "id": "tt0085017:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "1986-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kyPpH4PoWshwHWr8kj2EtipwFNo.jpg"
+      },
+      {
+        "id": "tt0085017:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "1986-01-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5padYDlKgu9GlMxcQwBREL2o4yt.jpg"
+      },
+      {
+        "id": "tt0085017:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "1986-01-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/378HIKCi5S1a8u1AzXIq3PEPJDc.jpg"
+      },
+      {
+        "id": "tt0085017:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "1986-02-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AnP0KC8ir1N1WRlGSp7hxOsOJPC.jpg"
+      },
+      {
+        "id": "tt0085017:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "1986-02-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/msGSWajpHQSw6u5x88Y5LqJwMJv.jpg"
+      },
+      {
+        "id": "tt0085017:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "1986-02-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/16Z7jznspYSuxiqBEpPXvppMlNn.jpg"
+      },
+      {
+        "id": "tt0085017:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "1986-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r3mFA3sk0QItDSPwtkfFP37NjzJ.jpg"
+      },
+      {
+        "id": "tt0085017:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "1986-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/etzAovsv76dfQfxpCrWZQNoNhjC.jpg"
+      },
+      {
+        "id": "tt0085017:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "1986-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yLTojriUB2IWTpmFI0VrhvGJCtT.jpg"
+      },
+      {
+        "id": "tt0085017:4:11",
+        "title": "Episodio 11",
+        "season": 4,
+        "episode": 11,
+        "released": "1986-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbJr7DxZ2BpbyYg7QR0MDhIxtwc.jpg"
+      },
+      {
+        "id": "tt0085017:4:12",
+        "title": "Episodio 12",
+        "season": 4,
+        "episode": 12,
+        "released": "1986-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/maaMGWzLlKyUCKUif5VxZJpwNRj.jpg"
+      },
+      {
+        "id": "tt0085017:4:13",
+        "title": "Episodio 13",
+        "season": 4,
+        "episode": 13,
+        "released": "1986-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6HaCY4wcWvHWphXjLAxQb5X5Ir8.jpg"
+      },
+      {
+        "id": "tt0085017:5:1",
+        "title": "Episodio 1",
+        "season": 5,
+        "episode": 1,
+        "released": "1987-01-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5lWpdSWkidfc8BzjCM3amJljDs3.jpg"
+      },
+      {
+        "id": "tt0085017:5:2",
+        "title": "Episodio 2",
+        "season": 5,
+        "episode": 2,
+        "released": "1987-01-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9FxVexgFhOIfIk0CVcYnq47Htbf.jpg"
+      },
+      {
+        "id": "tt0085017:5:3",
+        "title": "Episodio 3",
+        "season": 5,
+        "episode": 3,
+        "released": "1987-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mxvorI5lVpy0er97EvT4q5PLYTS.jpg"
+      },
+      {
+        "id": "tt0085017:5:4",
+        "title": "Episodio 4",
+        "season": 5,
+        "episode": 4,
+        "released": "1987-01-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eRzJ3hkkDyZYsCFr8TRevc9KNwI.jpg"
+      },
+      {
+        "id": "tt0085017:5:5",
+        "title": "Episodio 5",
+        "season": 5,
+        "episode": 5,
+        "released": "1987-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kJwHQBdTjgtjsgExuVy4yRB0sXw.jpg"
+      },
+      {
+        "id": "tt0085017:5:6",
+        "title": "Episodio 6",
+        "season": 5,
+        "episode": 6,
+        "released": "1987-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6dEIsfideg9Qzj3usrUjZ7NFSld.jpg"
+      },
+      {
+        "id": "tt0085017:5:7",
+        "title": "Episodio 7",
+        "season": 5,
+        "episode": 7,
+        "released": "1987-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ygWlIN5lC5iFRJMLmBgmKY2ftn4.jpg"
+      },
+      {
+        "id": "tt0085017:5:8",
+        "title": "Episodio 8",
+        "season": 5,
+        "episode": 8,
+        "released": "1987-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lVbMrvRpEtxmMapmNVdhVr4R3PM.jpg"
+      },
+      {
+        "id": "tt0085017:5:9",
+        "title": "Episodio 9",
+        "season": 5,
+        "episode": 9,
+        "released": "1987-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xtROimI3f9dbw1B3lH5OL9tYsSU.jpg"
+      },
+      {
+        "id": "tt0085017:5:10",
+        "title": "Episodio 10",
+        "season": 5,
+        "episode": 10,
+        "released": "1987-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oeR4fYlM5obepzkwqC8t7IJfsiw.jpg"
+      },
+      {
+        "id": "tt0085017:5:11",
+        "title": "Episodio 11",
+        "season": 5,
+        "episode": 11,
+        "released": "1987-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rGARdjdv0WIfqwjUgVHSg47pQfz.jpg"
+      },
+      {
+        "id": "tt0085017:5:12",
+        "title": "Episodio 12",
+        "season": 5,
+        "episode": 12,
+        "released": "1987-03-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9sckd0sta2T5otvfZ8m5NZsXG6J.jpg"
+      },
+      {
+        "id": "tt0085017:5:13",
+        "title": "Episodio 13",
+        "season": 5,
+        "episode": 13,
+        "released": "1987-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qEu3WfmdrcXbgqtwyeG8dil2c0Y.jpg"
+      }
+    ]
+  }
+}

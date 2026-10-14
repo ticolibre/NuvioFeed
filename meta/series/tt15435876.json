@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "id": "tt15435876",
+    "type": "series",
+    "name": "El Pingüino",
+    "poster": "https://image.tmdb.org/t/p/w500/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
+    "posterShape": "poster",
+    "description": "Miniserie dramática que cuenta el ascenso al poder del Pingüino en el inframundo criminal de Gotham, después de los asesinatos de Riddler.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt15435876:1:1",
+        "title": "Tiempo Extra",
+        "season": 1,
+        "episode": 1,
+        "overview": "Tras la muerte de Carmine Falcone, Oz intenta legitimarse en el inframundo criminal de Ciudad Gótica.",
+        "released": "2024-09-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ecX4IMGRlKwyq5eZd5sjPxtUTaT.jpg"
+      },
+      {
+        "id": "tt15435876:1:2",
+        "title": "Hombre interior",
+        "season": 1,
+        "episode": 2,
+        "overview": "Sofia trabaja para asegurar la fortaleza de su familia, mientras Oz intenta aprovecharse de las familias Falcone y Maroni.",
+        "released": "2024-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/esZEDbBtRJdTex16IR9BIvop852.jpg"
+      },
+      {
+        "id": "tt15435876:1:3",
+        "title": "Bliss",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras Oz y Sofía intentan controlar el futuro del tráfico de drogas de Gotham, Víctor se debate entre su nueva vida y la anterior.",
+        "released": "2024-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d6zLI6V7Iq7B8mA2o9Hh8dUg1Mc.jpg"
+      },
+      {
+        "id": "tt15435876:1:4",
+        "title": "Cent'anni",
+        "season": 1,
+        "episode": 4,
+        "overview": "Al enfrentar los eventos que la convirtieron en \"El Verdugo\" y la llevaron a una lucha de una década para sobrevivir en el Hospital Estatal de Arkham, Sofía hace planes para un futuro más esperanzador.",
+        "released": "2024-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6InFSm29R8xFPZQfSjEuwwg2j4q.jpg"
+      },
+      {
+        "id": "tt15435876:1:5",
+        "title": "Bienvenida",
+        "season": 1,
+        "episode": 5,
+        "overview": "Sofia se esfuerza por construir un nuevo legado mientras Oz intenta desesperadamente dar vuelta a la situación.",
+        "released": "2024-10-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/asI0yTDa0LoM3Vnl7yJF4ccn8Re.jpg"
+      },
+      {
+        "id": "tt15435876:1:6",
+        "title": "Cumbre de Oro",
+        "season": 1,
+        "episode": 6,
+        "overview": "Oz busca expandir su alcance en la ciudad, mientras Victor se cruza con un antiguo adversario.",
+        "released": "2024-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wx3MYJjZTadMslXBfVml4x53BiL.jpg"
+      },
+      {
+        "id": "tt15435876:1:7",
+        "title": "⁨El Jefe",
+        "season": 1,
+        "episode": 7,
+        "overview": "Oz lucha por preservar todo lo que ha construido mientras Sofia hace un descubrimiento impactante.",
+        "released": "2024-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cdADIQxbtAB47oSOn6mjLtVvjd0.jpg"
+      },
+      {
+        "id": "tt15435876:1:8",
+        "title": "Algo Grave o Poca Cosa",
+        "season": 1,
+        "episode": 8,
+        "overview": "Las verdades salen a la luz a medida que la lucha de poder entre Oz y Sofia llega a un punto crítico.",
+        "released": "2024-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AmWwlp7XiIJZBbakRVIUNtABVVV.jpg"
+      }
+    ]
+  }
+}

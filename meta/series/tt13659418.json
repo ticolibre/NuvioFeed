@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt13659418",
+    "type": "series",
+    "name": "Pam & Tommy",
+    "poster": "https://image.tmdb.org/t/p/w500/ovhQDQ4mcvZ0f7MNIpBuKPqPSrq.jpg",
+    "posterShape": "poster",
+    "description": "Ambientada en el salvaje oeste de los primeros días de Internet, Pam & Tommy se basa en la increíble historia real del video sexual de Pamela Anderson (Lily James) y Tommy Lee (Sebastian Stan). Robado de la casa de la pareja por un contratista descontento (Seth Rogen), el video pasó de ser una curiosidad clandestina en formato VHS a convertirse en una sensación mundial cuando llegó a la red en 1997. Una historia de amor, de crimen y de advertencia, todo en uno.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/z6GVQ8DfyQ6u7YfU16O5XiHCDr5.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt13659418:1:1",
+        "title": "Taladrando y martillando",
+        "season": 1,
+        "episode": 1,
+        "overview": "El empleado de mantenimiento Rand Gauthier busca vengarse del cliente famoso que lo estafa.",
+        "released": "2022-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pIkEp3XLHzmhmwvszpMa9QpEWvG.jpg"
+      },
+      {
+        "id": "tt13659418:1:2",
+        "title": "Te amo, Tommy",
+        "season": 1,
+        "episode": 2,
+        "overview": "Pamela Anderson y Tommy Lee se conocen, se drogan y se casan... todo en cuatro días.",
+        "released": "2022-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nS7sANEGwl93i5gR2tuEL3rDaAR.jpg"
+      },
+      {
+        "id": "tt13659418:1:3",
+        "title": "Jane Fonda",
+        "season": 1,
+        "episode": 3,
+        "overview": "Rand se une a un viejo socio del mundo del porno para comprar la cinta por la ciudad.",
+        "released": "2022-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/agWueR90RwcpBSa7lx0y9fNqfw6.jpg"
+      },
+      {
+        "id": "tt13659418:1:4",
+        "title": "El maestro beta",
+        "season": 1,
+        "episode": 4,
+        "overview": "Pam y Tommy recurren a medidas cada vez más desesperadas para recuperar su propiedad.",
+        "released": "2022-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7hNKlebhUa6cKhdBmDBq1QXNPqN.jpg"
+      },
+      {
+        "id": "tt13659418:1:5",
+        "title": "El tío Jim y la tía Susie en Duluth",
+        "season": 1,
+        "episode": 5,
+        "overview": "La cinta cae en manos del editor de Penthouse, Bob Guccione",
+        "released": "2022-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jMImatWhEo2Twb9VgPpGG9qRT8c.jpg"
+      },
+      {
+        "id": "tt13659418:1:6",
+        "title": "Pamela en el País  de las Maravillas",
+        "season": 1,
+        "episode": 6,
+        "overview": "Durante una declaracion agotadora, Pam se ve empujada al limite emocional.",
+        "released": "2022-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u1iRjwxAI6kaZ00pP696A2MNBiy.jpg"
+      },
+      {
+        "id": "tt13659418:1:7",
+        "title": "Destructor de mundos",
+        "season": 1,
+        "episode": 7,
+        "overview": "Tommy se enfrenta a Rand en el estacionamiento del Dodger Stadium",
+        "released": "2022-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nV4D0WXTOvvGe0Bty2nRDb66BjD.jpg"
+      },
+      {
+        "id": "tt13659418:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wIYH7oNdWx7BoH5CJ41xFeqgjSQ.jpg"
+      }
+    ]
+  }
+}

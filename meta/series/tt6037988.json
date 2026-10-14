@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "tt6037988",
+    "type": "series",
+    "name": "Vista por última vez",
+    "poster": "https://image.tmdb.org/t/p/w500/xMdJnFYupFBw66VPVVMJCjYfnR4.jpg",
+    "posterShape": "poster",
+    "description": "El agente telefónico del servicio de emergencias Ian Ridley recibe una llamada de una adolescente, él cree que es su hija la cual desapareció hace mucho tiempo y nada le impedirá encontrarla.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt6037988:1:1",
+        "title": "El agente telefónico",
+        "season": 1,
+        "episode": 1,
+        "overview": "Una tormenta en la tranquila ciudad de Port McKenna revela una pista que fue enterrada hace mucho sobre una niña desaparecida.",
+        "released": "2026-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wTzdfRRHM4LxtIclEuHxB5mWHwX.jpg"
+      },
+      {
+        "id": "tt6037988:1:2",
+        "title": "La llamada",
+        "season": 1,
+        "episode": 2,
+        "overview": "Ian arma un plan, convencido de que puede atrapar al secuestrador de Maggie.",
+        "released": "2026-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gDxEQzKOsUkyY5gC93L9gdLqeAY.jpg"
+      },
+      {
+        "id": "tt6037988:1:3",
+        "title": "La mentira",
+        "season": 1,
+        "episode": 3,
+        "overview": "Al revisar la llamada a detalle el mundo de Ian queda bocabajo.",
+        "released": "2026-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ye0eIHyQSwyPN9cbGFklaQN7xCn.jpg"
+      },
+      {
+        "id": "tt6037988:1:4",
+        "title": "La verdad",
+        "season": 1,
+        "episode": 4,
+        "overview": "La presión aumenta y las relaciones se ponen a prueba mientras Ian guía a la policía a la puerta de Henry y Jenna.",
+        "released": "2026-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6UrnqOzmIXu3V2WFPwXSRctjCey.jpg"
+      },
+      {
+        "id": "tt6037988:1:5",
+        "title": "El profeta",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iQAy64gLchuqZTCXVk3U6MbpbGC.jpg"
+      },
+      {
+        "id": "tt6037988:1:6",
+        "title": "La decisión",
+        "season": 1,
+        "episode": 6,
+        "overview": "Un enfrentamiento explosivo entre Ian y Henry pone a Sarah en un dilema.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8sExCofTR3HHxhpGCeWNnsswoHI.jpg"
+      }
+    ]
+  }
+}

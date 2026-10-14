@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "tt19516036",
+    "type": "series",
+    "name": "Las aventuras inventadas de Dick Turpin",
+    "poster": "https://image.tmdb.org/t/p/w500/gADysp8f2lNj5fxC0eqsKTSKMby.jpg",
+    "posterShape": "poster",
+    "description": "El legendario bandolero, Dick Turpin, se embarca en una serie de aventuras absurdas cuando se convierte en el líder de una banda de forajidos y debe ser más listo que el corrupto funcionario Jonathan Wilde.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Comedia",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/23rUL85G2GwSwesjsfuYR8O7Gq5.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt19516036:1:1",
+        "title": "Nace una (especie de) leyenda",
+        "season": 1,
+        "episode": 1,
+        "overview": "El destino llama cuando Dick Turpin, asistente de un carnicero, se hace amigo de una banda de forajidos y se vuelve el despampanante centro de atención.",
+        "released": "2024-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5VbGYXmg5U91erKVtDoCEtCiq5Z.jpg"
+      },
+      {
+        "id": "tt19516036:1:2",
+        "title": "El carruaje inrobable",
+        "season": 1,
+        "episode": 2,
+        "overview": "Dick jura robar un carruaje maldito por una apuesta para probar su valía... y enfrenta las consecuencias. Nell explora una nueva oportunidad.",
+        "released": "2024-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gdwoSzBrT3LBxlnXzLEFPDjeMRL.jpg"
+      },
+      {
+        "id": "tt19516036:1:3",
+        "title": "Wilde desenfrenado",
+        "season": 1,
+        "episode": 3,
+        "overview": "El viaje a Londres de la pandilla se vuelve un caos cuando fracasa un negocio de oro. Wilde está bajo la presión de acabar con Dick de una vez por todas.",
+        "released": "2024-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nhPYswktcu4AElJvElnhPqslLOI.jpg"
+      },
+      {
+        "id": "tt19516036:1:4",
+        "title": "La maldición de la Bruja Grana",
+        "season": 1,
+        "episode": 4,
+        "overview": "Un asalto de rutina se convierte en el infierno cuando Dick y la pandilla liberan a una poderosa bruja por accidente. Craig intenta aprobar su examen de brujo.",
+        "released": "2024-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z57lwGUedEyWzN9Po0VxcA8Tj5W.jpg"
+      },
+      {
+        "id": "tt19516036:1:5",
+        "title": "Tommy Platillas",
+        "season": 1,
+        "episode": 5,
+        "overview": "Comienza una rivalidad cuando un fenomenal bandolero nuevo aparece y desafía a Dick a un duelo. Helen hace una oferta prometedora.",
+        "released": "2024-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gEbgvMrxz3ns8lVnYUOb0vyD7wR.jpg"
+      },
+      {
+        "id": "tt19516036:1:6",
+        "title": "Hora de Turpin",
+        "season": 1,
+        "episode": 6,
+        "overview": "La nueva normalidad de Hempstead termina siendo una terrible realidad. ¿Podrá Dick levantarse y salvar el día?",
+        "released": "2024-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/djJdpEplCSVvASIYwE7SWWFYwkU.jpg"
+      },
+      {
+        "id": "tt19516036:1:7",
+        "title": "La noche del hombre oso",
+        "season": 1,
+        "episode": 7,
+        "overview": "Un monstruo aterroriza a Hempstead, Dick y la pandilla se disponen a capturar a la bestia y regresarle paz al pueblo.",
+        "released": "2025-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/erbWavLeAtC1e6xM77XNSgir1At.jpg"
+      }
+    ]
+  }
+}

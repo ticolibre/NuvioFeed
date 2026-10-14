@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "id": "tt8910922",
+    "type": "series",
+    "name": "Solar Opposites",
+    "poster": "https://image.tmdb.org/t/p/w500/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
+    "posterShape": "poster",
+    "description": "Una familia alienígena se estrella en la Tierra y debe refugiarse en la clase media estadounidense.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Comedia",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/1cVt0Tm7erwYT5lyae9vUkPr4XY.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt8910922:1:1",
+        "title": "Las transferencias de la materia",
+        "season": 1,
+        "episode": 1,
+        "overview": "Los alienígenas Korvo, Terry, Yumyulack y Jesse se estrellan contra la Tierra y ven a los humanos.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vYBqCtCAEvvYe2K64OPkTcrES8t.jpg"
+      },
+      {
+        "id": "tt8910922:1:2",
+        "title": "El agujero negro",
+        "season": 1,
+        "episode": 2,
+        "overview": "Korvo y Terry se presentan como candidatos a la presidencia de la asociación de propietarios.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z9qQvFuhrQ7sPhP8IbdamsImcTk.jpg"
+      },
+      {
+        "id": "tt8910922:1:3",
+        "title": "El anillo cuántico",
+        "season": 1,
+        "episode": 3,
+        "overview": "Korvo asiste a una fiesta de cumpleaños que lo inspira a convertirse en mago.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zU8faARUIVunDys412vxt9WOReB.jpg"
+      },
+      {
+        "id": "tt8910922:1:4",
+        "title": "El generador de adeptos",
+        "season": 1,
+        "episode": 4,
+        "overview": "Korvo vomita un \"Goobler rojo\", una criatura que desea matarlo.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eBrAASWUKRPZuXZZ6EBY4AdxCNU.jpg"
+      },
+      {
+        "id": "tt8910922:1:5",
+        "title": "El reactor de lava",
+        "season": 1,
+        "episode": 5,
+        "overview": "El año escolar terminó. Yumyulack y Jesse asisten al bachillerato vacío.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pfWm5mt3Yy9z4w7d14ldDH38vnC.jpg"
+      },
+      {
+        "id": "tt8910922:1:6",
+        "title": "P.A.T.R.I.C.I.A en acción",
+        "season": 1,
+        "episode": 6,
+        "overview": "Korvo y Terry crean un robot basado en personajes femeninos de comedias televisivas.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/30iHPnhCv5rKxXTOLoCzcma9L3Z.jpg"
+      },
+      {
+        "id": "tt8910922:1:7",
+        "title": "Korvo y Terry roban un oso",
+        "season": 1,
+        "episode": 7,
+        "overview": "Prisionero en el Muro, Tim escribe cartas para iniciar una revolución.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wAY6WKiNs0DpCHpHhllV4bWNzRM.jpg"
+      },
+      {
+        "id": "tt8910922:1:8",
+        "title": "El volver-atrás-ador",
+        "season": 1,
+        "episode": 8,
+        "overview": "Korvo se da cuenta de que dejó información importante de Pupa en Shlorp.",
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uaMEpBE7lvMKzBDxcYAUt8cm4ox.jpg"
+      },
+      {
+        "id": "tt8910922:2:1",
+        "title": "El número sagrado no repetitivo",
+        "season": 2,
+        "episode": 1,
+        "overview": "¡Vaya! Los Solar Opposites han reparado su nave y se dirigen al espacio.",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pwSIizKjuZC1C0y9LAAqn3yEsVw.jpg"
+      },
+      {
+        "id": "tt8910922:2:2",
+        "title": "El borrador de Tierras",
+        "season": 2,
+        "episode": 2,
+        "overview": "¡Hola! La obsesión de Terry por las cenas mete a todo el equipo en un gran lío.",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xbvUsXkOuVmqKx7WH5yT0GOgST4.jpg"
+      },
+      {
+        "id": "tt8910922:2:3",
+        "title": "El dispositivo de la casa del lago",
+        "season": 2,
+        "episode": 3,
+        "overview": "¡Lejos! Korvo y Terry se manipulan con los viajes en el tiempo. Yumyulack cría un cerdo gordo.",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wtMT4iySmc6II5wdTrKXcgHJLRH.jpg"
+      },
+      {
+        "id": "tt8910922:2:4",
+        "title": "El urbanizador de emergencia",
+        "season": 2,
+        "episode": 4,
+        "overview": "¡Wuju! ¡La escuela terminó, así que los Solar chapotean en el campamento de verano!",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6q4nh6Tvy60c7r5M6Snj6lKBU3e.jpg"
+      },
+      {
+        "id": "tt8910922:2:5",
+        "title": "El rayo genial, increíble y estupendo",
+        "season": 2,
+        "episode": 5,
+        "overview": "¡Ay, no! The Red Goobler está de vuelta ¡y esta vez está enorme! Este me da demasiado miedo.",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kxYCSoYfIrNExdxpX6g8Oschbce.jpg"
+      },
+      {
+        "id": "tt8910922:2:6",
+        "title": "Profesional del Apple Pencil",
+        "season": 2,
+        "episode": 6,
+        "overview": "¡Hora de cenar! Korvo gana el primer premio en el festival anual de costillas del barrio.",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ahkRccdw8rzwTrX2n8rfARhthoZ.jpg"
+      },
+      {
+        "id": "tt8910922:2:7",
+        "title": "La improbable desaparición del vaso de chupito favorito de Terry",
+        "season": 2,
+        "episode": 7,
+        "overview": "¡Uy! La loca historia que explica por qué Terry tuvo que pedir un nuevo vaso de chupito.",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mpxODKiX8Ofm2PLBPqbvPIGm0HK.jpg"
+      },
+      {
+        "id": "tt8910922:2:8",
+        "title": "Solar Opposites casi tienen una Xbox",
+        "season": 2,
+        "episode": 8,
+        "overview": "¡Por fin! ¡Es momento del final de temporada otra vez! ¡Los Solar aprenden sobre la muerte!",
+        "released": "2021-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oqbyBu5uMi0UquH7YLiUrE0xf3U.jpg"
+      },
+      {
+        "id": "tt8910922:3:1",
+        "title": "El triangulador de extremidades",
+        "season": 3,
+        "episode": 1,
+        "overview": "Los Solar Opposites han reparado su nave nuevamente y finalmente se dirigen al espacio.",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lHr1xecDZZgJ5TvjdNHpjd0PGR.jpg"
+      },
+      {
+        "id": "tt8910922:3:2",
+        "title": "Bolsa edamame",
+        "season": 3,
+        "episode": 2,
+        "overview": "¡Chú, chú! Korvo avanza a toda máquina con su afición a las maquetas de trenes.",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tp3yw5G6WP9bl8j1HKAVNzlwOeu.jpg"
+      },
+      {
+        "id": "tt8910922:3:3",
+        "title": "El gran día de la pupa",
+        "season": 3,
+        "episode": 3,
+        "overview": "¡Ponte en línea! Este episodio es para ponerse de pie.",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kXuaRULj9gN32zwabCjgzGwnviU.jpg"
+      },
+      {
+        "id": "tt8910922:3:4",
+        "title": "Hululandia",
+        "season": 3,
+        "episode": 4,
+        "overview": "¡Abróchate los cinturones! ¡Los Solars van a Hululandia!",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nGz0GkDroS9MMrmx4j5fbwkqkUn.jpg"
+      },
+      {
+        "id": "tt8910922:3:5",
+        "title": "El rayo gárgola",
+        "season": 3,
+        "episode": 5,
+        "overview": "¡Ups! ¡El Servicio de Protección Infantil se lleva a Terry y Korvo!",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pZzSZQET2lRQeKdGQ22B9YYkqtd.jpg"
+      },
+      {
+        "id": "tt8910922:3:6",
+        "title": "99 naves",
+        "season": 3,
+        "episode": 6,
+        "overview": "¿QUÉ PASÓ CON TODAS LAS NAVES DE LOS CRÉDITOS INICIALES?",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/orxIbaBWW3xT0vyKPQbbiT0ZJB5.jpg"
+      },
+      {
+        "id": "tt8910922:3:7",
+        "title": "La edición platino de Beyblade Burst 800 Takara Tomy",
+        "season": 3,
+        "episode": 7,
+        "overview": "¡Bingo! Yumyulack aprende sobre las apuestas en la preparatoria.",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jyKyDJVQrXTbPAp4FMPGMCcSR93.jpg"
+      },
+      {
+        "id": "tt8910922:3:8",
+        "title": "El cristalizador de celosía cúbica",
+        "season": 3,
+        "episode": 8,
+        "overview": "Haz las maletas: ¡los Solar Opposites se van de vacaciones!",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nhwEpsk5UcjYIZNCUuDr0SpCfJd.jpg"
+      },
+      {
+        "id": "tt8910922:3:9",
+        "title": "Los rayos que convierten a las personas en varias cosas",
+        "season": 3,
+        "episode": 9,
+        "overview": "¡Felicidades! ¡Los Solar viven en una ciudad premiada!",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bPiMFAGg1MkBgijdF2gStmYwPzF.jpg"
+      },
+      {
+        "id": "tt8910922:3:10",
+        "title": "Terry y Korvo se pelean a gritos en el estacionamiento de Taco Bell",
+        "season": 3,
+        "episode": 10,
+        "overview": "¡Alto! ¡Ponte en posición y prepárate para la justicia!",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/alDo5Xid4Ozj3YKcXfgUkiaMjSS.jpg"
+      },
+      {
+        "id": "tt8910922:3:11",
+        "title": "La niebla de pupa",
+        "season": 3,
+        "episode": 11,
+        "overview": "¡Por fin, otro final de temporada! Solo desearía que Pupa se comportara bien...",
+        "released": "2022-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p0pYG2CCuxr11X4BbERk2zkYRRo.jpg"
+      },
+      {
+        "id": "tt8910922:4:1",
+        "title": "La mesa de ping pong",
+        "season": 4,
+        "episode": 1,
+        "overview": "En su nuevo trabajo, Korvo y Terry presionan a su jefe para que ponga una mesa de ping pong.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/83BXjOOUudutQ6ETK4BRf3Fjhw0.jpg"
+      },
+      {
+        "id": "tt8910922:4:2",
+        "title": "El rastrillo terrestre (beta)",
+        "season": 4,
+        "episode": 2,
+        "overview": "Por miedo a que Terry deje pasar una gran oportunidad, Korvo se une a su viaje de negocios.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cVHUrEZffbb7Y3UcEe9JSib6Nmy.jpg"
+      },
+      {
+        "id": "tt8910922:4:3",
+        "title": "El emisor móvil AISHA",
+        "season": 4,
+        "episode": 3,
+        "overview": "AISHA tiene una cita fuera de la nave.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/izQLS54ALfABExMTPYrR2chVxWd.jpg"
+      },
+      {
+        "id": "tt8910922:4:4",
+        "title": "Los casetes de pronunciación",
+        "season": 4,
+        "episode": 4,
+        "overview": "¡Los Solar tienen un dinosaurio como mascota!",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sgC5ttZZBbOctTdt5wAFKf8IK63.jpg"
+      },
+      {
+        "id": "tt8910922:4:5",
+        "title": "El regalo de cumpleaños",
+        "season": 4,
+        "episode": 5,
+        "overview": "¡Es el cumpleaños de Yumyulack!",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jKse28D7ivDnLp90nQPorbQQn7V.jpg"
+      },
+      {
+        "id": "tt8910922:4:6",
+        "title": "El rayo Archiverso",
+        "season": 4,
+        "episode": 6,
+        "overview": "Los Solar quedan atrapados en el Archiverso lleno de imágenes de archivos.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yaNaAZREN966xQmjXhx6jBzD3Ar.jpg"
+      },
+      {
+        "id": "tt8910922:4:7",
+        "title": "El escondite secreto de cartón",
+        "season": 4,
+        "episode": 7,
+        "overview": "Un episodio lleno de acción y espionaje que tiene lugar en el muro.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b4F7y12fqm6rTQO4ja5zgf3ylrf.jpg"
+      },
+      {
+        "id": "tt8910922:4:8",
+        "title": "Los Súper Gooblers",
+        "season": 4,
+        "episode": 8,
+        "overview": "Los Solar crean Súper Gooblers, que son versiones vivientes de sus propios problemas emocionales.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xi9peleDLIi7Tz9gkmquSwoPBr3.jpg"
+      },
+      {
+        "id": "tt8910922:4:9",
+        "title": "En el planeta X-Non",
+        "season": 4,
+        "episode": 9,
+        "overview": "Glen debe aprender a sobrevivir en una ciudad alienígena.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d0o2uUK6nFz0YIANE2TktNPsNmp.jpg"
+      },
+      {
+        "id": "tt8910922:4:10",
+        "title": "La bullabesa de la re-visibilidad",
+        "season": 4,
+        "episode": 10,
+        "overview": "Korvo y Terry se vuelven invisibles por accidente y la invisibilidad los deja ciegos.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lnV0Mf9JWo6q1pZQENuLwBuG2xm.jpg"
+      },
+      {
+        "id": "tt8910922:4:11",
+        "title": "La indeseada personificación de Terry",
+        "season": 4,
+        "episode": 11,
+        "overview": "¡Los Solar llevan tanto tiempo en la Tierra que empiezan a convertirse en humanos!",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xYsLLApGuhn6hgpryTrMFnQVpuk.jpg"
+      },
+      {
+        "id": "tt8910922:5:1",
+        "title": "Los cascos de la cena clervixiana",
+        "season": 5,
+        "episode": 1,
+        "overview": "Los Solars intentan que les aprueben la residencia permanente en su nuevo planeta: Clervix 3.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j8mx5EF49apDtBXk3HuvIpxuvQN.jpg"
+      },
+      {
+        "id": "tt8910922:5:2",
+        "title": "La interminable historia de la luna de miel",
+        "season": 5,
+        "episode": 2,
+        "overview": "Korvo y Terry celebran su luna de miel.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qb4gAX2SBgkIjo2Msbqn27wnQlF.jpg"
+      },
+      {
+        "id": "tt8910922:5:3",
+        "title": "Dispositivo Vive, muere y repite",
+        "season": 5,
+        "episode": 3,
+        "overview": "Korvo utiliza un dispositivo para seguir reviviendo el mismo día.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gZpLTnVHsBVgEvNVZx4uekNKX9S.jpg"
+      },
+      {
+        "id": "tt8910922:5:4",
+        "title": "El aspersor educativo",
+        "season": 5,
+        "episode": 4,
+        "overview": "Terry y Korvo abren una escuela privada.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v0QT9kkeXeHOpcbqYnfhKfO3APC.jpg"
+      },
+      {
+        "id": "tt8910922:5:5",
+        "title": "Isla de los exnovios",
+        "season": 5,
+        "episode": 5,
+        "overview": "Los exnovios de Jesse vuelven para atormentar a los Solar.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jILtET1V0umuqYxk0vsat0h5B1H.jpg"
+      },
+      {
+        "id": "tt8910922:5:6",
+        "title": "Los patines de ciencia ficción",
+        "season": 5,
+        "episode": 6,
+        "overview": "Korvo recibe una paliza de un padre en la escuela de Jesse y Yumyulack.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4PdbJLDHzQONWba63skmJYPdt06.jpg"
+      },
+      {
+        "id": "tt8910922:5:7",
+        "title": "La intervención de los Solar Opposites",
+        "season": 5,
+        "episode": 7,
+        "overview": "La pandilla se reúne para exponer duras verdades a uno de sus amigos famosos.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3vlilxhdW7hPvGJt7dmydlE9QyB.jpg"
+      },
+      {
+        "id": "tt8910922:5:8",
+        "title": "El dispositivo \"¿Y si...?\"",
+        "season": 5,
+        "episode": 8,
+        "overview": "Los Solar tienen un dispositivo \"¿Y si...?”.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z9FHYyVo6eiJELA7N73d7BLDr9c.jpg"
+      },
+      {
+        "id": "tt8910922:5:9",
+        "title": "La Batalla de Zab 9",
+        "season": 5,
+        "episode": 9,
+        "overview": "Los Silvercops van a la guerra.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3phzZvmYX4JY1mTY51NMJzPHrRW.jpg"
+      },
+      {
+        "id": "tt8910922:5:10",
+        "title": "El gran día de limpieza de Terry",
+        "season": 5,
+        "episode": 10,
+        "overview": "¡A los pequeños encogidos por Yumyulack les espera una aventura en el patio trasero!",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uUwMtmPiJcPFCbfwvSMm08aVgsv.jpg"
+      },
+      {
+        "id": "tt8910922:5:11",
+        "title": "La cabezota de Yumyulack",
+        "season": 5,
+        "episode": 11,
+        "overview": "Yumyulack se entera de noticias desagradables sobre su papel en la misión.",
+        "released": "2024-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/koOWUp7zSiyHW6bXZN9poUSlAV2.jpg"
+      },
+      {
+        "id": "tt8910922:6:1",
+        "title": "Episodio 1",
+        "season": 6,
+        "episode": 1,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/grTz6y1ysVROmxmxFEEbwzoYMxn.jpg"
+      },
+      {
+        "id": "tt8910922:6:2",
+        "title": "Episodio 2",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5N4W8ILMcIstZIWCEhX6dPGQKoN.jpg"
+      },
+      {
+        "id": "tt8910922:6:3",
+        "title": "Episodio 3",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3S9di8cqMla5YTBQATDnrQqgh7Q.jpg"
+      },
+      {
+        "id": "tt8910922:6:4",
+        "title": "Episodio 4",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x0cxlIm74j7Qi6UEAWZ94rNISFw.jpg"
+      },
+      {
+        "id": "tt8910922:6:5",
+        "title": "Episodio 5",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mSifOT1dUkRaA9yRWoaD3iYb1ln.jpg"
+      },
+      {
+        "id": "tt8910922:6:6",
+        "title": "Episodio 6",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/38losFl69siR4K82TsYTKtgnsy6.jpg"
+      },
+      {
+        "id": "tt8910922:6:7",
+        "title": "Episodio 7",
+        "season": 6,
+        "episode": 7,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5EsjSCj2Jayw53VcUg7F3TBepUP.jpg"
+      },
+      {
+        "id": "tt8910922:6:8",
+        "title": "Episodio 8",
+        "season": 6,
+        "episode": 8,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cLhCmzqLJKOJtcWCsH6y5G3e6f8.jpg"
+      },
+      {
+        "id": "tt8910922:6:9",
+        "title": "Episodio 9",
+        "season": 6,
+        "episode": 9,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vKD6jqwcpWClOMnTlAJh3cWVwSr.jpg"
+      },
+      {
+        "id": "tt8910922:6:10",
+        "title": "Episodio 10",
+        "season": 6,
+        "episode": 10,
+        "released": "2025-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e7jrekf7OqdhCsytT60bmBt0oVG.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "meta": {
+    "id": "tt0115101",
+    "type": "series",
+    "name": "Arli$$",
+    "poster": "https://image.tmdb.org/t/p/w500/cJgRJdI1UsdpXEpkVtlmT0quTzm.jpg",
+    "posterShape": "poster",
+    "description": "A behind-the-scenes look at the glitzy, big-money world of professional sports following the eternally optimistic and endlessly resourceful L.A. sports agent Arliss Michaels whose Achilles' heel is his inability to say “no” to clients and employees.",
+    "releaseInfo": "1996",
+    "genres": [
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/faukFVjVlLlwXIEhYllwdZaZOR.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0115101:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "1996-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3YqILhXX8KnscwOac6AIDR5BKRQ.jpg"
+      },
+      {
+        "id": "tt0115101:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "1996-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Ad8ekyRpLf9N2SWg9aQm8jIVRN.jpg"
+      },
+      {
+        "id": "tt0115101:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "1996-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pI2M39PqjjlQA6sBE6DedgC0zM2.jpg"
+      },
+      {
+        "id": "tt0115101:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "1996-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8RKTzVLJSIePw5BicLNCVF7CtKv.jpg"
+      },
+      {
+        "id": "tt0115101:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "1996-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fq4SKijTCI8vmW3IfYooLgofRbB.jpg"
+      },
+      {
+        "id": "tt0115101:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "1996-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/44ZnU5qp6DMrbPv7LFoM4e6ydmr.jpg"
+      },
+      {
+        "id": "tt0115101:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "1996-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9E9dKTl9Pgrot8Oq1GTHQ4EoEpi.jpg"
+      },
+      {
+        "id": "tt0115101:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "1996-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vW1zuIgSKvOzBDvdWsAppToSSlP.jpg"
+      },
+      {
+        "id": "tt0115101:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "1996-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a0qds5LzDBIx1xg0Z4F5EOkLnZx.jpg"
+      },
+      {
+        "id": "tt0115101:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "1996-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9kogroHgOILTJS3IVubIco2Bt1R.jpg"
+      },
+      {
+        "id": "tt0115101:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "1996-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AoyCdYFuod0IXLoAG7SksYk8wz6.jpg"
+      },
+      {
+        "id": "tt0115101:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "1997-06-17"
+      },
+      {
+        "id": "tt0115101:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "1997-06-24"
+      },
+      {
+        "id": "tt0115101:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "1997-07-01"
+      },
+      {
+        "id": "tt0115101:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "1997-07-08"
+      },
+      {
+        "id": "tt0115101:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "1997-07-15"
+      },
+      {
+        "id": "tt0115101:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "1997-07-22"
+      },
+      {
+        "id": "tt0115101:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "1997-07-29"
+      },
+      {
+        "id": "tt0115101:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "1997-08-05"
+      },
+      {
+        "id": "tt0115101:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "1997-08-12"
+      },
+      {
+        "id": "tt0115101:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "1997-08-19"
+      },
+      {
+        "id": "tt0115101:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "1998-06-07"
+      },
+      {
+        "id": "tt0115101:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "1998-06-14"
+      },
+      {
+        "id": "tt0115101:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "1998-06-21"
+      },
+      {
+        "id": "tt0115101:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "1998-06-28"
+      },
+      {
+        "id": "tt0115101:3:5",
+        "title": "Episodio 5",
+        "season": 3,
+        "episode": 5,
+        "released": "1998-07-05"
+      },
+      {
+        "id": "tt0115101:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "1998-07-12"
+      },
+      {
+        "id": "tt0115101:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "1998-07-19"
+      },
+      {
+        "id": "tt0115101:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "1998-07-26"
+      },
+      {
+        "id": "tt0115101:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "1998-08-02"
+      },
+      {
+        "id": "tt0115101:3:10",
+        "title": "Episodio 10",
+        "season": 3,
+        "episode": 10,
+        "released": "1998-08-09"
+      },
+      {
+        "id": "tt0115101:3:11",
+        "title": "Episodio 11",
+        "season": 3,
+        "episode": 11,
+        "released": "1998-08-16"
+      },
+      {
+        "id": "tt0115101:3:12",
+        "title": "Episodio 12",
+        "season": 3,
+        "episode": 12,
+        "released": "1998-08-23"
+      },
+      {
+        "id": "tt0115101:3:13",
+        "title": "Episodio 13",
+        "season": 3,
+        "episode": 13,
+        "released": "1998-08-30"
+      },
+      {
+        "id": "tt0115101:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "1999-06-06"
+      },
+      {
+        "id": "tt0115101:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "1999-06-13"
+      },
+      {
+        "id": "tt0115101:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "1999-06-20"
+      },
+      {
+        "id": "tt0115101:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "1999-06-27"
+      },
+      {
+        "id": "tt0115101:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "1999-07-04"
+      },
+      {
+        "id": "tt0115101:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "1999-07-11"
+      },
+      {
+        "id": "tt0115101:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "1999-07-18"
+      },
+      {
+        "id": "tt0115101:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "1999-07-25"
+      },
+      {
+        "id": "tt0115101:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "1999-08-01"
+      },
+      {
+        "id": "tt0115101:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "1999-08-08"
+      },
+      {
+        "id": "tt0115101:4:11",
+        "title": "Episodio 11",
+        "season": 4,
+        "episode": 11,
+        "released": "1999-08-15"
+      },
+      {
+        "id": "tt0115101:4:12",
+        "title": "Episodio 12",
+        "season": 4,
+        "episode": 12,
+        "released": "1999-08-22"
+      },
+      {
+        "id": "tt0115101:5:1",
+        "title": "Episodio 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2000-06-04"
+      },
+      {
+        "id": "tt0115101:5:2",
+        "title": "Episodio 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2000-06-11"
+      },
+      {
+        "id": "tt0115101:5:3",
+        "title": "Episodio 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2000-06-18"
+      },
+      {
+        "id": "tt0115101:5:4",
+        "title": "Episodio 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2000-06-25"
+      },
+      {
+        "id": "tt0115101:5:5",
+        "title": "Episodio 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2000-07-09"
+      },
+      {
+        "id": "tt0115101:5:6",
+        "title": "Episodio 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2000-07-16"
+      },
+      {
+        "id": "tt0115101:5:7",
+        "title": "Episodio 7",
+        "season": 5,
+        "episode": 7,
+        "released": "2000-07-23"
+      },
+      {
+        "id": "tt0115101:5:8",
+        "title": "Episodio 8",
+        "season": 5,
+        "episode": 8,
+        "released": "2000-07-30"
+      },
+      {
+        "id": "tt0115101:5:9",
+        "title": "Episodio 9",
+        "season": 5,
+        "episode": 9,
+        "released": "2000-08-06"
+      },
+      {
+        "id": "tt0115101:5:10",
+        "title": "Episodio 10",
+        "season": 5,
+        "episode": 10,
+        "released": "2000-08-13"
+      },
+      {
+        "id": "tt0115101:5:11",
+        "title": "Episodio 11",
+        "season": 5,
+        "episode": 11,
+        "released": "2000-08-20"
+      },
+      {
+        "id": "tt0115101:5:12",
+        "title": "Episodio 12",
+        "season": 5,
+        "episode": 12,
+        "released": "2000-08-27"
+      },
+      {
+        "id": "tt0115101:5:13",
+        "title": "Episodio 13",
+        "season": 5,
+        "episode": 13,
+        "released": "2000-09-03"
+      },
+      {
+        "id": "tt0115101:6:1",
+        "title": "Episodio 1",
+        "season": 6,
+        "episode": 1,
+        "released": "2001-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qJtWRkJHrobd7WlW984lrAHEoO2.jpg"
+      },
+      {
+        "id": "tt0115101:6:2",
+        "title": "Episodio 2",
+        "season": 6,
+        "episode": 2,
+        "released": "2001-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qM7MTU1gZwzpC477m2qY4eCN76H.jpg"
+      },
+      {
+        "id": "tt0115101:6:3",
+        "title": "Episodio 3",
+        "season": 6,
+        "episode": 3,
+        "released": "2001-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gGajKWWr47FjBlZVAJ4Ahn3Vnnp.jpg"
+      },
+      {
+        "id": "tt0115101:6:4",
+        "title": "Episodio 4",
+        "season": 6,
+        "episode": 4,
+        "released": "2001-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/an3uKXXjm07p1pqy5OH8VUHRGDU.jpg"
+      },
+      {
+        "id": "tt0115101:6:5",
+        "title": "Episodio 5",
+        "season": 6,
+        "episode": 5,
+        "released": "2001-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g7saUutc62ub27fppdRmOu6HZIK.jpg"
+      },
+      {
+        "id": "tt0115101:6:6",
+        "title": "Episodio 6",
+        "season": 6,
+        "episode": 6,
+        "released": "2001-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uEqoqBZuMHrPhy8WEQosZKG0CGh.jpg"
+      },
+      {
+        "id": "tt0115101:6:7",
+        "title": "Episodio 7",
+        "season": 6,
+        "episode": 7,
+        "released": "2001-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/34XoDm4T2XCCECtnT9SHSeFRby4.jpg"
+      },
+      {
+        "id": "tt0115101:6:8",
+        "title": "Episodio 8",
+        "season": 6,
+        "episode": 8,
+        "released": "2001-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eAawr9Vyudfvj5SjfJ1vZyO0Bzh.jpg"
+      },
+      {
+        "id": "tt0115101:6:9",
+        "title": "Episodio 9",
+        "season": 6,
+        "episode": 9,
+        "released": "2001-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vSCBKYWjqqXneMIV15aBlCp5LPM.jpg"
+      },
+      {
+        "id": "tt0115101:6:10",
+        "title": "Episodio 10",
+        "season": 6,
+        "episode": 10,
+        "released": "2001-08-12"
+      },
+      {
+        "id": "tt0115101:7:1",
+        "title": "Episodio 1",
+        "season": 7,
+        "episode": 1,
+        "released": "2002-06-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ekWVLBjbfIRu1C6Nupf3m16oTK7.jpg"
+      },
+      {
+        "id": "tt0115101:7:2",
+        "title": "Episodio 2",
+        "season": 7,
+        "episode": 2,
+        "released": "2002-06-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bqi4si5MbaOmz3ue7ylzKvR0KhD.jpg"
+      },
+      {
+        "id": "tt0115101:7:3",
+        "title": "Episodio 3",
+        "season": 7,
+        "episode": 3,
+        "released": "2002-06-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/imIaiNUNQCnzKtu8ZvXHksgZvEJ.jpg"
+      },
+      {
+        "id": "tt0115101:7:4",
+        "title": "Episodio 4",
+        "season": 7,
+        "episode": 4,
+        "released": "2002-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wjDxwyd3EAPsN2YeITBTUlvcZE0.jpg"
+      },
+      {
+        "id": "tt0115101:7:5",
+        "title": "Episodio 5",
+        "season": 7,
+        "episode": 5,
+        "released": "2002-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hNbCJFovTlmCQ005jgcgFX2GLDt.jpg"
+      },
+      {
+        "id": "tt0115101:7:6",
+        "title": "Episodio 6",
+        "season": 7,
+        "episode": 6,
+        "released": "2002-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uiQDLOjGhvWb1XFahaWI19GkxJ8.jpg"
+      },
+      {
+        "id": "tt0115101:7:7",
+        "title": "Episodio 7",
+        "season": 7,
+        "episode": 7,
+        "released": "2002-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qjn5LPbF2MYH9V159d2jomk35Xk.jpg"
+      },
+      {
+        "id": "tt0115101:7:8",
+        "title": "Episodio 8",
+        "season": 7,
+        "episode": 8,
+        "released": "2002-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b6UXcZv3fYW2lyi3uqKa2IHhn03.jpg"
+      },
+      {
+        "id": "tt0115101:7:9",
+        "title": "Episodio 9",
+        "season": 7,
+        "episode": 9,
+        "released": "2002-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/78v6ri30PtFlSVYNmm4qsFbihIP.jpg"
+      },
+      {
+        "id": "tt0115101:7:10",
+        "title": "Episodio 10",
+        "season": 7,
+        "episode": 10,
+        "released": "2002-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ooM1mzFQTDxQXy5v69ChYIQrs5l.jpg"
+      },
+      {
+        "id": "tt0115101:7:11",
+        "title": "Episodio 11",
+        "season": 7,
+        "episode": 11,
+        "released": "2002-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uXhFoXBITWtPrJIOYfZ2nXC1Zjn.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "meta": {
+    "id": "tt2306299",
+    "type": "series",
+    "name": "Vikings",
+    "poster": "https://image.tmdb.org/t/p/w500/m8iQ4ZObxGbSu0cs8xTOVTeZ9QX.jpg",
+    "posterShape": "poster",
+    "description": "Narra el ascenso del legendario guerrero Ragnar Lothbrok. La trama sigue su evolución desde un humilde granjero escandinavo hasta convertirse en un poderoso rey vikingo tras desafiar a los líderes locales y explorar exitosamente tierras desconocidas hacia el oeste.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "War & Politics"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt2306299:1:1",
+        "title": "Ritos de iniciación",
+        "season": 1,
+        "episode": 1,
+        "overview": "Ragnar Lothbrok está decidido a navegar hacia el oeste para descubrir nuevas tierras y riquezas a pesar de una intimidante advertencia del conde Haraldson.",
+        "released": "2013-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg"
+      },
+      {
+        "id": "tt2306299:1:2",
+        "title": "La furia de los hombres del norte",
+        "season": 1,
+        "episode": 2,
+        "overview": "Ragnar y su tripulación se preparan para su primer viaje rumbo al oeste, y el furioso conde Haraldson jura vengarse por tal acto de rebeldía.",
+        "released": "2013-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg"
+      },
+      {
+        "id": "tt2306299:1:3",
+        "title": "Desposeídos",
+        "season": 1,
+        "episode": 3,
+        "overview": "El primer atraco a Inglaterra a manos de los vikingos es todo un éxito, y Ragnar elige una recompensa inusual, mientras Haraldson confabula estrategias para imponerse.",
+        "released": "2013-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/srvPbivGYPH0hpFA9rqsmDXnO2Z.jpg"
+      },
+      {
+        "id": "tt2306299:1:4",
+        "title": "Juicio",
+        "season": 1,
+        "episode": 4,
+        "overview": "Acompañado por Lagertha, Ragnar saquea el pueblo inglés Hexam y, a su regreso, debe enfrentarse a Haraldson y darle explicaciones sobre una muerte inesperada.",
+        "released": "2013-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg"
+      },
+      {
+        "id": "tt2306299:1:5",
+        "title": "Asalto",
+        "season": 1,
+        "episode": 5,
+        "overview": "La paranoia de Haraldson lo lleva a atacar a Ragnar, y después de salvarse por muy poco, Ragnar debe elegir entre una vida en el exilio o una batalla hasta la muerte.",
+        "released": "2013-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yKgFdIa1D4X4koiNFzfxv4G5T4b.jpg"
+      },
+      {
+        "id": "tt2306299:1:6",
+        "title": "El entierro de los muertos",
+        "season": 1,
+        "episode": 6,
+        "overview": "Aunque aún está débil, a Ragnar no le es indiferente la tortura sufrida por su hermano, así que desafía a Haraldson a un duelo a muerte.",
+        "released": "2013-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg"
+      },
+      {
+        "id": "tt2306299:1:7",
+        "title": "El rescate de un rey",
+        "season": 1,
+        "episode": 7,
+        "overview": "Ragnar y sus hombres luchan contra el ejército del rey sajón Aelle, y la traición en ambos bandos amenaza con arruinar los intentos de lograr un acuerdo de paz.",
+        "released": "2013-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg"
+      },
+      {
+        "id": "tt2306299:1:8",
+        "title": "Sacrificio",
+        "season": 1,
+        "episode": 8,
+        "overview": "Durante una tradicional peregrinación para agradecer a los dioses, Ragnar, Lagertha y Athelstan se ven envueltos en luchas de lealtades internas y entre ellos.",
+        "released": "2013-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg"
+      },
+      {
+        "id": "tt2306299:1:9",
+        "title": "Todos cambian",
+        "season": 1,
+        "episode": 9,
+        "overview": "Mientras Ragnar emprende una misión diplomática para el rey, Rollo cambia de bando, y Lagertha combate una arrasadora epidemia mortal en el pueblo.",
+        "released": "2013-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg"
+      },
+      {
+        "id": "tt2306299:2:1",
+        "title": "Guerra entre hermanos",
+        "season": 2,
+        "episode": 1,
+        "overview": "La guerra entre Ragnar y las fuerzas del rey Horik contra Jarl Borg confronta a los hermanos. La princesa Aslaug llega a Kattegat, con una sorpresa.",
+        "released": "2014-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/new6dK6yNOcXysMvm8KDp7pKqod.jpg"
+      },
+      {
+        "id": "tt2306299:2:2",
+        "title": "Invasión",
+        "season": 2,
+        "episode": 2,
+        "overview": "Una inesperada alianza se forma gracias a un mismo objetivo: invadir Inglaterra. Ragnar y su tripulación se desvían por una tormenta y se enfrentan con un enemigo.",
+        "released": "2014-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2DWsKFy51lt1gYlcn2zy4DlqCGV.jpg"
+      },
+      {
+        "id": "tt2306299:2:3",
+        "title": "Traición",
+        "season": 2,
+        "episode": 3,
+        "overview": "El rey Ecbert se topa con un enemigo nuevo. Ragnar compite por el dominio del oeste, pero Jarl Borg tiene sus propios planes para el futuro de Kattegat.",
+        "released": "2014-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a7v9k61yKmqRnRvr20cw4lzckJq.jpg"
+      },
+      {
+        "id": "tt2306299:2:4",
+        "title": "Ojo por ojo",
+        "season": 2,
+        "episode": 4,
+        "overview": "La reunión de Ragnar y Ecbert puede allanar el camino para un compromiso futuro. Jarl Borg gobierna Kattegat con mano de hierro, así que Rollo se pone al frente.",
+        "released": "2014-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/juWaNsM6TDCvxQ1J5j7T9qM4AVT.jpg"
+      },
+      {
+        "id": "tt2306299:2:5",
+        "title": "Respuestas en sangre",
+        "season": 2,
+        "episode": 5,
+        "overview": "Con los refuerzos de Lagertha, Ragnar ataca para recuperar Kattegat de Jarl Borg. En Wessex, Athelstan lucha con sus viejas creencias cristianas.",
+        "released": "2014-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uMctGpmxDEfFcLDv37y63IxURHC.jpg"
+      },
+      {
+        "id": "tt2306299:2:6",
+        "title": "Imperdonables",
+        "season": 2,
+        "episode": 6,
+        "overview": "Horik vuelve a Kattegat con una propuesta para Ragnar. Lagertha regresa a casa y no es bien recibida. Athelstan se vuelve el confidente del Rey Ecbert.",
+        "released": "2014-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hS0pqJLCh9HAWI9JC76sc4ScnFN.jpg"
+      },
+      {
+        "id": "tt2306299:2:7",
+        "title": "Águila de sangre",
+        "season": 2,
+        "episode": 7,
+        "overview": "Ragnar y el rey Horik chocan por las diferencias al impartirle justicia a Jarl Borg. En Wessex, llega el rey Aelle y Ecbert tiene la mira en una nueva alianza.",
+        "released": "2014-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5cifsP8FNSVolSgVFx88ctHfRpp.jpg"
+      },
+      {
+        "id": "tt2306299:2:8",
+        "title": "Deshuesado",
+        "season": 2,
+        "episode": 8,
+        "overview": "La profecía de la princesa Aslaug se cumple mientras se prepara para otro nacimiento. Ragnar y Horik tienen distintos objetivos.",
+        "released": "2014-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b7yBD85DDvs7kdq1UxGSls8sy6E.jpg"
+      },
+      {
+        "id": "tt2306299:2:9",
+        "title": "La elección",
+        "season": 2,
+        "episode": 9,
+        "overview": "Los guerreros vikingos de Ragnar se dirigen a la villa del rey Ecbert y se encuentran con un grupo nada amigable. Una sangrienta batalla da pie a nuevos términos.",
+        "released": "2014-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg"
+      },
+      {
+        "id": "tt2306299:2:10",
+        "title": "El padre nuestro",
+        "season": 2,
+        "episode": 10,
+        "overview": "Ragnar y el rey Horik vuelven a Kattegat, el enfrentamiento final está a la vista. Para Ragnar, llegó el momento de confiar en nuevas alianzas.",
+        "released": "2014-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg"
+      },
+      {
+        "id": "tt2306299:3:1",
+        "title": "Mercenario",
+        "season": 3,
+        "episode": 1,
+        "overview": "Las flotas de Ragnar y Lagertha viajan a Wessex con un grupo que intenta colonizarlo. El rey Ecbert hace una oferta y Ragnar forma una alianza sorprendente.",
+        "released": "2015-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg"
+      },
+      {
+        "id": "tt2306299:3:2",
+        "title": "El descarriado",
+        "season": 3,
+        "episode": 2,
+        "overview": "Lagertha y Athelstan ayudan con el asentamiento en Wessex, mientras tanto, la llegada de un extraño confirma un sueño de Aslaug, Siggy y Helga.",
+        "released": "2015-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l3FI55cfzldcO3jhNX1CeSctabN.jpg"
+      },
+      {
+        "id": "tt2306299:3:3",
+        "title": "El destino del guerrero",
+        "season": 3,
+        "episode": 3,
+        "overview": "El rey Ecbert visita el asentamiento vikingo, mientras tanto, los guerreros inician una batalla con Mercia. Siggy se muestra cautelosa ante el misterioso Harbard.",
+        "released": "2015-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d4BYOprH5Ymf2VlglH3UnEZWc8P.jpg"
+      },
+      {
+        "id": "tt2306299:3:4",
+        "title": "Marcado",
+        "season": 3,
+        "episode": 4,
+        "overview": "Los guerreros regresan victoriosos, sin embargo, Floki no aprueba la alianza con Ecbert. La princesa Kwenthrith toma decisiones estratégicas.",
+        "released": "2015-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5w5PZjjiT0fscns1td55qEuR2np.jpg"
+      },
+      {
+        "id": "tt2306299:3:5",
+        "title": "El usurpador",
+        "season": 3,
+        "episode": 5,
+        "overview": "Los guerreros vuelven a Kattegat, donde les aguarda una tragedia. Lagertha insiste en que Ragnar viaje a Hedeby y recupere su título. Rollo descubre una profecía.",
+        "released": "2015-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/PkbyH1xQZy63SycZT07IOTSF1N.jpg"
+      },
+      {
+        "id": "tt2306299:3:6",
+        "title": "Vuelto a nacer",
+        "season": 3,
+        "episode": 6,
+        "overview": "Rollo reflexiona sobre la profecía mientras continúan los preparativos para el ataque de París. Kalf llega hasta Kattegat. Porunn y Judith dan a luz.",
+        "released": "2015-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9n8pc6XwRlEeeMb4nrukUGzRHS9.jpg"
+      },
+      {
+        "id": "tt2306299:3:7",
+        "title": "Paris",
+        "season": 3,
+        "episode": 7,
+        "overview": "París entra en pánico tras atestiguar la llegada de la flota vikinga, sin embargo, el conde Odo está convencido de que la ciudad puede con el ataque.",
+        "released": "2015-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cFFY8zOjUQlACFAKyMIufup3VjE.jpg"
+      },
+      {
+        "id": "tt2306299:3:8",
+        "title": "¡A las puertas!",
+        "season": 3,
+        "episode": 8,
+        "overview": "En París, el conde Odo ordena la clausura de la ciudad para protegerla de la invasión, pero las fuerzas vikingas no se detendrán ante nada.",
+        "released": "2015-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5Wmmag8yK7kPyLunTnx9DuQAJTs.jpg"
+      },
+      {
+        "id": "tt2306299:3:9",
+        "title": "Punto de quiebra",
+        "season": 3,
+        "episode": 9,
+        "overview": "En París, los guerreros ejecutan un brutal ataque que obliga al emperador a tomar una difícil decisión, algo que Judith también enfrenta.",
+        "released": "2015-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kJerWFq6iuToWn6NJf2hwkXzFUO.jpg"
+      },
+      {
+        "id": "tt2306299:3:10",
+        "title": "Los muertos",
+        "season": 3,
+        "episode": 10,
+        "overview": "En su última oportunidad para invadir París, Ragnar y sus tropas tienen una sorprendente estrategia. Rollo conoce su destino y Bjorn toma su rol de líder.",
+        "released": "2015-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg"
+      },
+      {
+        "id": "tt2306299:4:1",
+        "title": "Una buena traición",
+        "season": 4,
+        "episode": 1,
+        "overview": "Ragnar tiene una pesadilla perturbadora, Aslaug busca respuestas sobre el futuro, Rollo da un paso importante, y Floki se enfrenta a Bjorn.",
+        "released": "2016-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hrwR0Ttjrr4iuiMWBVr9dTN2Aa7.jpg"
+      },
+      {
+        "id": "tt2306299:4:2",
+        "title": "Muerte a la reina",
+        "season": 4,
+        "episode": 2,
+        "overview": "Bjorn se lanza en una misión de supervivencia, Ubbe demuestra su resistencia en una cacería, las circunstancias de Floki empeoran, y Rollo se esfuerza por integrarse.",
+        "released": "2016-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fLmE6zAIwmL1tmzsPylRrxNvlac.jpg"
+      },
+      {
+        "id": "tt2306299:4:3",
+        "title": "Clemencia",
+        "season": 4,
+        "episode": 3,
+        "overview": "Ragnar y Ecbert comparten una visión, la novia de Rollo no se deja conquistar, y Bjorn se enfrenta a un feroz adversario en medio de la naturaleza.",
+        "released": "2016-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/whXSA0wNJ5huU8GwA1gVWoqOEpb.jpg"
+      },
+      {
+        "id": "tt2306299:4:4",
+        "title": "El solsticio de invierno",
+        "season": 4,
+        "episode": 4,
+        "overview": "Frente al crepitar del fuego del gran salón, Ragnar y Yido se dan cuenta de que comparten un destino. Mientras tanto, Bjorn lucha por su vida y su amor.",
+        "released": "2016-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aj2TVz5b4U3uPicwQoRa3Z2ebxh.jpg"
+      },
+      {
+        "id": "tt2306299:4:5",
+        "title": "Prometida",
+        "season": 4,
+        "episode": 5,
+        "overview": "La confianza continúa creciendo entre Ragnar y Yidu, un visitante inesperado llega a Kattegat, y una celebración da un giro inesperado.",
+        "released": "2016-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uHJAV3pXqNw3gNl73Tx5aZi3HHe.jpg"
+      },
+      {
+        "id": "tt2306299:4:6",
+        "title": "Lo que podría haber sido",
+        "season": 4,
+        "episode": 6,
+        "overview": "Ragnar, Lagertha y Harald zarpan hacia París, pero el viento los desvía de su rumbo. Mientras tanto, Ecbert envía a Aethelwulf y a Alfred en una misión sagrada.",
+        "released": "2016-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zGAYf5xNRQSiS8cirRYnyonvlnH.jpg"
+      },
+      {
+        "id": "tt2306299:4:7",
+        "title": "Beneficios y pérdidas",
+        "season": 4,
+        "episode": 7,
+        "overview": "Ragnar anuncia un doble ataque contra Rollo. Mientras tanto, Harbard y Aslaug comparten un momento íntimo, y Floki tiene una visión inquietante.",
+        "released": "2016-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iNzGDvCcceZJ6AG5B8LA0LdbBen.jpg"
+      },
+      {
+        "id": "tt2306299:4:8",
+        "title": "Porte",
+        "season": 4,
+        "episode": 8,
+        "overview": "Se ponen en tela de juicio las habilidades de Ragnar, Gisla revela noticias importantes, Yidu toma una fatídica decisión, y la victoria de Rollo recibe una recompensa.",
+        "released": "2016-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tnwyCySvtyEtKX2OqUMaO0yTPmD.jpg"
+      },
+      {
+        "id": "tt2306299:4:9",
+        "title": "Muerte alrededor",
+        "season": 4,
+        "episode": 9,
+        "overview": "Harald y Halfdan trazan un camino de destrucción, Lagertha sufre un revés personal, Alfred recibe una honorífica bienvenida en Roma, y Erlendur hace un reclamo.",
+        "released": "2016-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m4gzIOird8hnGMlPd9xDhz8GBbO.jpg"
+      },
+      {
+        "id": "tt2306299:4:10",
+        "title": "El último barco",
+        "season": 4,
+        "episode": 10,
+        "overview": "Mientras Charles toma una funesta decisión, una dura batalla entre Rollo y Ragnar podría cambiar el rumbo de la historia.",
+        "released": "2016-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cvezBE5fO95KKl5ZEsXh3MOjUNw.jpg"
+      },
+      {
+        "id": "tt2306299:4:11",
+        "title": "El forastero",
+        "season": 4,
+        "episode": 11,
+        "overview": "Ragnar regresa a Kattegat y les propone a sus hijos navegar hacia Inglaterra. Un festín familiar termina mal. Una esclava pone en ridículo a Ivar.",
+        "released": "2016-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/23bDUORmHdkWVdhFbqilDhuIxE0.jpg"
+      },
+      {
+        "id": "tt2306299:4:12",
+        "title": "La visión",
+        "season": 4,
+        "episode": 12,
+        "overview": "Mientras Bjorn se prepara para navegar el Mediterráneo, Ragnar no encuentra suficientes tripulantes para sus naves. Aslaug tiene una tremenda visión.",
+        "released": "2016-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mQLcB8sbGJz9nd8th1kY5IyH4P4.jpg"
+      },
+      {
+        "id": "tt2306299:4:13",
+        "title": "Dos viajes",
+        "season": 4,
+        "episode": 13,
+        "overview": "Bjorn no tiene otra opción que negociar con un viejo enemigo para cumplir su sueño. Mientras tanto, Ragnar tiene que cambiar de planes cuando su ejército queda diezmado.",
+        "released": "2016-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9g10W86w9qYDhfbUwj6ger674t.jpg"
+      },
+      {
+        "id": "tt2306299:4:14",
+        "title": "En la hora incierta antes del amanecer",
+        "season": 4,
+        "episode": 14,
+        "overview": "Luego de un funeral vikingo, Lagertha finalmente alcanza su objetivo. Capturan a Ragnar, pero este logra negociar con el rey Ecbert tras encontrar a un nuevo parentezco.",
+        "released": "2016-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kRYaOvnxbBeILFRCVMIDmZWlj4y.jpg"
+      },
+      {
+        "id": "tt2306299:4:15",
+        "title": "Todos Sus ángeles",
+        "season": 4,
+        "episode": 15,
+        "overview": "Ivar regresa a casa y crecen los temores de Lagertha y Astrid por el futuro. Mientras Ragnar espera su destino, un hombre disfrazado de clérigo le ofrece consuelo.",
+        "released": "2016-12-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bo8f6YozU0JIWhuAxdvAIfWPVqS.jpg"
+      },
+      {
+        "id": "tt2306299:4:16",
+        "title": "Cruces",
+        "season": 4,
+        "episode": 16,
+        "overview": "Ivar desafía a Lagertha, y Ecbert y Aethelwulf no se ponen de acuerdo en cómo tratar con la amenaza que él representa. Bjorn y sus hombres saquean una ciudad musulmana.",
+        "released": "2017-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lXjAKqM6FzcE3jKzlv0hjnAIjnt.jpg"
+      },
+      {
+        "id": "tt2306299:4:17",
+        "title": "Un gran ejército",
+        "season": 4,
+        "episode": 17,
+        "overview": "Bjorn regresa a Kattegat y se suma al plan de sus hermanos de juntar un ejército para vengar la muerte de Ragnar, pero le advierte a Ivar de no atacar a Lagertha.",
+        "released": "2017-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nG5WMT0v3h6sXDUyZwzs7BcWi3z.jpg"
+      },
+      {
+        "id": "tt2306299:4:18",
+        "title": "Venganza",
+        "season": 4,
+        "episode": 18,
+        "overview": "Guerreros de todas las naciones forman un gran ejército. La noche de bodas de Ubbe y Margrethe concluye en una alianza. El rey Aelle se prepara para una brutal batalla.",
+        "released": "2017-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5HLpnL66LOOVOu33bQz7iEwTvvH.jpg"
+      },
+      {
+        "id": "tt2306299:4:19",
+        "title": "En la víspera",
+        "season": 4,
+        "episode": 19,
+        "overview": "El rey Ecbert y el príncipe Aethelwulf se preparan para el avance del ejército vikingo, mientras Lagertha encabeza una feroz batalla contra los invasores de Kattegat.",
+        "released": "2017-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lAPqhzVTyik6zJiRbkPTUlrCEMt.jpg"
+      },
+      {
+        "id": "tt2306299:4:20",
+        "title": "La hora de la verdad",
+        "season": 4,
+        "episode": 20,
+        "overview": "Ecbert recibe al ejército vikingo luego de poner en marcha su propia venganza. Luego de la victoria, la celebración es más amarga que dulce para los hijos de Ragnar.",
+        "released": "2017-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p22hFeEGVqZu9hmMwMIHXxN30J4.jpg"
+      },
+      {
+        "id": "tt2306299:5:1",
+        "title": "El rey pescador",
+        "season": 5,
+        "episode": 1,
+        "overview": "Ivar trata de ganarse a Ubbe y Hvitserk con una estrategia arriesgada para el gran ejército. Crece un poder religioso entre los sajones. Floki toma otro rumbo.",
+        "released": "2017-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p0B2fryD84NkeSG8IezwdswJryE.jpg"
+      },
+      {
+        "id": "tt2306299:5:2",
+        "title": "Los difuntos",
+        "season": 5,
+        "episode": 2,
+        "overview": "Lagertha no está a gusto con el regreso del rey Harald a Kattegat. Se forman alianzas para enfrentar a los nórdicos que tomaron York. Floki navega aguas turbulentas.",
+        "released": "2017-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lh1FjFNHRPH53bp1eqcrfnXs8TV.jpg"
+      },
+      {
+        "id": "tt2306299:5:3",
+        "title": "Patria",
+        "season": 5,
+        "episode": 3,
+        "overview": "El obispo Heahmund y Aethelwulf ponen en marcha el plan de batalla, que divide a los hijos de Ragnar. Harald presenta a Astrid ante su pueblo.",
+        "released": "2017-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cAiBQE2KtsFQMWNXmJb7sSl4o7.jpg"
+      },
+      {
+        "id": "tt2306299:5:4",
+        "title": "El plan",
+        "season": 5,
+        "episode": 4,
+        "overview": "Lagertha le hace una oferta a Ubbe, mientras Astrid considera la que le hizo Harald. Heahmund arma un nuevo plan de ataque, y Bjorn expande sus horizontes.",
+        "released": "2017-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mwhArS0AWSYKnES2Ne22vWgxl7Z.jpg"
+      },
+      {
+        "id": "tt2306299:5:5",
+        "title": "El prisionero",
+        "season": 5,
+        "episode": 5,
+        "overview": "Mientras trama su próxima jugada, Ivar se interesa por Heahmund. Floki vuelve a Kattegat. Bjorn descubre que no todo es lo que parece en África.",
+        "released": "2017-12-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qW4zxYXVAIoodVC8G4ix7sLsP8H.jpg"
+      },
+      {
+        "id": "tt2306299:5:6",
+        "title": "El mensaje",
+        "season": 5,
+        "episode": 6,
+        "overview": "Acompañado por Heahmund, Ivar le hace una propuesta a Harald. Lagertha pierde el control sobre su pueblo, y un aliado paga un precio muy alto por la lealtad.",
+        "released": "2017-12-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cfmte4CzQuUyUka7gSLfNwDYLXD.jpg"
+      },
+      {
+        "id": "tt2306299:5:7",
+        "title": "Luna llena",
+        "season": 5,
+        "episode": 7,
+        "overview": "Bjorn hace cambios tras su llegada a Kattegat, donde Lagertha se prepara para la guerra. Astrid da una gran noticia, y la gente de Floki comienza a sospechar.",
+        "released": "2018-01-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vpHMCPaeOflXb8NZFKx2rGMSMYM.jpg"
+      },
+      {
+        "id": "tt2306299:5:8",
+        "title": "El chiste",
+        "season": 5,
+        "episode": 8,
+        "overview": "El enfrentamiento entre hermanos en la batalla de Kattegat salda viejas cuentas. Floki y Alfred imaginan otros mundos.",
+        "released": "2018-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ax7Qx3iaftydXA21h3JpdtL3DYG.jpg"
+      },
+      {
+        "id": "tt2306299:5:9",
+        "title": "Una historia sencilla",
+        "season": 5,
+        "episode": 9,
+        "overview": "Después de la batalla, surgen nuevas relaciones y se juran lealtades. Por otro lado, Floki enfrenta viejos fantasmas, y la vida de Alfred da un giro.",
+        "released": "2018-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aGDpMbiLDRSKw67o5RKTKpFUEMK.jpg"
+      },
+      {
+        "id": "tt2306299:5:10",
+        "title": "Momentos visionarios",
+        "season": 5,
+        "episode": 10,
+        "overview": "Se derrama sangre y se rompen lazos en la guerra de Kattegat, con Lagertha, Harald y Ubbe enfrentados a sus seres queridos en el campo de batalla.",
+        "released": "2018-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/glnCGZWOccC4fVCihgggXo93bA2.jpg"
+      },
+      {
+        "id": "tt2306299:5:11",
+        "title": "La revelación",
+        "season": 5,
+        "episode": 11,
+        "overview": "Tras la intensa batalla por Kattegat, Ivar queda obsesionado con la venganza. Bjorn recibe noticias inesperadas, y Lagertha evalúa sus opciones.",
+        "released": "2018-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tHBGZz1uxTbhP0KWZ8fUaUYcsZe.jpg"
+      },
+      {
+        "id": "tt2306299:5:12",
+        "title": "El asesinato más vil",
+        "season": 5,
+        "episode": 12,
+        "overview": "El vínculo entre Heahmund y Lagertha está rodeado de intrigas políticas y románticas, que afectan a la consorte de Ivar y el trato de Alfred hacia la posible reina.",
+        "released": "2018-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7RyxIQQ2S0y3ZxBuZ89lCsgmoD2.jpg"
+      },
+      {
+        "id": "tt2306299:5:13",
+        "title": "Un nuevo dios",
+        "season": 5,
+        "episode": 13,
+        "overview": "Se sienten las repercusiones del avance de Heahmund contra Lord Cuthred. En Kattegat, los delirios de grandeza de Ivar dan un vuelco peligroso.",
+        "released": "2018-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6DHMKxB7FXXHy4myQixMxmNyFFQ.jpg"
+      },
+      {
+        "id": "tt2306299:5:14",
+        "title": "El momento perdido",
+        "season": 5,
+        "episode": 14,
+        "overview": "El dramático sacrificio de Ivar despierta sospechas. Surgen conspiraciones contra Alfred, y las fuerzas de Harald se acercan. Tras una tragedia, Floki tiene una epifanía.",
+        "released": "2018-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xRSDThRVa1Xj3UpoIOR9xrqquZr.jpg"
+      },
+      {
+        "id": "tt2306299:5:15",
+        "title": "Infierno",
+        "season": 5,
+        "episode": 15,
+        "overview": "Acechado por los vikingos, Alfred se prepara para luchar por Wessex. Una visión perturbadora convence a Heahmund de dejar de lado sus deseos.",
+        "released": "2018-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s56Ni5Ywi05t3gf4V9IN3QV16Zq.jpg"
+      },
+      {
+        "id": "tt2306299:5:16",
+        "title": "El Buda",
+        "season": 5,
+        "episode": 16,
+        "overview": "Tras la batalla, los hijos de Ragnar cumplen uno de sus mayores sueños. Bjorn encuentra un oponente de su talla, y Hvitserk descubre una nueva ruta.",
+        "released": "2019-01-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sZdh4eH8hoi2uU7Vt6zBRkNbqj1.jpg"
+      },
+      {
+        "id": "tt2306299:5:17",
+        "title": "Cosas terribles",
+        "season": 5,
+        "episode": 17,
+        "overview": "Mientras una nueva amenaza se acerca a Wessex, Bjorn conspira con Harald, Ivar le hace una oferta irresistible a Hvitserk, y el destino de Floki cambia súbitamente.",
+        "released": "2019-01-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jkGKKRCkLkRMNBBnNMWTrDMCniE.jpg"
+      },
+      {
+        "id": "tt2306299:5:18",
+        "title": "Balder",
+        "season": 5,
+        "episode": 18,
+        "overview": "Ivar se muestra cada vez más impiadoso, Ubbe emprende un plan osado, Judith descubre algo sorprendente, y Hvitserk se esfuerza por persuadir a un aliado.",
+        "released": "2019-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zAzm9qFxGxOlnAig6sVRer8CKAf.jpg"
+      },
+      {
+        "id": "tt2306299:5:19",
+        "title": "Lo que pasa en la cueva",
+        "season": 5,
+        "episode": 19,
+        "overview": "El destino avanza en sus planes con los hijos de Ragnar: Ivar lidia con Balder y Ubbe lucha hasta la muerte. Floki encuentra algo inimaginable, y Bjorn regresa a casa.",
+        "released": "2019-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qoReo3XyPF4xrWMA5zq84CkKI8O.jpg"
+      },
+      {
+        "id": "tt2306299:5:20",
+        "title": "Ragnarök",
+        "season": 5,
+        "episode": 20,
+        "overview": "La pelea final por Kattegat trae un baño de sangre, traiciones y giros inesperados cuando Bjorn decide liderar el ataque para sacar a Ivar del trono.",
+        "released": "2019-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6PQWhAgRNXeg4kNagCP5soaK4Y3.jpg"
+      },
+      {
+        "id": "tt2306299:6:1",
+        "title": "Nuevos Comienzos",
+        "season": 6,
+        "episode": 1,
+        "overview": "En su escape por la Ruta de la Seda, los Rus capturan a Ivar. Bjorn asume el trono de Kattegat, pero Lagertha anuncia que se retira al campo",
+        "released": "2019-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o3L1c9Fsw5G92zOEOrPi5RmyAcx.jpg"
+      },
+      {
+        "id": "tt2306299:6:2",
+        "title": "El Profeta",
+        "season": 6,
+        "episode": 2,
+        "overview": "El rey Bjorn recibe el pedido de ayuda militar que le hace el rey Harald. Ivar queda asombrado por la violenta toma de poder del príncipe Oleg de Kiev",
+        "released": "2019-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w7ZBnpkkbDuACKm3XUCOEEomzda.jpg"
+      },
+      {
+        "id": "tt2306299:6:3",
+        "title": "Fantasmas, Dioses y Perros que corren",
+        "season": 6,
+        "episode": 3,
+        "overview": "La nueva comunidad de Lagertha es atacada. El rey Olaf frustra el intento de Bjorn de liberar a Harald. El príncipe Oleg consolida su dominio",
+        "released": "2019-12-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9blglyXt9RWGDBGBhWr3STaDtKe.jpg"
+      },
+      {
+        "id": "tt2306299:6:4",
+        "title": "Todos los Prisioneros",
+        "season": 6,
+        "episode": 4,
+        "overview": "El rey Olaf le hace a Bjorn una oferta que no puede rechazar. Las fuerzas de Lagertha rechazan un asalto violento, pero por un alto precio. Ivar urde un plan contra Oleg.",
+        "released": "2019-12-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eFj6z3QOKVwdc9yJnEBCFBfqlSM.jpg"
+      },
+      {
+        "id": "tt2306299:6:5",
+        "title": "Momento Clave",
+        "season": 6,
+        "episode": 5,
+        "overview": "Gunnhild llega para reforzar el poblado de Lagertha. Los jarls y reyes de Noruega se preparan para elegir a un nuevo líder nacional. Ivar ve un fantasma de su pasado.",
+        "released": "2020-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5ZQfIh4Eq924DYiBFcnb3nNTqDk.jpg"
+      },
+      {
+        "id": "tt2306299:6:6",
+        "title": "La Muerte y La Serpiente",
+        "season": 6,
+        "episode": 6,
+        "overview": "La elección del rey de Noruega tiene un resultado inesperado, así como consecuencias para Bjorn. Lagertha y su pueblo se enfrentan a los bandidos.",
+        "released": "2020-01-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8l5jE8Ue1g9HZn417vbcHrvgaD5.jpg"
+      },
+      {
+        "id": "tt2306299:6:7",
+        "title": "La Doncella de Hielo",
+        "season": 6,
+        "episode": 7,
+        "overview": "El flamante rey Harald encarcela a Olaf por oponerse a su elección. Bjorn siente que se avecina una tragedia en Kattegat. Ivar recibe buenas noticias en Kiev.",
+        "released": "2020-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mXzDiFWFiII28bCwRhD08OS1OuP.jpg"
+      },
+      {
+        "id": "tt2306299:6:8",
+        "title": "Valhalla Puede Esperar",
+        "season": 6,
+        "episode": 8,
+        "overview": "Bjorn regresa para lamentar su pérdida y buscar venganza. Ubbe y Torvi se marchan. Oleg planea su invasión. El rey Harald escucha noticias de extraños saqueadores.",
+        "released": "2020-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qQz3GyZvuWHIDVmwlBP2k4eoQQ2.jpg"
+      },
+      {
+        "id": "tt2306299:6:9",
+        "title": "Resurrección",
+        "season": 6,
+        "episode": 9,
+        "overview": "Ubbe y Torvi encuentran un misterioso viajero en Islandia y reciben a un nuevo bebé. Bjorn y Harald, muy a su pesar, se vuelven aliados contra la invasión de los Rus.",
+        "released": "2020-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mW72v3NPSSja5fBKnjKNvMYnRZL.jpg"
+      },
+      {
+        "id": "tt2306299:6:10",
+        "title": "Los mejores planes",
+        "season": 6,
+        "episode": 10,
+        "overview": "Ivar gana un posible aliado en su intriga contra Oleg. La frágil alianza de Harald y Bjorn se prepara para la invasión de los Rus en Escandinavia.",
+        "released": "2020-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7jQkjDessT3JB36TMDv6uMkb25q.jpg"
+      },
+      {
+        "id": "tt2306299:6:11",
+        "title": "Rey de reyes",
+        "season": 6,
+        "episode": 11,
+        "overview": "Herido de gravedad, Bjorn intenta liderar a su pueblo una vez más, mientras los Rus preparan una enorme invasión. Ubbe descubre la verdad sobre Kjetill.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aCoYfoKTSMzmorUGLtetbFLAu3j.jpg"
+      },
+      {
+        "id": "tt2306299:6:12",
+        "title": "Todos cambian",
+        "season": 6,
+        "episode": 12,
+        "overview": "Ubbe convence a los habitantes de Islandia de realizar un viaje de exploración. La derrota de los Rus crea vacíos de poder en Kattegat y Kiev.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/78xct2iRITk4xw49tIO8SdklcgS.jpg"
+      },
+      {
+        "id": "tt2306299:6:13",
+        "title": "La señal",
+        "season": 6,
+        "episode": 13,
+        "overview": "La elección del nuevo soberano de Kattegat se lleva a cabo, pero una visita sorpresa interrumpe el procedimiento. Ivar pone en acción su plan de derrocar a Oleg.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7gGkUeTPXXTTKxNVLtEywqzT0LF.jpg"
+      },
+      {
+        "id": "tt2306299:6:14",
+        "title": "Almas perdidas",
+        "season": 6,
+        "episode": 14,
+        "overview": "Mientras sus enemigos planean tomar el poder, Harald se prepara para su coronación y elige a una reina. El grupo de Ubbe llega a la costa, pero no a la que buscaban.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rwV2fN5TnKumTdPk1PuT8abJWrR.jpg"
+      },
+      {
+        "id": "tt2306299:6:15",
+        "title": "Todos en altamar",
+        "season": 6,
+        "episode": 15,
+        "overview": "Las facciones en Groenlandia derraman sangre y ahuyentan al grupo de Ubbe. Las tropas de Ivar y Dir conquistan Kiev para el príncipe Igor. Gunnhild toma una decisión.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tDJx5ctSRoiHPJaW6FttobxZQ36.jpg"
+      },
+      {
+        "id": "tt2306299:6:16",
+        "title": "La gota que colmó el vaso",
+        "season": 6,
+        "episode": 16,
+        "overview": "Ubbe y sus seguidores languidecen en mar abierto. Ivar y Hvitserk reciben una helada acogida en Kattegat, hasta que el inquieto Ivar tiene una revelación.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xEtHizRmll7cXnE4iho04lHx4nM.jpg"
+      },
+      {
+        "id": "tt2306299:6:17",
+        "title": "La balsa de la Medusa",
+        "season": 6,
+        "episode": 17,
+        "overview": "Ivar y Hvitserk dirigen al ejército del rey Harald hacia Inglaterra, donde el rey Alfred de Wessex abandona la villa real y marcha para reunirse con los hijos de Ragnar.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bJJskMzn4HGgKWAXKXzvU684zWe.jpg"
+      },
+      {
+        "id": "tt2306299:6:18",
+        "title": "Solo es magia",
+        "season": 6,
+        "episode": 18,
+        "overview": "El rey Alfred se enferma mientras el ejército vikingo toma la delantera. Ingrid maldice a Erik. Ubbe y su gente encuentran un nuevo mundo, pero no están solos.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7YdP8WQEqg6r03wpw6OeLxvNMoF.jpg"
+      },
+      {
+        "id": "tt2306299:6:19",
+        "title": "Alguien te da...",
+        "season": 6,
+        "episode": 19,
+        "overview": "Ubbe y los colonos inician relaciones con los indígenas de la nueva tierra. La estrategia de Ivar atrae a las fuerzas de Alfred a una batalla devastadora.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ctmbwLgqQE3BPvLiAEP9VS81HGd.jpg"
+      },
+      {
+        "id": "tt2306299:6:20",
+        "title": "El último acto",
+        "season": 6,
+        "episode": 20,
+        "overview": "Ubbe se reúne con un viejo amigo, pero debe juzgar a un asesino. Las tropas de Alfred e Ivar chocan cuando sus líderes buscan fortaleza en sus propios dioses.",
+        "released": "2020-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1qJ5CMO7vLvU4Hw04hVLtK5d39d.jpg"
+      }
+    ]
+  }
+}

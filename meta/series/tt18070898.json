@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "id": "tt18070898",
+    "type": "series",
+    "name": "Sunny",
+    "poster": "https://image.tmdb.org/t/p/w500/7x3rqEpps3msoQhBUJyiaXotGBL.jpg",
+    "posterShape": "poster",
+    "description": "La vida de una mujer estadounidense que vive en Tokio, Japón, se ve trastocada cuando su esposo y su hijo desaparecen en un misterioso accidente aéreo. Como consuelo, recibe a Sunny, uno de los novedosos robots domésticos creados por la compañía de electrónicos de su esposo.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Misterio",
+      "Drama",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/3WW5SB8at3LEshGy4FRY1e6g8hv.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt18070898:1:1",
+        "title": "Trabaja en refrigeradores",
+        "season": 1,
+        "episode": 1,
+        "overview": "En un Kioto futurista, Suzie se enfrenta a una gran pérdida y recibe un robot doméstico para ayudarla.",
+        "released": "2024-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/heZViRSkoEk6aWqzl90ILXVLjID.jpg"
+      },
+      {
+        "id": "tt18070898:1:2",
+        "title": "No culpes a la máquina",
+        "season": 1,
+        "episode": 2,
+        "overview": "Mientras Suzie intenta descifrar a Sunny, ella revive recuerdos de su esposo Masa.",
+        "released": "2024-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9JwA88CVp8qMOYKBiihrBYdClwI.jpg"
+      },
+      {
+        "id": "tt18070898:1:3",
+        "title": "Mmmm, ciprés",
+        "season": 1,
+        "episode": 3,
+        "overview": "Suzie, Sunny y Mixxy hacen un descubrimiento. Noriko presiona a Suzie para hacerle un funeral adecuado a Masa.",
+        "released": "2024-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Si3kxgMsq4tzXmszV6OabE2edm.jpg"
+      },
+      {
+        "id": "tt18070898:1:4",
+        "title": "Sudoroso",
+        "season": 1,
+        "episode": 4,
+        "overview": "Los Yakuza se hacen conocer. Suzie investiga la verdad sobre la familia de Masa.",
+        "released": "2024-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/95CMuH307NbYYNfDnQf429pfP26.jpg"
+      },
+      {
+        "id": "tt18070898:1:5",
+        "title": "Joey Sakamoto",
+        "season": 1,
+        "episode": 5,
+        "overview": "Sunny y Suzie se van de Kioto con Mixxy a buscar asilo en la granja de su familia.",
+        "released": "2024-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ynlprVAVGyTm3tnVv7CjOyeS4eP.jpg"
+      },
+      {
+        "id": "tt18070898:1:6",
+        "title": "Manjū de Kioto, son deliciosos",
+        "season": 1,
+        "episode": 6,
+        "overview": "Suzie se encuentra oficialmente con Himé y sus amigos. Noriko domina el juego de shogi.",
+        "released": "2024-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kmf9wk5AiVguIiv90olO0AXDsmr.jpg"
+      },
+      {
+        "id": "tt18070898:1:7",
+        "title": "Algo ha cambiado",
+        "season": 1,
+        "episode": 7,
+        "overview": "Mixxy recibe un golpe inesperado de verdad sobre su amistad con Suzie. Himé enfrenta a Jin.",
+        "released": "2024-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s9jhY32XWfcPPbPT3gEu7uKP1SO.jpg"
+      },
+      {
+        "id": "tt18070898:1:8",
+        "title": "Basura o No Basura",
+        "season": 1,
+        "episode": 8,
+        "overview": "En el pasado, Masa sale poco a poco del hikikomori.",
+        "released": "2024-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pWG9pGVfEQssf45D6J9vvO3miYQ.jpg"
+      },
+      {
+        "id": "tt18070898:1:9",
+        "title": "¿Quién está adentro?",
+        "season": 1,
+        "episode": 9,
+        "overview": "Sunny reflexiona sobre sí misma.",
+        "released": "2024-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1cb2OF9yivlZqzJNQ0Rd1F1Hk1t.jpg"
+      },
+      {
+        "id": "tt18070898:1:10",
+        "title": "El Manual Negro",
+        "season": 1,
+        "episode": 10,
+        "overview": "Después de descubrir la verdad, Suzie lucha por lo que es más importante.",
+        "released": "2024-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cMjDlYKSxamJG0QckMyUEY1TuiU.jpg"
+      }
+    ]
+  }
+}

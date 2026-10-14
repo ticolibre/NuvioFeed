@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "tt39847051",
+    "type": "series",
+    "name": "Girl on the Run: The Hunt for America's Most Wanted Woman",
+    "poster": "https://image.tmdb.org/t/p/w500/pzSCGYITc2l0nFhoLZxD0STWhXb.jpg",
+    "posterShape": "poster",
+    "description": "When convicted double murderer Sarah Pender escapes from a maximum-security prison in Indiana, a nationwide manhunt is immediately launched. Charged alongside her former boyfriend, who pled guilty, for the murder of a young couple, Pender has vanished, igniting fear, fascination, and a relentless pursuit that stretches across state lines.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zV00kohL8bwN4s23GHIK6gOjrOU.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39847051:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6JfI1Zpy9lNJ07oagKoAsiHZzlW.jpg"
+      },
+      {
+        "id": "tt39847051:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/poWhy3jKIxJF1uarbFguhXYPoDJ.jpg"
+      },
+      {
+        "id": "tt39847051:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zCu04yHe6gpNwl1Ukm2BkuZuCC.jpg"
+      }
+    ]
+  }
+}

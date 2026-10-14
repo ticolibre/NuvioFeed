@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "tt7653274",
+    "type": "series",
+    "name": "All or Nothing: Manchester City",
+    "poster": "https://image.tmdb.org/t/p/w500/2Q3mKXNX7rm2kyPesS9KEFs8VcN.jpg",
+    "posterShape": "poster",
+    "description": "En esta revolucionaria serie documental, seguiremos al club de fútbol Manchester City detrás de su victoria en la Premier League y durante su temporada récord del 2017 y 2018.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/qPbuuV58CuPnGt02N03Wf6erZNP.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt7653274:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lmz1E5DnmpP0lNd2RXClvZ7Pd9o.jpg"
+      },
+      {
+        "id": "tt7653274:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/paZqlQckHSuvn1RaQpMX2eckMdb.jpg"
+      },
+      {
+        "id": "tt7653274:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k0er6aaY6B8uHzHdtM2kP4RXAim.jpg"
+      },
+      {
+        "id": "tt7653274:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o9uXxmRC8MC4MWMjxA4ht4S5tFF.jpg"
+      },
+      {
+        "id": "tt7653274:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6EzBldFIhOWOArZUXctNkeBUv6I.jpg"
+      },
+      {
+        "id": "tt7653274:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xdyVayBwm2L1SKaCA5Jc8KIjpsK.jpg"
+      },
+      {
+        "id": "tt7653274:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4tPY11WzdZKxDLM4EtmVoF8GlpU.jpg"
+      },
+      {
+        "id": "tt7653274:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2018-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v5nfgyX5U49ZuhLn0dF0iN6tm1N.jpg"
+      }
+    ]
+  }
+}

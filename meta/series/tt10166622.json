@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt10166622",
+    "type": "series",
+    "name": "The Dropout: Auge y caída de Elizabeth Holmes",
+    "poster": "https://image.tmdb.org/t/p/w500/qh325jz8pfSMbW88lzeg1Ikb7JK.jpg",
+    "posterShape": "poster",
+    "description": "Dinero. Romance. Tragedia. Engaño. The Dropout es la historia de Elizabeth Holmes y Theranos, una increíble historia de ambición y fama que salió terriblemente mal. ¿Cómo es que la multimillonaria más joven del mundo lo perdió todo en un abrir y cerrar de ojos?",
+    "releaseInfo": "2022",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/6IfAtLsAtBhe8AXmThLb0EU32fN.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10166622:1:1",
+        "title": "Tengo prisa",
+        "season": 1,
+        "episode": 1,
+        "overview": "Elizabeth Holmes abandona Stanford para fundar una nueva empresa de análisis de sangre.",
+        "released": "2022-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bNO1K0IXvfck9YVXZ6FP0SxneSW.jpg"
+      },
+      {
+        "id": "tt10166622:1:2",
+        "title": "Satori",
+        "season": 1,
+        "episode": 2,
+        "overview": "Elizabeth lleva su tecnología a los inversores de capital riesgo de Silicon Valley.",
+        "released": "2022-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/foeCyyjCg87C2xsP0f4zTvEo8Qr.jpg"
+      },
+      {
+        "id": "tt10166622:1:3",
+        "title": "Jugo verde",
+        "season": 1,
+        "episode": 3,
+        "overview": "A medida que Theranos se expande rápidamente, la tecnología de Elizabeth lucha por seguir el ritmo.",
+        "released": "2022-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sJk7141t1hzHDkfkjAPwZMfH9vD.jpg"
+      },
+      {
+        "id": "tt10166622:1:4",
+        "title": "Viejos blancos",
+        "season": 1,
+        "episode": 4,
+        "overview": "Elizabeth convence a Walgreens para que cierre el trato de una nueva asociación con Theranos.",
+        "released": "2022-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vhoYsT0pktLOKjTS7GBZXI9qeCJ.jpg"
+      },
+      {
+        "id": "tt10166622:1:5",
+        "title": "Flor de la vida",
+        "season": 1,
+        "episode": 5,
+        "overview": "Elizabeth y Sunny se esfuerzan por encontrar soluciones a sus fracasos tecnológicos.",
+        "released": "2022-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8HQhe7rlN7i46WyrYrtU3jnFfJe.jpg"
+      },
+      {
+        "id": "tt10166622:1:6",
+        "title": "Hermanas de hierro",
+        "season": 1,
+        "episode": 6,
+        "overview": "Tyler Schultz y Erika Cheung descubren verdades impactantes sobre Elizabeth y la empresa.",
+        "released": "2022-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/60BbvRpXi5CbVvGk5G4bv61Tl5Z.jpg"
+      },
+      {
+        "id": "tt10166622:1:7",
+        "title": "Héroes",
+        "season": 1,
+        "episode": 7,
+        "overview": "Bajo un intenso escrutinio, Elizabeth y Sunny redoblan su defensa.",
+        "released": "2022-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zIpOIQ5D49W282G5DaniucpedFB.jpg"
+      },
+      {
+        "id": "tt10166622:1:8",
+        "title": "Lizzy",
+        "season": 1,
+        "episode": 8,
+        "overview": "A raíz del artículo del Wall Street Journal, Elizabeth y Sunny se enfrentan a un ajuste de cuentas.",
+        "released": "2022-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bQqUug8zavqAdZNbsWkiYprpL4w.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "id": "tt35466672",
+    "type": "series",
+    "name": "Malcolm in the Middle: La vida sigue siendo injusta",
+    "poster": "https://image.tmdb.org/t/p/w500/65VaeGPDrKYU8TIyMjnDmeFUqY0.jpg",
+    "posterShape": "poster",
+    "description": "Han pasado veinte años, y Malcolm y su familia siguen sin aprender nada.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/uekZzyLReK777QKO9xKwiPOelCQ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt35466672:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "overview": "¡Oye, es el niño genio y raro! Todo le salió bien. Espera, ¡wow! Eso no me lo esperaba.",
+        "released": "2026-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/euQUHCCiaTM7DZyULE4AIYsYVcD.jpg"
+      },
+      {
+        "id": "tt35466672:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "overview": "Si es tan listo, ¿cómo lo arruinó todo tan rápido? Quizás su papá pueda ayudar. Uf, mejor olvídalo.",
+        "released": "2026-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mLSBftIQaBOWTMXWjnqRmrqMe5f.jpg"
+      },
+      {
+        "id": "tt35466672:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "overview": "¡Qué locura! Peleas, amor juvenil, secretos oscuros, secuestros... ¡Espera! No te la arruino.",
+        "released": "2026-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mBrq6XJD8AqcS1bzFB7SEkLJ84b.jpg"
+      },
+      {
+        "id": "tt35466672:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "overview": "¿Resolver tantos problemas en un episodio? Imposible. Pero quiero ver que lo intenten.",
+        "released": "2026-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p81euZyFRN2VwogyyX8VZfBjMAk.jpg"
+      }
+    ]
+  }
+}

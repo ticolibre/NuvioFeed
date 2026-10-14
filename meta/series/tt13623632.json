@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "id": "tt13623632",
+    "type": "series",
+    "name": "Alien: Earth",
+    "poster": "https://image.tmdb.org/t/p/w500/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
+    "posterShape": "poster",
+    "description": "Cuando una misteriosa nave espacial se estrella en la Tierra, una joven y un grupo heterogéneo de soldados tácticos hacen un descubrimiento fatídico que los pone cara a cara con la mayor amenaza del planeta.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt13623632:1:1",
+        "title": "El País de Nunca Jamás",
+        "season": 1,
+        "episode": 1,
+        "overview": "Tras estrellarse una nave espacial en la Tierra, una mujer busca a su hermano.",
+        "released": "2025-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d4cydmliyqDZyBWkxkliiED4B0G.jpg"
+      },
+      {
+        "id": "tt13623632:1:2",
+        "title": "Mr. October",
+        "season": 1,
+        "episode": 2,
+        "overview": "Crece la tensión entre empresas rivales, hay un reencuentro inesperado y un secreto sale a la luz.",
+        "released": "2025-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg"
+      },
+      {
+        "id": "tt13623632:1:3",
+        "title": "Metamorfosis",
+        "season": 1,
+        "episode": 3,
+        "overview": "El equipo regresa con una carga inesperada y un experimento inquietante se lleva a cabo.",
+        "released": "2025-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg"
+      },
+      {
+        "id": "tt13623632:1:4",
+        "title": "Observación",
+        "season": 1,
+        "episode": 4,
+        "overview": "Cuando una conspiración encubierta amenaza a todos, se genera un vínculo inesperado.",
+        "released": "2025-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg"
+      },
+      {
+        "id": "tt13623632:1:5",
+        "title": "En el espacio, nadie...",
+        "season": 1,
+        "episode": 5,
+        "overview": "Una nave en peligro en el espacio exterior lleva a un peligroso ajuste de cuentas.",
+        "released": "2025-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg"
+      },
+      {
+        "id": "tt13623632:1:6",
+        "title": "El vuelo",
+        "season": 1,
+        "episode": 6,
+        "overview": "Se enfrentan poderosos enemigos, aumenta la tensión, y la curiosidad lleva a consecuencias mortales.",
+        "released": "2025-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ppYjI7rPvsZznQr59XzysFUZTsY.jpg"
+      },
+      {
+        "id": "tt13623632:1:7",
+        "title": "Emergencia",
+        "season": 1,
+        "episode": 7,
+        "overview": "Un plan de escape desata divisiones, traiciones y un impactante enfrentamiento.",
+        "released": "2025-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg"
+      },
+      {
+        "id": "tt13623632:1:8",
+        "title": "Los verdaderos monstruos",
+        "season": 1,
+        "episode": 8,
+        "overview": "Surge una nueva dinámica de poder",
+        "released": "2025-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tssL6QBaKUkdXtmPUidrsREIEX5.jpg"
+      }
+    ]
+  }
+}

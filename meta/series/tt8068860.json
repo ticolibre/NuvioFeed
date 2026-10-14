@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "id": "tt8068860",
+    "type": "series",
+    "name": "Servant",
+    "poster": "https://image.tmdb.org/t/p/w500/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
+    "posterShape": "poster",
+    "description": "Una pareja de Philadelphia, de luto tras suceder una horrible tragedia, crea una grieta en su matrimonio que abre la puerta a una misteriosa fuerza que entra en su hogar.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7nsRpSCYcDGLcDmFAISHC8zMQ0D.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt8068860:1:1",
+        "title": "Renacer",
+        "season": 1,
+        "episode": 1,
+        "overview": "Leanne es contratada como niñera de Jericho, pero nada es lo que parece.",
+        "released": "2019-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/djszHnqbO7fd8M7KHns5eUDA6Ig.jpg"
+      },
+      {
+        "id": "tt8068860:1:2",
+        "title": "Madera",
+        "season": 1,
+        "episode": 2,
+        "overview": "A Sean le preocupa que Dorothy y Jericho no estén en buenas manos.",
+        "released": "2019-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9jOxttHrQU7HyuwrT21GoZyAovT.jpg"
+      },
+      {
+        "id": "tt8068860:1:3",
+        "title": "Anguila",
+        "season": 1,
+        "episode": 3,
+        "overview": "Sean le pide al hermano de Dorothy que vigile la relación entre ella y Leanne.",
+        "released": "2019-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zIxOVwmdeOUtZZ5jeIlCVa1o4Ve.jpg"
+      },
+      {
+        "id": "tt8068860:1:4",
+        "title": "Oso",
+        "season": 1,
+        "episode": 4,
+        "overview": "Leanne desobedece una orden y descubre por qué Sean protege tanto a Jericho.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pQ0mHlb73e7rdcgyWmNLGGFrp79.jpg"
+      },
+      {
+        "id": "tt8068860:1:5",
+        "title": "Grillo",
+        "season": 1,
+        "episode": 5,
+        "overview": "Dorothy y Sean se van todo un día y Leanne hace un nuevo amigo.",
+        "released": "2019-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9MiIexC3CrO2m2melcaeU9ajBoM.jpg"
+      },
+      {
+        "id": "tt8068860:1:6",
+        "title": "Lluvia",
+        "season": 1,
+        "episode": 6,
+        "overview": "El extraño tío de Leanne llega por sorpresa. Dorothy lucha por quedarse con su niñera.",
+        "released": "2019-12-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h61UmOjjgjZrFGdwvmfdwVOHsUW.jpg"
+      },
+      {
+        "id": "tt8068860:1:7",
+        "title": "Haggis",
+        "season": 1,
+        "episode": 7,
+        "overview": "Dorothy organiza una cena. Sean le confía a Leanne un secreto.",
+        "released": "2019-12-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPxi3hlf3xhaq9XozBjaDjioLbc.jpg"
+      },
+      {
+        "id": "tt8068860:1:8",
+        "title": "Boba",
+        "season": 1,
+        "episode": 8,
+        "overview": "Julian revive un oscuro recuerdo durante una noche cuidando a su sobrino.",
+        "released": "2020-01-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z6YEtBbX5QeBEUaFyHrEN6V73S1.jpg"
+      },
+      {
+        "id": "tt8068860:1:9",
+        "title": "Jericho",
+        "season": 1,
+        "episode": 9,
+        "overview": "Leanne arremete contra Dorothy al enterarse de la verdad sobre Jericho.",
+        "released": "2020-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p3h2WbXiG8mqj4mVKUJEcBFCwle.jpg"
+      },
+      {
+        "id": "tt8068860:1:10",
+        "title": "Globo",
+        "season": 1,
+        "episode": 10,
+        "overview": "Tras el bautizo de Jericho, unos invitados no deseados fuerzan decisiones difíciles.",
+        "released": "2020-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xH7uFDoDVKFZddNCyIbAz2X8wal.jpg"
+      },
+      {
+        "id": "tt8068860:2:1",
+        "title": "Muñeco",
+        "season": 2,
+        "episode": 1,
+        "overview": "Jericho y Leanne están desaparecidos. Dorothy crea un plan de 72 horas, mientras Sean y Julian continúan ocultando la verdad.",
+        "released": "2021-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nJ4yg2b6noMETHuv7WT3VTDA5u8.jpg"
+      },
+      {
+        "id": "tt8068860:2:2",
+        "title": "Astronauta",
+        "season": 2,
+        "episode": 2,
+        "overview": "Con la ayuda de Natalie, Sean y Julian descubren detalles inquietantes acerca del culto. Dorothy sacrifica la reputación de su carrera por su familia.",
+        "released": "2021-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r0ExeG7nynRJS5DRZdaRpAkpqUg.jpg"
+      },
+      {
+        "id": "tt8068860:2:3",
+        "title": "Pizza",
+        "season": 2,
+        "episode": 3,
+        "overview": "Los Turner abren un negocio familiar como tapadera para una misión más importante.",
+        "released": "2021-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/faIDKSUZuAGnos0Tv3byj5mhaxl.jpg"
+      },
+      {
+        "id": "tt8068860:2:4",
+        "title": "2:00",
+        "season": 2,
+        "episode": 4,
+        "overview": "Con un nuevo invitado en la casa, Dorothy recurre a tácticas desesperadas para obtener lo que quiere.",
+        "released": "2021-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lmoWmvoa3Ngt06fxDkeUu0f8BeR.jpg"
+      },
+      {
+        "id": "tt8068860:2:5",
+        "title": "Cake",
+        "season": 2,
+        "episode": 5,
+        "overview": "Los Turner se apresuran para ir a una reunión decisiva. Leanne prepara un misterioso pastel.",
+        "released": "2021-02-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xwyEUcA8Ecce5SYi15EEyaQ92Aq.jpg"
+      },
+      {
+        "id": "tt8068860:2:6",
+        "title": "Expreso",
+        "season": 2,
+        "episode": 6,
+        "overview": "Un visitante inesperado lleva a todos al límite. Sean reexamina su pasado y Dorothy intenta negociar un intercambio delicado.",
+        "released": "2021-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wgSdhm4EFRXPVegl61ahLEZlFM8.jpg"
+      },
+      {
+        "id": "tt8068860:2:7",
+        "title": "Marino",
+        "season": 2,
+        "episode": 7,
+        "overview": "La tragedia de la familia Marino genera más preguntas sobre Leanne. La presencia del tío George en la casa les crea problemas a los Turner.",
+        "released": "2021-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fOL2ZzGPLHtujxhKGSxYPjU14dM.jpg"
+      },
+      {
+        "id": "tt8068860:2:8",
+        "title": "Nido de amor",
+        "season": 2,
+        "episode": 8,
+        "overview": "Dorothy y Sean reciben una señal esperanzada. Leanne y Julian se empiezan a conocer mejor.",
+        "released": "2021-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3fclZWheQbHXzINxOJtK81SPlJa.jpg"
+      },
+      {
+        "id": "tt8068860:2:9",
+        "title": "Ganso",
+        "season": 2,
+        "episode": 9,
+        "overview": "Mientras esperan por el regeso de Jericho, Dorothy y Sean aparentan que todo está bien en una tensa comida de Nochebuena.",
+        "released": "2021-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iW4r66qI1grKVWdjv4lgM8pcqwo.jpg"
+      },
+      {
+        "id": "tt8068860:2:10",
+        "title": "Josephine",
+        "season": 2,
+        "episode": 10,
+        "overview": "Una llegada inesperada amenaza con destruir a Dorothy y a Sean, dejando a Leanne sola.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tGWwPI7KmC7XvFluVWviGByyq1X.jpg"
+      },
+      {
+        "id": "tt8068860:3:1",
+        "title": "Burro",
+        "season": 3,
+        "episode": 1,
+        "overview": "Tres meses después del ataque, los Turner van a la playa. Sola en casa, Leanne tiene un día más emocionante de lo que esperaba.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cJnPLp0MFbxLT1RsmdcfKt9JatZ.jpg"
+      },
+      {
+        "id": "tt8068860:3:2",
+        "title": "Colmena",
+        "season": 3,
+        "episode": 2,
+        "overview": "Dorothy recibe a un grupo de mamás con sus bebés, pero Leanne opina que no debería confiar en extraños.",
+        "released": "2022-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zNvfwPDIXVofaae6uDXDMmhJPmM.jpg"
+      },
+      {
+        "id": "tt8068860:3:3",
+        "title": "Cabello",
+        "season": 3,
+        "episode": 3,
+        "overview": "Julian busca la verdad sobre Jericho. Los nuevos visitantes del parque inquietan a Leanne.",
+        "released": "2022-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ccAiHrIC9R8Dk9wKaV890HliHKr.jpg"
+      },
+      {
+        "id": "tt8068860:3:4",
+        "title": "Anillo",
+        "season": 3,
+        "episode": 4,
+        "overview": "Leanne sigue desconfiando de otras personas. La mala suerte llega al hogar de los Turner.",
+        "released": "2022-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5p2oOuC5hc5tBxJhh3GdpRZ1uml.jpg"
+      },
+      {
+        "id": "tt8068860:3:5",
+        "title": "Tigre",
+        "season": 3,
+        "episode": 5,
+        "overview": "Los Turner asisten a una fiesta barrial en la calle Spruce. Leanne al fin se siente cómoda fuera de casa, pero el peligro la acecha.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a1nqGP4S3RLP04ZuSVRr50v5fYV.jpg"
+      },
+      {
+        "id": "tt8068860:3:6",
+        "title": "Pez",
+        "season": 3,
+        "episode": 6,
+        "overview": "La cena de Sean se arruina cuando Leanne es grosera con un invitado. Dorothy descubre detalles aterradores de la fiesta barrial.",
+        "released": "2022-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kCtsGYy54odBbClwkhBtgLjUQC7.jpg"
+      },
+      {
+        "id": "tt8068860:3:7",
+        "title": "Campamento",
+        "season": 3,
+        "episode": 7,
+        "overview": "Dorothy y Veera se unen para echar a Leanne de la casa, pero Jericho y Leanne están más conectados de lo que creen.",
+        "released": "2022-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f8M2ZdGVnblvfqxzF0ItxkYvY11.jpg"
+      },
+      {
+        "id": "tt8068860:3:8",
+        "title": "Dona",
+        "season": 3,
+        "episode": 8,
+        "overview": "Isabelle amenaza a Dorothy con hacer público su pasado.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tsVklbvfCL8DmSWZWnoMtjbfjq9.jpg"
+      },
+      {
+        "id": "tt8068860:3:9",
+        "title": "Compromiso",
+        "season": 3,
+        "episode": 9,
+        "overview": "Dorothy y Frank hacen un plan para echar a Leanne del hogar de los Turner de una vez por todas.",
+        "released": "2022-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wkRtyDrCCsiYQnBlYOwbPv9jAHv.jpg"
+      },
+      {
+        "id": "tt8068860:3:10",
+        "title": "Mamá",
+        "season": 3,
+        "episode": 10,
+        "overview": "Dorothy hace un plan final desesperado.",
+        "released": "2022-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wQVHfcPabtoZH86V8tnCJiQNXW5.jpg"
+      },
+      {
+        "id": "tt8068860:4:1",
+        "title": "Paloma",
+        "season": 4,
+        "episode": 1,
+        "overview": "La guerra entre Leanne y la Iglesia de los Santos Menores llega a su clímax.",
+        "released": "2023-01-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/95ou0DRwlyd89VsFGFWNlb2Y9Yn.jpg"
+      },
+      {
+        "id": "tt8068860:4:2",
+        "title": "Comezón",
+        "season": 4,
+        "episode": 2,
+        "overview": "Leanne comienza a atormentar a Dorothy mientras la calle Spruce es sumida en caos.",
+        "released": "2023-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fVzLTAf8NjXVhrhimOXR4aM7t4v.jpg"
+      },
+      {
+        "id": "tt8068860:4:3",
+        "title": "Espiritista",
+        "season": 4,
+        "episode": 3,
+        "overview": "Dorothy contrata a dos enfermeras de tiempo completo para ayudarla en su recuperación... y protegerla de Leanne.",
+        "released": "2023-01-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yBB5uJZ7uHARLNudD4khENLtohs.jpg"
+      },
+      {
+        "id": "tt8068860:4:4",
+        "title": "Buu",
+        "season": 4,
+        "episode": 4,
+        "overview": "Sean se da cuenta de quién es Leanne mientras ella caza a sus enemigos en Halloween.",
+        "released": "2023-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uVuhmry8zR4Yy1LKVrh6H2p9q5K.jpg"
+      },
+      {
+        "id": "tt8068860:4:5",
+        "title": "Vecinos",
+        "season": 4,
+        "episode": 5,
+        "overview": "Sean y Dorothy invitan a los nuevos vecinos de la calle Spruce con un plan para al fin sacar a Leanne de la casa.",
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aXJZdgyvyJbTYLATCfXWtimgnzt.jpg"
+      },
+      {
+        "id": "tt8068860:4:6",
+        "title": "Zoológico",
+        "season": 4,
+        "episode": 6,
+        "overview": "Una fiesta de cumpleaños se torna infernal cuando el culto intenta su jugada más arriesgada contra Leanne.",
+        "released": "2023-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sEWDkfppIM2x6ZeRc2tnq9Q5fdF.jpg"
+      },
+      {
+        "id": "tt8068860:4:7",
+        "title": "Mito",
+        "season": 4,
+        "episode": 7,
+        "overview": "Dorothy descubre una conexión con Leanne. El tío George comparte información con los Turner.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/egWr4J3hKPkRfOKc5w6AAZYeHFd.jpg"
+      },
+      {
+        "id": "tt8068860:4:8",
+        "title": "Túneles",
+        "season": 4,
+        "episode": 8,
+        "overview": "Sean y Julian toman una decisión sobre Leanne.",
+        "released": "2023-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tV1vmdhEI7GPayAJJydOTUIKbZU.jpg"
+      },
+      {
+        "id": "tt8068860:4:9",
+        "title": "Despertar",
+        "season": 4,
+        "episode": 9,
+        "overview": "Sean y Julian se sinceran sobre un secreto.",
+        "released": "2023-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/waOM6QEkId7GxGdd1zu85ZhbRoj.jpg"
+      },
+      {
+        "id": "tt8068860:4:10",
+        "title": "Caída",
+        "season": 4,
+        "episode": 10,
+        "overview": "Mientras el mundo se desmorona, ¿alguien podrá detener a Leanne?",
+        "released": "2023-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/opT5PXRfmzflwRzVCGFlkq12Klu.jpg"
+      }
+    ]
+  }
+}

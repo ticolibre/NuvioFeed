@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "id": "tt12306692",
+    "type": "series",
+    "name": "American Horror Stories",
+    "poster": "https://image.tmdb.org/t/p/w500/8b9FGJ9WhpkeGFOHYgKjPT5AXS6.jpg",
+    "posterShape": "poster",
+    "description": "Es el drama que cuenta en cada episodio una nueva historia de terror, diferente al anterior, y protagonizada por uno de los personajes de American Horror Story.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/r2ogqivZ9dwpU4ya7EKHA9kMcrL.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt12306692:1:1",
+        "title": "Mujer de látex",
+        "season": 1,
+        "episode": 1,
+        "overview": "Una adolescente y sus padres se mudan a una casa abandonada con un pasado sombrío.",
+        "released": "2021-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mqHMrPiTDrE7wPlCFmlASS1aBhe.jpg"
+      },
+      {
+        "id": "tt12306692:1:2",
+        "title": "Mujer de látex parte 2",
+        "season": 1,
+        "episode": 2,
+        "overview": "Scarlett comienza un nuevo y retorcido romance. Michael y Troy afrontan su inestable relación.",
+        "released": "2021-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kECJcX6a9EBylGuh6kxwJzdiDXv.jpg"
+      },
+      {
+        "id": "tt12306692:1:3",
+        "title": "Autocine",
+        "season": 1,
+        "episode": 3,
+        "overview": "La proyección de una película prohibida tiene consecuencias desastrosas.",
+        "released": "2021-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pVgenF9p4Eg3UB76IHVA80F7n6g.jpg"
+      },
+      {
+        "id": "tt12306692:1:4",
+        "title": "La lista de los traviesos",
+        "season": 1,
+        "episode": 4,
+        "overview": "Un grupo de influencers se enfrenta a un ajuste de cuentas tras publicar un video problemático.",
+        "released": "2021-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sxpExSiylQzGE3GZ1KHaV2GnBDh.jpg"
+      },
+      {
+        "id": "tt12306692:1:5",
+        "title": "BA'AL",
+        "season": 1,
+        "episode": 5,
+        "overview": "Una esposa hace lo impensable por la oportunidad de tener un embarazo exitoso.",
+        "released": "2021-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cOTSrZXUWuVuLL2FmoDuUXMnZBh.jpg"
+      },
+      {
+        "id": "tt12306692:1:6",
+        "title": "Salvaje",
+        "season": 1,
+        "episode": 6,
+        "overview": "Una familia se va de campamento sin saber lo que acecha en el bosque.",
+        "released": "2021-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8htU1QMf2GD4rFiLxjs47BdSI9f.jpg"
+      },
+      {
+        "id": "tt12306692:1:7",
+        "title": "Juego terminado",
+        "season": 1,
+        "episode": 7,
+        "overview": "Una pareja se atreve a pasar la noche en una de las casas embrujadas más infames.",
+        "released": "2021-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nSksRvEUA9UqX7RJ2XVBB89uLUA.jpg"
+      },
+      {
+        "id": "tt12306692:2:1",
+        "title": "Casa de muñecas",
+        "season": 2,
+        "episode": 1,
+        "overview": "Una entrevista de trabajo sale terriblemente mal.",
+        "released": "2022-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ahRT3uTtcsxniQ9YeMlzidzstZI.jpg"
+      },
+      {
+        "id": "tt12306692:2:2",
+        "title": "Aura",
+        "season": 2,
+        "episode": 2,
+        "overview": "Tras mudarse a un nuevo hogar, un matrimonio es aterrorizado por un críptico visitante.",
+        "released": "2022-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b30dqD4u2J6FaYGzW0VgkWAFXac.jpg"
+      },
+      {
+        "id": "tt12306692:2:3",
+        "title": "Conduce",
+        "season": 2,
+        "episode": 3,
+        "overview": "La vida de una chica de club da un vuelco cuando la vida nocturna comienza a seguirla hasta su casa.",
+        "released": "2022-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3DqXZe0WuSHq0JaxWeSqrV1Z2SK.jpg"
+      },
+      {
+        "id": "tt12306692:2:4",
+        "title": "Lecheras",
+        "season": 2,
+        "episode": 4,
+        "overview": "Una marginada lo arriesga todo para salvar a su pequeño pueblo de la devastación.",
+        "released": "2022-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f2ZXIwOBYIZL7gpPC5vms0LrRHy.jpg"
+      },
+      {
+        "id": "tt12306692:2:5",
+        "title": "Bloody Mary",
+        "season": 2,
+        "episode": 5,
+        "overview": "Un grupo de adolescentes se horroriza al descubrir que cada deseo tiene un precio.",
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9WyDrfTMca6ONOMcO1AjnQh7Ho9.jpg"
+      },
+      {
+        "id": "tt12306692:2:6",
+        "title": "Estiramiento facial",
+        "season": 2,
+        "episode": 6,
+        "overview": "Una mujer desesperada por lucir bien hace lo impensable.",
+        "released": "2022-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fEMXfqUAqqcaMYLmApQubwIHBF3.jpg"
+      },
+      {
+        "id": "tt12306692:2:7",
+        "title": "Necro",
+        "season": 2,
+        "episode": 7,
+        "overview": "Un joven funerario descubre que los vivos son más aterradores que los muertos.",
+        "released": "2022-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ka3EgflO93lmHfMGkVrjhIAWWRC.jpg"
+      },
+      {
+        "id": "tt12306692:2:8",
+        "title": "Lago",
+        "season": 2,
+        "episode": 8,
+        "overview": "Un misterioso ahogamiento revela secretos en el fondo del lago.",
+        "released": "2022-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yMtpnXxf0NOY2d5JX7LW5ZS9n40.jpg"
+      },
+      {
+        "id": "tt12306692:3:1",
+        "title": "Mejor Amiga",
+        "season": 3,
+        "episode": 1,
+        "overview": "Una joven afligida busca conexión en una misteriosa amistad en línea.",
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1BrhxQnA7mgcrCAa1r8rISqqstg.jpg"
+      },
+      {
+        "id": "tt12306692:3:2",
+        "title": "Daphne",
+        "season": 3,
+        "episode": 2,
+        "overview": "Un dispositivo de inteligencia artifical se encariña con su usuario.",
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bj6vJd1Eaex72hsNyvKyQqqDvSe.jpg"
+      },
+      {
+        "id": "tt12306692:3:3",
+        "title": "Tenia",
+        "season": 3,
+        "episode": 3,
+        "overview": "Una prometedora modelo no se detendrá ante nada en su afán de éxito.",
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5aG470Dih7sS3rluiMZY3O7w6m9.jpg"
+      },
+      {
+        "id": "tt12306692:3:4",
+        "title": "Órgano",
+        "season": 3,
+        "episode": 4,
+        "overview": "Una cita a ciegas a través de una aplicación de citas sale muy mal.",
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3KEZzRPLcWqgnRkeheE1g8uuA7M.jpg"
+      },
+      {
+        "id": "tt12306692:3:5",
+        "title": "Trastiendas",
+        "season": 3,
+        "episode": 5,
+        "overview": "Un padre desesperado hará cualquier cosa por una oportunidad de encontrar a su hijo desaparecido.",
+        "released": "2024-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6xrwefN4T2GJb7bMPIiJuOZSogw.jpg"
+      },
+      {
+        "id": "tt12306692:3:6",
+        "title": "Clon",
+        "season": 3,
+        "episode": 6,
+        "overview": "Tras un accidente, un multimillonario le encarga a un clon que lo sustituya.",
+        "released": "2024-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Afuh1SgHaO3onkdF5DORyBwkWB.jpg"
+      },
+      {
+        "id": "tt12306692:3:7",
+        "title": "X",
+        "season": 3,
+        "episode": 7,
+        "overview": "Tras la desaparición de una peligrosa paciente, una decidida enfermera se propone encontrarla.",
+        "released": "2024-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8pPudSB0wmZfrylRJIq1iLULaRv.jpg"
+      },
+      {
+        "id": "tt12306692:3:8",
+        "title": "Duende",
+        "season": 3,
+        "episode": 8,
+        "overview": "Para llegar a fin de mes, un grupo de obreros desempleados asalta un banco.",
+        "released": "2024-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/avOBKyKQLGVcY3u1cGpYzK8Lck7.jpg"
+      },
+      {
+        "id": "tt12306692:3:9",
+        "title": "La cosa bajo la cama",
+        "season": 3,
+        "episode": 9,
+        "overview": "Una esposa afligida desentraña la siniestra historia de su barrio.",
+        "released": "2024-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aPnsBDNePUrvCXkgkGkYPkhkTDT.jpg"
+      }
+    ]
+  }
+}
