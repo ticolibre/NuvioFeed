@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): Trending, Top Rated, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture winners & nominees. Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA and Independent Spirit winners. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -145,19 +145,8 @@
     },
     {
       "type": "movie",
-      "id": "top-rated-movies",
-      "name": "Top Rated Movies",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "top-rated-series",
-      "name": "Top Rated Series",
+      "id": "ghibli",
+      "name": "Studio Ghibli",
       "extra": [
         {
           "name": "skip",
@@ -167,8 +156,30 @@
     },
     {
       "type": "movie",
-      "id": "ghibli",
-      "name": "Studio Ghibli",
+      "id": "globes-drama",
+      "name": "Golden Globes: Best Drama",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "bafta-best-film",
+      "name": "BAFTA: Best Film",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "spirit-best-feature",
+      "name": "Independent Spirit: Best Feature",
       "extra": [
         {
           "name": "skip",

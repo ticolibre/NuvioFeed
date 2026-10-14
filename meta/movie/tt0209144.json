@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0209144",
+    "type": "movie",
+    "name": "Amnesia",
+    "poster": "https://image.tmdb.org/t/p/w500/4fyZ1u4amzo5a5dIxUApACIvsl1.jpg",
+    "posterShape": "poster",
+    "description": "Un hombre con pérdida de memoria a corto plazo intenta localizar al asesino de su esposa.",
+    "releaseInfo": "2000",
+    "genres": [
+      "Misterio",
+      "Suspense"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    }
+  }
+}
