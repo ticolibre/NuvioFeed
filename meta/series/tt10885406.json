@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "id": "tt10885406",
+    "type": "series",
+    "name": "Ascendance of a Bookworm",
+    "poster": "https://image.tmdb.org/t/p/w500/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+    "posterShape": "poster",
+    "description": "Motosu Urano era una estudiante universitaria y ávida lectora que murió en un desafortunado e inoportuno accidente. Por fin había recibido la noticia de que trabajaría entre libros como siempre soñó.\n\nCuando recuperó el sentido ya no era ella misma, había renacido como Myne, la hija de un soldado de bajo nivel adquisitivo. Su nuevo hogar era el pueblo de Ehrenfest, en un mundo paralelo en el que un incuestionable sistema de clases daba poder absoluto a los nobles, quienes poseían la capacidad de usar magia.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10885406:1:1",
+        "title": "Un mundo sin libros",
+        "season": 1,
+        "episode": 1,
+        "overview": "Urano acaba de morir tras encontrar el que era el trabajo de sus sueños en una biblioteca, pero se despierta en el cuerpo de una niña de otro mundo. ¿Cómo es posible? Pero no importa, con tener un libro cerca ella podrá superar cualquier cosa.",
+        "released": "2019-10-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pjxGf8sZLiuy4GUAprUVtsh6RWn.jpg"
+      },
+      {
+        "id": "tt10885406:1:2",
+        "title": "Mejoras cotidianas y una pizarra",
+        "season": 1,
+        "episode": 2,
+        "overview": "Myne acude con su hermana a llevar a su padre una cosa que olvidó en casa, y en su puesto de trabajo descubre por fin algo que puede servirle de papel, ¡e incluso le prometen que le regalarán una pizarra!",
+        "released": "2019-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eFgdLRBmS30ouNHwgitGF06WLez.jpg"
+      },
+      {
+        "id": "tt10885406:1:3",
+        "title": "Asuntos de invierno",
+        "season": 1,
+        "episode": 3,
+        "overview": "Llega el duro invierno y Myne comienza a descubrir cómo viven esa época de frío en su nuevo mundo, aunque no perderá su oportunidad para buscar la forma de crear libros a la vez que conoce mejor a su nueva familia.",
+        "released": "2019-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5JT0aggJZZ9Wg3t3eid5EdQ2FBT.jpg"
+      },
+      {
+        "id": "tt10885406:1:4",
+        "title": "Bosques y tablillas de arcilla",
+        "season": 1,
+        "episode": 4,
+        "overview": "Myne quiere ir al bosque a hacer las tablillas de arcilla que planea, pero su frágil salud es un impedimento, tanto porque no tiene fuerzas suficientes, como porque su padre no lo permitirá. Por suerte para ella, aparece una oportunidad que le vendrá muy bien.",
+        "released": "2019-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eRK0x5InTFpwWFgNM0Z4Ly4qFmO.jpg"
+      },
+      {
+        "id": "tt10885406:1:5",
+        "title": "Bautismos y fiebres extrañas",
+        "season": 1,
+        "episode": 5,
+        "overview": "Llega el día del bautismo de Turi por cumplir los siete años y su camino a la adultez, pero Myne encontrará también una nueva forma de intentar seguir su camino.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1BjyXB4Ng4eKKhcOqQMFgNs9dzY.jpg"
+      },
+      {
+        "id": "tt10885406:1:6",
+        "title": "Reunión",
+        "season": 1,
+        "episode": 6,
+        "overview": "Myne y Lutz se reúnen con el amigo del señor Otto para que Lutz reciba una lección sobre la vida de mercader, aunque Myne con sus ideas sorprenderá gratamente al experimentado mercader.",
+        "released": "2019-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jTJU9KhZ8Zg9jSJkpTS567gD7XC.jpg"
+      },
+      {
+        "id": "tt10885406:1:7",
+        "title": "Brotes de sospecha",
+        "season": 1,
+        "episode": 7,
+        "overview": "Myne y Lutz parten a negociar con el señor Benno sobre su trato con el papel, la venta y otros asuntos de negocio, pero los conocimientos comerciales de Myne sorprenden a quien menos lo espera y...",
+        "released": "2019-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hLypNVEhuZDzYxNbVL8ch9l9Bw.jpg"
+      },
+      {
+        "id": "tt10885406:1:8",
+        "title": "La Myne de Lutz",
+        "season": 1,
+        "episode": 8,
+        "overview": "Myne y Lutz siguen con los preparativos y los inicios de su fábrica de papel inicial, pero las sospechas de Lutz sobre Myne crecen a cada momento, lo que hace que la joven sienta cierta presión en su corazón.",
+        "released": "2019-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t4CvbAjVbSHDEgBf9snGMrLRgVB.jpg"
+      },
+      {
+        "id": "tt10885406:1:9",
+        "title": "La nieta del maestro del gremio",
+        "season": 1,
+        "episode": 9,
+        "overview": "El señor Benno lleva a Lutz y Myne a ver al maestro del gremio para que los registre como mercaderes, aunque para convencerlo tendrán que usar otra de las invenciones de Myne.",
+        "released": "2019-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ncU3lgnaZ7Di8wp4BSaZTwDExdh.jpg"
+      },
+      {
+        "id": "tt10885406:1:10",
+        "title": "Rumbo al segundo invierno",
+        "season": 1,
+        "episode": 10,
+        "overview": "Myne sigue con Lutz y el señor Benno haciendo negocios y preparándose para su futuro, pero cada vez es más patente que necesitará dinero si quiere combatir su fiebre.",
+        "released": "2019-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5Ri09noAc3KuO3MF7ujTwu1qcCx.jpg"
+      },
+      {
+        "id": "tt10885406:1:11",
+        "title": "Decisión de vida o muerte y reunión familiar",
+        "season": 1,
+        "episode": 11,
+        "overview": "Myne cae gravemente enferma por el efecto del Devorador, pero se salva gracias a la ayuda de Frieda, quien le explica qué necesita para sobrevivir y cuáles son sus duras opciones de futuro. Entre todo esto, Myne comienza a darse cuenta de cuánto quiere a su actual familia.",
+        "released": "2019-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vwsH8KdpVlNlFxYgqtI2m5qFmp4.jpg"
+      },
+      {
+        "id": "tt10885406:1:12",
+        "title": "Bautismo y paraíso divino",
+        "season": 1,
+        "episode": 12,
+        "overview": "Myne ha decidido morir con su familia y dejar que el Devorador la consuma, pero el día de su ceremonia de ciudadanía, descubre algo que no esperaba.",
+        "released": "2019-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rp45u4o2ZTl67VE5JZDLEeoK5hj.jpg"
+      },
+      {
+        "id": "tt10885406:1:13",
+        "title": "La decisión de volverse aprendiz de sacerdotisa",
+        "season": 1,
+        "episode": 13,
+        "overview": "Myne ha solicitado ser aprendiz de sacerdotisa dejándose llevar por la biblioteca de la catedral, pero no tardará en descubrir que en su entorno todos se oponen y que la catedral puede ser tanto su salvación como su condena.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/glBfK8jJHEATVpMNo9XCOAAtPFf.jpg"
+      },
+      {
+        "id": "tt10885406:1:14",
+        "title": "Conclusión",
+        "season": 1,
+        "episode": 14,
+        "overview": "Myne y sus padres acuden a la catedral para tratar el tema de su inserción y seguir los consejos del señor Benno, pero el pontífice no parece dispuesto a cumplir más que sus propias exigencias.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1wE8Qsej4w7UsCVFDbHyZ5w5ViV.jpg"
+      },
+      {
+        "id": "tt10885406:1:15",
+        "title": "Aprendiz de sacerdotisa en la catedral",
+        "season": 1,
+        "episode": 15,
+        "overview": "Myne se prepara para comenzar su primer día en la catedral, pero lo que no esperaba era que le asignaran sirvientes. ¿Podrá compaginar su amor por los libros con sus labores en el taller y con lidiar con sus nuevos inesperados subordinados?",
+        "released": "2020-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bgXecoATUV9grGBESiBBV6LhnDF.jpg"
+      },
+      {
+        "id": "tt10885406:1:16",
+        "title": "Hábitos azules y falta de sentido común",
+        "season": 1,
+        "episode": 16,
+        "overview": "Myne comienza su vida en la catedral con una mala experiencia con sus sirvientes asignados, pero no tarda en acudir a Benno para tratar el asunto de su donativo. Además, el sumo sacerdote quiere entrevista a Benno sobre Myne.",
+        "released": "2020-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7p10QpR3FALiHuStUSlPYxgB78z.jpg"
+      },
+      {
+        "id": "tt10885406:1:17",
+        "title": "Necesidades",
+        "season": 1,
+        "episode": 17,
+        "overview": "Myne comienza a comprender que pese a sus problemas con sus sirvientes, ella también es culpable por no ser consciente de las necesidades de estos, así que se plantea la forma de cumplir con su parte para con ellos.",
+        "released": "2020-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9jtE9fs0jLhw5Ouf7fyBEr3anni.jpg"
+      },
+      {
+        "id": "tt10885406:1:18",
+        "title": "Reformas en el orfanato",
+        "season": 1,
+        "episode": 18,
+        "overview": "Myne ha descubierto lo que es la limosna divina, pero cuando comprueba personalmente como viven los niños en ese terrible lugar, su conciencia no la deja ignorar el problema.",
+        "released": "2020-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aSUTB2kJkE1d9Wequ3DSYKM7BNe.jpg"
+      },
+      {
+        "id": "tt10885406:1:19",
+        "title": "Limpieza y festival estelar",
+        "season": 1,
+        "episode": 19,
+        "overview": "Myne comienza a trabajar con los niños del orfanato ofreciéndoles una nueva vida y enseñándoles a trabajar, pero también a divertirse aprovechando un cercano festival.",
+        "released": "2020-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7FaXozsGLPvFZTNmlZ1E083Apdg.jpg"
+      },
+      {
+        "id": "tt10885406:1:20",
+        "title": "El camino por delante de Lutz",
+        "season": 1,
+        "episode": 20,
+        "overview": "Lutz discute con sus padres y huye de casa, preocupando mucho a todos, incluida a Myne, quien traza un plan para poder ayudar a su amigo.",
+        "released": "2020-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rSMzYBni8QizAx2V2CrDZnPRFum.jpg"
+      },
+      {
+        "id": "tt10885406:1:21",
+        "title": "Nuevos sirvientes",
+        "season": 1,
+        "episode": 21,
+        "overview": "Myne recibe la noticia de que su mamá va a tener un bebé, así que quiere prepararle un libro ilustrado como regalo. Para ilustrarlo intenta convertir en su sirviente a Wilma, una chica del orfanato que dibuja muy bien, pero el sumo sacerdote la insta a tomar como sirviente a una experta en música, un arte de los nobles.",
+        "released": "2020-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kuHOustsR0N7o8JlSCxamZfI7rs.jpg"
+      },
+      {
+        "id": "tt10885406:1:22",
+        "title": "Wilma y las Escrituras para niños",
+        "season": 1,
+        "episode": 22,
+        "overview": "Myne se centra en la idea del libro infantil, pero la situación con Wilma, los huérfanos y la necesidad de tinta le dan nuevas ideas reveladoras.",
+        "released": "2020-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9LjV6DcUfMJiDDpWH9ve4dptEbW.jpg"
+      },
+      {
+        "id": "tt10885406:1:23",
+        "title": "Festival de cosecha y estadía en casa",
+        "season": 1,
+        "episode": 23,
+        "overview": "Se acerca el Festival de la Cosecha y los nobles quieren mantener alejada a Myne, así que lanzan un vil ataque contra ella... al que la joven decide sacar partido.",
+        "released": "2020-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dH9cfKuBhBSRUBC71vaHwSTGDbj.jpg"
+      },
+      {
+        "id": "tt10885406:1:24",
+        "title": "Orden de caballeros y solicitudes",
+        "season": 1,
+        "episode": 24,
+        "overview": "Myne debe pasar el invierno en la catedral, algo que no gustará a su familia. Además, deberá atender una petición de la orden de caballeros, aunque no sabe muy bien por qué no lo hace el sumo sacerdote.",
+        "released": "2020-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AbGh7mHBbKvpBRNbLXnezzEengA.jpg"
+      },
+      {
+        "id": "tt10885406:1:25",
+        "title": "Combatiendo el trombe",
+        "season": 1,
+        "episode": 25,
+        "overview": "Myne admira al sumo sacerdote representando sus funciones como caballero, lo que le hace preguntarse qué más podrá hacer. Sin embargo, su estatus de plebeya vuelve a salir a colación cuando los caballeros que deben protegerla la ponen en una situación de riesgo extremo.",
+        "released": "2020-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2HhqISZ9kQPkuvfjZHyng7ukiOm.jpg"
+      },
+      {
+        "id": "tt10885406:1:26",
+        "title": "Mundo de ensueño",
+        "season": 1,
+        "episode": 26,
+        "overview": "La situación con los caballeros llega a su final y Myne debe demostrar su valía ante ellos para hacerse respetar. Luego el sumo sacerdote utilizará cierto artilugio mágico para descubrir de dónde procede la descomunal cantidad de maná de la protagonista.",
+        "released": "2020-06-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3WMcYzoyRQ1aTx0py1JsjxHEvA.jpg"
+      },
+      {
+        "id": "tt10885406:1:27",
+        "title": "El inicio del invierno",
+        "season": 1,
+        "episode": 27,
+        "overview": "Myne se tiene que preparar para el invierno, cuando las fuertes nevadas la obligarán a pasar un largo tiempo en la catedral alejada de su familia, pero para poder financiarse los costes de lo que necesitará llega a un acuerdo con Benno para vender sus primeros libros, aunque la mención de \"otro tipo de tinta\" llamará la atención de un gremio poco deseable.",
+        "released": "2022-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cQDAIjJ6uLxf1vtdpjKi8FoQDEB.jpg"
+      },
+      {
+        "id": "tt10885406:1:28",
+        "title": "Estadía invernal y el futuro",
+        "season": 1,
+        "episode": 28,
+        "overview": "Myne comienza a sentirse muy sola sin su familia en la catedral, y la amenaza de que puedan secuestrarla para aprovecharse de su cantidad de maná o de sus conocimientos es cada vez mayor, con lo que le hacen una propuesta un tanto controvertida.",
+        "released": "2022-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m2X5ZdVN3MlobaYag1UAw99ZNGV.jpg"
+      },
+      {
+        "id": "tt10885406:1:29",
+        "title": "Ceremonia de Ofrenda y primavera",
+        "season": 1,
+        "episode": 29,
+        "overview": "Se acerca la ceremonia de ofrenda y la cantidad de maná de Myne vuelve a ser algo que preocupa al sumo sacerdote, quien irá a explicarle a los padres de la joven la idea de la adopción por parte de una familia noble.",
+        "released": "2022-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t755WHm6XBtV4VYmEUZa5BQA4ix.jpg"
+      },
+      {
+        "id": "tt10885406:1:30",
+        "title": "Oración Primaveral",
+        "season": 1,
+        "episode": 30,
+        "overview": "Llega el día de la Oración Primaveral y las tramas contra Myne siguen su curso, aunque el sumo sacerdote sabe protegerla y tenerla prevenida ante cualquier situación.",
+        "released": "2022-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f8hSuFitTLG48b7RRktZLy8sTMA.jpg"
+      },
+      {
+        "id": "tt10885406:1:31",
+        "title": "El obsequio del sacerdote de hábito azul y regreso a casa",
+        "season": 1,
+        "episode": 31,
+        "overview": "Main por fin puede regresar a casa con su familia, pero el sumo sacerdote tiene unas peticiones que hacerle antes por el bien de evitar que se ponga en peligro.",
+        "released": "2022-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/44Xt7HmZarx2oxJKHSOnCQU5iSg.jpg"
+      },
+      {
+        "id": "tt10885406:1:32",
+        "title": "El niño abandonado y mezcla de colores",
+        "season": 1,
+        "episode": 32,
+        "overview": "Por si Myne no tenía suficientes problemas, el orfanato recibe a un niño abandonado y nadie sabe bien qué hacer con él, pero tendrán que acostumbrarse y cuidar de él.",
+        "released": "2022-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lTZwwnqEITLc69KRNaxfB16iwfj.jpg"
+      },
+      {
+        "id": "tt10885406:1:33",
+        "title": "Delia y Dirk",
+        "season": 1,
+        "episode": 33,
+        "overview": "Dirk parece tener una extraña enfermedad, pero Myne descubre enseguida de qué se trata: es el Devorador.",
+        "released": "2022-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7xfP8qB8YaniPzYoec9NpzfARBw.jpg"
+      },
+      {
+        "id": "tt10885406:1:34",
+        "title": "Sucesos siniestros",
+        "season": 1,
+        "episode": 34,
+        "overview": "Un problema en las puertas de la ciudad comienza a complicar las cosas para Myne, aunque mientras, Delia mete la pata hablando de Dirk con quien no debe.",
+        "released": "2022-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lWFGYxRQaEcfSO16893QQv3uDw0.jpg"
+      },
+      {
+        "id": "tt10885406:1:35",
+        "title": "El amuleto negro",
+        "season": 1,
+        "episode": 35,
+        "overview": "Myne está en apuros. El noble que causó problemas anteriormente ha conseguido entrar en la ciudad, y lo que es peor: viene a llevarse a Dirk.",
+        "released": "2022-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AgHbmrjJm6NFI2RjJGmDeeGSJy7.jpg"
+      },
+      {
+        "id": "tt10885406:1:36",
+        "title": "Bendición",
+        "season": 1,
+        "episode": 36,
+        "overview": "El maná de Main se vuelve loco cuando el sumo sacerdote y Bindewald intentan obligarla a aceptar un contrato irrazonable. Ferdinand aparece entonces y se enfrenta a Bindewald. Sylvester y Karstedt también aparecen finalmente. Bindewald y el sumo sacerdote exigen que Main sea castigada por amenazarlos. Se dictará sentencia sobre todos ellos. Además, a la familia de Main se le comunica una determinada decisión sobre ella...",
+        "released": "2022-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ygc0gp4BMDInHirnVMbEFAHKkEZ.jpg"
+      },
+      {
+        "id": "tt10885406:2:1",
+        "title": "Me he convertido en noble",
+        "season": 2,
+        "episode": 1,
+        "overview": "Myne comienza su nueva vida como Rosemyne. ¡Su primer reto es celebrar las ceremonias de bautizo y adopción!",
+        "released": "2026-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h8MzERW8VqBUH9eXscRrYJCjv2b.jpg"
+      },
+      {
+        "id": "tt10885406:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9X7NOOX450Qum5z7IspFuzmC8sg.jpg"
+      },
+      {
+        "id": "tt10885406:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r4xcnBcTh24UjzFoYaIQXAc1nAe.jpg"
+      },
+      {
+        "id": "tt10885406:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2026-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/67YTiZPf4rCL4R1eHALsUMRSdlI.jpg"
+      },
+      {
+        "id": "tt10885406:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2026-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fEmVS8NEzGj4wM4aguhCKqarO7H.jpg"
+      },
+      {
+        "id": "tt10885406:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2026-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/701XhCTcE0EyNoJyimNKa7SKeta.jpg"
+      },
+      {
+        "id": "tt10885406:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2026-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7OFv2LXGKvUZuHzUHat62Pw1Am3.jpg"
+      },
+      {
+        "id": "tt10885406:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2026-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qnH77Z0mqqqbB3j1sWgnTwVvVaO.jpg"
+      },
+      {
+        "id": "tt10885406:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2026-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Ai5jMAxEpUPPZJ5Jn2ZAoQv3Ai5.jpg"
+      },
+      {
+        "id": "tt10885406:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2026-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbcAT7fbpr561cT3OLJWB4RkB9x.jpg"
+      },
+      {
+        "id": "tt10885406:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2026-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6OtuJA1xBHD1BKzGmsm2W9C4Nxz.jpg"
+      },
+      {
+        "id": "tt10885406:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2026-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ezIwmgQTvRYbI2b4LN5R0PjkUPP.jpg"
+      },
+      {
+        "id": "tt10885406:2:13",
+        "title": "Episodio 13",
+        "season": 2,
+        "episode": 13,
+        "released": "2026-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/609dsDkeIWo4rGC0E1bsgVX827N.jpg"
+      },
+      {
+        "id": "tt10885406:2:14",
+        "title": "Episodio 14",
+        "season": 2,
+        "episode": 14,
+        "released": "2026-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rQrUbtO3iCfZ9t2b5L5eaVSduH.jpg"
+      },
+      {
+        "id": "tt10885406:2:15",
+        "title": "Episodio 15",
+        "season": 2,
+        "episode": 15,
+        "released": "2026-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/30NzTAw9C6mmqobdiP94mhrVpcm.jpg"
+      },
+      {
+        "id": "tt10885406:2:16",
+        "title": "Episodio 16",
+        "season": 2,
+        "episode": 16,
+        "released": "2026-08-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/XT1psr7dqPbPLblwZYWhFgSJs2.jpg"
+      },
+      {
+        "id": "tt10885406:2:17",
+        "title": "Episodio 17",
+        "season": 2,
+        "episode": 17,
+        "released": "2026-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pBubjUwdvHK8G14Mboh9npTMZH8.jpg"
+      },
+      {
+        "id": "tt10885406:2:18",
+        "title": "Episodio 18",
+        "season": 2,
+        "episode": 18,
+        "released": "2026-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z2rYIgnVTjBB6vxAuEfdAVhEM4W.jpg"
+      },
+      {
+        "id": "tt10885406:2:19",
+        "title": "Episodio 19",
+        "season": 2,
+        "episode": 19,
+        "released": "2026-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hvZflMyv4pgdyGXAr88NtfK6xBd.jpg"
+      },
+      {
+        "id": "tt10885406:2:20",
+        "title": "Episodio 20",
+        "season": 2,
+        "episode": 20,
+        "released": "2026-09-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iwvkwu3tD7DRE6cyeBdjbA2fmr8.jpg"
+      },
+      {
+        "id": "tt10885406:2:21",
+        "title": "Episodio 21",
+        "season": 2,
+        "episode": 21,
+        "released": "2026-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2V8dTOFUe9ExQDAzXVDaWjPf4ys.jpg"
+      },
+      {
+        "id": "tt10885406:2:22",
+        "title": "Episodio 22",
+        "season": 2,
+        "episode": 22,
+        "released": "2026-09-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vfmei1QvM4Ejoo2fOLjfHp6nef4.jpg"
+      },
+      {
+        "id": "tt10885406:2:23",
+        "title": "Episodio 23",
+        "season": 2,
+        "episode": 23,
+        "released": "2026-09-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jhr5bFNRN2YYlUlzi5SbQPWAwA6.jpg"
+      },
+      {
+        "id": "tt10885406:2:24",
+        "title": "Episodio 24",
+        "season": 2,
+        "episode": 24,
+        "released": "2026-10-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xH32kQkeZwmxlpROFc1eMshaa1a.jpg"
+      }
+    ]
+  }
+}

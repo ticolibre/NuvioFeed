@@ -53,6 +53,21 @@
       ]
     },
     {
+      "type": "series",
+      "id": "crunchyroll",
+      "name": "Popular on Crunchyroll",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
       "type": "movie",
       "id": "a24",
       "name": "A24 Films",

@@ -1,0 +1,635 @@
+{
+  "meta": {
+    "id": "tt1799631",
+    "type": "series",
+    "name": "Blue Exorcist",
+    "poster": "https://image.tmdb.org/t/p/w500/8TTa91UMjuH3TUqB7dblTZzxSrj.jpg",
+    "posterShape": "poster",
+    "description": "En el mundo existen Assiah, el territorio de los humanos, y Gehenna, el territorio de los demonios. Aunque normalmente estas dos dimensiones no suelen cruzarse, el que los humanos hayan conseguido poseer sustancias materiales hace que estos se adentren en el mundo material. Pero entre los humanos hay quienes pueden exorcizar a dichos demonios: los exorcistas.",
+    "releaseInfo": "2011",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1799631:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2011-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xLY4vKOUTU1m3ptaVUzzL9nEYjm.jpg"
+      },
+      {
+        "id": "tt1799631:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2011-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bNyYgsuk9bjyudLPY3e3PL8MB1U.jpg"
+      },
+      {
+        "id": "tt1799631:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2011-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oI2IEi1qRHNPqWnkfNPmHKVgszR.jpg"
+      },
+      {
+        "id": "tt1799631:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2011-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4JfMjqfZCnbFFvixrrKVh09Ii0d.jpg"
+      },
+      {
+        "id": "tt1799631:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2011-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yg5zy6lLDB6KcVrSNfoS8fpDnwo.jpg"
+      },
+      {
+        "id": "tt1799631:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lIzYur25nKjRxFCsOOsX0nLlBJa.jpg"
+      },
+      {
+        "id": "tt1799631:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2011-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sWP4focFHxiv7JYj85ZUbcplg0m.jpg"
+      },
+      {
+        "id": "tt1799631:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2011-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/81uPwpQJrwLI7phuO152rGHDwbY.jpg"
+      },
+      {
+        "id": "tt1799631:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2011-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oqdF7skj0QZvOQbXjQkzHzvZwUw.jpg"
+      },
+      {
+        "id": "tt1799631:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2011-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nNdoKY1wxret7965DbofelmDHrV.jpg"
+      },
+      {
+        "id": "tt1799631:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2011-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5nblWvu3T3myk2eXRgiwfS2khaR.jpg"
+      },
+      {
+        "id": "tt1799631:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2011-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4zvtPhTVflJd7jIGIKR6x0SiKfr.jpg"
+      },
+      {
+        "id": "tt1799631:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2011-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fOfi6jwgPrQ3xRYGRUd9gHk1em3.jpg"
+      },
+      {
+        "id": "tt1799631:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2011-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fogc2wL4hRDWKUnWSK5WEtLr9d1.jpg"
+      },
+      {
+        "id": "tt1799631:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2011-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iRGJFWqK4c4fP85y8Qj4RuwM48u.jpg"
+      },
+      {
+        "id": "tt1799631:1:16",
+        "title": "Episodio 16",
+        "season": 1,
+        "episode": 16,
+        "released": "2011-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p8OeN3EjxfFswcHSaoQgZMC7Mss.jpg"
+      },
+      {
+        "id": "tt1799631:1:17",
+        "title": "Episodio 17",
+        "season": 1,
+        "episode": 17,
+        "released": "2011-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vB5ggQuGXYdn2hViu7o3sOaUsMc.jpg"
+      },
+      {
+        "id": "tt1799631:1:18",
+        "title": "Episodio 18",
+        "season": 1,
+        "episode": 18,
+        "released": "2011-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1PcTHENbSpaogzmwjLlFhXD6ne4.jpg"
+      },
+      {
+        "id": "tt1799631:1:19",
+        "title": "Episodio 19",
+        "season": 1,
+        "episode": 19,
+        "released": "2011-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rKAVARBYlIHLyeU6lrn1Lz2sgTV.jpg"
+      },
+      {
+        "id": "tt1799631:1:20",
+        "title": "Episodio 20",
+        "season": 1,
+        "episode": 20,
+        "released": "2011-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tnxBtFSQurbIkeNa0I1ZuuhoIiu.jpg"
+      },
+      {
+        "id": "tt1799631:1:21",
+        "title": "Episodio 21",
+        "season": 1,
+        "episode": 21,
+        "released": "2011-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wubQ0MKQx33jrCiC99QUyZ6ZwPJ.jpg"
+      },
+      {
+        "id": "tt1799631:1:22",
+        "title": "Episodio 22",
+        "season": 1,
+        "episode": 22,
+        "released": "2011-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9xJWB1xEi9CLInGubAarXDM0464.jpg"
+      },
+      {
+        "id": "tt1799631:1:23",
+        "title": "Episodio 23",
+        "season": 1,
+        "episode": 23,
+        "released": "2011-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w9lyLjhjT5nI0XJ72D51oyyt1k6.jpg"
+      },
+      {
+        "id": "tt1799631:1:24",
+        "title": "Episodio 24",
+        "season": 1,
+        "episode": 24,
+        "released": "2011-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d8kDKXliOptum0ha97gcgwfH4JM.jpg"
+      },
+      {
+        "id": "tt1799631:1:25",
+        "title": "Episodio 25",
+        "season": 1,
+        "episode": 25,
+        "released": "2011-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pvX4jAnO20in0JPnhhxi3yLqOTp.jpg"
+      },
+      {
+        "id": "tt1799631:2:1",
+        "title": "El comienzo",
+        "season": 2,
+        "episode": 1,
+        "overview": "El robo del ojo izquierdo del rey Impuro deja trunco el entrenamiento de Rin. Para proteger el ojo derecho, los exorcistas se dirigen a Kioto.",
+        "released": "2017-01-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7vqw6IsEm4mSxJvF4nN59eKg3o1.jpg"
+      },
+      {
+        "id": "tt1799631:2:2",
+        "title": "El destino une a los enemigos",
+        "season": 2,
+        "episode": 2,
+        "overview": "El grupo llega a Kioto, donde se hospeda en la posada de la familia Suguro. Casi todos los empleados de la oficina local están heridos y nadie se salva de las sospechas.",
+        "released": "2017-01-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cwbA6Dzp5G1e0fgmRVzFHyQGTg1.jpg"
+      },
+      {
+        "id": "tt1799631:2:3",
+        "title": "La sospecha engendra monstruos",
+        "season": 2,
+        "episode": 3,
+        "overview": "Yaozo pide una reunión para intentar encontrar al traidor en la secta de Myoda. Las sospechas recaen sobre Tatsuma, el jefe de la familia Suguro.",
+        "released": "2017-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qbWhbcvUejV8dz04wEP2n9LQ0gs.jpg"
+      },
+      {
+        "id": "tt1799631:2:4",
+        "title": "Abandono de fe y moral",
+        "season": 2,
+        "episode": 4,
+        "overview": "Ryuji, que sigue teniendo sospechas sobre su padre, escucha a Mamushi diciendo que es cómplice de Todo.",
+        "released": "2017-01-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7lo1zKrgEFHlfdJMm7gm1Fsbl7j.jpg"
+      },
+      {
+        "id": "tt1799631:2:5",
+        "title": "Unidos por el destino",
+        "season": 2,
+        "episode": 5,
+        "overview": "Envían a Rin a una celda de aislamiento, donde Yukio le lee una carta de Tatsuma. La desaparición de ambos ojos amerita una reunión convocada por Yaozo.",
+        "released": "2017-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/700noPCcxyTBSjC6HEW3HM9dhCA.jpg"
+      },
+      {
+        "id": "tt1799631:2:6",
+        "title": "Malicia oculta",
+        "season": 2,
+        "episode": 6,
+        "overview": "La carta de Tatsuma cuenta cómo obtuvo Fujimoto la espada Koma años atrás. En el presente, Todo y Mamushi llegan al santuario de Goma.",
+        "released": "2017-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uK2gRr5SAn6OYyHVIElZSFfrc7B.jpg"
+      },
+      {
+        "id": "tt1799631:2:7",
+        "title": "Ánimos elevados",
+        "season": 2,
+        "episode": 7,
+        "overview": "¡El rey Impuro está vivo! Y Rin, sentenciado a muerte por el Vaticano. Sus compañeros de clase tratan de salvarlo, pero todo terminará dependiendo de Shiemi.",
+        "released": "2017-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ByK9qJ0diBtaIxvJluYkFnV2m5.jpg"
+      },
+      {
+        "id": "tt1799631:2:8",
+        "title": "De padre a hijo",
+        "season": 2,
+        "episode": 8,
+        "overview": "El miasma se va apoderando de Kioto, y todos huyen hacia Rakuhoku. Rin y sus compañeros buscan a Tatsuma, y Yukio descubre que Todo ha cambiado.",
+        "released": "2017-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cIGBxXhNEsEgD8UocxuRGEw6Tev.jpg"
+      },
+      {
+        "id": "tt1799631:2:9",
+        "title": "Firme como una roca",
+        "season": 2,
+        "episode": 9,
+        "overview": "Todo obliga a Yukio a admitir lo que siente en realidad por su hermano. Mientras, Suguro y Rin van en busca del rey Impuro.",
+        "released": "2017-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5hJXpnW4h2zPdJCOoWII5KhO6HA.jpg"
+      },
+      {
+        "id": "tt1799631:2:10",
+        "title": "Inflexible",
+        "season": 2,
+        "episode": 10,
+        "overview": "El rey Impuro emerge justo cuando llegan refuerzos para ayudar a Yukio. Suguro, Rin y Kuro quedan atrapados, y Rin no puede sacar la espada.",
+        "released": "2017-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6JFYbmX9ajwBuS1X7KdrlmbGqgA.jpg"
+      },
+      {
+        "id": "tt1799631:2:11",
+        "title": "Resplandor radiante",
+        "season": 2,
+        "episode": 11,
+        "overview": "Rin logra, finalmente, sacar la espada Koma, pero el rey Impuro es demasiado poderoso. Cuando parece que todo está perdido, aparece Ucchusma.",
+        "released": "2017-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vtrQDP6DZX0wkSH2ZI0LqTVJyOI.jpg"
+      },
+      {
+        "id": "tt1799631:2:12",
+        "title": "Con franqueza",
+        "season": 2,
+        "episode": 12,
+        "overview": "Las llamas azules de Rin limpiaron el lugar. Después del caos, llega el tiempo de pasear, hablar a corazón abierto y conversar sobre el futuro.",
+        "released": "2017-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6ZiegNWpdlnLTtPbYntTwBCf4B9.jpg"
+      },
+      {
+        "id": "tt1799631:3:1",
+        "title": "El mundo se moviliza",
+        "season": 3,
+        "episode": 1,
+        "overview": "Después del incidente de Kioto, la vida de Rin vuelve a la \"normalidad\". Aunque poco después recibe una carta de Mephisto que lo cambiará todo.",
+        "released": "2024-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mFlRp3yOaR8bZVb2p10C7vREsu1.jpg"
+      },
+      {
+        "id": "tt1799631:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2024-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jVYJfgtXYDRFQ91S7LHy1QJ9AMv.jpg"
+      },
+      {
+        "id": "tt1799631:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2024-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A8O1wFDn0820l6CoemEs1S4wy2H.jpg"
+      },
+      {
+        "id": "tt1799631:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2024-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kJvPqWGuyTXJnJs3cWlNIQrdUYD.jpg"
+      },
+      {
+        "id": "tt1799631:3:5",
+        "title": "Episodio 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2024-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kGSwIPgnqJSVrbUNnuI5tAaHE9l.jpg"
+      },
+      {
+        "id": "tt1799631:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2024-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kEUDLb4gPG6IwhNlJATn4STbZJF.jpg"
+      },
+      {
+        "id": "tt1799631:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2024-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iDQME0cHP1BAnqp1lbkttFTp1HJ.jpg"
+      },
+      {
+        "id": "tt1799631:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2024-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xhWL85DPzX4kjMylNPl5ZZzs0hO.jpg"
+      },
+      {
+        "id": "tt1799631:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2024-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eyQUD6kPvyeg6eSeLbcauUCCgiL.jpg"
+      },
+      {
+        "id": "tt1799631:3:10",
+        "title": "Episodio 10",
+        "season": 3,
+        "episode": 10,
+        "released": "2024-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i3Lx6Zf0WLEojJWlfp4bajr0D6r.jpg"
+      },
+      {
+        "id": "tt1799631:3:11",
+        "title": "Episodio 11",
+        "season": 3,
+        "episode": 11,
+        "released": "2024-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dumzzc5w9fVvcJun6Q20kig6417.jpg"
+      },
+      {
+        "id": "tt1799631:3:12",
+        "title": "Episodio 12",
+        "season": 3,
+        "episode": 12,
+        "released": "2024-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xfQAf1K2NgcYdOMyJd26pJYlYO3.jpg"
+      },
+      {
+        "id": "tt1799631:4:1",
+        "title": "Aspiraciones",
+        "season": 4,
+        "episode": 1,
+        "overview": "Suguro aún le está dando vueltas a su futuro cuando recibe la noticia de que adelantarán el examen anual de exorcistas. ¿Seguirá deseando lo mismo tras perder sus aspiraciones?",
+        "released": "2024-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xzsfnVfeRqvknbeTUQdC27AntAq.jpg"
+      },
+      {
+        "id": "tt1799631:4:2",
+        "title": "Angustia",
+        "season": 4,
+        "episode": 2,
+        "overview": "Suguro no es el único que se debate sobre su futuro. El resto de estudiantes de la academia tienen que decidir qué Meister elegir. Por otro lado, Yukio está desesperado por saber más sobre sus poderes.",
+        "released": "2024-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6k8ehubn2LHA0BvEc8UR0ut7dwY.jpg"
+      },
+      {
+        "id": "tt1799631:4:3",
+        "title": "Hogar",
+        "season": 4,
+        "episode": 3,
+        "overview": "Mephisto encarga a Rin y a Yukio que vayan a buscar a Kirigakure a Aomori, pues lleva días desaparecida. Allí descubrirán más sobre el pasado de la mujer.",
+        "released": "2024-10-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ySJKdKsgl00y2I3G4MhrKwRKpTD.jpg"
+      },
+      {
+        "id": "tt1799631:4:4",
+        "title": "Adiós, mi amor",
+        "season": 4,
+        "episode": 4,
+        "overview": "Pese a que Rin y Yukio desean ayudarla, parece que Shura Kirigakure no puede escapar de Hachiro, lo intente como lo intente.",
+        "released": "2024-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9WvCVGSOlWcL1sG7zdrWd9KNvBq.jpg"
+      },
+      {
+        "id": "tt1799631:4:5",
+        "title": "Como reclamando un llanto",
+        "season": 4,
+        "episode": 5,
+        "overview": "Rin y Yukio se enfrentan a Hachiro de nuevo, con un poco de ayuda extra. ¿Lograrán liberar a Shura o se saldrá con la suya la serpiente?",
+        "released": "2024-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zsfQ40IVAYCUXYbzfgm72SNT5M5.jpg"
+      },
+      {
+        "id": "tt1799631:4:6",
+        "title": "Despertar",
+        "season": 4,
+        "episode": 6,
+        "overview": "Mientras Yukio se recupera, Shiemi sigue intentando asimilar la declaración de Rin y Bon está ocupado haciendo de trabajando como ayudante Lightning.",
+        "released": "2024-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6qig0K8ywmwWrhiEYWH3beTgJqm.jpg"
+      },
+      {
+        "id": "tt1799631:4:7",
+        "title": "Heterofilia foliar",
+        "season": 4,
+        "episode": 7,
+        "overview": "Lightning está dispuesto a hacer cualquier cosa para descubrir más acerca de la Noche Azul. Y eso es precisamente lo que conseguirá.",
+        "released": "2024-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uHFMWcFLEtedNGQMsErB3fgVORP.jpg"
+      },
+      {
+        "id": "tt1799631:4:8",
+        "title": "¡Feliz (Navidad) cumpleaños!",
+        "season": 4,
+        "episode": 8,
+        "overview": "Los estudiantes de la academia de exorcistas celebran la Navidad junto a los cumpleaños de los hermanos Okumura. Pese a la felicidad de la festividad, sin embargo, no todo son buenas noticias.",
+        "released": "2024-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8iBesoZCDsSmiq5em3FQ2Y4tkVe.jpg"
+      },
+      {
+        "id": "tt1799631:4:9",
+        "title": "Felicitaciones",
+        "season": 4,
+        "episode": 9,
+        "overview": "Suguro y todos sus compañeros viajan a Kioto para asistir a la boda de Juzo y Mamushi. No todo es gozo, no obstante, pues Yukio está más raro de lo normal.",
+        "released": "2024-12-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d5z05wPIK1YpWG1l8TrOL7bFPu6.jpg"
+      },
+      {
+        "id": "tt1799631:4:10",
+        "title": "Entre la nieve que cae",
+        "season": 4,
+        "episode": 10,
+        "overview": "Los demonios irrumpen en una gran ciudad y los exorcistas tendrán que combatirlos. No obstante, estos ganan fuerza a medida que son percibidos. Por si fuera poco, Yukio no está pasando por su mejor momento.",
+        "released": "2024-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nzA61L8IeBrz5OUPBYq7lN8ZtPr.jpg"
+      },
+      {
+        "id": "tt1799631:4:11",
+        "title": "Más allá de la nieve",
+        "season": 4,
+        "episode": 11,
+        "overview": "Yukio va a buscar a Mephisto para obtener las respuestas que busca, pero el director está ocupado con asuntos más importantes que conciernen a toda la humanidad.",
+        "released": "2024-12-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vdEn8F1vtQVvnT9o8Lz3ABIEMFJ.jpg"
+      },
+      {
+        "id": "tt1799631:4:12",
+        "title": "Episodio 12",
+        "season": 4,
+        "episode": 12,
+        "released": "2024-12-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7WLpek5woeWjNTXDISCeSwZ8tpx.jpg"
+      },
+      {
+        "id": "tt1799631:5:1",
+        "title": "Episodio 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2025-01-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aEHvJE5aiLcmiqYPoMyr6I9cv5V.jpg"
+      },
+      {
+        "id": "tt1799631:5:2",
+        "title": "Episodio 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2025-01-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mjnoeuPvw052AMA16swTLpg207Q.jpg"
+      },
+      {
+        "id": "tt1799631:5:3",
+        "title": "Episodio 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2025-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w1ldgcarBYFFhEJgbKdB62JN5iy.jpg"
+      },
+      {
+        "id": "tt1799631:5:4",
+        "title": "Episodio 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2025-01-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/btpbsCvPLwwQf0RPYR7twxYaMAE.jpg"
+      },
+      {
+        "id": "tt1799631:5:5",
+        "title": "Episodio 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2025-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/62Pj18X0rxCVoyByGmwysF9apD4.jpg"
+      },
+      {
+        "id": "tt1799631:5:6",
+        "title": "Episodio 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2025-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cRXKlb6PPYythM33Pp0BIQsYNkR.jpg"
+      },
+      {
+        "id": "tt1799631:5:7",
+        "title": "Episodio 7",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xeZypcAmptpaakX2MYu3Puisu9r.jpg"
+      },
+      {
+        "id": "tt1799631:5:8",
+        "title": "Episodio 8",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/phCylzSdS9F6Fgrgon97LVZqhe.jpg"
+      },
+      {
+        "id": "tt1799631:5:9",
+        "title": "Episodio 9",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tRUTyYLyoX4fMCnpvyDni7xanR5.jpg"
+      },
+      {
+        "id": "tt1799631:5:10",
+        "title": "Episodio 10",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Sc0L6XYE2mLsXQp3J7iF2F4nLf.jpg"
+      },
+      {
+        "id": "tt1799631:5:11",
+        "title": "Episodio 11",
+        "season": 5,
+        "episode": 11,
+        "released": "2025-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vxkRjxo9GAY9WQkQUhgKKTZaAXz.jpg"
+      },
+      {
+        "id": "tt1799631:5:12",
+        "title": "Episodio 12",
+        "season": 5,
+        "episode": 12,
+        "released": "2025-03-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hDe454jVBmqqOfILoCKrxpzEimK.jpg"
+      }
+    ]
+  }
+}
