@@ -1,0 +1,476 @@
+{
+  "meta": {
+    "id": "tt7335184",
+    "type": "series",
+    "name": "You",
+    "poster": "https://image.tmdb.org/t/p/w500/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg",
+    "posterShape": "poster",
+    "description": "Un hombre obsesivo y peligrosamente seductor mueve cielo y tierra para instalarse en la vida de las mujeres por quienes se siente cautivado.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Misterio",
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wY1US9I51xxkwDJXQp6ktmhfh2Z.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt7335184:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un primer encuentro soñado pronto se convierte en pesadilla luego de que el encargado de una librería se interesa demasiado por una estudiante de posgrado.",
+        "released": "2018-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3CgYr4VuHAAr9wLyuOBR70fFM6x.jpg"
+      },
+      {
+        "id": "tt7335184:1:2",
+        "title": "El último tipo agradable de Nueva York",
+        "season": 1,
+        "episode": 2,
+        "overview": "Beck esquiva las insinuaciones que le hace su asesor de tesis y lleva a Joe a una fiesta de Peach para ricos. Joe intenta resolver el tema de Benji.",
+        "released": "2018-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2dFNmMrzSEOITN5ZuwiI4f4wYrT.jpg"
+      },
+      {
+        "id": "tt7335184:1:3",
+        "title": "Tal vez",
+        "season": 1,
+        "episode": 3,
+        "overview": "Joe no se esperaba los encuentros casuales de Beck y un enfrentamiento con la policía, y luego piensa que debe resolver una situación clave.",
+        "released": "2018-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3ZxT1HSfobIFPxZd1MijPgDCbq5.jpg"
+      },
+      {
+        "id": "tt7335184:1:4",
+        "title": "El Capitán",
+        "season": 1,
+        "episode": 4,
+        "overview": "Tras pasar una tarde incómoda con Beck, Joe descubre que no es el único que esconde secretos. Peach se muestra cada vez más antipática con él.",
+        "released": "2018-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nOlxs7eRA2mhIsJdcAemzu7R5WC.jpg"
+      },
+      {
+        "id": "tt7335184:1:5",
+        "title": "Viviendo con el enemigo",
+        "season": 1,
+        "episode": 5,
+        "overview": "Annika sufre por un video del pasado. Joe y Peach siguen sacándose chispas y todo explota cuando ella le presenta a Beck a un agente literario importante.",
+        "released": "2018-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cmXOUeTmqftauY76D4yxa0Y3E4k.jpg"
+      },
+      {
+        "id": "tt7335184:1:6",
+        "title": "Amour fou",
+        "season": 1,
+        "episode": 6,
+        "overview": "Beck se va a Connecticut con Peach, cuyos verdaderos motivos no son los que parecen. La cacería de Joe le trae viejos recuerdos y abre nuevas heridas.",
+        "released": "2018-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2mWYS9er1P8OrKXLLM3BTorh8Cz.jpg"
+      },
+      {
+        "id": "tt7335184:1:7",
+        "title": "Todalidad",
+        "season": 1,
+        "episode": 7,
+        "overview": "Beck va a terapia para atravesar el duelo, y Joe hace lo mismo, pero por otras razones. Mientras tanto, sus planes para el cumpleaños de Beck no salen como quería.",
+        "released": "2018-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g3BWY0tAKmZo5uMevlVpzhU2ZQL.jpg"
+      },
+      {
+        "id": "tt7335184:1:8",
+        "title": "Soy tuyo",
+        "season": 1,
+        "episode": 8,
+        "overview": "Después de tres meses de separados, la vida les sonríe a Joe y Beck, pero una serie de encuentros podrían perjudicar la relación actual de él.",
+        "released": "2018-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pMifN7S6KpfrN2tA0qyoFsJJSJe.jpg"
+      },
+      {
+        "id": "tt7335184:1:9",
+        "title": "Candace",
+        "season": 1,
+        "episode": 9,
+        "overview": "¿Y qué pasó con Candace exactamente? Beck se comporta como Joe para averiguarlo.",
+        "released": "2018-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uevfPNIOS5E6pQt6lJzD5uzsJB5.jpg"
+      },
+      {
+        "id": "tt7335184:1:10",
+        "title": "El castillo de Barba Azul",
+        "season": 1,
+        "episode": 10,
+        "overview": "Joe hace malabares entre los problemas que tiene con Paco y Beck, y encima tiene que lidiar con un detective privado. Pero, de una forma u otra, se acerca el final...",
+        "released": "2018-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mXCbi58EOFH2gYyzOuKgdXhaW1U.jpg"
+      },
+      {
+        "id": "tt7335184:2:1",
+        "title": "Borrón y cuenta nueva",
+        "season": 2,
+        "episode": 1,
+        "overview": "Joe se cambia el nombre y se muda a la ciudad más superficial de todas con el plan de abrir un nuevo capítulo. Además de romántico, es optimista.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vro1jm1ZiJQsokvzyf20qC3uChP.jpg"
+      },
+      {
+        "id": "tt7335184:2:2",
+        "title": "Solo la puntita",
+        "season": 2,
+        "episode": 2,
+        "overview": "Joe se da cuenta de que Will Bettelheim no es todo lo que prometía ser y podría arruinar su nueva relación con Love, pero el amor es más fuerte.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4cySeaiNrzpJXWQM0wm0fuYGgGa.jpg"
+      },
+      {
+        "id": "tt7335184:2:3",
+        "title": "Amigos son los amigos",
+        "season": 2,
+        "episode": 3,
+        "overview": "Joe le da una oportunidad al amor platónico y trata de no meterse en los asuntos de Ellie. Después de todo, la intención es lo que cuenta.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lJInp6LWt9tckirwiOIIk5b9qTY.jpg"
+      },
+      {
+        "id": "tt7335184:2:4",
+        "title": "El bueno, el malo y Hendy",
+        "season": 2,
+        "episode": 4,
+        "overview": "Compartir a Love con Forty no es nada fácil, pero Joe siempre está dispuesto a cambiar y nunca rechaza nuevos desafíos. ¿Y Ellie qué estará haciendo?",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pQfKUgYoa7VEQnAzQsh90aWuwek.jpg"
+      },
+      {
+        "id": "tt7335184:2:5",
+        "title": "¡Buen findelasalud, Joe!",
+        "season": 2,
+        "episode": 5,
+        "overview": "Love invita a Joe a un fin de semana de meditación y actividades saludables, y Forty llega con una sorpresa. Seguro que todos juntos alcanzan la iluminación.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/onLtRkecoxmG1GHMKGQS6Zn7eBi.jpg"
+      },
+      {
+        "id": "tt7335184:2:6",
+        "title": "Adiós, mi conejito",
+        "season": 2,
+        "episode": 6,
+        "overview": "Joe sigue de cerca un problema, pero sospecha que hay alguien más dando vueltas. Love sigue luchando con los recuerdos traumáticos.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hDiiOBXUWzIfOOsJPKLeHTinKdF.jpg"
+      },
+      {
+        "id": "tt7335184:2:7",
+        "title": "Crisis existencial",
+        "season": 2,
+        "episode": 7,
+        "overview": "Joe recurre a todo para pasar el mal de amores: medicina alternativa, tecnología moderna y tragos con Delilah. A pesar de todo, termina contra la pared.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sbjHwfDyJS8b9fLUT86robMPt4S.jpg"
+      },
+      {
+        "id": "tt7335184:2:8",
+        "title": "Pánico y locura en Beverly Hills",
+        "season": 2,
+        "episode": 8,
+        "overview": "Joe tiene cosas más importantes que hacer, pero Forty insiste con el guion. El proceso creativo es largo, aunque la mente siempre encuentra atajos.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/chtupauWAtuPSKyH13cXoqRqmY2.jpg"
+      },
+      {
+        "id": "tt7335184:2:9",
+        "title": "Detective Joe",
+        "season": 2,
+        "episode": 9,
+        "overview": "Love cuida a Ellie, que está cada vez más inquieta, mientras Joe trata de reconstruir el viaje abstracto de la noche anterior sin mucho éxito.",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qGuHlDE5vcaJrkTV7RDwTO6VLBI.jpg"
+      },
+      {
+        "id": "tt7335184:2:10",
+        "title": "Realmente amor",
+        "season": 2,
+        "episode": 10,
+        "overview": "Joe es un abismo de sorpresas, pero Love también tiene sus secretos. ¿Será el principio del fin? ¿O hay gato encerrado?",
+        "released": "2019-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gj9LBjR675W67qJjYKo4TxAvGMl.jpg"
+      },
+      {
+        "id": "tt7335184:3:1",
+        "title": "Y vivieron felices para siempre",
+        "season": 3,
+        "episode": 1,
+        "overview": "Después de una sorpresa en la sala de parto, el flamante papá tiene problemas para conectarse con su bebé, pero no tiene reparos en dar rienda suelta a su nueva obsesión.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4jQrDHArxHo2Kmh55gWlzhm7mpK.jpg"
+      },
+      {
+        "id": "tt7335184:3:2",
+        "title": "Me casé con una asesina",
+        "season": 3,
+        "episode": 2,
+        "overview": "Joe y Love van a terapia de pareja, pero sus problemas podrían necesitar un poco más que eso, y las fricciones entre ellos no son lo único que quieren hacer desaparecer.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Co5v4HX2tFcvwXMJWJqGM19A7t.jpg"
+      },
+      {
+        "id": "tt7335184:3:3",
+        "title": "Síndrome de la mujer blanca desaparecida",
+        "season": 3,
+        "episode": 3,
+        "overview": "Love se irrita por el incesante escrutinio de la prensa en la casa de al lado. Una enfermedad despierta en Joe viejos recuerdos y algo más.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c0zS6SuX9Yv1bOeAqOca1ceHuNr.jpg"
+      },
+      {
+        "id": "tt7335184:3:4",
+        "title": "Unidos por Madre Linda",
+        "season": 3,
+        "episode": 4,
+        "overview": "Love actúa impulsivamente, y la pareja termina atada de manos. Aunque Joe intenta deshacer el problema de manera diferente a la habitual, el asunto lo supera.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5BJ4wNRyQjWYrCjr92kAOhSPFxP.jpg"
+      },
+      {
+        "id": "tt7335184:3:5",
+        "title": "En el bosque",
+        "season": 3,
+        "episode": 5,
+        "overview": "Con cierta reticencia, Joe acepta ir de caza con algunos vecinos, mientras que Love intenta manejar la relación que tiene con Theo.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/19LZNO4kw69O9i6a4gkt9UNl6of.jpg"
+      },
+      {
+        "id": "tt7335184:3:6",
+        "title": "Un nuevo emprendimiento",
+        "season": 3,
+        "episode": 6,
+        "overview": "Mientras su madre comienza un nuevo emprendimiento, a Love le preocupa un potencial cambio en su vida. Por su parte, Joe tiene una epifanía sobre sí mismo.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pqdU1sx5yFwHvUllRYAOQLr4Pdn.jpg"
+      },
+      {
+        "id": "tt7335184:3:7",
+        "title": "Aquí todos estamos locos",
+        "season": 3,
+        "episode": 7,
+        "overview": "Mientras Dottie cae en un pozo emocional, Love busca obtener información sobre la investigación de Matthew. Joe se empeña en desestabilizar al ex de Marienne.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hh5MR4FFNhI8QOm5exubYhNaO2v.jpg"
+      },
+      {
+        "id": "tt7335184:3:8",
+        "title": "Aventuras y desventuras",
+        "season": 3,
+        "episode": 8,
+        "overview": "Joe quiere imponerle a Love un cambio de vida, pero todo se descarrila rápidamente. Theo descubre hasta dónde llega la obsesión de Matthew.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7AVod6ByyfcYZDHbDDlg6X33L4e.jpg"
+      },
+      {
+        "id": "tt7335184:3:9",
+        "title": "Señales de alerta",
+        "season": 3,
+        "episode": 9,
+        "overview": "Mientras Love se ocupa de atender a unos invitados inesperados, Joe toma una decisión drástica para conseguir lo que él más desea.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aoTrlzBar5dn9TuLyBcX9FCNyXJ.jpg"
+      },
+      {
+        "id": "tt7335184:3:10",
+        "title": "¿Qué es el amor?",
+        "season": 3,
+        "episode": 10,
+        "overview": "Mientras un asesinato reciente inunda las noticias, Joe sueña con su futuro junto a Marienne, pero el infierno parece un paraíso ante la furia que se desata en Love.",
+        "released": "2021-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6vW2jWed5jzz2GhU1lu8JCKJoJf.jpg"
+      },
+      {
+        "id": "tt7335184:4:1",
+        "title": "Joe toma vacaciones",
+        "season": 4,
+        "episode": 1,
+        "overview": "Joe trata de pasar desapercibido en Londres y dejar viejos hábitos... hasta que se ve obligado a atar cabos sueltos y unirse a un círculo de gente rica.",
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/63e82tgnU7MhusDbja3sRqy5n8L.jpg"
+      },
+      {
+        "id": "tt7335184:4:2",
+        "title": "Retrato del artista",
+        "season": 4,
+        "episode": 2,
+        "overview": "Joe aprovecha sus habilidades —y la intuición de una estudiante— para atrapar a quien lo acosa. Una exhibición de arte revela un abanico de sospechosos y mucho más.",
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y3JuEX08Fv38RyuSzDEBxchR5bL.jpg"
+      },
+      {
+        "id": "tt7335184:4:3",
+        "title": "El asesino de los ricos",
+        "season": 4,
+        "episode": 3,
+        "overview": "Mientras corre la noticia sobre un asesino de ricos, quien acosa a Joe se acerca peligrosamente a la verdad. Los esfuerzos de Joe por proteger a Kate dan un giro oscuro.",
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/leSo4Z4mDN3FJYTZGDDcO60duGx.jpg"
+      },
+      {
+        "id": "tt7335184:4:4",
+        "title": "Hampsy",
+        "season": 4,
+        "episode": 4,
+        "overview": "Un lujoso viaje de fin de semana aumenta las probabilidades de que Joe atrape a la persona que lo acosa. Sin servicio de celular o wifi, Joe hace una conexión clave.",
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qe5Gu0z6pgR4Ax8Nk2Z6rERlQXu.jpg"
+      },
+      {
+        "id": "tt7335184:4:5",
+        "title": "El zorro y el perro",
+        "season": 4,
+        "episode": 5,
+        "overview": "A medida que cae de nuevo en viejos hábitos, Joe se ve atrapado en un juego desafortunado, y los planes de los demás se frustran.",
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i7cnfq6R8evIPHyVpjqvHR8TRQP.jpg"
+      },
+      {
+        "id": "tt7335184:4:6",
+        "title": "Grandes amistades",
+        "season": 4,
+        "episode": 6,
+        "overview": "Después de los asesinatos, Joe busca un chivo expiatorio y Rhys persigue sus grandes ambiciones. Entretanto, Kate y Phoebe reafirman su independencia.",
+        "released": "2023-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q2ewUINdsvDEDecu1a7ZxVa5TLc.jpg"
+      },
+      {
+        "id": "tt7335184:4:7",
+        "title": "Hombre bueno, mundo cruel",
+        "season": 4,
+        "episode": 7,
+        "overview": "Los papeles se cambian para Joe cuando una figura influyente llega a la ciudad con una oferta tentadora. Nadia sigue una corazonada.",
+        "released": "2023-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uK2NA8pdOP8AelcmIwfKVZ8H2jL.jpg"
+      },
+      {
+        "id": "tt7335184:4:8",
+        "title": "¿A dónde vas? ¿Dónde has estado?",
+        "season": 4,
+        "episode": 8,
+        "overview": "A medida que le llegan imágenes del pasado, Joe trata de recordar un detalle importante. Phoebe comparte sus apresurados planes con Kate. Nadia busca una solución.",
+        "released": "2023-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/noCnQQrQwbRIplvwamkgOOOEpS.jpg"
+      },
+      {
+        "id": "tt7335184:4:9",
+        "title": "Ella no está ahí",
+        "season": 4,
+        "episode": 9,
+        "overview": "Dividido entre su lado oscuro y sus buenas intenciones, Joe trata de enmendar sus errores. Después de intentar ayudar a Phoebe, Kate se enfrenta a su padre... y a la dura verdad.",
+        "released": "2023-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yYi3IMJbt03odl8xZApu0ZhiGoC.jpg"
+      },
+      {
+        "id": "tt7335184:4:10",
+        "title": "La muerte de Jonathan Moore",
+        "season": 4,
+        "episode": 10,
+        "overview": "Con la mente agobiada por el amor y la pérdida, Joe lleva a cabo un acto final con la esperanza de no volver a recorrer el mismo camino.",
+        "released": "2023-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/97P972C9KAgjcfVh1YI7Ocbh9Wd.jpg"
+      },
+      {
+        "id": "tt7335184:5:1",
+        "title": "El tipo más afortunado de Nueva York",
+        "season": 5,
+        "episode": 1,
+        "overview": "Joe y Kate se establecen en Nueva York con la intención de empezar de nuevo, pero su notorio matrimonio se tambalea cuando la traición los golpea desde muy cerca.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gdN6wa2DeHOO8c6wYZOlua0or7a.jpg"
+      },
+      {
+        "id": "tt7335184:5:2",
+        "title": "Sangre con sangre se paga",
+        "season": 5,
+        "episode": 2,
+        "overview": "Una cena familiar se convierte en un caos cuando Reagan, la hermana de Kate, lanza una impactante acusación. La curiosidad de Bronte la mete en problemas.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j3vvsrX4iwyzfb57hSbiWoqIQeY.jpg"
+      },
+      {
+        "id": "tt7335184:5:3",
+        "title": "El síndrome del impostor",
+        "season": 5,
+        "episode": 3,
+        "overview": "Joe llega a un punto muerto en el sótano de Mooney's, y la tensión aumenta en casa. Kate decide jugar rudo para proteger a Henry. Bronte es ridiculizada en un salón literario.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c7Hq3sjF4dMZMJlfRCLboh6Raqm.jpg"
+      },
+      {
+        "id": "tt7335184:5:4",
+        "title": "Mi bella Maddie",
+        "season": 5,
+        "episode": 4,
+        "overview": "Un revolucionario anuncio en Lockwood Corporation dispara las alarmas de Kate. Un invitado no deseado interrumpe la gran reinauguración de Mooney's.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5jkXnkEOHpLSWld1Zc7BpyPtqVC.jpg"
+      },
+      {
+        "id": "tt7335184:5:5",
+        "title": "El último baile",
+        "season": 5,
+        "episode": 5,
+        "overview": "Impulsada por el miedo, Kate recibe respuestas de una fuente inquietante. Una nota desconcertante en el trabajo lleva a Joe a buscar el paradero de una persona desaparecida.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbYqeiHuScHVcaQSmSL4QWWU7Bg.jpg"
+      },
+      {
+        "id": "tt7335184:5:6",
+        "title": "La cara oscura del amor",
+        "season": 5,
+        "episode": 6,
+        "overview": "Un video viral complica los sueños de Joe de empezar de nuevo y obliga a Bronte a cuestionar sus lealtades. Kate hace cambios en casa.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mLaA5BqFAlesYq8UNKcaMCsxcF7.jpg"
+      },
+      {
+        "id": "tt7335184:5:7",
+        "title": "#JoeGoldberg",
+        "season": 5,
+        "episode": 7,
+        "overview": "Cuando reaparecen rostros del pasado, «el hombre más visible de Nueva York» debe influir en la opinión pública.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xvllpswpJKfOeMSoHK5O9ePvSpc.jpg"
+      },
+      {
+        "id": "tt7335184:5:8",
+        "title": "Locura para dos",
+        "season": 5,
+        "episode": 8,
+        "overview": "Con su relación en una encrucijada, Joe le da un regalo a Bronte para probar su compromiso. Kate encuentra un hombro en el que apoyarse.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wCYHQTdJiieaUL1QodOnwjQDPvW.jpg"
+      },
+      {
+        "id": "tt7335184:5:9",
+        "title": "El juicio de las furias",
+        "season": 5,
+        "episode": 9,
+        "overview": "Joe debe usar todas sus habilidades para liberarse del control financiero de los Lockwood. Kate recurre al engaño para lograr su objetivo.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2xolhM7BZf852ldhaLgfxaBxcbi.jpg"
+      },
+      {
+        "id": "tt7335184:5:10",
+        "title": "El final",
+        "season": 5,
+        "episode": 10,
+        "overview": "Joe comienza un nuevo y arriesgado capítulo con la esperanza de pasar la página. Pero como en todas las grandes historias, aún le espera un último giro.",
+        "released": "2025-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k0SWiRhqG44R4GIjtZSeYQgQRKA.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "id": "tt9058134",
+    "type": "series",
+    "name": "KENGAN ASHURA",
+    "poster": "https://image.tmdb.org/t/p/w500/yB8e1BnzrXoPbxfi3GnUgjCiN41.jpg",
+    "posterShape": "poster",
+    "description": "En el submundo corporativo, las disputas se resuelven con sangre en peleas clandestinas. Ohma Tokita no busca dinero, solo ganar.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wJtrctuWTKgIi45zLw9tTjWQFY3.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt9058134:1:1",
+        "title": "Kengan",
+        "season": 1,
+        "episode": 1,
+        "overview": "Kazuo Yamashita, un simple empleado, recibe un llamado misterioso y repentino del presidente de la empresa. Tiene una tarea difícil para él, y es solo el comienzo.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sv9r4DxljoGvvMFPnsjKuUOavtV.jpg"
+      },
+      {
+        "id": "tt9058134:1:2",
+        "title": "Superhumano",
+        "season": 1,
+        "episode": 2,
+        "overview": "En el primer duelo, Ohma mantiene el aplomo frente a los ataques filosos y sobrehumanos de Lihito, el luchador arrogante de la inmobiliaria Yoshitake.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8GIeAvmUnSEAb0XD2YbilPYEWOL.jpg"
+      },
+      {
+        "id": "tt9058134:1:3",
+        "title": "Tipo duro",
+        "season": 1,
+        "episode": 3,
+        "overview": "Ohma cree tener ventaja contra Jun Sekibayashi, pero olvida un dato clave: los luchadores profesionales son grandes actores y saben cómo armar un buen espectáculo.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bisgbPavdbnckd04hErAc7rwwoF.jpg"
+      },
+      {
+        "id": "tt9058134:1:4",
+        "title": "Reencuentro",
+        "season": 1,
+        "episode": 4,
+        "overview": "El presidente Nogi no quiere que Ohma lo represente en el torneo de aniquilación. Sin embargo, hay una alternativa que requiere la participación de Yamashita.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v1qeKwTi8aKvHESjSgAYi19sxXf.jpg"
+      },
+      {
+        "id": "tt9058134:1:5",
+        "title": "Batalla campal",
+        "season": 1,
+        "episode": 5,
+        "overview": "Ohma se abre paso en medio de una batalla campal con más de cien luchadores, todos encerrados en la misma bodega de barco. Detalle: solo cinco pueden ir a las finales.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5tI95ZP9ddEYHBnvfh3VjbIkgCa.jpg"
+      },
+      {
+        "id": "tt9058134:1:6",
+        "title": "Por la espalda",
+        "season": 1,
+        "episode": 6,
+        "overview": "Algunos tratan de disfrutar el crucero de lujo, otros tejen estrategias desde las sombras. Mientras tanto, un jugador de ajedrez japonés esconde su próxima movida.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ejjc88RetY9MMWMeB7CsNPSEEv3.jpg"
+      },
+      {
+        "id": "tt9058134:1:7",
+        "title": "La víspera",
+        "season": 1,
+        "episode": 7,
+        "overview": "Finalmente se deciden las llaves del torneo en una reunión secreta entre todos los corporativos. La verdadera batalla está por comenzar.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5lND5x5CBHAFxi5qxz40GRAHX2o.jpg"
+      },
+      {
+        "id": "tt9058134:1:8",
+        "title": "La lucha",
+        "season": 1,
+        "episode": 8,
+        "overview": "El torneo de aniquilación empieza con todo. Primer combate: el maestro de jiu-jitsu Cosmo Imai contra el luchador callejero estadounidense Adam Dudley.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPZ5OvIy8wo6IR3PePNanze1mu6.jpg"
+      },
+      {
+        "id": "tt9058134:1:9",
+        "title": "Justicia",
+        "season": 1,
+        "episode": 9,
+        "overview": "Haruo Kohno, de Nentendo, combina un tamaño monstruoso con una agilidad sorprendente, pero el jefe de la policía antidisturbios Seishu Akoya tiene un plan secreto.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ophObhUojn7Y00Ltkv2bqfxa466.jpg"
+      },
+      {
+        "id": "tt9058134:1:10",
+        "title": "Hermana",
+        "season": 1,
+        "episode": 10,
+        "overview": "Dos luchadores con viejos linajes quedan frente a frente: Raian Kure, de un clan sanguinario, y Mokichi Robinson, heredero de una leyenda del kengan del siglo XIX.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v3cyeBTQCezHgNxbvcxawp2MrOe.jpg"
+      },
+      {
+        "id": "tt9058134:1:11",
+        "title": "Ashura",
+        "season": 1,
+        "episode": 11,
+        "overview": "Ohma llega a su primera pelea del torneo con confianza, pero tiene problemas para contrarrestar el estilo escurridizo y poco ortodoxo de Ryo Inaba.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j2P3RqMJ55EFq6paGeUrBtUK4VB.jpg"
+      },
+      {
+        "id": "tt9058134:1:12",
+        "title": "Padre e hijo",
+        "season": 1,
+        "episode": 12,
+        "overview": "El torneo avanza a fuerza de doblar las reglas y hacer trampas dentro y fuera del coliseo. Mientras tanto, Ohma se fastidia con el afecto paternal de Yamashita.",
+        "released": "2019-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mNaoUhhKfkOZTaJWOfGXzetspSH.jpg"
+      },
+      {
+        "id": "tt9058134:1:13",
+        "title": "Convicciones",
+        "season": 1,
+        "episode": 13,
+        "overview": "Aunque parece que Kiohzan Takeru usa técnicas de artes marciales mixtas contra el ángel infernal Jun Sekibayashi, no es ni más ni menos que el estilo original del sumo.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8eGSHBqJwdDZYfnE0pUOaUe8Ggz.jpg"
+      },
+      {
+        "id": "tt9058134:1:14",
+        "title": "El maestro y el alumno",
+        "season": 1,
+        "episode": 14,
+        "overview": "Los gladiadores y los espectadores disfrutan la noche libre. Mientras tanto, Ohma imagina duelos contra los rivales más duros, como su antiguo maestro Niko Tokita.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bGuYwftM5lp7ch3nJvfp6TOangk.jpg"
+      },
+      {
+        "id": "tt9058134:1:15",
+        "title": "Pescador",
+        "season": 1,
+        "episode": 15,
+        "overview": "Yoshinari Karo, de Pescaderías Ajiro, se mide contra Saw Paing. El libreto parece estar escrito de antemano, pero no sirve de mucho cuando un luchador no sabe memorizar.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s5az4gqNK7gHlIjCPiCUjFWSvjh.jpg"
+      },
+      {
+        "id": "tt9058134:1:16",
+        "title": "Demonio",
+        "season": 1,
+        "episode": 16,
+        "overview": "Masami Nezu se enfrenta al vástago asesino Rei Mikazuchi. Ren Nikaido intenta sacar un as de la manga contra Setsuna Kiryu, pero le sale un cuatro de copas.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wODwUGbU2VEQ3Y7uczC3whHAdOZ.jpg"
+      },
+      {
+        "id": "tt9058134:1:17",
+        "title": "Lanza",
+        "season": 1,
+        "episode": 17,
+        "overview": "Duelo de juventud contra experiencia: Lihito es impulsivo, arrogante y tiene dedos filosos, pero las bravuconadas son inofensivas frente a la maestría de Gensai Kuroki.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sKyxqVR2UVis0mpmF09yPU7jcuI.jpg"
+      },
+      {
+        "id": "tt9058134:1:18",
+        "title": "Rarezas",
+        "season": 1,
+        "episode": 18,
+        "overview": "Sen Hatsumi choca con Takayuki Chiba, que copia los movimientos de sus rivales. Hajime Hanafusa entra a la arena para ejecutar la sentencia de muerte de Yohei Bando.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bN49nDXhwILNuJyyWHi1ZyF7jT0.jpg"
+      },
+      {
+        "id": "tt9058134:1:19",
+        "title": "Voluntad",
+        "season": 1,
+        "episode": 19,
+        "overview": "Kaolan Wongsawat defiende el honor patriótico y la tradición del boxeo tailandés. La técnica de Suekichi Kaneda es inferior, pero es astuto y tiene voluntad infinita.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mrmWsstoxohJm3fEnUB3iuJS6DN.jpg"
+      },
+      {
+        "id": "tt9058134:1:20",
+        "title": "Campeones",
+        "season": 1,
+        "episode": 20,
+        "overview": "Naoya Ohkubo es conocido como el Rey del Combate, pero Agito Kanoh es el favorito del público y lleva 157 victorias seguidas. El duelo del siglo está por comenzar.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ltidECvVl2VJRDEtpgbTu9h0VpU.jpg"
+      },
+      {
+        "id": "tt9058134:1:21",
+        "title": "El abismo",
+        "season": 1,
+        "episode": 21,
+        "overview": "Arranca la segunda ronda con Cosmo Imai y Seishu Akoya: el primero tiene un agarre mortal, pero menos talla; el segundo, la solidez (y la movilidad) de una roca.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cnR6RcxF4GE3ZmDHwEEghgdOz4a.jpg"
+      },
+      {
+        "id": "tt9058134:1:22",
+        "title": "Duelo a muerte",
+        "season": 1,
+        "episode": 22,
+        "overview": "Seishu Akoya sigue al pie de la letra su código de justicia brutal. Al borde de la muerte, Cosmo Imai tiene una revelación que abre una ventana hacia la victoria.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qNGab174Cb5TX2f6xpWls4WSjoG.jpg"
+      },
+      {
+        "id": "tt9058134:1:23",
+        "title": "Diablo",
+        "season": 1,
+        "episode": 23,
+        "overview": "Ohma lucha contra Raian y su clan de asesinos, que se mueve entre las sombras fuera de la arena. La vida del hijo mayor de Yamashita pende de un hilo.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r46ZZCcKumbhKXPUeQn2zS0tVV8.jpg"
+      },
+      {
+        "id": "tt9058134:1:24",
+        "title": "Padre",
+        "season": 1,
+        "episode": 24,
+        "overview": "Justo cuando el combate parece terminado, Ohma logra desbloquear un nuevo nivel de poder que revive la batalla contra Raian, más épica que nunca.",
+        "released": "2019-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nxIEEzjSJCyNvIhlEFzbIYxny63.jpg"
+      },
+      {
+        "id": "tt9058134:2:1",
+        "title": "Presagio",
+        "season": 2,
+        "episode": 1,
+        "overview": "Aunque afirma que se encuentra bien, Ohma colapsa y termina recordando su infancia. Más tarde, el Torneo Kengan Vida o Muerte comienza otra vez.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ySRuLVN46nzlLho4JPd7VP7DHS.jpg"
+      },
+      {
+        "id": "tt9058134:2:2",
+        "title": "Núcleo explosivo",
+        "season": 2,
+        "episode": 2,
+        "overview": "La Farmacéutica Furimi crio a Takeshi Wakatsuki para que se convirtiera en el guerrero perfecto, pero Julius Reinhold —su oponente— logra intimidar hasta al más fuerte...",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/XK1cj8ea6w0UrF4vxMOEkvKlxD.jpg"
+      },
+      {
+        "id": "tt9058134:2:3",
+        "title": "El payaso",
+        "season": 2,
+        "episode": 3,
+        "overview": "El público enloquece cuando Jun Sekibayashi entra a la arena como Seki el Maravilloso, el legendario luchador profesional al que da vida.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/38A3yCuFWXEOsz0oFAoWRkivNTE.jpg"
+      },
+      {
+        "id": "tt9058134:2:4",
+        "title": "Dignidad",
+        "season": 2,
+        "episode": 4,
+        "overview": "Durante su pelea contra Muteba, Jun Sekibayashi recuerda cómo cambió su vida cuando empezó a entrenar para convertirse en luchador profesional a los 15 años.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lxadimirdoDDUWtVnd5FhVmfPKr.jpg"
+      },
+      {
+        "id": "tt9058134:2:5",
+        "title": "Ataque suicida",
+        "season": 2,
+        "episode": 5,
+        "overview": "Saw Paing es conocido por sus cabezazos aniquiladores, pero su oponente, Rei Mikazuchi —un maestro del estilo relámpago— no permitirá que se acerque y use su ataque con él.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jN9bgPWkWM6O1rkLaEZTcIuSO1O.jpg"
+      },
+      {
+        "id": "tt9058134:2:6",
+        "title": "Un viejo amigo",
+        "season": 2,
+        "episode": 6,
+        "overview": "Lo único que Setsuna Kiryu desea es ganar esta pelea —y las dos siguientes— para poder enfrentarse al hombre de sus sueños: el mismísimo Ohma.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5dF21M6s6tylVbygnLlxjE0VxWa.jpg"
+      },
+      {
+        "id": "tt9058134:2:7",
+        "title": "Infierno",
+        "season": 2,
+        "episode": 7,
+        "overview": "El combate entre Setsuna y Gensai Kuroki llega a su fin. Pero Ohma sigue hospitalizado, lo que deja al Grupo Nogi con un solo luchador: Sen Hatsumi.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qeNfXkXLb6LlHklpZAS5Rk1O36K.jpg"
+      },
+      {
+        "id": "tt9058134:2:8",
+        "title": "Resurrección",
+        "season": 2,
+        "episode": 8,
+        "overview": "Tras ser condenado a la horca 45 veces —y sobrevivir—, el sentenciado a muerte Yohei Bando tiene una ventaja física que emplea sin reservas contra Sen Hatsumi.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b5DzMsieV17wLLoa1dS2DpWrG0s.jpg"
+      },
+      {
+        "id": "tt9058134:2:9",
+        "title": "Superioridad",
+        "season": 2,
+        "episode": 9,
+        "overview": "Agito Kanoh empieza a moverse de forma extraña durante su pelea contra Kaolan Wongsawat. Al parecer, su encuentro lo ayudó a desarrollar un nuevo estilo de lucha.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kE8JjvWhZM1i5LfVvKlQsQbo6NS.jpg"
+      },
+      {
+        "id": "tt9058134:2:10",
+        "title": "Vida o muerte",
+        "season": 2,
+        "episode": 10,
+        "overview": "Después de la pelea entre Kaolan y Agito, la segunda ronda del Torneo Kengan Vida o Muerte llega a su fin, pero se convoca a una reunión para anunciar cambios de último momento.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Pnt20MmG9xuu0sL16QCNVIyChp.jpg"
+      },
+      {
+        "id": "tt9058134:2:11",
+        "title": "Bandera de rebeldes",
+        "season": 2,
+        "episode": 11,
+        "overview": "Hayami les da a todos una elección: unirse a él o morir. En un recuerdo de su humilde juventud, Ohma aprende a pelear imitando el singular estilo de Niko Tokita.",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pIH7QqcqjVZ4U5sCM4cCmACtWV6.jpg"
+      },
+      {
+        "id": "tt9058134:2:12",
+        "title": "Mano a mano",
+        "season": 2,
+        "episode": 12,
+        "overview": "Ohma sigue hospitalizado, y Hayami y sus hombres tratan de hacerse con el control total. Pero quizás haya un traidor en sus filas que sabotea todos sus planes...",
+        "released": "2023-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/swUIwWoHsmUJ5GFf34E2TKFKgeP.jpg"
+      },
+      {
+        "id": "tt9058134:2:13",
+        "title": "Terco",
+        "season": 2,
+        "episode": 13,
+        "overview": "Aunque le dicen claramente a Cosmo Imai que Seguridad Nishihonji elegirá a otro peleador para la siguiente ronda, él está decidido a ser quien entre a la arena.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dqDIiM99Fb9lSXxyuizFUnd5QLo.jpg"
+      },
+      {
+        "id": "tt9058134:2:14",
+        "title": "Agua reflejante",
+        "season": 2,
+        "episode": 14,
+        "overview": "El peleador de Seguridad Nishihonji conoce todos los movimientos de su oponente y logra mantener el combate en igualdad de condiciones..., pero ¿hasta cuándo?",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y8dSn25dm2dPTMkHQfdlupDS4iZ.jpg"
+      },
+      {
+        "id": "tt9058134:2:15",
+        "title": "Un as bajo la manga",
+        "season": 2,
+        "episode": 15,
+        "overview": "Jun Sekibayashi acompaña a los comentaristas durante este combate, que arranca con un movimiento explosivo de Takeshi Wakatsuki.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g0ZLA7RKglaABIlEaxS5TVFt55i.jpg"
+      },
+      {
+        "id": "tt9058134:2:16",
+        "title": "Culminación",
+        "season": 2,
+        "episode": 16,
+        "overview": "Rei Mikazuchi está listo para pelear por el orgullo, el amor y el deseo. ¿Podrá el Dios del Rayo vencer a Gensai Kuroki y su fortaleza impenetrable?",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pQmvkkggI5mOUZVwyCSFnLgDJRf.jpg"
+      },
+      {
+        "id": "tt9058134:2:17",
+        "title": "Cumulonimbos",
+        "season": 2,
+        "episode": 17,
+        "overview": "Nogi pelea contra Metsudo en el último combate de la tercera ronda. Pero antes de que la Nube Flotante se enfrente al Colmillo, Kanoh debe defender su posición.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ln5BRamYKGUAvJH9X6ScQqsHfXF.jpg"
+      },
+      {
+        "id": "tt9058134:2:18",
+        "title": "La nube flotante",
+        "season": 2,
+        "episode": 18,
+        "overview": "Mientras Sen recuerda su juventud y cómo rechazó la oportunidad de ser el Colmillo, la pelea se torna complicada... y da un giro devastador e inesperado.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3yThPstqwfFpZCa3Wl5NxWC7HnC.jpg"
+      },
+      {
+        "id": "tt9058134:2:19",
+        "title": "Predicamento",
+        "season": 2,
+        "episode": 19,
+        "overview": "En la víspera de la ronda final, Setsuna Kiryu recuerda el trato inhumano que recibió en el Interior y el encuentro que le salvaría la vida.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zAM4skQJV4Cerw4Rll7Z258CyW1.jpg"
+      },
+      {
+        "id": "tt9058134:2:20",
+        "title": "El demonio",
+        "season": 2,
+        "episode": 20,
+        "overview": "Ohma por fin recuerda el momento crucial en el que le enseñaron la técnica Posesión, y se revela el difícil pasado que comparte con Setsuna.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mW25QZshc3fcuU2uM3zj3lctRgM.jpg"
+      },
+      {
+        "id": "tt9058134:2:21",
+        "title": "Despedida",
+        "season": 2,
+        "episode": 21,
+        "overview": "Con una serie desenfrenada de Palmas de Rakshasa, Setsuna concreta su deseo y enfrenta a Ohma en una pelea intensa..., donde su cordura llega al límite.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xrAID8PvJISmwnYOctyeVNh6ypx.jpg"
+      },
+      {
+        "id": "tt9058134:2:22",
+        "title": "Wakatsuki",
+        "season": 2,
+        "episode": 22,
+        "overview": "Llegan las ansiadas semifinales. Yamashita recibe la visita del presidente Nogi, quien exige que la pelea se arregle a favor de Farmacéutica Furumi.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a2AAzLPUO6VWcxOR1yDhpoQgdlw.jpg"
+      },
+      {
+        "id": "tt9058134:2:23",
+        "title": "Perseverante",
+        "season": 2,
+        "episode": 23,
+        "overview": "Yamashita se sorprende al descubrir los fuertes lazos que lo unen al Gremio Kengan y al Grupo Nogi. Por su parte, Ohma debe encontrar el modo de vencer a Wakatsuki.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w6jZckc3KtJDhFgLiuxRTqoVSNg.jpg"
+      },
+      {
+        "id": "tt9058134:2:24",
+        "title": "Fuerza suprema",
+        "season": 2,
+        "episode": 24,
+        "overview": "Llega el combate de la tan esperada segunda semifinal. Kuroki y Kanoh, dos imponentes titanes de las artes marciales, se enfrentan en una batalla de fuerza suprema.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pYiLbDarh9IN2qY27iq0NQp6i6Q.jpg"
+      },
+      {
+        "id": "tt9058134:2:25",
+        "title": "Estrella gigante",
+        "season": 2,
+        "episode": 25,
+        "overview": "Kuroki y Kanoh se llevan mutuamente al límite mientras siguen desarrollando sus estilos de pelea. ¿Cuál de estos gigantes llegará a la final?",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q53suHyvIY42x9J60MPabxGAXXH.jpg"
+      },
+      {
+        "id": "tt9058134:2:26",
+        "title": "Las finales",
+        "season": 2,
+        "episode": 26,
+        "overview": "Antes de la pelea, Kuroki le revela la verdad sobre el estilo Niko a Ohma. Mientras este se prepara para entrar a la final, Yamashita le infunde ánimo por última vez.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qX4tp6Y72glu60HocZjTdYkaurD.jpg"
+      },
+      {
+        "id": "tt9058134:2:27",
+        "title": "Victoria",
+        "season": 2,
+        "episode": 27,
+        "overview": "La intensa pelea contra Kuroki llega a su clímax, y Ohma se prepara para liberar el estilo Niko y la técnica Posesión a la vez, a pesar de las objeciones de Yamashita.",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2r1HrUTZhkJXeQvBNnLtvhZgczq.jpg"
+      },
+      {
+        "id": "tt9058134:2:28",
+        "title": "Final",
+        "season": 2,
+        "episode": 28,
+        "overview": "Takakaze se presenta ante el presidente Nogi con una propuesta inesperada. Mientras todo el mundo vuelve a la rutina, Yamashita reflexiona sobre el tiempo que pasó con «el Asura».",
+        "released": "2024-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pSyEs1CYAnVNa1OKHDcbTPiP5er.jpg"
+      }
+    ]
+  }
+}

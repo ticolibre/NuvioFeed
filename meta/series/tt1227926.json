@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "id": "tt1227926",
+    "type": "series",
+    "name": "Dr. Horrible's Sing-Along Blog",
+    "poster": "https://image.tmdb.org/t/p/w500/wPXpC4AJHlwnVk5AtlBgsd0497c.jpg",
+    "posterShape": "poster",
+    "description": "Aspiring super-villain Dr. Horrible wants to join the Evil League of Evil and win the girl of his dreams, but his nemesis, Captain Hammer, stops him at every turn.",
+    "releaseInfo": "2008",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/fJa29nluTKy4qOc5kyyGZfCuDDc.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1227926:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2008-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lB1pUdzEjHlQ8ojEyNf61f3uoYm.jpg"
+      },
+      {
+        "id": "tt1227926:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2008-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eBjOm3dEcug7GcLoBLdV7mQfqWr.jpg"
+      },
+      {
+        "id": "tt1227926:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2008-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tPN686pdX1EVLSMiRH6gjsCwHxB.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "id": "tt5071412",
+    "type": "series",
+    "name": "Ozark",
+    "poster": "https://image.tmdb.org/t/p/w500/8Q87HCPhj98Afc0XAHOuaLgTTpO.jpg",
+    "posterShape": "poster",
+    "description": "Un asesor financiero arrastra a su familia desde Chicago hasta los lagos de Ozark para lavar 500 millones de dólares en cinco años y tranquilizar a un jefe narco.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/aatG9iVAUL7U7OyFEmupESpOrD2.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt5071412:1:1",
+        "title": "Azucarada",
+        "season": 1,
+        "episode": 1,
+        "overview": "Marty, asesor financiero, ingenia un plan temerario para sobrevivir y salvar a su familia después de que su socio traicionara a un peligroso cliente",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kt9D7lU2P0Ct3lCau5QetFdFhcj.jpg"
+      },
+      {
+        "id": "tt5071412:1:2",
+        "title": "Blue Cat",
+        "season": 1,
+        "episode": 2,
+        "overview": "En Ozark, Marty hace lo imposible por encontrar un negocio local para la operación de lavado, mientras que sus hijos hacen nuevos amigos y descuidan un deber fundamental.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vNOZ7aiyLqBoEqSWxmcn3MHewM8.jpg"
+      },
+      {
+        "id": "tt5071412:1:3",
+        "title": "Insomnio",
+        "season": 1,
+        "episode": 3,
+        "overview": "Marty encuentra la manera de controlar a Ruth, y después trata de invertir en un bar de estriptís. Wendy usa su encanto para conseguir un trabajo.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eFScUmYS5quAQ2CAnGECP05lHMS.jpg"
+      },
+      {
+        "id": "tt5071412:1:4",
+        "title": "Esta noche improvisamos",
+        "season": 1,
+        "episode": 4,
+        "overview": "Marty contrata a Ruth para dar un golpe. El agente Petty estrecha su relación con un miembro de la familia Langmore. El comportamiento de Jonah se vuelve perturbador.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6nzKm0n4oPkJrueKS3ifqajIs3n.jpg"
+      },
+      {
+        "id": "tt5071412:1:5",
+        "title": "Días dominantes",
+        "season": 1,
+        "episode": 5,
+        "overview": "Marty decide invertir en el sector religioso, pero no tiene idea dónde se está metiendo... Llega una visita sorpresa a la casa de los Byrde.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/brpbiIML6vA4cEIDZstQEj9UdXp.jpg"
+      },
+      {
+        "id": "tt5071412:1:6",
+        "title": "El libro de Ruth",
+        "season": 1,
+        "episode": 6,
+        "overview": "Jacob le muestra a Marty cómo funciona su negocio, mientras Ruth pone en marcha su plan, y Rachel descubre algo raro en las cuentas del Blue Cat.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ijxDoFiR4Wyv2JxlKOT6Zc4YXtZ.jpg"
+      },
+      {
+        "id": "tt5071412:1:7",
+        "title": "Caja nido",
+        "season": 1,
+        "episode": 7,
+        "overview": "Marty hace una oferta para que Jacob no concrete su amenaza. El agente Petty consigue lo que necesita para que Russ cambie su postura. Charlotte se desespera por escapar.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dJo5OHFHKFHIMrw4rZ6SXzEREju.jpg"
+      },
+      {
+        "id": "tt5071412:1:8",
+        "title": "Caleidoscopio",
+        "season": 1,
+        "episode": 8,
+        "overview": "En un flashback diez años atrás, Wendy lucha con la depresión, Del le pide a Marty que sea su asesor financiero, y el agente Petty enfrenta una crisis familiar.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kVThjaOzAEBW8q6coO1EscPSyW1.jpg"
+      },
+      {
+        "id": "tt5071412:1:9",
+        "title": "Café... Negro",
+        "season": 1,
+        "episode": 9,
+        "overview": "Russ descubre la verdadera identidad del agente Petty y trama un plan devastador. Wendy tropieza con un negocio ideal para la cartera de Byrde.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/skatyCDyFCJo8xINVBCuiC2Ib6U.jpg"
+      },
+      {
+        "id": "tt5071412:1:10",
+        "title": "Suenan las campanas",
+        "season": 1,
+        "episode": 10,
+        "overview": "Mason sufre una crisis durante un sermón. Wendy intenta escapar con sus hijos, pero los atrapan. Marty consigue que Jacob y Del hagan un pacto.",
+        "released": "2017-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/65ybhIbcvrsFwmakVYKxeJ2xm4C.jpg"
+      },
+      {
+        "id": "tt5071412:2:1",
+        "title": "Compensación",
+        "season": 2,
+        "episode": 1,
+        "overview": "El padre de Ruth sale de la cárcel. Wendy usa sus habilidades políticas para conseguir la licencia de juego. El cartel mexicano exige una compensación a los Snell.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jaOtaVcSS8bu4iJz1pgjbVkdKfE.jpg"
+      },
+      {
+        "id": "tt5071412:2:2",
+        "title": "La preciosa sangre de Jesús",
+        "season": 2,
+        "episode": 2,
+        "overview": "Marty recurre a Buddy para enfrentar a la mafia que pone en peligro el casino. Wendy aplica tácticas sucias para ganar votos. Cade le recuerda a Ruth de dónde viene.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dGPAdxmHpBH6jOCt6boTI7aV0IV.jpg"
+      },
+      {
+        "id": "tt5071412:2:3",
+        "title": "La maldición Langmore",
+        "season": 2,
+        "episode": 3,
+        "overview": "Wendy trata de neutralizar las consecuencias de lo que hizo Wilkes para presionar al senador Blake. Rachel recibe una misión. Ruth se niega a aceptar su destino familiar.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/24lLZQwkm3gzqGO8WAu80xfdfuw.jpg"
+      },
+      {
+        "id": "tt5071412:2:4",
+        "title": "En soledad",
+        "season": 2,
+        "episode": 4,
+        "overview": "El FBI tira un segundo anzuelo. Charlotte habla con Wyatt y dice demasiado. Los Byrde desconfían de Rachel, que desvía las sospechas hacia otra persona.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cbz6KHKs0o9BR1CgyzHFskiA5eF.jpg"
+      },
+      {
+        "id": "tt5071412:2:5",
+        "title": "Día D",
+        "season": 2,
+        "episode": 5,
+        "overview": "La revelación del agente Petty pone a prueba las lealtades de Marty, Ruth y el cartel. A pesar de que el FBI está encima, los Snell no quieren deshacerse de sus amapolas.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qq1RZKAT56BFYc7n9DyytYqLNzY.jpg"
+      },
+      {
+        "id": "tt5071412:2:6",
+        "title": "Las tinieblas de fuera",
+        "season": 2,
+        "episode": 6,
+        "overview": "El FBI rastrilla el campo de los Snell y se encuentra con una sorpresa. El agente Petty deja las sutilezas mientras interroga a Wilkes. Los Byrde sufren una pérdida.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wWWi5ygp2VfuvtkLrfWWBgqOksA.jpg"
+      },
+      {
+        "id": "tt5071412:2:7",
+        "title": "La única salida",
+        "season": 2,
+        "episode": 7,
+        "overview": "Mason se deja llevar por la rabia y pone la mira en los Byrde. Ruth quiere robar piezas de un barco para que el padre se sienta orgulloso de ella.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vrOanBEmB7QsUV5v7xJBdpPYooT.jpg"
+      },
+      {
+        "id": "tt5071412:2:8",
+        "title": "El sueño eterno",
+        "season": 2,
+        "episode": 8,
+        "overview": "Darlene da otro paso en falso. Marty trata de liberar a Rachel de las garras del agente Petty. Jonah ayuda a su madre para que Wilkes los siga apoyando, quiera o no.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x3K9Jk4SObxaVDSovLvMX6puld8.jpg"
+      },
+      {
+        "id": "tt5071412:2:9",
+        "title": "El tejón",
+        "season": 2,
+        "episode": 9,
+        "overview": "Marty encuentra la manera de evitar a los Snell. Charlotte busca un abogado. Los Byrde se reúnen con el comité de juego, pero la licencia conlleva una gran condición.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9kyTt7vbL2JiQf91yTHxMpe36x.jpg"
+      },
+      {
+        "id": "tt5071412:2:10",
+        "title": "La costa dorada",
+        "season": 2,
+        "episode": 10,
+        "overview": "Marty hace planes y mantiene al margen a Wendy. Darlene envía un mensaje a través de Jonah. Wyatt descubre la verdad sobre su padre. Ruth sabe que debe frenar a Cade.",
+        "released": "2018-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/14pjYh1pRlVElQfwSzDdASu2Ma6.jpg"
+      },
+      {
+        "id": "tt5071412:3:1",
+        "title": "Tiempos de guerra",
+        "season": 3,
+        "episode": 1,
+        "overview": "Presionan a Marty para que mueva dinero antes de tiempo; Wendy presenta un plan muy arriesgado; Wyatt se da la gran vida; y Ruth tiene un altercado en el casino.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6TYljo1iQwHBYlhEnvXerq5cBOd.jpg"
+      },
+      {
+        "id": "tt5071412:3:2",
+        "title": "Unión civil",
+        "season": 3,
+        "episode": 2,
+        "overview": "Wendy le pide a Helen —no a Marty— que la ayude a cerrar un trato; un nuevo huésped llega al hogar de los Byrde; y explotan las fichas de un casino rival.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lOm0QzaE4RWAPn5sWJBUZZo7ByG.jpg"
+      },
+      {
+        "id": "tt5071412:3:3",
+        "title": "Kevin Cronin estuvo aquí",
+        "season": 3,
+        "episode": 3,
+        "overview": "El FBI mete las manos en las finanzas del casino; los sueños de Wendy se tornan siniestros; y a Marty le agobian posibles señales de advertencia.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ACTkkmYJ5XlGS945xR6Z7YjPyp.jpg"
+      },
+      {
+        "id": "tt5071412:3:4",
+        "title": "Batalla final",
+        "season": 3,
+        "episode": 4,
+        "overview": "Wendy, Helen y Ruth tratan de mantener el negocio en marcha. Entretanto, Navarro manipula a Marty, a quien le atormenta la idea de no ver a su familia nunca más.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lpZRWCsTmR1qJ8HQG6yCDxYgZxt.jpg"
+      },
+      {
+        "id": "tt5071412:3:5",
+        "title": "Vino desde Michoacán",
+        "season": 3,
+        "episode": 5,
+        "overview": "Maya redobla su oferta para lograr convertir a Marty, cuya misteriosa calma preocupa a Wendy. Los Byrde adquieren una granja de caballos de parte de Navarro.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2iREigsBo1ZnG1coNraa3y8FEAe.jpg"
+      },
+      {
+        "id": "tt5071412:3:6",
+        "title": "Su casa es mi casa",
+        "season": 3,
+        "episode": 6,
+        "overview": "Marty y Wendy se expresan francamente sus sentimientos; Ruth encara a Wyatt; Darlene deja en claro sus ambiciones; y se hace patente el pasado de Ben.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vGcGTBYw3WJjZ0P2eqNdmkCdYWa.jpg"
+      },
+      {
+        "id": "tt5071412:3:7",
+        "title": "En caso de emergencia",
+        "season": 3,
+        "episode": 7,
+        "overview": "El FBI interroga a Ruth; la relación entre Cosgrove y Marty se vuelve aún más tirante; Sue se hace cargo de un nuevo paciente; y Wendy ficha talento para su fundación.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/58Ov4FKwQc4PA8Mv7B2876h1PI.jpg"
+      },
+      {
+        "id": "tt5071412:3:8",
+        "title": "Mejores amigos por siempre",
+        "season": 3,
+        "episode": 8,
+        "overview": "Marty y Wendy deciden hacer las paces con Frank hijo, pero a Ruth no le hace ninguna gracia. Los Byrde toman una decisión difícil acerca de Ben. Reprenden a Maya.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/phSZRc90OcoPEMNSCB5KiKRnau.jpg"
+      },
+      {
+        "id": "tt5071412:3:9",
+        "title": "Rosa intenso",
+        "season": 3,
+        "episode": 9,
+        "overview": "El enfrentamiento de Ben con Helen y Erin pone a los Byrde en guardia. Por otra parte, los temores de Sam respecto al FBI pasan inadvertidos.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9jVDzPAXxR9ZdhR8yCZhDLVR9xi.jpg"
+      },
+      {
+        "id": "tt5071412:3:10",
+        "title": "A tope",
+        "season": 3,
+        "episode": 10,
+        "overview": "Al tiempo que Wendy lucha contra sus propios demonios, Marty se esfuerza por mantener sus vidas a flote. Darlene le hace un favor a Ruth",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8ukoEp7ZNQLTnVAeIYPrUuiVURI.jpg"
+      },
+      {
+        "id": "tt5071412:4:1",
+        "title": "El principio del fin",
+        "season": 4,
+        "episode": 1,
+        "overview": "Marty y Wendy lidian con una oferta problemática. Ruth hace negocios por cuenta propia, Jonah se rebela, y el sobrino de Omar se hace notar.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sP3ZXIp2re6OhYr4QXwGN0Jonuc.jpg"
+      },
+      {
+        "id": "tt5071412:4:2",
+        "title": "Que el vasto mundo siga girando",
+        "season": 4,
+        "episode": 2,
+        "overview": "Maya se opone al plan que tiene Marty para Omar. Ruth explora el mercado de la heroína. Wendy intenta recaudar 150 millones de dólares. La nueva alguacil causa problemas.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9l3xiVvcD0eopgvfNxYefCjD5ea.jpg"
+      },
+      {
+        "id": "tt5071412:4:3",
+        "title": "Una ciudad en ciernes",
+        "season": 4,
+        "episode": 3,
+        "overview": "Maya y Omar se ven cara a cara. Wendy tiene una difícil reunión de negocios. Ruth hace algo a escondidas de Darlene. Jonah encuentra un lugar para instalar el motel.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kMM1UnWLzQy51pKVjGU5aqCdXQx.jpg"
+      },
+      {
+        "id": "tt5071412:4:4",
+        "title": "La suerte en los dados",
+        "season": 4,
+        "episode": 4,
+        "overview": "Las dichos de Wendy sobre Ben enfadan a Ruth. El investigador privado Mel localiza al papá de Wendy. El viaje de Ruth con Kerry no sale según lo previsto.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bbMbidS1dfb0uWyRcJPczWWwl45.jpg"
+      },
+      {
+        "id": "tt5071412:4:5",
+        "title": "Explicación probable",
+        "season": 4,
+        "episode": 5,
+        "overview": "El senador quiere hacer las paces, pero espera algo a cambio. Ruth y Marty intentan recuperar las drogas que vendió Darlene. Charlotte reflexiona sobre su vida a futuro.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oDAbouz98dSE6BQabi6XxReWHDJ.jpg"
+      },
+      {
+        "id": "tt5071412:4:6",
+        "title": "Sangre sobre todo",
+        "season": 4,
+        "episode": 6,
+        "overview": "Marty debe demostrar que Omar no estuvo involucrado en un bombardeo. Wendy visita el motel. Ruth y Wyatt crean un plan.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ouhuOq8M2nKi8ExpTv0PYbd3AIH.jpg"
+      },
+      {
+        "id": "tt5071412:4:7",
+        "title": "Sanctified",
+        "season": 4,
+        "episode": 7,
+        "overview": "La tan esperada reunión del FBI con Omar se lleva a cabo. Wyatt comparte unas noticias con Ruth. Javi se pone agresivo al sentirse traicionado.",
+        "released": "2022-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Jsq1TMJL2O49poMpN4ZnKE0KlU.jpg"
+      },
+      {
+        "id": "tt5071412:4:8",
+        "title": "Lo que te quita el sueño",
+        "season": 4,
+        "episode": 8,
+        "overview": "Ruth viaja a Chicago para vengar una muerte que le ha causado profundo dolor, mientras Marty intenta convencerla de que no haga algo de lo que podría arrepentirse.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aEdR2FH2UCtLiWVScDkc3FhPcPO.jpg"
+      },
+      {
+        "id": "tt5071412:4:9",
+        "title": "Elige a quién rezarle",
+        "season": 4,
+        "episode": 9,
+        "overview": "Tras la anulación del trato con el FBI, los Byrde buscan desesperadamente soluciones para sus problemas, que se siguen acumulando. El padre de Wendy llega a Ozarks.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/HxCrvDuK0eiTmdNOQ8tV8uXfVW.jpg"
+      },
+      {
+        "id": "tt5071412:4:10",
+        "title": "El jefe",
+        "season": 4,
+        "episode": 10,
+        "overview": "Marty visita la propiedad de Navarro, Ruth le pide ayuda a Frank hijo, un nuevo alguacil agita las aguas, y Wendy intenta traer a Jim de vuelta al negocio.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wxmopJseboIS2YTvcpOdRuiRUHz.jpg"
+      },
+      {
+        "id": "tt5071412:4:11",
+        "title": "Seguir en pie",
+        "season": 4,
+        "episode": 11,
+        "overview": "Ruth se asocia con alguien del pasado para hacer su jugada con el casino. Wendy intenta congraciarse con la hermana de Omar y organiza una reunión con Clare.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sbBflrEhrIeouWm62QQlwnYhQQl.jpg"
+      },
+      {
+        "id": "tt5071412:4:12",
+        "title": "El agua se lleva todo",
+        "season": 4,
+        "episode": 12,
+        "overview": "Nathan provoca la ira de Wendy tras hacerles un sorprendente ofrecimiento a Charlotte y a Jonah. Ruth busca limpiar su historial con la ayuda de Charles Wilkes.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lJY39tSwyUGyt8qDgFtY58bK73z.jpg"
+      },
+      {
+        "id": "tt5071412:4:13",
+        "title": "Barro",
+        "season": 4,
+        "episode": 13,
+        "overview": "Omar presiona a Marty para que lave más dinero, pero Ruth se niega a ensuciar su casino. Wendy toma una decisión drástica para no perder a sus hijos.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9wozaCpV2OeCyKaaoRtki0hN3jF.jpg"
+      },
+      {
+        "id": "tt5071412:4:14",
+        "title": "Irse de la peor manera",
+        "season": 4,
+        "episode": 14,
+        "overview": "Tras un sinnúmero de tratos obligados, promesas rotas y muertes, los Byrde intentan dejar atrás el pasado y lo arriesgan todo una última vez para alcanzar su libertad.",
+        "released": "2022-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5YgXy4ktJBO6ID7oJ1rYnjoxb7A.jpg"
+      }
+    ]
+  }
+}

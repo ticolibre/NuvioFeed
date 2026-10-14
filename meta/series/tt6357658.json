@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "id": "tt6357658",
+    "type": "series",
+    "name": "Baki",
+    "poster": "https://image.tmdb.org/t/p/w500/vi7p79cXMSicSLv0zit8M6E2rYX.jpg",
+    "posterShape": "poster",
+    "description": "Mientras el campeón de artes marciales Baki Hanma se entrena para superar la leyenda del padre, cinco condenados a muerte descienden sobre Tokio para desafiarlo.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt6357658:1:1",
+        "title": "Sincronicidad",
+        "season": 1,
+        "episode": 1,
+        "overview": "Tokugawa, un famoso promotor de combates, advierte a Baki que cinco condenados a muerte huyeron de cárceles de diferentes partes del mundo y se dirigen a Tokio.",
+        "released": "2018-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l6WddxxlqumbwL6NiEBfKYs6iSq.jpg"
+      },
+      {
+        "id": "tt6357658:1:2",
+        "title": "Artes marciales oscuras",
+        "season": 1,
+        "episode": 2,
+        "overview": "Mientras Baki domina con facilidad a los matones contratados por delincuentes de su antigua escuela, Spec aparece para evaluar la capacidad del campeón.",
+        "released": "2018-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dUFkV1kpyB7IM74vNHG1AwKjHtN.jpg"
+      },
+      {
+        "id": "tt6357658:1:3",
+        "title": "¡Ya están aquí!",
+        "season": 1,
+        "episode": 3,
+        "overview": "Tras escapar de la pena de muerte, Dorian irrumpe en el dojo Shinshinkai, donde lo enfrenta Retsu, un maestro de las artes marciales chinas.",
+        "released": "2018-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uRillQqO7CuaKVs4ROGtG1x3fK8.jpg"
+      },
+      {
+        "id": "tt6357658:1:4",
+        "title": "La batalla comienza",
+        "season": 1,
+        "episode": 4,
+        "overview": "Los cinco prófugos condenados a muerte y sus contrincantes se reúnen dentro del estadio subterráneo y Tokugawa anuncia oficialmente el comienzo de la batalla.",
+        "released": "2018-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tjkY1weiJfyvuz81b5OonwoTdNA.jpg"
+      },
+      {
+        "id": "tt6357658:1:5",
+        "title": "¿Quieres más?",
+        "season": 1,
+        "episode": 5,
+        "overview": "Baki sale con Kozue y por poco cae en una emboscada de Spec, pero se ahorra una pelea cuando Kaoru aparece de la nada para proteger a la pareja.",
+        "released": "2018-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/R9xvNrEsX2uckv7eSnu5Vrxb5.jpg"
+      },
+      {
+        "id": "tt6357658:1:6",
+        "title": "El informe del oficial Katahira",
+        "season": 1,
+        "episode": 6,
+        "overview": "Spec ataca con técnicas capaces de matar de un solo golpe, pero Hanayama contraataca con sus propios movimientos secretos.",
+        "released": "2018-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7ZZqPKK7kXujcs9qUlbublCNbvl.jpg"
+      },
+      {
+        "id": "tt6357658:1:7",
+        "title": "Un equipo formidable",
+        "season": 1,
+        "episode": 7,
+        "overview": "Baki logra sacar del edificio a Doyle, que lo había emboscado en clase; sin embargo, afuera se topa con Yanagi disfrazado.",
+        "released": "2018-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eiJYoc1sln6P9Xf0fNWeul1pZes.jpg"
+      },
+      {
+        "id": "tt6357658:1:8",
+        "title": "Tiempo de lucha",
+        "season": 1,
+        "episode": 8,
+        "overview": "Dorian penetra las fuertes defensas de Tokugawa mientras Baki y sus aliados analizan lo ocurrido en la escuela.",
+        "released": "2018-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mlZ3rF7h7bugd0UhMqKqpvN6R2U.jpg"
+      },
+      {
+        "id": "tt6357658:1:9",
+        "title": "Shin Shin Kai en shock",
+        "season": 1,
+        "episode": 9,
+        "overview": "Kiyosumi Kato, famoso por ser uno de los karatekas más fuertes del estilo Shinshinkai, enfrenta a Dorian en lo profundo de su escondite secreto.",
+        "released": "2018-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uFizeI9GiqNakuRmbT84IBY5HSU.jpg"
+      },
+      {
+        "id": "tt6357658:1:10",
+        "title": "Duelo en las alturas",
+        "season": 1,
+        "episode": 10,
+        "overview": "El Shinshinkai, con un millón de miembros en todo el país, logra atraer a Dorian hacia un parque de diversiones, donde Suedo, el compañero de Kato, ataca de inmediato.",
+        "released": "2018-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8fxOpv6uGtg8yK4KbV0ChYp370O.jpg"
+      },
+      {
+        "id": "tt6357658:1:11",
+        "title": "Cazador de tigres",
+        "season": 1,
+        "episode": 11,
+        "overview": "El pasado de Dorian se revela. Mientras tanto, Doppo Orochi, el fundador del Shinshinkai, lo reta a una batalla sin reglas de karate contra kempo.",
+        "released": "2018-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5yLS5jJn5hMiQ1v4JX6wvZ46BLW.jpg"
+      },
+      {
+        "id": "tt6357658:1:12",
+        "title": "Dulces",
+        "season": 1,
+        "episode": 12,
+        "overview": "Doppo Orochi destroza a Dorian, que está muerto de miedo, antes de traer a Kiyosumi Kato, también herido gravemente, para dar los golpes de gracia.",
+        "released": "2018-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/md18dgS1waYOn3lwDvPs3yk0pbs.jpg"
+      },
+      {
+        "id": "tt6357658:1:13",
+        "title": "El Sr. Oliva",
+        "season": 1,
+        "episode": 13,
+        "overview": "Sonoda, el jefe de la policía, juzga que los condenados a muerte que escaparon son un peligro para Tokio y busca ayuda de las fuerzas de seguridad de todo el mundo.",
+        "released": "2018-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wWtvvbW1wo1RHwTL7mRjfvwnsR1.jpg"
+      },
+      {
+        "id": "tt6357658:1:14",
+        "title": "Libertad no concedida",
+        "season": 1,
+        "episode": 14,
+        "overview": "Biscuit Oliva llega a Tokio para atrapar a los prófugos restantes. Sikorsky le tiende una trampa a Baki con la ayuda de un aliado inesperado.",
+        "released": "2018-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j4wGL2ST2xRN6ZGWo0z1gB0GQDP.jpg"
+      },
+      {
+        "id": "tt6357658:1:15",
+        "title": "Tremendo poder muscular",
+        "season": 1,
+        "episode": 15,
+        "overview": "Mientras busca pistas en la base de datos de la policía, Biscuit Oliva cae en una emboscada de Doyle, que aparece vestido como una agente.",
+        "released": "2018-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rwS27SpPnirNoBVcCGwcXQPrG6S.jpg"
+      },
+      {
+        "id": "tt6357658:1:16",
+        "title": "El cortador",
+        "season": 1,
+        "episode": 16,
+        "overview": "Biscuit Oliva cree que debería recibir el cinturón negro si venciera a cada agente del equipo de judo, pero Sonoda se resiste a concedérselo.",
+        "released": "2018-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/er4Rj3zSKyrK0Gu1MJX04NB3r9z.jpg"
+      },
+      {
+        "id": "tt6357658:1:17",
+        "title": "¡¡Papá!!",
+        "season": 1,
+        "episode": 17,
+        "overview": "La batalla mortal entre Kosho Shinogi y Doyle llega a su espectacular clímax. Mientras tanto, Yujiro visita por sorpresa a Baki y a Kozue.",
+        "released": "2018-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4L1dZx7izEK4fJI2e1evVjwshxh.jpg"
+      },
+      {
+        "id": "tt6357658:1:18",
+        "title": "Gracias",
+        "season": 1,
+        "episode": 18,
+        "overview": "Sea King Retsu, conocido como el gran maestro de las artes marciales chinas, muestra su dominio de las armas contra el recargado Hector Doyle.",
+        "released": "2018-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4wByu0B9r7TD5d5bb4us5waethS.jpg"
+      },
+      {
+        "id": "tt6357658:1:19",
+        "title": "Admitir la derrota",
+        "season": 1,
+        "episode": 19,
+        "overview": "Luego de provocar una explosión en el dojo de Shinshinkai, Doyle se enfrenta a Doppo, su fundador. Tokugawa visita al maestro de Ryukoh Yanagi.",
+        "released": "2018-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z9A7QkGr1cHmOePMgXSFbNfUsi4.jpg"
+      },
+      {
+        "id": "tt6357658:1:20",
+        "title": "Saga",
+        "season": 1,
+        "episode": 20,
+        "overview": "Tokugawa aprende el movimiento del arte marcial \"kudo\" más letal de todos: la mano con veneno. Baki da el siguiente paso en su relación con Kozue.",
+        "released": "2018-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/807uYl8KsrDVHPAl7ikyPgav9Bc.jpg"
+      },
+      {
+        "id": "tt6357658:1:21",
+        "title": "Castigo",
+        "season": 1,
+        "episode": 21,
+        "overview": "Con energías renovadas, Baki se defiende fácilmente de los ataques de Ryukoh Yanagi y Sikorsky, pero, antes de acabar con ellos, hace un movimiento inesperado.",
+        "released": "2018-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ugKCv7gV5YPdlzP94dXAXjU5Xog.jpg"
+      },
+      {
+        "id": "tt6357658:1:22",
+        "title": "El enfrentamiento de los alfa",
+        "season": 1,
+        "episode": 22,
+        "overview": "Jack Hammer, el medio hermano de Baki, desafía a Sikorsky en un parque local, donde se desata una batalla en los rincones más inimaginables.",
+        "released": "2018-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/digqiX9YSm1mpiHTMNzLcoVGA3y.jpg"
+      },
+      {
+        "id": "tt6357658:1:23",
+        "title": "El ataque verdadero",
+        "season": 1,
+        "episode": 23,
+        "overview": "En el estadio subterráneo, Gaia desgasta lentamente a Sikorsky con su estilo de combate poco ortodoxo.",
+        "released": "2018-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8CH6qFVKMImUgIhhHnAhPI7Dfha.jpg"
+      },
+      {
+        "id": "tt6357658:1:24",
+        "title": "Derrota",
+        "season": 1,
+        "episode": 24,
+        "overview": "Ahora que Ryukoh Yanagi ya no representa una amenaza, Yujiro Hanma le suplica que admita la derrota contra el espadachín y luchador de jujutsu Izo Motobe.",
+        "released": "2018-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iQtv4LUT3e9VgYWg9PdbYsKBOU4.jpg"
+      },
+      {
+        "id": "tt6357658:1:25",
+        "title": "El bien y el mal",
+        "season": 1,
+        "episode": 25,
+        "overview": "Un legendario campeón mundial de boxeo de peso pesado reflexiona sobre su encontronazo con el joven Yujiro Hanma.",
+        "released": "2018-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rWp9aXWI3mKcWYlcM8cffYsHLtC.jpg"
+      },
+      {
+        "id": "tt6357658:1:26",
+        "title": "El torneo centenario",
+        "season": 1,
+        "episode": 26,
+        "overview": "Retsu le suplica a su mentor Sea King Ryu que le conceda a Baki, víctima de un veneno mortal, un pase especial al torneo de artes marciales de Raitai.",
+        "released": "2018-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3699oIPV4zvjNiEd1GMPQjz0Xst.jpg"
+      },
+      {
+        "id": "tt6357658:2:1",
+        "title": "¡Que comience el torneo centenario!",
+        "season": 2,
+        "episode": 1,
+        "overview": "Mohammad Alai Jr. prueba a Yujiro, que está ansioso por pelear. Kaioh Retsu anota a Baki en el Gran Torneo de Raitai, que tendrá lugar en China.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uDK2JjN1aEAEHSnR5CvD0MK4WjC.jpg"
+      },
+      {
+        "id": "tt6357658:2:2",
+        "title": "Giro radical",
+        "season": 2,
+        "episode": 2,
+        "overview": "La velocidad letal de Alai Jr. no le da respiro a su oponente. Un desnutrido Baki se enfrenta a Kaioh Li, el luchador que mejor maneja la Mano Veneno en China.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q3mkdo9z4lubIAaJl8OiTVJ9Mke.jpg"
+      },
+      {
+        "id": "tt6357658:2:3",
+        "title": "Dulce recuperación",
+        "season": 2,
+        "episode": 3,
+        "overview": "Kaku, el emperador del mar, tiene 121 años más que su adversario, pero el legendario campeón no duda en enfrentarse a Kaioh Samwan en la arena.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/34RmY27b875qEj30DCncttP4nN4.jpg"
+      },
+      {
+        "id": "tt6357658:2:4",
+        "title": "¡Hay equipo!",
+        "season": 2,
+        "episode": 4,
+        "overview": "Kaioh Chin y Jyaku, el único Kaioh japonés, se miden en el torneo. Entre tanto, Baki incita a Yujiro a tener una pelea fuera de la arena.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2rREONhrIQ9muLKtawpaTGpV84d.jpg"
+      },
+      {
+        "id": "tt6357658:2:5",
+        "title": "Manos en los bolsillos",
+        "season": 2,
+        "episode": 5,
+        "overview": "Los músculos de Oliva son monstruosos, pero poco valen frente a Shobun Ron y su singular técnica de lucha. Fuerza bruta versus iaido kenpo.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Vo4cmPa9fa0HcgfnOz4clX16Zo.jpg"
+      },
+      {
+        "id": "tt6357658:2:6",
+        "title": "¡Excelennnte!",
+        "season": 2,
+        "episode": 6,
+        "overview": "El genio del kenpo chino, Kaioh Retsu, es el luchador supremo. Pero las maniobras sucias y las proezas tácticas de Jyaku lo convierten en un rival formidable.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xDAsazFaUqfRsOdsWWP8wddkaCI.jpg"
+      },
+      {
+        "id": "tt6357658:2:7",
+        "title": "Kaioh",
+        "season": 2,
+        "episode": 7,
+        "overview": "Kaku, emperador del mar, es la personificación del kenpo chino. Yujiro Hanma es la criatura más fuerte de la Tierra. Comienza una batalla sin igual entre ambos.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aebpliGZ3hgFkAXPJ0G7ssIXvPL.jpg"
+      },
+      {
+        "id": "tt6357658:2:8",
+        "title": "El más fuerte",
+        "season": 2,
+        "episode": 8,
+        "overview": "Yujiro y su imponente físico se enfrentan a Kaku, un gran artista marcial con 140 años de carrera. El sorprendente resultado del encuentro deja a todos boquiabiertos.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AdxeW1UD1DCOZ7cBPtuMXWpAAmg.jpg"
+      },
+      {
+        "id": "tt6357658:2:9",
+        "title": "El maestro contra el boxeador",
+        "season": 2,
+        "episode": 9,
+        "overview": "Alai Jr. le propone casamiento a Kozue, y ella queda atónita. Para probar que es mejor que Baki, el estadounidense desafía a Shibukawa, un maestro de las artes marciales.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lB6ZkaRa10unknMepIW1Y9mhrhA.jpg"
+      },
+      {
+        "id": "tt6357658:2:10",
+        "title": "Levántate y lucha",
+        "season": 2,
+        "episode": 10,
+        "overview": "Alai Jr. continúa midiendo sus habilidades frente a luchadores notables, pero el medio hermano de Baki no es como ninguno de los oponentes con los que ha peleado.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x61NlMTjKIyxt9Wje10i73C5HVS.jpg"
+      },
+      {
+        "id": "tt6357658:2:11",
+        "title": "El despertar",
+        "season": 2,
+        "episode": 11,
+        "overview": "Gravemente herido por sus peleas callejeras, Alai Jr. regresa a la habitación del hotel. Allí, su padre, el boxeador más grande de todos los tiempos, lo desafía a pelear.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8efvJiqwOFP5XYdTLRe0EOSmqDr.jpg"
+      },
+      {
+        "id": "tt6357658:2:12",
+        "title": "La pelea tan esperada",
+        "season": 2,
+        "episode": 12,
+        "overview": "Una pelea donde vale todo reúne a los hijos de dos legendarios luchadores: Baki y Alai Jr. ¿Quién ganará? Eso está por verse...",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ruCF5486yiMVvA84Zje5CwCNd2u.jpg"
+      },
+      {
+        "id": "tt6357658:2:13",
+        "title": "Venganza en Tokio",
+        "season": 2,
+        "episode": 13,
+        "overview": "Con Ryuukou Yanagi fugado de prisión, el inspector Sonoda intenta verificar el paradero de los demás sentenciados a muerte que sembraron el caos en Tokio.",
+        "released": "2020-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uBEb3EE58jaFJ0HXw4QFsxPrKa6.jpg"
+      }
+    ]
+  }
+}

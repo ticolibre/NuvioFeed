@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt10937180",
+    "type": "series",
+    "name": "Sé lo que hicieron el verano pasado",
+    "poster": "https://image.tmdb.org/t/p/w500/yko1OtTLoa0aw3HxtR8NI2T5r9t.jpg",
+    "posterShape": "poster",
+    "description": "En una ciudad hawaiana bañada por el sol con un pasado misterioso, un grupo de amigos se queda con un oscuro secreto después de un trágico accidente. Un año después, un miembro del grupo recibe un mensaje amenazante y los amigos ahora saben que alguien tiene la intención de hacerles pagar el verano pasado.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Misterio",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/cENiQ3AJIHjpPsE9dW8KDmvldTK.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10937180:1:1",
+        "title": "Es jueves",
+        "season": 1,
+        "episode": 1,
+        "overview": "Lennon Grant regresa a casa después de su primer año en la universidad y descubre que alguien conoce el terrible secreto que ella y su pandilla de amigos juraron guardar el verano pasado.",
+        "released": "2021-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/71R2G1bfIoThjlQ0lBVpImb8QVL.jpg"
+      },
+      {
+        "id": "tt10937180:1:2",
+        "title": "No es solo para mierda de perro",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tras tiempo separados, los amigos se reúnen para tratar de averiguar quién podría haber revelado su secreto o quién más sabe lo que hicieron, y ello acaba en un asesinato.",
+        "released": "2021-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ruigqjr6xcfZjUnnp7hdTXEzGb.jpg"
+      },
+      {
+        "id": "tt10937180:1:3",
+        "title": "Una cabeza de gorila no sirve",
+        "season": 1,
+        "episode": 3,
+        "overview": "Incapaces de acudir a las autoridades sin revelar su secreto, los miembros de la pandilla deben resolver el misterio por su cuenta. Aparecen más cuerpos, mientras comprenden que están siendo incansablemente perseguidos.",
+        "released": "2021-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Y6sK5lRIWAuXlnqErYIq9IXegJ.jpg"
+      },
+      {
+        "id": "tt10937180:1:4",
+        "title": "Ensalada de gambas caliente",
+        "season": 1,
+        "episode": 4,
+        "overview": "Lennon descubre secretos sobre su gemela y comienza a temer lo peor sobre la verdadera identidad de la persona que asesina a sus amigos. La comunidad local está conmocionada por los asesinatos.",
+        "released": "2021-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yIxBgAiRjkkWfll8oOrc5C8diSM.jpg"
+      },
+      {
+        "id": "tt10937180:1:5",
+        "title": "Mukbang",
+        "season": 1,
+        "episode": 5,
+        "overview": "La policía interroga a todos los habitantes de la ciudad que tengan alguna relación con las víctimas. La pandilla cree saber quién los persigue y busca pruebas que impliquen a una persona loca de la ciudad.",
+        "released": "2021-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hpN43ULSe7BrIONniBIFfxPQPq7.jpg"
+      },
+      {
+        "id": "tt10937180:1:6",
+        "title": "Al menos tenías repuesto",
+        "season": 1,
+        "episode": 6,
+        "overview": "Lennon descubre verdades más devastadoras, mientras la pandilla busca frenéticamente a uno de sus miembros que ha desaparecido.",
+        "released": "2021-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2mH9EpncprfSc1DxXHZ1NALHwRG.jpg"
+      },
+      {
+        "id": "tt10937180:1:7",
+        "title": "Si los perros hablaran",
+        "season": 1,
+        "episode": 7,
+        "overview": "La ciudad se apresura para encontrar al asesino antes de que caiga otra víctima. La calma parece recuperarse y las muertes se detienen, hasta que la policía hace un descubrimiento espantoso.",
+        "released": "2021-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ayAdRQ5ZWztPvEKTUXKR6zWfe33.jpg"
+      },
+      {
+        "id": "tt10937180:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2021-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/apSw4X4laj4CDuz6ygOWmqSXAaZ.jpg"
+      }
+    ]
+  }
+}

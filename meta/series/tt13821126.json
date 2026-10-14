@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "id": "tt13821126",
+    "type": "series",
+    "name": "Extrapolaciones",
+    "poster": "https://image.tmdb.org/t/p/w500/7J37eKtNtNAyxnDetcxGVxiVnpq.jpg",
+    "posterShape": "poster",
+    "description": "En ocho historias interconectadas y contadas a lo largo de 33 años se explora cómo es que el cambio climático de nuestro planeta afecta a la familia, el trabajo, la fe y la sobrevivencia.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/cSlwoQCSgYryqC9yQLdtFpuDnfR.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt13821126:1:1",
+        "title": "2037: Historia de un cuervo",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mientras las naciones pelean por el destino de la Tierra, Rebecca, Marshall y Junior ven cómo sus planes se esfuman.",
+        "released": "2023-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oooiUsDQXP9F7JuFtVP4CarRSJx.jpg"
+      },
+      {
+        "id": "tt13821126:1:2",
+        "title": "2046: La caída de la ballena",
+        "season": 1,
+        "episode": 2,
+        "overview": "Rebecca, una bióloga marina, trata de conectar con una ballena jorobada antes de que sea demasiado tarde.",
+        "released": "2023-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tUYmZfNMYddzaosScxCvIkGT692.jpg"
+      },
+      {
+        "id": "tt13821126:1:3",
+        "title": "2047: La quinta pregunta",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras el nivel del agua en Miami aumenta, el rabino Zucker recibe una oferta intrigante del padre de una adolescente que se prepara para su bat mitzvah.",
+        "released": "2023-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xYpvdGwaHgbG1RKF6rXld4HITnw.jpg"
+      },
+      {
+        "id": "tt13821126:1:4",
+        "title": "2059: El rostro de Dios",
+        "season": 1,
+        "episode": 4,
+        "overview": "Jonathan sospecha que el nuevo avión sin piloto alimentado con energía solar que inventó su exesposa no es lo que parece.",
+        "released": "2023-03-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fRIyw8IKQWUsuhrpVx3gfAN5Sq.jpg"
+      },
+      {
+        "id": "tt13821126:1:5",
+        "title": "2059, segunda parte: Pájaros nocturnos",
+        "season": 1,
+        "episode": 5,
+        "overview": "En Bombai, Gaurav, un criminal aficionado, y su inesperado compañero Neel deben completar una riesgosa misión.",
+        "released": "2023-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hBUI4smZ8olFLHpdLt6UXxxNeP7.jpg"
+      },
+      {
+        "id": "tt13821126:1:6",
+        "title": "2066: Lola",
+        "season": 1,
+        "episode": 6,
+        "overview": "Natasha es una mamá soltera en Londres que enfrenta el mundo de la compañía artificial hasta que renta un compañero que no puede olvidar.",
+        "released": "2023-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/brOX5z288EdPTFChnYHYuPT2Ke1.jpg"
+      },
+      {
+        "id": "tt13821126:1:7",
+        "title": "2068: La fiesta de despedida",
+        "season": 1,
+        "episode": 7,
+        "overview": "Auggie y Sylvie tienen una cena íntima de Año nuevo en la que él hace un anuncio sorpresa.",
+        "released": "2023-04-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/LyKMy1NrR6TIqmIIMI3fNGZRCJ.jpg"
+      },
+      {
+        "id": "tt13821126:1:8",
+        "title": "2070: Ecocidio",
+        "season": 1,
+        "episode": 8,
+        "overview": "Nicholas Bilton está siendo juzgado por crímenes contra el planeta. ¿La nueva directora de Alpha lo salvará a él y al mundo?",
+        "released": "2023-04-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mwsYvVz3dg458O0TK27qRU2kZx2.jpg"
+      }
+    ]
+  }
+}

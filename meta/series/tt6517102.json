@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "id": "tt6517102",
+    "type": "series",
+    "name": "Castlevania",
+    "poster": "https://image.tmdb.org/t/p/w500/WzFHnJY44uDERER0xi1jOdoafT.jpg",
+    "posterShape": "poster",
+    "description": "Un cazavampiros lucha por salvar una ciudad asediada por un ejército de bestias controladas por Drácula.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/jLE5bsPA9xOKzBWOaOmKbp1DWQS.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt6517102:1:1",
+        "title": "Botella de bruja",
+        "season": 1,
+        "episode": 1,
+        "overview": "Una chica obstinada está en busca de sabiduría prohibida, y un obispo corrupto enfurece a una leyenda y le abre las puertas al desastre.",
+        "released": "2017-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/182GWr0iCfxi0T7a3vPBBSpVO6l.jpg"
+      },
+      {
+        "id": "tt6517102:1:2",
+        "title": "Necrópolis",
+        "season": 1,
+        "episode": 2,
+        "overview": "Trevor Belmont se dirige a Gresit, una ciudad en pánico, donde descubre una antigua maldad y hace una promesa sorprendente.",
+        "released": "2017-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1qB1sg8rDFD3gzSuQyjBwjyL6jD.jpg"
+      },
+      {
+        "id": "tt6517102:1:3",
+        "title": "Laberinto",
+        "season": 1,
+        "episode": 3,
+        "overview": "Belmont explora las catacumbas de Gresit y descubre algo perturbador. Al caer la noche, las bestias vuelven por sangre.",
+        "released": "2017-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7kOqylr7KkSWlYY5EcSM7qE22vx.jpg"
+      },
+      {
+        "id": "tt6517102:1:4",
+        "title": "Monumento",
+        "season": 1,
+        "episode": 4,
+        "overview": "En el final de la temporada, Belmont se esfuerza por salvar a Gresit de la perdición y se enfrenta cara a cara con una verdad sorprendente.",
+        "released": "2017-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e58Nqb7aJ57fiWQdewsKrEGmUgm.jpg"
+      },
+      {
+        "id": "tt6517102:2:1",
+        "title": "Consejo de guerra",
+        "season": 2,
+        "episode": 1,
+        "overview": "Drácula encarga una misión mortal, y personal, a dos humanos que odian profundamente a la humanidad. Lo que no sabe es que él también está en la lista de víctimas.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hUO9VuXIVdLxz4BW38VmZrIatoI.jpg"
+      },
+      {
+        "id": "tt6517102:2:2",
+        "title": "Hogares ancestrales",
+        "season": 2,
+        "episode": 2,
+        "overview": "Belmont comparte una estrategia arriesgada con Alucard y Sypha. Drácula aborda un conflicto con sus tropas. Isaac recuerda un encuentro doloroso.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/DZmt4SJpaXYBuPXKlMPH6Yb3CN.jpg"
+      },
+      {
+        "id": "tt6517102:2:3",
+        "title": "Batallas ocultas",
+        "season": 2,
+        "episode": 3,
+        "overview": "Belmont viaja al archivo familiar, acompañado de Sypha y del cínico Alucard. Godbrand expresa sus sospechas sobre la motivación de Drácula.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eRkDLE6mLHZDz5QSzKhDwEc1WWq.jpg"
+      },
+      {
+        "id": "tt6517102:2:4",
+        "title": "Mástil roto",
+        "season": 2,
+        "episode": 4,
+        "overview": "La sed de Godbrand aumenta, y Carmilla intenta reclutar a Hector. Isaac demuestra su lealtad, y Belmont comparte una historia familiar con Sypha.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4qR6jwFPhoFJkAMwsjM7sMmw1iw.jpg"
+      },
+      {
+        "id": "tt6517102:2:5",
+        "title": "Último hechizo",
+        "season": 2,
+        "episode": 5,
+        "overview": "Carmilla avanza con su plan a pesar de la desaparición de Godbrand. En los archivos, Sypha hace un descubrimiento sorprendente.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2jNbQaPH4smF1jSEdfn6iYR566S.jpg"
+      },
+      {
+        "id": "tt6517102:2:6",
+        "title": "El río",
+        "season": 2,
+        "episode": 6,
+        "overview": "¿Realmente tiene lo necesario para mantener la reputación familiar? Llega el momento de que Belmont elija su destino. Por su parte, Drácula se prepara para el combate.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qUnz4ZBv9Tlp8f7vPAdXjLX1QjY.jpg"
+      },
+      {
+        "id": "tt6517102:2:7",
+        "title": "Por amor",
+        "season": 2,
+        "episode": 7,
+        "overview": "Belmont, Alucard y Sypha se enfrentan a su enemigo inmortal: Drácula. El futuro de la humanidad está en juego.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tcbwgTAlI1z9TMkfnfwdPhEr6CE.jpg"
+      },
+      {
+        "id": "tt6517102:2:8",
+        "title": "El fin de los días",
+        "season": 2,
+        "episode": 8,
+        "overview": "La guerra entre humanos y vampiros parece estar resuelta, y los sobrevivientes (buenos y malos) piensan en el futuro.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mkCb8JCQ5l9EeSsYMGHVu8rCcuw.jpg"
+      },
+      {
+        "id": "tt6517102:3:1",
+        "title": "Muertos de buen corazón",
+        "season": 3,
+        "episode": 1,
+        "overview": "Alucard trata de acostumbrarse a la vida en soledad, Belmont y Sypha visitan un pueblo extraño y escalofriante, y Carmilla vuelve a casa con una sorpresa.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ejiedyGj4q4EpKwaj9mWosu8t8g.jpg"
+      },
+      {
+        "id": "tt6517102:3:2",
+        "title": "La reparación de mi corazón",
+        "season": 3,
+        "episode": 2,
+        "overview": "Isaac sigue buscando a Hector y recibe ayuda inesperada. Mientras tanto, Carmilla planea una movida magistral, y Alucard se cruza con dos admiradores.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8IMoaqAFCqLXRlwRmvGGhcJdYL0.jpg"
+      },
+      {
+        "id": "tt6517102:3:3",
+        "title": "Investigadores",
+        "season": 3,
+        "episode": 3,
+        "overview": "El plan de Belmont y Sypha para salir de Lindenfeld se topa con un obstáculo. Isaac y el capitán debaten sobre la humanidad. Hector intenta descifrar a Lenore.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7B013xpn4qwhTkXa0Xj2MiLTinF.jpg"
+      },
+      {
+        "id": "tt6517102:3:4",
+        "title": "Tengo un plan",
+        "season": 3,
+        "episode": 4,
+        "overview": "Zumi y Takka le cuentan su historia a Alucard. Luego, Saint Germain entra al priorato, y la ciudad de Génova le da una helada bienvenida a Isaac.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gJdO63ZsDupBG9FcjnW0toVZPu.jpg"
+      },
+      {
+        "id": "tt6517102:3:5",
+        "title": "Sede de civilización y refinamiento",
+        "season": 3,
+        "episode": 5,
+        "overview": "Belmont y el juez descubren un símbolo premonitorio. La búsqueda del tesoro de Saint Germain termina antes de lo esperado. Alucard se acerca más a Zumi y Takka.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zA15HRuqj6cssuXiZHmKtnj1aVn.jpg"
+      },
+      {
+        "id": "tt6517102:3:6",
+        "title": "El buen sueño",
+        "season": 3,
+        "episode": 6,
+        "overview": "Lenore pasa más tiempo con Hector y poco a poco se gana su confianza. Saint Germain sufre una pesadilla reveladora sobre el Corredor Infinito.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nO22uv6My2nG9nsWvHdDvaO3T29.jpg"
+      },
+      {
+        "id": "tt6517102:3:7",
+        "title": "Cosas peores que la traición",
+        "season": 3,
+        "episode": 7,
+        "overview": "Mientras Saint Germain hace descubrimientos inquietantes, Isaac se dirige a un enfrentamiento. Por otro lado, Belmont y Sypha interrogan a un monje.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q6OPCflU8LZaPXCPKAsy09FDPHb.jpg"
+      },
+      {
+        "id": "tt6517102:3:8",
+        "title": "Qué depara la noche",
+        "season": 3,
+        "episode": 8,
+        "overview": "Algo se mueve en el sótano del priorato; para Belmont y Sypha, no hay tiempo que perder... Lenore se abre con Hector acerca de los planes de Carmilla.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ibUKYIAf71dqAS158ThHLDolmLc.jpg"
+      },
+      {
+        "id": "tt6517102:3:9",
+        "title": "La cosecha",
+        "season": 3,
+        "episode": 9,
+        "overview": "La noche deja caer toda su oscuridad sobre Lindenfeld. Mientras tanto, Isaac conoce al mago, Hector promete algo importante, y Zumi y Takka hacen una jugada.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p9zevWOSX5ciCfzhbXljJmeulvV.jpg"
+      },
+      {
+        "id": "tt6517102:3:10",
+        "title": "Abandone toda esperanza",
+        "season": 3,
+        "episode": 10,
+        "overview": "El portal al infierno está abierto, y Trevor y Sypha enfrentan una masacre. Además, se revela el secreto del juez, y Hector descubre su destino.",
+        "released": "2020-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j1TxNegEsjNyAg5HZErzUE3WHzy.jpg"
+      },
+      {
+        "id": "tt6517102:4:1",
+        "title": "La muerte lo activa",
+        "season": 4,
+        "episode": 1,
+        "overview": "Belmont y Sypha continúan peleando contra bestias leales a Drácula, pero los empieza a invadir el cansancio. Entre tanto, Alucard recibe a un invitado.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vFAq2gAG5RidCBJyWbo7NxfSYWX.jpg"
+      },
+      {
+        "id": "tt6517102:4:2",
+        "title": "Tener el mundo",
+        "season": 4,
+        "episode": 2,
+        "overview": "Lenore le suplica a Hector que no ponga a prueba la paciencia de Carmilla. Belmont y Sypha se cruzan con Zamfir, una jefa de guardias cuya confianza deberán ganarse.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9lCKiL9nI41n4TRuD9j55KESg5C.jpg"
+      },
+      {
+        "id": "tt6517102:4:3",
+        "title": "Sigue caminando",
+        "season": 4,
+        "episode": 3,
+        "overview": "Isaac logra perturbar a Varney. Los vampiros Morana y Striga reciben un mensaje urgente de Carmilla. Belmont y Sypha recorren Targoviste.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pFGhpOeKf2el36ATSVN9yAaHEuq.jpg"
+      },
+      {
+        "id": "tt6517102:4:4",
+        "title": "Sacrificar todo",
+        "season": 4,
+        "episode": 4,
+        "overview": "Alucard llega a Danesti en una hora crítica, y su entrada no pasa desapercibida. Saint Germain, el consejero de las grandes cortes, reflexiona sobre su retorcido camino.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Kc0le80f4OPwkw8s6V4VGBW0ZO.jpg"
+      },
+      {
+        "id": "tt6517102:4:5",
+        "title": "Volver a la vida",
+        "season": 4,
+        "episode": 5,
+        "overview": "Con ayuda de Greta, Alucard guía a los habitantes del pueblo a su castillo para protegerlos. Sypha cuestiona el liderazgo de Zamfir. Isaac hace su jugada.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9bUbwLtlxxYZLmDdqF9X6Gck2tB.jpg"
+      },
+      {
+        "id": "tt6517102:4:6",
+        "title": "No merecen mi sangre",
+        "season": 4,
+        "episode": 6,
+        "overview": "Mientras Isaac y su ejército de criaturas de la noche invaden el castillo de Carmilla, Hector termina los preparativos para el sangriento encuentro.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f6v1Z8sVj8JzcX7FB5X76AW28Xo.jpg"
+      },
+      {
+        "id": "tt6517102:4:7",
+        "title": "La gran obra",
+        "season": 4,
+        "episode": 7,
+        "overview": "Varney y Ratko descubren que su plan está funcionando, ¿pero de quién es el mérito? Zamfir les muestra a Belmont y a Sypha el tribunal subterráneo.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6LavOPYGZDwl5v1qCv2TjD6M50d.jpg"
+      },
+      {
+        "id": "tt6517102:4:8",
+        "title": "Magia de muerte",
+        "season": 4,
+        "episode": 8,
+        "overview": "Belmont, Sypha y Zamfir pelean contra Varney, Ratko y su ejército profano. El castillo de Alucard sufre un ataque, y Saint Germain hace explícito su plan.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9snLeQUb8TO7Dkp0lefOCoQmnzf.jpg"
+      },
+      {
+        "id": "tt6517102:4:9",
+        "title": "El final",
+        "season": 4,
+        "episode": 9,
+        "overview": "Belmont y Sypha unen fuerzas con su viejo amigo Alucard... justo a tiempo. Mientras la batalla se intensifica, Varney revela su verdadera forma.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oYU5w73Gvxv5h3k1VKlEXTh7iUb.jpg"
+      },
+      {
+        "id": "tt6517102:4:10",
+        "title": "Ha sido un viaje extraño",
+        "season": 4,
+        "episode": 10,
+        "overview": "Sin poder resignarse a vivir en una jaula, Lenore elige otro destino. Alucard planea el futuro de su castillo. Sypha se pregunta si habrá perdido a Belmont para siempre.",
+        "released": "2021-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aQphltNKc8pmE2128iybtMHoVm8.jpg"
+      }
+    ]
+  }
+}

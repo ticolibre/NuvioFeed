@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt14181914",
+    "type": "series",
+    "name": "Mike: Mas allá de Tyson",
+    "poster": "https://image.tmdb.org/t/p/w500/mToat19zf3722U9xMrTrfYMcykZ.jpg",
+    "posterShape": "poster",
+    "description": "Explora la vida y la carrera salvaje, trágica y controvertida del campeón de peso pesado Mike Tyson, una de las figuras más polarizadoras de la cultura deportiva.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/3MCHc74eGFBcE507jKQez6xMpFH.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt14181914:1:1",
+        "title": "Ladrón",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mike Tyson responde a \"¿Quién soy?\" mientras habla de su infancia en Brownsville, Nueva York.",
+        "released": "2022-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4twOzPEt9bv0ZA7S70qF48HGIHO.jpg"
+      },
+      {
+        "id": "tt14181914:1:2",
+        "title": "Monstruo",
+        "season": 1,
+        "episode": 2,
+        "overview": "Cus D'amanto descubre a Mike con 13 años. Perfecciona su disciplina, sus habilidades y su ego.",
+        "released": "2022-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pd2ZUwzk0Xjz3P79o2P62VEJxUD.jpg"
+      },
+      {
+        "id": "tt14181914:1:3",
+        "title": "Amante",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mike se enamora de Robin Givens y se pregunta cómo puede alguien que se odia amar a otra persona.",
+        "released": "2022-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8xuR736XWUQ8JJnGgGYn3fUoAtE.jpg"
+      },
+      {
+        "id": "tt14181914:1:4",
+        "title": "Sustento",
+        "season": 1,
+        "episode": 4,
+        "overview": "Don King fomenta el estilo de vida excesivo de Mike, que pierde el título frente a Buster Douglas.",
+        "released": "2022-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1qMltvHxiOOnxKLBUxMOtLNIo6m.jpg"
+      },
+      {
+        "id": "tt14181914:1:5",
+        "title": "Desiree",
+        "season": 1,
+        "episode": 5,
+        "overview": "Una estudiante modelo de 18 años llamada Desiree Washington acusa a Mike de violación.",
+        "released": "2022-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6RTzFiwcoqh6O9xm71zpyihYoT0.jpg"
+      },
+      {
+        "id": "tt14181914:1:6",
+        "title": "Entre rejas",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mike habla de sus tres años tras las rejas en la Administración Penitenciaria de Indiana.",
+        "released": "2022-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4wcL70uqV7irfX9XsoY3OeLBm91.jpg"
+      },
+      {
+        "id": "tt14181914:1:7",
+        "title": "Caníbal",
+        "season": 1,
+        "episode": 7,
+        "overview": "Tyson habla de la serie de eventos que le hicieron dar ese mordisco \"escuchado en todo el mundo\".",
+        "released": "2022-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ot6r7qelLovHjBN3Vj9w8754wb4.jpg"
+      },
+      {
+        "id": "tt14181914:1:8",
+        "title": "Fénix",
+        "season": 1,
+        "episode": 8,
+        "overview": "Mike se enfrenta a sus demonios hasta que comprende quién es realmente.",
+        "released": "2022-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4UteMTvRuwijpGTGDzikKt0ExgY.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "tt9848536",
+    "type": "series",
+    "name": "Somos quienes somos",
+    "poster": "https://image.tmdb.org/t/p/w500/33btSKKmjmc24hK9Vj1sRWQGfyh.jpg",
+    "posterShape": "poster",
+    "description": "Dos niños estadounidenses que viven en una base militar estadounidense en Italia exploran la amistad, el primer amor, la identidad y toda la alegría y la angustia desordenada de ser un adolescente.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ioxGhd9jtJT8qGQHuhuodlqaGmX.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt9848536:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2020-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ywg3JKQ8hFmy4hwQyhbf3chsMOL.jpg"
+      },
+      {
+        "id": "tt9848536:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2020-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/57PAvTt5QIqD6lrJPXEtqKqrlvP.jpg"
+      },
+      {
+        "id": "tt9848536:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2020-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2iqwVQU13VFRAEKGHomrKtCvrju.jpg"
+      },
+      {
+        "id": "tt9848536:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2020-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/95ibdDlaXj7VSIHuXnEEB73A5c0.jpg"
+      },
+      {
+        "id": "tt9848536:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2020-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hBmMaUO1FRC9Tow0QV4zz6pLwWv.jpg"
+      },
+      {
+        "id": "tt9848536:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2020-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pDJu6C2U805lNtJcjVSRbMXSqLL.jpg"
+      },
+      {
+        "id": "tt9848536:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2020-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zaTiA3M1csaau9qWl9vXMqeePaj.jpg"
+      },
+      {
+        "id": "tt9848536:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2020-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ylPUwQabHlVAhBE1M4yxp9FJyG5.jpg"
+      }
+    ]
+  }
+}

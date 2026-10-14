@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "id": "tt9077530",
+    "type": "series",
+    "name": "Un lugar para soñar",
+    "poster": "https://image.tmdb.org/t/p/w500/zZlyJhRyPzfq6Y5rZ7aWtiPI8Lo.jpg",
+    "posterShape": "poster",
+    "description": "Melinda Monroe quiere empezar de cero y dejar Los Angeles, así que contesta a un anuncio para trabajar de enfermera en Virgin River, un pueblo remoto del norte de California cerca de las montañas rocosas. Pero una vez allí descubre que la vida no es tan sencilla como esperaba.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/m1nuMHBCiNy6pMGzRAdH5frNesN.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt9077530:1:1",
+        "title": "Seguir adelante",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mel es una enfermera practicante que se muda a un pueblo remoto al norte de California para empezar de cero y pronto se da cuenta de que no será fácil adaptarse.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2w5yRzu6TNxnsRUg9R3QW7blM55.jpg"
+      },
+      {
+        "id": "tt9077530:1:2",
+        "title": "Perderse",
+        "season": 1,
+        "episode": 2,
+        "overview": "Mel encuentra a una bebé abandonada en el porche de la clínica y discute con el jefe sobre qué hacer: llamar a Servicios Sociales o buscar a su mamá.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jcURopUrZMvWDG4MCMmDtYQQq7e.jpg"
+      },
+      {
+        "id": "tt9077530:1:3",
+        "title": "... y encontrarse",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mel piensa en ser la tutora temporal de Chloe mientras sobrelleva su duelo. Jack intenta convencerla de que se quede en Virgin River.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nqIwtFuASb2M9wTD2wuEVRrKIjN.jpg"
+      },
+      {
+        "id": "tt9077530:1:4",
+        "title": "Corazón herido",
+        "season": 1,
+        "episode": 4,
+        "overview": "Hope toma una decisión después de un susto, Charmaine le hace preguntas incómodas a Mel, y Paige esconde secretos.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sU3xkScthpvfOkMhbENg1a5Il7L.jpg"
+      },
+      {
+        "id": "tt9077530:1:5",
+        "title": "Bajo fuego",
+        "season": 1,
+        "episode": 5,
+        "overview": "Presionados, Mel y Jack van a un campamento de cultivos ilegales para ayudar con una emergencia. Charmaine y Hope tienen una discusión.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bqbxSHcRYiHgfSb4hJ46O657YGy.jpg"
+      },
+      {
+        "id": "tt9077530:1:6",
+        "title": "A mezclarse",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mel recibe una visita sorpresa justo el día del gran baile del pueblo. Mientras tanto, Jack sigue luchando contra los recuerdos de su paso por el ejército.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vv3pmx6qrVwwDbiglUUk4t34mDP.jpg"
+      },
+      {
+        "id": "tt9077530:1:7",
+        "title": "A decir verdad",
+        "season": 1,
+        "episode": 7,
+        "overview": "Preacher descubre un secreto. Los fantasmas del pasado acechan a Mel. Jack habla sin caretas con Charmaine sobre su relación.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nItqEmGoQP44yMgHrmpDYFG1SrL.jpg"
+      },
+      {
+        "id": "tt9077530:1:8",
+        "title": "Hacia la luz",
+        "season": 1,
+        "episode": 8,
+        "overview": "Hay un apagón, y todo el pueblo se junta en Bar Jack's. Mel enfrenta las consecuencias de haber hablado. Preacher busca información sobre Paige.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7pd5wSrYUoJkYxW6DPZJn5NwG6t.jpg"
+      },
+      {
+        "id": "tt9077530:1:9",
+        "title": "Todos esconden un secreto",
+        "season": 1,
+        "episode": 9,
+        "overview": "Hope le insiste a Jack en que lea la carta de Charmaine. Preacher enfrenta a Paige. Mel y Doc trabajan juntos en un caso de urgencia.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dy7xoBwn9Y0UbrRDwQq0Jphm2Yv.jpg"
+      },
+      {
+        "id": "tt9077530:1:10",
+        "title": "Finales inesperados",
+        "season": 1,
+        "episode": 10,
+        "overview": "Charmaine presiona a Jack para que tome una decisión, y Mel queda tambaleando. Hope se siente culpable. Paige le cuenta la verdad a Preacher.",
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xHvKSgXMdUiPAjm6KN3E4nOXfAq.jpg"
+      },
+      {
+        "id": "tt9077530:2:1",
+        "title": "Volver a empezar",
+        "season": 2,
+        "episode": 1,
+        "overview": "Jack le pide ayuda a Mel cuando Charmaine experimenta una complicación en su embarazo. Hope insiste en que Doc mantenga su relación en secreto.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z4Y91Us3g0EqyADbkrDOmguNIjV.jpg"
+      },
+      {
+        "id": "tt9077530:2:2",
+        "title": "Sorpresa",
+        "season": 2,
+        "episode": 2,
+        "overview": "A pesar de los esfuerzos de Mel, la estadía de Charmaine en la casa de Hope tiene un comienzo difícil. Una situación que involucra el pasado de Paige se intensifica inesperadamente.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p7dhckkyC2G5DQxf2ToYDiFaVA7.jpg"
+      },
+      {
+        "id": "tt9077530:2:3",
+        "title": "La mañana siguiente",
+        "season": 2,
+        "episode": 3,
+        "overview": "Mel se esfuerza por ayudar a una Charmaine que no coopera a hidratarse mientras piensa en lo que sucedió con Jack. Calvin le ofrece a Brady un nuevo trabajo.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pxpByMCEGTWz61gjDtxjb55Bqrr.jpg"
+      },
+      {
+        "id": "tt9077530:2:4",
+        "title": "Las malas lenguas",
+        "season": 2,
+        "episode": 4,
+        "overview": "La ciudad asiste al picnic anual donde los residentes participan en una competencia amistosa, peleas románticas y, en lo que respecta a Mel, demasiados chismes.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ugEMGqRZinx1EXWVlbZ8zZJ8t08.jpg"
+      },
+      {
+        "id": "tt9077530:2:5",
+        "title": "Imposible de olvidar",
+        "season": 2,
+        "episode": 5,
+        "overview": "Los recuerdos de guerra de Jack lo persiguen cuando se reúne con sus amigos marinos. Mel lucha por manejar el conflicto con su cuñada.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kANFugLHRxUboJ5Hh7HHVWpzUtg.jpg"
+      },
+      {
+        "id": "tt9077530:2:6",
+        "title": "Cosas del pasado",
+        "season": 2,
+        "episode": 6,
+        "overview": "Mel lidia con cómo honrar a Mark antes del aniversario de su muerte. El estrés de Jack lo lleva a tomar malas decisiones. Hope se disculpa con pastel.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ymNVtTtiGLDkFhus6oO5NUJKUp8.jpg"
+      },
+      {
+        "id": "tt9077530:2:7",
+        "title": "Momento crucial",
+        "season": 2,
+        "episode": 7,
+        "overview": "Cuando la policía encuentra un cuerpo en el bosque, Preacher se preocupa por las implicaciones. Charmaine y Jack trabajan en un plan de parto con Mel.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oeH0ppZrLrc1trivNgziTwcOunq.jpg"
+      },
+      {
+        "id": "tt9077530:2:8",
+        "title": "Ángulo muerto",
+        "season": 2,
+        "episode": 8,
+        "overview": "Mientras Jack ayuda a Mike a concentrarse en Calvin, Mel y Doc investigan un misterioso brote que podría estar relacionado con una intoxicación alimentaria. Hope descubre un secreto.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jAOxndIgKSrJXH8k5ZsmgrRbol2.jpg"
+      },
+      {
+        "id": "tt9077530:2:9",
+        "title": "Peligros",
+        "season": 2,
+        "episode": 9,
+        "overview": "Mel busca desesperadamente a Jack, quien se ha topado con noticias inquietantes. Jamie le hace a Predicador una atractiva oferta de trabajo. Hope cuestiona la lealtad de Doc.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nvAVIl9Pm1ae8g6qCegEHpt7NFq.jpg"
+      },
+      {
+        "id": "tt9077530:2:10",
+        "title": "Emociones fuertes",
+        "season": 2,
+        "episode": 10,
+        "overview": "Mel busca a Brady para saber más sobre Spencer. Hope responde a la pregunta de Doc. El predicador toma una decisión que cambia la vida.",
+        "released": "2020-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sxVhdykL4fNgGS5uQhGMUwnkwvJ.jpg"
+      },
+      {
+        "id": "tt9077530:3:1",
+        "title": "Donde hubo fuego...",
+        "season": 3,
+        "episode": 1,
+        "overview": "Mel evita festejar su cumpleaños y recuerda celebraciones pasadas. Doc confirma su inquietante diagnóstico y empieza a buscar a quien lo sustituya.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gS6LLMFG59k0mWIRKLxuU33av3l.jpg"
+      },
+      {
+        "id": "tt9077530:3:2",
+        "title": "Patas pegajosas",
+        "season": 3,
+        "episode": 2,
+        "overview": "Ricky y Lizzie intentan encontrar privacidad. A Doc le preocupa que Hope pueda ser presa de un huracán. Mel le hace a Jack una invitación tentadora.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tJHLOhD0xSVTQpK0jqIyhJkSlGl.jpg"
+      },
+      {
+        "id": "tt9077530:3:3",
+        "title": "Corazones rotos",
+        "season": 3,
+        "episode": 3,
+        "overview": "Lilly le cuenta un devastador secreto a Mel. Brie tiene la ocasión de conocer mejor a Brady y le confiesa algo a Jack. Lizzie recibe una sorpresa de su ex.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gd2Yz7NCqXUtMo4otU2hKPLugoo.jpg"
+      },
+      {
+        "id": "tt9077530:3:4",
+        "title": "Me dejas sin palabras",
+        "season": 3,
+        "episode": 4,
+        "overview": "Doc y Mel ayudan a Christopher y Preacher con una emergencia médica. Luego de una acalorada discusión, Jack centra sus energías en un gesto romántico.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ioQndLA3wWUCRPZnLN1ADAthDV7.jpg"
+      },
+      {
+        "id": "tt9077530:3:5",
+        "title": "Leña al fuego",
+        "season": 3,
+        "episode": 5,
+        "overview": "Tras entrevistar a una nueva profesional, Doc le da a Mel noticias desconcertantes. Para disgusto de Jack, Todd hace una solicitud audaz. Lilly confiesa algo doloroso.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hJVZ4RhxmqHQMIaC78GIuvcMYYN.jpg"
+      },
+      {
+        "id": "tt9077530:3:6",
+        "title": "Jack y Jill",
+        "season": 3,
+        "episode": 6,
+        "overview": "Jack y Mel discuten sobre su relación y su futuro mientras compiten en los Juegos de Leñadores. Brie se sincera respecto a su dolorosa separación.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tpJnNrvEjzXwesG2V8dHS39mmrS.jpg"
+      },
+      {
+        "id": "tt9077530:3:7",
+        "title": "La separación",
+        "season": 3,
+        "episode": 7,
+        "overview": "Jack habla con una abogada sobre la custodia de los gemelos, y la tensión empieza a resultarle insoportable. Citan a Brady para interrogarlo. Muriel aconseja a Doc.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gkB80BqaCsgUZylOB5oN7O8Nwxz.jpg"
+      },
+      {
+        "id": "tt9077530:3:8",
+        "title": "Vida y muerte",
+        "season": 3,
+        "episode": 8,
+        "overview": "Desconsolada, Mel viaja a Los Ángeles para acompañar a Joey en su audiencia de divorcio. Jack recuerda más cosas. Lilly les pide a sus amigas que cuiden de sus hijos.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/34P9n8hlEx4bMzGHg0EAS5ssovM.jpg"
+      },
+      {
+        "id": "tt9077530:3:9",
+        "title": "El sol siempre sale",
+        "season": 3,
+        "episode": 9,
+        "overview": "Los habitantes del pueblo se despiden de una querida amiga. Brie sufre su propia pérdida. Mel y Jack hablan sobre el futuro de su relación.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9tU2Z1Y8UgMXuOwHt73AjvgUqSf.jpg"
+      },
+      {
+        "id": "tt9077530:3:10",
+        "title": "Una boda, un bebé y ningún funeral",
+        "season": 3,
+        "episode": 10,
+        "overview": "Jack toma una decisión importante, y Mel no sabe cómo darle una impactante noticia. Doc se siente muy agobiado. Preacher se reúne con una amiga de Paige.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vcp7cgoezlAThn5L2Bgaxxk8LXi.jpg"
+      },
+      {
+        "id": "tt9077530:4:1",
+        "title": "Sé mi bebé",
+        "season": 4,
+        "episode": 1,
+        "overview": "Mel busca asistencia médica y Jack la acompaña nervioso. La confusión de Hope pone a Doc en una situación difícil. Un nuevo doctor se une a la consulta.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/adjDEwaDcIrPvi9JNUOIhiJzG5j.jpg"
+      },
+      {
+        "id": "tt9077530:4:2",
+        "title": "¿Un padre siempre tiene razón?",
+        "season": 4,
+        "episode": 2,
+        "overview": "La llegada del padre de Jack y Brie provoca ciertos roces. Un incidente en el trabajo afecta a Mel. Doc empieza a conocer a su visita inesperada.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fMophQw05IfLQPNPEluRhdzMoZd.jpg"
+      },
+      {
+        "id": "tt9077530:4:3",
+        "title": "Asado",
+        "season": 4,
+        "episode": 3,
+        "overview": "Mel organiza una cena para que Cameron conozca a Jack, pero su plan no resulta. Connie alerta a Lizzie sobre Denny. Preacher se hace amigo de su profesora de aikido.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mMfk9qzlTl1pkVPNMPAJunDrk5M.jpg"
+      },
+      {
+        "id": "tt9077530:4:4",
+        "title": "Tan serio como...",
+        "season": 4,
+        "episode": 4,
+        "overview": "Hope y Doc sienten frustración al ver que no mejoran los síntomas de contusión de Hope. En tanto, Mel le pide ayuda a Preacher para sorprender al testarudo de Jack.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jv7MrZgeSCVVQqKmiNM1frBEskN.jpg"
+      },
+      {
+        "id": "tt9077530:4:5",
+        "title": "Emergencia",
+        "season": 4,
+        "episode": 5,
+        "overview": "Luego de que Hope y sus amigas hacen los disfraces, Lizzie y Ricky ensayan para el Festival Medieval. Brie y Mike se unen para descubrir quién pagó la fianza de Brady.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wDudwgvq8o9saDcESM6ex6jnqOe.jpg"
+      },
+      {
+        "id": "tt9077530:4:6",
+        "title": "Todo vale...",
+        "season": 4,
+        "episode": 6,
+        "overview": "Se da inicio al Festival Medieval. Mel se preocupa cuando una cara conocida desata recuerdos dolorosos en Jack. Denny ve la presentación de Lizzie y Ricky.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/um8fTVggdw1Ibq38BACIHogxm8o.jpg"
+      },
+      {
+        "id": "tt9077530:4:7",
+        "title": "Comprometida",
+        "season": 4,
+        "episode": 7,
+        "overview": "Tras las sorpresivas noticias de Joey, Mel cuestiona la decisión de su hermana. Jack busca ideas para conseguir un nuevo flujo de ingresos.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/166KqA9M3TrNWB6zvVeUbGJaaId.jpg"
+      },
+      {
+        "id": "tt9077530:4:8",
+        "title": "Habla conmigo",
+        "season": 4,
+        "episode": 8,
+        "overview": "Mel planea una sorpresa para Joey, pero su preocupación por Jack la distrae. Lizzie busca cómo decirle a Doc lo que vio en el escritorio de Denny.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7oG5tbWfff99U0Lx9qcYzmcN7IA.jpg"
+      },
+      {
+        "id": "tt9077530:4:9",
+        "title": "Noticias explosivas",
+        "season": 4,
+        "episode": 9,
+        "overview": "Mel lidia con las repercusiones de la desaparición de Jack, además de las noticias preocupantes de parte de Stacie. Mike y Brie siguen buscando a Calvin.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sa19T6gLrIqUJh2JcacC6qsrfno.jpg"
+      },
+      {
+        "id": "tt9077530:4:10",
+        "title": "Fuego y lluvia",
+        "season": 4,
+        "episode": 10,
+        "overview": "Charmaine le pide ayuda a Jack para el baby shower. Mel tiene una conversación difícil con Cassandra. Preacher queda preocupado por Christopher después de una llamada.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pbkhfFcx9HME9xdBmEpQmP67QMK.jpg"
+      },
+      {
+        "id": "tt9077530:4:11",
+        "title": "Otra vez",
+        "season": 4,
+        "episode": 11,
+        "overview": "Vernon y Hope discuten sobre tener asistencia en casa, Mel confronta a Cameron por su extraño comportamiento, y Jack logra poner en marcha su negocio.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1xHcmpKX4OIeUX5Q8vDrJpZXVUq.jpg"
+      },
+      {
+        "id": "tt9077530:4:12",
+        "title": "El largo adiós",
+        "season": 4,
+        "episode": 12,
+        "overview": "Mel y Jack por fin reciben los resultados que esperaban. Lizzie organiza una despedida para Ricky antes de hablar con Denny sobre su secreto.",
+        "released": "2022-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5lDN3dwyAaiQwYAKae9slq3W9qX.jpg"
+      },
+      {
+        "id": "tt9077530:5:1",
+        "title": "Una segunda oportunidad",
+        "season": 5,
+        "episode": 1,
+        "overview": "Mel toma una decisión difícil, Jack atrae a una importante inversionista, y Preacher y Paige se preguntan si buscan lo mismo. Una reunión del concejo deja pasmada a Hope.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nUQrv7YxW5xFiHwg8mwf51zm30h.jpg"
+      },
+      {
+        "id": "tt9077530:5:2",
+        "title": "Songbird",
+        "season": 5,
+        "episode": 2,
+        "overview": "Doc y Cameron intentan encargarse de la clínica juntos. Mel apoya a Ava, que lidia con un dilema personal. Jack confronta a Charmaine. Brady busca una segunda oportunidad.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lf5DbfHAqapnqf7CMLQMO6jg2Jx.jpg"
+      },
+      {
+        "id": "tt9077530:5:3",
+        "title": "Riesgo calculado",
+        "season": 5,
+        "episode": 3,
+        "overview": "Mel hace una excepción por una expaciente, y Brie habla a corazón abierto con Brady. Entre tanto, Preacher conoce a una encantadora bombera, y Jack escala con Denny.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/liNCjwgI4NoyEhzRVqxHMLzD9K6.jpg"
+      },
+      {
+        "id": "tt9077530:5:4",
+        "title": "Tal vez nunca sea como antes",
+        "season": 5,
+        "episode": 4,
+        "overview": "Doc se sincera con Denny. El día de relajación de Hope no sale como esperaba. Brady, desesperado, recurre a Mike. Durante un campamento, Mel y Jack se conocen un poco más.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/defcAhlQB9EZHOxKVMHCaXIO6TU.jpg"
+      },
+      {
+        "id": "tt9077530:5:5",
+        "title": "Juicio de fuego",
+        "season": 5,
+        "episode": 5,
+        "overview": "El peligro acecha, y Jack, Hope y otros residentes no se quedan de brazos cruzados. Mel descubre algo desgarrador, y Brie encuentra un rostro amigable luego de un día difícil.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ddsuGYHYEtEGVtxjh3M9zE57smn.jpg"
+      },
+      {
+        "id": "tt9077530:5:6",
+        "title": "Surgen los héroes",
+        "season": 5,
+        "episode": 6,
+        "overview": "Mel y Jack se apresuran para llevar a Ava y Chloe a un lugar seguro. Mientras la crisis se intensifica, Brady desafía a Preacher, y Hope propone un plan para salvar Virgin River.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gm9OApiO9sTn0ans7X1ODnnXimd.jpg"
+      },
+      {
+        "id": "tt9077530:5:7",
+        "title": "De las cenizas",
+        "season": 5,
+        "episode": 7,
+        "overview": "La devastación lleva a revelaciones y a reconciliaciones. Entre tanto, la comunidad intenta reconstruirse tras el incendio y encontrar una razón para sonreír.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2pRdBG6jttoPea7m63gmgIYS6OT.jpg"
+      },
+      {
+        "id": "tt9077530:5:8",
+        "title": "Luna llena",
+        "season": 5,
+        "episode": 8,
+        "overview": "Tras una noche de chicas, Mel se esfuerza por soltar los miedos. Kaia le cuenta algo personal a Preacher. Mike y Brady hacen a un lado sus diferencias para atrapar a un criminal.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1i8OMtpAbVqBrAzL2eC9Ne12Riw.jpg"
+      },
+      {
+        "id": "tt9077530:5:9",
+        "title": "Angel's Peak",
+        "season": 5,
+        "episode": 9,
+        "overview": "Mel y Jack exploran otras posibilidades para el futuro. Entre tanto, Brady sigue a Melissa y acaba en una situación incómoda. En la clínica, el romance está en el aire...",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8BhUksBtU4DS7MULsnHX6sbCwzG.jpg"
+      },
+      {
+        "id": "tt9077530:5:10",
+        "title": "Día del Trabajo",
+        "season": 5,
+        "episode": 10,
+        "overview": "La tensión crece cuando Brady, Jack y Mike terminan en medio de un plan ilegal. Más sorpresas les esperan a Mel, Denny y Preacher.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bkJuNHpZop7GMl1o7VGyDoZzUlj.jpg"
+      },
+      {
+        "id": "tt9077530:5:11",
+        "title": "Cuantos más, mejor",
+        "season": 5,
+        "episode": 11,
+        "overview": "Se acerca la Navidad y, con ella, las visitas de familiares y el drama. Con ayuda de Jack, Mel intenta localizar al autor de las cartas a su madre.",
+        "released": "2023-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2MNbOaLKO0N49hc1LHbDhqdJteu.jpg"
+      },
+      {
+        "id": "tt9077530:5:12",
+        "title": "Navidad con mi padre",
+        "season": 5,
+        "episode": 12,
+        "overview": "Esta Nochebuena trae noticias impactantes y regalos inesperados a las parejas y familias que dejan sus diferencias de lado y se reúnen para celebrar.",
+        "released": "2023-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6KkmBOxS3fJjFsL7bjwCEypKv4F.jpg"
+      },
+      {
+        "id": "tt9077530:6:1",
+        "title": "La esperanza es lo último que se pierde",
+        "season": 6,
+        "episode": 1,
+        "overview": "Mel quiere honrar a su mamá durante la boda y le pide ayuda a Everett. Brady y Lark celebran un acuerdo. El juicio de Preacher comienza con un giro inesperado.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uoy96dQ7QSctOSMKq1962mYqXJJ.jpg"
+      },
+      {
+        "id": "tt9077530:6:2",
+        "title": "Los lugares rotos",
+        "season": 6,
+        "episode": 2,
+        "overview": "Everett revela cómo conoció a la madre de Mel. Preacher considera una decisión que podría cambiarle la vida. El círculo de costura intenta encontrarle pareja a Muriel.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fKPa0G5RQJUBEjh0ah1YXxvkMtw.jpg"
+      },
+      {
+        "id": "tt9077530:6:3",
+        "title": "El jurado decide",
+        "season": 6,
+        "episode": 3,
+        "overview": "Una cara conocida regresa al pueblo con noticias sorprendentes. Preacher aguarda su destino. Mel se reúne con Doc para contarle su nuevo plan. Brady confronta a Lark.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eHUFPXKW1gA3cROOnBhgndBFqe0.jpg"
+      },
+      {
+        "id": "tt9077530:6:4",
+        "title": "Hermanos y hermanas",
+        "season": 6,
+        "episode": 4,
+        "overview": "Tensiones pasadas y sentimientos enterrados salen a la luz cuando las fiestas antes de la boda de Mel y Jack se ponen caóticas. Lizzie y Denny tienen dudas sobre su futuro.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4mhqaMKqwiTWd70zGwrssRYhJ9g.jpg"
+      },
+      {
+        "id": "tt9077530:6:5",
+        "title": "Historia de amor",
+        "season": 6,
+        "episode": 5,
+        "overview": "Los padres de Mel y Jack almuerzan juntos, pero Everett queda con muchas dudas. Doc se convierte en un héroe. Una visita de rutina a la prisión despierta sospechas en Brie.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9cUrezXbInSc1JVd2vLeVKRipb8.jpg"
+      },
+      {
+        "id": "tt9077530:6:6",
+        "title": "Fantasmas",
+        "season": 6,
+        "episode": 6,
+        "overview": "Mel y Jack se topan con un obstáculo burocrático, por lo que Jack visita a Mandy y admite sus errores del pasado. Kaia se entera del secreto de Brady. Un viejo enemigo amenaza.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aN3seaLjDPBN44wb1DaMjH5gkZI.jpg"
+      },
+      {
+        "id": "tt9077530:6:7",
+        "title": "Derrumbe",
+        "season": 6,
+        "episode": 7,
+        "overview": "Everett lleva a Mel a un lugar que significa mucho para él. Tras ayudar a Charmaine, Brie le confiesa un secreto a Jack. El pasado de Brady lo persigue. Mel se molesta con Doc.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1YBRx57f2Jd02WNQ7x7PYYLsQ7W.jpg"
+      },
+      {
+        "id": "tt9077530:6:8",
+        "title": "Tal vez sea demasiado",
+        "season": 6,
+        "episode": 8,
+        "overview": "Hope dirige el ensayo y ayuda a Jack a resolver un conflicto. Brie y Mike alcanzan un hito importante, mientras Everett se propone terminar su conmovedor regalo.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4vIGk4loWAQPB7fCxlbsWqLyRM2.jpg"
+      },
+      {
+        "id": "tt9077530:6:9",
+        "title": "Preludio de un beso",
+        "season": 6,
+        "episode": 9,
+        "overview": "El día de la boda de Jack y Mel comienza lleno de emociones. La verdad sobre Doc y Everett sale a la luz. El temperamento de Hope podría causarle problemas a Doc.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hLijrJNd5pOaCZt87ofDPOZq213.jpg"
+      },
+      {
+        "id": "tt9077530:6:10",
+        "title": "El gran día",
+        "season": 6,
+        "episode": 10,
+        "overview": "Mientras sus invitados esperan, Mel le confiesa sus miedos a Jack. Brady se lleva una sorpresa amarga, Mike y Brie tienen una charla impensada, y Doc recibe una noticia impactante.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9E5kM3NuHZWxkpROd5fySL85sLW.jpg"
+      },
+      {
+        "id": "tt9077530:7:1",
+        "title": "Episodio 1",
+        "season": 7,
+        "episode": 1,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uEQaJQKVTV6wazAVkVgonT7ai0c.jpg"
+      },
+      {
+        "id": "tt9077530:7:2",
+        "title": "Episodio 2",
+        "season": 7,
+        "episode": 2,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eqgSuYVZycLOwexZwyWuydQwP6y.jpg"
+      },
+      {
+        "id": "tt9077530:7:3",
+        "title": "Episodio 3",
+        "season": 7,
+        "episode": 3,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dhNiDdy2N5W5fplBc4ESCnfIfab.jpg"
+      },
+      {
+        "id": "tt9077530:7:4",
+        "title": "Episodio 4",
+        "season": 7,
+        "episode": 4,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jLDfrpUCjVANvWGULUCkl732Mv9.jpg"
+      },
+      {
+        "id": "tt9077530:7:5",
+        "title": "Episodio 5",
+        "season": 7,
+        "episode": 5,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yVJ7h2kluShFPBLA9UJaMteFy8k.jpg"
+      },
+      {
+        "id": "tt9077530:7:6",
+        "title": "Episodio 6",
+        "season": 7,
+        "episode": 6,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vNppC8yan34vncZYH2VsrJIEvVL.jpg"
+      },
+      {
+        "id": "tt9077530:7:7",
+        "title": "Episodio 7",
+        "season": 7,
+        "episode": 7,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zd7Il4XVXsFgegJhzQd1dwA8uqV.jpg"
+      },
+      {
+        "id": "tt9077530:7:8",
+        "title": "Episodio 8",
+        "season": 7,
+        "episode": 8,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7qgapw16LgjuOHCAdek22iHnHJ.jpg"
+      },
+      {
+        "id": "tt9077530:7:9",
+        "title": "Episodio 9",
+        "season": 7,
+        "episode": 9,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rSuSTUhiPThqn6z1Xns0DogG0oh.jpg"
+      },
+      {
+        "id": "tt9077530:7:10",
+        "title": "Episodio 10",
+        "season": 7,
+        "episode": 10,
+        "released": "2026-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iWTEc8thjU37vID83kav4kpqzXp.jpg"
+      }
+    ]
+  }
+}

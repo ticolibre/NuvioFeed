@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "id": "tt12682218",
+    "type": "series",
+    "name": "Secretos de un matrimonio",
+    "poster": "https://image.tmdb.org/t/p/w500/iPVrCd0dbGyrc6aJk8wccJ8DrvW.jpg",
+    "posterShape": "poster",
+    "description": "Reexamina la representación icónica del amor, el odio, el deseo, la monogamia, el matrimonio y el divorcio del original a través de la lente de una pareja estadounidense contemporánea, interpretada por Oscar Isaac y Jessica Chastain.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/skO0UIpNYaSjQYc8hQsE890ViOG.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt12682218:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2021-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5bfo4xn0x8dksNmo0rBOBwkdb8l.jpg"
+      },
+      {
+        "id": "tt12682218:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2021-09-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x1OJkp8LWK7oKEG5CMFZ3PnHlqo.jpg"
+      },
+      {
+        "id": "tt12682218:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2021-09-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6NCCQhkyKkohCZjRqmoyHc8qOir.jpg"
+      },
+      {
+        "id": "tt12682218:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2021-10-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8op4ZPAf01m9iptn0ssZ0zDAuRu.jpg"
+      },
+      {
+        "id": "tt12682218:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2021-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oKu4kIfTyCJFuFVG1u8B7D36y0S.jpg"
+      }
+    ]
+  }
+}

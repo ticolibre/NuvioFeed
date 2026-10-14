@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "tt14792896",
+    "type": "series",
+    "name": "Conexiones",
+    "poster": "https://image.tmdb.org/t/p/w500/uJ14RabN7yGnozRm7BBslQex8w.jpg",
+    "posterShape": "poster",
+    "description": "Dos agentes, y expareja, deben trabajar juntos para combatir ciberataques internacionales que amenazan al Reino Unido, mientras también enfrentan los secretos ocultos de su destructiva relación.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/o7ULlSUhfu78wppQiSiRitMvHes.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt14792896:1:1",
+        "title": "Alerta de tormenta",
+        "season": 1,
+        "episode": 1,
+        "overview": "Gabriel acepta una misión para extraer a dos hackers sirios. Alison y Banks enfrentan graves ciberataques en Londres.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r80Y6YffNTMsvWhrjWANY1Gtqbe.jpg"
+      },
+      {
+        "id": "tt14792896:1:2",
+        "title": "Caos",
+        "season": 1,
+        "episode": 2,
+        "overview": "Creyendo saber qué detendrá los ataques, Gabriel recurre a Alison. Un fatal evento se desata en Londres.",
+        "released": "2023-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vt9LYPLMFJuFNb8N9UlaPSaKgl2.jpg"
+      },
+      {
+        "id": "tt14792896:1:3",
+        "title": "Manipulaciones",
+        "season": 1,
+        "episode": 3,
+        "overview": "Gabriel rastrea a Myriam, pero no es el único que busca a los sirios. Alison va a Bruselas para conseguir un ciberacuerdo con la Unión Europea.",
+        "released": "2023-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/CBv3Em1q6RPiofstZJpb0AXkeS.jpg"
+      },
+      {
+        "id": "tt14792896:1:4",
+        "title": "Masacre",
+        "season": 1,
+        "episode": 4,
+        "overview": "La presión aumenta sobre Banks debido a otro ataque. Alison y Gabriel buscan ponerse a salvo.",
+        "released": "2023-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3mNO3rq2CURz3idEmBeoX6Gl3aD.jpg"
+      },
+      {
+        "id": "tt14792896:1:5",
+        "title": "Álbum familiar",
+        "season": 1,
+        "episode": 5,
+        "overview": "Dumas le da a Sophie Saint-Roch información. Alison y Gabriel van a Londres con Samir. Un devastador secreto es revelado.",
+        "released": "2023-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rQZaaZjlGLbJWHwczdo7i1tAEz1.jpg"
+      },
+      {
+        "id": "tt14792896:1:6",
+        "title": "Ojo por ojo",
+        "season": 1,
+        "episode": 6,
+        "overview": "Alison y Gabriel encaran un nuevo peligro mientras todo se desata en el cuartel de Antropa en Londres.",
+        "released": "2023-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kQwyxyhjDzBJmWF5qaldINWvV8s.jpg"
+      }
+    ]
+  }
+}

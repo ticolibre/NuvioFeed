@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt8134470",
+    "type": "series",
+    "name": "The Undoing",
+    "poster": "https://image.tmdb.org/t/p/w500/mZk4RXjXLJxRAoQR8mfNDYtv7u1.jpg",
+    "posterShape": "poster",
+    "description": "Grace Fraser es una exitosa mujer cuya vida se desmorona cuando una muerte violenta desmantela horribles secretos.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/tJjwEzTglpxoWJXwEbZlKLppMhr.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt8134470:1:1",
+        "title": "The Undoing",
+        "season": 1,
+        "episode": 1,
+        "overview": "Grace Fraser se interesa por una joven madre en la escuela de su hijo. Más tarde, la noticia de una tragedia sacude a la comunidad escolar.",
+        "released": "2020-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n9PhwIkJVzAZxVZE7vjSEwfNkZZ.jpg"
+      },
+      {
+        "id": "tt8134470:1:2",
+        "title": "The Missing",
+        "season": 1,
+        "episode": 2,
+        "overview": "Después de buscar refugio en la casa de su padre, Grace se encuentra en el extremo receptor de las preguntas de los detectives.",
+        "released": "2020-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8POHAJfDbR31eKeQCfM6tPr5bAh.jpg"
+      },
+      {
+        "id": "tt8134470:1:3",
+        "title": "Do No Harm",
+        "season": 1,
+        "episode": 3,
+        "overview": "Grace escucha el lado de la historia de Jonathan y descubre que alguien cercano a Elena la sigue.",
+        "released": "2020-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jMt5qTfhWWZ6USiVG6EFovSlKBh.jpg"
+      },
+      {
+        "id": "tt8134470:1:4",
+        "title": "See No Evil",
+        "season": 1,
+        "episode": 4,
+        "overview": "Conforme Haley comienza a darle forma a la narrativa del caso, Franklin usa sus recursos para ayudar a su familia.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/67isdtt1dx6WLQRcmKwbmnSnt4A.jpg"
+      },
+      {
+        "id": "tt8134470:1:5",
+        "title": "Trial By Fury",
+        "season": 1,
+        "episode": 5,
+        "overview": "En el juicio, la fiscalía presenta pruebas impactantes y la defensa cuestiona la investigación policial. Henry revela un secreto a Grace.",
+        "released": "2020-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zXFgy0nFsonqTiICqCahdwlPaf4.jpg"
+      },
+      {
+        "id": "tt8134470:1:6",
+        "title": "The Bloody Truth",
+        "season": 1,
+        "episode": 6,
+        "overview": "A medida que aumenta el circo mediático en la corte, Grace toma medidas para protegerse a sí misma y a su familia.",
+        "released": "2020-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4zXxTWjRLhDlJUBoUAFRIAQz6FW.jpg"
+      }
+    ]
+  }
+}

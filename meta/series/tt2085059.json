@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "tt2085059",
+    "type": "series",
+    "name": "Black Mirror",
+    "poster": "https://image.tmdb.org/t/p/w500/pY80haDeUJLHjWLW7edqWaQ2UfW.jpg",
+    "posterShape": "poster",
+    "description": "Antología de ciencia ficción dominada por el extrañamiento y la inminencia del futuro, donde la tecnología más avanzada choca contra los instintos más oscuros.",
+    "releaseInfo": "2011",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt2085059:1:1",
+        "title": "El himno nacional",
+        "season": 1,
+        "episode": 1,
+        "overview": "El primer ministro Michael Callow se enfrenta a un perverso y aterrador dilema cuando secuestran a la querida princesa Susannah.",
+        "released": "2011-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg"
+      },
+      {
+        "id": "tt2085059:1:2",
+        "title": "Quince millones de méritos",
+        "season": 1,
+        "episode": 2,
+        "overview": "En una sociedad segregada que se alimenta de competencias y telebasura, una chica deberá impresionar a los jueces para ganar su libertad.",
+        "released": "2011-12-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c62HKSbeTRkatK223O3m58CmmPd.jpg"
+      },
+      {
+        "id": "tt2085059:1:3",
+        "title": "Toda tu historia",
+        "season": 1,
+        "episode": 3,
+        "overview": "En un futuro donde todos llevan un implante que registra sin parar lo que vemos y hacemos, los recuerdos se vuelven una película, y cada detalle, una condena.",
+        "released": "2011-12-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4PWu1S4RME6RnGSJUJuuSz19R2G.jpg"
+      },
+      {
+        "id": "tt2085059:2:1",
+        "title": "Vuelvo enseguida",
+        "season": 2,
+        "episode": 1,
+        "overview": "Al descubrir un extraño servicio que genera interacciones con alguien que ya falleció, Martha tiene la esperanza de reencontrarse con su novio.",
+        "released": "2013-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4CbgmvnUVVInKfUqVMv1GSIY0ZT.jpg"
+      },
+      {
+        "id": "tt2085059:2:2",
+        "title": "Oso blanco",
+        "season": 2,
+        "episode": 2,
+        "overview": "Victoria despierta y no recuerda nada sobre su vida. Cuando intenta preguntar qué le ha sucedido, nadie quiere comunicarse con ella.",
+        "released": "2013-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lSua0MfjmtLb8LKICqIiaGkcieL.jpg"
+      },
+      {
+        "id": "tt2085059:2:3",
+        "title": "El momento Waldo",
+        "season": 2,
+        "episode": 3,
+        "overview": "El comediante detrás de la famosa caricatura Waldo termina involucrándose en política cuando lanza la candidatura de su oso animado.",
+        "released": "2013-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hSEwesgbIQWoMucQdc55c4qaAQM.jpg"
+      },
+      {
+        "id": "tt2085059:2:4",
+        "title": "Blanca Navidad",
+        "season": 2,
+        "episode": 4,
+        "overview": "Dos hombres en una cabaña remota. Afuera, solo nieve. Es Navidad. Buen momento para decir la verdad.",
+        "released": "2014-12-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jfNRmAE5tY5kqg3s1HOPocs30G1.jpg"
+      },
+      {
+        "id": "tt2085059:3:1",
+        "title": "Caída en picada",
+        "season": 3,
+        "episode": 1,
+        "overview": "Su vida depende del estatus en las redes sociales y la boda elitista de una amiga de la infancia es justo lo que necesita, pero primero tiene que llegar a la ceremonia.",
+        "released": "2016-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dmEDQliQbapSOcbdu0c2KtmIVna.jpg"
+      },
+      {
+        "id": "tt2085059:3:2",
+        "title": "Partida",
+        "season": 3,
+        "episode": 2,
+        "overview": "Un mochilero se queda sin dinero en la última etapa del viaje y accede a probar una revolucionaria plataforma de videojuegos que promete emociones muy reales.",
+        "released": "2016-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v0zfbxuUnQ4YQ3hkRq7EvFsEKQN.jpg"
+      },
+      {
+        "id": "tt2085059:3:3",
+        "title": "Cállate y baila",
+        "season": 3,
+        "episode": 3,
+        "overview": "Un virus toma el control de su laptop, y ahora tiene dos opciones: una, seguir las órdenes que recibe por mensaje de texto; o, dos, exponer sus secretos más íntimos.",
+        "released": "2016-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/MU0lsD08pcuwaYMGOQMFGFWJGg.jpg"
+      },
+      {
+        "id": "tt2085059:3:4",
+        "title": "San Junípero",
+        "season": 3,
+        "episode": 4,
+        "overview": "Un pueblo costero. 1987. Dos chicas, una tímida y la otra extrovertida, sienten una conexión instantánea que parece desafiar las leyes del tiempo y del espacio.",
+        "released": "2016-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3SoS5uGAZvQqEeu7KASuMgWynd0.jpg"
+      },
+      {
+        "id": "tt2085059:3:5",
+        "title": "El hombre contra el fuego",
+        "season": 3,
+        "episode": 5,
+        "overview": "El enemigo es escurridizo, y la cacería nunca termina. Es el bautismo de fuego para él, pero su equipo experimenta fallas, y su cuerpo, sensaciones extrañas.",
+        "released": "2016-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A4g3nH0kYQpqHv1oHBXuTgRgT5u.jpg"
+      },
+      {
+        "id": "tt2085059:3:6",
+        "title": "Odio nacional",
+        "season": 3,
+        "episode": 6,
+        "overview": "Dos detectives encuentran una pista inquietante tras la muerte de una periodista afectada por un escándalo en las redes sociales.",
+        "released": "2016-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sBrdKKIMwdiFj5Xx8NRzLxqfVkX.jpg"
+      },
+      {
+        "id": "tt2085059:4:1",
+        "title": "USS Callister",
+        "season": 4,
+        "episode": 1,
+        "overview": "El capitán Robert Daly dirige a su tripulación con sabiduría y coraje, o al menos eso parecía hasta que llegó la nueva recluta.",
+        "released": "2017-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dagpqvCO48XDFCUe7I2SYCuXCA1.jpg"
+      },
+      {
+        "id": "tt2085059:4:2",
+        "title": "Arkangel",
+        "season": 4,
+        "episode": 2,
+        "overview": "Es madre soltera y la seguridad de su hija es una prioridad absoluta. Un localizador de última generación parece la solución perfecta, aunque tenga otras aplicaciones.",
+        "released": "2017-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3uXHGkHO5B9icYTxyVRDXoxDldR.jpg"
+      },
+      {
+        "id": "tt2085059:4:3",
+        "title": "Crocodile",
+        "season": 4,
+        "episode": 3,
+        "overview": "Una investigadora de seguros que corrobora los recuerdos de posibles testigos se cruza en el camino con una arquitecta y su secreto.",
+        "released": "2017-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mvNCd4qfwtdXeRHgvWHRRPUA1TF.jpg"
+      },
+      {
+        "id": "tt2085059:4:4",
+        "title": "Hang the DJ",
+        "season": 4,
+        "episode": 4,
+        "overview": "Frank y Amy se conocen a través de un programa de citas que pone fecha de caducidad a todas las relaciones. Poco después, comienzan a dudar de la lógica del sistema.",
+        "released": "2017-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zDnYPFIN5ssHrLDGoxEKwPJB3gm.jpg"
+      },
+      {
+        "id": "tt2085059:4:5",
+        "title": "Metalhead",
+        "season": 4,
+        "episode": 5,
+        "overview": "Buscaban provisiones en un almacén abandonado. Encontraron una amenaza que solo les deja una salida: huir y esconderse entre los restos de lo que alguna vez fue.",
+        "released": "2017-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8mMSk4cGfIftbIoA2Mq83LpzYlw.jpg"
+      },
+      {
+        "id": "tt2085059:4:6",
+        "title": "Black Museum",
+        "season": 4,
+        "episode": 6,
+        "overview": "En una ruta perdida en medio de la nada, una viajera tropieza con un museo que dice tener objetos raros relacionados con crímenes, y una atracción principal inquietante.",
+        "released": "2017-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fOKwBPMBSm1B6zc3wkN4hCkbtsf.jpg"
+      },
+      {
+        "id": "tt2085059:5:1",
+        "title": "Striking Vipers",
+        "season": 5,
+        "episode": 1,
+        "overview": "Dos amigos de la universidad se reencuentran en la versión para realidad virtual de su videojuego favorito y las trasnoches juntos traen consecuencias inesperadas.",
+        "released": "2019-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t8uIVDjfCoutXHwIRZoUX8XpNS2.jpg"
+      },
+      {
+        "id": "tt2085059:5:2",
+        "title": "Smithereens",
+        "season": 5,
+        "episode": 2,
+        "overview": "Un conductor londinense desata un conflicto internacional al secuestrar a un empleado de una empresa especializada en redes sociales.",
+        "released": "2019-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4uXgZa6K1d1wcGk4FtJUO1cCSqi.jpg"
+      },
+      {
+        "id": "tt2085059:5:3",
+        "title": "Rachel, Jack y Ashley Too",
+        "season": 5,
+        "episode": 3,
+        "overview": "Una adolescente solitaria se obsesiona con una muñeca robótica inspirada en Ashley O, una estrella pop. Mientras tanto, la vida de la cantante comienza a descarrilarse.",
+        "released": "2019-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uwLkdgvIT7hvJD2k9FMdiA8MpVX.jpg"
+      },
+      {
+        "id": "tt2085059:6:1",
+        "title": "Joan es horrible",
+        "season": 6,
+        "episode": 1,
+        "overview": "Una mujer descubre que una plataforma de streaming ha convertido su vida —y sus secretos— en una serie dramática protagonizada por la famosa estrella de Hollywood Salma Hayek.",
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/enqxYxzDUu9oyRGit8GinRlOndW.jpg"
+      },
+      {
+        "id": "tt2085059:6:2",
+        "title": "Loch Henry",
+        "season": 6,
+        "episode": 2,
+        "overview": "Mientras filman un documental sobre la naturaleza en un adormecido pueblo escocés, una joven pareja oye una atrapante historia local relacionada con un pasado estremecedor.",
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dA9ZWi2Q172vYUVxhKPTarJeDLj.jpg"
+      },
+      {
+        "id": "tt2085059:6:3",
+        "title": "Beyond the Sea",
+        "season": 6,
+        "episode": 3,
+        "overview": "En un 1969 alternativo, dos astronautas embarcados en una arriesgada misión espacial de alta tecnología lidian con las consecuencias de una tragedia inimaginable.",
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1I3oE47FZwSuQWYP02d9rSCaQpq.jpg"
+      },
+      {
+        "id": "tt2085059:6:4",
+        "title": "Mazey Day",
+        "season": 6,
+        "episode": 4,
+        "overview": "Una conflictiva actriz hace todo lo posible por escapar del asedio de los paparazis mientras intenta lidiar con las consecuencias de un accidente automovilístico.",
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8v4OZ4O0P4MZu59lWqOb1BZGrB4.jpg"
+      },
+      {
+        "id": "tt2085059:6:5",
+        "title": "Demonio 79",
+        "season": 6,
+        "episode": 5,
+        "overview": "Norte de Inglaterra, 1979. Una tímida asistente de ventas recibe un ultimátum: si no comete actos terribles, la humanidad enfrentará un desastre sin precedentes.",
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6lGVCSv4DfQqgjqauSxM4HmfvKS.jpg"
+      },
+      {
+        "id": "tt2085059:7:1",
+        "title": "Una pareja cualquiera",
+        "season": 7,
+        "episode": 1,
+        "overview": "Cuando una maestra se debate entre la vida y la muerte, su esposo la inscribe en un procedimiento experimental para salvarla. Pero todo tiene un precio...",
+        "released": "2025-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/156V2J7yQIOKEu1EuJbYUa105rE.jpg"
+      },
+      {
+        "id": "tt2085059:7:2",
+        "title": "Bête Noire",
+        "season": 7,
+        "episode": 2,
+        "overview": "Una joven se altera cuando una vieja conocida se incorpora a la empresa donde trabaja, sobre todo porque percibe algo raro en ella que nadie más parece notar.",
+        "released": "2025-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4HheeR47LHsfD1hsSW79QwTX1z9.jpg"
+      },
+      {
+        "id": "tt2085059:7:3",
+        "title": "Hotel Reverie",
+        "season": 7,
+        "episode": 3,
+        "overview": "La adaptación de alta tecnología de una película clásica transporta a su famosa protagonista a otra dimensión, donde debe seguir el guion si quiere regresar a casa.",
+        "released": "2025-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xEyXUpdl531IYPfSCCUqYYwImw.jpg"
+      },
+      {
+        "id": "tt2085059:7:4",
+        "title": "Juego",
+        "season": 7,
+        "episode": 4,
+        "overview": "En el Londres del futuro, un excéntrico sospechoso de un asesinato es vinculado con un peculiar videojuego de los 90, que alberga a una sociedad de seres vivientes digitales.",
+        "released": "2025-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rQxN302cWUyndz9pOd7Mjr2mb98.jpg"
+      },
+      {
+        "id": "tt2085059:7:5",
+        "title": "Apología",
+        "season": 7,
+        "episode": 5,
+        "overview": "Un hombre solitario descubre un sistema revolucionario que permite a los usuarios introducirse en fotos antiguas, pero despierta emociones intensas en el proceso.",
+        "released": "2025-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j0FZRa4xHvvFS8YLekRdwgwlnOL.jpg"
+      },
+      {
+        "id": "tt2085059:7:6",
+        "title": "USS Callister: Infinito",
+        "season": 7,
+        "episode": 6,
+        "overview": "Nanette Cole y la tripulación de la USS Callister se quedan varados en un universo virtual infinito en el que deben luchar contra 30 millones de jugadores para sobrevivir.",
+        "released": "2025-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6JxoU4B1VMYf2tt8VPpNl8juKwm.jpg"
+      }
+    ]
+  }
+}

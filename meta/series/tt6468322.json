@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "id": "tt6468322",
+    "type": "series",
+    "name": "La casa de papel",
+    "poster": "https://image.tmdb.org/t/p/w500/6ONvmUF3EX5GeIOMRcY9nfaGXyo.jpg",
+    "posterShape": "poster",
+    "description": "Ocho ladrones toman rehenes en la Fábrica Nacional de Moneda y Timbre de España, mientras el líder de la banda manipula a la policía para cumplir con su plan.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt6468322:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2017-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wKpQvdfzsOf7hKWwU0H8sSXZh1T.jpg"
+      },
+      {
+        "id": "tt6468322:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2017-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bxrCLKigYre6WfR8GyNJ4u0FBlX.jpg"
+      },
+      {
+        "id": "tt6468322:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2017-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mS4EuitwU6QJuZZcy9ndDGDmgEp.jpg"
+      },
+      {
+        "id": "tt6468322:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2017-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h1Jt1XUkSdUGf2NM4PK1yN463tN.jpg"
+      },
+      {
+        "id": "tt6468322:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w0IbY3aetrS01ZV0YySsLK1ypIA.jpg"
+      },
+      {
+        "id": "tt6468322:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2017-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rGfZXEba8shIyNViwSuPbGwHenw.jpg"
+      },
+      {
+        "id": "tt6468322:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2017-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mTcAokdfaHN7DNvU9BrBKQmuEf0.jpg"
+      },
+      {
+        "id": "tt6468322:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2017-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1q5agV2ROKY4nIHD0Sv5PyLONyW.jpg"
+      },
+      {
+        "id": "tt6468322:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2017-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l4ctte6pCdonsB4AW3wAR0Lt7Bg.jpg"
+      },
+      {
+        "id": "tt6468322:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2017-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o2ohwlIbzDRVP5XFLTF2VFpDiYD.jpg"
+      },
+      {
+        "id": "tt6468322:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2017-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ixduWz2wsNmxJ7gocG5xWkyDjJd.jpg"
+      },
+      {
+        "id": "tt6468322:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2017-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AbABGEWs2IkvStrqyeBxbwmMlUV.jpg"
+      },
+      {
+        "id": "tt6468322:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2017-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oy19Zieotq2GK5gjTM7gyYl24wu.jpg"
+      },
+      {
+        "id": "tt6468322:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2017-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hJb0sOE99VNSFmXTeXSiGKUhsz5.jpg"
+      },
+      {
+        "id": "tt6468322:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2017-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rrYS8n8hcEPTMmXIA0SpBW7AKei.jpg"
+      },
+      {
+        "id": "tt6468322:2:1",
+        "title": "Hemos vuelto",
+        "season": 2,
+        "episode": 1,
+        "overview": "Tras la captura de Río, Tokio acude desesperada al Profesor en busca de ayuda. Con un nuevo y osado plan entre manos, ambos reúnen al equipo para iniciar el rescate.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vHrz83swVVJ8iPmK3DcsfIzGxVf.jpg"
+      },
+      {
+        "id": "tt6468322:2:2",
+        "title": "Aikido",
+        "season": 2,
+        "episode": 2,
+        "overview": "El Profesor recluta a Martín para poner el plan de su hermano en marcha y atracar el Banco de España. ¿Paso uno? Sembrar el caos.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wg7nd7r0Iptr2W8kW37OSed1C4q.jpg"
+      },
+      {
+        "id": "tt6468322:2:3",
+        "title": "48 metros bajo el suelo",
+        "season": 2,
+        "episode": 3,
+        "overview": "La jugada de Tokio y Nairobi sufre un grave contratiempo. El Profesor recuerda los detalles que le dio Berlín sobre cómo robar el oro de la cámara acorazada.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aZ9Ipswcn8UzeR15G0gahUCX0eM.jpg"
+      },
+      {
+        "id": "tt6468322:2:4",
+        "title": "La hora del delfín",
+        "season": 2,
+        "episode": 4,
+        "overview": "La desobediencia de Tamayo sorprende al Profesor. Bogotá tranquiliza a Denver. A contrarreloj, Palermo inicia el plan Flipper.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z0EfI5uIhU3i72AvN0BypDJvaCn.jpg"
+      },
+      {
+        "id": "tt6468322:2:5",
+        "title": "Bum, bum, ciao",
+        "season": 2,
+        "episode": 5,
+        "overview": "El Profesor logra desconcertar a la policía, pero todo tiene un precio. Palermo y Nairobi tienen una fuerte confrontación.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zZmgnMUdb0WadXK45k3zYjnEhnL.jpg"
+      },
+      {
+        "id": "tt6468322:2:6",
+        "title": "Todo pareció insignificante",
+        "season": 2,
+        "episode": 6,
+        "overview": "Justo cuando la inspectora Sierra idea un plan para infiltrar a un equipo en el Banco de España, el Profesor y Raquel pierden toda comunicación con Palermo.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xwC5rYKGxmmgQSyl5CdsZrinc7W.jpg"
+      },
+      {
+        "id": "tt6468322:2:7",
+        "title": "Pequeñas vacaciones",
+        "season": 2,
+        "episode": 7,
+        "overview": "La alegría de Tokio se vuelve agridulce. Ángel está muy cerca del Profesor y Raquel. Las autoridades ofrecen una recompensa multimillonaria a cambio de información.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rdEe6T90dIwwvbY0S7lvMRuiW54.jpg"
+      },
+      {
+        "id": "tt6468322:2:8",
+        "title": "La deriva",
+        "season": 2,
+        "episode": 8,
+        "overview": "Tokio intenta ahogar sus penas. Sierra usa tácticas personales contra una vulnerable Nairobi, y Suárez le sigue el rastro a Raquel.",
+        "released": "2019-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eCPX3gwiC1I9rklbnpFczLgH1c8.jpg"
+      },
+      {
+        "id": "tt6468322:2:9",
+        "title": "Game Over",
+        "season": 2,
+        "episode": 9,
+        "overview": "La rabia y el dolor profundizan las tensiones entre los miembros de la banda. El Profesor, de duelo, intenta un osado y peligroso escape.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6M4lJXIRAwWBH9C2cZfm6YjwV9o.jpg"
+      },
+      {
+        "id": "tt6468322:2:10",
+        "title": "La boda de Berlín",
+        "season": 2,
+        "episode": 10,
+        "overview": "Las acciones de Palermo dejan pasmada a la banda. Sierra ejerce presión para lograr un trato, mientras el Profesor recuerda la boda de su hermano.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5SBoRUwJd1gEZpdTzE3FE1MfQJM.jpg"
+      },
+      {
+        "id": "tt6468322:2:11",
+        "title": "Lección de anatomía",
+        "season": 2,
+        "episode": 11,
+        "overview": "El topo del Profesor intenta hacerle llegar su mensaje a la persona que está en la carpa. Se intensifican los celos que despierta en Denver la amistad entre Mónica y Río.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f8X4FBmSFeZMFQd7eppYzegxNTB.jpg"
+      },
+      {
+        "id": "tt6468322:2:12",
+        "title": "Suspiros de España",
+        "season": 2,
+        "episode": 12,
+        "overview": "En el pasado, Berlín predice que Gandía complicará la operación. Durante el interrogatorio de Sierra a Lisboa se revela información muy personal.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n2bwgzPiPD834xqmN1PaD2RGQis.jpg"
+      },
+      {
+        "id": "tt6468322:2:13",
+        "title": "5 minutos antes",
+        "season": 2,
+        "episode": 13,
+        "overview": "Denver recibe ayuda de una fuente encubierta. Nairobi intenta motivar al equipo mientras el peligro que acecha cobra cada vez más intensidad.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5GeudJkpHc0TuCmF59wah8oWyVj.jpg"
+      },
+      {
+        "id": "tt6468322:2:14",
+        "title": "KO técnico",
+        "season": 2,
+        "episode": 14,
+        "overview": "Con Nairobi de rehén, Gandía negocia con el grupo. El Profesor busca desesperadamente un nuevo plan para salvar al equipo.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/etw1tw6CoJciWKhsQOqCdYY61sg.jpg"
+      },
+      {
+        "id": "tt6468322:2:15",
+        "title": "Tumbar la carpa",
+        "season": 2,
+        "episode": 15,
+        "overview": "La banda intenta superar un golpe devastador. Mientras tanto, el Profesor pone en marcha su plan con ayuda de nuevos reclutas y de Palermo.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Wux83X2Ff6q1z3bItIuUpuQdlz.jpg"
+      },
+      {
+        "id": "tt6468322:2:16",
+        "title": "Plan París",
+        "season": 2,
+        "episode": 16,
+        "overview": "El Profesor, Benjamín y los otros intentan liberar a Lisboa. La rabia de Tokio amenaza su fe en el plan. Sierra toma las riendas del asunto.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tTmzHsIA2tsLYIK9lHTRLvBpZqs.jpg"
+      },
+      {
+        "id": "tt6468322:3:1",
+        "title": "El final del camino",
+        "season": 3,
+        "episode": 1,
+        "overview": "El Profesor se enfrenta a Sierra, mientras Tamayo aumenta la apuesta y convoca al ejército. En el pasado, Berlín se reúne con un familiar.",
+        "released": "2021-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vsuCslrn4bqNIBAoAr60kjcfKIq.jpg"
+      },
+      {
+        "id": "tt6468322:3:2",
+        "title": "¿Crees en la reencarnación?",
+        "season": 3,
+        "episode": 2,
+        "overview": "Arturo aprovecha una oportunidad para dar batalla, mientras recrudece su venganza personal. Lisboa hace un descubrimiento crucial.",
+        "released": "2021-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yWlo42n3faN9y6bx6xWfm1qsvYE.jpg"
+      },
+      {
+        "id": "tt6468322:3:3",
+        "title": "El espectáculo de la vida",
+        "season": 3,
+        "episode": 3,
+        "overview": "Una emergencia y una traición toman a Sierra por sorpresa. Palermo reúne a las tropas mientras el ejército cierra su cerco en torno a la banda.",
+        "released": "2021-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fHFvxdoZImxQ3zIEWLZjDsRG9Dl.jpg"
+      },
+      {
+        "id": "tt6468322:3:4",
+        "title": "Tu sitio en el cielo",
+        "season": 3,
+        "episode": 4,
+        "overview": "Con la vida de Helsinki en peligro, los ladrones organizan un contraataque encubierto. Años atrás, Berlín y su hijo realizan su primer atraco juntos.",
+        "released": "2021-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z6TR4IsbvZmyLXn72VmPGU1Hu93.jpg"
+      },
+      {
+        "id": "tt6468322:3:5",
+        "title": "Vivir muchas vidas",
+        "season": 3,
+        "episode": 5,
+        "overview": "Tokio, rodeada de disparos y atrapada en la cocina, recuerda su primer amor y su encuentro inicial con el Profesor.",
+        "released": "2021-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bDLP0zhFCgJIZuzSyHevh8PJgAm.jpg"
+      },
+      {
+        "id": "tt6468322:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kyFggNyULzYtXma2MsqDdzrQgXO.jpg"
+      },
+      {
+        "id": "tt6468322:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dycCBXEIZJaLe6LX2tg4AP377V4.jpg"
+      },
+      {
+        "id": "tt6468322:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gtP4Hja3ktZVOiMAYLkEk9dSuRD.jpg"
+      },
+      {
+        "id": "tt6468322:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AtD92LLJiHVjIJqNDaSw1qZeMIb.jpg"
+      },
+      {
+        "id": "tt6468322:3:10",
+        "title": "Episodio 10",
+        "season": 3,
+        "episode": 10,
+        "released": "2021-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ilpHAUoDo7xM9YBBD2oFi1q6krQ.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "meta": {
+    "id": "tt4052886",
+    "type": "series",
+    "name": "Lucifer",
+    "poster": "https://image.tmdb.org/t/p/w500/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+    "posterShape": "poster",
+    "description": "La serie se centra en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Crimen",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt4052886:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cuando una vieja amiga no puede escapar de su trágico destino, Lucifer jura vengarse de los responsables y hace una sorprendente alianza.",
+        "released": "2016-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uYSkeGzyZMWl7jSFiWuPhN54edb.jpg"
+      },
+      {
+        "id": "tt4052886:1:2",
+        "title": "Quieto, Lucifer. Buen diablo.",
+        "season": 1,
+        "episode": 2,
+        "overview": "Lucifer, que se siente tentado de volver al infierno, investiga cómo unos paparazzi muy insistentes han provocado la muerte de un joven.",
+        "released": "2016-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vD4kugm8aVaxHQojb6afhQpB0w0.jpg"
+      },
+      {
+        "id": "tt4052886:1:3",
+        "title": "El presunto Príncipe de las Tinieblas",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un jugador de fútbol americano profesional a punto de convertirse en una estrella hace un macabro descubrimiento y le pide a Lucifer que lo ayude a probar su inocencia.",
+        "released": "2016-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eTRQGrNXhg3t1Z3dhNLOsGxomxm.jpg"
+      },
+      {
+        "id": "tt4052886:1:4",
+        "title": "Cosas de hombres",
+        "season": 1,
+        "episode": 4,
+        "overview": "Lucifer intenta seducir a Chloe, pero ella no es como las otras chicas. Amenadiel le cuenta a Maze que está preocupado por Lucifer.",
+        "released": "2016-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jT6UcjnRP1MH8zUf0zL7NFGqhNQ.jpg"
+      },
+      {
+        "id": "tt4052886:1:5",
+        "title": "Lindos zapatos",
+        "season": 1,
+        "episode": 5,
+        "overview": "Lucifer descubre el lado menos glamuroso del mundo de la moda. Amenadiel se vale de nueva información para urdir un plan y hacer que Lucifer vuelva a casa.",
+        "released": "2016-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nrRGeYit3Tvr2NocDmKEA5bH9sz.jpg"
+      },
+      {
+        "id": "tt4052886:1:6",
+        "title": "Hijo favorito",
+        "season": 1,
+        "episode": 6,
+        "overview": "Lucifer decide averiguar quién le ha robado algo muy personal. La Dra. Linda toma una fatídica decisión.",
+        "released": "2016-02-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iCPIYG06s4rEUAffTI7D1xuVPvy.jpg"
+      },
+      {
+        "id": "tt4052886:1:7",
+        "title": "Compañero alado",
+        "season": 1,
+        "episode": 7,
+        "overview": "Lucifer decide ir en busca de su apreciada propiedad y obtiene ayuda de alguien inesperado. Chloe le pide a Dan que la ayude con el caso Palmetto.",
+        "released": "2016-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3QkYv78ZlxYf54sLO71xYnoqzMr.jpg"
+      },
+      {
+        "id": "tt4052886:1:8",
+        "title": "¿Et tu, doctor?",
+        "season": 1,
+        "episode": 8,
+        "overview": "Lucifer celebra su cumpleaños. Más tarde, se une a Chloe y a la Dra. Linda para investigar el asesinato de un polémico terapeuta.",
+        "released": "2016-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kCvPxVQ0OLyQG7VwPOzHTHGsbKV.jpg"
+      },
+      {
+        "id": "tt4052886:1:9",
+        "title": "Un padre entra a un bar",
+        "season": 1,
+        "episode": 9,
+        "overview": "Un sacerdote sospecha que están entrando drogas a través de un centro juvenil, y le pide ayuda a Lucifer. Amenadiel y Malcolm se sinceran.",
+        "released": "2016-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/guWoA5SLNMVMo6J3vaZSMIEGyXh.jpg"
+      },
+      {
+        "id": "tt4052886:1:10",
+        "title": "Papi",
+        "season": 1,
+        "episode": 10,
+        "overview": "Cuando un famoso chef muere envenenado, Chloe y Lucifer centran sus pesquisas en un sospechoso. Lucifer descubre que la familia de Chloe está más loca que la suya.",
+        "released": "2016-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aqCLf3sbEvGQfLlKg1cYccu1hYK.jpg"
+      },
+      {
+        "id": "tt4052886:1:11",
+        "title": "San Lucifer",
+        "season": 1,
+        "episode": 11,
+        "overview": "Lucifer se queda estupefacto cuando descubre que le gusta ayudar al prójimo. Dan intenta lanzar una advertencia. Chloe busca al asesino de un filántropo.",
+        "released": "2016-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m0EeNM6XyMb2gMKF1b6vyFoaTND.jpg"
+      },
+      {
+        "id": "tt4052886:1:12",
+        "title": "#EquipoLucifer",
+        "season": 1,
+        "episode": 12,
+        "overview": "El cadáver de una mujer asesinada que han retorcido como si fuera un pentagrama lleva a Chloe y a un Lucifer cada vez más inquieto a un sórdido inframundo.",
+        "released": "2016-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jycEjP6R7cd23FasOdNp61d8Xk1.jpg"
+      },
+      {
+        "id": "tt4052886:1:13",
+        "title": "Regrésame al Infierno",
+        "season": 1,
+        "episode": 13,
+        "overview": "Lucifer debe colaborar con Chloe para limpiar su nombre tras ser falsamente acusado de asesinato. Amenadiel lucha contra un mortífero adversario. Lucifer pide un favor.",
+        "released": "2016-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fUOlgpJgR9GBHBvLqad0zZUk0aO.jpg"
+      },
+      {
+        "id": "tt4052886:2:1",
+        "title": "Todo resulta bien para Lucifer",
+        "season": 2,
+        "episode": 1,
+        "overview": "Mientras investiga el asesinato de una doble de luces, Chloe intenta resolver el misterio del origen de Lucifer de una vez por todas.",
+        "released": "2016-09-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lYFabsw3SBbrWfKGWoKEaHTZ3JF.jpg"
+      },
+      {
+        "id": "tt4052886:2:2",
+        "title": "Engaña engañadora, dijo la gran zorra infame",
+        "season": 2,
+        "episode": 2,
+        "overview": "Lucifer sospecha que su madre, que acaba de llegar, podría estar detrás de un brutal asesinato. Más tarde, Lucifer descubre cosas de su horrible pasado.",
+        "released": "2016-10-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v6viaCxUbYLqUmBLnTJK56Unpms.jpg"
+      },
+      {
+        "id": "tt4052886:2:3",
+        "title": "Devorador de pecados",
+        "season": 2,
+        "episode": 3,
+        "overview": "Lucifer se une a Chloe y a Dan para investigar un asesinato relacionado con una página de vídeos en Internet. Más tarde, toma una decisión sobre el castigo de su madre.",
+        "released": "2016-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hIGTO4fmJPD1z6scsKrQ4ItwMXL.jpg"
+      },
+      {
+        "id": "tt4052886:2:4",
+        "title": "Las señoritas se van",
+        "season": 2,
+        "episode": 4,
+        "overview": "Un extraño sello le indica a Chloe un posible asesino. Los ánimos se caldean una noche entre las chicas. A Amenadiel le preocupa que sus poderes se estén desvaneciendo.",
+        "released": "2016-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c7ZzRki57zGk1uA6bYA96nnffkw.jpg"
+      },
+      {
+        "id": "tt4052886:2:5",
+        "title": "El Exterminador",
+        "season": 2,
+        "episode": 5,
+        "overview": "Tras su accidente, Chloe empieza a investigar el asesinato de una famosa estrella de acción. El hermano de Lucifer, Uriel, viaja a la Tierra para entregar un mensaje.",
+        "released": "2016-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6ljSoSp9ImsczGvtepnBpjlRAKq.jpg"
+      },
+      {
+        "id": "tt4052886:2:6",
+        "title": "Monstruo",
+        "season": 2,
+        "episode": 6,
+        "overview": "Una boda de temática zombi se torna letal. Maze lleva a Trixie a pedir caramelos. Lucifer tiene una conversación reveladora con la doctora Linda.",
+        "released": "2016-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg"
+      },
+      {
+        "id": "tt4052886:2:7",
+        "title": "Mi adorada hija",
+        "season": 2,
+        "episode": 7,
+        "overview": "Chloe se entera de que el hombre condenado por matar a su padre va a salir temporalmente de la cárcel. Maze busca su verdadera vocación.",
+        "released": "2016-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8BdK5HFFv627REaT0EAaP0s5lH5.jpg"
+      },
+      {
+        "id": "tt4052886:2:8",
+        "title": "Al filo de la navaja",
+        "season": 2,
+        "episode": 8,
+        "overview": "Tras el apuñalamiento de una mujer, Chloe y Lucifer investigan a un grupo de yoga que actúa como una secta. Mientras, la doctora Linda se reúne con su paciente favorito.",
+        "released": "2016-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9DQESENeZ0S9ZUMBQIEh9hCDlMU.jpg"
+      },
+      {
+        "id": "tt4052886:2:9",
+        "title": "Rompehogares",
+        "season": 2,
+        "episode": 9,
+        "overview": "Chloe, Dan y Lucifer se ocupan del asesinato de un magnate inmobiliario. Mientras tanto, Charlotte trama un plan para obligar a Lucifer a abandonar la Tierra.",
+        "released": "2016-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/80CKoa5pB2sgCacDudK1I3OvEEs.jpg"
+      },
+      {
+        "id": "tt4052886:2:10",
+        "title": "Maldito criminal",
+        "season": 2,
+        "episode": 10,
+        "overview": "Amenadiel intenta hacer entrar en razón a su madre. Chloe recibe noticias muy preocupantes sobre un caso. Lucifer es interrogado como testigo.",
+        "released": "2016-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p5pXS66qptzWwUUo80NXZyH1PVw.jpg"
+      },
+      {
+        "id": "tt4052886:2:11",
+        "title": "La azafata interrumpiendo",
+        "season": 2,
+        "episode": 11,
+        "overview": "Lucifer descubre que es la única conexión obvia entre dos víctimas de asesinato. La doctora Linda le da algunos consejos a Maze. Chloe toma una decisión.",
+        "released": "2017-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gYxxRr8GLKlmn9ICBQ9MdW3TUsy.jpg"
+      },
+      {
+        "id": "tt4052886:2:12",
+        "title": "Las agarraderas del amor",
+        "season": 2,
+        "episode": 12,
+        "overview": "La muerte de un estudiante universitario lleva a Lucifer y a Chloe por un camino muy peligroso. Mientras tanto, ambos tratan de lidiar con la evolución de su relación.",
+        "released": "2017-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/raqY9j057YfyLq58u1gJURGd9K0.jpg"
+      },
+      {
+        "id": "tt4052886:2:13",
+        "title": "Un buen día para morir",
+        "season": 2,
+        "episode": 13,
+        "overview": "Lucifer promete hacer un esfuerzo para encontrar el antídoto necesario para salvar la vida de Chloe. Después, Lucifer y su madre tienen una acalorada discusión.",
+        "released": "2017-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i2C27CFN1WzuGBCTmFo19fweiST.jpg"
+      },
+      {
+        "id": "tt4052886:2:14",
+        "title": "Dulce Estrella de la Mañana",
+        "season": 2,
+        "episode": 14,
+        "overview": "Lucifer regresa a Los Ángeles dos semanas después, pero no está solo. Más tarde, Chloe muestra su talento como actriz.",
+        "released": "2017-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bwdVJBEzCfL2MFoixPy9gKXob0f.jpg"
+      },
+      {
+        "id": "tt4052886:2:15",
+        "title": "Parásito abominable",
+        "season": 2,
+        "episode": 15,
+        "overview": "Lucifer aprende lo que debe hacer para reavivar la Espada de Azrael. Chloe y Dan investigan la muerte de una directora administrativa de una escuela de primaria.",
+        "released": "2017-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hepWWJSwEGv3OtjkKEPd9CC1U8T.jpg"
+      },
+      {
+        "id": "tt4052886:2:16",
+        "title": "Dios Johnson",
+        "season": 2,
+        "episode": 16,
+        "overview": "Lucifer se cuela de incógnito en un psiquiátrico para localizar a un asesino, pero da con un hombre cuyos poderes podrían estar a la altura de los suyos.",
+        "released": "2017-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mugH9bd2QiclxwSwkA5uaUsdutJ.jpg"
+      },
+      {
+        "id": "tt4052886:2:17",
+        "title": "Simpatía por la diosa",
+        "season": 2,
+        "episode": 17,
+        "overview": "La ética de la doctora Linda se pone en entredicho. Lucifer recibe una bronca y descubre algo muy doloroso. Amenadiel y Dan ven que tienen algo en común.",
+        "released": "2017-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pShv1t2WbziDPmRfVDs2Qicc61p.jpg"
+      },
+      {
+        "id": "tt4052886:2:18",
+        "title": "El bueno, el malo y el crujiente",
+        "season": 2,
+        "episode": 18,
+        "overview": "Amenadiel adopta una posición firme. La madre de Lucifer comparte un secreto. La doctora Linda improvisa. Lucifer se plantea sincerarse con Chloe.",
+        "released": "2017-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ndpTp1akAYGkJ7ZqGKQ6Ns6IRtj.jpg"
+      },
+      {
+        "id": "tt4052886:3:1",
+        "title": "Han vuelto, ¿cierto?",
+        "season": 3,
+        "episode": 1,
+        "overview": "Lucifer intenta encontrar sentido a los últimos cambios. El teniente Marcus Pierce no entra con buen pie el primer día en la comisaría.",
+        "released": "2017-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sYdotmAglkEL7y1NqVmJLxjWn8J.jpg"
+      },
+      {
+        "id": "tt4052886:3:2",
+        "title": "El que tiene la pequeña zanahoria",
+        "season": 3,
+        "episode": 2,
+        "overview": "Lucifer y Chloe investigan un nuevo caso. El pasado de Pierce comienza a desvelarse. A Linda le preocupa que su paciente favorito no se cuide.",
+        "released": "2017-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zUCFRdUtF8cSPvZBcV1lj2DSAyb.jpg"
+      },
+      {
+        "id": "tt4052886:3:3",
+        "title": "Señor y señora Mazikeen Smith",
+        "season": 3,
+        "episode": 3,
+        "overview": "Maze decide irse para cambiar de aire, pero a Chloe le preocupa que alguien haya planeado algo siniestro.",
+        "released": "2017-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rOFqOxxLtumBpwHJBN3wG0X8CKc.jpg"
+      },
+      {
+        "id": "tt4052886:3:4",
+        "title": "¿Qué haría Lucifer?",
+        "season": 3,
+        "episode": 4,
+        "overview": "Chloe intenta entender lo que siente Pierce por ella. Lucifer y Chloe investigan el asesinato de una consejera en un exclusivo centro de desintoxicación.",
+        "released": "2017-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/75ibCXvPllicf80JEXWMvZmseJM.jpg"
+      },
+      {
+        "id": "tt4052886:3:5",
+        "title": "Bienvenida, Charlotte Richards",
+        "season": 3,
+        "episode": 5,
+        "overview": "Mientras investigan la muerte de un ingeniero químico de alimentos, Lucifer y Chloe se cruzan con alguien del pasado, la abogada defensora Charlotte Richards.",
+        "released": "2017-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zV0XERJbmKbsI68RoURnzfV1btj.jpg"
+      },
+      {
+        "id": "tt4052886:3:6",
+        "title": "Las Vegas con un poco de dulce",
+        "season": 3,
+        "episode": 6,
+        "overview": "Lucifer y Ella deciden ir a Las Vegas a investigar la desaparición de una vieja amiga. Chloe y Linda deciden desmelenarse.",
+        "released": "2017-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5HToR937sgQy1qi0GNlO8Igu6sY.jpg"
+      },
+      {
+        "id": "tt4052886:3:7",
+        "title": "Extraoficialmente",
+        "season": 3,
+        "episode": 7,
+        "overview": "Maze sospecha que el repentino interés de un periodista por la vida de Lucifer no puede ser casual.",
+        "released": "2017-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nhOIE0oMogNVxeB9RwDwPv8C9CD.jpg"
+      },
+      {
+        "id": "tt4052886:3:8",
+        "title": "Chloe se hace Lucifer",
+        "season": 3,
+        "episode": 8,
+        "overview": "Chloe investiga de incógnito y con la ayuda de Lucifer un asesinato relacionado con una exclusiva aplicación de citas.",
+        "released": "2017-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iI374DAQ04zFIcX2xMzClp89i5T.jpg"
+      },
+      {
+        "id": "tt4052886:3:9",
+        "title": "El hombre del pecado",
+        "season": 3,
+        "episode": 9,
+        "overview": "Tras darse cuenta de que las personas a las que ayuda mueren, Lucifer se enfrenta con el Pecador durante la investigación.",
+        "released": "2017-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zdwnu9GR87wc59FxbCFlEDcsVBa.jpg"
+      },
+      {
+        "id": "tt4052886:3:10",
+        "title": "El lugar del pecado",
+        "season": 3,
+        "episode": 10,
+        "overview": "Con otra vida en peligro, el Pecador sigue fastidiando a Lucifer. Trixie conoce a Charlotte.",
+        "released": "2017-12-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j6vGdven74cWqzJ9tbqeWBPFtjV.jpg"
+      },
+      {
+        "id": "tt4052886:3:11",
+        "title": "¿Ciudad de ángeles?",
+        "season": 3,
+        "episode": 11,
+        "overview": "En una vuelta al pasado, Lucifer ayuda a Amenadiel a hacerse con la ciudad. Chloe y Dan investigan el asesinato de un luchador.",
+        "released": "2018-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9S1rOwsubTJqDxyoJanKHqTPQ90.jpg"
+      },
+      {
+        "id": "tt4052886:3:12",
+        "title": "Todo por ella",
+        "season": 3,
+        "episode": 12,
+        "overview": "Tras descubrir la identidad de Pierce, Lucifer le ofrece ayuda para llegar a un acuerdo. Amenadiel se ocupa de un asunto personal.",
+        "released": "2018-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wYwcsYwKHF0lxiyQVlpkqO4nC7m.jpg"
+      },
+      {
+        "id": "tt4052886:3:13",
+        "title": "Hasta que la muerte nos parta",
+        "season": 3,
+        "episode": 13,
+        "overview": "Lucifer y Pierce siguen de incógnito el rastro de un asesino relacionado con el mundo de las drogas. Maze se siente atraída por una antigua enemiga.",
+        "released": "2018-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9WphAxgUrS4sSuUmE7xUjACsHzx.jpg"
+      },
+      {
+        "id": "tt4052886:3:14",
+        "title": "La responsabilidad de mi hermano",
+        "season": 3,
+        "episode": 14,
+        "overview": "Durante la investigación de la muerte de un ladrón de diamantes, Chloe y Lucifer se topan con un inesperado sospechoso. Linda se enfada con Charlotte.",
+        "released": "2018-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qPXEQdKYevt2JlQRI6OmjpCYn1d.jpg"
+      },
+      {
+        "id": "tt4052886:3:15",
+        "title": "Tonterías de preparatoria",
+        "season": 3,
+        "episode": 15,
+        "overview": "Una novelista, cuyos personajes se basan en personas de su pasado, es asesinada. Lucifer busca sospechosos en la reunión del instituto de la víctima.",
+        "released": "2018-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z80Zc1ju8o8PjAWlKVFfYCO6VUt.jpg"
+      },
+      {
+        "id": "tt4052886:3:16",
+        "title": "Conejillo de indias del infierno",
+        "season": 3,
+        "episode": 16,
+        "overview": "Chloe descubre el lado oscuro de Hollywood durante una investigación. Los planes de Lucifer para ayudar a Caín se tuercen cuando Amenadiel y Maze intervienen.",
+        "released": "2018-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3pjCT2LKcM1LAdeIGYmFffyobcy.jpg"
+      },
+      {
+        "id": "tt4052886:3:17",
+        "title": "¡Dejemos que la boba cante!",
+        "season": 3,
+        "episode": 17,
+        "overview": "Lucifer y Chloe arriesgan todo para proteger a una cantante famosa. Charlotte hace de mediadora.",
+        "released": "2018-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8wWt2usKxb4e5QWMAwDoSQJnim0.jpg"
+      },
+      {
+        "id": "tt4052886:3:18",
+        "title": "El último corazón roto",
+        "season": 3,
+        "episode": 18,
+        "overview": "Chloe y Lucifer investigan a un asesino cuyo objetivo son las parejas enamoradas. Pierce sospecha que el caso está relacionado con su pasado.",
+        "released": "2018-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nNKFX4ffK5mUBkAvRbHvElFx82e.jpg"
+      },
+      {
+        "id": "tt4052886:3:19",
+        "title": "Naranja es la nueva Maze",
+        "season": 3,
+        "episode": 19,
+        "overview": "Lucifer y Chloe investigan un asesinato con una sospechosa muy familiar. Maze toma una difícil decisión. Charlotte hace un descubrimiento importante.",
+        "released": "2018-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vZzsNxVAZ2dZ2Kh1mGctYg2nzuC.jpg"
+      },
+      {
+        "id": "tt4052886:3:20",
+        "title": "El ángel de San Bernardino",
+        "season": 3,
+        "episode": 20,
+        "overview": "La descripción que hace una testigo de asesinato del ángel guardián que le salvó la vida hace reflexionar a Lucifer. La relación de Chloe y Pierce da un giro inesperado.",
+        "released": "2018-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wsJ5txWNC2ckOO7rcvWF5snPbzj.jpg"
+      },
+      {
+        "id": "tt4052886:3:21",
+        "title": "Lo que Pierce haga lo puedo mejorar",
+        "season": 3,
+        "episode": 21,
+        "overview": "Lucifer ayuda a Chloe a buscar al culpable del asesinato de una bailarina al tiempo que intenta que su compañera no piense en Pierce.",
+        "released": "2018-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v9emWkvbGH3ROkxql3iGaGn9NJ9.jpg"
+      },
+      {
+        "id": "tt4052886:3:22",
+        "title": "Manos a la obra, Decker",
+        "season": 3,
+        "episode": 22,
+        "overview": "Lucifer y Dan investigan un asesinato relacionado con un concurso canino. Chloe celebra una decisión importante con sus compañeros, pero las dudas la asaltarán.",
+        "released": "2018-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uOP7CZtZ4hstFkM4MNsAhtbwbcL.jpg"
+      },
+      {
+        "id": "tt4052886:3:23",
+        "title": "Decker por excelencia",
+        "season": 3,
+        "episode": 23,
+        "overview": "Lucifer y Chloe descubren algo inquietante durante la investigación de la muerte de una mujer. Una llamada de teléfono cambiará la vida de Lucifer.",
+        "released": "2018-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hJoaS86B41BTFnM5tZBvcGWwY8k.jpg"
+      },
+      {
+        "id": "tt4052886:3:24",
+        "title": "Un diablo de palabra",
+        "season": 3,
+        "episode": 24,
+        "overview": "Impactados por la tragedia, Lucifer y Chloe buscan al responsable de lo sucedido. Maze se esfuerza por recuperar una vieja amistad.",
+        "released": "2018-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cjyEioU8dv85ltpkfKbHLTw54Z5.jpg"
+      },
+      {
+        "id": "tt4052886:3:25",
+        "title": "¡Bu! Normal",
+        "season": 3,
+        "episode": 25,
+        "overview": "Lucifer investiga el asesinato de una psiquiatra infantil. Ella reflexiona sobre un secreto de su niñez que ha ocultado todo este tiempo.",
+        "released": "2018-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8pgQgnLYwV6JqCbhjXItjx2YsoY.jpg"
+      },
+      {
+        "id": "tt4052886:3:26",
+        "title": "Érase una vez",
+        "season": 3,
+        "episode": 26,
+        "overview": "En una dimensión alternativa, Lucifer comprueba cómo hubiese sido su vida de no haber conocido a Chloe.",
+        "released": "2018-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vjUBs9W4xJa7sAWHsKmXQK7ajR3.jpg"
+      },
+      {
+        "id": "tt4052886:4:1",
+        "title": "Todo está bien",
+        "season": 4,
+        "episode": 1,
+        "overview": "Chloe, que investiga el asesinato de un apicultor con Lucifer, insiste en que no le afecta en absoluto su diabólica revelación.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7pRhPXdnxD0MmEgZEuS0Vq8Ui.jpg"
+      },
+      {
+        "id": "tt4052886:4:2",
+        "title": "Alguien ha estado leyendo el Infierno de Dante",
+        "season": 4,
+        "episode": 2,
+        "overview": "Chloe y Lucifer investigan un asesinato en el set de un reality. El padre Kinley sigue adelante con un plan. Amenadiel reflexiona sobre su concepto de hogar.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ui2aGAxu1T9eiE3BgNL2FsGAnMz.jpg"
+      },
+      {
+        "id": "tt4052886:4:3",
+        "title": "Hombres de poca fe, padre",
+        "season": 4,
+        "episode": 3,
+        "overview": "El asesinato de un expandillero podría estar ocultando un crimen incluso más siniestro. Lucifer le pilla a Chloe mintiendo. Linda se prepara para su inminente maternidad.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zxYiZtBYODIkRbXxwktnd1yYO42.jpg"
+      },
+      {
+        "id": "tt4052886:4:4",
+        "title": "Todo por Eva",
+        "season": 4,
+        "episode": 4,
+        "overview": "Tras el asesinato de un diseñador de joyas, Lucifer y Chloe se esfuerzan por resolver el caso sin la ayuda del otro. Lucifer retoma el contacto con un antiguo amor.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3r8wD29L897ONeP3115bDoqM8mD.jpg"
+      },
+      {
+        "id": "tt4052886:4:5",
+        "title": "Con fecha de expiración",
+        "season": 4,
+        "episode": 5,
+        "overview": "Lucifer y Chloe buscan al asesino de un coleccionista de autos clásicos... y la manera de darle un cierre a su relación.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qerclZBaBKgRxrI5PFNdScVjNpN.jpg"
+      },
+      {
+        "id": "tt4052886:4:6",
+        "title": "Des-vestido para la orgía",
+        "season": 4,
+        "episode": 6,
+        "overview": "Mientras Lucifer y Chloe intentan hallar un vínculo entre el asesinato de un auditor y una colonia nudista, Amenadiel recibe una visita inesperada.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2mfCfDKVrWHVoLQl9iW1XPB3jNj.jpg"
+      },
+      {
+        "id": "tt4052886:4:7",
+        "title": "Diablo es el que hace diabluras",
+        "season": 4,
+        "episode": 7,
+        "overview": "Eva toma un papel más activo en la vida profesional de su hombre. Entretanto, Lucifer hace borrón y cuenta nueva. Amenadiel lucha por su familia.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z6wi7v2fvJ4ta76jLoVvr7Ipp3Y.jpg"
+      },
+      {
+        "id": "tt4052886:4:8",
+        "title": "El peor novio",
+        "season": 4,
+        "episode": 8,
+        "overview": "Lucifer y Chloe investigan el asesinato de una profesora. Mientras, Lucifer se esfuerza en convencer a Eva de que rompa con él. Amenadiel ejerce de mentor para un joven.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/enVzrP8xS7VR6wulO9dMi1y48xj.jpg"
+      },
+      {
+        "id": "tt4052886:4:9",
+        "title": "Salvar a Lucifer",
+        "season": 4,
+        "episode": 9,
+        "overview": "La epifanía de Lucifer hace que Chloe se preocupe. Pero lo que realmente la asusta es su transformación física. Maze tiene una charla con Eva.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dWlZXfWtsBvligwEFQEfuBwtMZJ.jpg"
+      },
+      {
+        "id": "tt4052886:4:10",
+        "title": "¿Quién es el nuevo rey del infierno?",
+        "season": 4,
+        "episode": 10,
+        "overview": "Hay dos demonios asesinos sueltos en Los Ángeles y solamente Lucifer podrá aplacar el caos y proteger a la gente que más le importa.",
+        "released": "2019-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wyipOHD8GRrVK3ECP4GiN9anvm5.jpg"
+      },
+      {
+        "id": "tt4052886:5:1",
+        "title": "El príncipe triste",
+        "season": 5,
+        "episode": 1,
+        "overview": "Lucifer se entretiene con la víctima de un asesinato mientras Chloe y Maze investigan el caso. Entretanto, Amenadiel pone orden en el club y Linda cuida a su bebé genio.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zJ0nWGmE1V0IDSkf5g6lHod70Kp.jpg"
+      },
+      {
+        "id": "tt4052886:5:2",
+        "title": "¡Lucifer, Lucifer, Lucifer!",
+        "season": 5,
+        "episode": 2,
+        "overview": "Después de pasar una eternidad en el Infierno, Lucifer vuelve a la tierra de los vivos..., pero el apuesto demonio no es el mismo de antes.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/36jxPTPsSVCb8QE4EjsvcTbh9EM.jpg"
+      },
+      {
+        "id": "tt4052886:5:3",
+        "title": "¡Diablo!",
+        "season": 5,
+        "episode": 3,
+        "overview": "Lucifer ayuda a Chloe a investigar un homicidio que tuvo lugar en el set de un programa de televisión inspirado en la vida del propio diablo.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8izRMd71zHs8YZ9kLL6etcngVBa.jpg"
+      },
+      {
+        "id": "tt4052886:5:4",
+        "title": "Una historia en clave noir",
+        "season": 5,
+        "episode": 4,
+        "overview": "Corre el año 1946 y el mundo se ve en blanco y negro. La historia de Lucifer cobra carácter de novela policíaca, donde personajes conocidos encarnan papeles distintos.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1KP5Qih9nYr6AyS9MW2jNHs2upo.jpg"
+      },
+      {
+        "id": "tt4052886:5:5",
+        "title": "Detective Amenadiel",
+        "season": 5,
+        "episode": 5,
+        "overview": "Amenadiel colabora con Chloe en la investigación del caso de una novicia. Mientras tanto, Lucifer le echa una mano a Dan y Linda revela una parte dolorosa de su pasado.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sx1T4Ffy5oOPuhm8SWjdf5pwIdU.jpg"
+      },
+      {
+        "id": "tt4052886:5:6",
+        "title": "Carnal",
+        "season": 5,
+        "episode": 6,
+        "overview": "Mientras Chloe está ocupada buscando al responsable de la muerte de un DJ popular, Lucifer intenta reprimir los celos surgidos tras una aparición sorpresiva.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oyJT80aYaFcw51mFoBGPLsO3kmH.jpg"
+      },
+      {
+        "id": "tt4052886:5:7",
+        "title": "Aprender a compartir",
+        "season": 5,
+        "episode": 7,
+        "overview": "Desconcertado por el inesperado efecto secundario de su romance, Lucifer ayuda a Chloe a dar con un asesino que tiene un modus operandi insólito.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xWwIxkEJzp2LTuzDrUeb58doJ9Z.jpg"
+      },
+      {
+        "id": "tt4052886:5:8",
+        "title": "El gemelo maldito",
+        "season": 5,
+        "episode": 8,
+        "overview": "Chloe pone en duda la confesión de un asesino en serie, Amenadiel se preocupa por la salud de su hijo, y Pete se sincera con Ella.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w1fVmFBTVhLkHXPD75I7FGtBzvk.jpg"
+      },
+      {
+        "id": "tt4052886:5:9",
+        "title": "Cena en familia",
+        "season": 5,
+        "episode": 9,
+        "overview": "Chloe y Ella investigan un asesinato en el minigolf. Lucifer, Miguel, Amenadiel y Linda se preparan para la más sagrada de las cenas familiares.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4a67PgogvISjKhk0GBdUPdjsG5F.jpg"
+      },
+      {
+        "id": "tt4052886:5:10",
+        "title": "Karaoke celestial",
+        "season": 5,
+        "episode": 10,
+        "overview": "¿Es un musical? ¡Sí! Un musical. Lucifer, Chloe y los demás cantan y bailan al compás de canciones populares mientras investigan la muerte de un árbitro.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zuQ0L3AJXhYARINQNH5guw9bPlb.jpg"
+      },
+      {
+        "id": "tt4052886:5:11",
+        "title": "¡Por Dios!",
+        "season": 5,
+        "episode": 11,
+        "overview": "El padre de Lucifer (el mismísimo Dios) decide experimentar en primera persona la vida de un humano como cualquiera. La muerte de un luchador genera varios interrogantes.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e9o0leEZr3ecgkAAG9vlZyE841s.jpg"
+      },
+      {
+        "id": "tt4052886:5:12",
+        "title": "Daniel Espinoza, desnudo y aterrado",
+        "season": 5,
+        "episode": 12,
+        "overview": "Aunque parecía un trabajo sencillo, el traslado de una prisionera se convierte en una odisea peligrosa pero extrañamente estimulante para Dan.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lX691pQodkaaXvQMNTDqg82pueS.jpg"
+      },
+      {
+        "id": "tt4052886:5:13",
+        "title": "Vigilancia inofensiva",
+        "season": 5,
+        "episode": 13,
+        "overview": "Linda se embarca en una misión profundamente personal. Maze desenmascara a una figura del pasado, y Amenadiel evalúa una nueva posibilidad.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cCPB9cF3kXteZNBeLCiQPNharF0.jpg"
+      },
+      {
+        "id": "tt4052886:5:14",
+        "title": "Nada es eterno",
+        "season": 5,
+        "episode": 14,
+        "overview": "Lucifer se prepara para su futuro rol como sucesor de su padre. Ella hace una dolorosa confesión, y Chloe investiga un asesinato en un acuario.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i3KtfO6fp5NRU0EDFwzHaW6pckg.jpg"
+      },
+      {
+        "id": "tt4052886:5:15",
+        "title": "¿Así se termina todo?",
+        "season": 5,
+        "episode": 15,
+        "overview": "Lucifer descubre que no todos sus hermanos quieren que él obtenga su gran ascenso. Dan se ofrece a emparejar a Ella con un viejo amigo.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gHhtRr5Dkx8Wm0sIDo0awrflkJW.jpg"
+      },
+      {
+        "id": "tt4052886:5:16",
+        "title": "Un posible final feliz",
+        "season": 5,
+        "episode": 16,
+        "overview": "¡Se acerca el final! Lucifer, Chloe, Maze y Amenadiel se preparan para la batalla contra Miguel y su poco venerable ejército de seguidores.",
+        "released": "2021-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gRbSqTz5tPaEGKyQZjbz3DPGUYm.jpg"
+      },
+      {
+        "id": "tt4052886:6:1",
+        "title": "Nada nunca cambia aquí",
+        "season": 6,
+        "episode": 1,
+        "overview": "Antes de que Lucifer asuma su nuevo cargo, él y Chloe viven una noche mágica con un final sangriento. Linda y Amenadiel invitan a Maze y Eva a cenar.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uSDvwRKeEyp7MKR1XguBpOVtooO.jpg"
+      },
+      {
+        "id": "tt4052886:6:2",
+        "title": "Muchos traumas",
+        "season": 6,
+        "episode": 2,
+        "overview": "Impaciente por ser de utilidad, Lucifer ayuda a una irritada Carol a investigar la muerte de una drag queen. Ella y Chloe examinan los misteriosos antecedentes de Carol.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bDVBMyypdiYEM6ZGsLhUAhFpVV5.jpg"
+      },
+      {
+        "id": "tt4052886:6:3",
+        "title": "¡Yabadabadú, sí!",
+        "season": 6,
+        "episode": 3,
+        "overview": "Un chiflado Lucifer y una caricaturesca Chloe quedan atrapados en un bucle animado. Amenadiel se prepara para su nuevo trabajo. Dan vuelve a la ciudad de ángeles.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bbL2dmQdq8vzOOj14k2Ef31y9JX.jpg"
+      },
+      {
+        "id": "tt4052886:6:4",
+        "title": "Adivina quién es tu papi",
+        "season": 6,
+        "episode": 4,
+        "overview": "Lucifer se contacta nuevamente con algunas de sus exparejas para refutar las afirmaciones de Rory. Dan intenta encontrar a alguien que pueda verlo.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5t0gk4Fg7fg9FZQF57cfULdDNJY.jpg"
+      },
+      {
+        "id": "tt4052886:6:5",
+        "title": "El asesinato de Lucifer Estrella de la Mañana",
+        "season": 6,
+        "episode": 5,
+        "overview": "Sin poder creer que fue capaz de abandonar a su futura hija, Lucifer se dispone a demostrar otra teoría posible: seguramente fue asesinado.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k7H2nMGCtxy0HpoODI5mTIhSW6v.jpg"
+      },
+      {
+        "id": "tt4052886:6:6",
+        "title": "Te vas a ensuciar mucho más que eso",
+        "season": 6,
+        "episode": 6,
+        "overview": "Amenadiel, deseoso de hacer un buen trabajo en su primer día, se cruza con un detective racista del pasado. Por otra parte, Lucifer intenta estrechar lazos con Rory.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hDxtnWhoAtkqNaE2VRn9ssHXf4D.jpg"
+      },
+      {
+        "id": "tt4052886:6:7",
+        "title": "La boda de mi mejor enemiga",
+        "season": 6,
+        "episode": 7,
+        "overview": "Justo el día de la boda de Eva y Maze, se aparece el ex de Eva, Adán —sí, ese Adán— con la intención de reconciliarse. Más tarde, Ella comunica noticias alarmantes.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rasaR4B6hMk8Pe7aIAJxDrF9qq2.jpg"
+      },
+      {
+        "id": "tt4052886:6:8",
+        "title": "Salva al diablo, salva al mundo",
+        "season": 6,
+        "episode": 8,
+        "overview": "Lucifer afirma que al fin está listo para ser Dios, pero sus alas parecen no estar de acuerdo. A regañadientes, Linda comparte el primer borrador de su libro.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zhLiQkpDSp6zhuzpGISyEyGbiKm.jpg"
+      },
+      {
+        "id": "tt4052886:6:9",
+        "title": "Adiós, Lucifer",
+        "season": 6,
+        "episode": 9,
+        "overview": "Lucifer intenta disfrutar del que podría ser su último día en la Tierra. El asesino de Dan escapa de la cárcel. Chloe hace un anuncio sorprendente.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gB1AWXIYl8PKvbJgDmYL61zUwbH.jpg"
+      },
+      {
+        "id": "tt4052886:6:10",
+        "title": "Compañeros hasta el fin",
+        "season": 6,
+        "episode": 10,
+        "overview": "Desesperados por rescatar a Rory, Lucifer y Chloe se enfrentan a su secuestrador entre disparos y aleteos. Lucifer finalmente asume su propósito.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dahmfbzyZQMu9F8oryOlOQgWKAw.jpg"
+      }
+    ]
+  }
+}

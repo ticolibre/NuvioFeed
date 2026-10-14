@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "id": "tt8688814",
+    "type": "series",
+    "name": "Príncipe de los dragones",
+    "poster": "https://image.tmdb.org/t/p/w500/z28WEP1zEECKuq5eFzFkEkRraEG.jpg",
+    "posterShape": "poster",
+    "description": "Un descubrimiento extraordinario inspira a dos príncipes y a la elfo que iba a matarlos a unir fuerzas para traer la paz entre sus pueblos.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/sD3OAmfxHRXWmZFROjRRL3HcPXj.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt8688814:1:1",
+        "title": "Ecos de Trueno",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mientras el reino humano de Katolis se prepara para un ataque de los elfos de luna, el rey Harrow idea un plan para enviar a sus hijos Callum y Ezran a un lugar seguro.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7edKFWqUIRbK6AtaHKIkwIuWhtL.jpg"
+      },
+      {
+        "id": "tt8688814:1:2",
+        "title": "Hecho nunca deshecho",
+        "season": 1,
+        "episode": 2,
+        "overview": "Decidida a enmendar su error, Rayla entra a escondidas al castillo y acorrala a Callum. Lord Viren le ofrece al rey una forma de sobrevivir al ataque.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9lhqWx6cNoOcdbpjLxbVkEcgLhx.jpg"
+      },
+      {
+        "id": "tt8688814:1:3",
+        "title": "Luna llena",
+        "season": 1,
+        "episode": 3,
+        "overview": "Llegada la noche, Rayla y los príncipes se apuran para compartir lo que descubrieron y detener el ataque, pero antes deben enfrentar a Claudia.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uBvvjFKNvESJsiVnJPSxEgpHMvr.jpg"
+      },
+      {
+        "id": "tt8688814:1:4",
+        "title": "Sedientos de sangre",
+        "season": 1,
+        "episode": 4,
+        "overview": "Callum, contento con sus nuevos poderes, convence a los demás de viajar a la cabaña de Banther para buscar un cubo mágico. Katolis se prepara para coronar al nuevo rey.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bQgfV0aGcTmHLBW0bXJ0vuOT0sI.jpg"
+      },
+      {
+        "id": "tt8688814:1:5",
+        "title": "Trono vacío",
+        "season": 1,
+        "episode": 5,
+        "overview": "Callum intenta controlar su magia, la general Amaya tiene un cruce con Viren y un viaje por el río da un giro inesperado.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bfNBduxL6WpQR5YhiiaNLogMNAC.jpg"
+      },
+      {
+        "id": "tt8688814:1:6",
+        "title": "En el hielo",
+        "season": 1,
+        "episode": 6,
+        "overview": "Después de una pelea con un soldado, Rayla guía a los príncipes a terreno alto. Viren les da órdenes secretas a Soren y Claudia mientras empiezan su misión.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gQLFhtafB9hLvFtC8ieeOngRBpT.jpg"
+      },
+      {
+        "id": "tt8688814:1:7",
+        "title": "La daga y el lobo",
+        "season": 1,
+        "episode": 7,
+        "overview": "En una aldea cercana, Callum y Ezran buscan ayuda con el huevo mientras Rayla va tras una espada mágica. Claudia junta ingredientes para un hechizo de seguimiento.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kSxDkn8k3O2wfbRZr40Al44cxu8.jpg"
+      },
+      {
+        "id": "tt8688814:1:8",
+        "title": "Caldera maldita",
+        "season": 1,
+        "episode": 8,
+        "overview": "Ellis guía a los amigos a la Caldera Maldita, pero les advierte que está llena de monstruos. Viren trata de obligar a Runaan a hablar.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bWKMLLBNewR7khgLjwsxx9UWKRB.jpg"
+      },
+      {
+        "id": "tt8688814:1:9",
+        "title": "Tormenta maravillosa",
+        "season": 1,
+        "episode": 9,
+        "overview": "Ezran, Callum y Rayla usan sus talentos especiales mientras suben por la montaña en una jugada desesperada por salvar el huevo.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f3CVwjdMCXgumXaHLEUw6jZNxCl.jpg"
+      },
+      {
+        "id": "tt8688814:2:1",
+        "title": "El secreto y la chispa",
+        "season": 2,
+        "episode": 1,
+        "overview": "Antes de avanzar hacia Xadia, Callum le ruega a Lujanne que le dé una clase de magia, y Ezran intenta enseñarle a volar al príncipe dragón. El peligro anda muy cerca...",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a9vJDa32PtW0SSN6ci7zwlsYEYC.jpg"
+      },
+      {
+        "id": "tt8688814:2:2",
+        "title": "Lo que oculta la luna",
+        "season": 2,
+        "episode": 2,
+        "overview": "Tras un feroz enfrentamiento con Rayla, Soren y Claudia discuten sobre qué hacer con los príncipes. Rayla teme haber guardado un secreto demasiado tiempo.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3MXqcvLR6LUsfIEQOxV60L7ARcm.jpg"
+      },
+      {
+        "id": "tt8688814:2:3",
+        "title": "Humo y espejos",
+        "season": 2,
+        "episode": 3,
+        "overview": "Mientras Callum busca la manera de darle la triste noticia a Ezran, Rayla les tiende una trampa a Claudia y a Soren. Viren ve a una misteriosa figura en el espejo.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/71CfuyjXjFh7T4WGKuR0c4j0vDm.jpg"
+      },
+      {
+        "id": "tt8688814:2:4",
+        "title": "La travesía de la Ruth-a perdida",
+        "season": 2,
+        "episode": 4,
+        "overview": "Luego despedirse de Phoe-Phoe, la pandilla se alía con un pirata para cruzar una bahía, donde Callum busca establecer una conexión con el Arcanum del cielo.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2YAFijn8YSWJsCURDAAt4h7p44A.jpg"
+      },
+      {
+        "id": "tt8688814:2:5",
+        "title": "La carta sellada",
+        "season": 2,
+        "episode": 5,
+        "overview": "En la cumbre de los cinco reinos, Viren lucha para ganarse el apoyo de una joven reina. Una serie de escenas del pasado revela un momento clave en la vida del rey Harrow.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8IIfQONVWgY7G5Rl2ZMabOqr85c.jpg"
+      },
+      {
+        "id": "tt8688814:2:6",
+        "title": "Corazón de titán",
+        "season": 2,
+        "episode": 6,
+        "overview": "El ataque al titán de magma trae consecuencias devastadoras para dos reinos. En su carta, Harrow revela una mentira, un secreto y un deseo para los príncipes.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mCFuiZanRCcblOJ6f7twew1q9F2.jpg"
+      },
+      {
+        "id": "tt8688814:2:7",
+        "title": "Fuego y furia",
+        "season": 2,
+        "episode": 7,
+        "overview": "Un enfrentamiento entre Soren y un dragón desata el caos, y Rayla debe tomar una difícil decisión. Viren, derrotado, regresa a la figura en el espejo.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aizm5TYfFfcB6WZBmjzeeRBVlmg.jpg"
+      },
+      {
+        "id": "tt8688814:2:8",
+        "title": "El libro del destino",
+        "season": 2,
+        "episode": 8,
+        "overview": "Callum paga un precio alto por incursionar en la magia oscura. Desesperada, Claudia busca la manera de ayudar a Soren, y Ezran hace un descubrimiento desgarrador.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6X1ggQsZrlOeJxbDXAyT8yb5ST3.jpg"
+      },
+      {
+        "id": "tt8688814:2:9",
+        "title": "Respira",
+        "season": 2,
+        "episode": 9,
+        "overview": "Luego de usar su don para ayudar a Claudia, Ezran toma una decisión importante sobre la misión. Callum despierta con nuevos conocimientos sobre la magia primaria.",
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zRJghrSCDvDs3NJFTPnVWZuI3PS.jpg"
+      },
+      {
+        "id": "tt8688814:3:1",
+        "title": "Sol Regem",
+        "season": 3,
+        "episode": 1,
+        "overview": "Antes de poder cruzar a Xadia, Rayla y Callum deben superar a un dragón aterrador que quedó ciego después de luchar con un humano.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/94441IqeqJ99P0clCjvke7U5hO1.jpg"
+      },
+      {
+        "id": "tt8688814:3:2",
+        "title": "La corona",
+        "season": 3,
+        "episode": 2,
+        "overview": "El rey Ezran enfrenta muchos dilemas en la primera asamblea del Alto Consejo. Rayla guía a Callum a través de un mundo de maravillas y criaturas mágicas.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dF4zJ1xvXvzhManC375767d9iSw.jpg"
+      },
+      {
+        "id": "tt8688814:3:3",
+        "title": "Fantasma",
+        "season": 3,
+        "episode": 3,
+        "overview": "Rayla vuelve a casa y hace un descubrimiento preocupante. Los elfos de sol escriben el destino de Amaya. Claudia confronta al padre.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zdDoJE5aq9skehUToWPzS5bthuU.jpg"
+      },
+      {
+        "id": "tt8688814:3:4",
+        "title": "Desierto de medianoche",
+        "season": 3,
+        "episode": 4,
+        "overview": "Una mujer misteriosa se ofrece para llevar a Rayla, Callum y Zym a través del desierto de medianoche. Katolis corre peligro, y Ezran hace un anuncio inquietante.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yo9XED6y6fW68a6qJ6V4JgCxLM1.jpg"
+      },
+      {
+        "id": "tt8688814:3:5",
+        "title": "Héroes y mentes maestras",
+        "season": 3,
+        "episode": 5,
+        "overview": "Rayla y Callum recorren desesperadamente el desierto en busca de Nyx. Ezran consigue ayuda inesperada mientras Katolis se prepara para la guerra.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t52HGuCGe8Pjrl9sYzd7kPWWCah.jpg"
+      },
+      {
+        "id": "tt8688814:3:6",
+        "title": "La muerte del rey Trueno",
+        "season": 3,
+        "episode": 6,
+        "overview": "Durante la marcha hacia Xadia, Viren revela cómo murió Avizandum, el gran rey de todos los dragones. Ezran comienza una odisea guiado por Phoe-Phoe.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7ywS13DvUiuQypBLlylu5AXcYpA.jpg"
+      },
+      {
+        "id": "tt8688814:3:7",
+        "title": "Hechizo",
+        "season": 3,
+        "episode": 7,
+        "overview": "Mientras el equipo de Zym se prepara para subir la empinada cuesta hacia la guarida de la reina dragón, Viren y Aaravos les tienden una trampa a los elfos de sol.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xMDhGEHCNZh9nDU80RcGp7VkRvE.jpg"
+      },
+      {
+        "id": "tt8688814:3:8",
+        "title": "Guerreros",
+        "season": 3,
+        "episode": 8,
+        "overview": "El ejército de monstruos de Viren se acerca a la torre tormenta, por lo que Rayla, Callum y compañía tienen que tomar una decisión crucial: buscar refugio o luchar.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x8eYMGqwzwx3sAe66DIPZyFeuCw.jpg"
+      },
+      {
+        "id": "tt8688814:3:9",
+        "title": "La batalla final",
+        "season": 3,
+        "episode": 9,
+        "overview": "Los paladines de la justicia quieren salvar al Príncipe Dragón cueste lo que cueste, pero Viren tiene una carta bajo la manga. La gran batalla es inevitable.",
+        "released": "2019-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vR96TB3ctxg35CrnYq7tZlegGET.jpg"
+      },
+      {
+        "id": "tt8688814:4:1",
+        "title": "Resurrección",
+        "season": 4,
+        "episode": 1,
+        "overview": "Dos años después, Claudia completa por fin su hechizo de resurrección, Ezran planea una sorpresa para Katolis, y Amaya acompaña a Janai en una misión secreta.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Ze4elMC8Lfl3nso03Bl4p31aSM.jpg"
+      },
+      {
+        "id": "tt8688814:4:2",
+        "title": "Estrellas caídas",
+        "season": 4,
+        "episode": 2,
+        "overview": "De cara a otro viaje por la escarpada Torre Tormenta, Viren entra en pánico. El hermano de Janai se opone a sus planes. Callum intenta descifrar el espejo.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xxXm9Nz76SxqLD0uyWJebDX0pZK.jpg"
+      },
+      {
+        "id": "tt8688814:4:3",
+        "title": "Deslumbrante",
+        "season": 4,
+        "episode": 3,
+        "overview": "Una visita inesperada sacude el mundo de Callum. Soren organiza un espectáculo para darles la bienvenida a los dragones. Mientras tanto, en Xadia, su hermana busca su guarida.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j1E61ECw1akuMti1DcVpw5AkZNH.jpg"
+      },
+      {
+        "id": "tt8688814:4:4",
+        "title": "A través del espejo",
+        "season": 4,
+        "episode": 4,
+        "overview": "La historia del oscuro pasado de Aaravos sale a la luz. Claudia se prepara para abrir la crisálida. La tensión entre los humanos y los elfos de sol se desborda.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xbgx8fzMZsSZF7CXltouOrts1BK.jpg"
+      },
+      {
+        "id": "tt8688814:4:5",
+        "title": "La gran entrada",
+        "season": 4,
+        "episode": 5,
+        "overview": "Mientras Ezran y su equipo parten en busca del Archidragón de la Tierra, Claudia y Viren intentan comunicarse con el misterioso ser.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7t7SJsyjcgRU0q6CddmrHUZGx2i.jpg"
+      },
+      {
+        "id": "tt8688814:4:6",
+        "title": "El bosque inexplorado",
+        "season": 4,
+        "episode": 6,
+        "overview": "Soren ha desaparecido, y Zym ayuda a buscarlo en el bosque. En el campamento de los elfos de sol, la reina Janai convoca un tribunal para decidir el destino de la arquitecta.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yQ2IU2HU2WlyECmiue0KaZgn1E5.jpg"
+      },
+      {
+        "id": "tt8688814:4:7",
+        "title": "Bajo la superficie",
+        "season": 4,
+        "episode": 7,
+        "overview": "Mientras N'than guía al heroico grupo por el traicionero Camino de la Desesperanza, Soren intenta convencer a Claudia de que está del lado equivocado.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ejeW9PYcAS7x3BwP6fgZN70c9Gf.jpg"
+      },
+      {
+        "id": "tt8688814:4:8",
+        "title": "Rey de la Tierra",
+        "season": 4,
+        "episode": 8,
+        "overview": "Finalmente, los amigos se encuentran cara a cara con el poderoso dragón, ¡y descubren que este espera regalos! Karim trama un plan para derrocar a la reina.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dW8smo7jrOySQKWF5lGXBPZHJdq.jpg"
+      },
+      {
+        "id": "tt8688814:4:9",
+        "title": "El escape de la montaña",
+        "season": 4,
+        "episode": 9,
+        "overview": "Hechizos oscuros, trucos sucios y un mapa muy inusual desatan una encendida confrontación en la guarida de Rex Igneous. Janai se enfrenta a su hermano.",
+        "released": "2022-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gXizQL9Oqf9fbep8WeBsyiHhAgN.jpg"
+      },
+      {
+        "id": "tt8688814:5:1",
+        "title": "Archidragona del océano",
+        "season": 5,
+        "episode": 1,
+        "overview": "Ezran espera una audiencia con la archidragona del océano, Rayla busca respuestas sobre sus padres, y Callum enfrenta dificultades para avanzar con su investigación.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l1kG1OVPla3zp7F752qGZQiR0Gk.jpg"
+      },
+      {
+        "id": "tt8688814:5:2",
+        "title": "Viejas heridas",
+        "season": 5,
+        "episode": 2,
+        "overview": "Preocupado por el incansable ritmo de Claudia, Terry idea una creativa solución. Rayla y Callum parten a Lux Aurea. Ezran se prepara para dirigirse a los dragones.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xFoyATwfBYUGH65yb06hLtm49el.jpg"
+      },
+      {
+        "id": "tt8688814:5:3",
+        "title": "Pesadillas y revelaciones",
+        "season": 5,
+        "episode": 3,
+        "overview": "Callum y Rayla llegan a Xadi, donde la boda real avanza a toda máquina. Claudia y Terry viajan por el río mientras Viren continúa dormido.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hI0Z0mXNZz4YGuN4fif8HhhAbJA.jpg"
+      },
+      {
+        "id": "tt8688814:5:4",
+        "title": "La biblioteca",
+        "season": 5,
+        "episode": 4,
+        "overview": "Callum busca información sobre los elfos estrellas en la biblioteca de Lux Aurea, y Amaya aclara las cosas con Rayla. Karim conoce a un poderoso aliado potencial.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oAlWQ0HDLi3nfAhgQEzZDN57F5Z.jpg"
+      },
+      {
+        "id": "tt8688814:5:5",
+        "title": "Una maga en el mar",
+        "season": 5,
+        "episode": 5,
+        "overview": "Ezran convence al grupo de buscar a una excéntrica maga de océano que tiene información esencial. Karim cobra una deuda. Claudia intenta comunicarse con Viren.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iY8F8FCAAGwdvfNY9eA4DRtd2v4.jpg"
+      },
+      {
+        "id": "tt8688814:5:6",
+        "title": "De cebos y piratas",
+        "season": 5,
+        "episode": 6,
+        "overview": "En busca de transporte para navegar, Rayla llega a un horrible pueblo costero dirigido por un elfo astuto. Claudia toma una decisión.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/32BNDFlCAeQH4GNxWpDqLXTvJm4.jpg"
+      },
+      {
+        "id": "tt8688814:5:7",
+        "title": "Aptos para el mar",
+        "season": 5,
+        "episode": 7,
+        "overview": "Ruthless navega por aguas peligrosas, con Finnegrin pisándole los talones. La reina Janai y sus guardias se enfrentan a una infiltrada mortal que busca la semilla sol.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/93EFLtLNCewVtIl0tFoRCsYcZVq.jpg"
+      },
+      {
+        "id": "tt8688814:5:8",
+        "title": "El pirata",
+        "season": 5,
+        "episode": 8,
+        "overview": "Callum y su grupo deben enfocarse en cómo lograr su libertad a bordo del Piernas Marinas. Janai enfrenta a su hermano una vez más.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g8sq4khz7sDBmY9SfRwoKuz0gws.jpg"
+      },
+      {
+        "id": "tt8688814:5:9",
+        "title": "Sangre infantil",
+        "season": 5,
+        "episode": 9,
+        "overview": "Mientras Zubeia lucha por su vida y Viren termina en una encrucijada, la persecución de Aaravos conduce a quienes lo buscan bajo las olas.",
+        "released": "2023-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jrUIRVrhtCCMqeRbzwJUaCVR5D3.jpg"
+      },
+      {
+        "id": "tt8688814:6:1",
+        "title": "Toque estelar",
+        "season": 6,
+        "episode": 1,
+        "overview": "Un giro inesperado deja a Claudia en terribles condiciones. De vuelta en Katolis, Callum, Rayla y Ezran discuten qué hacer con la perla que tiene a Aaravos prisionero.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A6O313iozkUedAvvvb1eafXbGyN.jpg"
+      },
+      {
+        "id": "tt8688814:6:2",
+        "title": "La guerra, el amor y los hongos",
+        "season": 6,
+        "episode": 2,
+        "overview": "Soren viaja a Xadia, donde sigue un rastro misterioso con Corvus al interior del bosque. Janai enfrenta sus frustraciones… y su futuro.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hNtTZm6SzV0qbbZvROkFrIRB5cV.jpg"
+      },
+      {
+        "id": "tt8688814:6:3",
+        "title": "Un barco congelado",
+        "season": 6,
+        "episode": 3,
+        "overview": "En su camino al Rascaestrellas, Rayla y Callum pasan una noche helada en un campamento inusual. Terry ayuda a hacer sentir mejor a Claudia.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6GwvvAtMJy2tAZzyrn70iSzYvI8.jpg"
+      },
+      {
+        "id": "tt8688814:6:4",
+        "title": "El Rascaestrellas",
+        "season": 6,
+        "episode": 4,
+        "overview": "Los elfos celestiales reciben a Callum y Rayla con una profecía desconcertante. Karim le da un obsequio a Sol Regem. Soren encuentra una sorpresa al volver a casa.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1m1e1WMoOzzpF8K0Yhn4rbuesKw.jpg"
+      },
+      {
+        "id": "tt8688814:6:5",
+        "title": "Noche sin luna",
+        "season": 6,
+        "episode": 5,
+        "overview": "Para demostrar que son los dos elegidos, Rayla y Callum intentan detener las tormentas que rodean el Rascaestrellas. Viren intenta reparar el mal que hizo antes.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/izTe8g0qp4nytNOpYr5Bm245Iu.jpg"
+      },
+      {
+        "id": "tt8688814:6:6",
+        "title": "La hora de la verdad",
+        "season": 6,
+        "episode": 6,
+        "overview": "La infancia de Soren es un peso que Viren debe cargar. Kosmo usa sus nuevos poderes para ayudar a Callum a ver su verdadero yo con más claridad.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pmPgAl6BgpVXS4HqAJnHMHdk3wg.jpg"
+      },
+      {
+        "id": "tt8688814:6:7",
+        "title": "La boda roja",
+        "season": 6,
+        "episode": 7,
+        "overview": "Sol Regem sale de su largo exilio… durante la boda de Janai y Amaya. Con la esperanza de hacer las paces con Karim, Ezran se dirige al peligro.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yTiQvjOEvBZsEtK2fEkxAKGETsu.jpg"
+      },
+      {
+        "id": "tt8688814:6:8",
+        "title": "Todo se desploma",
+        "season": 6,
+        "episode": 8,
+        "overview": "Callum y Rayla se dirigen al Nexo de la Luna. Cuando Katolis enfrenta un ataque devastador, Soren acude a una fuente inesperada por ayuda.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iI9pipuyRMqC4vErZggHliVAyeS.jpg"
+      },
+      {
+        "id": "tt8688814:6:9",
+        "title": "Polvo estelar",
+        "season": 6,
+        "episode": 9,
+        "overview": "Una visita al reino espiritual obliga a Rayla a tomar una decisión devastadora. Aaravos comparte la historia de su pasado con Claudia.",
+        "released": "2024-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rFph6V9ttF2Y20LH0oIiNl68Zii.jpg"
+      },
+      {
+        "id": "tt8688814:7:1",
+        "title": "Muerte viva",
+        "season": 7,
+        "episode": 1,
+        "overview": "En el Rascaestrellas, Kosmo recibe una inquietante profecía sobre el destino de Xadia. Callum regresa a un Katolis que ha quedado devastado, y Aaravos trama un nuevo plan.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x9gEPRHaJrC98pGbu8umsCgafwX.jpg"
+      },
+      {
+        "id": "tt8688814:7:2",
+        "title": "Corazón sincero",
+        "season": 7,
+        "episode": 2,
+        "overview": "La tensión se intensifica, mientras Ezran intenta reconstruir Katolis y decide el castigo para Runaan. Entretanto, Claudia, Aaravos y Terry buscan un mapa escondido.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u07UmlSHSRtRAAvqFpBwjkNw1kI.jpg"
+      },
+      {
+        "id": "tt8688814:7:3",
+        "title": "Huesos que brillan",
+        "season": 7,
+        "episode": 3,
+        "overview": "Terry guía al grupo al Jardín de los Inocentes, donde Aaravos y Claudia hacen una roca primaria. En Lux Aurea, Janai enfrenta una difícil decisión acerca de Karim.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pLoryfmkMSRcCk43pBRwsed6fjh.jpg"
+      },
+      {
+        "id": "tt8688814:7:4",
+        "title": "Asuntos pendientes",
+        "season": 7,
+        "episode": 4,
+        "overview": "Tras un emotivo reencuentro, Rayla se somete a un ritual para revertir su destierro. Terry descubre algo doloroso sobre Claudia.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qyALhZG36CiE5pmDi5eV1HfPMor.jpg"
+      },
+      {
+        "id": "tt8688814:7:5",
+        "title": "Dedos pegajosos",
+        "season": 7,
+        "episode": 5,
+        "overview": "En su desesperación por detener a Claudia, Terry revela los horribles planes de Aaravos. Amaya recurre a Karim una última vez, y Callum y Rayla comparten un momento de paz.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Aas8BZKxxzAoR5ctUt4PwX81tBQ.jpg"
+      },
+      {
+        "id": "tt8688814:7:6",
+        "title": "Inversión",
+        "season": 7,
+        "episode": 6,
+        "overview": "En un último intento por hacerla cambiar de opinión, Soren sorprende a Claudia con alguien de su familia. En el Bosque Plateado, Callum lucha con su oscuridad interna.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tGmFGSAlkSfE6Rv8WlPxgOCXbwM.jpg"
+      },
+      {
+        "id": "tt8688814:7:7",
+        "title": "El titán y el rey",
+        "season": 7,
+        "episode": 7,
+        "overview": "Mientras Callum y sus amigos intentan evitar que Aaravos traiga la noche eterna, el aprisionado elfo estelar le cuenta a Ezran una historia sombría.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d4Ob0VU83awmxtZ0aP4t4GE7Csl.jpg"
+      },
+      {
+        "id": "tt8688814:7:8",
+        "title": "La luz se muere",
+        "season": 7,
+        "episode": 8,
+        "overview": "Una traición impactante cambia la situación a favor de Aaravos. Con la noche eterna encima, Callum y sus aliados se reúnen para la batalla final.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AmCpAGBkncmzsNNpcEr4JU62gcG.jpg"
+      },
+      {
+        "id": "tt8688814:7:9",
+        "title": "Nova",
+        "season": 7,
+        "episode": 9,
+        "overview": "En el momento culminante de la batalla, Callum decide aceptar su destino. Rayla debe tomar una decisión dolorosa luego de la intervención de Claudia.",
+        "released": "2024-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qzFTdAb6ZEt4gJj57hE4X4lJvhN.jpg"
+      }
+    ]
+  }
+}

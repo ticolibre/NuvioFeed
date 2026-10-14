@@ -1,0 +1,726 @@
+{
+  "meta": {
+    "id": "tt8289930",
+    "type": "series",
+    "name": "Formula 1: Drive to Survive",
+    "poster": "https://image.tmdb.org/t/p/w500/u9figNeDGXMvtboGFJQyvMXxYyS.jpg",
+    "posterShape": "poster",
+    "description": "Pilotos, directores y escuderías de la Fórmula 1 aceleran a fondo dentro y fuera de la pista. El podio tiene tres lugares, pero la meta es una: ganar.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/xefmNmSGCApfRPaqhIRTaAjFlpo.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt8289930:1:1",
+        "title": "Todo en juego",
+        "season": 1,
+        "episode": 1,
+        "overview": "El piloto Daniel Ricciardo busca destacarse en la pista, mientras los equipos se preparan para la primera carrera de la temporada en el Gran Premio de Australia.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hFMekfI9LCrRnw0Nl6KgBBifufe.jpg"
+      },
+      {
+        "id": "tt8289930:1:2",
+        "title": "El rey de España",
+        "season": 1,
+        "episode": 2,
+        "overview": "El equipo McLaren busca dar vuelta el juego con una victoria de su piloto Fernando Alonso frente a Carlos Sainz Jr., de Renault, en el Gran Premio de España en Barcelona.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ut8DnQSdW8qiQ61cxB1RWaSCgFN.jpg"
+      },
+      {
+        "id": "tt8289930:1:3",
+        "title": "Redención",
+        "season": 1,
+        "episode": 3,
+        "overview": "En el prestigioso Gran Premio de Mónaco, Ricciardo se siente presionado por una joven promesa. Los hombres y mujeres de Williams Racing se esfuerzan por seguir vigentes.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oW7j8GLB9Be5m9rXpUp4q3ftMW4.jpg"
+      },
+      {
+        "id": "tt8289930:1:4",
+        "title": "El arte de la guerra",
+        "season": 1,
+        "episode": 4,
+        "overview": "La conflictiva relación entre Red Bull y Renault fuera de la pista cae aún más bajo. Mientras tanto, un importante piloto de Fórmula 1 hace una jugada impactante.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cFA9DESJfsAKN4jhjuJyrU2R6sM.jpg"
+      },
+      {
+        "id": "tt8289930:1:5",
+        "title": "Problemas de dirección",
+        "season": 1,
+        "episode": 5,
+        "overview": "En un equipo, el apoyo financiero no siempre es sinónimo de triunfos, como demuestra McLaren. El presidente y copropietario de Force India enfrenta problemas legales.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j4deOSi8H6SxBWAjlfvk3kO6vV.jpg"
+      },
+      {
+        "id": "tt8289930:1:6",
+        "title": "Todo o nada",
+        "season": 1,
+        "episode": 6,
+        "overview": "Force India cae en manos de un grupo liderado por Lawrence Stroll, y a los dos pilotos del equipo les preocupa que Lance, el hijo de Stroll, ocupe uno de sus puestos.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/un3Agjt5TAZVwwUOCS8KbcbD7tj.jpg"
+      },
+      {
+        "id": "tt8289930:1:7",
+        "title": "Para no perder la cabeza",
+        "season": 1,
+        "episode": 7,
+        "overview": "El piloto Romain Grosjean, del equipo de F1 Haas, apunta demasiado alto, y la confianza y los nervios le juegan en contra en el famoso Gran Premio de Francia.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dZXdX7nrRmhgszUjiYGR4TzbrrL.jpg"
+      },
+      {
+        "id": "tt8289930:1:8",
+        "title": "La próxima generación",
+        "season": 1,
+        "episode": 8,
+        "overview": "Charles Leclerc, piloto de Sauber, pretende lograr algo que su padrino fallecido Jules Bianchi nunca consiguió: correr para Ferrari.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9dVH6q8csZPR5cAZFx3VDGXENO.jpg"
+      },
+      {
+        "id": "tt8289930:1:9",
+        "title": "Las barras y las estrellas",
+        "season": 1,
+        "episode": 9,
+        "overview": "Crece la rivalidad entre Renault y Haas, y los equipos se disputan los laureles en el Gran Premio de Estados Unidos en Austin, Texas.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qAUp7D1VeDnoyyTARbxxA7QD5O6.jpg"
+      },
+      {
+        "id": "tt8289930:1:10",
+        "title": "Bandera a cuadros",
+        "season": 1,
+        "episode": 10,
+        "overview": "Las leyendas del volante y los pilotos que empiezan a sumar vueltas se preparan para cerrar el año con todo en el circuito de Abu Dabi.",
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f8bmooMUIVkwEt7jZ8Mm12ycUlu.jpg"
+      },
+      {
+        "id": "tt8289930:2:1",
+        "title": "La largada",
+        "season": 2,
+        "episode": 1,
+        "overview": "En la nueva temporada de la Fórmula 1, diez escuderías compiten por el podio en el Gran Premio de Australia. ¡Largaron!",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8URAByCjbNtL4gxtLMfPIhByKnv.jpg"
+      },
+      {
+        "id": "tt8289930:2:2",
+        "title": "Al límite",
+        "season": 2,
+        "episode": 2,
+        "overview": "La mediocridad se vuelve la norma del equipo Haas, que empieza a mostrar grietas internas por los malos resultados y la frustración.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sXTcjwmx834Ustv8c7CkaoNHLtr.jpg"
+      },
+      {
+        "id": "tt8289930:2:3",
+        "title": "Pelea de perros",
+        "season": 2,
+        "episode": 3,
+        "overview": "Daniel Ricciardo, de Renault, y Carlos Sainz Jr., de McLaren, quieren que sus equipos vuelvan a la gloria y afinan los motores para salir a la pista.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zvHoU7w4GeILUtqbInZCvukRSfd.jpg"
+      },
+      {
+        "id": "tt8289930:2:4",
+        "title": "Días oscuros",
+        "season": 2,
+        "episode": 4,
+        "overview": "Lewis Hamilton y el equipo Mercedes, dominadores absolutos de la Fórmula 1, corren el Gran Premio de Alemania en una pista mojada que los pone a prueba.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tMdYUCJ5bR4cQX1yNUNLGmjcG91.jpg"
+      },
+      {
+        "id": "tt8289930:2:5",
+        "title": "Grandes esperanzas",
+        "season": 2,
+        "episode": 5,
+        "overview": "Pierre Gasly, el nuevo compañero de Max Verstappen en el equipo Red Bull, parece estar en problemas después de los Grandes Premios de Mónaco, Montreal y Austria.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6fhkUMtLDcBXwPQc9RUvpCqXPR3.jpg"
+      },
+      {
+        "id": "tt8289930:2:6",
+        "title": "Toro salvaje",
+        "season": 2,
+        "episode": 6,
+        "overview": "Alex Albon, el piloto nuevo del equipo Red Bull, quiere lograr lo que su predecesor no pudo. Después, el Gran Premio de Bélgica se tiñe de negro.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kAcby1Wbz0VXwrvgbQIG3vqOhDU.jpg"
+      },
+      {
+        "id": "tt8289930:2:7",
+        "title": "Al rojo vivo",
+        "season": 2,
+        "episode": 7,
+        "overview": "Pocas escuderías, si es que alguna, están a la altura de Ferrari, pero ni siquiera el Cavallino Rampante es inmune a los egos de sus pilotos.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ej1lJN5R1iPUtQBbTglgpNXtfVK.jpg"
+      },
+      {
+        "id": "tt8289930:2:8",
+        "title": "El juego de la silla",
+        "season": 2,
+        "episode": 8,
+        "overview": "Algunos pilotos de Fórmula 1 tienen que demostrar sangre de ganador rápido... o pase el que sigue. ¿Qué le espera a Nico Hülkenberg después de Alemania?",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hrd8pYyFl55jZxOw8aoGjcJ6haY.jpg"
+      },
+      {
+        "id": "tt8289930:2:9",
+        "title": "Sangre, sudor y lágrimas",
+        "season": 2,
+        "episode": 9,
+        "overview": "Aunque muchos piensen que los mejores años de Williams quedaron en el pasado, Claire Williams avizora un futuro prometedor con la joven promesa George Russell.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/18AZ1b6218zsS1y3KBQX59lHx3e.jpg"
+      },
+      {
+        "id": "tt8289930:2:10",
+        "title": "Bandera a cuadros",
+        "season": 2,
+        "episode": 10,
+        "overview": "La temporada 2019 de la Fórmula 1 se acerca a la chicana final, y Albon, Gasly y Sainz pelean cabeza a cabeza por la última oportunidad de subirse al podio.",
+        "released": "2020-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cMuL1Dubz0WP70MsdYyNhO1K276.jpg"
+      },
+      {
+        "id": "tt8289930:3:1",
+        "title": "El dinero manda",
+        "season": 3,
+        "episode": 1,
+        "overview": "Con la amenaza del COVID-19 flotando en el aire, el nuevo diseño automotriz de un equipo genera controversia en el Gran Premio de Australia.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ek5DxgeBAzUg11vUw0zHJopDMm1.jpg"
+      },
+      {
+        "id": "tt8289930:3:2",
+        "title": "Nuevamente en marcha",
+        "season": 3,
+        "episode": 2,
+        "overview": "Los pilotos viajan a Austria para su primera carrera en más de 200 días. Mientras, la rivalidad entre Red Bull y Mercedes se intensifica, dentro y fuera de la pista.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a0fx20gx1mc7TJDCKU6YOOTRJf5.jpg"
+      },
+      {
+        "id": "tt8289930:3:3",
+        "title": "No soy tonto",
+        "season": 3,
+        "episode": 3,
+        "overview": "Decidido a salir de la sombra de Lewis Hamilton, el conductor de Mercedes Valtteri Bottas se aferra a su oportunidad de ganar el Gran Premio de Rusia.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/maxz6eM4kuUkRs6eV0netNra03y.jpg"
+      },
+      {
+        "id": "tt8289930:3:4",
+        "title": "Debemos hablar de Ferrari",
+        "season": 3,
+        "episode": 4,
+        "overview": "En el Gran Premio de Italia, los pilotos Charles Leclerc y Sebastian Vettel intentan obtener un triunfo para la escudería Ferrari, que está teniendo una pésima temporada.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6NlN4qaWjIAkdQiGIVODOoq0zLJ.jpg"
+      },
+      {
+        "id": "tt8289930:3:5",
+        "title": "El final de la aventura",
+        "season": 3,
+        "episode": 5,
+        "overview": "Daniel Ricciardo del equipo Renault anuncia una arriesgada decisión. Varias escuderías se unen contra Racing Point, que crece carrera tras carrera.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tWuTWl58rN2VLKEmGRgeCAamYtM.jpg"
+      },
+      {
+        "id": "tt8289930:3:6",
+        "title": "El chico resurge",
+        "season": 3,
+        "episode": 6,
+        "overview": "Después de su bochornoso descenso en la última temporada, Pierre Gasly ansía demostrarle a Christian Horner, el director del equipo Red Bull, que cometió un gran error.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2qTEFHx1ZjPIarApaQFiluBhArr.jpg"
+      },
+      {
+        "id": "tt8289930:3:7",
+        "title": "La decisión de Guenther",
+        "season": 3,
+        "episode": 7,
+        "overview": "Con la presión de hacer cambios en su equipo, Guenther Steiner, el director deportivo de Haas, busca integrar a un nuevo piloto que tiene un gran potencial.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jpIYuxozG34LSSpemQIH75trr3h.jpg"
+      },
+      {
+        "id": "tt8289930:3:8",
+        "title": "Sin remordimientos",
+        "season": 3,
+        "episode": 8,
+        "overview": "Con Carlos Sainz Jr. como la nueva incorporación de Ferrari en la temporada 2021, McLaren pone toda la fe en su próximo excompañero de equipo, Lando Norris.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2d1sOLabg2huhlTGm9KNXs2YmTO.jpg"
+      },
+      {
+        "id": "tt8289930:3:9",
+        "title": "Hombre en llamas",
+        "season": 3,
+        "episode": 9,
+        "overview": "En el transcurso de dos intensas carreras, dos pilotos que no tienen claro su futuro luchan por un lugar en la Fórmula 1. Un accidente deja a todos conmocionados.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c8TkX7aLXEvyNZFA2WJgje3Gzec.jpg"
+      },
+      {
+        "id": "tt8289930:3:10",
+        "title": "Hasta el último momento",
+        "season": 3,
+        "episode": 10,
+        "overview": "En la final en Abu Dabi, Racing Point se enfrenta a McLaren y Renault. Lewis Hamilton habla sobre su experiencia siendo el único piloto negro de la Fórmula 1.",
+        "released": "2021-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1EgODEP1a1BWbqBHvHpkVf5jiNg.jpg"
+      },
+      {
+        "id": "tt8289930:4:1",
+        "title": "Furia de titanes",
+        "season": 4,
+        "episode": 1,
+        "overview": "La temporada de Fórmula 1 de 2021 comienza con el Gran Premio de Baréin, donde los pilotos lo dan todo para llevarse la primera bandera a cuadros del año.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pxa0A5MBRKnMSuS8uPv96QNbcYo.jpg"
+      },
+      {
+        "id": "tt8289930:4:2",
+        "title": "Un as bajo la manga",
+        "season": 4,
+        "episode": 2,
+        "overview": "Daniel Ricciardo, ahora piloto de McLaren, está decidido a demostrar que tiene lo que se necesita para ganar. Pero su compañero Lando Norris no pretende quedarse atrás.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/da0rQvhwFlA4z6bZAmFkHkFdeBR.jpg"
+      },
+      {
+        "id": "tt8289930:4:3",
+        "title": "Punto de inflexión",
+        "season": 4,
+        "episode": 3,
+        "overview": "Max Verstappen de Red Bull logra una serie de victorias, y Lewis Hamilton de Mercedes intenta seguirle el paso. Después, un accidente desata una controversia.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ApOGJNyBRx1EAOUxNNlSx9xqalo.jpg"
+      },
+      {
+        "id": "tt8289930:4:4",
+        "title": "A la altura de las circunstancias",
+        "season": 4,
+        "episode": 4,
+        "overview": "El equipo Haas intenta revertir su suerte con un patrocinador distinto y dos pilotos novatos: Nikita Mazepin y Mick Schumacher.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mVKRjAC9KH9BBVhRl5DZsLYq16I.jpg"
+      },
+      {
+        "id": "tt8289930:4:5",
+        "title": "Seguir en carrera",
+        "season": 4,
+        "episode": 5,
+        "overview": "¡Herido pero jamás vencido! Ricciardo, de McLaren, acelera a fondo y se propone arruinar el regreso a casa de Ferrari en el Gran Premio de Italia.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8goreAEbqIkBv0fUVq7cLuCSe5W.jpg"
+      },
+      {
+        "id": "tt8289930:4:6",
+        "title": "Todavía vigentes",
+        "season": 4,
+        "episode": 6,
+        "overview": "Ahora que Williams corre bajo un nuevo liderazgo, el icónico equipo busca dejar atrás sus problemas recientes y volver a la grandeza.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ikTVPFzOZSUcE7IKAfhxc007q3A.jpg"
+      },
+      {
+        "id": "tt8289930:4:7",
+        "title": "Las dificultades del crecimiento",
+        "season": 4,
+        "episode": 7,
+        "overview": "Tienen talento, pero ¿podrán lidiar con la presión? Ahora, Yuki Tsunoda y Esteban Ocon deben enfrentarse en las difíciles pistas de la Fórmula 1.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5YVaZfp0IT9fkOl80xpKuJC7rAh.jpg"
+      },
+      {
+        "id": "tt8289930:4:8",
+        "title": "Danza con Wolff",
+        "season": 4,
+        "episode": 8,
+        "overview": "Corren rumores de que un piloto prometedor acompañará a Hamilton en el equipo Mercedes y dejará a Valtteri Bottas lejos del volante.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vyhRqKMo3ssjhASROKL1gMkVGsS.jpg"
+      },
+      {
+        "id": "tt8289930:4:9",
+        "title": "En sus marcas...",
+        "season": 4,
+        "episode": 9,
+        "overview": "Ya quedan muy pocas carreras, y los pilotos, desesperados por conseguir alguna ventaja, oficialmente se quitan los guantes y arremeten con todo.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9msZt0ogBWClH3Gjsm6BM0sDJRc.jpg"
+      },
+      {
+        "id": "tt8289930:4:10",
+        "title": "Una final muy difícil",
+        "season": 4,
+        "episode": 10,
+        "overview": "Otra emocionante temporada llega a su fin. Mercedes y Red Bull se enfrentan en la mayor carrera de una generación, y saben que el ganador se llevará —literalmente— todo.",
+        "released": "2022-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/66at0cexmAABkMO3g7Swpfb0cFj.jpg"
+      },
+      {
+        "id": "tt8289930:5:1",
+        "title": "La nueva era",
+        "season": 5,
+        "episode": 1,
+        "overview": "La temporada inicia en Baréin, donde Ferrari espera que los nuevos autos lo catapulten a la cima, y Haas se arriesga apostándole todo a un nuevo conductor en el último momento.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/64goSMENABVHVgPKf5x92qkY5UG.jpg"
+      },
+      {
+        "id": "tt8289930:5:2",
+        "title": "Toto contra todo",
+        "season": 5,
+        "episode": 2,
+        "overview": "Toto Wolff, director de Mercedes, afronta inconvenientes que surgen inesperadamente. Mientras, Lewis Hamilton conduce uno de los nuevos diseños, pero el recorrido resulta agitado.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r0LtlZGdERaKfLHka4HAHDkK62o.jpg"
+      },
+      {
+        "id": "tt8289930:5:3",
+        "title": "Asunto del director",
+        "season": 5,
+        "episode": 3,
+        "overview": "Los pilotos y los decisores de Ferrari sienten la presión de las altas expectativas que generan un evento estelar en Miami y una carrera en Silverstone a punto de cambiarlo todo.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pl9fDqON09SkFvjgnwBakRduk1.jpg"
+      },
+      {
+        "id": "tt8289930:5:4",
+        "title": "¿De tal palo, tal astilla?",
+        "season": 5,
+        "episode": 4,
+        "overview": "El costo de las colisiones aumenta para el equipo Haas mientras el conductor Mick Schumacher lucha por igualar el legado de su padre y demostrarle su valor al equipo.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cA64ZDiMH5xfUytmM3n20WhyNtc.jpg"
+      },
+      {
+        "id": "tt8289930:5:5",
+        "title": "La disputa",
+        "season": 5,
+        "episode": 5,
+        "overview": "Los esfuerzos de Otmar Szafnauer por mejorar la estrategia de Alpine dan frutos, hasta que nuevos cambios en el equipo amenazan sus planes para el futuro.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y3xMP2FqIDEqkxTgTdhBwtsMfdM.jpg"
+      },
+      {
+        "id": "tt8289930:5:6",
+        "title": "Los tipos buenos terminan últimos",
+        "season": 5,
+        "episode": 6,
+        "overview": "El futuro de Daniel Ricciardo se torna incierto cuando los directores del equipo McLaren ponen la mira en un nuevo talento. Entretanto, Alpine evalúa la mejor forma de avanzar.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vhdFHmBQW0mOx6KfpWpDdHymBqj.jpg"
+      },
+      {
+        "id": "tt8289930:5:7",
+        "title": "Posición difícil",
+        "season": 5,
+        "episode": 7,
+        "overview": "Mientras el equipo Red Bull intenta sacarle ventaja a Ferrari, todos los ojos están puestos en Sergio «Checo» Pérez durante un tenso Gran Premio de Mónaco.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dAhHXLso3Zc5PCzyRt0aPGS935e.jpg"
+      },
+      {
+        "id": "tt8289930:5:8",
+        "title": "Macho alfa",
+        "season": 5,
+        "episode": 8,
+        "overview": "Pierre Gasly anuncia que deja Alpha Tauri, y a Yūki Tsunoda le duele ver partir a su compañero de equipo y amigo. ¿Podrá pisar el acelerador y demostrar su capacidad de liderazgo?",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aJUY9cKxgaOzyT8GofcLwMEDbMm.jpg"
+      },
+      {
+        "id": "tt8289930:5:9",
+        "title": "Por encima del límite",
+        "season": 5,
+        "episode": 9,
+        "overview": "El equipo Red Bull tiene posibilidades de ganar los dos campeonatos, pero enfrenta una escandalosa acusación: ¿respetó el límite presupuestario en 2021 o hizo trampa?",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fAaUyAoJpoGHm1Ejb3DjZxmad6x.jpg"
+      },
+      {
+        "id": "tt8289930:5:10",
+        "title": "El final del camino",
+        "season": 5,
+        "episode": 10,
+        "overview": "La temporada de 2022 se precipita hacia una conclusión en Abu Dabi, donde Ferrari lucha por frenar a Mercedes, y McLaren espera un milagro para vencer a Alpine.",
+        "released": "2023-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AfIJDDx6qs3IdQGNWXOmJJ3vF9.jpg"
+      },
+      {
+        "id": "tt8289930:6:1",
+        "title": "El que paga manda",
+        "season": 6,
+        "episode": 1,
+        "overview": "Lawrence Stroll hará lo que sea para que Aston Martin se consagre campeón mundial, pero puede que sus sueños se estrellen incluso antes de que comience la temporada.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7u2Cow0xevM6LktMZifKeYgCjdB.jpg"
+      },
+      {
+        "id": "tt8289930:6:2",
+        "title": "Perder el prestigio",
+        "season": 6,
+        "episode": 2,
+        "overview": "Todas las miradas y las expectativas recaen sobre Nyck de Vries en su debut en la Fórmula 1. Con tanta presión sobre sus espaldas, le cuesta mantener el ritmo.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vrFRYbAO7iz1VXTZcNvKObXmUYi.jpg"
+      },
+      {
+        "id": "tt8289930:6:3",
+        "title": "Bajo presión",
+        "season": 6,
+        "episode": 3,
+        "overview": "McLaren tiene mucho que demostrar después de la última temporada. Cuando su auto vuelve a presentar problemas, Lando Norris comienza a evaluar sus opciones.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h8bFw5z3ZbfOp6VGgLyLOwg5WA9.jpg"
+      },
+      {
+        "id": "tt8289930:6:4",
+        "title": "El último capítulo",
+        "season": 6,
+        "episode": 4,
+        "overview": "Haas y Williams libran una batalla entre bambalinas. Mientras un equipo se aferra a la tradición, el otro está listo para asumir riesgos.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aSYl9HSSGzY1vFLqgJBsTcTFSKP.jpg"
+      },
+      {
+        "id": "tt8289930:6:5",
+        "title": "Guerra civil",
+        "season": 6,
+        "episode": 5,
+        "overview": "Esteban Ocon y Pierre Gasly, de Alpine, llevan compitiendo desde la infancia. ¿Podrán superar su eterna rivalidad ahora que son parte del mismo equipo?",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cdSBzgwSyESVElKHqkUWngDFLH0.jpg"
+      },
+      {
+        "id": "tt8289930:6:6",
+        "title": "Salto de fe",
+        "season": 6,
+        "episode": 6,
+        "overview": "Lewis Hamilton le ha sido leal a Mercedes desde que tenía trece años. Pero, ahora que su contrato está a punto de renovarse, deberá tomar una difícil decisión.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yND9ViEso2v0Yxva3cBkXYbwdLl.jpg"
+      },
+      {
+        "id": "tt8289930:6:7",
+        "title": "C'est la vie",
+        "season": 6,
+        "episode": 7,
+        "overview": "Cuando varias estrellas de Hollywood invierten en Alpine, el director siente la presión. Con la frustración de los pilotos y los malos resultados, hay que hacer cambios.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jX9VozeE98oaMAV8Yfqh2yYIXrG.jpg"
+      },
+      {
+        "id": "tt8289930:6:8",
+        "title": "¡Vamos, Ferrari!",
+        "season": 6,
+        "episode": 8,
+        "overview": "En Italia, Ferrari es una religión. Así que cuando el equipo llega a Monza, el nuevo director Fred Vasseur siente la responsabilidad de cumplir las plegarias de los fans.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o9OkT005lqBeQs35WmyztEsUTIb.jpg"
+      },
+      {
+        "id": "tt8289930:6:9",
+        "title": "Tres son multitud",
+        "season": 6,
+        "episode": 9,
+        "overview": "Daniel Ricciardo está por fin de vuelta en el circuito. Pero su regreso resulta ser breve cuando un accidente lo manda de nuevo a la banca, y un suplente debe tomar su lugar.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9P13OTw6KSoiToeE4ozbpXcPQei.jpg"
+      },
+      {
+        "id": "tt8289930:6:10",
+        "title": "Rojo o negro",
+        "season": 6,
+        "episode": 10,
+        "overview": "La temporada está por terminar, y el ganador está prácticamente asegurado, así que los rivales Mercedes y Ferrari se enfrentan en una feroz batalla por el segundo lugar.",
+        "released": "2024-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rK98DFoqrYFKee2nuVFof09WGsC.jpg"
+      },
+      {
+        "id": "tt8289930:7:1",
+        "title": "Aquí no ha pasado nada",
+        "season": 7,
+        "episode": 1,
+        "overview": "El drama comienza antes que la temporada. Lewis Hamilton toma una decisión drástica, que se ve opacada por una impactante acusación.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gDLY76TRffZ8YRHz5FF6dWiwuLG.jpg"
+      },
+      {
+        "id": "tt8289930:7:2",
+        "title": "Amigos enemigos",
+        "season": 7,
+        "episode": 2,
+        "overview": "Lando Norris pasó su carrera quedando en segundo lugar contra Max Verstappen. ¿Será este el año en el que supere a su amigo y gane el campeonato?",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9NKJgM9K61nRHoc6iQK9sutyEe7.jpg"
+      },
+      {
+        "id": "tt8289930:7:3",
+        "title": "En busca de un n.º 1",
+        "season": 7,
+        "episode": 3,
+        "overview": "Sin Lewis Hamilton, Mercedes tiene un asiento vacante para el 2025. George Russell cree que está listo para ser el próximo piloto principal, pero ¿estará de acuerdo Toto Wolff?",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cbq70RQhIUTlmQEeMsyGVy4IOF.jpg"
+      },
+      {
+        "id": "tt8289930:7:4",
+        "title": "Carlos firma",
+        "season": 7,
+        "episode": 4,
+        "overview": "Tras dejar Ferrari, Carlos Sainz debe tomar una importante decisión para la próxima temporada. Mientras dos equipos se disputan su atención, recibe la llamada de un viejo amigo.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zr4CpLvfoORloCCntx1PhqnXfoR.jpg"
+      },
+      {
+        "id": "tt8289930:7:5",
+        "title": "La maldición de Leclerc",
+        "season": 7,
+        "episode": 5,
+        "overview": "Durante el Gran Premio de Mónaco, todas las miradas recaen en Charles Leclerc. La presión de tener la esperanza de su país sobre sus hombros empieza a sentirse cada vez más.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zsDU8LvoOrIRNRyxdJGpKJlbdyp.jpg"
+      },
+      {
+        "id": "tt8289930:7:6",
+        "title": "Las ruedas de la fortuna",
+        "season": 7,
+        "episode": 6,
+        "overview": "El Campeonato de Constructores está al alcance de McLaren. El auto rinde y los conductores brillan, pero su estrategia podría impedirles avanzar.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vg8OYweL9oGd74T1idmNhhLF07V.jpg"
+      },
+      {
+        "id": "tt8289930:7:7",
+        "title": "Al calor de la noche",
+        "season": 7,
+        "episode": 7,
+        "overview": "Cinco de los pilotos más famosos de la Fórmula 1 —y amigos de toda la vida— graban el detrás de escena del Gran Premio de Singapur.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oPNg2q0yLiXeP1AEVnxQ1FTjl3U.jpg"
+      },
+      {
+        "id": "tt8289930:7:8",
+        "title": "Sin miedo a los choques",
+        "season": 7,
+        "episode": 8,
+        "overview": "Después de romper récords en 2023, Red Bull tiene que seguir a la altura. Veteranos y novatos luchan por quitarle el puesto a un piloto que ralentiza al equipo.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t7unq3ZRQMyluQjaB1V5GbwhkgT.jpg"
+      },
+      {
+        "id": "tt8289930:7:9",
+        "title": "Nueva dirección",
+        "season": 7,
+        "episode": 9,
+        "overview": "Haas tiene un nuevo director de equipo. Alpine recibe a una leyenda del automovilismo. Ambos rivales se enfrascan en una batalla multimillonaria.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lWeH1xcZMPVCEonN84UoQwM704k.jpg"
+      },
+      {
+        "id": "tt8289930:7:10",
+        "title": "La recta final",
+        "season": 7,
+        "episode": 10,
+        "overview": "La temporada está llegando a su fin, y el desenlace pende de un hilo. ¿Logrará el equipo McLaren superar a los poderosos de Ferrari y Red Bull?",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5enO5NcMmOznUEqft7sy8ncufXM.jpg"
+      },
+      {
+        "id": "tt8289930:8:1",
+        "title": "Los nuevos chicos de la pista",
+        "season": 8,
+        "episode": 1,
+        "overview": "Comienza otra temporada bajo los reflectores del O2 Arena de Londres. Seis novatos llegan a la parrilla, y un campeón mundial se cambia de equipo.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/52rK5RU6KH4BfAxpCIEfydWKci2.jpg"
+      },
+      {
+        "id": "tt8289930:8:2",
+        "title": "Negocios son negocios",
+        "season": 8,
+        "episode": 2,
+        "overview": "Las brutales tácticas de Alpine chocan con los valores de Kick Sauber al final de la parrilla. Entretanto, los novatos luchan por mantener sus sueños de F1 con vida.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w0LCt36FcrI0pF08oZSltnqe6lx.jpg"
+      },
+      {
+        "id": "tt8289930:8:3",
+        "title": "El problema del número uno",
+        "season": 8,
+        "episode": 3,
+        "overview": "En una sofocante carrera inaugural en Baréin, Oscar Piastri y Lando Norris de McLaren buscan el título, pero solo uno podrá ganar, y su lucha se convierte en una batalla mental.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbFzjyahiH0obGC9T1LTxTpcwGQ.jpg"
+      },
+      {
+        "id": "tt8289930:8:4",
+        "title": "Un toro sin astas",
+        "season": 8,
+        "episode": 4,
+        "overview": "Red Bull se esfuerza por sumar puntos en Japón, lo que expone problemas en los autos y tensiones en el segundo asiento. Christian Horner siente que el tiempo se acaba.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mBjI77QPk2JCVa9eZZP3OuH0OcF.jpg"
+      },
+      {
+        "id": "tt8289930:8:5",
+        "title": "El cielo es el límite",
+        "season": 8,
+        "episode": 5,
+        "overview": "En Miami, comienza una nueva era para Williams cuando Alex Albon triunfa y Carlos Sainz lucha por adaptarse. Con la tensión en aumento, ¿el equipo apoyará al piloto correcto?",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/97bzo6256byq37zkf7Hprs5iqYj.jpg"
+      },
+      {
+        "id": "tt8289930:8:6",
+        "title": "El duelo",
+        "season": 8,
+        "episode": 6,
+        "overview": "Mientras Mercedes y Ferrari se disputan el segundo lugar en Constructores, el novato Kimi Antonelli y la leyenda Lewis Hamilton reavivan las esperanzas de sus nuevos equipos.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vTWngmJeehkBUgYcG95CrbmGRDm.jpg"
+      },
+      {
+        "id": "tt8289930:8:7",
+        "title": "Lo que pasa en Las Vegas",
+        "season": 8,
+        "episode": 7,
+        "overview": "Las Vegas no solo ofrece glamur y exuberancia, sino también a un nuevo director en el muro de boxes. Con tanto en juego, McLaren está dispuesto a arriesgarlo todo.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6xqP3AbwzS1lctb59oXMUA84M1m.jpg"
+      },
+      {
+        "id": "tt8289930:8:8",
+        "title": "Llámame Chucky",
+        "season": 8,
+        "episode": 8,
+        "overview": "Tras lo ocurrido en Las Vegas, McLaren llega a Abu Dabi en desventaja frente al actual campeón mundial. Con el título en juego, ¿quién resistirá hasta la final?",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8lpBQC0xipQVQr6PIp8KNKKWZQi.jpg"
+      }
+    ]
+  }
+}

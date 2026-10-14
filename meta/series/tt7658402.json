@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "id": "tt7658402",
+    "type": "series",
+    "name": "Harley Quinn",
+    "poster": "https://image.tmdb.org/t/p/w500/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
+    "posterShape": "poster",
+    "description": "Harley Quinn en esta ocasión ha roto definitivamente con El Guasón y tratara de hacerse la reina del crimen de Ciudad Gótica. Hiedra Venenosa se unirá a Harley Quinn, en donde también harán aparición nuevos héroes y villanos del universo de DC Cómics",
+    "releaseInfo": "2019",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt7658402:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w8DMfVxiyVOIPsB5YLqWyZMaT5p.jpg"
+      },
+      {
+        "id": "tt7658402:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fbQu2Z9tLTYDIN14NwSbcG1gBdw.jpg"
+      },
+      {
+        "id": "tt7658402:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ccS92LvZovvVCRJgNKIaw4GnqMQ.jpg"
+      },
+      {
+        "id": "tt7658402:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-12-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pnod1diLLRYlIAi3vqiauU91YvD.jpg"
+      },
+      {
+        "id": "tt7658402:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-12-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k2FuGFmTjkttoQVafXAuFteVgkU.jpg"
+      },
+      {
+        "id": "tt7658402:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2020-01-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4vTsbHDPK3X3EPEIWbgyXfIs5Dq.jpg"
+      },
+      {
+        "id": "tt7658402:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2020-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xWNhtoSV42yyqy647Pjpl0vOq8b.jpg"
+      },
+      {
+        "id": "tt7658402:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2020-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qCbIhbXrwbKSUAcjzj9ObsTcWDS.jpg"
+      },
+      {
+        "id": "tt7658402:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2020-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w8RqEhuhPQBxGB9PgJ1ygD0gt2c.jpg"
+      },
+      {
+        "id": "tt7658402:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xVGhRWBqqA47eRHcCy4rw4jNpOT.jpg"
+      },
+      {
+        "id": "tt7658402:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2020-02-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zOnOj8fl39e2b1RUcmGXDtPLHSx.jpg"
+      },
+      {
+        "id": "tt7658402:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2020-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/diLwX1RYjisUA6NjL4XL3DidGGB.jpg"
+      },
+      {
+        "id": "tt7658402:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2020-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gTu6g7QCy40Ly8f5Hixi2UGTtiO.jpg"
+      },
+      {
+        "id": "tt7658402:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9B5YcXj6GimIBasNpNJrGjTxq44.jpg"
+      },
+      {
+        "id": "tt7658402:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2020-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3TkkcyqZeIH5N5wJZ377BOXmIqF.jpg"
+      },
+      {
+        "id": "tt7658402:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2020-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/11zkBxYBO6pxL6cHkVfIYrtdgjV.jpg"
+      },
+      {
+        "id": "tt7658402:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2020-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4mAA8mcOtcmm7JGrfRIg2iGhJpp.jpg"
+      },
+      {
+        "id": "tt7658402:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2020-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aA3OcRJWXZaorNOl69nunhuxVD3.jpg"
+      },
+      {
+        "id": "tt7658402:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2020-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rCVbICrphDzK4XXEufXhi3PpTgk.jpg"
+      },
+      {
+        "id": "tt7658402:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2020-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6jyBpgFShlsu3lPfmoagwGGHoVi.jpg"
+      },
+      {
+        "id": "tt7658402:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2020-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pV7e0JbcJb5sVb5q16IgBzBZ0YR.jpg"
+      },
+      {
+        "id": "tt7658402:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2020-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qKGR65tXsrAOdqLumyXf5BB9JlL.jpg"
+      },
+      {
+        "id": "tt7658402:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2020-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uRtki2qIyHEt0iYciaE78E44ncI.jpg"
+      },
+      {
+        "id": "tt7658402:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2020-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6w6hJD391szNzpuXurPgqOoNkX7.jpg"
+      },
+      {
+        "id": "tt7658402:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2020-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d6pO7gqrWbUdZevNdJXiLMtiDmZ.jpg"
+      },
+      {
+        "id": "tt7658402:2:13",
+        "title": "Episodio 13",
+        "season": 2,
+        "episode": 13,
+        "released": "2020-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8HzE91LtQyL85iKpQOtb5Uc7R5O.jpg"
+      },
+      {
+        "id": "tt7658402:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2022-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tpmECRzhXPf6jNPp3GrX9vD7Vpz.jpg"
+      },
+      {
+        "id": "tt7658402:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2022-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPEltOadXGMgeMvlCanKNa7Fw46.jpg"
+      },
+      {
+        "id": "tt7658402:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2022-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vzQ8lyeNetbwirQTqdIEqiR69aA.jpg"
+      },
+      {
+        "id": "tt7658402:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2022-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tFF4CEKZHEfesARNJ94tXrlylwQ.jpg"
+      },
+      {
+        "id": "tt7658402:3:5",
+        "title": "Episodio 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2022-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a7HPhlzQL6mv5CgSDwChLTx0xLw.jpg"
+      },
+      {
+        "id": "tt7658402:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2022-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rmzf0NIxnnC3tJO7kzCVh9v5FXl.jpg"
+      },
+      {
+        "id": "tt7658402:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2022-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/atE5RdfRq2QAWP5Xa5zQtUEQL0R.jpg"
+      },
+      {
+        "id": "tt7658402:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2022-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f8owjce2zqE9v849bE4S88g8gsH.jpg"
+      },
+      {
+        "id": "tt7658402:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2022-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kR6LOTUWx60ORZQuRuMCYgi2tLx.jpg"
+      },
+      {
+        "id": "tt7658402:3:10",
+        "title": "Episodio 10",
+        "season": 3,
+        "episode": 10,
+        "released": "2022-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lv4otwXHZljAOGKRlMmsanzKngs.jpg"
+      },
+      {
+        "id": "tt7658402:3:11",
+        "title": "Especial de un muy problemático San Valentín",
+        "season": 3,
+        "episode": 11,
+        "released": "2023-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tXOfLcGBbIBBCWn7NQXmm89JNXa.jpg"
+      },
+      {
+        "id": "tt7658402:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/isvqACkGEzQUOAT2ZtNDt5HtuEZ.jpg"
+      },
+      {
+        "id": "tt7658402:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cnhaiPtFoSgEl72I2va9drKproO.jpg"
+      },
+      {
+        "id": "tt7658402:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ALMPyxyRxr6RR5oiOU21qc7EXt.jpg"
+      },
+      {
+        "id": "tt7658402:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bhE9nZLprMw5qebJaaSaySPg6qd.jpg"
+      },
+      {
+        "id": "tt7658402:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nWPMQriu0ndTPzzbCADGZvVVkIA.jpg"
+      },
+      {
+        "id": "tt7658402:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4y4a2CtVTZ8e6KZ9rHpChcBgLB4.jpg"
+      },
+      {
+        "id": "tt7658402:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "2023-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yaRA5E903KlI3SjhJwGYCi0w2fo.jpg"
+      },
+      {
+        "id": "tt7658402:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "2023-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qgFJPiQ2fo4safwg7sZfrb3uWlK.jpg"
+      },
+      {
+        "id": "tt7658402:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d7MtoIkR1AcEzQZkrqldKJrvspE.jpg"
+      },
+      {
+        "id": "tt7658402:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "2023-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wUN5y1XM9MWd9CuDHUtPlvd33Ku.jpg"
+      },
+      {
+        "id": "tt7658402:5:1",
+        "title": "Episodio 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2025-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tYWZazI50V1q7RLBiqMjDv1mLzr.jpg"
+      },
+      {
+        "id": "tt7658402:5:2",
+        "title": "Episodio 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2025-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3RaXN5m4K3Vuj8VIKhshPvU90td.jpg"
+      },
+      {
+        "id": "tt7658402:5:3",
+        "title": "Episodio 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2025-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y2lz0McoKR0LbDaTeZgAyfUZ0y5.jpg"
+      },
+      {
+        "id": "tt7658402:5:4",
+        "title": "Episodio 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2025-02-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Ntj8bKZgKAGftTcbUzofNlVjNP.jpg"
+      },
+      {
+        "id": "tt7658402:5:5",
+        "title": "Episodio 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2025-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbkWxtjoIh9jWyXvHm231IGUJUa.jpg"
+      },
+      {
+        "id": "tt7658402:5:6",
+        "title": "Episodio 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2025-02-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/feFN1w8XD1Tvt3tDn93Yg9P3eib.jpg"
+      },
+      {
+        "id": "tt7658402:5:7",
+        "title": "Episodio 7",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ekHM3J4eCw11Hy0TFzCr5566Z64.jpg"
+      },
+      {
+        "id": "tt7658402:5:8",
+        "title": "Episodio 8",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7XzowlwxAdNSrN3GSqQLLbY8915.jpg"
+      },
+      {
+        "id": "tt7658402:5:9",
+        "title": "Episodio 9",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aSoOmV2OOcv3aBPnKFOCEyhhk96.jpg"
+      },
+      {
+        "id": "tt7658402:5:10",
+        "title": "Episodio 10",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lv3NWsKmLZ1HuouD3HsGEhMCOG5.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "id": "tt11165358",
+    "type": "series",
+    "name": "Hora De Aventura: Tierras Lejanas",
+    "poster": "https://image.tmdb.org/t/p/w500/3If6yATaYZ2uXxBaPL6S70UrlcE.jpg",
+    "posterShape": "poster",
+    "description": "Basada en la serie animada Hora de Aventura, esta serie acerca a los fanáticos a sus habitantes favoritos de Ooo, junto con algunos nuevos amigos, para seguirlos en aventuras nuevas y emocionantes.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vgQnqlVgtlH8dpjX54ChjYZUjE.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt11165358:1:1",
+        "title": "BMO",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cuando hay una emergencia espacial mortal en los confines más lejanos de la galaxia, sólo hay un héroe al que llamar, y probablemente no sea BMO, excepto que esta vez lo es.",
+        "released": "2020-06-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c8RAEwqkdLzpUQyYs8Dj1h6UB20.jpg"
+      },
+      {
+        "id": "tt11165358:1:2",
+        "title": "Obsidiana",
+        "season": 1,
+        "episode": 2,
+        "overview": "Obsidian: Marceline y la Dulce Princesa viajan al imponente y hermoso Reino de Cristal, y se adentran en lo profundo de su tumultuoso pasado, para evitar una catástrofe estremecedora.",
+        "released": "2020-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/elnSRTs1Gv2PETSPZWr5t61LOso.jpg"
+      },
+      {
+        "id": "tt11165358:1:3",
+        "title": "Juntos De Nuevo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Finn y Jake se reúnen para redescubrir su vínculo fraternal y embarcarse en la aventura más importante de sus vidas.",
+        "released": "2021-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qS04jRYfYrffoXgM0t6olmZMEJh.jpg"
+      },
+      {
+        "id": "tt11165358:1:4",
+        "title": "Ciudad Mago",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mentita comienza desde el principio, como otro estudiante inexperto de la Escuela de Magos. Cuando sucesos misteriosos en el campus arrojan sospechas sobre Pep y su pasado a cuadros ¿podrá dominar las artes místicas a tiempo para demostrar su inocencia?.",
+        "released": "2021-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wcuczVn8OOkxz2D61gRolYr3WTw.jpg"
+      }
+    ]
+  }
+}

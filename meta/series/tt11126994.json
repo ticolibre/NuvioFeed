@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "id": "tt11126994",
+    "type": "series",
+    "name": "Arcane",
+    "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "posterShape": "poster",
+    "description": "Mientras la discordia separa las ciudades gemelas de Piltóver y Zaun, dos hermanas se enfrentan en una guerra feroz entre tecnologías mágicas y convicciones opuestas.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt11126994:1:1",
+        "title": "¡Bienvenidos!",
+        "season": 1,
+        "episode": 1,
+        "overview": "Las hermanas huérfanas Vi y Powder causan problemas en las calles clandestinas de Zaun tras un robo en la lujosa ciudad de Piltóver.",
+        "released": "2021-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g7dMkFJvJECDYoL0TRzGQCfF3xD.jpg"
+      },
+      {
+        "id": "tt11126994:1:2",
+        "title": "Algunos misterios están mejor sin resolver",
+        "season": 1,
+        "episode": 2,
+        "overview": "El idealista inventor Jayce intenta dominar la magia con la ciencia, a pesar de los consejos de su mentor. El líder criminal Silco experimenta con una poderosa sustancia.",
+        "released": "2021-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1uubdoW7nPtpYS6T59COLEKDB7A.jpg"
+      },
+      {
+        "id": "tt11126994:1:3",
+        "title": "La violencia bruta es necesaria para el cambio",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un enfrentamiento épico entre viejos rivales trae graves consecuencias para la localidad de Zaun. Jayce y Viktor lo arriesgan todo por su investigación.",
+        "released": "2021-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zCc7AEH53aH8r61F5f9DkIQGeZC.jpg"
+      },
+      {
+        "id": "tt11126994:1:4",
+        "title": "¡Feliz Día del Progreso!",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mientras Piltover prospera gracias a su tecnología, Jayce y Viktor sopesan sus próximos pasos. Una cara conocida de Zaun reaparece para causar estragos.",
+        "released": "2021-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b0EGdWDOFxbhaGwlJ11vO2h0az6.jpg"
+      },
+      {
+        "id": "tt11126994:1:5",
+        "title": "Todos quieren ser mis enemigos",
+        "season": 1,
+        "episode": 5,
+        "overview": "Caitlyn, una vigilante rebelde, recorre la ciudad subterránea en busca de Silco. Jayce se convierte en objetivo al intentar acabar con la corrupción en Piltover.",
+        "released": "2021-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/72Ti7nTKEAPgx4VSggb1ksl31rm.jpg"
+      },
+      {
+        "id": "tt11126994:1:6",
+        "title": "Cuando estas paredes se derrumben",
+        "season": 1,
+        "episode": 6,
+        "overview": "Un protegido sabotea a su mentor en el Consejo mientras una tecnología mágica evoluciona a gran velocidad. Con las autoridades tras ella, Jinx debe afrontar su pasado.",
+        "released": "2021-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPpQYLgoSZ8UXai20CSEABG9rFz.jpg"
+      },
+      {
+        "id": "tt11126994:1:7",
+        "title": "El pequeño salvador",
+        "season": 1,
+        "episode": 7,
+        "overview": "Tras reunirse con un aliado en las calles de Zaun, Caitlyn y Vi se ven las caras con una enemiga común durante una frenética pelea. Viktor toma una dura decisión.",
+        "released": "2021-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ieYvkXKqOuIYcBps7COg8w6rJyN.jpg"
+      },
+      {
+        "id": "tt11126994:1:8",
+        "title": "Aceite y agua",
+        "season": 1,
+        "episode": 8,
+        "overview": "La heredera desterrada Mel y su madre, de visita, intercambian tácticas de combate. Caitlyn y Vi forjan una inesperada alianza. Jinx se somete a un cambio impactante.",
+        "released": "2021-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vYIBscxveNMkxFNTcPZ6YoF6fdU.jpg"
+      },
+      {
+        "id": "tt11126994:1:9",
+        "title": "El monstruo que creaste",
+        "season": 1,
+        "episode": 9,
+        "overview": "Al borde de la guerra, los líderes de Piltover y Zaun llegan a un punto crítico. Pero un fatídico enfrentamiento cambia las dos ciudades para siempre.",
+        "released": "2021-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3mSWRynTvvE2IYJ6sI47m8V77Jq.jpg"
+      },
+      {
+        "id": "tt11126994:2:1",
+        "title": "El peso del liderazgo",
+        "season": 2,
+        "episode": 1,
+        "overview": "Vi y Caitlyn intentan encontrar la mejor respuesta ante una terrible tragedia que se cobra vidas y profundiza tensiones entre las ciudades gemelas.",
+        "released": "2024-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AKzTyLJkQEuftVNIuh0gcJCbDl.jpg"
+      },
+      {
+        "id": "tt11126994:2:2",
+        "title": "Ver cómo se quema todo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Piltóver está lista para pelear, mientras el distrito subterráneo evalúa sus opciones. Jinx se mantiene al margen y planea su próxima jugada. Una conversación clave tiene lugar.",
+        "released": "2024-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z2MSNefctJYAYGdPJQUcxRcZWTh.jpg"
+      },
+      {
+        "id": "tt11126994:2:3",
+        "title": "Por fin pudiste pronunciar mi nombre",
+        "season": 2,
+        "episode": 3,
+        "overview": "Caitlyn redobla sus esfuerzos de encontrar a Jinx, y Ambessa acepta una fatídica reunión. Cambios en Zaun revelan un descubrimiento impactante.",
+        "released": "2024-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yXD0EtrlnupXne4R9XHFPkGMxJr.jpg"
+      },
+      {
+        "id": "tt11126994:2:4",
+        "title": "Pintemos la ciudad de azul",
+        "season": 2,
+        "episode": 4,
+        "overview": "Mientras crecen los rumores sobre el regreso de Jinx, Ambessa persigue a su objetivo con nuevos bríos. Jinx y Sevika, de incógnito, se adentran en la boca del lobo.",
+        "released": "2024-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ktXtr0O2WF10Z2r89Xjds4owCXX.jpg"
+      },
+      {
+        "id": "tt11126994:2:5",
+        "title": "Ampollas y piedra",
+        "season": 2,
+        "episode": 5,
+        "overview": "Vi se entera de algo sorprendente al despertar. Un inquietante reencuentro no es lo que parece. Caitlyn revela el origen del Brillo.",
+        "released": "2024-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3mhMhwHlZQQiB2otufCLZteRPMZ.jpg"
+      },
+      {
+        "id": "tt11126994:2:6",
+        "title": "El mensaje oculto en el patrón",
+        "season": 2,
+        "episode": 6,
+        "overview": "La recuperación viene acompañada de un rostro conocido..., en un lugar poco familiar. Una traición sorprendente podría cambiar muchísimas vidas.",
+        "released": "2024-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A6A6HWu0TjMRcNW31glNuZvVfxp.jpg"
+      },
+      {
+        "id": "tt11126994:2:7",
+        "title": "Finjamos que es la primera vez",
+        "season": 2,
+        "episode": 7,
+        "overview": "Un instante de oscuridad, un instante de luz y una visión de lo que pudo ser... y no fue.",
+        "released": "2024-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sgKSyfB7uor4hSzSsWMEUnMC5SA.jpg"
+      },
+      {
+        "id": "tt11126994:2:8",
+        "title": "Matar es un ciclo",
+        "season": 2,
+        "episode": 8,
+        "overview": "La tormenta se aproxima, causando grandes transformaciones. En otro lugar, una chispa de rebelión sigue ardiendo.",
+        "released": "2024-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vqoFpOXDGEEsgkD10QhopOQYoN3.jpg"
+      },
+      {
+        "id": "tt11126994:2:9",
+        "title": "La mugre bajo tus uñas",
+        "season": 2,
+        "episode": 9,
+        "overview": "Magia, ciencia, poder, venganza: en este épico capítulo final, el choque de diferentes destinos enciende una guerra sin freno.",
+        "released": "2024-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7wYoQZAdbB6e3CFDDYvxQY1sM7.jpg"
+      }
+    ]
+  }
+}

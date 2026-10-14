@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "id": "tt5165368",
+    "type": "series",
+    "name": "Amazing Stories",
+    "poster": "https://image.tmdb.org/t/p/w500/alNBohs3NLzWCEh4t1wad60hI5d.jpg",
+    "posterShape": "poster",
+    "description": "De los visionaros productores ejecutivos Steven Spieldberg, Edward Kitsis & Adam Horowitz, esta reimaginación de la clásica antología transporta a personajes comunes a mundos asombrosos, llenos de posibilidades e imaginación.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/oG3Lsjw6a4mvqhsqA1KtWiaxdH3.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt5165368:1:1",
+        "title": "La bodega",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mientras restauran una vieja granja en Iowa, Sam descubre un portal en el tiempo en una bodega, el cual lo transporta a 1919.",
+        "released": "2020-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4AypKuJqIWAbGrrOGBwEORnF9e9.jpg"
+      },
+      {
+        "id": "tt5165368:1:2",
+        "title": "El fragor",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tuka y Sterling son mejores amigas. Su amistad trasciende el mundo físico cuando persiguen sus sueños después de una tragedia.",
+        "released": "2020-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k0gEbaxdpzjlv5OsH40U2mFm1Zq.jpg"
+      },
+      {
+        "id": "tt5165368:1:3",
+        "title": "Dynoman y The Volt",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un peculiar niño y su abuelo se transforman tras la llegada de un misterioso anillo que el abuelo ordenó de un cómic hace 60 años.",
+        "released": "2020-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dQGdbt9KQEPMq76lnhy10999JR2.jpg"
+      },
+      {
+        "id": "tt5165368:1:4",
+        "title": "Señales de vida",
+        "season": 1,
+        "episode": 4,
+        "overview": "Cuando su madre despierta de un coma de seis años, la joven Alia intenta reconectar con esa extraña que no puede recordar su vida pasada.",
+        "released": "2020-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uJh8Nt9kmSloCojNRZQBigCVE0D.jpg"
+      },
+      {
+        "id": "tt5165368:1:5",
+        "title": "La grieta",
+        "season": 1,
+        "episode": 5,
+        "overview": "Cuando un piloto de la Segunda Guerra Mundial choca su avión en el Ohio contemporáneo y una joven viuda y su hijastro terminan envueltos en la búsqueda de su hogar.",
+        "released": "2020-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y0BhBzWH6DekxtSzBDTOGIj6Xai.jpg"
+      }
+    ]
+  }
+}

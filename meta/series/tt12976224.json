@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "id": "tt12976224",
+    "type": "series",
+    "name": "La serpiente de Essex",
+    "poster": "https://image.tmdb.org/t/p/w500/cEgT4NBMGg57lzPI7NbfH72n7Ip.jpg",
+    "posterShape": "poster",
+    "description": "La viuda londinense, Cora Seaborne, se muda a Essex para investigar los reportes sobre una serpiente mítica. Ella forma un sorprendente lazo entre la ciencia y el escepticismo con el vicario local, pero cuando llega la tragedia, los lugareños la acusan de atraer a la creatura.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vydhvyA5s3Ozol6u86KeW8w8zR6.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt12976224:1:1",
+        "title": "Blackwater",
+        "season": 1,
+        "episode": 1,
+        "overview": "La viuda londinense, Cora Seaborne, viaja a Essex para descubrir la verdad sobre un supuesto \"dragón marino\". Cuando una chica local desaparece, el miedo se intensifica.",
+        "released": "2022-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6I30hVhDEmTrXbHMCqdu1eCFDaL.jpg"
+      },
+      {
+        "id": "tt12976224:1:2",
+        "title": "Asuntos del corazón",
+        "season": 1,
+        "episode": 2,
+        "overview": "Cora se muda a Aldwinter, pero los aldeanos en duelo no le dan la bienvenida. Naomi enfrenta la culpa de lo que le pasó a Gracie.",
+        "released": "2022-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6WamjBwwacBA8T8vzq4Cb1VLGi5.jpg"
+      },
+      {
+        "id": "tt12976224:1:3",
+        "title": "En descenso",
+        "season": 1,
+        "episode": 3,
+        "overview": "Después de que los pescadores aseguran que fueron atacados por la serpiente, Cora se vuelve más determinada a entender qué hay en el agua.",
+        "released": "2022-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d3QCDyOsBfp7PAGSAx33ekVnhFj.jpg"
+      },
+      {
+        "id": "tt12976224:1:4",
+        "title": "Todo es azul",
+        "season": 1,
+        "episode": 4,
+        "overview": "Luke le hace una fiesta de cumpleaños a Cora. Durante una noche difícil, Cora y Will se vuelven cercanos... y Luke se da cuenta de que Stella oculta algo.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3t2ArxXUjkaRKvnBw8h2Ay71nxh.jpg"
+      },
+      {
+        "id": "tt12976224:1:5",
+        "title": "Daño las cosas",
+        "season": 1,
+        "episode": 5,
+        "overview": "Cora intenta superar el pasado, pero un encuentro inesperado le complica las cosas. Stella recibe una mala noticia.",
+        "released": "2022-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dwwJhEXhxhiuTON8L1tWQ2WBI9u.jpg"
+      },
+      {
+        "id": "tt12976224:1:6",
+        "title": "Descubrimiento",
+        "season": 1,
+        "episode": 6,
+        "overview": "Luke procesa el incidente. Cora tiene una epifanía. Will se enfrenta a la enfermedad de Stella.",
+        "released": "2022-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zcgR3ylCkDiTMA6Vj53OG7KEidU.jpg"
+      }
+    ]
+  }
+}

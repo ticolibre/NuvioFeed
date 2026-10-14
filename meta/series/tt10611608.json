@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "id": "tt10611608",
+    "type": "series",
+    "name": "¡El show de Cuphead!",
+    "poster": "https://image.tmdb.org/t/p/w500/lVPHjpVG08h38eHMnz63Ei8k2Kp.jpg",
+    "posterShape": "poster",
+    "description": "No te pierdas las desventuras de nuestro impulsivo héroe y de su precavido pero fiel hermano en esta serie animada basada en el exitoso videojuego.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/hdA9Tz16tfwfW1k7x66APoLrkdk.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10611608:1:1",
+        "title": "Carnaval del diablo",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cuphead convence a Mugman de abandonar sus labores para ir al carnaval, sin saber que se trata de una fachada para conseguir almas.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b8Qx9Sw3sflyWY1e5x5n5jbjqAZ.jpg"
+      },
+      {
+        "id": "tt10611608:1:2",
+        "title": "Cuidar de un bebé",
+        "season": 1,
+        "episode": 2,
+        "overview": "Los hermanos deben cuidar a un bebé que apareció en su puerta con una nota. Pero Don Tetera no está, y la tarea resulta más difícil de lo que imaginaron.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lUs6OKGxXvPjhcTmIT4WmtNDjR6.jpg"
+      },
+      {
+        "id": "tt10611608:1:3",
+        "title": "Ribby y Croaks",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mugman y Cuphead se meten a un club en busca de helados luego de que los dueños del lugar, campeones del boxeo, les robaran su dinero.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kCJPD97vbWWddESmm1HA4PYy7D7.jpg"
+      },
+      {
+        "id": "tt10611608:1:4",
+        "title": "¡Con cuidado!",
+        "season": 1,
+        "episode": 4,
+        "overview": "Cuando a Mugman se le rompe su asa, los hermanos van a una tienda y se ponen creativos mientras esperan el pegamento.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/onrLjQpnFK4WTcSpi8zYXotZzOr.jpg"
+      },
+      {
+        "id": "tt10611608:1:5",
+        "title": "Lanzar los dados",
+        "season": 1,
+        "episode": 5,
+        "overview": "Cualquier cosa puede pasar cuando Cuphead participa en el juego número 1 de las Islas Tintero... para disgusto del tramposo anfitrión y su diabólico jefe.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/53PuaaZBnMrlgaDqN6CgfAv1FIM.jpg"
+      },
+      {
+        "id": "tt10611608:1:6",
+        "title": "Los fantasmas no existen",
+        "season": 1,
+        "episode": 6,
+        "overview": "Cuando unos espeluznantes fantasmas los dejan atrapados en un escalofriante cementerio, Cuphead y Mugman viven una noche aterradora.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4D0h8Gnak6i7smc25aOkhxDpP8q.jpg"
+      },
+      {
+        "id": "tt10611608:1:7",
+        "title": "Repleto de raíces",
+        "season": 1,
+        "episode": 7,
+        "overview": "Cuphead y Mugman deben proteger el preciado huerto de Don Tetera cuando un grupo de vegetales lo invade con una fiesta.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dvOZDhOAP1d57GNBzhiTFqZ3x7Y.jpg"
+      },
+      {
+        "id": "tt10611608:1:8",
+        "title": "Mejor con suéter que muerto",
+        "season": 1,
+        "episode": 8,
+        "overview": "Mugman le teje un suéter especial a Cuphead para proteger su alma. Por su parte, el Diablo hace una fiesta en el inframundo.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tlND64aEodhKBCWvANg4oDL4oEQ.jpg"
+      },
+      {
+        "id": "tt10611608:1:9",
+        "title": "Mejor suéter la próxima vez",
+        "season": 1,
+        "episode": 9,
+        "overview": "El Diablo sigue de cerca a los hermanos, en espera de que Cuphead se quite el suéter y así conseguir su alma antes de que Estricto se entere.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3uf0KoJ5MqaRbGJbBCAHkFr4j0G.jpg"
+      },
+      {
+        "id": "tt10611608:1:10",
+        "title": "El peligroso Mugman",
+        "season": 1,
+        "episode": 10,
+        "overview": "Cuphead y un acobardado Mugman ponen a prueba su valor cuando Cerdonio les encarga una tarea peligrosa que rápidamente se sale de control.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cHN8Q3pUDI1FvJDjgua0M1OgpiB.jpg"
+      },
+      {
+        "id": "tt10611608:1:11",
+        "title": "Pasar a mejor sueño",
+        "season": 1,
+        "episode": 11,
+        "overview": "Tras escuchar una conversación extraña entre Cuphead y Mugman, Don Tetera piensa que planean algo en su contra.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eNLwTecECDi6M5RR6ZsnUQts752.jpg"
+      },
+      {
+        "id": "tt10611608:1:12",
+        "title": "En riesgo y encanto",
+        "season": 1,
+        "episode": 12,
+        "overview": "Los problemas persiguen a Cuphead y Mugman cuando se involucran demasiado con una nueva y astuta amiga de espíritu libre.",
+        "released": "2022-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8l4c0wbCOrKRwKvNJcLScjFYVUR.jpg"
+      },
+      {
+        "id": "tt10611608:2:1",
+        "title": "El escape desmotivador",
+        "season": 2,
+        "episode": 1,
+        "overview": "Cuphead y Mugman van a prisión por haber entrado sin autorización a la fábrica de galletas. La cárcel es aterradora, pero decidir si quedarse o fugarse es peor...",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mdJpUhLaMnPTmqReNUeYzcUJFfX.jpg"
+      },
+      {
+        "id": "tt10611608:2:2",
+        "title": "Peligrosamente encantados",
+        "season": 2,
+        "episode": 2,
+        "overview": "Cáliz toca la puerta de Don Tetera y, con ella, llegan los problemas. ¿Podrán los hermanos volver a confiar en su supuesta amiga?",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sKOmaG3QML3RGFAKtt4aPnzWnJr.jpg"
+      },
+      {
+        "id": "tt10611608:2:3",
+        "title": "Aventura en altamar",
+        "season": 2,
+        "episode": 3,
+        "overview": "Los chicos creen que solo están jugando a los piratas, ¡pero el ancla se ha levantado y el barco ya está navegando! Ahora, solo queda cumplir la misión del capitán.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lRwVBhl9yTL5RpwH0A5rvaEcrYK.jpg"
+      },
+      {
+        "id": "tt10611608:2:4",
+        "title": "Otro hermano",
+        "season": 2,
+        "episode": 4,
+        "overview": "Tras una discusión con Mugman, Cuphead sale en busca de otro hermano... ¡y lo encuentra! Pero su súbito amor fraternal puede terminar hecho añicos.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/peY81XHLnvOKO69j5sRa3IsqGxO.jpg"
+      },
+      {
+        "id": "tt10611608:2:5",
+        "title": "Dulce tentación",
+        "season": 2,
+        "episode": 5,
+        "overview": "El autocontrol de Cuphead se pone a prueba en un lugar soñado y azucarado, donde podrá comer todas las golosinas que quiera... con una única condición.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/95rliXK65oYd6slW14HnsfGllmW.jpg"
+      },
+      {
+        "id": "tt10611608:2:6",
+        "title": "El hombre de los hela-gritos",
+        "season": 2,
+        "episode": 6,
+        "overview": "Con Cuphead y Don Tetera lejos, lo único que ansía Mugman es un poco de paz y silencio, ¡pero el heladero y la molesta canción de su camión interfieren en sus deseos!",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u9tPghLlfWEczh9c19nrKTgszvB.jpg"
+      },
+      {
+        "id": "tt10611608:2:7",
+        "title": "La clase de piano",
+        "season": 2,
+        "episode": 7,
+        "overview": "Mugman explota de celos cuando su presumido profesor de piano elige a Cuphead —y no a él— para participar en un concurso musical con un premio en efectivo.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d7dHOxymw7l2KkrHkvjzQoZM44H.jpg"
+      },
+      {
+        "id": "tt10611608:2:8",
+        "title": "¡Liberen a los demonios!",
+        "season": 2,
+        "episode": 8,
+        "overview": "Ciego de ira y listo para vengarse, el Diablo convoca a sus mejores demonios y les encomienda una tarea: recapturar el alma de Cuphead.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AwjO9B4CYIhyAn4nXPOggWzZU6i.jpg"
+      },
+      {
+        "id": "tt10611608:2:9",
+        "title": "En bancarrota",
+        "season": 2,
+        "episode": 9,
+        "overview": "Cáliz y los chicos planean la estafa perfecta: hacer dinero como sacafantasmas. Pero todo se complica cuando eligen una casa ¡que ya está embrujada!",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6RFyjIGIiIugW9eJ1qtxj8HsuKx.jpg"
+      },
+      {
+        "id": "tt10611608:2:10",
+        "title": "¡Eso es todo, ratas!",
+        "season": 2,
+        "episode": 10,
+        "overview": "Una hábil rata reclama la propiedad de la casa de Don Tetera y de todo su contenido luego de que los descuidados Cuphead y Mugman dejaran la puerta abierta.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2gSQW8SAnwN9lVr9mQY0ewQre3U.jpg"
+      },
+      {
+        "id": "tt10611608:2:11",
+        "title": "¡Sonrían!",
+        "season": 2,
+        "episode": 11,
+        "overview": "Don Tetera quiere una foto familiar con los chicos y ¡ay, tacita, si la consigue! Solo que el escenario no es tan idílico como esperaba...",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2DWgbR5CSpxeZ0cEOx5o6oJ6oYI.jpg"
+      },
+      {
+        "id": "tt10611608:2:12",
+        "title": "Perdidos en el bosque",
+        "season": 2,
+        "episode": 12,
+        "overview": "Llega el invierno y hay mucho trabajo por delante. Pero Cuphead no quiere hacer ningún esfuerzo. ¿Cortar leña? No, ¡mejor lanzar cohetes al cielo!",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zbv0KwLzQ5XPoDR1O5qORn8ii2Z.jpg"
+      },
+      {
+        "id": "tt10611608:2:13",
+        "title": "El tridente del diablo",
+        "season": 2,
+        "episode": 13,
+        "overview": "Cuphead y Mugman se marean con el poder luego de hacerse con el tridente del Diablo y sembrar el caos por todo el pueblo.",
+        "released": "2022-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/awovvHNRJxYZ8XD8V1dM7KQZpA.jpg"
+      },
+      {
+        "id": "tt10611608:3:1",
+        "title": "La venganza del diablo",
+        "season": 3,
+        "episode": 1,
+        "overview": "Sin Mugman, ¡Cuphead no sabe qué hacer! ¿Podrá arreglar algo con el Diablo para salvar a su querido hermano y traerlo de regreso a casa?",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bKpoTGjWHvjjrKCu6ndwf1UiwUW.jpg"
+      },
+      {
+        "id": "tt10611608:3:2",
+        "title": "No abran la puerta",
+        "season": 3,
+        "episode": 2,
+        "overview": "¡Toc, toc! El peligro llama a la puerta cuando Don Tetera sale a encerarse el bigote y deja solos a los traviesos Cuphead y Mugman.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/agIVrWYgv2ICxvN7VMsxNtQQkJj.jpg"
+      },
+      {
+        "id": "tt10611608:3:3",
+        "title": "La audición",
+        "season": 3,
+        "episode": 3,
+        "overview": "Sally Escenario organiza una audición para una nueva y emocionante ópera espacial. Pero Cuphead, Mugman y el Diablo quieren el mismo papel: el de protagonista.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xsnMh25tUt0qT3NnnRPB9wbWGB2.jpg"
+      },
+      {
+        "id": "tt10611608:3:4",
+        "title": "El atropello",
+        "season": 3,
+        "episode": 4,
+        "overview": "Tras atropellar al Diablo con el auto, Don Tetera decide cuidarlo pensando que es una gata doméstica a la que llama cariñosamente «señorita Miau Miau».",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5cdIKncBY0IzPnuVFadn5V4DozE.jpg"
+      },
+      {
+        "id": "tt10611608:3:5",
+        "title": "Tradición navideña",
+        "season": 3,
+        "episode": 5,
+        "overview": "Se acerca la Navidad, y Don Tetera le encarga a los chicos una importante misión: elegir el árbol perfecto.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nFzT3K68K80eap9Col69BEyWZPv.jpg"
+      },
+      {
+        "id": "tt10611608:3:6",
+        "title": "Una navidad endiablada",
+        "season": 3,
+        "episode": 6,
+        "overview": "La Navidad saca a relucir lo peor del Diablo, famoso por ser muy malo... hasta que se propone entrar en la lista de los buenos de Santa.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lqY26Xj37P5X6oy011101SS0fPv.jpg"
+      },
+      {
+        "id": "tt10611608:3:7",
+        "title": "Entrega especial",
+        "season": 3,
+        "episode": 7,
+        "overview": "Tras romper la ventana de Cerdonio, Cuphead, Mugman y la Srta. Cáliz deben saldar la deuda entregando un misterioso paquete a Ribby y Croaks.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nHCpJJ782Ys2LfDqvnmZgcghwtm.jpg"
+      },
+      {
+        "id": "tt10611608:3:8",
+        "title": "La traición",
+        "season": 3,
+        "episode": 8,
+        "overview": "Rey Dado —el antiguo compinche favorito del Diablo— está lejos de los escenarios. Pero, sorprendentemente, Cuphead quiere ser su representante y ayudarle a recuperar su fama.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3RrFIEKQaMK2UWmSvaMOVsD9hgg.jpg"
+      },
+      {
+        "id": "tt10611608:3:9",
+        "title": "Un paseo sorprendente",
+        "season": 3,
+        "episode": 9,
+        "overview": "Es hora de pasar un día divertido con Don Tetera… ¿o no? Con la ayuda de la Srta. Cáliz, Cuphead y Mugman se dedican a hacer travesuras por toda la ciudad.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y2ShcanHjh8YE2mY14RgZnJnl42.jpg"
+      },
+      {
+        "id": "tt10611608:3:10",
+        "title": "Bailar con el peligro",
+        "season": 3,
+        "episode": 10,
+        "overview": "Una retrospectiva revela cómo era la vida de la Srta. Cáliz antes de conocer a Cuphead y Mugman.",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wAkVzBf5XrR8225oC38v5YHmVMo.jpg"
+      },
+      {
+        "id": "tt10611608:3:11",
+        "title": "El Diablo y la señorita Cáliz",
+        "season": 3,
+        "episode": 11,
+        "overview": "Un épico concurso de baile se convierte en un asunto de vida o muerte con más de un alma en juego. ¿Cómo acabará todo? Seguro que con muchas risas...",
+        "released": "2022-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hJe0qhs24IILduQYxsyRWpWI4KN.jpg"
+      }
+    ]
+  }
+}
