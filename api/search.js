@@ -15,7 +15,7 @@ const EMPTY = { metas: [] };
 module.exports = async (req, res) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   try {
-    const extra = String((req.query && req.query.extra) || "");
+    const extra = String((req.query && req.query.extra) || "").replace(/\.json$/, "");
     const qm = extra.match(/(?:^|&)search=([^&]*)/);
     const query = qm ? decodeURIComponent(qm[1].replace(/\+/g, " ")).trim() : "";
     if (!query) {
