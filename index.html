@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TicoLibre Catalogues — NuvioFeed Addon</title>
+  <meta name="description" content="Curated movie & series catalogs for Stremio/Nuvio. A24, NEON, Blumhouse, Shudder, Cannes, Sundance and the Oscars. Powered by TMDB." />
+  <style>
+    :root {
+      --bg: #0b0b12;
+      --bg-soft: #14141f;
+      --card: #191926;
+      --border: #26263a;
+      --text: #ececf5;
+      --muted: #9a9ab0;
+      --accent: #7c5cff;
+      --accent-2: #22d3ee;
+      --movie: #7c5cff;
+      --series: #22d3ee;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 1040px; margin: 0 auto; padding: 0 20px; }
+
+    header {
+      text-align: center;
+      padding: 72px 0 40px;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: "";
+      position: absolute;
+      inset: -40% 30% auto -10%;
+      height: 480px;
+      background: radial-gradient(circle, rgba(124, 92, 255, 0.35), transparent 65%);
+      filter: blur(20px);
+      z-index: 0;
+    }
+    header::after {
+      content: "";
+      position: absolute;
+      inset: -30% -10% auto 45%;
+      height: 420px;
+      background: radial-gradient(circle, rgba(34, 211, 238, 0.22), transparent 65%);
+      filter: blur(20px);
+      z-index: 0;
+    }
+    header .wrap { position: relative; z-index: 1; }
+    .badge {
+      display: inline-block;
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-2);
+      border: 1px solid var(--border);
+      background: var(--bg-soft);
+      border-radius: 999px;
+      padding: 6px 14px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: clamp(30px, 6vw, 52px);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 18px;
+    }
+    h1 .grad {
+      background: linear-gradient(120deg, var(--accent), var(--accent-2));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .lead {
+      font-size: clamp(16px, 2.4vw, 19px);
+      color: var(--muted);
+      max-width: 680px;
+      margin: 0 auto 32px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      font-size: 15px;
+      font-weight: 600;
+      padding: 13px 24px;
+      border-radius: 12px;
+      text-decoration: none;
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+      font-family: inherit;
+    }
+    .btn:hover { transform: translateY(-2px); }
+    .btn-primary {
+      background: linear-gradient(120deg, var(--accent), var(--accent-2));
+      color: #08080f;
+      box-shadow: 0 10px 30px -10px rgba(124, 92, 255, 0.7);
+    }
+    .btn-ghost {
+      background: var(--bg-soft);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    .btn-ghost:hover { border-color: var(--accent); }
+
+    section { padding: 48px 0; }
+    h2 {
+      font-size: 24px;
+      letter-spacing: -0.01em;
+      margin-bottom: 8px;
+    }
+    .section-sub { color: var(--muted); margin-bottom: 26px; }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+    }
+    .feature {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 22px;
+    }
+    .feature .ico {
+      font-size: 22px;
+      margin-bottom: 12px;
+      display: block;
+    }
+    .feature h3 { font-size: 16px; margin-bottom: 6px; }
+    .feature p { color: var(--muted); font-size: 14px; }
+
+    .chips { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 26px; }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 7px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--bg-soft);
+      cursor: pointer;
+      color: var(--muted);
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+      font-family: inherit;
+    }
+    .chip.active { color: var(--text); border-color: var(--accent); background: var(--card); }
+
+    .catalog-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+    .catalog {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .catalog:hover { transform: translateY(-3px); border-color: var(--accent); }
+    .catalog .top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .catalog h3 { font-size: 17px; }
+    .type {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+    .type.movie { color: var(--movie); background: rgba(124, 92, 255, 0.12); }
+    .type.series { color: var(--series); background: rgba(34, 211, 238, 0.12); }
+    .catalog p { color: var(--muted); font-size: 14px; }
+
+    .install {
+      background: var(--bg-soft);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 32px;
+      text-align: center;
+    }
+    .install h2 { margin-bottom: 8px; }
+    .install p { color: var(--muted); margin-bottom: 22px; }
+    .url-box {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      max-width: 560px;
+      margin: 0 auto 22px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 6px 6px 6px 16px;
+    }
+    .url-box code {
+      flex: 1;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 13px;
+      color: var(--accent-2);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      text-align: left;
+    }
+    .copy {
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 9px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .copy:hover { border-color: var(--accent); color: var(--accent-2); }
+
+    footer {
+      text-align: center;
+      padding: 40px 0 60px;
+      color: var(--muted);
+      font-size: 13px;
+      border-top: 1px solid var(--border);
+      margin-top: 24px;
+    }
+    footer a { color: var(--accent-2); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { transition: none !important; scroll-behavior: auto !important; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <span class="badge">Stremio / Nuvio Addon</span>
+      <h1>TicoLibre <span class="grad">Catalogues</span></h1>
+      <p class="lead">
+        A curated addon that adds hand-picked movie and series catalogs straight into
+        Stremio or Nuvio — festival winners, cult studios and the awards that matter.
+        Every title is powered by TMDB in <strong>es-MX</strong> for region <strong>CR</strong>.
+      </p>
+      <div class="actions">
+        <a class="btn btn-primary" href="stremio://nuviofeed.vercel.app/manifest.json">
+          <span aria-hidden="true">▶</span> Add to Stremio
+        </a>
+        <a class="btn btn-ghost" href="/manifest.json" target="_blank" rel="noopener">
+          <span aria-hidden="true">⬇</span> View manifest.json
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section>
+      <h2>What it does</h2>
+      <p class="section-sub">Install once, get organised rows of great films and shows.</p>
+      <div class="about-grid">
+        <div class="feature">
+          <span class="ico" aria-hidden="true">🎬</span>
+          <h3>Curated catalogs</h3>
+          <p>Eleven ready-made catalogs covering acclaimed studios, film festivals and award winners.</p>
+        </div>
+        <div class="feature">
+          <span class="ico" aria-hidden="true">🌎</span>
+          <h3>Localized metadata</h3>
+          <p>Titles, posters and details come from TMDB using Spanish (es-MX) for the Costa Rica region.</p>
+        </div>
+        <div class="feature">
+          <span class="ico" aria-hidden="true">⚡</span>
+          <h3>Fast &amp; self-contained</h3>
+          <p>Static JSON catalogs and meta files — no accounts, no tracking, no external search.</p>
+        </div>
+        <div class="feature">
+          <span class="ico" aria-hidden="true">🧩</span>
+          <h3>Addon protocol</h3>
+          <p>Standard Stremio addon manifest, so it works in Stremio, Nuvio and compatible players.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Catalogs included</h2>
+      <p class="section-sub">Filter by type to see what's inside.</p>
+      <div class="chips" id="chips">
+        <button class="chip active" data-filter="all">All</button>
+        <button class="chip" data-filter="movie">Movies</button>
+        <button class="chip" data-filter="series">Series</button>
+      </div>
+      <div class="catalog-grid" id="catalogs">
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Trending Movies</h3><span class="type movie">Movie</span></div>
+          <p>The current weekly trending films on TMDB, ranked.</p>
+        </article>
+        <article class="catalog" data-type="series">
+          <div class="top"><h3>Trending Series</h3><span class="type series">Series</span></div>
+          <p>This week's most popular TV shows, in trending order.</p>
+        </article>
+        <article class="catalog" data-type="series">
+          <div class="top"><h3>Popular on Crunchyroll</h3><span class="type series">Series</span></div>
+          <p>Anime highlights from the Crunchyroll provider top list.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>A24 Films</h3><span class="type movie">Movie</span></div>
+          <p>Bold, director-driven cinema from the A24 studio.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>NEON Films</h3><span class="type movie">Movie</span></div>
+          <p>Genre-defining and arthouse releases distributed by NEON.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Blumhouse Films</h3><span class="type movie">Movie</span></div>
+          <p>Modern horror hits from the Blumhouse production house.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Shudder Originals</h3><span class="type movie">Movie</span></div>
+          <p>Original horror, thriller and supernatural titles from Shudder.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Cannes: Palme d'Or</h3><span class="type movie">Movie</span></div>
+          <p>Winners of the Cannes Film Festival's highest prize.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Sundance: Grand Jury Winners</h3><span class="type movie">Movie</span></div>
+          <p>Grand Jury Prize winners from the Sundance Film Festival.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Oscars: Best Picture Winners</h3><span class="type movie">Movie</span></div>
+          <p>Every Academy Award winner for Best Picture.</p>
+        </article>
+        <article class="catalog" data-type="movie">
+          <div class="top"><h3>Oscars: Best Picture Nominees</h3><span class="type movie">Movie</span></div>
+          <p>Films that were nominated for the Best Picture Oscar.</p>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <div class="install">
+        <h2>Install the addon</h2>
+        <p>Add the manifest URL to Stremio or Nuvio, or click the button above.</p>
+        <div class="url-box">
+          <code id="manifest-url">https://nuviofeed.vercel.app/manifest.json</code>
+          <button class="copy" id="copy-btn" type="button">Copy</button>
+        </div>
+        <a class="btn btn-primary" href="stremio://nuviofeed.vercel.app/manifest.json">
+          <span aria-hidden="true">▶</span> Add to Stremio
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      TicoLibre Catalogues · Metadata by
+      <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a>
+      · <a href="/manifest.json" target="_blank" rel="noopener">manifest.json</a>
+    </div>
+  </footer>
+
+  <script>
+    const chips = document.querySelectorAll(".chip");
+    const cards = document.querySelectorAll("#catalogs .catalog");
+    chips.forEach((chip) => {
+      chip.addEventListener("click", () => {
+        chips.forEach((c) => c.classList.remove("active"));
+        chip.classList.add("active");
+        const filter = chip.dataset.filter;
+        cards.forEach((card) => {
+          card.style.display =
+            filter === "all" || card.dataset.type === filter ? "" : "none";
+        });
+      });
+    });
+
+    const copyBtn = document.getElementById("copy-btn");
+    const manifestUrl = document.getElementById("manifest-url").textContent.trim();
+    copyBtn.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(manifestUrl);
+        copyBtn.textContent = "Copied!";
+      } catch (e) {
+        copyBtn.textContent = "Press ⌘C";
+      }
+      setTimeout(() => (copyBtn.textContent = "Copy"), 1600);
+    });
+  </script>
+</body>
+</html>
