@@ -24,6 +24,36 @@
   "catalogs": [
     {
       "type": "movie",
+      "id": "trending-movies",
+      "name": "Trending Movies",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "trending-series",
+      "name": "Trending Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
       "id": "a24",
       "name": "A24 Films",
       "extra": [
@@ -131,36 +161,6 @@
       "type": "movie",
       "id": "best-picture-nominees",
       "name": "Oscars: Best Picture Nominees",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "movie",
-      "id": "trending-movies",
-      "name": "Trending Movies",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "trending-series",
-      "name": "Trending Series",
       "extra": [
         {
           "name": "skip",
