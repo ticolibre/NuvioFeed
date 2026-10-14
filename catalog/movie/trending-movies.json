@@ -1,0 +1,801 @@
+{
+  "metas": [
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Un nuevo día",
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "posterShape": "poster",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31049299",
+      "type": "movie",
+      "name": "Animales",
+      "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "posterShape": "poster",
+      "description": "Cuando secuestran a su hijo, un candidato a alcalde y su esposa buscan desesperadamente reunir dinero para el rescate, pero sus decisiones podrían destruirles la vida.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "posterShape": "poster",
+      "description": "Cuando un grupo de antiguos amigos de la infancia reconecta, su reunión da un giro inesperado al descubrir un complot internacional y darse cuenta de que deben salvar al mundo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32588798",
+      "type": "movie",
+      "name": "Hechizo de amor: La magia continúa",
+      "poster": "https://image.tmdb.org/t/p/w500/eNdtnb2Ga4H9fl4hEGhOLrgdKqq.jpg",
+      "posterShape": "poster",
+      "description": "En un mundo envuelto en travesuras a la luz de la luna y una poderosa magia ancestral, las hermanas Owens deberán enfrentar la oscura maldición que amenaza con destruir a su familia de una vez por todas.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31450459",
+      "type": "movie",
+      "name": "Digger",
+      "poster": "https://image.tmdb.org/t/p/w500/txe65aR0g5JiYnHKPjX3E49M5td.jpg",
+      "posterShape": "poster",
+      "description": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desatado lo destruya todo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "name": "Street Fighter",
+      "poster": "https://image.tmdb.org/t/p/w500/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg",
+      "posterShape": "poster",
+      "description": "En 1993, los distanciados luchadores de Street Fighter, Ryu y Ken Masters, se ven obligados a volver a la acción cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros. Tras esta batalla campal se esconde una conspiración mortal que los obliga a enfrentarse entre sí y a los demonios de su pasado, y si no lo hacen se acabó el juego.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32393988",
+      "type": "movie",
+      "name": "La noche del demonio: Están entre nosotros",
+      "poster": "https://image.tmdb.org/t/p/w500/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",
+      "posterShape": "poster",
+      "description": "Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31192372",
+      "type": "movie",
+      "name": "Vértigo 2: Punto muerto",
+      "poster": "https://image.tmdb.org/t/p/w500/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+      "posterShape": "poster",
+      "description": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "name": "Madre siniestra",
+      "poster": "https://image.tmdb.org/t/p/w500/5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
+      "posterShape": "poster",
+      "description": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su clóset. La presencia, a quien llama “Otra Mamá”, se vuelve cada vez más amenazante para ella y su familia.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "name": "Resident Evil: Noche cero",
+      "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "posterShape": "poster",
+      "description": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36753615",
+      "type": "movie",
+      "name": "バッド・ルーテナント:トウキョウ",
+      "poster": "https://image.tmdb.org/t/p/w500/rWiwfGrHgTd2bqOtJ1UxhtpOZQM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t935ImPiov88IxrFcMzfAtLfwmr.jpg",
+      "description": "A corrupt gambler in the Metropolitan Police Force finds himself thrown into a tangled case after an enigmatic FBI agent arrives in Tokyo to investigate the disappearance of a politician’s daughter.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Acción"
+      ]
+    },
+    {
+      "id": "tt37281055",
+      "type": "movie",
+      "name": "Buddy",
+      "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "posterShape": "poster",
+      "description": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "name": "Entrega al límite",
+      "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+      "posterShape": "poster",
+      "description": "Hank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt34890576",
+      "type": "movie",
+      "name": "Clayface",
+      "poster": "https://image.tmdb.org/t/p/w500/ccS3RFeFRlmk54Q9RQ4lyz36ip8.jpg",
+      "posterShape": "poster",
+      "description": "Para mantenerse relevante un actor de películas clase B se inyecta una sustancia, solo para descubrir que puede remodelar su rostro y su forma, convirtiéndose en una pieza de arcilla andante.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg"
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "name": "Verity: La sombra de un engaño",
+      "poster": "https://image.tmdb.org/t/p/w500/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+      "posterShape": "poster",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "La Odisea",
+      "poster": "https://image.tmdb.org/t/p/w500/mKPGRRyXIwN8JOLhAbWnxV1gNrS.jpg",
+      "posterShape": "poster",
+      "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28535715",
+      "type": "movie",
+      "name": "La caída de la ballena",
+      "poster": "https://image.tmdb.org/t/p/w500/pq9C3lFo4JZZl33EuCZ1hEhQQD1.jpg",
+      "posterShape": "poster",
+      "description": "Tras la muerte de su padre (Josh Brolin), Jay Gardiner (Austin Abrams) se sumerge en la costa central de California en busca de sus restos, pero es tragado por una enorme ballena. Mientras está atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó con tanto esfuerzo pueden ser la clave para escapar.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "10.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsesión",
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32268691",
+      "type": "movie",
+      "name": "Aniquilación",
+      "poster": "https://image.tmdb.org/t/p/w500/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "description": "Cuando un escuadrón rebelde de supersoldados modificados genéticamente se desata en el desierto, una francotiradora del ejército de armas tomar debe desatar el infierno para proteger a su hija pequeña.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/6WWJiE7Dwj63H122IOG2htJsCGP.jpg",
+      "posterShape": "poster",
+      "description": "Moana que quiere ser una viajera marinera. Cuando su isla natal se ve amenazada, Moana debe adentrarse en el mar junto a un semidiós llamado Maui para salvar a su pueblo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36164852",
+      "type": "movie",
+      "name": "Tadeo Jones y La Lámpara Maravillosa",
+      "poster": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "posterShape": "poster",
+      "description": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt33214716",
+      "type": "movie",
+      "name": "The Florist",
+      "poster": "https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg",
+      "posterShape": "poster",
+      "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jpH1VRw74w0vvPTY0ryKEtMIXc.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36983905",
+      "type": "movie",
+      "name": "El hombre que desafió al rey",
+      "poster": "https://image.tmdb.org/t/p/w500/f2qc3mE7V8R7yAXBBB822mVZblo.jpg",
+      "posterShape": "poster",
+      "description": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Historia",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "posterShape": "poster",
+      "description": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt37510326",
+      "type": "movie",
+      "name": "El poder de la red",
+      "poster": "https://image.tmdb.org/t/p/w500/zYPSQPc76qWfJNF9gbmyCOJk0hV.jpg",
+      "posterShape": "poster",
+      "description": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms: Sin salida",
+      "poster": "https://image.tmdb.org/t/p/w500/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "name": "Primetime",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36980182",
+      "type": "movie",
+      "name": "The Incomer",
+      "poster": "https://image.tmdb.org/t/p/w500/iccroKK1eUTdCnLfmp7I3YXwAKF.jpg",
+      "posterShape": "poster",
+      "description": "On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded \"Incomers\". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jTHrOLyS0SeBpRBfzsos060z7Cn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2056785",
+      "type": "movie",
+      "name": "El Bosque Salvaje: Wildwood",
+      "poster": "https://image.tmdb.org/t/p/w500/3AxfnEViGaVspgifEag5au5bVJc.jpg",
+      "posterShape": "poster",
+      "description": "Más allá de los límites de la ciudad de Portland, en Wildwood. No se supone que debas ir allí. Pero Prue McKeel está a punto de entrar en este país de las maravillas encantado. Su hermano pequeño Mac ha sido llevado por una bandada de cuervos a las profundidades del bosque, y ella, junto con su desventurado compañero de clase, Curtis, va a recuperarlo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
+    },
+    {
+      "id": "tt32268992",
+      "type": "movie",
+      "name": "Sacrificio: Los elegidos",
+      "poster": "https://image.tmdb.org/t/p/w500/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "posterShape": "poster",
+      "description": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "name": "Coyote vs. Acme",
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "posterShape": "poster",
+      "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32338669",
+      "type": "movie",
+      "name": "Código: Venganza",
+      "poster": "https://image.tmdb.org/t/p/w500/iHPYm59D7kF8yQr03hewusoyNET.jpg",
+      "posterShape": "poster",
+      "description": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt29630464",
+      "type": "movie",
+      "name": "Don't Move",
+      "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+      "posterShape": "poster",
+      "description": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1b0wNCRLYT3mGwvHyTEbqOk98Ix.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35511966",
+      "type": "movie",
+      "name": "La bola negra",
+      "poster": "https://image.tmdb.org/t/p/w500/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "posterShape": "poster",
+      "description": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9601292",
+      "type": "movie",
+      "name": "The Fix",
+      "poster": "https://image.tmdb.org/t/p/w500/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+      "posterShape": "poster",
+      "description": "Un grupo de exoperadores de la CIA, marcados por las secuelas de la guerra en Afganistán y el abandono de su gobierno, decide embarcarse en una peligrosa e ilegal misión de rescate en Teherán. Mientras se adentran en territorio hostil, la desconfianza mutua y los fantasmas de su pasado amenazan con sabotear una operación donde la redención y la supervivencia son su única salida.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt37853455",
+      "type": "movie",
+      "name": "Solo por una noche",
+      "poster": "https://image.tmdb.org/t/p/w500/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg",
+      "posterShape": "poster",
+      "description": "Dos desconocidos, ávidos de amor, se topan por casualidad en la única noche del año en que las personas solteras tienen permitido tener relaciones sexuales.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3afHil7EVm655wO2NS6RHxuyicE.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Proyecto Fin del Mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+      "posterShape": "poster",
+      "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14173636",
+      "type": "movie",
+      "name": "La invitación",
+      "poster": "https://image.tmdb.org/t/p/w500/dvMLCv3u989LO1tLLDYMJcK8TZo.jpg",
+      "posterShape": "poster",
+      "description": "El matrimonio de Joe y Angela pende de un hilo. Cuando invitan a sus enigmáticos vecinos de arriba a una cena, la noche toma un rumbo inesperado.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 3600,
+  "staleRevalidate": 600,
+  "staleError": 86400
+}

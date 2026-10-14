@@ -139,6 +139,21 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "movie",
+      "id": "trending-movies",
+      "name": "Trending Movies",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "config": [

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt12042730",
+    "type": "movie",
+    "name": "Proyecto Fin del Mundo",
+    "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+    "posterShape": "poster",
+    "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    }
+  }
+}
