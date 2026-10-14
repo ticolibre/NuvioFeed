@@ -16,68 +16,6 @@
           "rating": "4.2"
         }
       }
-    },
-    "cast": [
-      "Marsha Jordan",
-      "Liz Renay",
-      "Marlon Proctor",
-      "Deborah Downey",
-      "James E. Myers",
-      "Lloyd Nelson",
-      "Marc Desmond",
-      "Mary Bauer",
-      "Morgan Lane",
-      "Ready Able"
-    ],
-    "app_cast": [
-      {
-        "name": "Marsha Jordan",
-        "character": "Betty Brandt",
-        "photo": "https://image.tmdb.org/t/p/w500/x1qrXhW5l5yi84cxMlgx9lqGDBd.jpg"
-      },
-      {
-        "name": "Liz Renay",
-        "character": "Sally Dayne",
-        "photo": "https://image.tmdb.org/t/p/w500/5cp4xwmEbO2xwiP9XqgdAws9NzX.jpg"
-      },
-      {
-        "name": "Marlon Proctor",
-        "character": "Hank Brent"
-      },
-      {
-        "name": "Deborah Downey",
-        "character": "Mary Anne",
-        "photo": "https://image.tmdb.org/t/p/w500/qTEReo0F0h3NoK2xfKGnyewwc6Y.jpg"
-      },
-      {
-        "name": "James E. Myers",
-        "character": "Dr. Carlton Wright"
-      },
-      {
-        "name": "Lloyd Nelson",
-        "character": "Kery",
-        "photo": "https://image.tmdb.org/t/p/w500/6S6NIkvi6XxJlRv5kVxz9mjhiPB.jpg"
-      },
-      {
-        "name": "Marc Desmond",
-        "character": "Bill Payne"
-      },
-      {
-        "name": "Mary Bauer",
-        "character": "Samantha",
-        "photo": "https://image.tmdb.org/t/p/w500/oJtYLhluvuQNfcZ9CsI2rBtcLrM.jpg"
-      },
-      {
-        "name": "Morgan Lane",
-        "character": "John Gillis"
-      },
-      {
-        "name": "Ready Able",
-        "character": "Art O'Conner"
-      }
-    ],
-    "director": [
-      "Stephen C. Apostolof"
-    ]
+    }
   }
 }

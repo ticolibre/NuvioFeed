@@ -17,49 +17,6 @@
           "rating": "6.0"
         }
       }
-    },
-    "cast": [
-      "Marc Jacobs",
-      "Sofia Coppola",
-      "Spike Jonze",
-      "Romy Mars",
-      "Chloë Sevigny",
-      "Kim Gordon"
-    ],
-    "app_cast": [
-      {
-        "name": "Marc Jacobs",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/oL4XjSo1ovT8up9XSRyJX1qC8iB.jpg"
-      },
-      {
-        "name": "Sofia Coppola",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg"
-      },
-      {
-        "name": "Spike Jonze",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
-      },
-      {
-        "name": "Romy Mars",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/2u71l6tUaWzIt4nCXGLFXcEaQfn.jpg"
-      },
-      {
-        "name": "Chloë Sevigny",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/eM7KGAMCmZCzYDFV8gaSfknN675.jpg"
-      },
-      {
-        "name": "Kim Gordon",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/QxhtVBFDKFVn6loMj9a1AqNmUv.jpg"
-      }
-    ],
-    "director": [
-      "Sofia Coppola"
-    ]
+    }
   }
 }

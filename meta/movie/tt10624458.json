@@ -18,37 +18,6 @@
           "rating": "7.0"
         }
       }
-    },
-    "cast": [
-      "Julio Torres",
-      "Emma Stone",
-      "Ryan Gosling",
-      "Lin-Manuel Miranda"
-    ],
-    "app_cast": [
-      {
-        "name": "Julio Torres",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/oveoXN7fZFIeL5G1fJ7Dk5SJeNc.jpg"
-      },
-      {
-        "name": "Emma Stone",
-        "character": "Shoe (voice)",
-        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
-      },
-      {
-        "name": "Ryan Gosling",
-        "character": "Blue Penguin (voice)",
-        "photo": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
-      },
-      {
-        "name": "Lin-Manuel Miranda",
-        "character": "Cactus (voice)",
-        "photo": "https://image.tmdb.org/t/p/w500/r0wFwPa041pZ1QM66yJWuQXCkqx.jpg"
-      }
-    ],
-    "director": [
-      "Dave McCary"
-    ]
+    }
   }
 }

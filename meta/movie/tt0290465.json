@@ -17,33 +17,6 @@
           "rating": "3.6"
         }
       }
-    },
-    "cast": [
-      "Tony Martin",
-      "Gary Sweet",
-      "Kick Gurry",
-      "Paul Pantano"
-    ],
-    "app_cast": [
-      {
-        "name": "Tony Martin",
-        "photo": "https://image.tmdb.org/t/p/w500/8KclegVhs20cRhQNCXZGKM1ngoH.jpg"
-      },
-      {
-        "name": "Gary Sweet",
-        "photo": "https://image.tmdb.org/t/p/w500/gbU6LpVgAwh6ez3h6QlkOLMGNmj.jpg"
-      },
-      {
-        "name": "Kick Gurry",
-        "photo": "https://image.tmdb.org/t/p/w500/veu7npyAf2hhkKb1KR9SsducGoq.jpg"
-      },
-      {
-        "name": "Paul Pantano",
-        "photo": "https://image.tmdb.org/t/p/w500/2BKEqs0Uh7m5r1P6G6lMemuuNrI.jpg"
-      }
-    ],
-    "director": [
-      "Rachel Ward"
-    ]
+    }
   }
 }

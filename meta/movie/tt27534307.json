@@ -18,67 +18,6 @@
           "rating": "7.1"
         }
       }
-    },
-    "cast": [
-      "James McAvoy",
-      "Mackenzie Davis",
-      "Scoot McNairy",
-      "Aisling Franciosi",
-      "Alix West Lefler",
-      "Dan Hough",
-      "Kris Hitchen",
-      "Motaz Malhees",
-      "Jakob Højlev Jørgensen"
-    ],
-    "app_cast": [
-      {
-        "name": "James McAvoy",
-        "character": "Paddy",
-        "photo": "https://image.tmdb.org/t/p/w500/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
-      },
-      {
-        "name": "Mackenzie Davis",
-        "character": "Louise Dalton",
-        "photo": "https://image.tmdb.org/t/p/w500/ekQbEIKh26jbz17P0wwLbo6uNs9.jpg"
-      },
-      {
-        "name": "Scoot McNairy",
-        "character": "Ben Dalton",
-        "photo": "https://image.tmdb.org/t/p/w500/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
-      },
-      {
-        "name": "Aisling Franciosi",
-        "character": "Ciara",
-        "photo": "https://image.tmdb.org/t/p/w500/g6qewxM4EEg02HUTLUw9KGkLdNj.jpg"
-      },
-      {
-        "name": "Alix West Lefler",
-        "character": "Agnes Dalton",
-        "photo": "https://image.tmdb.org/t/p/w500/eF3uyAlOjRmzero5b8xYukvu5Mr.jpg"
-      },
-      {
-        "name": "Dan Hough",
-        "character": "Ant",
-        "photo": "https://image.tmdb.org/t/p/w500/qn96uLnvqBdfWhaTWdax4HEFJP7.jpg"
-      },
-      {
-        "name": "Kris Hitchen",
-        "character": "Mike",
-        "photo": "https://image.tmdb.org/t/p/w500/7HBX75MKwwoiFnLFMS2YKtiPQIB.jpg"
-      },
-      {
-        "name": "Motaz Malhees",
-        "character": "Muhjid",
-        "photo": "https://image.tmdb.org/t/p/w500/zJpFeotJjnlCDzPJldh2HnCGWnJ.jpg"
-      },
-      {
-        "name": "Jakob Højlev Jørgensen",
-        "character": "Torsten",
-        "photo": "https://image.tmdb.org/t/p/w500/oz8OY5ptfZkISyU9Q0SR724mda2.jpg"
-      }
-    ],
-    "director": [
-      "James Watkins"
-    ]
+    }
   }
 }

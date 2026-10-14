@@ -18,58 +18,6 @@
           "rating": "4.5"
         }
       }
-    },
-    "cast": [
-      "Neil Napier",
-      "Sarah Booth",
-      "Hannah Kat Jones",
-      "Alastair James",
-      "Paula Jean Hixson",
-      "Kyle Cassie",
-      "Mike Huq",
-      "Luke Nugent"
-    ],
-    "app_cast": [
-      {
-        "name": "Neil Napier",
-        "character": "Truman",
-        "photo": "https://image.tmdb.org/t/p/w500/HlBLkxkiD4rVehF0RKkHSmmIKf.jpg"
-      },
-      {
-        "name": "Sarah Booth",
-        "character": "Jessica",
-        "photo": "https://image.tmdb.org/t/p/w500/iqV5z7tG3IWkBKi5J4J4xZgxYqP.jpg"
-      },
-      {
-        "name": "Hannah Kat Jones",
-        "character": "Angie",
-        "photo": "https://image.tmdb.org/t/p/w500/zEQJ0YW2RaAPDvip3UgzifELXVG.jpg"
-      },
-      {
-        "name": "Alastair James",
-        "character": "Richie"
-      },
-      {
-        "name": "Paula Jean Hixson",
-        "character": "Pamela",
-        "photo": "https://image.tmdb.org/t/p/w500/qPvq8vsg7Z27zhppoasR9Z7KGys.jpg"
-      },
-      {
-        "name": "Kyle Cassie",
-        "character": "Boyfriend Caller",
-        "photo": "https://image.tmdb.org/t/p/w500/A6zI4E7egTDVtRG32c7ihoywJGn.jpg"
-      },
-      {
-        "name": "Mike Huq",
-        "character": "Dr. Gerald Sanford"
-      },
-      {
-        "name": "Luke Nugent",
-        "character": "Radio DJ (voice)"
-      }
-    ],
-    "director": [
-      "Gavin Michael Booth"
-    ]
+    }
   }
 }

@@ -13,75 +13,6 @@
         "Suspense",
         "Crimen",
         "Acción"
-      ],
-      "cast": [
-        "Shun Oguri",
-        "Lily James",
-        "Gionna Daddio",
-        "Shotaro Mamiya",
-        "Shuhei Nomura",
-        "Nanase Nishino",
-        "Yuka Kouri",
-        "Takanori Iwata",
-        "Keisuke Watanabe",
-        "Hideo Nakano",
-        "Jun Murakami",
-        "Jun Kunimura"
-      ],
-      "app_cast": [
-        {
-          "name": "Shun Oguri",
-          "character": "Kyoji Yabuki",
-          "photo": "https://image.tmdb.org/t/p/w500/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
-        },
-        {
-          "name": "Lily James",
-          "character": "Nguyen",
-          "photo": "https://image.tmdb.org/t/p/w500/2w8tMEdCxBXB44X05RQDC2Kvbap.jpg"
-        },
-        {
-          "name": "Gionna Daddio",
-          "photo": "https://image.tmdb.org/t/p/w500/6SpJl3NvynORWDoyvofp10tBdRa.jpg"
-        },
-        {
-          "name": "Shotaro Mamiya",
-          "photo": "https://image.tmdb.org/t/p/w500/rTyurOXMTcSyLfjGxLZ1rDedyPt.jpg"
-        },
-        {
-          "name": "Shuhei Nomura",
-          "photo": "https://image.tmdb.org/t/p/w500/1PX4gI5Hgyli1ZCggNxuVd9IvZT.jpg"
-        },
-        {
-          "name": "Nanase Nishino",
-          "photo": "https://image.tmdb.org/t/p/w500/8Y3OFMBXPmbfn94QSrSEN64lE0F.jpg"
-        },
-        {
-          "name": "Yuka Kouri",
-          "photo": "https://image.tmdb.org/t/p/w500/uTKvkl3BYeiIPUvKfdL3QDaeM5.jpg"
-        },
-        {
-          "name": "Takanori Iwata",
-          "photo": "https://image.tmdb.org/t/p/w500/c4YQfIROreyJBLja3zzhZPrYTwi.jpg"
-        },
-        {
-          "name": "Keisuke Watanabe",
-          "photo": "https://image.tmdb.org/t/p/w500/6S69gUTZKmiFlFNS5VwxNm1u65Z.jpg"
-        },
-        {
-          "name": "Hideo Nakano",
-          "photo": "https://image.tmdb.org/t/p/w500/7MK9M0WlC5w184FAPMMzNdkH5MH.jpg"
-        },
-        {
-          "name": "Jun Murakami",
-          "photo": "https://image.tmdb.org/t/p/w500/hstEGNS7pF36C9p15zptpYczsed.jpg"
-        },
-        {
-          "name": "Jun Kunimura",
-          "photo": "https://image.tmdb.org/t/p/w500/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
-        }
-      ],
-      "director": [
-        "Takashi Miike"
       ]
     },
     {
@@ -96,37 +27,6 @@
       "genres": [
         "Comedia",
         "Drama"
-      ],
-      "cast": [
-        "Lindsey Normington",
-        "Samuel Sylvester",
-        "Nate Kohnen",
-        "Jo Scott"
-      ],
-      "app_cast": [
-        {
-          "name": "Lindsey Normington",
-          "character": "Sydney",
-          "photo": "https://image.tmdb.org/t/p/w500/2sEruLIIjLpyVAYHMSpraMPlFFb.jpg"
-        },
-        {
-          "name": "Samuel Sylvester",
-          "character": "Caleb",
-          "photo": "https://image.tmdb.org/t/p/w500/oaFPtJQ42mZDq6a9Sbb7PSmWPKm.jpg"
-        },
-        {
-          "name": "Nate Kohnen",
-          "character": "DJ",
-          "photo": "https://image.tmdb.org/t/p/w500/6BwiItZUB3pKYlyHoTiYrtLRjfx.jpg"
-        },
-        {
-          "name": "Jo Scott",
-          "character": "Ashtyn",
-          "photo": "https://image.tmdb.org/t/p/w500/t0vU2GvxBBuYsFeRPxfpzKWpdW0.jpg"
-        }
-      ],
-      "director": [
-        "Gregory Barnes"
       ]
     },
     {
@@ -149,86 +49,7 @@
             "rating": "6.1"
           }
         }
-      },
-      "cast": [
-        "Kristen Stewart",
-        "Alia Shawkat",
-        "LaKeith Stanfield",
-        "Zack Fox",
-        "Tony Hale",
-        "Chris Estrada",
-        "Thomas La Barbera Christensen",
-        "Thor Knai",
-        "Thomas Nicholson",
-        "Seth Rogen",
-        "Kumail Nanjiani",
-        "Kate McKinnon"
-      ],
-      "app_cast": [
-        {
-          "name": "Kristen Stewart",
-          "character": "Frankie / Frances",
-          "photo": "https://image.tmdb.org/t/p/w500/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
-        },
-        {
-          "name": "Alia Shawkat",
-          "character": "Molly",
-          "photo": "https://image.tmdb.org/t/p/w500/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg"
-        },
-        {
-          "name": "LaKeith Stanfield",
-          "character": "Not Metalhead Dave",
-          "photo": "https://image.tmdb.org/t/p/w500/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
-        },
-        {
-          "name": "Zack Fox",
-          "character": "Josh",
-          "photo": "https://image.tmdb.org/t/p/w500/dYAAoPXh2WSndYAFDd9kxtFZkHe.jpg"
-        },
-        {
-          "name": "Tony Hale",
-          "character": "Martin Flynn",
-          "photo": "https://image.tmdb.org/t/p/w500/3dEyZgTye0Ec17VGKp0mJ3aU6ty.jpg"
-        },
-        {
-          "name": "Chris Estrada",
-          "character": "Jose",
-          "photo": "https://image.tmdb.org/t/p/w500/aieoVVdLTMMFpXXkzJ8buqwiGkS.jpg"
-        },
-        {
-          "name": "Thomas La Barbera Christensen",
-          "character": "Axel",
-          "photo": "https://image.tmdb.org/t/p/w500/1ODOFBOYkR52d2dzN4t3NAs8TLF.jpg"
-        },
-        {
-          "name": "Thor Knai",
-          "character": "Dagmar",
-          "photo": "https://image.tmdb.org/t/p/w500/zndOn7faw9U7tVT5Vid2LIhFWGF.jpg"
-        },
-        {
-          "name": "Thomas Nicholson",
-          "character": "Fritz",
-          "photo": "https://image.tmdb.org/t/p/w500/pU1mvfa5f8k3qXT2rS3Xzy4KH6n.jpg"
-        },
-        {
-          "name": "Seth Rogen",
-          "character": "Dio (voice)",
-          "photo": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
-        },
-        {
-          "name": "Kumail Nanjiani",
-          "character": "GG (voice)",
-          "photo": "https://image.tmdb.org/t/p/w500/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg"
-        },
-        {
-          "name": "Kate McKinnon",
-          "character": "Dr. Olsen",
-          "photo": "https://image.tmdb.org/t/p/w500/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
-        }
-      ],
-      "director": [
-        "Dylan Meyer"
-      ]
+      }
     },
     {
       "id": "tt36629665",
@@ -250,85 +71,7 @@
             "rating": "5.4"
           }
         }
-      },
-      "cast": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "Shioli Kutsuna",
-        "Aoi Yamada",
-        "Dougray Scott",
-        "Diego Calva",
-        "Hidetoshi Nishijima",
-        "Lola Corfixen",
-        "Boy Ewald",
-        "Elin Rebecka Jivarp"
-      ],
-      "app_cast": [
-        {
-          "name": "Sophie Thatcher",
-          "character": "Elle",
-          "photo": "https://image.tmdb.org/t/p/w500/s7wB4ORCwPPz7H3dWVCNSAKQz9P.jpg"
-        },
-        {
-          "name": "Charles Melton",
-          "character": "Private K",
-          "photo": "https://image.tmdb.org/t/p/w500/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg"
-        },
-        {
-          "name": "Havana Rose Liu",
-          "character": "Dominique",
-          "photo": "https://image.tmdb.org/t/p/w500/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
-        },
-        {
-          "name": "Kristine Froseth",
-          "character": "Hunter",
-          "photo": "https://image.tmdb.org/t/p/w500/plgE7OleHgqZrdazFzbkv18UsRN.jpg"
-        },
-        {
-          "name": "Shioli Kutsuna",
-          "character": "Ms. T",
-          "photo": "https://image.tmdb.org/t/p/w500/5EdMbcRIemzLszjEr36Ic0Obmdb.jpg"
-        },
-        {
-          "name": "Aoi Yamada",
-          "character": "Ms. S",
-          "photo": "https://image.tmdb.org/t/p/w500/4VJzAyq9gZxUxdzk0u8bNwGkhDS.jpg"
-        },
-        {
-          "name": "Dougray Scott",
-          "character": "Johnny Thunders",
-          "photo": "https://image.tmdb.org/t/p/w500/fDjTHSZuUIEstxxBvHApLrU1fWz.jpg"
-        },
-        {
-          "name": "Diego Calva",
-          "character": "Nico",
-          "photo": "https://image.tmdb.org/t/p/w500/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
-        },
-        {
-          "name": "Hidetoshi Nishijima",
-          "character": "Hayashi",
-          "photo": "https://image.tmdb.org/t/p/w500/3FBdbeMMWfyKmHS5j8IECwsZWcY.jpg"
-        },
-        {
-          "name": "Lola Corfixen",
-          "character": "Candyfloss Girl",
-          "photo": "https://image.tmdb.org/t/p/w500/dqa3dXqPBH6Zl0Klyybbfks6PK.jpg"
-        },
-        {
-          "name": "Boy Ewald",
-          "character": "Candyfloss Girl",
-          "photo": "https://image.tmdb.org/t/p/w500/5GTY6sGarUQo1uILH1nYKVasvKg.jpg"
-        },
-        {
-          "name": "Elin Rebecka Jivarp",
-          "character": "Candyfloss Girl"
-        }
-      ],
-      "director": [
-        "Nicolas Winding Refn"
-      ]
+      }
     },
     {
       "id": "tt30827810",
@@ -350,86 +93,7 @@
             "rating": "6.2"
           }
         }
-      },
-      "cast": [
-        "Keke Palmer",
-        "Naomi Ackie",
-        "Taylour Paige",
-        "Poppy Liu",
-        "Eiza González",
-        "LaKeith Stanfield",
-        "Will Poulter",
-        "Don Cheadle",
-        "Demi Moore",
-        "Mahdi Cocci",
-        "Rachel Walters",
-        "Kara Young"
-      ],
-      "app_cast": [
-        {
-          "name": "Keke Palmer",
-          "character": "Corvette",
-          "photo": "https://image.tmdb.org/t/p/w500/x3eFVQVw4vOCJByLlkBnMMwEnG7.jpg"
-        },
-        {
-          "name": "Naomi Ackie",
-          "character": "Sade",
-          "photo": "https://image.tmdb.org/t/p/w500/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
-        },
-        {
-          "name": "Taylour Paige",
-          "character": "Mariah",
-          "photo": "https://image.tmdb.org/t/p/w500/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
-        },
-        {
-          "name": "Poppy Liu",
-          "character": "Jianhu",
-          "photo": "https://image.tmdb.org/t/p/w500/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
-        },
-        {
-          "name": "Eiza González",
-          "character": "Violeta",
-          "photo": "https://image.tmdb.org/t/p/w500/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
-        },
-        {
-          "name": "LaKeith Stanfield",
-          "character": "Pinky Ring Guy",
-          "photo": "https://image.tmdb.org/t/p/w500/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
-        },
-        {
-          "name": "Will Poulter",
-          "character": "Grayson",
-          "photo": "https://image.tmdb.org/t/p/w500/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
-        },
-        {
-          "name": "Don Cheadle",
-          "character": "Dr. Jack",
-          "photo": "https://image.tmdb.org/t/p/w500/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
-        },
-        {
-          "name": "Demi Moore",
-          "character": "Christie Smith",
-          "photo": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
-        },
-        {
-          "name": "Mahdi Cocci",
-          "character": "Designer Suit Dude",
-          "photo": "https://image.tmdb.org/t/p/w500/Aq3RpmXeJmetfjcdkVEh1uNWgpg.jpg"
-        },
-        {
-          "name": "Rachel Walters",
-          "character": "Stevie",
-          "photo": "https://image.tmdb.org/t/p/w500/6bdsX2kGXC4wKiTFj0sOoItX6k9.jpg"
-        },
-        {
-          "name": "Kara Young",
-          "character": "Crying Black Mother",
-          "photo": "https://image.tmdb.org/t/p/w500/x6a4q3V21TEWg8xsl5W4zM7H442.jpg"
-        }
-      ],
-      "director": [
-        "Boots Riley"
-      ]
+      }
     },
     {
       "id": "tt35327863",
@@ -441,51 +105,6 @@
       "releaseInfo": "2025",
       "genres": [
         "Drama"
-      ],
-      "cast": [
-        "Jayme Lawson",
-        "Lily McInerny",
-        "Charles Brice",
-        "Claire Banse",
-        "Amanda Lee Hawkins",
-        "George S. Copeland",
-        "Elliot Gagne"
-      ],
-      "app_cast": [
-        {
-          "name": "Jayme Lawson",
-          "character": "Lorraine",
-          "photo": "https://image.tmdb.org/t/p/w500/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
-        },
-        {
-          "name": "Lily McInerny",
-          "character": "Pharmacist",
-          "photo": "https://image.tmdb.org/t/p/w500/sVRD6yp1E4g2QLYKtZLbSxRSDXI.jpg"
-        },
-        {
-          "name": "Charles Brice",
-          "character": "Elijah",
-          "photo": "https://image.tmdb.org/t/p/w500/5nOWMA0RkOZ55d5ypcBKxpmUqV7.jpg"
-        },
-        {
-          "name": "Claire Banse",
-          "character": "Customer #1",
-          "photo": "https://image.tmdb.org/t/p/w500/sHgfTK7heerg7gDlxbJFlI9vCDg.jpg"
-        },
-        {
-          "name": "Amanda Lee Hawkins"
-        },
-        {
-          "name": "George S. Copeland",
-          "character": "Medical Agent"
-        },
-        {
-          "name": "Elliot Gagne",
-          "character": "Customer #2"
-        }
-      ],
-      "director": [
-        "Albert Pritchard"
       ]
     },
     {
@@ -506,85 +125,7 @@
             "rating": "6.3"
           }
         }
-      },
-      "cast": [
-        "Dakota Johnson",
-        "Adria Arjona",
-        "Kyle Marvin",
-        "Michael Angelo Covino",
-        "Nicholas Braun",
-        "David Castañeda",
-        "O-T Fagbenle",
-        "Charlie Gillespie",
-        "Simon Webster",
-        "Nahéma Ricci",
-        "Tyrone Benskin",
-        "Leo Hennely"
-      ],
-      "app_cast": [
-        {
-          "name": "Dakota Johnson",
-          "character": "Julie",
-          "photo": "https://image.tmdb.org/t/p/w500/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
-        },
-        {
-          "name": "Adria Arjona",
-          "character": "Ashley",
-          "photo": "https://image.tmdb.org/t/p/w500/gzrI92WZFANIBXOmXl3QGfb8Jak.jpg"
-        },
-        {
-          "name": "Kyle Marvin",
-          "character": "Carey",
-          "photo": "https://image.tmdb.org/t/p/w500/6i3BTrlNjsjZDIDMFnwMPcxzTiq.jpg"
-        },
-        {
-          "name": "Michael Angelo Covino",
-          "character": "Paul",
-          "photo": "https://image.tmdb.org/t/p/w500/2cqHckGHSyBSGojJyqRZPTlUDLB.jpg"
-        },
-        {
-          "name": "Nicholas Braun",
-          "character": "Matt",
-          "photo": "https://image.tmdb.org/t/p/w500/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
-        },
-        {
-          "name": "David Castañeda",
-          "character": "Fede",
-          "photo": "https://image.tmdb.org/t/p/w500/tJL5BxRPjs0kezIKzjJHUGPUVmi.jpg"
-        },
-        {
-          "name": "O-T Fagbenle",
-          "character": "Brent",
-          "photo": "https://image.tmdb.org/t/p/w500/baIiZBDYpYXfG4SlonbcqyYg6l.jpg"
-        },
-        {
-          "name": "Charlie Gillespie",
-          "character": "Jackson",
-          "photo": "https://image.tmdb.org/t/p/w500/wFNpaCIveZ5DXCCJhproXWdKlEi.jpg"
-        },
-        {
-          "name": "Simon Webster",
-          "character": "Russ",
-          "photo": "https://image.tmdb.org/t/p/w500/8K8D5ZQIb4fDSGxTKL2FVjFloWW.jpg"
-        },
-        {
-          "name": "Nahéma Ricci",
-          "character": "Antoneta",
-          "photo": "https://image.tmdb.org/t/p/w500/jILgpaqqM9mGHS3ioc8Of22BA7P.jpg"
-        },
-        {
-          "name": "Tyrone Benskin",
-          "character": "Dr. Ott",
-          "photo": "https://image.tmdb.org/t/p/w500/jJ4xLfwYsK2iDL1Ge8u2FvlKCb9.jpg"
-        },
-        {
-          "name": "Leo Hennely",
-          "character": "Connor"
-        }
-      ],
-      "director": [
-        "Michael Angelo Covino"
-      ]
+      }
     },
     {
       "id": "tt30319533",
@@ -604,82 +145,7 @@
             "rating": "5.6"
           }
         }
-      },
-      "cast": [
-        "John Early",
-        "Qaher Harhash",
-        "Theda Hammel",
-        "Amy Zimmer",
-        "Faheem Ali",
-        "John Roberts",
-        "Elizabeth Dement",
-        "Rebecca F. Wright",
-        "Tarek Ziad",
-        "Davidson Obennebo",
-        "Gordon Landenberger",
-        "Elias Abawi"
-      ],
-      "app_cast": [
-        {
-          "name": "John Early",
-          "character": "Terry Goon",
-          "photo": "https://image.tmdb.org/t/p/w500/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
-        },
-        {
-          "name": "Qaher Harhash",
-          "character": "Bahlul",
-          "photo": "https://image.tmdb.org/t/p/w500/uOQVlAkZtButNzbhQLy8oAt8beW.jpg"
-        },
-        {
-          "name": "Theda Hammel",
-          "character": "Karla",
-          "photo": "https://image.tmdb.org/t/p/w500/7w3T2kZhwx8F5n4Erc7aiBTp4fS.jpg"
-        },
-        {
-          "name": "Amy Zimmer",
-          "character": "Vanessa",
-          "photo": "https://image.tmdb.org/t/p/w500/shJLNOFfFcTUzLo87KEstzNkXVF.jpg"
-        },
-        {
-          "name": "Faheem Ali",
-          "character": "Ronald"
-        },
-        {
-          "name": "John Roberts",
-          "character": "Leo",
-          "photo": "https://image.tmdb.org/t/p/w500/s2cF0TVUTPWUaGKfM2ADZQdkypc.jpg"
-        },
-        {
-          "name": "Elizabeth Dement",
-          "character": "Abigail",
-          "photo": "https://image.tmdb.org/t/p/w500/hupd8zWdFpdWM9UbUeWf40YqvZ6.jpg"
-        },
-        {
-          "name": "Rebecca F. Wright",
-          "character": "Coco"
-        },
-        {
-          "name": "Tarek Ziad",
-          "character": "Tarek",
-          "photo": "https://image.tmdb.org/t/p/w500/6DXJOkoW0i7LoeHGSQIcRXJkJc2.jpg"
-        },
-        {
-          "name": "Davidson Obennebo",
-          "character": "Hamadou"
-        },
-        {
-          "name": "Gordon Landenberger",
-          "character": "Friendly Neighborhood Lunatic",
-          "photo": "https://image.tmdb.org/t/p/w500/5MT4ktHAv1IMzzvINdPvsqcbL5w.jpg"
-        },
-        {
-          "name": "Elias Abawi",
-          "character": "Lyft Driver"
-        }
-      ],
-      "director": [
-        "Theda Hammel"
-      ]
+      }
     },
     {
       "id": "tt18322912",
@@ -699,25 +165,7 @@
             "rating": "4.8"
           }
         }
-      },
-      "cast": [
-        "Jazmin Jones",
-        "Olivia McKayla Ross"
-      ],
-      "app_cast": [
-        {
-          "name": "Jazmin Jones",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/iuEshbodk4qZshAYZXL3vyU5goI.jpg"
-        },
-        {
-          "name": "Olivia McKayla Ross",
-          "character": "Self"
-        }
-      ],
-      "director": [
-        "Jazmin Jones"
-      ]
+      }
     },
     {
       "id": "tt33060102",
@@ -737,11 +185,7 @@
             "rating": "5.5"
           }
         }
-      },
-      "director": [
-        "Jen Gatien",
-        "Billy Corben"
-      ]
+      }
     },
     {
       "id": "tt12349832",
@@ -763,86 +207,7 @@
             "rating": "5.7"
           }
         }
-      },
-      "cast": [
-        "Hunter Schafer",
-        "Jan Bluthardt",
-        "Marton Csokas",
-        "Dan Stevens",
-        "Jessica Henwick",
-        "Mila Lieu",
-        "Greta Fernández",
-        "Proschat Madani",
-        "Àstrid Bergès-Frisbey",
-        "Konrad Singer",
-        "Kalin Morrow",
-        "Johannes Benecke"
-      ],
-      "app_cast": [
-        {
-          "name": "Hunter Schafer",
-          "character": "Gretchen",
-          "photo": "https://image.tmdb.org/t/p/w500/bYLRZOkrOvFBu2G6OTNNWRU4rfF.jpg"
-        },
-        {
-          "name": "Jan Bluthardt",
-          "character": "Henry",
-          "photo": "https://image.tmdb.org/t/p/w500/grUUQceuTTZawrlfXvJpDfGavr.jpg"
-        },
-        {
-          "name": "Marton Csokas",
-          "character": "Luis",
-          "photo": "https://image.tmdb.org/t/p/w500/gmeUY7FR0bFLdu7Ma5kvpH3Gt6B.jpg"
-        },
-        {
-          "name": "Dan Stevens",
-          "character": "Herr König",
-          "photo": "https://image.tmdb.org/t/p/w500/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
-        },
-        {
-          "name": "Jessica Henwick",
-          "character": "Beth",
-          "photo": "https://image.tmdb.org/t/p/w500/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg"
-        },
-        {
-          "name": "Mila Lieu",
-          "character": "Alma",
-          "photo": "https://image.tmdb.org/t/p/w500/19fxKbO5BFZuuESql9wFRXXyN9b.jpg"
-        },
-        {
-          "name": "Greta Fernández",
-          "character": "Trixie",
-          "photo": "https://image.tmdb.org/t/p/w500/iNZZThidLYeZGBZGi9qhsVA1YRd.jpg"
-        },
-        {
-          "name": "Proschat Madani",
-          "character": "Dr. Bonomo",
-          "photo": "https://image.tmdb.org/t/p/w500/eoFZ1H7hOt3NwQtQx8B6mFtNuOe.jpg"
-        },
-        {
-          "name": "Àstrid Bergès-Frisbey",
-          "character": "Ed",
-          "photo": "https://image.tmdb.org/t/p/w500/2mcTwrg61M7beQv05YQFPLWADmc.jpg"
-        },
-        {
-          "name": "Konrad Singer",
-          "character": "Erik",
-          "photo": "https://image.tmdb.org/t/p/w500/dEOTih3mbbrVdL0tHqXocsbfR4f.jpg"
-        },
-        {
-          "name": "Kalin Morrow",
-          "character": "Hooded Woman",
-          "photo": "https://image.tmdb.org/t/p/w500/n7QYn0ivhog7IzXHb5lKhQP6UOw.jpg"
-        },
-        {
-          "name": "Johannes Benecke",
-          "character": "Silent Cop",
-          "photo": "https://image.tmdb.org/t/p/w500/u5ltnKS3qcCavqZHlaSd7Is5kj2.jpg"
-        }
-      ],
-      "director": [
-        "Tilman Singer"
-      ]
+      }
     },
     {
       "id": "tt32144505",
@@ -862,20 +227,7 @@
             "rating": "6.1"
           }
         }
-      },
-      "cast": [
-        "Zach Avery"
-      ],
-      "app_cast": [
-        {
-          "name": "Zach Avery",
-          "character": "Self (archive footage)",
-          "photo": "https://image.tmdb.org/t/p/w500/rliG0wnsticXc5x5iHhUUauViSu.jpg"
-        }
-      ],
-      "director": [
-        "Joslyn Jensen"
-      ]
+      }
     },
     {
       "id": "tt15823728",
@@ -895,85 +247,7 @@
             "rating": "6.1"
           }
         }
-      },
-      "cast": [
-        "Andrew McCarthy",
-        "Emilio Estevez",
-        "Ally Sheedy",
-        "Demi Moore",
-        "Rob Lowe",
-        "Timothy Hutton",
-        "Lea Thompson",
-        "Jon Cryer",
-        "David Blum",
-        "Lauren Shuler Donner",
-        "Howard Deutch",
-        "Bret Easton Ellis"
-      ],
-      "app_cast": [
-        {
-          "name": "Andrew McCarthy",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
-        },
-        {
-          "name": "Emilio Estevez",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg"
-        },
-        {
-          "name": "Ally Sheedy",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/dV6eGZm2HNEN2sfa4abTa2QtwOH.jpg"
-        },
-        {
-          "name": "Demi Moore",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
-        },
-        {
-          "name": "Rob Lowe",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
-        },
-        {
-          "name": "Timothy Hutton",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/oWVtWGEauBs0zXrk0cWqiqYxJtN.jpg"
-        },
-        {
-          "name": "Lea Thompson",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
-        },
-        {
-          "name": "Jon Cryer",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
-        },
-        {
-          "name": "David Blum",
-          "character": "Self"
-        },
-        {
-          "name": "Lauren Shuler Donner",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/a0oY5BiS6ubJv3Mxh83XH8S4fH7.jpg"
-        },
-        {
-          "name": "Howard Deutch",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/9MOjJAkLZHET0IrKsV6ysUryfs7.jpg"
-        },
-        {
-          "name": "Bret Easton Ellis",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg"
-        }
-      ],
-      "director": [
-        "Andrew McCarthy"
-      ]
+      }
     },
     {
       "id": "tt22042346",
@@ -995,32 +269,7 @@
             "rating": "6.7"
           }
         }
-      },
-      "cast": [
-        "Samantha Morton",
-        "Naomi Ackie",
-        "Hector Hewer"
-      ],
-      "app_cast": [
-        {
-          "name": "Samantha Morton",
-          "character": "Ghost",
-          "photo": "https://image.tmdb.org/t/p/w500/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
-        },
-        {
-          "name": "Naomi Ackie",
-          "character": "Professor",
-          "photo": "https://image.tmdb.org/t/p/w500/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
-        },
-        {
-          "name": "Hector Hewer",
-          "character": "Jack",
-          "photo": "https://image.tmdb.org/t/p/w500/5po93d6H1qJutAvDZLkmPBDBTS4.jpg"
-        }
-      ],
-      "director": [
-        "Asif Kapadia"
-      ]
+      }
     },
     {
       "id": "tt15683734",
@@ -1041,82 +290,7 @@
             "rating": "5.7"
           }
         }
-      },
-      "cast": [
-        "Megan Suri",
-        "Neeru Bajwa",
-        "Mohana Krishnan",
-        "Betty Gabriel",
-        "Vik Sahay",
-        "Gage Marsh",
-        "Beatrice Kitsos",
-        "Jamie Ives",
-        "Siddhartha Minhas",
-        "Saisha Ram Muni",
-        "Sangeeta Wylie",
-        "Jenaya Ross"
-      ],
-      "app_cast": [
-        {
-          "name": "Megan Suri",
-          "character": "Samidha",
-          "photo": "https://image.tmdb.org/t/p/w500/krZBtMPTqVvteqYFXbAU6nnQShy.jpg"
-        },
-        {
-          "name": "Neeru Bajwa",
-          "character": "Poorna",
-          "photo": "https://image.tmdb.org/t/p/w500/8WmLolNEPl2mq0JxTUi6Opzwk8c.jpg"
-        },
-        {
-          "name": "Mohana Krishnan",
-          "character": "Tamira",
-          "photo": "https://image.tmdb.org/t/p/w500/4utuJbEgmnbQdFmoRQg3Dsk14LF.jpg"
-        },
-        {
-          "name": "Betty Gabriel",
-          "character": "Joyce",
-          "photo": "https://image.tmdb.org/t/p/w500/n67i3H3VM5quDQfcS591EbotPby.jpg"
-        },
-        {
-          "name": "Vik Sahay",
-          "character": "Inesh",
-          "photo": "https://image.tmdb.org/t/p/w500/690bPfmzaXsrZ1eDcUOCDT5TPpq.jpg"
-        },
-        {
-          "name": "Gage Marsh",
-          "character": "Russ",
-          "photo": "https://image.tmdb.org/t/p/w500/b1vbDF6CUcdB2XKtafqWzaAo2Gm.jpg"
-        },
-        {
-          "name": "Beatrice Kitsos",
-          "character": "Kittie",
-          "photo": "https://image.tmdb.org/t/p/w500/t5EuKpi4h0Kt00vi7c3I4gpdUzn.jpg"
-        },
-        {
-          "name": "Jamie Ives",
-          "character": "Older Neighbor"
-        },
-        {
-          "name": "Siddhartha Minhas",
-          "character": "Karan"
-        },
-        {
-          "name": "Saisha Ram Muni",
-          "character": "Young Tamira"
-        },
-        {
-          "name": "Sangeeta Wylie",
-          "character": "Radha Avasthi",
-          "photo": "https://image.tmdb.org/t/p/w500/hMxFBCuS1TBdMlWXERS7uEJ7C10.jpg"
-        },
-        {
-          "name": "Jenaya Ross",
-          "character": "The Pishach"
-        }
-      ],
-      "director": [
-        "Bishal Dutta"
-      ]
+      }
     },
     {
       "id": "tt10365998",
@@ -1138,86 +312,7 @@
             "rating": "6.0"
           }
         }
-      },
-      "cast": [
-        "Alexander Skarsgård",
-        "Mia Goth",
-        "Cleopatra Coleman",
-        "Jalil Lespert",
-        "Adam Boncz",
-        "Amanda Brugel",
-        "John Ralston",
-        "Jeff Ricketts",
-        "Caroline Boulton",
-        "Thomas Kretschmann",
-        "Roderick Hill",
-        "Alan Katić"
-      ],
-      "app_cast": [
-        {
-          "name": "Alexander Skarsgård",
-          "character": "James Foster",
-          "photo": "https://image.tmdb.org/t/p/w500/6VNNddrSrIVgdzhXr4Zg89gmOzY.jpg"
-        },
-        {
-          "name": "Mia Goth",
-          "character": "Gabi Bauer",
-          "photo": "https://image.tmdb.org/t/p/w500/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
-        },
-        {
-          "name": "Cleopatra Coleman",
-          "character": "Em Foster",
-          "photo": "https://image.tmdb.org/t/p/w500/vA0KiqXasmcvjafImY4hwoxYe8d.jpg"
-        },
-        {
-          "name": "Jalil Lespert",
-          "character": "Alban Bauer",
-          "photo": "https://image.tmdb.org/t/p/w500/lvHoQZBYLV33KDoog9Xt30GtaOy.jpg"
-        },
-        {
-          "name": "Adam Boncz",
-          "character": "Ketch",
-          "photo": "https://image.tmdb.org/t/p/w500/8cMRKTy1Pem0LppqhtcSX8pWSbp.jpg"
-        },
-        {
-          "name": "Amanda Brugel",
-          "character": "Jennifer",
-          "photo": "https://image.tmdb.org/t/p/w500/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
-        },
-        {
-          "name": "John Ralston",
-          "character": "Dr. Modan",
-          "photo": "https://image.tmdb.org/t/p/w500/f89otIIkQaqeB1oEoN0l7XWp26n.jpg"
-        },
-        {
-          "name": "Jeff Ricketts",
-          "character": "Charles",
-          "photo": "https://image.tmdb.org/t/p/w500/khiwfKygqFILzpvUNlu55EqQjFm.jpg"
-        },
-        {
-          "name": "Caroline Boulton",
-          "character": "Bex",
-          "photo": "https://image.tmdb.org/t/p/w500/uhHGWMZOxgBLx2nUWQODBKUvas6.jpg"
-        },
-        {
-          "name": "Thomas Kretschmann",
-          "character": "Thresh",
-          "photo": "https://image.tmdb.org/t/p/w500/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
-        },
-        {
-          "name": "Roderick Hill",
-          "character": "Angry Guest",
-          "photo": "https://image.tmdb.org/t/p/w500/eYvRKXAZEIjkSyHTVG4WBXfbw1V.jpg"
-        },
-        {
-          "name": "Alan Katić",
-          "character": "State Police Officer",
-          "photo": "https://image.tmdb.org/t/p/w500/lqMELfK53zirMhbMFVDrSJMis4z.jpg"
-        }
-      ],
-      "director": [
-        "Brandon Cronenberg"
-      ]
+      }
     },
     {
       "id": "tt14549466",
@@ -1239,86 +334,7 @@
             "rating": "6.0"
           }
         }
-      },
-      "cast": [
-        "Viggo Mortensen",
-        "Léa Seydoux",
-        "Scott Speedman",
-        "Kristen Stewart",
-        "Welket Bungué",
-        "Don McKellar",
-        "Tanaya Beatty",
-        "Nadia Litz",
-        "Lihi Kornowski",
-        "Denise Capezza",
-        "Efi Kantza",
-        "Jason Bitter"
-      ],
-      "app_cast": [
-        {
-          "name": "Viggo Mortensen",
-          "character": "Saul Tenser",
-          "photo": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
-        },
-        {
-          "name": "Léa Seydoux",
-          "character": "Caprice",
-          "photo": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
-        },
-        {
-          "name": "Scott Speedman",
-          "character": "Lang Dotrice",
-          "photo": "https://image.tmdb.org/t/p/w500/tGgD96WOhmuQU4e6ZTU5IEx4W9E.jpg"
-        },
-        {
-          "name": "Kristen Stewart",
-          "character": "Timlin",
-          "photo": "https://image.tmdb.org/t/p/w500/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
-        },
-        {
-          "name": "Welket Bungué",
-          "character": "Cope",
-          "photo": "https://image.tmdb.org/t/p/w500/91GlmzrJyhaBscr4IqVUrnRueGS.jpg"
-        },
-        {
-          "name": "Don McKellar",
-          "character": "Wippet",
-          "photo": "https://image.tmdb.org/t/p/w500/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
-        },
-        {
-          "name": "Tanaya Beatty",
-          "character": "Berst",
-          "photo": "https://image.tmdb.org/t/p/w500/nQQd9rpMxYM2MshYlOSV0PfffPP.jpg"
-        },
-        {
-          "name": "Nadia Litz",
-          "character": "Router",
-          "photo": "https://image.tmdb.org/t/p/w500/xGQMMQbK4PvoK6cYJcRF8Iqe26.jpg"
-        },
-        {
-          "name": "Lihi Kornowski",
-          "character": "Djuna",
-          "photo": "https://image.tmdb.org/t/p/w500/eoGX371lNeoxRPL7d4mBi5bMVYR.jpg"
-        },
-        {
-          "name": "Denise Capezza",
-          "character": "Odile",
-          "photo": "https://image.tmdb.org/t/p/w500/9QZ6QFglu6UNBQTalK83Cp5vocA.jpg"
-        },
-        {
-          "name": "Efi Kantza",
-          "character": "Adrienne Berceau",
-          "photo": "https://image.tmdb.org/t/p/w500/uc2GdkLOPaSwydNAtk2G9ethi5f.jpg"
-        },
-        {
-          "name": "Jason Bitter",
-          "character": "Tarr",
-          "photo": "https://image.tmdb.org/t/p/w500/ldxEvLzNYx7q49hi04qGLfuGU0l.jpg"
-        }
-      ],
-      "director": [
-        "David Cronenberg"
-      ]
+      }
     },
     {
       "id": "tt13065386",
@@ -1338,38 +354,7 @@
             "rating": "6.7"
           }
         }
-      },
-      "cast": [
-        "Alex Gibney",
-        "Scott Becker",
-        "Taison Bell",
-        "Michael Bowen"
-      ],
-      "app_cast": [
-        {
-          "name": "Alex Gibney",
-          "character": "Narrator (voice)",
-          "photo": "https://image.tmdb.org/t/p/w500/i66xSiaYwo9lgjIZwglrc2bYUG7.jpg"
-        },
-        {
-          "name": "Scott Becker",
-          "character": "Self"
-        },
-        {
-          "name": "Taison Bell",
-          "character": "Self"
-        },
-        {
-          "name": "Michael Bowen",
-          "character": "Self",
-          "photo": "https://image.tmdb.org/t/p/w500/dYIzQQ4yozTIlpqJbmDkSyDd86C.jpg"
-        }
-      ],
-      "director": [
-        "Alex Gibney",
-        "Ophelia Harutyunyan",
-        "Suzanne Hillinger"
-      ]
+      }
     },
     {
       "id": "tt14773990",
@@ -1391,78 +376,7 @@
             "rating": "6.4"
           }
         }
-      },
-      "cast": [
-        "Mokarameh Saidi Balsini",
-        "Tahereh Saidi Balsini",
-        "Solmaz Panahi",
-        "Jafar Panahi",
-        "Igi",
-        "Zhou Dongyu",
-        "Zhang Yu",
-        "Zhang Yanbo",
-        "Qian Youfa",
-        "Wang Fengjuan",
-        "Zhang Guangfa",
-        "Chen Jian"
-      ],
-      "app_cast": [
-        {
-          "name": "Mokarameh Saidi Balsini"
-        },
-        {
-          "name": "Tahereh Saidi Balsini"
-        },
-        {
-          "name": "Solmaz Panahi",
-          "photo": "https://image.tmdb.org/t/p/w500/qtJhptG9cTWD0peiuYRvimuxfdT.jpg"
-        },
-        {
-          "name": "Jafar Panahi",
-          "photo": "https://image.tmdb.org/t/p/w500/viZZkkfcuWze68bvUiMZmYZe8Qg.jpg"
-        },
-        {
-          "name": "Igi"
-        },
-        {
-          "name": "Zhou Dongyu",
-          "photo": "https://image.tmdb.org/t/p/w500/vD2vVvIIx8ygzkhUQZJLkvYT1jr.jpg"
-        },
-        {
-          "name": "Zhang Yu",
-          "photo": "https://image.tmdb.org/t/p/w500/5l3SI2RKP9bbX6MkTqnCjdYRVip.jpg"
-        },
-        {
-          "name": "Zhang Yanbo",
-          "character": "Xiaohao"
-        },
-        {
-          "name": "Qian Youfa",
-          "character": "Grandpa",
-          "photo": "https://image.tmdb.org/t/p/w500/uSJWzE8XvrDRzskyeUx6lCCLVAP.jpg"
-        },
-        {
-          "name": "Wang Fengjuan",
-          "character": "Grandaunt (voice)"
-        },
-        {
-          "name": "Zhang Guangfa",
-          "character": "Smoker"
-        },
-        {
-          "name": "Chen Jian",
-          "photo": "https://image.tmdb.org/t/p/w500/4K8DXpbVPyJAbeK60r165tuEDYL.jpg"
-        }
-      ],
-      "director": [
-        "Apichatpong Weerasethakul",
-        "Malik Vitthal",
-        "Anthony Chen",
-        "Jafar Panahi",
-        "Laura Poitras",
-        "Dominga Sotomayor",
-        "David Lowery"
-      ]
+      }
     },
     {
       "id": "tt14946262",
@@ -1483,32 +397,7 @@
             "rating": "6.3"
           }
         }
-      },
-      "cast": [
-        "Tom Mercier",
-        "Noah Lapid Preis",
-        "Naama Preis",
-        "Noa Har-Zion"
-      ],
-      "app_cast": [
-        {
-          "name": "Tom Mercier",
-          "photo": "https://image.tmdb.org/t/p/w500/hwU0bQ6bVyzwbOURKKEqmC5wbTJ.jpg"
-        },
-        {
-          "name": "Noah Lapid Preis"
-        },
-        {
-          "name": "Naama Preis",
-          "photo": "https://image.tmdb.org/t/p/w500/a9AxjvPELckTlZeCkk4YCQXHmOY.jpg"
-        },
-        {
-          "name": "Noa Har-Zion"
-        }
-      ],
-      "director": [
-        "Nadav Lapid"
-      ]
+      }
     },
     {
       "id": "tt13429362",
@@ -1530,50 +419,7 @@
             "rating": "5.6"
           }
         }
-      },
-      "cast": [
-        "Joel Fry",
-        "Ellora Torchia",
-        "Hayley Squires",
-        "Reece Shearsmith",
-        "John Hollingworth",
-        "Mark Monero"
-      ],
-      "app_cast": [
-        {
-          "name": "Joel Fry",
-          "character": "Dr. Martin Lowery",
-          "photo": "https://image.tmdb.org/t/p/w500/tk6RncU1WEvjpeU1hog9cFsjMRC.jpg"
-        },
-        {
-          "name": "Ellora Torchia",
-          "character": "Alma",
-          "photo": "https://image.tmdb.org/t/p/w500/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
-        },
-        {
-          "name": "Hayley Squires",
-          "character": "Dr. Olivia Wendle",
-          "photo": "https://image.tmdb.org/t/p/w500/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
-        },
-        {
-          "name": "Reece Shearsmith",
-          "character": "Zach Whitehead",
-          "photo": "https://image.tmdb.org/t/p/w500/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg"
-        },
-        {
-          "name": "John Hollingworth",
-          "character": "Lord James Karel",
-          "photo": "https://image.tmdb.org/t/p/w500/7aT6wgl1xYfBHtW2q3oADUuAwMM.jpg"
-        },
-        {
-          "name": "Mark Monero",
-          "character": "Dr. Frank Jarrek",
-          "photo": "https://image.tmdb.org/t/p/w500/pfCEeqdFyfMm2Mo2Qkn7aBhzzUP.jpg"
-        }
-      ],
-      "director": [
-        "Ben Wheatley"
-      ]
+      }
     }
   ],
   "cacheMaxAge": 86400,

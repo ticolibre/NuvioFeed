@@ -18,31 +18,6 @@
           "rating": "6.4"
         }
       }
-    },
-    "cast": [
-      "Mark Duplass",
-      "Patrick Brice",
-      "Katie Aselton"
-    ],
-    "app_cast": [
-      {
-        "name": "Mark Duplass",
-        "character": "Josef",
-        "photo": "https://image.tmdb.org/t/p/w500/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
-      },
-      {
-        "name": "Patrick Brice",
-        "character": "Aaron Franklin",
-        "photo": "https://image.tmdb.org/t/p/w500/8Jf2hG2L0vjvS1SFHI9NO7spbQU.jpg"
-      },
-      {
-        "name": "Katie Aselton",
-        "character": "Angela (voice)",
-        "photo": "https://image.tmdb.org/t/p/w500/84sto9pOvYMOMPYmHsYhIzM1qT5.jpg"
-      }
-    ],
-    "director": [
-      "Patrick Brice"
-    ]
+    }
   }
 }

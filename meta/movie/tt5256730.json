@@ -17,55 +17,6 @@
           "rating": "8.0"
         }
       }
-    },
-    "cast": [
-      "Jeremy Renner",
-      "Sam Elliott",
-      "Jerry Rice",
-      "Joe Montana",
-      "Jerry Jones",
-      "Troy Aikman",
-      "Eddie DeBartolo"
-    ],
-    "app_cast": [
-      {
-        "name": "Jeremy Renner",
-        "character": "Narrator (voice)",
-        "photo": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
-      },
-      {
-        "name": "Sam Elliott",
-        "character": "Narrator (voice)",
-        "photo": "https://image.tmdb.org/t/p/w500/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg"
-      },
-      {
-        "name": "Jerry Rice",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/tg8CjUrx1nBz9w8wHRxIfu71c0o.jpg"
-      },
-      {
-        "name": "Joe Montana",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/yhnpTtBiWCHB0SxeJ9HYLJ4Tc2E.jpg"
-      },
-      {
-        "name": "Jerry Jones",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/w1rqw09iWSJtPlXGVSE2ZC0E0zg.jpg"
-      },
-      {
-        "name": "Troy Aikman",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/dmeTDdaGYCDrH0NNyw1GWU3xCzx.jpg"
-      },
-      {
-        "name": "Eddie DeBartolo",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/6elbbYgNq43OmC6FwjaKmr1J5a3.jpg"
-      }
-    ],
-    "director": [
-      "FredAnthony Smith"
-    ]
+    }
   }
 }

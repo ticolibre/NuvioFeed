@@ -18,67 +18,6 @@
           "rating": "6.4"
         }
       }
-    },
-    "cast": [
-      "Stefanie Estes",
-      "Olivia Luccardi",
-      "Eleanore Pienta",
-      "Dana Millican",
-      "Melissa Paulo",
-      "Jon Beavers",
-      "Cissy Ly",
-      "Rebekah Wiggins",
-      "Shannon Mahoney"
-    ],
-    "app_cast": [
-      {
-        "name": "Stefanie Estes",
-        "character": "Emily",
-        "photo": "https://image.tmdb.org/t/p/w500/bUFP73gjmznNmgyWUNh5VZBEthA.jpg"
-      },
-      {
-        "name": "Olivia Luccardi",
-        "character": "Leslie",
-        "photo": "https://image.tmdb.org/t/p/w500/ziFOKDl9PPPteadAPkcyR3etcjq.jpg"
-      },
-      {
-        "name": "Eleanore Pienta",
-        "character": "Marjorie",
-        "photo": "https://image.tmdb.org/t/p/w500/r4V041YmXB7jctgl1c6DPL7PdsC.jpg"
-      },
-      {
-        "name": "Dana Millican",
-        "character": "Kim",
-        "photo": "https://image.tmdb.org/t/p/w500/kCyjkofNLRX3DROc6lSqE1e4Hmb.jpg"
-      },
-      {
-        "name": "Melissa Paulo",
-        "character": "Anne",
-        "photo": "https://image.tmdb.org/t/p/w500/eUogfme2YP4y6QBzNtZ3KReWRG6.jpg"
-      },
-      {
-        "name": "Jon Beavers",
-        "character": "Craig",
-        "photo": "https://image.tmdb.org/t/p/w500/kUrejsnBmD5eUSm4ftapOiFUqML.jpg"
-      },
-      {
-        "name": "Cissy Ly",
-        "character": "Lily",
-        "photo": "https://image.tmdb.org/t/p/w500/iwMLCGVJyjJvg9Gqn1epJboqFlI.jpg"
-      },
-      {
-        "name": "Rebekah Wiggins",
-        "character": "Alice",
-        "photo": "https://image.tmdb.org/t/p/w500/bvdfj5BCIhLss2QWmoTX8KNEmPx.jpg"
-      },
-      {
-        "name": "Shannon Mahoney",
-        "character": "Jessica",
-        "photo": "https://image.tmdb.org/t/p/w500/hurRv4kMjbh8p8hZZZ2NCz0vxmD.jpg"
-      }
-    ],
-    "director": [
-      "Beth de Araújo"
-    ]
+    }
   }
 }

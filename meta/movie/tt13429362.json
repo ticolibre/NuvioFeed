@@ -19,49 +19,6 @@
           "rating": "5.6"
         }
       }
-    },
-    "cast": [
-      "Joel Fry",
-      "Ellora Torchia",
-      "Hayley Squires",
-      "Reece Shearsmith",
-      "John Hollingworth",
-      "Mark Monero"
-    ],
-    "app_cast": [
-      {
-        "name": "Joel Fry",
-        "character": "Dr. Martin Lowery",
-        "photo": "https://image.tmdb.org/t/p/w500/tk6RncU1WEvjpeU1hog9cFsjMRC.jpg"
-      },
-      {
-        "name": "Ellora Torchia",
-        "character": "Alma",
-        "photo": "https://image.tmdb.org/t/p/w500/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
-      },
-      {
-        "name": "Hayley Squires",
-        "character": "Dr. Olivia Wendle",
-        "photo": "https://image.tmdb.org/t/p/w500/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
-      },
-      {
-        "name": "Reece Shearsmith",
-        "character": "Zach Whitehead",
-        "photo": "https://image.tmdb.org/t/p/w500/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg"
-      },
-      {
-        "name": "John Hollingworth",
-        "character": "Lord James Karel",
-        "photo": "https://image.tmdb.org/t/p/w500/7aT6wgl1xYfBHtW2q3oADUuAwMM.jpg"
-      },
-      {
-        "name": "Mark Monero",
-        "character": "Dr. Frank Jarrek",
-        "photo": "https://image.tmdb.org/t/p/w500/pfCEeqdFyfMm2Mo2Qkn7aBhzzUP.jpg"
-      }
-    ],
-    "director": [
-      "Ben Wheatley"
-    ]
+    }
   }
 }

@@ -18,53 +18,6 @@
           "rating": "6.3"
         }
       }
-    },
-    "cast": [
-      "Mark Duplass",
-      "Desiree Akhavan",
-      "Karan Soni",
-      "Kyle Field",
-      "Caveh Zahedi",
-      "Jeff Man",
-      "Patrick Brice"
-    ],
-    "app_cast": [
-      {
-        "name": "Mark Duplass",
-        "character": "Aaron",
-        "photo": "https://image.tmdb.org/t/p/w500/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
-      },
-      {
-        "name": "Desiree Akhavan",
-        "character": "Sara",
-        "photo": "https://image.tmdb.org/t/p/w500/xus5HH2qSyrP5SNK6516LVajg6.jpg"
-      },
-      {
-        "name": "Karan Soni",
-        "character": "Dave",
-        "photo": "https://image.tmdb.org/t/p/w500/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
-      },
-      {
-        "name": "Kyle Field",
-        "character": "Wade"
-      },
-      {
-        "name": "Caveh Zahedi",
-        "character": "Randy",
-        "photo": "https://image.tmdb.org/t/p/w500/lT0XuaVmnAIx9JY30giirlKOTBn.jpg"
-      },
-      {
-        "name": "Jeff Man",
-        "character": "Alex"
-      },
-      {
-        "name": "Patrick Brice",
-        "character": "Old Aaron",
-        "photo": "https://image.tmdb.org/t/p/w500/8Jf2hG2L0vjvS1SFHI9NO7spbQU.jpg"
-      }
-    ],
-    "director": [
-      "Patrick Brice"
-    ]
+    }
   }
 }

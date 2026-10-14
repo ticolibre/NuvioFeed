@@ -19,61 +19,6 @@
           "rating": "6.1"
         }
       }
-    },
-    "cast": [
-      "Amandla Stenberg",
-      "Maria Bakalova",
-      "Myha'la",
-      "Rachel Sennott",
-      "Chase Sui Wonders",
-      "Pete Davidson",
-      "Lee Pace",
-      "Conner O'Malley"
-    ],
-    "app_cast": [
-      {
-        "name": "Amandla Stenberg",
-        "character": "Sophie",
-        "photo": "https://image.tmdb.org/t/p/w500/dGqTcwLVoVOqU6Ckp8igV3wD0CW.jpg"
-      },
-      {
-        "name": "Maria Bakalova",
-        "character": "Bee",
-        "photo": "https://image.tmdb.org/t/p/w500/vCz0ycZr1PgJVOAeS29fIiZE8pN.jpg"
-      },
-      {
-        "name": "Myha'la",
-        "character": "Jordan",
-        "photo": "https://image.tmdb.org/t/p/w500/hRc3igngt5dkpM08i0a3z7gkYWa.jpg"
-      },
-      {
-        "name": "Rachel Sennott",
-        "character": "Alice",
-        "photo": "https://image.tmdb.org/t/p/w500/zvx8lP4p3gvijQLg235e3xjxrFG.jpg"
-      },
-      {
-        "name": "Chase Sui Wonders",
-        "character": "Emma",
-        "photo": "https://image.tmdb.org/t/p/w500/7oSUT3Zn1srv0VsGquSaWQ5F8ce.jpg"
-      },
-      {
-        "name": "Pete Davidson",
-        "character": "David",
-        "photo": "https://image.tmdb.org/t/p/w500/f3kubnZu3KgMniExcq9nJy8RwjW.jpg"
-      },
-      {
-        "name": "Lee Pace",
-        "character": "Greg",
-        "photo": "https://image.tmdb.org/t/p/w500/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
-      },
-      {
-        "name": "Conner O'Malley",
-        "character": "Max",
-        "photo": "https://image.tmdb.org/t/p/w500/fawKUZzyxv7MJRA2kcJ2C8Tp2Hk.jpg"
-      }
-    ],
-    "director": [
-      "Halina Reijn"
-    ]
+    }
   }
 }

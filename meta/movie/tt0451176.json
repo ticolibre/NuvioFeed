@@ -17,62 +17,6 @@
           "rating": "6.3"
         }
       }
-    },
-    "cast": [
-      "Emily Rios",
-      "Jesse Garcia",
-      "Chalo González",
-      "David W. Ross",
-      "Jason L. Wood",
-      "Ramiro Iniguez",
-      "Araceli Guzman-Rico",
-      "Jesus Castanos",
-      "Johnny Chavez"
-    ],
-    "app_cast": [
-      {
-        "name": "Emily Rios",
-        "character": "Magdalena",
-        "photo": "https://image.tmdb.org/t/p/w500/h8d9eg0wpyXcvJlunpZklh2asVY.jpg"
-      },
-      {
-        "name": "Jesse Garcia",
-        "character": "Carlos",
-        "photo": "https://image.tmdb.org/t/p/w500/eyPXWMPoJATwiOW40uJ8Kk1irM7.jpg"
-      },
-      {
-        "name": "Chalo González",
-        "character": "Tio Tomas Alvarez",
-        "photo": "https://image.tmdb.org/t/p/w500/2HN6BSPoymSDwC5ctHwZ4BoNTw8.jpg"
-      },
-      {
-        "name": "David W. Ross",
-        "character": "Gary",
-        "photo": "https://image.tmdb.org/t/p/w500/zaAyPMcVyShEprnMTe26HDBvpVl.jpg"
-      },
-      {
-        "name": "Jason L. Wood",
-        "character": "James"
-      },
-      {
-        "name": "Ramiro Iniguez"
-      },
-      {
-        "name": "Araceli Guzman-Rico",
-        "character": "Maria",
-        "photo": "https://image.tmdb.org/t/p/w500/aqZnyISUUsWNkXLdoLCON0eR6ki.jpg"
-      },
-      {
-        "name": "Jesus Castanos"
-      },
-      {
-        "name": "Johnny Chavez",
-        "character": "Uncle Walter"
-      }
-    ],
-    "director": [
-      "Richard Glatzer",
-      "Wash Westmoreland"
-    ]
+    }
   }
 }

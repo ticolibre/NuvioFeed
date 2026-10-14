@@ -18,43 +18,6 @@
           "rating": "6.7"
         }
       }
-    },
-    "cast": [
-      "John Gallagher Jr.",
-      "Kate Siegel",
-      "Michael Trucco",
-      "Samantha Sloyan",
-      "Emma Graves"
-    ],
-    "app_cast": [
-      {
-        "name": "John Gallagher Jr.",
-        "character": "The Man",
-        "photo": "https://image.tmdb.org/t/p/w500/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg"
-      },
-      {
-        "name": "Kate Siegel",
-        "character": "Maddie",
-        "photo": "https://image.tmdb.org/t/p/w500/jJJGmVKvMFHMJEwyfiHgxXEFePO.jpg"
-      },
-      {
-        "name": "Michael Trucco",
-        "character": "John",
-        "photo": "https://image.tmdb.org/t/p/w500/qOA3cT2Gsmm9M6URoU4Ykynx2Oc.jpg"
-      },
-      {
-        "name": "Samantha Sloyan",
-        "character": "Sarah",
-        "photo": "https://image.tmdb.org/t/p/w500/iI6mYgxrQSwphBJdfwYN3vB6oS2.jpg"
-      },
-      {
-        "name": "Emma Graves",
-        "character": "Max",
-        "photo": "https://image.tmdb.org/t/p/w500/3a93BgglFIIPQc9VekxLVLAZ57z.jpg"
-      }
-    ],
-    "director": [
-      "Mike Flanagan"
-    ]
+    }
   }
 }

@@ -17,49 +17,6 @@
           "rating": "10.0"
         }
       }
-    },
-    "cast": [
-      "Austin Abrams",
-      "Josh Brolin",
-      "Elisabeth Shue",
-      "John Ortiz",
-      "Jane Levy",
-      "Emily Rudd"
-    ],
-    "app_cast": [
-      {
-        "name": "Austin Abrams",
-        "character": "Jay Gardiner",
-        "photo": "https://image.tmdb.org/t/p/w500/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
-      },
-      {
-        "name": "Josh Brolin",
-        "character": "Mitt Gardiner",
-        "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
-      },
-      {
-        "name": "Elisabeth Shue",
-        "character": "Zara Gardiner",
-        "photo": "https://image.tmdb.org/t/p/w500/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
-      },
-      {
-        "name": "John Ortiz",
-        "character": "Hewey",
-        "photo": "https://image.tmdb.org/t/p/w500/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg"
-      },
-      {
-        "name": "Jane Levy",
-        "character": "Eva Gardiner",
-        "photo": "https://image.tmdb.org/t/p/w500/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
-      },
-      {
-        "name": "Emily Rudd",
-        "character": "Nan Gardiner",
-        "photo": "https://image.tmdb.org/t/p/w500/vVl4ABlqUuh5n1M2B9AOOa9r6kV.jpg"
-      }
-    ],
-    "director": [
-      "Brian Duffield"
-    ]
+    }
   }
 }

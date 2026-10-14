@@ -17,67 +17,6 @@
           "rating": "6.8"
         }
       }
-    },
-    "cast": [
-      "Loretta Young",
-      "John Boles",
-      "Dorothy Wilson",
-      "Muriel Kirkland",
-      "Astrid Allwyn",
-      "Frank Conroy",
-      "Jane Darwell",
-      "Sara Haden",
-      "Joyce Compton"
-    ],
-    "app_cast": [
-      {
-        "name": "Loretta Young",
-        "character": "June Arden",
-        "photo": "https://image.tmdb.org/t/p/w500/vtpGjZpAK88rTTi9Y7VLGpMyt6m.jpg"
-      },
-      {
-        "name": "John Boles",
-        "character": "Ronald Hall III",
-        "photo": "https://image.tmdb.org/t/p/w500/eVu8Tzdi3UYrCApUW221CSXoAHt.jpg"
-      },
-      {
-        "name": "Dorothy Wilson",
-        "character": "Zita Scofield",
-        "photo": "https://image.tmdb.org/t/p/w500/zmc78TydYV3ts1EfK0zRKnIzUfN.jpg"
-      },
-      {
-        "name": "Muriel Kirkland",
-        "character": "Glenda Farley",
-        "photo": "https://image.tmdb.org/t/p/w500/nxPhKeG2I8SijJ47Q53KmxLwYYG.jpg"
-      },
-      {
-        "name": "Astrid Allwyn",
-        "character": "Gertrude Mack",
-        "photo": "https://image.tmdb.org/t/p/w500/A8ncjTYPkOnA9VSIynMdsbAh908.jpg"
-      },
-      {
-        "name": "Frank Conroy",
-        "character": "Dr. Thorne",
-        "photo": "https://image.tmdb.org/t/p/w500/1804HlLeJKLjmijwtJ8B76nZ2gq.jpg"
-      },
-      {
-        "name": "Jane Darwell",
-        "character": "Sailor",
-        "photo": "https://image.tmdb.org/t/p/w500/xWTsj5z2N94OOnimMmUYewQXOIi.jpg"
-      },
-      {
-        "name": "Sara Haden",
-        "character": "Miss Harrington",
-        "photo": "https://image.tmdb.org/t/p/w500/77NW5jRIn7rxzEMxhR2kjsCCDXg.jpg"
-      },
-      {
-        "name": "Joyce Compton",
-        "character": "Una Mellon",
-        "photo": "https://image.tmdb.org/t/p/w500/z5rRRN40OSWX1G5i5edvfqe56wv.jpg"
-      }
-    ],
-    "director": [
-      "Irving Cummings"
-    ]
+    }
   }
 }

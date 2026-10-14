@@ -17,60 +17,6 @@
           "rating": "1.0"
         }
       }
-    },
-    "cast": [
-      "Elizabeth Holmes",
-      "Nathan Fielder",
-      "Billy Evans",
-      "Amanda Seyfried",
-      "Christopher Abbott",
-      "William Holmes Evans",
-      "Invicta Holmes Evans",
-      "Lance Oppenheim"
-    ],
-    "app_cast": [
-      {
-        "name": "Elizabeth Holmes",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/s7ej8dZ7zncd4nPBrkBUbArnTJl.jpg"
-      },
-      {
-        "name": "Nathan Fielder",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/x0UOcjml8WnBfnb89QOh0iXM0w0.jpg"
-      },
-      {
-        "name": "Billy Evans",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/tLOCcMkylvIES7ZKFv6Dks6XmD.jpg"
-      },
-      {
-        "name": "Amanda Seyfried",
-        "character": "Self / Elizabeth Holmes",
-        "photo": "https://image.tmdb.org/t/p/w500/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
-      },
-      {
-        "name": "Christopher Abbott",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
-      },
-      {
-        "name": "William Holmes Evans",
-        "character": "Self"
-      },
-      {
-        "name": "Invicta Holmes Evans",
-        "character": "Self"
-      },
-      {
-        "name": "Lance Oppenheim",
-        "character": "Self",
-        "photo": "https://image.tmdb.org/t/p/w500/h12zgCaZ24imkZlw0nry9T9mjGD.jpg"
-      }
-    ],
-    "director": [
-      "Nathan Fielder",
-      "Lance Oppenheim"
-    ]
+    }
   }
 }

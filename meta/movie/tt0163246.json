@@ -16,42 +16,6 @@
           "rating": "4.8"
         }
       }
-    },
-    "cast": [
-      "Joe Convery",
-      "Paget Brewster",
-      "William Sadler",
-      "Allan Rich",
-      "Danny Trejo"
-    ],
-    "app_cast": [
-      {
-        "name": "Joe Convery",
-        "character": "Skippy"
-      },
-      {
-        "name": "Paget Brewster",
-        "character": "Julia Fontaine",
-        "photo": "https://image.tmdb.org/t/p/w500/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg"
-      },
-      {
-        "name": "William Sadler",
-        "character": "Ringo",
-        "photo": "https://image.tmdb.org/t/p/w500/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
-      },
-      {
-        "name": "Allan Rich",
-        "character": "Gordan Gates",
-        "photo": "https://image.tmdb.org/t/p/w500/3dfwxm2AcwgGBlTxwl3OtQft2dS.jpg"
-      },
-      {
-        "name": "Danny Trejo",
-        "character": "Hitman",
-        "photo": "https://image.tmdb.org/t/p/w500/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
-      }
-    ],
-    "director": [
-      "Dionysius Zervos jr."
-    ]
+    }
   }
 }

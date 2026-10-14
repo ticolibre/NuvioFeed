@@ -19,61 +19,6 @@
           "rating": "6.9"
         }
       }
-    },
-    "cast": [
-      "Jason Robards",
-      "Barry Gordon",
-      "Barbara Harris",
-      "Martin Balsam",
-      "Gene Saks",
-      "William Daniels",
-      "John McMartin",
-      "Philip Bruns"
-    ],
-    "app_cast": [
-      {
-        "name": "Jason Robards",
-        "character": "Murray",
-        "photo": "https://image.tmdb.org/t/p/w500/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
-      },
-      {
-        "name": "Barry Gordon",
-        "character": "Nick",
-        "photo": "https://image.tmdb.org/t/p/w500/eVEEAykXPyX7wP01GzCTtejShQx.jpg"
-      },
-      {
-        "name": "Barbara Harris",
-        "character": "Sandra",
-        "photo": "https://image.tmdb.org/t/p/w500/9gFrDXHT42V8v8rn931ZNsB7DyQ.jpg"
-      },
-      {
-        "name": "Martin Balsam",
-        "character": "Arnold",
-        "photo": "https://image.tmdb.org/t/p/w500/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg"
-      },
-      {
-        "name": "Gene Saks",
-        "character": "Leo",
-        "photo": "https://image.tmdb.org/t/p/w500/eycEUe3kyD4SLBlTE3suUHmQhcd.jpg"
-      },
-      {
-        "name": "William Daniels",
-        "character": "Albert Amundsen",
-        "photo": "https://image.tmdb.org/t/p/w500/1SCR6im2maiASfTD5h7r0g9dU78.jpg"
-      },
-      {
-        "name": "John McMartin",
-        "character": "The Man in the Office",
-        "photo": "https://image.tmdb.org/t/p/w500/Ki2qitrCeMGzuUoq1yzTJkbUZg.jpg"
-      },
-      {
-        "name": "Philip Bruns",
-        "character": "The Man in the Restaurant",
-        "photo": "https://image.tmdb.org/t/p/w500/jogGxPsyoU3ofLXZwpaAxTGE5NI.jpg"
-      }
-    ],
-    "director": [
-      "Fred Coe"
-    ]
+    }
   }
 }
