@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt20215234",
+    "type": "movie",
+    "name": "Conclave",
+    "poster": "https://image.tmdb.org/t/p/w500/jkOgeASTlWwyKLBNblHVwWmAKhD.jpg",
+    "posterShape": "poster",
+    "description": "Sigue la historia del cardenal Lawrence, un hombre que tiene la tarea de dirigir un proceso encubierto para la elección de un nuevo Papa.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

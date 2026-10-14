@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0028203",
+    "type": "movie",
+    "name": "Romeo and Juliet",
+    "poster": "https://image.tmdb.org/t/p/w500/62LrWqQ2S0iA4feSBvswtFk2Wj9.jpg",
+    "posterShape": "poster",
+    "description": "Young love is poisoned by a generations long feud between two noble families.",
+    "releaseInfo": "1936",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kRY4Y3en26BiJCC0GO4YZ4EDyOb.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.3"
+        }
+      }
+    }
+  }
+}

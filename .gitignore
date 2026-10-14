@@ -1,4 +1,6 @@
 fetch_catalog.py
+fetch_collections.py
+.tmdb_index.json
 .DS_Store
 __pycache__/
 *.pyc

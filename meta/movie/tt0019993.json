@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0019993",
+    "type": "movie",
+    "name": "The Hollywood Revue of 1929",
+    "poster": "https://image.tmdb.org/t/p/w500/pe8dZ8LpRnfivsQ7nxLhH5AWxoW.jpg",
+    "posterShape": "poster",
+    "description": "An all-star revue featuring MGM contract players.",
+    "releaseInfo": "1929",
+    "genres": [
+      "Comedia",
+      "Música"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vu7gLgWefXGoP2UtAC41FTozSYs.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.7"
+        }
+      }
+    }
+  }
+}

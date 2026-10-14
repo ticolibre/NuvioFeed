@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0028313",
+    "type": "movie",
+    "name": "The Story of Louis Pasteur",
+    "poster": "https://image.tmdb.org/t/p/w500/pFRUnmvhCR8h6DS58Om6zhn12HY.jpg",
+    "posterShape": "poster",
+    "description": "A true story about Louis Pasteur, who revolutionized medicine by proving that much disease is caused by microbes, that sanitation is paramount and that at least some diseases can be cured by vaccinations.",
+    "releaseInfo": "1936",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/dNrOYlSjx9F6WPrtVaKai6OAa1k.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt15398776",
+    "type": "movie",
+    "name": "Oppenheimer",
+    "poster": "https://image.tmdb.org/t/p/w500/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+    "posterShape": "poster",
+    "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0120338",
+    "type": "movie",
+    "name": "Titanic",
+    "poster": "https://image.tmdb.org/t/p/w500/c32fxD3D7a7PuxYxOvSLcssHj8G.jpg",
+    "posterShape": "poster",
+    "description": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
+    "releaseInfo": "1997",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

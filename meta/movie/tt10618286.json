@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt10618286",
+    "type": "movie",
+    "name": "MANK",
+    "poster": "https://image.tmdb.org/t/p/w500/Atd7UaGgwOhcyHggqchYLqSJ6VO.jpg",
+    "posterShape": "poster",
+    "description": "Una visita al Hollywood de los años treinta desde la mirada cínica y ácida del legendario guionista Herman J. Mankiewicz mientras escribe contra reloj El ciudadano Kane.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.7"
+        }
+      }
+    }
+  }
+}

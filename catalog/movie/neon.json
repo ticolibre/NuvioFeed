@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt36931184",
-      "type": "movie",
-      "name": "A Place in Hell",
-      "poster": "https://image.tmdb.org/t/p/w500/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
-      "posterShape": "poster",
-      "description": "A top criminal defense attorney, known for representing unlikeable clients in high-profile cases, is a relentless workhorse at her firm and fully expects to be named partner. When another attorney joins the firm, her job is put to the test and makes her question just how far she’ll go to protect it.",
-      "releaseInfo": "2027",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ]
-    },
-    {
       "id": "tt36753615",
       "type": "movie",
       "name": "バッド・ルーテナント:トウキョウ",
@@ -433,45 +420,6 @@
           }
         }
       }
-    },
-    {
-      "id": "tt29703112",
-      "type": "movie",
-      "name": "They Follow",
-      "poster": "https://image.tmdb.org/t/p/w500/m0J9KwtSDB4zk53aqX1uyfe7RdK.jpg",
-      "posterShape": "poster",
-      "description": "Set a decade after It Follows. Plot TBA.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "id": "tt38066158",
-      "type": "movie",
-      "name": "The Young People",
-      "poster": "https://image.tmdb.org/t/p/w500/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/we0IHuHK17Bj8K7BJGDzzzOecbC.jpg",
-      "description": "Centers on a couple of school friends, one of whom starts to develop red flag behavior.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "id": "tt36833552",
-      "type": "movie",
-      "name": "Fish",
-      "poster": "https://image.tmdb.org/t/p/w500/iewcgxpBkIkqlfNGqDLyVbAGLvk.jpg",
-      "posterShape": "poster",
-      "description": "Fish Osborne is a brilliant but reclusive art historian who is undergoing a mysterious transformation: he is slowly becoming a fish. As the professor’s secret unravels, Billie and other students of his begin to perceive their own identities through new lenses.",
-      "releaseInfo": "",
-      "genres": [
-        "Drama",
-        "Fantasía"
-      ]
     }
   ],
   "cacheMaxAge": 86400,

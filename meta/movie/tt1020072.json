@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1020072",
+    "type": "movie",
+    "name": "Selma",
+    "poster": "https://image.tmdb.org/t/p/w500/1AeziYO5UTVcsCFS9AR0l6sF8DY.jpg",
+    "posterShape": "poster",
+    "description": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+    "releaseInfo": "2014",
+    "genres": [
+      "Historia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/bTnUxw2qH4oBGDMM0w4r6KQ11BD.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

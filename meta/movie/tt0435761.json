@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0435761",
+    "type": "movie",
+    "name": "Toy Story 3",
+    "poster": "https://image.tmdb.org/t/p/w500/ntoCb04GqfsGHyeGvYygvWp4VMP.jpg",
+    "posterShape": "poster",
+    "description": "Los juguetes son entregados por error a una guardería en lugar del ático justo antes de que Andy se vaya a la universidad, y depende de Woody convencer a los otros juguetes de que no fueron abandonados y volver a casa.",
+    "releaseInfo": "2010",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    }
+  }
+}

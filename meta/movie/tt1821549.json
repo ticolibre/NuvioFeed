@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1821549",
+    "type": "movie",
+    "name": "Nebraska",
+    "poster": "https://image.tmdb.org/t/p/w500/qJIXMitYhKtGnkSVMdJMoDZSqd6.jpg",
+    "posterShape": "poster",
+    "description": "Un hombre acompaña a su anciano padre, malhumorado, durante un largo viaje por la carretera hacia Lincoln, Nebraska, para reclamar un premio en efectivo que en realidad podría no existir.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Drama",
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

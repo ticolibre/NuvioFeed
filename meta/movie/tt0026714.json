@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0026714",
+    "type": "movie",
+    "name": "A Midsummer Night's Dream",
+    "poster": "https://image.tmdb.org/t/p/w500/me8uAibE3EzfYKDMIlYNWJtpbDZ.jpg",
+    "posterShape": "poster",
+    "description": "Mistaken identity, unrequited love, and the supernatural are combined in Shakespeare's classic set in the woods of Greece on a moonlit night.",
+    "releaseInfo": "1935",
+    "genres": [
+      "Fantasía",
+      "Romance",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/71J6gmlQSA5G6V9LTtkA1D4z4Dr.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt10272386",
+    "type": "movie",
+    "name": "El Padre",
+    "poster": "https://image.tmdb.org/t/p/w500/oOYti9KmH3MP5R2rtXrRL06t8i0.jpg",
+    "posterShape": "poster",
+    "description": "Anthony es un ingeniero anciano de gran carácer que se niega a aceptar la ayuda de ninguna enfermera o asistenta que su hija le busca.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    }
+  }
+}

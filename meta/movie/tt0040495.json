@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt0040495",
+    "type": "movie",
+    "name": "Johnny Belinda",
+    "poster": "https://image.tmdb.org/t/p/w500/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+    "posterShape": "poster",
+    "description": "A small-town doctor helps a deaf-mute farm girl learn to communicate.",
+    "releaseInfo": "1948",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

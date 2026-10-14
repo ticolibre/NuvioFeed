@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0066026",
+    "type": "movie",
+    "name": "M*A*S*H",
+    "poster": "https://image.tmdb.org/t/p/w500/xteeXKr4FpusQGzT9NUfhFqeEoI.jpg",
+    "posterShape": "poster",
+    "description": "M.A.S.H. narra las aventuras de dos cirujanos del ejército destinados a una unidad móvil médica en Corea durante la guerra. Tanto ellos como su equipo de enfermeras se toman el trabajo muy en serio pero, en su tiempo libre, las bromas constantes y la ironía hacen más llevadera la situación.",
+    "releaseInfo": "1970",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Bélica"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

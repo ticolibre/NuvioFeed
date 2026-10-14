@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0035575",
+    "type": "movie",
+    "name": "Yankee Doodle Dandy",
+    "poster": "https://image.tmdb.org/t/p/w500/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+    "posterShape": "poster",
+    "description": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+    "releaseInfo": "1942",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/dskxBjNFZsn6ThCZ7vAqd5UueEl.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0023458",
+    "type": "movie",
+    "name": "El expreso de Shanghai",
+    "poster": "https://image.tmdb.org/t/p/w500/xXBSLdkAvqMp9JfZpJx1W4tobJz.jpg",
+    "posterShape": "poster",
+    "description": "Drama clásico acerca de un viaje por tren en China durante la guerra civil, y una bella pasajera de mala fama.",
+    "releaseInfo": "1932",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Bélica"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/yGBAQcQVauUGNWGgWHxG4ihNCOp.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    }
+  }
+}

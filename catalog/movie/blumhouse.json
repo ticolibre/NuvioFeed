@@ -2897,47 +2897,6 @@
           }
         }
       }
-    },
-    {
-      "id": "tt37180885",
-      "type": "movie",
-      "name": "Ma 2",
-      "poster": "https://image.tmdb.org/t/p/w500/5Yy2IMeixyr7rtA22E2sTFm3ymi.jpg",
-      "posterShape": "poster",
-      "description": "Following the events of the first film, Sue Ann now resides in the Pacific Northwest, working as a real estate agent, when her murderous past as “Ma” comes violently back to the surface.",
-      "releaseInfo": "",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "id": "tt36461475",
-      "type": "movie",
-      "name": "Happy Death Day to Us",
-      "poster": "https://image.tmdb.org/t/p/w500/rXPRQo24OdQvDKPggSbiUUSnPo5.jpg",
-      "posterShape": "poster",
-      "description": "The third installment in the Happy Death Day franchise. Plot TBA.",
-      "releaseInfo": "",
-      "genres": [
-        "Comedia",
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "id": "tt48503995",
-      "type": "movie",
-      "name": "Amanda the Adventurer",
-      "poster": "https://image.tmdb.org/t/p/w500/5wCdveavBKBf4XYi6Lj6TJYCjcr.jpg",
-      "posterShape": "poster",
-      "description": "Plot TBA; based on the indie video game of the same name about a cursed children's television show whose videotapes trap human souls and brainwash viewers.",
-      "releaseInfo": "",
-      "genres": [
-        "Fantasía",
-        "Terror",
-        "Misterio"
-      ]
     }
   ],
   "cacheMaxAge": 86400,

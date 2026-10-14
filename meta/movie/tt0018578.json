@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0018578",
+    "type": "movie",
+    "name": "Wings",
+    "poster": "https://image.tmdb.org/t/p/w500/nYbFzLlNtLIcVOZTeAUUiafVLbS.jpg",
+    "posterShape": "poster",
+    "description": "Drama bélico que ha pasado a la historia por ser el primer film que ganó el Oscar a la mejor película, el año de la creación de los premios de la Academia americana (años 1927-1928).",
+    "releaseInfo": "1927",
+    "genres": [
+      "Drama",
+      "Acción",
+      "Bélica",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/u90ajspDd9911ISbx74rtofQZfO.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

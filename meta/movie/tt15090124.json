@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt15090124",
+    "type": "movie",
+    "name": "Mad God",
+    "poster": "https://image.tmdb.org/t/p/w500/105stT9GkiENXiYqvWYKoAuHKQL.jpg",
+    "posterShape": "poster",
+    "description": "Una campana de buceo corroída desciende en medio de una ciudad en ruinas y el Asesino emerge de ella para explorar un laberinto de paisajes extraños habitados por habitantes muy peculiares.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/eMDQdKeoWTrCm2wEs7I7OD3bTQl.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    }
+  }
+}

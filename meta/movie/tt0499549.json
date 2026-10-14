@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0499549",
+    "type": "movie",
+    "name": "Avatar",
+    "poster": "https://image.tmdb.org/t/p/w500/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
+    "posterShape": "poster",
+    "description": "Jake Sully, un soldado parapléjico, ha sido designado para ir a la luna Pandora, habitado por una raza de humanoides extraterrestres inteligentes llamados Los Na'vi, en una misión única a través de un avatar.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1024648",
+    "type": "movie",
+    "name": "Argo",
+    "poster": "https://image.tmdb.org/t/p/w500/j1sBm1fZUhlFW5Qe0238H1LjDwA.jpg",
+    "posterShape": "poster",
+    "description": "Encubierto como productor de Hollywood, Un agente de la CIA emprende una peligrosa misión para rescatar a seis Estadounidenses durante la crisis de rehenes en Irán.",
+    "releaseInfo": "2012",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,973 @@
+{
+  "metas": [
+    {
+      "id": "tt31122579",
+      "type": "movie",
+      "name": "Atropia",
+      "poster": "https://image.tmdb.org/t/p/w500/qurd8tG5E2T20QihO0ysaJCzAjL.jpg",
+      "posterShape": "poster",
+      "description": "Una aspirante a actriz trabaja en un set de rodaje en una base militar estadounidense que simula ser una zona de guerra iraquí. Cuando se enamora de un soldado que interpreta a un insurgente, sus emociones no simuladas amenazan con hacer descarrilar la representación.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/af7mgiKiFRdlsv01F18AP5rHEz6.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt24805832",
+      "type": "movie",
+      "name": "In the Summers",
+      "poster": "https://image.tmdb.org/t/p/w500/nyZ0IvkSjoU7ShhLh1wjfVz0QXN.jpg",
+      "posterShape": "poster",
+      "description": "Las hermanas Violeta y Eva visitan todos los veranos a su amoroso pero imprudente padre Vicente. Él se esfuerza por crear un mundo maravilloso para ellas pero, bajo la divertida fachada, existe una lucha contra la adicción que gradualmente erosiona la magia, culminando en un devastador accidente. Vicente intenta compensar el pasado. Pero las heridas no se curan fácilmente.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/afqr24d5hxpzNOqCzyAFJPjQXJB.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12427158",
+      "type": "movie",
+      "name": "Mil uno",
+      "poster": "https://image.tmdb.org/t/p/w500/j9Ojl06flDskIW01jIDIpOHiCxl.jpg",
+      "posterShape": "poster",
+      "description": "Inez secuestra a Terry, de seis años, del sistema de servicios sociales. Madre e hijo se propusieron recuperar su hogar, así como su identidad y estabilidad, en la ciudad de Nueva York.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7NTGZTzqWHgBJeoNaWsAxvHtRy4.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10931784",
+      "type": "movie",
+      "name": "Nanny",
+      "poster": "https://image.tmdb.org/t/p/w500/dubugvrxYazuwzHuh6NCxauIl1L.jpg",
+      "posterShape": "poster",
+      "description": "Aisha, una niñera inmigrante, se construye una nueva vida en la ciudad de Nueva York mientras cuida al hijo de una familia del Upper East Side, ella se ve obligada a enfrentarse a una verdad oculta que amenaza con destruir su precario sueño americano.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aNzvd95YGOD9c2Pz4bVO6XVpvuV.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10633456",
+      "type": "movie",
+      "name": "Minari - Historia de mi familia",
+      "poster": "https://image.tmdb.org/t/p/w500/tV4DsRCDVl0Xr41o1dGnWgbZ9GL.jpg",
+      "posterShape": "poster",
+      "description": "David, un niño coreano-americano de 7 años, ve cómo su vida cambia, de la noche a la mañana, cuando su padre decide mudarse junto a toda su familia a una zona rural de Arkansas para abrir allí una granja, con el propósito de lograr alcanzar el sueño americano.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10366460",
+      "type": "movie",
+      "name": "CODA: Señales del corazón",
+      "poster": "https://image.tmdb.org/t/p/w500/s9lvJIb60u0ckxiWG64s2DTHlp3.jpg",
+      "posterShape": "poster",
+      "description": "CODA pertenece a una familia con problemas de audición, en su instituto ingresa al coro donde descubre su talento para la música y su atracción por un chico, ahora ella deberá tomar la decisión de dejar a sus padres por sus estudios.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Música",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5577494",
+      "type": "movie",
+      "name": "Clemencia",
+      "poster": "https://image.tmdb.org/t/p/w500/uQgi5hq29saWiG4DbmQfz2EEnKI.jpg",
+      "posterShape": "poster",
+      "description": "Bernadine Williams es una mujer a la que los años de trabajo han supuesto una carga difícil de soportar. Bernadine ejerce como guarda en una prisión teniendo que ser ella, además, la encargada de ejecutar la pena de muerte a aquellos que sufren dicha sentencia.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4LFJwYtjvlWFqri9IwAZxLR0xyx.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6257174",
+      "type": "movie",
+      "name": "La mala educación de Cameron Post",
+      "poster": "https://image.tmdb.org/t/p/w500/vkBBiz2f14iapCSoQRRvt6Tl69T.jpg",
+      "posterShape": "poster",
+      "description": "Pennsylvania, 1993. Después de ser sorprendida con otra chica, la adolescente Cameron Post es enviada a un centro de terapia de conversión dirigido por la estricta doctora Lydia Marsh y su hermano, el reverendo Rick, cuyo tratamiento consiste en arrepentirse por sentir «atracción por el mismo sexo». Cameron se hace amiga de sus compañeros Jane y Adam, creando así una nueva familia para enfrentarse a la intolerancia que les rodea.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lqmNJ2dEqC5afCmYeLUiC6bYDUI.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5710514",
+      "type": "movie",
+      "name": "Ya no me siento a gusto en este mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/8cb4APubOIrauUg1QWoQxDWo7Kw.jpg",
+      "posterShape": "poster",
+      "description": "Cuando una mujer deprimida sufre un robo en su casa, encuentra un nuevo sentido a su vida persiguiendo a los ladrones junto a su peculiar vecino.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vY4xnvM0aQbqYlffajDcuczA3O5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4196450",
+      "type": "movie",
+      "name": "El nacimiento de una nación",
+      "poster": "https://image.tmdb.org/t/p/w500/rHpspJ1YnkvhvJqLakKNJswcaov.jpg",
+      "posterShape": "poster",
+      "description": "Narra la historia real de Nat Turner, predicador y ex esclavo, que tras presenciar innumerables atrocidades liderará en Virginia, en 1831, una rebelión contra la esclavitud.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gTo9VPjYsP6FD89HdzAKfjA7qH4.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2582496",
+      "type": "movie",
+      "name": "Yo, él y Raquel",
+      "poster": "https://image.tmdb.org/t/p/w500/tIBKWAZsP9NGMKnVC5N3RySvTfz.jpg",
+      "posterShape": "poster",
+      "description": "Greg pasa el último año del instituto de la forma más anónima posible, evitando todo tipo de relaciones, mientras en secreto hace extrañas películas con su único amigo. Esta situación cambiará cuando su madre le obliga a hacerse amigo de una compañera de clase con leucemia.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4sOeeDX9uBteu81ty2bcdbzU933.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2582802",
+      "type": "movie",
+      "name": "Whiplash: Música y Obsesión",
+      "poster": "https://image.tmdb.org/t/p/w500/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+      "description": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Música",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2334649",
+      "type": "movie",
+      "name": "Fruitvale Station",
+      "poster": "https://image.tmdb.org/t/p/w500/4qwPDlA7yN1rWDtuBlIfvmftktL.jpg",
+      "posterShape": "poster",
+      "description": "Oakland, California. Young Afro-American Oscar Grant crosses paths with family members, friends, enemies and strangers before facing his fate on the platform at Fruitvale Station, in the early morning hours of New Year's Day 2009.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u0nAnvRdzAGgDYLyfIbAUBDOcpb.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2125435",
+      "type": "movie",
+      "name": "Bestias del Sur",
+      "poster": "https://image.tmdb.org/t/p/w500/6kJuSt0Vglv72rC3Yh81pufCXcG.jpg",
+      "posterShape": "poster",
+      "description": "En el Sur del planeta, el nivel de las aguas está subiendo vertiginosamente y todos los diques se hunden. Al mismo tiempo, los animales salvajes vuelven de sus tumbas. Esta es la historia de una niña de seis años que vive con su padre en un lugar aislado del mundo.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Fantasía",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7LWLPvyfLSb2oOlgWwAwUqA8uKo.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1758692",
+      "type": "movie",
+      "name": "Con locura",
+      "poster": "https://image.tmdb.org/t/p/w500/pc3n2bPuS39WtDkRfrN94rCltOy.jpg",
+      "posterShape": "poster",
+      "description": "Una estudiante universitaria británica se enamora de un estudiante estadounidense, solo para ser separada de él cuando le prohíben la entrada a los EE.UU. después de quedarse más tiempo del que le correspondía por su visado.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z5tS7FxZ44pH30nm0bDahkndmBU.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1399683",
+      "type": "movie",
+      "name": "Invierno profundo",
+      "poster": "https://image.tmdb.org/t/p/w500/3I8Qz99XQTvMUftM86r4sIhUM8w.jpg",
+      "posterShape": "poster",
+      "description": "Ree Dolly (Lawrence) vive en una zona rural de los montes de Missouri. Es una chica de 17 años que tiene que hacerse cargo de su familia en una situación de extrema precariedad. Su padre Jessup, tras salir de la cárcel en libertad condicional, ha desaparecido misteriosamente y, si no aparece, en pocos días perderán la casa donde Ree vive con su madre enferma y sus dos hermanos pequeños. Encontrar a su padre se convierte entonces para la joven en una cuestión vital.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wW4dZWEfUIXWVKhKsPFBokndJbI.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0929632",
+      "type": "movie",
+      "name": "Precious: Based on the Novel 'Push' by Sapphire",
+      "poster": "https://image.tmdb.org/t/p/w500/kQCG6o9M1EVUBtQXjgkvFvlLQ7n.jpg",
+      "posterShape": "poster",
+      "description": "Claireece 'Precious' Jones tiene 16 años, es obesa y analfabeta y espera su segundo hijo de su propio padre ausente. Vive en Harlem, el reino de los invisibles, de los sin voz, con su madre, una reclusa cruel que mira la televisión sin cesar y la somete a los más denigrantes abusos. Forzada a abandonar la escuela a causa de su embarazo, Precious acaba en un instituto para casos desesperados. Y allí, en el último escalón de aquellos que ya han bajado todas las escaleras, está la señorita Rain, una maestra joven, combativa y radical a través de la cual Precious tendrá la posibilidad de recuperar su voz y su dignidad descubriendo un nuevo mundo en el que puede al fin expresarse de una manera que nunca antes había imaginado.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/81ME78JndOYu7IluTi1rxh0cLY2.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0978759",
+      "type": "movie",
+      "name": "Río helado",
+      "poster": "https://image.tmdb.org/t/p/w500/q0a7IFEv3Fk8zxdTIQWautW7izw.jpg",
+      "posterShape": "poster",
+      "description": "Cuando Ray Eddy está a punto de comprar la casa de sus sueños, de repente su marido, un adicto a las apuestas, desaparece y la deja sin el dinero y sola con los niños. Mientras trata de encontrarlo, conoce a Lila Littlewolf, una chica india mohawk que le propone una manera de ganar dinero. El plan es arriesgado: pasar ilegalmente inmigrantes de Canadá a Estados Unidos a través del helado río Saint Lawrence, cuyas orillas están custodiadas por patrullas fronterizas. La desesperación lleva a Ray a aceptar la oferta.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gOhtvGwrVkEM5hCFdyyWKJEOBk8.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0834938",
+      "type": "movie",
+      "name": "Padre nuestro",
+      "poster": "https://image.tmdb.org/t/p/w500/8ZlRI1lDYhRkGM8MDX7KKJWJ0Do.jpg",
+      "posterShape": "poster",
+      "description": "A Mexican boy smuggles himself to Brooklyn to meet his long-lost father - only to have his identity stolen upon arrival by an impostor who seeks to steal the fathers' fortune.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gMFmp0fwKqTh1gUsOYr0FMKP8Nb.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0451176",
+      "type": "movie",
+      "name": "Quinceañera",
+      "poster": "https://image.tmdb.org/t/p/w500/kJv276uU9K0Z9MRhz6F3BEEetEO.jpg",
+      "posterShape": "poster",
+      "description": "As Magdalena's 15th birthday approaches, her simple, blissful life is complicated by the discovery that she's pregnant. Kicked out of her house, she finds a new family with her great-granduncle and gay cousin.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iuZN4EzpPl9D21cteLyKRPQRoCT.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0395543",
+      "type": "movie",
+      "name": "Forty Shades of Blue",
+      "poster": "https://image.tmdb.org/t/p/w500/tWhkFzXkqS9afk2KKTTwd6IBmZ6.jpg",
+      "posterShape": "poster",
+      "description": "A Russian woman living in Memphis with a much older rock-n-roll legend experiences a personal awakening when her husband's estranged son comes to visit.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uwhdNBtZqyHotOtxPZaubKtpKFg.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0390384",
+      "type": "movie",
+      "name": "Primer",
+      "poster": "https://image.tmdb.org/t/p/w500/oq3FNtXWMb42XNDxdQEYxmi8ZhG.jpg",
+      "posterShape": "poster",
+      "description": "Cuatro hombres trabajan en un garaje construyendo aparatos altamente complejos. En parte por accidente y en parte por su pericia, descubren un mecanismo dotado de poderes que les permite conseguir casi todo lo que quieran. Se trata de un hallazgo que podría cambiar el mundo, pero que pondrá a prueba las relaciones entre sus inventores.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/blSQbKAreIqcu2AWGDNjR8k3fAy.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0305206",
+      "type": "movie",
+      "name": "Esplendor americano",
+      "poster": "https://image.tmdb.org/t/p/w500/8LCa2LH4z1W8MwRlabf8dCeT6Aj.jpg",
+      "posterShape": "poster",
+      "description": "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/51Q6Wyadho2zmOe8yCOdAWDpdGm.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0295238",
+      "type": "movie",
+      "name": "Personal Velocity",
+      "poster": "https://image.tmdb.org/t/p/w500/2Jkt0PQBU2lmSm4zQcyJBWvRGpv.jpg",
+      "posterShape": "poster",
+      "description": "In a series of three vignettes, three women in turn struggle to free themselves from the men who restrict their personal freedom.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zPOsgnW67I0US9fJ9kAKXGwbcWC.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0247199",
+      "type": "movie",
+      "name": "El Creyente",
+      "poster": "https://image.tmdb.org/t/p/w500/bPWCXoRItooEDeDaGVouSGegiL4.jpg",
+      "posterShape": "poster",
+      "description": "Un cabeza rapada racista estadounidense incondicional que, debido a su inteligencia, lidera una pandilla dedicada a luchar contra el enemigo: la supuesta conspiración judío-estadounidense para la dominación. Sin embargo, esconde un secreto: es judío de nacimiento, un erudito brillante cuyo cuestionamiento de los principios de su fe lo ha dejado enojado y confundido, volviéndose contra aquellos que cree que tienen una historia trágica de su propia creación.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cDTDGNaF5zu4LYD4gZjkaZ8DjjY.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0203230",
+      "type": "movie",
+      "name": "Puedes contar conmigo",
+      "poster": "https://image.tmdb.org/t/p/w500/66ETy1XRN2jgTnNPZCXVyIG5yTf.jpg",
+      "posterShape": "poster",
+      "description": "Sammy Precott, que se quedó huérfana siendo una niña, es una madre soltera que sólo vive para su hijo. Sigue viviendo en su pueblo natal, al norte de Nueva York, y lleva una vida sencilla y tranquila: trabaja en un banco, asiste a los servicios religiosos y disfruta de la belleza del paisaje. Sin embargo, su vida se tambalea el día en que regresa al pueblo su hermano, un joven bastante problemático.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hardcwpNmv4soWzTZWWD6OhzsSX.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0210075",
+      "type": "movie",
+      "name": "Girlfight",
+      "poster": "https://image.tmdb.org/t/p/w500/ydHUoYtpZdkwxdroK1rWyEpJrLZ.jpg",
+      "posterShape": "poster",
+      "description": "Diana Guzman, a troubled Brooklyn teenager, decides to channel her aggression by training to become a boxer, all while keeping it a secret from her father.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5T59V9V2X0I1eK3GRBrJmXdQRmv.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0138874",
+      "type": "movie",
+      "name": "Ba Mùa",
+      "poster": "https://image.tmdb.org/t/p/w500/9BRzgNVCrb40TsEUKZt2ODXgWMQ.jpg",
+      "posterShape": "poster",
+      "description": "The residents of Ho Chi Minh City face modernization amid widespread poverty. A retired American Marine arrives on a search for his daughter, whom he abandoned at the end of the Vietnam War. Elsewhere, a cyclo driver falls for a troubled prostitute and schemes to raise money so he can spend time with her. Additionally, a young women begins harvesting lotuses for a writer suffering from leprosy, and a child trinket seller loses his traveling case.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hbvg9M2S3ufj6uWsCPQdmqinPPf.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0139615",
+      "type": "movie",
+      "name": "Slam",
+      "poster": "https://image.tmdb.org/t/p/w500/qU0QR2ax1hyjfACni4Clgsc5YyX.jpg",
+      "posterShape": "poster",
+      "description": "Raymond Joshua, a young black performance poet, is arrested and imprisoned for a petty marijuana charge in a Washington, D.C. jail. Although the confining prison walls do little to shield him from danger, it is within those walls that Raymond establishes his identity, strength, and voice and meets a prison gang leader and a prison writing teacher, Lauren Bell. Bell inspires Raymond to use the power of creative expression to free himself from the struggles and demise of the Black male as another victim of the judicial system.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xeN6uxr1ao3wBjvjn86mThQJ5ku.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120244",
+      "type": "movie",
+      "name": "Sunday",
+      "poster": "https://image.tmdb.org/t/p/w500/B3f0ZquyRdOrFyDHiF14L1SxZS.jpg",
+      "posterShape": "poster",
+      "description": "Mistaking a homeless man for a famous director, a British actress seeks career help from him.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b4A77oG27OGuquP73k2jM71VdTf.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0114906",
+      "type": "movie",
+      "name": "Welcome to the Dollhouse",
+      "poster": "https://image.tmdb.org/t/p/w500/2CiW6gtC7YGobe6SqY0epjWTP38.jpg",
+      "posterShape": "poster",
+      "description": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cmD7smdQnflmpthFDjSArI2jKZF.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115033",
+      "type": "movie",
+      "name": "The Young Poisoner's Handbook",
+      "poster": "https://image.tmdb.org/t/p/w500/d3Lakfy0K1eRHUbay9kMeWdt7y6.jpg",
+      "posterShape": "poster",
+      "description": "Graham Young is a teenage misfit living in suburban London in the 1960s. He hates his stepmother but loves chemistry, and the two impulses unite in a wicked plot to slowly poison her. After she dies, he's found guilty and sent to a psychiatric hospital, where an idealistic doctor thinks he can be cured.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ogEZl7DzCOS6gmrby2N7MSqe2JS.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112585",
+      "type": "movie",
+      "name": "Los Hermanos McMullen",
+      "poster": "https://image.tmdb.org/t/p/w500/6oWsOJP0ed5gs8n2UywcailoxFN.jpg",
+      "posterShape": "poster",
+      "description": "En la década de 1990, los hermanos irlandeses de Long Island (Barry, Patrick y Molly) luchan por lidiar el amor, el sexo, el matrimonio, la religión y la familia de sus vidas.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/FMzWki3kw14V8SzQjFaAmR4AWR.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0111689",
+      "type": "movie",
+      "name": "What Happened Was...",
+      "poster": "https://image.tmdb.org/t/p/w500/mke5aNX5cT6JIWk2ER4ng9dGNNL.jpg",
+      "posterShape": "poster",
+      "description": "Jackie and Michael are coworkers at a large law firm. They decide to meet at Jackie's for dinner one night.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8EqsebNbijFWEdiW9poMZ9eXjWf.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0108000",
+      "type": "movie",
+      "name": "Ruby in Paradise",
+      "poster": "https://image.tmdb.org/t/p/w500/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg",
+      "posterShape": "poster",
+      "description": "Reeling from her mother's recent death, Ruby Lee Gissing relocates to Florida to start anew. After finding a job at a souvenir store, Ruby becomes friends with the shop's owner, Mildred Chambers, and slowly acclimates to her new surroundings. Before long, she's juggling the affections of Mildred's Lothario son, Ricky, and the good-natured Mike. As she wavers between Ricky and Mike, Ruby also tries to come to terms with her past.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zcPBI0vCuYkG9ml8E3loZPtI7Ye.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0107895",
+      "type": "movie",
+      "name": "Public Access",
+      "poster": "https://image.tmdb.org/t/p/w500/tIuqSfr9z05ck4jDEJwAoqEKZLZ.jpg",
+      "posterShape": "poster",
+      "description": "Brewster seems to be an almost too perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"what's wrong with Brewster?\", there surely can't be any deep dark secrets in the town that are just waiting to come to the surface - or can there? And when the question becomes \"who's wrong with Brewster?\" things start getting seriously nasty.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6uwUbeoYUB9uQX3Qy0iS9ghyUF5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0104503",
+      "type": "movie",
+      "name": "In the Soup",
+      "poster": "https://image.tmdb.org/t/p/w500/kj7j6q8g3kptgqnpjpZlr5det2I.jpg",
+      "posterShape": "poster",
+      "description": "An aspiring young filmmaker gets involved with an eccentric gangster for the financing of his first film.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xkM4h9DAu0omqPC4pkBg7WqaDIp.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0102687",
+      "type": "movie",
+      "name": "Poison",
+      "poster": "https://image.tmdb.org/t/p/w500/MW47kViKJcFtt8hQV3EYaOw6zI.jpg",
+      "posterShape": "poster",
+      "description": "A trio of interweaved transgressive tales, telling a bizarre stories of suburban patricide and a miraculous flight from justice, a mad sex experiment which unleashes a disfiguring plague, and the obsessive sexual relationship between two prison inmates.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qo249QOxhnvHfTqaSUuGQmPfR34.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0101561",
+      "type": "movie",
+      "name": "Chameleon Street",
+      "poster": "https://image.tmdb.org/t/p/w500/b6Ljg2yvb9Yht3L41SADgVLi1TZ.jpg",
+      "posterShape": "poster",
+      "description": "William Douglas Street is bored with his life. Working for his father is getting to him, his wife wants more money, and he's had enough. His solution is to re-invent himself. He becomes a chameleon, taking on whatever role suits the situation. From reporter to doctor to lawyer, he impersonates anyone he feels a need to be and he can earn money being.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wE2koUdIZPVQERB3GqrUEdplV6s.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098528",
+      "type": "movie",
+      "name": "True Love",
+      "poster": "https://image.tmdb.org/t/p/w500/bb8LdVqPhJbd1WnH6yiMbjy0N0C.jpg",
+      "posterShape": "poster",
+      "description": "Donna and Michael are getting married. But first, they have to plan the reception, get the tux, buy the rings, and cope with their own uncertainty about the decision. Michael fears commitment. Donna has her doubts about Michael's immaturity. Both are getting cold feet.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9L6jBEAFPAeZf5rx0uweIwMW8Hn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093165",
+      "type": "movie",
+      "name": "Heat and Sunlight",
+      "poster": "https://image.tmdb.org/t/p/w500/uDSEydctMYS03CeCcM9aRMxKexN.jpg",
+      "posterShape": "poster",
+      "description": "A man confronts jealously and rage as a love affair falters.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094286",
+      "type": "movie",
+      "name": "Waiting for the Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/9nvZabS1QpAxUr0q7qBvb1uf7cH.jpg",
+      "posterShape": "poster",
+      "description": "Fictionalized portrait of one of history's great literary couples: Stein & Toklas. Summer 1930s France, Alice tends to ailing Gertrude; they visit Fernande Olivier, Guillaume Apollinaire, others; and Hemingway pops in.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Película de TV"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/c9lr4pDqJcVqyaq8lBKxyL8ci97.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094187",
+      "type": "movie",
+      "name": "The Trouble with Dick",
+      "poster": "https://image.tmdb.org/t/p/w500/hu7rjOAIjgkuNkXV4nADTEqgxV1.jpg",
+      "posterShape": "poster",
+      "description": "Dick Kendred (Tom Villard) is a frustrated writer whose latest book has been turned down by every publisher around. His work seems to be missing one key ingredient: half-nude chicks. In an effort to cure his writer's block (and get some much needed inspiration), Dick rents a room from a couple of women who waste no time hitting on him. Talk about invoking the muse! This lighthearted romp won the Grand Jury Prize at the Sundance Film Festival.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tncytcFfK4CeeaXNV149jzYdR8P.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090037",
+      "type": "movie",
+      "name": "Smooth Talk",
+      "poster": "https://image.tmdb.org/t/p/w500/zIXMuScN5UVtEi5ENHzzBSedbHk.jpg",
+      "posterShape": "poster",
+      "description": "Connie, the fifteen-year-old black sheep of her family, finds her summertime idyll of beach trips, mall hangouts, and innocent flirtations shattered by an encounter with a mysterious stranger.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bAt0ilmt37IxSIn6TFGkdy4cf29.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086979",
+      "type": "movie",
+      "name": "Sangre Fácil",
+      "poster": "https://image.tmdb.org/t/p/w500/7dOgSVkyriDOyAhQiwMXm2i2XoO.jpg",
+      "posterShape": "poster",
+      "description": "Texas. Una joven casada y muy seductora cae en brazos de Ray, uno de los empleados de su marido. Enterado por un detective privado de la infidelidad de su mujer y obsesionado por la traición, Julián se decide a preparar el asesinato de ambos.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087837",
+      "type": "movie",
+      "name": "Old Enough",
+      "poster": "https://image.tmdb.org/t/p/w500/nrcrdkFmBf4lxHedsePrvSuKlsa.jpg",
+      "posterShape": "poster",
+      "description": "The 12 years old well-bred Lonnie meets the impudent Karen on the street. They spend some time together and Karen teaches Lonnie some of her favorite occupancies, like make-up, shoplifting, skipping school and lying to the parent about it, but confessing to the priest later. But Karen also learns some honesty from Lonnie. A film about social differences and growing up.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qLsUCL0mufwpUjij29fWII8LMja.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

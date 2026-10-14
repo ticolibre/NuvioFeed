@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1312221",
+    "type": "movie",
+    "name": "Frankenstein",
+    "poster": "https://image.tmdb.org/t/p/w500/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+    "posterShape": "poster",
+    "description": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Drama",
+      "Fantasía",
+      "Terror"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

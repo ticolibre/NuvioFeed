@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0253474",
+    "type": "movie",
+    "name": "El Pianista",
+    "poster": "https://image.tmdb.org/t/p/w500/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+    "posterShape": "poster",
+    "description": "Un músico judío polaco lucha por sobrevivir a la destrucción del gueto de Varsovia de la Segunda Guerra Mundial.",
+    "releaseInfo": "2002",
+    "genres": [
+      "Drama",
+      "Bélica"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    }
+  }
+}

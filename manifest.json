@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): A24, NEON, Blumhouse. Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): A24, NEON, Blumhouse, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture winners & nominees. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -54,6 +54,81 @@
       "type": "movie",
       "id": "blumhouse",
       "name": "Blumhouse Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "shudder",
+      "name": "Shudder Originals",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "cannes",
+      "name": "Cannes: Palme d'Or",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "sundance",
+      "name": "Sundance: Grand Jury Winners",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "best-picture-winners",
+      "name": "Oscars: Best Picture Winners",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "best-picture-nominees",
+      "name": "Oscars: Best Picture Nominees",
       "extra": [
         {
           "name": "skip",

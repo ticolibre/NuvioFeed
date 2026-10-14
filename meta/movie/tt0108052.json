@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0108052",
+    "type": "movie",
+    "name": "La Lista de Schindler",
+    "poster": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+    "posterShape": "poster",
+    "description": "La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie.",
+    "releaseInfo": "1993",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    }
+  }
+}

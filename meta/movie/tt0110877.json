@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0110877",
+    "type": "movie",
+    "name": "Il postino",
+    "poster": "https://image.tmdb.org/t/p/w500/jlnJJZCnI3AEhngDPxtVXnTW3V2.jpg",
+    "posterShape": "poster",
+    "description": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+    "releaseInfo": "1994",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

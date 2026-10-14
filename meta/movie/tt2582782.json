@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt2582782",
+    "type": "movie",
+    "name": "Enemigo de todos",
+    "poster": "https://image.tmdb.org/t/p/w500/rGihwoxhAjPrnrjpTPowuIOU3jy.jpg",
+    "posterShape": "poster",
+    "description": "Un papá divorciado y su hermano, un exconvicto, planean una serie de asaltos contra el banco que está a punto de embargar su rancho familiar.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Western",
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

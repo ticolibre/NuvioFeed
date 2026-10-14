@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt0026174",
+    "type": "movie",
+    "name": "Captain Blood",
+    "poster": "https://image.tmdb.org/t/p/w500/vbwgiQATN1hW0jw5PGTTwNnEXxb.jpg",
+    "posterShape": "poster",
+    "description": "Dr. Peter Blood, unjustly convicted of treason and exiled from England, becomes a notorious pirate.",
+    "releaseInfo": "1935",
+    "genres": [
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/gVCUB5cYjZVzNyBS46Q6RXLfmSr.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}
