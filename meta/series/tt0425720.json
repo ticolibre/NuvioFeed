@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "id": "tt0425720",
+    "type": "series",
+    "name": "Tom Goes to the Mayor",
+    "poster": "https://image.tmdb.org/t/p/w500/jECzaCRzJdR24jfKs5Bcn346Do5.jpg",
+    "posterShape": "poster",
+    "description": "Tom Goes to the Mayor is an American animated television series created by Tim Heidecker and Eric Wareheim for Cartoon Network's late night programming block, Adult Swim. It premiered on November 14, 2004 and ended on September 25, 2006, with a total of thirty episodes.",
+    "releaseInfo": "2004",
+    "genres": [
+      "Animación",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/xWLv9D97boFnNWvFdmLELHTn2nu.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0425720:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2004-11-14"
+      },
+      {
+        "id": "tt0425720:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2004-11-21"
+      },
+      {
+        "id": "tt0425720:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2004-12-05"
+      },
+      {
+        "id": "tt0425720:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2004-12-12"
+      },
+      {
+        "id": "tt0425720:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2004-12-19"
+      },
+      {
+        "id": "tt0425720:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2005-04-17"
+      },
+      {
+        "id": "tt0425720:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2005-04-24"
+      },
+      {
+        "id": "tt0425720:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2005-05-01"
+      },
+      {
+        "id": "tt0425720:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2005-05-08"
+      },
+      {
+        "id": "tt0425720:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2005-05-15"
+      },
+      {
+        "id": "tt0425720:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2005-05-22"
+      },
+      {
+        "id": "tt0425720:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2005-06-05"
+      },
+      {
+        "id": "tt0425720:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2005-06-12"
+      },
+      {
+        "id": "tt0425720:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2006-06-04"
+      },
+      {
+        "id": "tt0425720:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2006-06-11"
+      },
+      {
+        "id": "tt0425720:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2006-06-18"
+      },
+      {
+        "id": "tt0425720:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2006-06-25"
+      },
+      {
+        "id": "tt0425720:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2006-07-02"
+      },
+      {
+        "id": "tt0425720:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2006-07-09"
+      },
+      {
+        "id": "tt0425720:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2006-07-16"
+      },
+      {
+        "id": "tt0425720:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2006-07-23"
+      },
+      {
+        "id": "tt0425720:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2006-07-30"
+      },
+      {
+        "id": "tt0425720:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2006-08-07"
+      },
+      {
+        "id": "tt0425720:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2006-08-14"
+      },
+      {
+        "id": "tt0425720:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2006-08-21"
+      },
+      {
+        "id": "tt0425720:2:13",
+        "title": "Episodio 13",
+        "season": 2,
+        "episode": 13,
+        "released": "2006-08-28"
+      },
+      {
+        "id": "tt0425720:2:14",
+        "title": "Episodio 14",
+        "season": 2,
+        "episode": 14,
+        "released": "2006-09-04"
+      },
+      {
+        "id": "tt0425720:2:15",
+        "title": "Episodio 15",
+        "season": 2,
+        "episode": 15,
+        "released": "2006-09-11"
+      },
+      {
+        "id": "tt0425720:2:16",
+        "title": "Episodio 16",
+        "season": 2,
+        "episode": 16,
+        "released": "2006-09-18"
+      },
+      {
+        "id": "tt0425720:2:17",
+        "title": "Episodio 17",
+        "season": 2,
+        "episode": 17,
+        "released": "2006-09-25"
+      }
+    ]
+  }
+}

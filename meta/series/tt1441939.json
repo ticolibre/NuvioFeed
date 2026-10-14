@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "id": "tt1441939",
+    "type": "series",
+    "name": "Titan Maximum",
+    "poster": "https://image.tmdb.org/t/p/w500/gXcoYwYkMOQJOxKScjqWAgeKXv9.jpg",
+    "posterShape": "poster",
+    "description": "Titan Maximum is an American stop motion animated television series created by Tom Root and Matthew Senreich. The series premiered on Cartoon Network's late night programing block, Adult Swim, on September 27, 2009, and was canceled after only one season. A teaser premiered during the \"Robot Chicken on Wheels\" tour and at the 2009 San Diego Comic-Con International. It is a parody of the \"Super Robot\" anime style produced using stop motion animation.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/p1q1RpY11X2cu0bkIMpvMipB3pz.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1441939:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2009-09-27"
+      },
+      {
+        "id": "tt1441939:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2009-10-04"
+      },
+      {
+        "id": "tt1441939:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2009-10-11"
+      },
+      {
+        "id": "tt1441939:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2009-10-18"
+      },
+      {
+        "id": "tt1441939:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2009-10-25"
+      },
+      {
+        "id": "tt1441939:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2009-11-01"
+      },
+      {
+        "id": "tt1441939:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2009-11-08"
+      },
+      {
+        "id": "tt1441939:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2009-11-15"
+      },
+      {
+        "id": "tt1441939:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2009-11-22"
+      }
+    ]
+  }
+}

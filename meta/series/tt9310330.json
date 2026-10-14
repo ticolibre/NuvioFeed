@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "tt9310330",
+    "type": "series",
+    "name": "Yasuke",
+    "poster": "https://image.tmdb.org/t/p/w500/EyrE3HJsMArVSORCnP0ooiAd9T.jpg",
+    "posterShape": "poster",
+    "description": "En otro tiempo conocido como el Samurái Negro, un pacífico barquero se ve arrastrado de nuevo al conflicto cuando decide amparar a una niña de poderes misteriosos.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/n37Q4McCD6EpiZJICgsDJWUhkWE.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt9310330:1:1",
+        "title": "Rōnin",
+        "season": 1,
+        "episode": 1,
+        "overview": "A su joven hija la aqueja un mal misterioso, e Ichika le pide a Yasuke que las lleve a ver a un doctor especial, pero él se niega a llevarlas en su bote.",
+        "released": "2021-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/inje5MwV0jsYtXEUOBgsvCiRduI.jpg"
+      },
+      {
+        "id": "tt9310330:1:2",
+        "title": "La antigua costumbre",
+        "season": 1,
+        "episode": 2,
+        "overview": "En 1581, Yasuke y Natsumaru fueron guerreros fieles al servicio de Nobunaga. En nuestros días, los mercenarios alcanzan a Yasuke y lo atacan.",
+        "released": "2021-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lmFVxeNFCddVOIXoIeqcT1XxfpY.jpg"
+      },
+      {
+        "id": "tt9310330:1:3",
+        "title": "Pecados mortales",
+        "season": 1,
+        "episode": 3,
+        "overview": "Abraham envía a Haruto y Nikita en busca de Saki, que usa sus poderes para contraatacar. Bajo tortura, Yasuke revive una traición.",
+        "released": "2021-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hJYOUGMwMj5c2MLsODQfly9RmRc.jpg"
+      },
+      {
+        "id": "tt9310330:1:4",
+        "title": "El largo camino",
+        "season": 1,
+        "episode": 4,
+        "overview": "De vuelta en la aldea, Saki le pide a Yasuke que la lleve a ver al doctor Morisuke... y no acepta negativas. Pronto descubrirán que los persiguen nuevos enemigos.",
+        "released": "2021-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gxq8ycCwEiVrxrr3NhxpwPdfWbx.jpg"
+      },
+      {
+        "id": "tt9310330:1:5",
+        "title": "Dolor y sangre",
+        "season": 1,
+        "episode": 5,
+        "overview": "Morisuke protege a Saki del ataque de la daimio en el plano astral, y Yasuke confronta al enmascarado General Oscuro, que revela su verdadera identidad.",
+        "released": "2021-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yE9KS1Ft4rslaI78EJqlDegRhFg.jpg"
+      },
+      {
+        "id": "tt9310330:1:6",
+        "title": "Equilibrio",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mientras Morisuke y sus hombres crean un escudo protector en torno al templo, Yasuke y Saki se enfrentan a la daimio en el castillo Azuchi.",
+        "released": "2021-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/282TNHTiT5PcvnRpJdPzDPAXTEG.jpg"
+      }
+    ]
+  }
+}

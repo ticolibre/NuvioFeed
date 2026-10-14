@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "id": "tt10233448",
+    "type": "series",
+    "name": "Vinland Saga",
+    "poster": "https://image.tmdb.org/t/p/w500/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg",
+    "posterShape": "poster",
+    "description": "Cuando Thors, un gran guerrero viking muere asesinado en batalla a manos de Askeladd, un mercenario, su hijo, Thorfinn, jura vengarse. Para ello tendrá que demostrar su valía antes de ganarse el derecho a retar a un duelo al asesino de su padre.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Animación",
+      "War & Politics",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10233448:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4DW0fGvoQgH9eODch7j21Yshzdj.jpg"
+      },
+      {
+        "id": "tt10233448:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tg4AU11NU8HtHUCXXtsYidybD8x.jpg"
+      },
+      {
+        "id": "tt10233448:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t671itLj7Nt9oatLHeetYZresnY.jpg"
+      },
+      {
+        "id": "tt10233448:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wyqB9KiMdG7TZqsifSpNkFTpT3C.jpg"
+      },
+      {
+        "id": "tt10233448:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xl2eHxtN8Z7K2y008VKQv5kXFJB.jpg"
+      },
+      {
+        "id": "tt10233448:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xQBhFPORk2qiHd6lrAhO7LmsXt7.jpg"
+      },
+      {
+        "id": "tt10233448:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/TEscn9jYP0fO4BvJwWj2dISivD.jpg"
+      },
+      {
+        "id": "tt10233448:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kXqzBmmofkcldGwE8J3nwshPfdL.jpg"
+      },
+      {
+        "id": "tt10233448:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kRpuMZ51xi6nNrrCxQB0ofIgOc6.jpg"
+      },
+      {
+        "id": "tt10233448:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tcCpGdFKyFz5cx0QIFzSAbytqSf.jpg"
+      },
+      {
+        "id": "tt10233448:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aJ3tyRXIbT3rnQ2qZqRZ53clnk0.jpg"
+      },
+      {
+        "id": "tt10233448:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gv6oEX3yk14ULRzpzwb2SeXhpjo.jpg"
+      },
+      {
+        "id": "tt10233448:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pYW3pmIQRiF2n96d71zkFlH5vaY.jpg"
+      },
+      {
+        "id": "tt10233448:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9TvNLJ3aLDARuYD602mLBCiQcT8.jpg"
+      },
+      {
+        "id": "tt10233448:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yNlZjTaTOa2MOjM9qyJxddBo1bQ.jpg"
+      },
+      {
+        "id": "tt10233448:1:16",
+        "title": "Episodio 16",
+        "season": 1,
+        "episode": 16,
+        "released": "2019-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zi5NuNSmYMnftilfOebCoUiNSf7.jpg"
+      },
+      {
+        "id": "tt10233448:1:17",
+        "title": "Episodio 17",
+        "season": 1,
+        "episode": 17,
+        "released": "2019-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/giCXN698HTHwZPDGYfXB636Dmvx.jpg"
+      },
+      {
+        "id": "tt10233448:1:18",
+        "title": "Episodio 18",
+        "season": 1,
+        "episode": 18,
+        "released": "2019-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xbZtszSUWEWOUQU75ywHdHfEZih.jpg"
+      },
+      {
+        "id": "tt10233448:1:19",
+        "title": "Episodio 19",
+        "season": 1,
+        "episode": 19,
+        "released": "2019-11-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q0oU85bZ924v6A0ah9nnJESwzLl.jpg"
+      },
+      {
+        "id": "tt10233448:1:20",
+        "title": "Episodio 20",
+        "season": 1,
+        "episode": 20,
+        "released": "2019-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7YuGEGFRfDwx26DUEmJpIMSVPBM.jpg"
+      },
+      {
+        "id": "tt10233448:1:21",
+        "title": "Episodio 21",
+        "season": 1,
+        "episode": 21,
+        "released": "2019-12-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2pDnNNSyZgC2OGanRsohCPWHCb.jpg"
+      },
+      {
+        "id": "tt10233448:1:22",
+        "title": "Episodio 22",
+        "season": 1,
+        "episode": 22,
+        "released": "2019-12-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oNFBQHPnpBOp2imod7HxFvrokyy.jpg"
+      },
+      {
+        "id": "tt10233448:1:23",
+        "title": "Episodio 23",
+        "season": 1,
+        "episode": 23,
+        "released": "2019-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aE48nt9kL8J1VWA2je6JrOVuZx3.jpg"
+      },
+      {
+        "id": "tt10233448:1:24",
+        "title": "Episodio 24",
+        "season": 1,
+        "episode": 24,
+        "released": "2019-12-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pXTIBHL1PaeMquIvYzbKZtsiqZh.jpg"
+      },
+      {
+        "id": "tt10233448:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/39Egg6NtF0yWU9YxLMH35jPceJr.jpg"
+      },
+      {
+        "id": "tt10233448:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kARuAybuBELgFlFeADMDuGNNFbg.jpg"
+      },
+      {
+        "id": "tt10233448:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wyUgkAmFx5YBhex0yEaDw6Hz3YE.jpg"
+      },
+      {
+        "id": "tt10233448:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rQIAdFTAO7zNjSq5s1GXroIRFby.jpg"
+      },
+      {
+        "id": "tt10233448:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-02-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bsl84lrge48qEIMA8TTLTLoDxYX.jpg"
+      },
+      {
+        "id": "tt10233448:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2mNJhJqqGMdRUUSjH8rTyvonXHc.jpg"
+      },
+      {
+        "id": "tt10233448:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aPwKhTUAjAEr5BIsIUlgUZLG9RV.jpg"
+      },
+      {
+        "id": "tt10233448:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Zg2Sp2ts8DV950zWGUMpbiA6jT.jpg"
+      },
+      {
+        "id": "tt10233448:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g1jxQe0I4nbCaW5DoyAaLcrfswV.jpg"
+      },
+      {
+        "id": "tt10233448:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zXoLhLbMAMgJqKsk5HytCEHTSwt.jpg"
+      },
+      {
+        "id": "tt10233448:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5lpzPKNaW1qFUugkXeALjFW66Bp.jpg"
+      },
+      {
+        "id": "tt10233448:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2023-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPXASfQKN7bkcf9li1fFBMKiHkY.jpg"
+      },
+      {
+        "id": "tt10233448:2:13",
+        "title": "Episodio 13",
+        "season": 2,
+        "episode": 13,
+        "released": "2023-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uZCIwyXSFLp4n80H82wfQ6csiq.jpg"
+      },
+      {
+        "id": "tt10233448:2:14",
+        "title": "Episodio 14",
+        "season": 2,
+        "episode": 14,
+        "released": "2023-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k1cEDh1OW7k07mfhLoB16LTXCg.jpg"
+      },
+      {
+        "id": "tt10233448:2:15",
+        "title": "Episodio 15",
+        "season": 2,
+        "episode": 15,
+        "released": "2023-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wSrVhEDXnLSWISS90nyfUBIDTHT.jpg"
+      },
+      {
+        "id": "tt10233448:2:16",
+        "title": "Episodio 16",
+        "season": 2,
+        "episode": 16,
+        "released": "2023-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j3u7dbjGNpAoLiMhyXbWWe9F8cu.jpg"
+      },
+      {
+        "id": "tt10233448:2:17",
+        "title": "Episodio 17",
+        "season": 2,
+        "episode": 17,
+        "released": "2023-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hrbjEw5HzneU2QNBeS7QgncwGyf.jpg"
+      },
+      {
+        "id": "tt10233448:2:18",
+        "title": "Episodio 18",
+        "season": 2,
+        "episode": 18,
+        "released": "2023-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pBBvPM0SxzonWR19WtizP05oaL0.jpg"
+      },
+      {
+        "id": "tt10233448:2:19",
+        "title": "Episodio 19",
+        "season": 2,
+        "episode": 19,
+        "released": "2023-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g1W7U1TVRM0hJA76R6pxkDOs67R.jpg"
+      },
+      {
+        "id": "tt10233448:2:20",
+        "title": "Episodio 20",
+        "season": 2,
+        "episode": 20,
+        "released": "2023-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9KtEVVJ3O4OZHcSWk5d4uuLEVL2.jpg"
+      },
+      {
+        "id": "tt10233448:2:21",
+        "title": "Episodio 21",
+        "season": 2,
+        "episode": 21,
+        "released": "2023-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uYSWeoZsDmTMTSQSZbH78scPKfl.jpg"
+      },
+      {
+        "id": "tt10233448:2:22",
+        "title": "Episodio 22",
+        "season": 2,
+        "episode": 22,
+        "released": "2023-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xROo4ESn6Tmk9NAD8zlhFLu1n2M.jpg"
+      },
+      {
+        "id": "tt10233448:2:23",
+        "title": "Episodio 23",
+        "season": 2,
+        "episode": 23,
+        "released": "2023-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mrF7kEJHtH6r4Cz1OaAZ7sIdLU8.jpg"
+      },
+      {
+        "id": "tt10233448:2:24",
+        "title": "Episodio 24",
+        "season": 2,
+        "episode": 24,
+        "released": "2023-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aorS01rq0HnmbCseTe6K66z8t7z.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "metas": [
+    {
+      "id": "tt32490110",
+      "type": "movie",
+      "name": "Slanted",
+      "poster": "https://image.tmdb.org/t/p/w500/9wQdAaqH7lfsEPlZ8BtMdSn6h7i.jpg",
+      "posterShape": "poster",
+      "description": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nHOs2CG7zgl7gJIdWA4KvIiDEBU.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28613536",
+      "type": "movie",
+      "name": "Un Mejor Papá",
+      "poster": "https://image.tmdb.org/t/p/w500/22TqqVfuSrZhPIdtpnNm92sQ4cS.jpg",
+      "posterShape": "poster",
+      "description": "Inspirado en una historia real. Mientras busca a su padre ausente en Facebook, Lily conoce a un amable extraño con el mismo nombre que él, y los dos terminan creando un inesperado vínculo de amistad.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14946978",
+      "type": "movie",
+      "name": "La cuidadora de la mansión Garret",
+      "poster": "https://image.tmdb.org/t/p/w500/mskEvxMmEjkQ7tiKzTn2PGc7dP.jpg",
+      "posterShape": "poster",
+      "description": "«Raging Grace» sigue a Joy, una inmigrante filipina sin papeles que sobrevive junto a su hija en Inglaterra, durmiendo en viviendas vacías donde trabaja como limpiadora. Un día, es contratada como cuidadora de un anciano moribundo en una casona, pero lo que parece un buen trabajo se convierte en una pesadilla al descubrir los oscuros secretos de la casa y sus habitantes. Dirigida por Paris Zarcilla, esta película mezcla terror y thriller sociopolítico para contar una historia inspirada en la experiencia de su propia familia sobre la condescendencia y explotación que enfrentan los inmigrantes sin papeles.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Terror",
+        "Comedia",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sdCf5jFzyZRGS1umUlmXz7Gn3ao.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14935966",
+      "type": "movie",
+      "name": "Te quiero papá",
+      "poster": "https://image.tmdb.org/t/p/w500/fTP28OF0SlRRyng0QX3ekzCPFgW.jpg",
+      "posterShape": "poster",
+      "description": "Un padre irremediablemente distanciado intenta reavivar la relación con su hijo.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3X4t5Zzbd05dG5xtehC3mI0qImX.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11847410",
+      "type": "movie",
+      "name": "The Fallout: La vida después",
+      "poster": "https://image.tmdb.org/t/p/w500/fOJwjsJNtQlDhBanJSouGDwQfvP.jpg",
+      "posterShape": "poster",
+      "description": "Vada es una adolescente que trata de superar los efectos secundarios que sufre tras vivir una tragedia en su instituto. Tras esta experiencia, la relación con su familia y sus amigos, así como su forma de ver el mundo, cambiarán para siempre.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2vDftymNaVXhRULlc2ZGHHDsdnD.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11618536",
+      "type": "movie",
+      "name": "Primer año de universidad",
+      "poster": "https://image.tmdb.org/t/p/w500/5bYkdaKZKcj3fXHfEj2qQiR1LP3.jpg",
+      "posterShape": "poster",
+      "description": "Alex, un estudiante de primer año universitario solitario, se ha alejado de sus compañeros, quienes parecen haber resuelto todo este “asunto de la universidad”. Pero todo cambia una noche cuando Alex da un salto y asiste a una fiesta en Shithouse, una legendaria fraternidad de fiestas, donde forja una fuerte conexión con Maggie.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4KajfHWJ190Qm6J1NR2qxFNntPb.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10533368",
+      "type": "movie",
+      "name": "Alice",
+      "poster": "https://image.tmdb.org/t/p/w500/lRVJ4GG7Osw0KlJK4MjH9rOuR5j.jpg",
+      "posterShape": "poster",
+      "description": "Seven years after the abduction of his daughter Alice, Jacques leads a life suspended in waiting.  The days pass by, between the routine of his work as a storekeeper and the emptiness of the family home.  As a usual day ends, strange details disturb Jacques' daily life and gradually awaken his existence ...",
+      "releaseInfo": "2019",
+      "genres": [
+        "Fantasía"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fyvyZql5sdxL8t0saoabahCK2Ee.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7738450",
+      "type": "movie",
+      "name": "Thunder Road",
+      "poster": "https://image.tmdb.org/t/p/w500/ynljTdiGVUCJJ6THSZi22SBoQAR.jpg",
+      "posterShape": "poster",
+      "description": "A police officer faces a personal meltdown following a divorce and the death of his mother.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g9uDiHKpk2LvzG3RlmtYZ3ybYZS.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4866448",
+      "type": "movie",
+      "name": "La isla más hermosa",
+      "poster": "https://image.tmdb.org/t/p/w500/uRW4NGnfYHcV65QKnUC4Q5EyhVe.jpg",
+      "posterShape": "poster",
+      "description": "Luciana es una inmigrante indocumentada que lucha por sobrevivir en los Estados Unidos, y que tratará de encontrar la redención de un pasado tormentoso a través de un peligroso juego.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/le5bVwKZisAyUZ64u6M0dcRX4qi.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4015996",
+      "type": "movie",
+      "name": "The Arbalest",
+      "poster": "https://image.tmdb.org/t/p/w500/ykHYYKN7LvosOssryDyAZJHr0KJ.jpg",
+      "posterShape": "poster",
+      "description": "The inventor of the world's greatest toy reflects on his obsession with a woman who hates him.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4266638",
+      "type": "movie",
+      "name": "Krisha",
+      "poster": "https://image.tmdb.org/t/p/w500/xN4xhl5HYhfO9W8Y1ZZEnqmQEip.jpg",
+      "posterShape": "poster",
+      "description": "When Krisha returns to her estranged family for Thanksgiving dinner, past demons threaten to ruin the festivities.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zmhNStGN7DIGaFHQ0wERqCULGfy.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3457734",
+      "type": "movie",
+      "name": "Fort Tilden",
+      "poster": "https://image.tmdb.org/t/p/w500/fhm3SFtrcyzA1rGT00OnOeZ4WDF.jpg",
+      "posterShape": "poster",
+      "description": "Twenty-something Brooklynites Allie and Harper are directionless, privileged, and just a tiny bit damaged. All they want is to get to the beach, where a drug-fueled afternoon with cute boys awaits them. Alas, the journey becomes needlessly complicated, as the girls’ bike ride from Williamsburg to Fort Tilden Beach is littered with a barrage of unfriendly circumstances and the realization that their life skills are more limited than they should be.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b4pL7cgFrFec47XaoERS56CU3fg.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2370248",
+      "type": "movie",
+      "name": "Short Term 12",
+      "poster": "https://image.tmdb.org/t/p/w500/oHXiJRArx9F9dk22FUmtduGWflT.jpg",
+      "posterShape": "poster",
+      "description": "Grace es una joven que trabaja como supervisora en un centro de acogida para adolescentes en situación de precariedad. Le encanta su empleo y vive entregada al cuidado de los chicos. Pero, al mismo tiempo, pesa sobre ella un pasado conflictivo que la llena de angustia.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uTmwbGpjH9GVXz1kjyuKeW0jlI4.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1734433",
+      "type": "movie",
+      "name": "Eden",
+      "poster": "https://image.tmdb.org/t/p/w500/6MWSeVg9KESHpS3wXz4uwSlpd3f.jpg",
+      "posterShape": "poster",
+      "description": "Basada en un hechos reales, Eden narra la historia de Hyun Jae, una joven americano-coreana que es secuestrada por una red de tráfico de blancas y drogas, y obligada a ejercer la prostitución. Tras un par de años, la muchacha aprendido como actuar en ese microclímax para poder sobrevivir a él, e incluso alcanzar ciertas cotas de poder dentro del mismo.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/phUPfeWUxoaW5AylEby4kcuva1r.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1621426",
+      "type": "movie",
+      "name": "Natural Selection",
+      "poster": "https://image.tmdb.org/t/p/w500/x5dCdyCYzx8j28S6fMO41YgYLnk.jpg",
+      "posterShape": "poster",
+      "description": "When a dutiful, albeit barren Christian housewife discovers that her devout husband has suffered a stroke at a sperm bank where he's been secretly donating his seed for the past 25 years, she leaves her sheltered world and starts off on a journey to find his eldest biological son - a mullet-headed, foul-mouthed ex-con with whom she develops an odd but meaningful relationship.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zMGBzikCJJ5tiqyabgYZ0DyUFkV.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1570989",
+      "type": "movie",
+      "name": "Tiny Furniture",
+      "poster": "https://image.tmdb.org/t/p/w500/5T81WvUlc1Our3UwmluXBBc3L0k.jpg",
+      "posterShape": "poster",
+      "description": "After graduating from film school, Aura returns to New York to live with her photographer mother, Siri, and her sister, Nadine, who has just finished high school. Aura is directionless and wonders where to go next in her career and her life. She takes a job in a restaurant and tries unsuccessfully to develop relationships with men, including Keith, a chef where she works, and cult Internet star Jed.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pyXuLJm0IfkvqQS8F2mJpqEGX0R.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1316064",
+      "type": "movie",
+      "name": "Made in China",
+      "poster": "https://image.tmdb.org/t/p/w500/1HT7eSJP0EMpFirhZgA1imoe9go.jpg",
+      "posterShape": "poster",
+      "description": "A confident young man with a unique style and a solid entrepreneurial spirit has made it his mission to bring the small pleasures in life to a global market. As an aspiring inventor inspired by history's most infamous jokesters, he's determined to jump through all the hoops in order to realize his dreams. When he's not taken seriously amongst the locals stateside, he takes it upon himself to travel to Shanghai and broker a manufacturing deal on his own. Lost in Shanghai, Johnson discovers that it takes more than a bright idea to succeed. It takes guts, determination, and a fist full of sneezing powder.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tIBixwtDf8oYyBbJTRJ72eDCBvj.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0496328",
+      "type": "movie",
+      "name": "Itty Bitty Titty Committee",
+      "poster": "https://image.tmdb.org/t/p/w500/xWJMF9xb4OfWRU7QcOxOosgIElE.jpg",
+      "posterShape": "poster",
+      "description": "High School grad and all American gal, Anna, finds her purpose and herself after she hooks up with the radical feminists in The Itty Bitty Titty Committee.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fgXKnK4XwQTkh701Ing3YKEZyGb.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0432318",
+      "type": "movie",
+      "name": "Live Free or Die",
+      "poster": "https://image.tmdb.org/t/p/w500/zhsF9TgcGLuNq1euW50hEL0TlSL.jpg",
+      "posterShape": "poster",
+      "description": "Dos criminales de poca monta sueñan con dar un golpe que les permita retirarse para siempre del mundo de la delincuencia. Las circunstancias hacen que se vean obligados a huir por culpa de un crimen que solamente ellos creen haber cometido.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iDIKZFNXpJyu8xkPoOKyHrAoIE5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0385002",
+      "type": "movie",
+      "name": "Hooligans - Defiende a los tuyos",
+      "poster": "https://image.tmdb.org/t/p/w500/oTxHFRSbFcCWdfJB4ozA41Yq57c.jpg",
+      "posterShape": "poster",
+      "description": "Después de ser expulsado injustamente de la Universidad de Harvard, el estadounidense Matt Buckner huye a la casa de su hermana en Inglaterra. Una vez allí, se hace amigo de su encantador y peligroso cuñado, Pete Dunham, y le presenta el inframundo del vandalismo del fútbol británico.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/isRzCN0ATsZ4CdBf6CSGA2ruclW.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0319767",
+      "type": "movie",
+      "name": "Luck",
+      "poster": "https://image.tmdb.org/t/p/w500/4XrraPyKPVYsc5uQbZke8qJh28i.jpg",
+      "posterShape": "poster",
+      "description": "Shane Bradley, who is fixated on ideas of luck and destiny, tries to win the girl of his dreams. After their relationship falters, Shane begins to think he might be unlucky and turns to gambling as an outlet for his obsession.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0298050",
+      "type": "movie",
+      "name": "Manito",
+      "poster": "https://image.tmdb.org/t/p/w500/8Nzotyqv1Yj00Nw5REAvRYjdCTT.jpg",
+      "posterShape": "poster",
+      "description": "Fifteen years ago, their Washington Heights neighborhood was dubbed the crack-cocaine capital of the world, but today it is transforming into one of the most vibrant, Spanish-speaking communities in the United States. While the drug dealers continue to disappear, their violent legacy still casts a shadow over the neighborhood and its residents. Junior, an ex-convict struggling to get his life back on track, is a product of this legacy. His younger brother Manny, the salutatorian of his high school class, embodies the hope of the future. On the night of his graduation party, Manny finds himself faced with an ill-fated decision that could change his life forever",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tMRAfzm6YNMqAYTTN1uWHige3rD.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0144688",
+      "type": "movie",
+      "name": "Wildflowers",
+      "poster": "https://image.tmdb.org/t/p/w500/nL9STkawX52zSHV6GJte9anzGy8.jpg",
+      "posterShape": "poster",
+      "description": "A melancholic 17-year-old raised on a small commune by her father encounters a free-spirited older woman she is convinced is her birth mother.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0280884",
+      "type": "movie",
+      "name": "Low Self-Esteem Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/bER4ATRjcnQHJOeGYBlX6Ek5cja.jpg",
+      "posterShape": "poster",
+      "description": "A generous but gullible young woman is exploited sexually by a pot dealer and his clients. Meanwhile, a demon-possessed virgin falls in love with her but his Christian youth group pastor won't let him date her until she is converted. While the potheads conspire, the Christians pressure her. Will Lois be a saint or a sinner? Or will she learn there's really no difference?",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "4.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0169190",
+      "type": "movie",
+      "name": "Rollercoaster",
+      "poster": "https://image.tmdb.org/t/p/w500/eIx7zjsJxWIUW0GGmEnnBy6k1f5.jpg",
+      "posterShape": "poster",
+      "description": "In pursuit of fantasy, five teenagers hop the fence of a now defunct amusement park. While apparently a mindless diversion, for two of them the park is the setting for a more fatal bid at escape.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zGb246EmwW3to60ugwaMkUa3RNy.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.6"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

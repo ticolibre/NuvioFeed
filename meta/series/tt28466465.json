@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "tt28466465",
+    "type": "series",
+    "name": "Rick y Morty: El Anime",
+    "poster": "https://image.tmdb.org/t/p/w500/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg",
+    "posterShape": "poster",
+    "description": "Rick se relaja en un pseudomundo entre multiversos, Summer ayuda a Beth Espacial a luchar contra la malvada Federación Galáctica, y Morty se enamora.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vvXYIeSwRVm3nIsgGZ2xtGJCB9e.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt28466465:1:1",
+        "title": "La chica que manipula el tiempo",
+        "season": 1,
+        "episode": 1,
+        "overview": "En este nuevo universo, Morty se enamora de una nueva chica, y la Federación Galáctica persigue a Rick y su misterioso dispositivo.",
+        "released": "2024-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kygkozdOcPz16lRSWEsRZnQxBki.jpg"
+      },
+      {
+        "id": "tt28466465:1:2",
+        "title": "Madre Luchadora",
+        "season": 1,
+        "episode": 2,
+        "overview": "La Federación captura a Rick. Beth Espacial está ocupándose. Y Rick también. Y Rick.",
+        "released": "2024-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ga3ebOfX6NkRhNlGKTJTWn9sTUS.jpg"
+      },
+      {
+        "id": "tt28466465:1:3",
+        "title": "Elle Alien",
+        "season": 1,
+        "episode": 3,
+        "overview": "Morty le da batalla a la Federación. Y Morty busca amor en los lugares equivocados.",
+        "released": "2024-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x4V5r2zhSiym11JhmJMqiBOWMps.jpg"
+      },
+      {
+        "id": "tt28466465:1:4",
+        "title": "Recuerdos",
+        "season": 1,
+        "episode": 4,
+        "overview": "Summer y Morty buscan a Rick, que está atrapado en un multiverso. Además, Jerry desaparece.",
+        "released": "2024-09-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q0yDMJdfAwxZfXwpEIGf0Jh7Cwn.jpg"
+      },
+      {
+        "id": "tt28466465:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/URHcKgDP8O2BWBky5p4pid3pR1.jpg"
+      },
+      {
+        "id": "tt28466465:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iGeBvIPBX3X0zkaqII6ag7Xrl9S.jpg"
+      },
+      {
+        "id": "tt28466465:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-09-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eESGTYVrOkmtITSTeUzuroOiiOJ.jpg"
+      },
+      {
+        "id": "tt28466465:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5rGAa5MMVfDmSEbJtyLCdVSRzTf.jpg"
+      },
+      {
+        "id": "tt28466465:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2024-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fpNoVfcN6CeC9nD9fnwKJG7G9gp.jpg"
+      },
+      {
+        "id": "tt28466465:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2024-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2TLMA5pYTLvrWllLGZtrvhL3ZHA.jpg"
+      }
+    ]
+  }
+}

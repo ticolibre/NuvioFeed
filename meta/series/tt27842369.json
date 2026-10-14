@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt27842369",
+    "type": "series",
+    "name": "Oh My God...Yes! Una Serie de Circunstancias Extremadamente Comunes",
+    "poster": "https://image.tmdb.org/t/p/w500/aBX5oD3W7PqK9qKsfZBvr9UghWj.jpg",
+    "posterShape": "poster",
+    "description": "Serie ambientada en Los Ángeles cerca del año 2102 que sigue las desventuras de tres amigas en un mundo impredecible marcado por la tecnología.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Comedia",
+      "Animación"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/yXK0KSc89P5iTtoaFPXG9kNDoPU.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt27842369:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7w4XBz1Fjxv4nZjg9DIZDbrqqzK.jpg"
+      },
+      {
+        "id": "tt27842369:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-03-10"
+      },
+      {
+        "id": "tt27842369:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vLSQomhoFS1ISOIxjQDIvtMbqg0.jpg"
+      },
+      {
+        "id": "tt27842369:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9cxDhI3J93GBPPcJOyTK79JNsGk.jpg"
+      },
+      {
+        "id": "tt27842369:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cFoce0mMTNUT0ZFks3QpgJp9oNU.jpg"
+      },
+      {
+        "id": "tt27842369:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2025-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vdWgVreWxjNeIX02dSET9U2QVg9.jpg"
+      },
+      {
+        "id": "tt27842369:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dYEbO5VQRwhAHAN6InUIaCb5fLu.jpg"
+      }
+    ]
+  }
+}

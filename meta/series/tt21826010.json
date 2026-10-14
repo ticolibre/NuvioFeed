@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "id": "tt21826010",
+    "type": "series",
+    "name": "Housing Complex C",
+    "poster": "https://image.tmdb.org/t/p/w500/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
+    "posterShape": "poster",
+    "description": "Kimi lives in a small, low-cost housing complex located in the seaside town of Kurosaki, with horrific incidents starting to occur and trouble seemingly following her wherever she goes. Is an ancient evil stalking the residents of Housing Complex C?",
+    "releaseInfo": "2022",
+    "genres": [
+      "Animación",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kKFUtMcC6oVT18O34MeEWAHMkty.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt21826010:1:1",
+        "title": "Ilusión óptica",
+        "season": 1,
+        "episode": 1,
+        "overview": "Todo en el Complejo de Vivienda C siempre ha parecido estar bien. Hasta que un nuevo lote de residentes se muda y ocurren algunos incidentes extraños. ¿Es su llegada solo una coincidencia? Uno de los residentes establecidos, Kimi, se une a una de las chicas nuevas, Yuri, y juntos hacen un descubrimiento extraño.",
+        "released": "2022-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eqSXuFaMYAM4XCSSFyRz3ge9LQ5.jpg"
+      },
+      {
+        "id": "tt21826010:1:2",
+        "title": "Botones no coincidentes",
+        "season": 1,
+        "episode": 2,
+        "overview": "Kimi quiere llevarse bien con los otros nuevos residentes y espera que una fiesta de hielo raspado ayude a romper el hielo, pero hay algo extraño en el jarabe.",
+        "released": "2022-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kzzqLutL1Ey64MpeRayfSHVXJhB.jpg"
+      },
+      {
+        "id": "tt21826010:1:3",
+        "title": "La rueda viene en círculo completo",
+        "season": 1,
+        "episode": 3,
+        "overview": "A medida que ocurren más y más eventos extraños, todos se preocupan. Kimi y algunos de los residentes mayores exploran las ruinas debajo del complejo en busca de la causa de todos estos incidentes.",
+        "released": "2022-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v3SCPcuwziUA9H6G4Ph6AUBYwmJ.jpg"
+      },
+      {
+        "id": "tt21826010:1:4",
+        "title": "El final de la línea",
+        "season": 1,
+        "episode": 4,
+        "overview": "Definitivamente hay algo mal, pero los antiguos residentes no parecían darse cuenta. Los recién llegados ayudarán a revelar el horror que ha estado al acecho todo el tiempo.",
+        "released": "2022-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7nwDexwUIQ8C7XwhNIvaZt6mykm.jpg"
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA and Independent Spirit winners. Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA and Adult Swim. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -180,6 +180,39 @@
       "type": "movie",
       "id": "spirit-best-feature",
       "name": "Independent Spirit: Best Feature",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "mappa",
+      "name": "MAPPA",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "adult-swim",
+      "name": "Adult Swim",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "sxsw-narrative",
+      "name": "SXSW: Grand Jury Winners",
       "extra": [
         {
           "name": "skip",
