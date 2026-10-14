@@ -1,0 +1,739 @@
+{
+  "metas": [
+    {
+      "id": "tt14976292",
+      "type": "series",
+      "name": "LINK CLICK",
+      "poster": "https://image.tmdb.org/t/p/w500/44cNZ5PmLOwTIOkYwlAewgzn8Bl.jpg",
+      "posterShape": "poster",
+      "description": "Usando superpoderes para ingresar las fotos de sus clientes una por una, Cheng Xiaoshi y Lu Guang toman en serio su trabajo en «Time Photo Studio», una pequeña tienda de fotografía ubicada en el contexto de una metrópolis moderna.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11540908",
+      "type": "series",
+      "name": "Carrie",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "posterShape": "poster",
+      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve obligada a enfrentarse al despiadado mundo de la preparatoria pública. Además de lidiar con un caso de acoso que se vuelve viral por toda su comunidad y la era de las redes sociales, llena de presión constante y crueldad cotidiana, también descubre los misteriosos poderes telequinésicos que despiertan junto con su adolescencia.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Linternas",
+      "poster": "https://image.tmdb.org/t/p/w500/t6Ub9GTbw6uwphRZQQiQlKim0vO.jpg",
+      "posterShape": "poster",
+      "description": "El nuevo recluta John Stewart y la leyenda Hal Jordan, dos policías intergalácticos, se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Bajo la superficie",
+      "poster": "https://image.tmdb.org/t/p/w500/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "posterShape": "poster",
+      "description": "Cuando una misteriosa criatura marina aterroriza a un pueblo costero canadiense, un recio pescador y su familia luchan por proteger a su comunidad.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://image.tmdb.org/t/p/w500/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "posterShape": "poster",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "9.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36753615",
+      "type": "movie",
+      "name": "バッド・ルーテナント:トウキョウ",
+      "poster": "https://image.tmdb.org/t/p/w500/rWiwfGrHgTd2bqOtJ1UxhtpOZQM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t935ImPiov88IxrFcMzfAtLfwmr.jpg",
+      "description": "A corrupt gambler in the Metropolitan Police Force finds himself thrown into a tangled case after an enigmatic FBI agent arrives in Tokyo to investigate the disappearance of a politician’s daughter.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Acción"
+      ]
+    },
+    {
+      "id": "tt40385667",
+      "type": "series",
+      "name": "La Isla Del Tesoro",
+      "poster": "https://image.tmdb.org/t/p/w500/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+      "posterShape": "poster",
+      "description": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://image.tmdb.org/t/p/w500/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "posterShape": "poster",
+      "description": "Ted Lasso, un ingenuo entrenador de fútbol americano que decide probar suerte en un club de fútbol inglés aunque no tiene idea de ese deporte. Su inexperiencia despierta recelo y desdén entre jugadores y aficionados. Con un equipo y una ciudad que lo mira con sospecha, ¿Logrará tener éxito?",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "posterShape": "poster",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "releaseInfo": "2026",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "5.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35854736",
+      "type": "series",
+      "name": "Avatar: Los Siete Refugios",
+      "poster": "https://image.tmdb.org/t/p/w500/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+      "posterShape": "poster",
+      "description": "Tras un cataclismo global una niña descubre que es el nuevo Avatar - ahora señalada como la Destructora, no una salvadora. Cazada por humanos y espíritus, ella y su gemela perdida deben descubrir sus orígenes y salvar a la humanidad del colapso.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7441658",
+      "type": "series",
+      "name": "Black Clover",
+      "poster": "https://image.tmdb.org/t/p/w500/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg",
+      "posterShape": "poster",
+      "description": "Asta y Yuno son dos huérfanos que fueron criados juntos desde su nacimiento en una iglesia en las afueras del Reino de Clover. En un mundo donde todos tienen poder mágico, Asta nació sin ningún tipo de poder. A diferencia de él, Yuno nació como un prodigio con inmenso poder mágico y gran talento para controlarlo. La historia sigue a los dos hermanos adoptivos mientras compiten para ver cuál de ellos se convertirá en el Rey Mago, el Caballero Mágico más fuerte del Reino de Clover.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "Tierra de Mafia",
+      "poster": "https://image.tmdb.org/t/p/w500/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
+      "posterShape": "poster",
+      "description": "El poder está en juego cuando dos familias criminales rivales se enfrentan y arriesgan sus imperios y sus vidas. En el fuego cruzado está Harry Da Souza, un astuto \"solucionador\" que sabe dónde están las lealtades cuando las fuerzas opuestas chocan.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21097264",
+      "type": "series",
+      "name": "Al este del Edén",
+      "poster": "https://image.tmdb.org/t/p/w500/ck2VRrRpGG3W5wkpFovYlGVLYke.jpg",
+      "posterShape": "poster",
+      "description": "A principios del siglo XX, una mujer fuerte e independiente abre una brecha entre dos hermanos... y marca el comienzo de una saga que se extenderá a la siguiente generación.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt39328047",
+      "type": "series",
+      "name": "닥터X: 하얀 마피아의 시대",
+      "poster": "https://image.tmdb.org/t/p/w500/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+      "posterShape": "poster",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+      "posterShape": "poster",
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35769369",
+      "type": "series",
+      "name": "Chitose Is in the Ramune Bottle",
+      "poster": "https://image.tmdb.org/t/p/w500/xCsz0dWkpoya5XK3y2UaEkXnin5.jpg",
+      "posterShape": "poster",
+      "description": "Saku Chitose disfruta de su vida rodeado de amigos y admiradoras, pero su reputación como solucionador de problemas lo lleva a una nueva misión: lograr que un marginado regrese a la escuela. ¿Podrá hacerlo con su confianza habitual?",
+      "releaseInfo": "2025",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "posterShape": "poster",
+      "description": "Serie de antología, ya que cada temporada se realiza como una miniserie independiente, con un grupo de personajes diferentes, escenarios distintos y una trama que tiene su propio comienzo, desarrollo y final. Aun así, las temporadas están conectadas entre sí.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/puKRIbG2asaTFHIjJS5sydIW1zB.jpg",
+      "posterShape": "poster",
+      "description": "Cuando lo arrestan por un asesinato que no cometió, el oficial retirado de la policía militar Jack Reacher se ve envuelto en una conspiración letal de policías corruptos, empresarios turbios y políticos intrigantes. Solo con su ingenio, debe descubrir qué está sucediendo en Margrave, Georgia. La primera temporada de \"Reacher\" se basa en la exitosa novela \"Zona peligrosa\" de Lee Child.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt33406999",
+      "type": "series",
+      "name": "GET JIRO",
+      "poster": "https://image.tmdb.org/t/p/w500/sRzOHzpJy4hLWM1Ta2P1TYRV3CM.jpg",
+      "posterShape": "poster",
+      "description": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animación",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "name": "Marshals: Una historia de Yellowstone",
+      "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
+      "posterShape": "poster",
+      "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt35051210",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+      "posterShape": "poster",
+      "description": "Explore the explosive life of Mike Tyson — one of the most feared and fascinating figures in sports history.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documental"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Caballos lentos",
+      "poster": "https://image.tmdb.org/t/p/w500/jnbQWjyWxcCf6DaGQXC5AACHCYv.jpg",
+      "posterShape": "poster",
+      "description": "Esta ingeniosa serie de espionaje sigue a un equipo disfuncional de agentes del MI5, y a su insoportable jefe, el famoso Jackson Lamb, mientras exploran el engañoso mundo del espionaje para defender a Inglaterra de perversos enemigos.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32499579",
+      "type": "series",
+      "name": "El hotel embrujado",
+      "poster": "https://image.tmdb.org/t/p/w500/fnMLrknppEITHf6in7vW4ryDG9C.jpg",
+      "posterShape": "poster",
+      "description": "Tras heredar un hotel, una madre soltera se muda ahí con el amable fantasma de su hermano y algunos huéspedes exigentes que nunca se van.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2359704",
+      "type": "series",
+      "name": "JoJo's Bizarre Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "posterShape": "poster",
+      "description": "En la Gran Bretaña de finales del siglo XIX, el joven Jonathan Joestar conoce a su nuevo hermano adoptivo, Dio Brando, quien únicamente quiere usurparle el puesto de heredero de la familia Joestar a Jonathan. No obstante, su plan fracasa y decide usar una máscara de piedra de origen mesoamericano que lo convierte en un vampiro, obteniendo la inmortalidad y poderes sobrenaturales. Jonathan, junto a su maestro del Hamon Will A. Zeppeli y a un matón callejero llamado Robert E.O. Speedwagon, deberá detener y destruir a Dio ahora que su objetivo es dominar a todo el mundo. Serie basada en el famoso manga de mismo nombre. La primera temporada abarca dos arcos argumentales diferentes \"Phantom Blood\" y \"Battle Tendency\".",
+      "releaseInfo": "2012",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt36064406",
+      "type": "series",
+      "name": "Coven Academy: El Secreto de las Brujas",
+      "poster": "https://image.tmdb.org/t/p/w500/d61XSo2lQN18OYQ2HTautxSkSW1.jpg",
+      "posterShape": "poster",
+      "description": "Tras llegar a una misteriosa escuela de magia en Nueva Orleans, la adolescente neoyorquina Briar Roberts intenta resolver el misterio sobre el destino de su madre en medio de un creciente conflicto entre brujas y vampiros. Con su aquelarre de jóvenes aprendices de bruja, deberá combatir una amenaza aún más oscura y sobrevivir a los peligros de una escuela secundaria sobrenatural. Y entre tanto caos, nacerá un primer amor prohibido.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0434665",
+      "type": "series",
+      "name": "Bleach",
+      "poster": "https://image.tmdb.org/t/p/w500/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "posterShape": "poster",
+      "description": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una Cegador —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un Hueco, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al Hueco en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "Los Simpson",
+      "poster": "https://image.tmdb.org/t/p/w500/mpizUstxJmMbgMwc8MDEXQ6kXTP.jpg",
+      "posterShape": "poster",
+      "description": "La familia Simpson (Homero, Marge, Bart, Lisa y Maggie), y un reparto virtual de miles, viven aventuras cotidianas en Springfield, una ciudad estadounidense promedio.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt39201866",
+      "type": "series",
+      "name": "100일의 거짓말",
+      "poster": "https://image.tmdb.org/t/p/w500/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+      "posterShape": "poster",
+      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg"
+    },
+    {
+      "id": "tt26743760",
+      "type": "series",
+      "name": "Los diarios de la boticaria",
+      "poster": "https://image.tmdb.org/t/p/w500/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
+      "posterShape": "poster",
+      "description": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "releaseInfo": "2023",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30461072",
+      "type": "series",
+      "name": "现在就出发",
+      "poster": "https://image.tmdb.org/t/p/w500/uEoAOCIm4W275u00vx6UmhW6ruA.jpg",
+      "posterShape": "poster",
+      "description": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Reality",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32639706",
+      "type": "series",
+      "name": "La caja azul",
+      "poster": "https://image.tmdb.org/t/p/w500/dDypuyZkEWWEKffTxHjrCcpNZ3z.jpg",
+      "posterShape": "poster",
+      "description": "Esta serie sigue a Taiki Inomata, un adolescente que asiste a la escuela Eimei y juega en el equipo de bádminton. Todas las mañanas, entrena junto con Chinatsu Kano, una chica que lo tiene enamorado, está en un curso superior y juega en el equipo de baloncesto. Cuando los padres de Chinatsu se mudan al exterior por trabajo, ella va a vivir con la familia de Taiki. Ahora que comparten el mismo techo, él tratará de profundizar el vínculo que los une mientras ambos se esfuerzan por llegar al campeonato nacional con sus respectivos equipos.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Animación",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32766897",
+      "type": "series",
+      "name": "Ranma1/2",
+      "poster": "https://image.tmdb.org/t/p/w500/xvgflNHdEClMcAR9RuPtJiPDPkp.jpg",
+      "posterShape": "poster",
+      "description": "Akane Tendo conoce a su prometido, Ranma Saotome, un experto en artes marciales con un detallecito menor: por arte de magia, se transforma en chica cuando toca el agua fría.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://image.tmdb.org/t/p/w500/AsPD90QEQsIAtSxfSjV3fN7XFpt.jpg",
+      "posterShape": "poster",
+      "description": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action & Adventure",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0182576",
+      "type": "series",
+      "name": "Padre de Familia",
+      "poster": "https://image.tmdb.org/t/p/w500/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+      "posterShape": "poster",
+      "description": "La disfuncional familia Griffin (Los padres Peter y Lois; sus hijos Meg, Chris y Stewie; y su perro antropormófico Brian) viven aventuras cada vez más enfermizas, retorcidas, políticamente incorrecto y tremendamente dulce.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://image.tmdb.org/t/p/w500/5PLGffaQ5Xw7RyMSZXh39ue6RSt.jpg",
+      "posterShape": "poster",
+      "description": "Una divertidísima serie animada creada por Matt Groening que cuenta la historia de un repartidor de pizzas llamado Fry que se congela criogénicamente por accidente en 1999 y se despierta 1000 años más tarde en un nuevo mundo que, en muchos aspectos, no ha progresado mucho desde el siglo XX.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 3600,
+  "staleRevalidate": 600,
+  "staleError": 86400
+}

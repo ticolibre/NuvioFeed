@@ -8,7 +8,8 @@
     {
       "name": "meta",
       "types": [
-        "movie"
+        "movie",
+        "series"
       ],
       "idPrefixes": [
         "tt",
@@ -17,7 +18,8 @@
     }
   ],
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "catalogs": [
     {
@@ -144,6 +146,21 @@
       "type": "movie",
       "id": "trending-movies",
       "name": "Trending Movies",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "trending-series",
+      "name": "Trending Series",
       "extra": [
         {
           "name": "skip",
