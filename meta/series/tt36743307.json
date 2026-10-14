@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "id": "tt36743307",
+    "type": "series",
+    "name": "El círculo",
+    "poster": "https://image.tmdb.org/t/p/w500/hkZ8ID4k0nGOdGJa1ynjj8nTmiW.jpg",
+    "posterShape": "poster",
+    "description": "El asesinato de una famosa actriz que destapa una red de secretos, espionaje y corrupción política que pone en peligro a cuatro amigos de la infancia.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Misterio",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt36743307:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pqluf2nyWv2J1t0phYmXI9udmXk.jpg"
+      },
+      {
+        "id": "tt36743307:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mPQ3g2h14ryupG0M7xKADNBhQ4U.jpg"
+      },
+      {
+        "id": "tt36743307:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tz3tGge02mw7XT7WX0rvb8mJoaN.jpg"
+      },
+      {
+        "id": "tt36743307:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ysbZ2UnInSaNtGhivNZ0pMR9w5P.jpg"
+      },
+      {
+        "id": "tt36743307:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/px6hdQwaWedIN25IzrY1RneQclt.jpg"
+      },
+      {
+        "id": "tt36743307:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oIV0u3Xq1S8JtwKFoFjFmWBAX5R.jpg"
+      },
+      {
+        "id": "tt36743307:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/54kGInWE0WnFM1Fj3ese6TA9RxY.jpg"
+      },
+      {
+        "id": "tt36743307:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/59UHt6oSykamwv0YdbQtfjClimn.jpg"
+      }
+    ]
+  }
+}

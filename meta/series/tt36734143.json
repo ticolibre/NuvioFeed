@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "tt36734143",
+    "type": "series",
+    "name": "Las dos caras de un asesinato",
+    "poster": "https://image.tmdb.org/t/p/w500/seHNLnTB0SGx9xTvY7P6tf9HTxM.jpg",
+    "posterShape": "poster",
+    "description": "A la sombra de una tragedia muy publicitada, se pasa por alto un crimen inquietantemente similar. Robin Roberts, de GMA, arroja nueva luz sobre las víctimas mayormente ignoradas.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/aqULqg8lfzcjC7X9SWzelKb7hMi.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "9.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt36734143:1:1",
+        "title": "Maternidad interrumpida",
+        "season": 1,
+        "episode": 1,
+        "overview": "Dos mujeres embarazadas, Laci Peterson y Evelyn Hernández, aparecen muertas en la bahía de San Francisco. ¿Existe alguna relación? Rumores de un culto satánico.",
+        "released": "2025-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eOSWxLpBhWcNCDyjTDTxyXzZiUt.jpg"
+      },
+      {
+        "id": "tt36734143:1:2",
+        "title": "Asesinatos en la capital",
+        "season": 1,
+        "episode": 2,
+        "overview": "Chandra Levy y Joyce Chiang, dos jóvenes vinculadas a los círculos de poder de Washington, desaparecen y aparecen asesinadas. ¿Se trata de un asesino en serie?",
+        "released": "2025-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cWNhCDfY0t5bCHNnoGNB1y3XKgY.jpg"
+      },
+      {
+        "id": "tt36734143:1:3",
+        "title": "Los buenos se vuelven malos",
+        "season": 1,
+        "episode": 3,
+        "overview": "Los depredadores conocidos como el Asesino de Craigslist y el Asesino de la Etiqueta usan las redes sociales para cazar. Una superviviente cuenta su historia.",
+        "released": "2025-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/13ViGSzSAuW0Hd3N9h1uNuCDgUj.jpg"
+      }
+    ]
+  }
+}

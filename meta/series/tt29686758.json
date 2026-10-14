@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "tt29686758",
+    "type": "series",
+    "name": "La hija de Dios: Dalma Maradona",
+    "poster": "https://image.tmdb.org/t/p/w500/A93YlOwzCMK6h6sSFlPbdleCAzj.jpg",
+    "posterShape": "poster",
+    "description": "A través de material inédito, relatos y anécdotas, Dalma Maradona nos invita a conocer a su papá, uno de los futbolistas más icónicos del mundo, de una forma que nunca antes lo vimos.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/1FMqX7ujJl31ML8MDzSCkGnOT5e.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt29686758:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mwBpyUvymQe0VGzM9yyqE3aw6PG.jpg"
+      },
+      {
+        "id": "tt29686758:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uKQ2JCQEfOqUang3G6yb5l7kuws.jpg"
+      },
+      {
+        "id": "tt29686758:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bjFqiz6qlqSqtFPxS451s5gNXzT.jpg"
+      }
+    ]
+  }
+}

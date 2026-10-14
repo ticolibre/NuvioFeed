@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "id": "tt39656291",
+    "type": "series",
+    "name": "The Dark Wizard",
+    "poster": "https://image.tmdb.org/t/p/w500/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
+    "posterShape": "poster",
+    "description": "An unflinching portrait of Dean Potter, the world's most influential and controversial climber, base jumper and highline walker, who achieves jaw-dropping feats while battling his inner demons.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7it9nEObNN6dfsJH92QlJZd2Chx.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39656291:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x45KPl5KDollVH08RiIirAAzMQr.jpg"
+      },
+      {
+        "id": "tt39656291:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Ajk07RjJDSvIg1yKYeAmP6FyVCN.jpg"
+      },
+      {
+        "id": "tt39656291:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/foOmGoJBc2bvypFbZdGvkEKGJeS.jpg"
+      },
+      {
+        "id": "tt39656291:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bf1IHUFCap2wFsxFqTuFDjcffXc.jpg"
+      }
+    ]
+  }
+}

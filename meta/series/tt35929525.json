@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": "tt35929525",
+    "type": "series",
+    "name": "Shaque - No Confies En Nadie",
+    "poster": "https://image.tmdb.org/t/p/w500/2X0O4Bl3Ef2cQqH7d9O2hRIZvMj.jpg",
+    "posterShape": "poster",
+    "description": "Narra la historia de Christine Lucas, una mujer que padece amnesia severa tras sufrir una brutal agresión en su juventud.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Crimen",
+      "Misterio",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt35929525:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m9jv6U23GpjWqQQKevvXLF05S5k.jpg"
+      },
+      {
+        "id": "tt35929525:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tKHxrqBhcspq38ipsxn9PeebHaz.jpg"
+      },
+      {
+        "id": "tt35929525:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zYK8HkInSNOr8wVOEeUHU5IMQxn.jpg"
+      },
+      {
+        "id": "tt35929525:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xDLoMler3stPBvsc2vMWq4t7YXg.jpg"
+      },
+      {
+        "id": "tt35929525:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gRun4WE0e2cqxi7QhaCdMswcm6h.jpg"
+      },
+      {
+        "id": "tt35929525:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bFy59yNARv0Bv7IKGwFojOAABa8.jpg"
+      },
+      {
+        "id": "tt35929525:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5lpBX4UvnOyZXIoImJJDcO9Yr8h.jpg"
+      }
+    ]
+  }
+}

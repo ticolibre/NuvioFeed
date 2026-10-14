@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "id": "tt39368539",
+    "type": "series",
+    "name": "Monstruos de Dios",
+    "poster": "https://image.tmdb.org/t/p/w500/jmwdx7qsfiXUZP2C22DkGpcjd1o.jpg",
+    "posterShape": "poster",
+    "description": "Eric Goode (Chimp Crazy) sigue a su primer amor, los reptiles, hasta el oscuro y extravagante mundo del contrabando de animales exóticos.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/gQUA5I6dOC17soO3BLagbztB6v2.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39368539:1:1",
+        "title": "La Fiebre",
+        "season": 1,
+        "episode": 1,
+        "overview": "En los 70, la obsesión por reptiles raros impulsó una industria de contrabando multimillonaria... hasta que las autoridades se dieron cuenta.",
+        "released": "2026-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bEWE6X9TXeg1nd5ThOgjhAYFt5U.jpg"
+      },
+      {
+        "id": "tt39368539:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4vM4Ds9xH78gVdEAYMuvOMxwqhw.jpg"
+      },
+      {
+        "id": "tt39368539:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hU8VA2neaKo6041hmqeHpp1xNr7.jpg"
+      },
+      {
+        "id": "tt39368539:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fOwS88M5rz6bHEeBpfPmIqOQUW5.jpg"
+      },
+      {
+        "id": "tt39368539:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o9efKD45bK5rpuBKgTM9sieF5ML.jpg"
+      }
+    ]
+  }
+}

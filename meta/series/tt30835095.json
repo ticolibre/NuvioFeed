@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "tt30835095",
+    "type": "series",
+    "name": "Festival Renacentista",
+    "poster": "https://image.tmdb.org/t/p/w500/tPcvnnt4cc7yNFOb94Wp9RcC4t4.jpg",
+    "posterShape": "poster",
+    "description": "Miniserie documental de HBO que sigue a George Coulam, de 86 años, conocido por sus empleados como el Rey George, y su búsqueda -tan ridícula como fantástica- de un sucesor para la feria renacentista más grande de los EUA.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Documental",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/3DI0TSk91uOvFpagq4GR8IUR5sG.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt30835095:1:1",
+        "title": "\"Papá se Muere, ¿Quién Recibe la Herencia?\"",
+        "season": 1,
+        "episode": 1,
+        "overview": "Con el inminente retiro del rey George Coulam, de 86 años, el futuro del Festival Renacentista de Texas queda en la incertidumbre.",
+        "released": "2024-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3z0ofgmpNtDD58LMBhc4vr19AdK.jpg"
+      },
+      {
+        "id": "tt30835095:1:2",
+        "title": "\"Tomen Grandes Decisiones\"",
+        "season": 1,
+        "episode": 2,
+        "overview": "El rey George tiene una cita. Jeff intenta frustrar la oferta de Louie por la corona. Darla Smith entra en escena con un plan propio.",
+        "released": "2024-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t5wXHzMk8gmWnQnFdLDoDRkkCJc.jpg"
+      },
+      {
+        "id": "tt30835095:1:3",
+        "title": "\"¡Terminamos!\"",
+        "season": 1,
+        "episode": 3,
+        "overview": "Jeff le saca ventaja a Louie. El ascenso de Darla tiene consecuencias inesperadas. George consigue un sucesor.",
+        "released": "2024-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c4xiZgfIehNwL9GJSfHucNXMPCY.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "id": "tt44871098",
+    "type": "series",
+    "name": "7 vs. Wild: Wildcard Competition",
+    "poster": "https://image.tmdb.org/t/p/w500/fEUPkDKEAPMXUv9MmaFG7rcj3BW.jpg",
+    "posterShape": "poster",
+    "description": "",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental",
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/2MK74rPHWK97qcaGhTpIgkg43wL.jpg",
+    "videos": [
+      {
+        "id": "tt44871098:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPZvFM51SqPLFg7THTiRoJX7MG6.jpg"
+      },
+      {
+        "id": "tt44871098:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z7krqZeNFgzpWPM7cVoUZOXq4Xv.jpg"
+      },
+      {
+        "id": "tt44871098:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xU2ESd249abNYL5Qs5pWKgoCkB8.jpg"
+      },
+      {
+        "id": "tt44871098:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tOdT8qf2cNrMgNTzOD1hK5x1r0b.jpg"
+      },
+      {
+        "id": "tt44871098:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a7ufiNio2wb4lq56vK9khTHqNBw.jpg"
+      },
+      {
+        "id": "tt44871098:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ymwiyjmJZDvwJfFvTVqFTBFBkUG.jpg"
+      },
+      {
+        "id": "tt44871098:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5mhMcz7AvQgsBR98uWiq4TLEus2.jpg"
+      }
+    ]
+  }
+}

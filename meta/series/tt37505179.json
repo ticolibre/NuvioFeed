@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "id": "tt37505179",
+    "type": "series",
+    "name": "Her Last Broadcast: The Abduction of Jodi Huisentruit",
+    "poster": "https://image.tmdb.org/t/p/w500/dA1MfnJezhhpL9VDh0sx0LD0XaU.jpg",
+    "posterShape": "poster",
+    "description": "In 1995, rising TV news anchor Jodi Huisentruit disappeared from her Iowa apartment just before dawn, leaving behind signs of a violent abduction. Her case quickly became one of the nation’s most haunting unsolved mysteries. Now, 30 years later, “Her Last Broadcast: The Abduction of Jodi Huisentruit” follows a major break that reenergized the case.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/h6OMcX0k96eBNKdkMB4m4Q1rSwi.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt37505179:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cI3NKWcQiaMp8NUHSCkGqTJpfwR.jpg"
+      },
+      {
+        "id": "tt37505179:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/at48d5IS0k9GgFq5uXP23RqpFMp.jpg"
+      },
+      {
+        "id": "tt37505179:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-07-15"
+      }
+    ]
+  }
+}

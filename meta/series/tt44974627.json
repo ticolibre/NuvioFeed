@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "id": "tt44974627",
+    "type": "series",
+    "name": "The Grand Tour",
+    "poster": "https://image.tmdb.org/t/p/w500/pTf940vbADvkJVznFo9o7DZY4QO.jpg",
+    "posterShape": "poster",
+    "description": "Bienvenidos a The Grand Tour. El mejor programa de automovilismo del mundo regresa con nuevos presentadores: Thomas Holland, James Engelsman y Francis Bourgeois, y la inconfundible combinación de aventuras alrededor del mundo, vehículos extraordinarios, acrobacias espectaculares y opiniones contundentes que lo caracteriza.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt44974627:1:1",
+        "title": "Una nueva generación",
+        "season": 1,
+        "episode": 1,
+        "overview": "Thomas, James y Francis reciben la bendición oficial de Jeremy Clarkson antes de emprender su primera aventura. En un recorrido por el sur de California, comparan tres de los mejores autos estadounidenses de alto rendimiento: el Ford Mustang GTD, el Chevrolet Corvette ZR1 y el Hennessey Venom F5 Revolution Evolution. ¿Cómo? Compitiendo contra jets de combate, por supuesto.",
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8ABy17KzMiKiisuQx21JdT1nykI.jpg"
+      },
+      {
+        "id": "tt44974627:1:2",
+        "title": "Singapur, sudor y autos deportivos",
+        "season": 1,
+        "episode": 2,
+        "overview": "Thomas, Francis y James viajan desde la futurista Singapur hasta las tierras altas de Malasia para responder una importante pregunta: ¿es posible comprar, por menos de 5000 libras, un deportivo divertido de manejar que no pase más tiempo en el taller que en la carretera?",
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c3WDnFjQlqQLcfIeB2NfoZTV5zk.jpg"
+      },
+      {
+        "id": "tt44974627:1:3",
+        "title": "Pequeños de gran corazón",
+        "season": 1,
+        "episode": 3,
+        "overview": "Tras una charla en el pub con James May, el equipo cruza el Atlántico para convencer a los estadounidenses de que los diminutos autos japoneses Kei son geniales. ¿Y qué mejor forma de hacerlo que recorrer Colorado fuera de la carretera y enfrentarse a la subida más temible del país: el pico Pikes, un monstruo de 4300 metros?",
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aioGPEsvug3zkHv6y4MMDpETj6X.jpg"
+      },
+      {
+        "id": "tt44974627:1:4",
+        "title": "El último sobreviviente",
+        "season": 1,
+        "episode": 4,
+        "overview": "Los presentadores se proponen descubrir cuál es el auto más resistente jamás fabricado. Tras una serie de pruebas superdestructivas, recurren a Richard Hammond para que los ayude a coronar al ganador. Además, Thomas y Francis ponen a prueba un Alfa Romeo clásico y un Subaru convertidos en restomods a un costo exorbitante.",
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hmFlH4gTnl47atw2f97StbzwZmU.jpg"
+      },
+      {
+        "id": "tt44974627:1:5",
+        "title": "Carrera contra el tiempo",
+        "season": 1,
+        "episode": 5,
+        "overview": "Un hiperauto se enfrenta a un tren cuando Thomas, James y Francis compiten con un Pagani Utopia contra el transporte público desde Gran Bretaña hasta el Gran Premio de Bélgica, con una entrega urgente para Alex Albon, el piloto de Williams F1. Además, James revela la increíble historia del BMW Isetta y sus hazañas durante la Guerra Fría.",
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wruVnxAPVtVVGD1JaxfUx09Sd1R.jpg"
+      },
+      {
+        "id": "tt44974627:1:6",
+        "title": "Angola a toda velocidad",
+        "season": 1,
+        "episode": 6,
+        "overview": "Thomas, James y Francis viajan a Angola en un trío de autos de carreras completamente inadecuados para descubrir si este rincón del sur de África es realmente un semillero oculto del automovilismo más puro. ¿Encontrarán carreras en medio del desierto? ¿O solo un montón de arena en el que quedarán atrapados?",
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/anTdafnX5ilpjw0DXSWYJOygWtg.jpg"
+      }
+    ]
+  }
+}

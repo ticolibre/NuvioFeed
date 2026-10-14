@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "tt27997206",
+    "type": "series",
+    "name": "Nago.Głośno.Dumnie",
+    "poster": "https://image.tmdb.org/t/p/w500/3YluyILPhfgVaGeT9Gp9NweU83L.jpg",
+    "posterShape": "poster",
+    "description": "Esta docuserie muestra a las drag queens, activistas y aliados de la escena LGBTQ+ de Polonia.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ajWOTWlvfIgFKdEWWFNZOpRo0eH.jpg",
+    "videos": [
+      {
+        "id": "tt27997206:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nPSzaXmPuXRow89GRgDSPJRaovC.jpg"
+      },
+      {
+        "id": "tt27997206:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c34ZQ3i6kpRFvKSCqLKEg6FA4II.jpg"
+      },
+      {
+        "id": "tt27997206:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hIglLGaaO8tUafA6DI61A27ySF2.jpg"
+      },
+      {
+        "id": "tt27997206:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4D314juNieg17uGLcysv03ankf1.jpg"
+      },
+      {
+        "id": "tt27997206:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AiBleeVCjHUNzCx2UQJTrm6xSIE.jpg"
+      }
+    ]
+  }
+}

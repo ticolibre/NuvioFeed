@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt28635678",
+    "type": "series",
+    "name": "A híd",
+    "poster": "https://image.tmdb.org/t/p/w500/c5PcmaR1PML1wX2uTUuJEl7yq2g.jpg",
+    "posterShape": "poster",
+    "description": "",
+    "releaseInfo": "2023",
+    "genres": [
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/nq7YBwKqcbJRxgtR6zgCcmVg77J.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt28635678:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mplCd941I9f972Ym2tKPgjCnztk.jpg"
+      },
+      {
+        "id": "tt28635678:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nCbwzURrTTUCvNJB9xLX2rnHBcq.jpg"
+      },
+      {
+        "id": "tt28635678:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/641LFbFUxxGOrPTiCencxqhpaez.jpg"
+      },
+      {
+        "id": "tt28635678:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2YwfcDfR4n6FRvRYMmXMfo6d0SO.jpg"
+      },
+      {
+        "id": "tt28635678:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5ZkZcAbbrQG0tyek4qjAp7TeyT5.jpg"
+      },
+      {
+        "id": "tt28635678:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hgF2hZOxQeP66L0NNCACxtZmAFQ.jpg"
+      },
+      {
+        "id": "tt28635678:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/urCZDsGPP1cWt2W5JRPh6xstLJP.jpg"
+      }
+    ]
+  }
+}

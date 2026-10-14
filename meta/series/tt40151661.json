@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": "tt40151661",
+    "type": "series",
+    "name": "Born to Bowl",
+    "poster": "https://image.tmdb.org/t/p/w500/4vTG083oV7EHBtlXKeREvNJRSl2.jpg",
+    "posterShape": "poster",
+    "description": "Go inside the colorful world of professional bowling and follow five stars of the sport as they chase glory, respect, and much-needed prize money on the Professional Bowlers Association (PBA) Tour.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zEKR4UUaAIrOSbDlhlbyjGRhyDP.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt40151661:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7IMdYUrW6hI1K7oGawz7p5uOXuK.jpg"
+      },
+      {
+        "id": "tt40151661:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-03-23"
+      },
+      {
+        "id": "tt40151661:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-03-30"
+      },
+      {
+        "id": "tt40151661:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-04-06"
+      },
+      {
+        "id": "tt40151661:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-04-13"
+      }
+    ]
+  }
+}

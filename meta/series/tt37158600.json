@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "tt37158600",
+    "type": "series",
+    "name": "Mis muertos tristes",
+    "poster": "https://image.tmdb.org/t/p/w500/3ZgL0K4S9ovBmUvS72giGjsSsmX.jpg",
+    "posterShape": "poster",
+    "description": "Ema, una médica de 60 años, puede ver y escuchar a los muertos. Los llama “presencias” y ha vivido toda su vida evitando que ese don la conecte con el sufrimiento de otros. Pero cuando su sobrina Julie —una joven perturbada que también puede comunicarse con los muertos, aunque de una forma mucho más intensa y sexual— llega a su casa, Ema se ve obligada a involucrarse. Lo que comienza como un reencuentro familiar se convierte en una perturbadora cadena de eventos que alteran el equilibrio entre el mundo de los vivos y los muertos, contagiando a todo un barrio con voces del más allá. Mientras las fronteras entre la vida, la muerte y el deseo se desdibujan, Ema tendrá que enfrentarse a su pasado, su hija, y los fantasmas que nunca dejó ir.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/gvBZ7qSCsszgUX74y8VLNw2in03.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt37158600:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bIuZ3py5kYP2iOeea0EEu6Khg7K.jpg"
+      },
+      {
+        "id": "tt37158600:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cE86n9FXjkQkHjuNoadZjc24VjE.jpg"
+      },
+      {
+        "id": "tt37158600:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jqqL2uHLvvspJpSjsYumMUaBrhS.jpg"
+      },
+      {
+        "id": "tt37158600:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n03zLtTtghBETHdkeWUDb0qx7Dg.jpg"
+      }
+    ]
+  }
+}

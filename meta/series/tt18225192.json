@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt18225192",
+    "type": "series",
+    "name": "Omnívoros",
+    "poster": "https://image.tmdb.org/t/p/w500/8LE4uUjh0c5FogDBmOE0KTkUWci.jpg",
+    "posterShape": "poster",
+    "description": "Desde las salinas de Perú hasta los bosques de cafetales de Ruanda, explora y rinde homenaje a los ingredientes que construyeron sociedades, dieron forma a creencias y alteraron para siempre el entramado de la humanidad.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/6LRcfShibpU5UMFM78FqB9QEJgd.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt18225192:1:1",
+        "title": "Chile",
+        "season": 1,
+        "episode": 1,
+        "overview": "Suave, medio, picante... infierno. Desde el pimentón hasta el chile fantasma, descubre cómo el chile se ha enraizado firmemente en partes de nuestra identidad.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cradirI34L1Wn3LDweruiyKUlV5.jpg"
+      },
+      {
+        "id": "tt18225192:1:2",
+        "title": "Atún",
+        "season": 1,
+        "episode": 2,
+        "overview": "Antes, indeseable, ahora, un lujo codiciado: el atún rojo tiene una de las historias más turbulentas del mundo de los alimentos.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e2kOX1Ns1JETz8IHuQ9a3e8Qdcn.jpg"
+      },
+      {
+        "id": "tt18225192:1:3",
+        "title": "Sal",
+        "season": 1,
+        "episode": 3,
+        "overview": "Los alimentos que comemos. El sudor en nuestra piel. La sal moldea todo a nuestro alrededor: su historia es nuestra historia.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Gwb3LNrejXusWBozl2mBLVecOq.jpg"
+      },
+      {
+        "id": "tt18225192:1:4",
+        "title": "Plátano",
+        "season": 1,
+        "episode": 4,
+        "overview": "Hay más de 1500 variedades de plátanos, y sin embargo la mayoría solamente hemos probado una. ¿Por qué? ¿Y qué es lo que perdemos si un solo plátano sale victorioso?",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/14n40utR9agnY6Jny5dXopgaVpN.jpg"
+      },
+      {
+        "id": "tt18225192:1:5",
+        "title": "Cerdo",
+        "season": 1,
+        "episode": 5,
+        "overview": "En el oeste de España hay una pintoresca aldea llamada La Alberca en la que los locales rinden homenaje a un animal como en ningún otro lugar del mundo: el cerdo.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/91nm2FsiQgLTzhJSFChP3pWLs6T.jpg"
+      },
+      {
+        "id": "tt18225192:1:6",
+        "title": "Arroz",
+        "season": 1,
+        "episode": 6,
+        "overview": "Durante miles de años, el arroz ha sido el motor de la humanidad. Pero al crecer exponencialmente la demanda mundial, el futuro de la producción de arroz se vuelve cada día más complicado.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Fd4ofviGrRLJSPWuJyCss5uVzF.jpg"
+      },
+      {
+        "id": "tt18225192:1:7",
+        "title": "Café",
+        "season": 1,
+        "episode": 7,
+        "overview": "Sigue un grano de café desde el árbol hasta la taza para descubrir la complicada historia, el extraordinario oficio y la colaboración única que hay detrás de esta infusión.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/irZZt0LgqwbXPxqfykG69chJUao.jpg"
+      },
+      {
+        "id": "tt18225192:1:8",
+        "title": "Maíz",
+        "season": 1,
+        "episode": 8,
+        "overview": "El maíz ha dejado de ser solo una planta para convertirse en un pilar de la sociedad moderna. Pero ¿qué significa su dominación para el futuro de los alimentos... y para nosotros?",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n0v0eT87ssY8xO7z8May3At1QIH.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": "tt21377088",
+    "type": "series",
+    "name": "La maldición de Enfield",
+    "poster": "https://image.tmdb.org/t/p/w500/lc8tKqx5aSM0neYNXla1Zaq5imM.jpg",
+    "posterShape": "poster",
+    "description": "Vive la escalofriante historia real del caso de poltergeist más famoso del mundo a través de las grabaciones de audio originales que se registraron dentro de la casa cuando sucedieron los hechos.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/fTD5udVc8zo9chXh0KrH86lOtmZ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt21377088:1:1",
+        "title": "Los acontecimientos",
+        "season": 1,
+        "episode": 1,
+        "overview": "Una serie de acontecimientos misteriosos comienza a atormentar a la familia Hodgson, lo cual lleva al inventor Maurice Grosse a investigar.",
+        "released": "2023-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wr0EiKVfTW4D4xqEdTySPLuP50g.jpg"
+      },
+      {
+        "id": "tt21377088:1:2",
+        "title": "Fuerzas desconocidas",
+        "season": 1,
+        "episode": 2,
+        "overview": "Los aterradores sucesos parecen enfocarse en Janet, de 11 años. Cuando se corre la voz, muchos físicos e investigadores psíquicos acuden a la casa.",
+        "released": "2023-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yajLNxksE1b00TorweM0c8KYKSz.jpg"
+      },
+      {
+        "id": "tt21377088:1:3",
+        "title": "Esta cosa",
+        "season": 1,
+        "episode": 3,
+        "overview": "Los escépticos cuestionan las afirmaciones de Maurice mientras a la familia se le acusa de fingir los fenómenos.",
+        "released": "2023-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/izD1T6zh8DL3kYXdDrQaMdbNHfW.jpg"
+      },
+      {
+        "id": "tt21377088:1:4",
+        "title": "Enredo",
+        "season": 1,
+        "episode": 4,
+        "overview": "Llevan a la joven Janet lejos de casa. De adulta, reflexiona sobre lo que le sucedió y sobre el impacto que tuvo la investigación de Maurice.",
+        "released": "2023-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eBCTLO1GjnnWGlEDho5q7OEaEXP.jpg"
+      }
+    ]
+  }
+}

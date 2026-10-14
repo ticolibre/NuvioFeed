@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "id": "tt38133714",
+    "type": "series",
+    "name": "De Memphis a las montañas",
+    "poster": "https://image.tmdb.org/t/p/w500/hsSX6fvGSPuW2VPJ8EUP0eYTn6a.jpg",
+    "posterShape": "poster",
+    "description": "Desde los barrios bajos de Memphis, un grupo de jóvenes escaladores se propone conquistar un pico de casi 5000 metros en el monte Kenia. Desafiando sus propios límites, se enfrentan al aire enrarecido, al miedo y a un viaje de autodescubrimiento.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/8LFdwV3Jxhf6v886SIQp75wqYcR.jpg",
+    "videos": [
+      {
+        "id": "tt38133714:1:1",
+        "title": "Aclimatación",
+        "season": 1,
+        "episode": 1,
+        "overview": "Nueve jóvenes escaladores del sur de Memphis se embarcan en una aventura que podría transformar sus vidas. Su primera misión de entrenamiento en una montaña de Colorado los lleva al límite, y en la lucha, uno de ellos se enfrenta a una revelación.",
+        "released": "2025-09-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wrdEreEDvJVLDOPpmE5hZH0dtS5.jpg"
+      },
+      {
+        "id": "tt38133714:1:2",
+        "title": "Exposure (Memphis to the Mountain (2025))",
+        "season": 1,
+        "episode": 2,
+        "overview": "En lo alto del desierto de Nevada, Alex Honnold y el equipo enfrentan el miedo y el fracaso, mientras que en Memphis, una tragedia los obliga a tomar una decisión crucial.",
+        "released": "2025-09-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8AInZvUdLZHAvx5eFxPJmwwMHys.jpg"
+      },
+      {
+        "id": "tt38133714:1:3",
+        "title": "Elevación",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras el equipo viaja al monte Kenia, varias crisis los azotan en casa y en la montaña, lo que lleva a un escalador a abandonar la expedición, a otro al límite y pone a prueba la resistencia de todos.",
+        "released": "2025-09-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ag6J7V4CsdvCWxgFaDUm3REaWv9.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt32252887",
+    "type": "series",
+    "name": "El señuelo",
+    "poster": "https://image.tmdb.org/t/p/w500/frRY7FwU8T3oxNu31lBDA9u73at.jpg",
+    "posterShape": "poster",
+    "description": "Un actor en pocas horas tiene la oportunidad de conseguir el papel de su vida, pero se enfrenta a una crisis existencial y a una conspiración.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vk7AdYfhmCuWsRrTPMg7Yif8AAt.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt32252887:1:1",
+        "title": "DE FRENTE, SIN FILTRO",
+        "season": 1,
+        "episode": 1,
+        "overview": "Shah arruina la audición más importante de su vida. Tiempos desesperados requieren medidas desesperadas... pero ¿a qué costo?",
+        "released": "2026-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3odfD6gJ2kUdtibBDW24zAXH3QA.jpg"
+      },
+      {
+        "id": "tt32252887:1:2",
+        "title": "EL ARTE DE PROVOCAR",
+        "season": 1,
+        "episode": 2,
+        "overview": "Shah tiene otra oportunidad de tener éxito. Es hora de probarle al mundo que tiene lo que se necesita.",
+        "released": "2026-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qDbbOED1fhvynLkskmNbIRQ2bSJ.jpg"
+      },
+      {
+        "id": "tt32252887:1:3",
+        "title": "¿CASA U HOGAR?",
+        "season": 1,
+        "episode": 3,
+        "overview": "Es el Aíd al-Adha. Shah tiene que dejar todo de lado y concentrarse en la familia.",
+        "released": "2026-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tys7UadpsWphYYNu61vKYVaIHaP.jpg"
+      },
+      {
+        "id": "tt32252887:1:4",
+        "title": "CUESTIÓN DE LEALTAD",
+        "season": 1,
+        "episode": 4,
+        "overview": "Shah necesita un amigo. Como no lo tiene, la ex que lo apuñaló en público tendrá que bastarle.",
+        "released": "2026-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j0E10UD6lg0AITUd2Lt0WUFbS7Z.jpg"
+      },
+      {
+        "id": "tt32252887:1:5",
+        "title": "LA CARNADA, LA TRAMPA",
+        "season": 1,
+        "episode": 5,
+        "overview": "¿Dónde están todos? ¿Quién puede ayudarte? Los enemigos se vuelven aliados y nada es lo que parece.",
+        "released": "2026-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/poqSulGK91f2xZ19BqRHZMAWXnp.jpg"
+      },
+      {
+        "id": "tt32252887:1:6",
+        "title": "EL SUTIL",
+        "season": 1,
+        "episode": 6,
+        "overview": "¿Qué significa un nombre? El tiempo corre y se acerca la gran audición, Shah se esfuerza por encontrar a su familia y a sí mismo.",
+        "released": "2026-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3fc3m2rr0CrWAvVIYKhbrHTW1co.jpg"
+      }
+    ]
+  }
+}

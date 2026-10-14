@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "id": "tt39398809",
+    "type": "series",
+    "name": "Vecinos",
+    "poster": "https://image.tmdb.org/t/p/w500/22nG1Lm4UwGbHwz922brndb7U0Z.jpg",
+    "posterShape": "poster",
+    "description": "Examina escandalosos conflictos residenciales, revelando los extremos a los que llegan los vecinos para defender lo que es suyo. Cada entrega del programa presenta a un nuevo grupo.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental",
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/s2pIMVLujBjLBnNlofmr9kwUXNa.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39398809:1:1",
+        "title": "Defensor de la Costa⁩",
+        "season": 1,
+        "episode": 1,
+        "overview": "En Florida, surge un debate acalorado por la costa de Santa Rosa Beach. Luego, Seth y Josh pelean por una reja en la zona rural de Montana.",
+        "released": "2026-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nwmmv8NsAfAhoEUye8XBfB2z2bB.jpg"
+      },
+      {
+        "id": "tt39398809:1:2",
+        "title": "La Granja",
+        "season": 1,
+        "episode": 2,
+        "overview": "En Indiana, el ganado de Trever enfurece a su vecino Darrell. En Filadelfia, el amor de Jean por los gatos perturba el hogar de Marice.",
+        "released": "2026-02-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wwozVxmrfB68MFw7ttlOc088qfg.jpg"
+      },
+      {
+        "id": "tt39398809:1:3",
+        "title": "Por un Pedazo de Césped",
+        "season": 1,
+        "episode": 3,
+        "overview": "En Florida, Melissa y Victoria discuten por un pedazo de césped, mientras la rivalidad entre Johnny y Andy termina en acusaciones por acoso.",
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ocI1U7znkj5poTreH9u4izZ9QW.jpg"
+      },
+      {
+        "id": "tt39398809:1:4",
+        "title": "Tarjeta de Privilegio Blanco",
+        "season": 1,
+        "episode": 4,
+        "overview": "Una amistad entre dos vecinos de Nashville se destruye para siempre. En San Antonio, Jeff se obsesiona con un gran muro de concreto.",
+        "released": "2026-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gmC4f1J7XbwgJLjHNsxmc9QQ5f5.jpg"
+      },
+      {
+        "id": "tt39398809:1:5",
+        "title": "Competencia de Halloween",
+        "season": 1,
+        "episode": 5,
+        "overview": "Una competencia anual de Halloween en Nueva Jersey divide a Otis y Nelson. En Simi Valley, el conflicto por una cerca toma un giro legal.",
+        "released": "2026-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zAIugcJc7yaLRzDGVIBBpq533uL.jpg"
+      },
+      {
+        "id": "tt39398809:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/W8JcbZglAqSPPQajoXeNXYmCYC.jpg"
+      }
+    ]
+  }
+}

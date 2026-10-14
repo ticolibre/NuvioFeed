@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "tt38626699",
+    "type": "series",
+    "name": "Killing Grounds: The Gilgo Beach Murders",
+    "poster": "https://image.tmdb.org/t/p/w500/mb1oBq4dnWI7vbX64HPXydCUj01.jpg",
+    "posterShape": "poster",
+    "description": "When a woman vanishes, police find bodies along Long Island's shore. Years of dead ends and overlooked victims stall the case until a new task force spots a suspect hiding in plain sight. With trial looming, insiders and families speak.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/lJ6rDjQQmMHz5m4GTPDi6vJXVck.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt38626699:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xU0QISWsGVT61Bxknm1UvaXfsYM.jpg"
+      },
+      {
+        "id": "tt38626699:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mJBWX2JifJLJA5rfN1HQvTuQaVw.jpg"
+      },
+      {
+        "id": "tt38626699:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eEKRwtl2XksM7YqEiLh8GEoUmKB.jpg"
+      },
+      {
+        "id": "tt38626699:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5NWcv75LdABTowcgI6kxDxVel6.jpg"
+      }
+    ]
+  }
+}

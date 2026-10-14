@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "tt32267462",
+    "type": "series",
+    "name": "One South: Portrait of a Psych Unit",
+    "poster": "https://image.tmdb.org/t/p/w500/cUcQIROJeEp5qKBqZFgxT3Kd5JC.jpg",
+    "posterShape": "poster",
+    "description": "One South is an inpatient psychiatric unit at Zucker Hillside Hospital in Queens, NY, specializing in treating young adults. It may look more like a college dorm than a psychiatric hospital, but patients arrive every day in acute crisis. They are dealing with a variety of mental health issues, including depression, anxiety, personality disorders, and psychosis, and many have contemplated or attempted suicide. A team of doctors, social workers, and nurses work together to stabilize the patients and prepare them to return to the outside world",
+    "releaseInfo": "2024",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wyn7KX9sOm7NJXNrY0lJY26lJnG.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt32267462:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-06-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bzcnvi2eIWqc142W76RrA62SDti.jpg"
+      },
+      {
+        "id": "tt32267462:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/niWGYqXHcLBs7H4dxO96Dc0hiA4.jpg"
+      }
+    ]
+  }
+}

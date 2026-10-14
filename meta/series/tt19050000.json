@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "id": "tt19050000",
+    "type": "series",
+    "name": "Rain Dogs",
+    "poster": "https://image.tmdb.org/t/p/w500/cA3JlHtx24lEnflydTdX6TReAva.jpg",
+    "posterShape": "poster",
+    "description": "Una historia salvaje y punk del amor de una madre por su hija, de amistades apasionadas y arraigadas, y de una brillantez frustrada por la pobreza y los prejuicios.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/4t20ZBChS7o31j2iuROafO8kTLo.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt19050000:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yykn7VcvjVeiJ1jJtUi3ZMaTD8a.jpg"
+      },
+      {
+        "id": "tt19050000:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tLmWDyVz51beXi8YtV9TirWute2.jpg"
+      },
+      {
+        "id": "tt19050000:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qpHX1gcvUXwlmG3PzMadm9ZheTk.jpg"
+      },
+      {
+        "id": "tt19050000:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oTjzWmdm7eUVzen6bOZEpkdMbtZ.jpg"
+      },
+      {
+        "id": "tt19050000:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yyrxdFnfnE6ZYeoDBfdfQKiS4ou.jpg"
+      },
+      {
+        "id": "tt19050000:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hKP1gpWe7AVlsPV73PwvpsNZgAC.jpg"
+      },
+      {
+        "id": "tt19050000:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qxUdBusWxrlFjtFQS8fIzF5LBcQ.jpg"
+      },
+      {
+        "id": "tt19050000:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v2Stg0exMvbwEDzQoL9d0054xgZ.jpg"
+      }
+    ]
+  }
+}

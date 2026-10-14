@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "tt37694172",
+    "type": "series",
+    "name": "Physical Italia - da 100 a 1",
+    "poster": "https://image.tmdb.org/t/p/w500/6g40xT8B2Tv2tGrq7QolksoZnIa.jpg",
+    "posterShape": "poster",
+    "description": "One hundred Italian athletes face brutal physical challenges, each battling to outlast the rest and claim the glory of becoming the one true champion.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/li2io9zeJYJNWAf41J7fQIPtBR5.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt37694172:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7u35PSEnmE0PJcPhbd10LPwmhMJ.jpg"
+      },
+      {
+        "id": "tt37694172:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rwDl9x3WlmIXDJXp3GDZbQAoHse.jpg"
+      },
+      {
+        "id": "tt37694172:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jvfFCm0NOPaq7URRV1tixmO1kPn.jpg"
+      },
+      {
+        "id": "tt37694172:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-09-18"
+      },
+      {
+        "id": "tt37694172:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-09-18"
+      },
+      {
+        "id": "tt37694172:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-09-25"
+      },
+      {
+        "id": "tt37694172:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-09-25"
+      },
+      {
+        "id": "tt37694172:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-10-02"
+      }
+    ]
+  }
+}

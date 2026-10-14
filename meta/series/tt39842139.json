@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "id": "tt39842139",
+    "type": "series",
+    "name": "Twisted Yoga: La secta del silencio",
+    "poster": "https://image.tmdb.org/t/p/w500/cypCnESQQPJ5yKm5mpZg3mPbMW9.jpg",
+    "posterShape": "poster",
+    "description": "Exalumnos de una escuela de yoga tántrico cuentan cómo pasaron de buscar bienestar y comunidad a temer haber entrado a una secta, y cómo buscan justicia por los presuntos abusos y manipulaciones sufridos a manos de un gurú autoproclamado.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7z2cmuREaHOFaDtzTgDNy1wbkc2.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39842139:1:1",
+        "title": "Capítulo uno: Todo sobre el amor",
+        "season": 1,
+        "episode": 1,
+        "overview": "En busca de comunidad en una nueva ciudad, Ashleigh se une a un estudio de yoga. Pero lo que encuentra es misterioso, intenso y oscuramente seductor.",
+        "released": "2026-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/huuiapl3t6u9nqWjqW29B7NDQPs.jpg"
+      },
+      {
+        "id": "tt39842139:1:2",
+        "title": "Capítulo dos: Iniciación",
+        "season": 1,
+        "episode": 2,
+        "overview": "Ashleigh viaja a París a conocer al gurú y vivir la iniciación, como otras mujeres que la precedieron. Luego se da cuenta de lo que se espera de ella.",
+        "released": "2026-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4vRxdnYypiLN8flMouaRzY4qMnL.jpg"
+      },
+      {
+        "id": "tt39842139:1:3",
+        "title": "Capítulo tres: El gurú",
+        "season": 1,
+        "episode": 3,
+        "overview": "La policía halla a decenas de mujeres en la redada hecha al complejo de Bivolaru. Ashleigh se une a una investigación global para exponer la verdad.",
+        "released": "2026-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/btyxw8KQ9TJXXOwAbQArZj0bxz0.jpg"
+      }
+    ]
+  }
+}

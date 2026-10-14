@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "tt27746908",
+    "type": "series",
+    "name": "OUTLORE with Eleanor Neale",
+    "poster": "https://image.tmdb.org/t/p/w500/8tlYfhkJ3A3bxGeoC7nS9GF9i7v.jpg",
+    "posterShape": "poster",
+    "description": "British storyteller Eleanor Neale unpacks the world’s most compelling true-crime cases, while raising awareness and building a community around the stories that matter.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Talk"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/63Hdhs4VFH7LI2sPQwc5SPIFlc9.jpg",
+    "videos": [
+      {
+        "id": "tt27746908:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-09-27"
+      },
+      {
+        "id": "tt27746908:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-04"
+      }
+    ]
+  }
+}

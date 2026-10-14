@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "tt43715777",
+    "type": "series",
+    "name": "20/20 Britain's Most Notorious Crime Investigations",
+    "poster": "https://image.tmdb.org/t/p/w500/xvJXaJbpsLLe0fHSrRBwt81ZuH5.jpg",
+    "posterShape": "poster",
+    "description": "Each film revisits a renowned British case with exclusive interviews and fresh revelations taking viewers beyond the headlines into the heart of the story.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Crimen",
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/2eNy1hhGsIe7FnH6WsGNH3YaiW3.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "10.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt43715777:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-07-30"
+      },
+      {
+        "id": "tt43715777:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-07-30"
+      },
+      {
+        "id": "tt43715777:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-07-30"
+      },
+      {
+        "id": "tt43715777:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-07-30"
+      },
+      {
+        "id": "tt43715777:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-07-30"
+      },
+      {
+        "id": "tt43715777:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-07-30"
+      }
+    ]
+  }
+}

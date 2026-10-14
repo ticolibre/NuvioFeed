@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "id": "tt38956012",
+    "type": "series",
+    "name": "LOL Next",
+    "poster": "https://image.tmdb.org/t/p/w500/6ByLeyddgHjbibZae9X7HCXrF6c.jpg",
+    "posterShape": "poster",
+    "description": "Spin-off of the hit series \"LOL: Last One Laughing\", hosted by Hazel Brugger.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Comedia",
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/2c1GSv458OlOK6mMh0oecKMoQVl.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt38956012:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iKopD6sTZGmtfpjwQ21HcPH5FmW.jpg"
+      },
+      {
+        "id": "tt38956012:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AoYSB7o0IeNriXoXIdZyQ6toR7K.jpg"
+      },
+      {
+        "id": "tt38956012:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3HCjlR4Wh78bu7ci5svguEZW59.jpg"
+      },
+      {
+        "id": "tt38956012:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pPWKZqiYzImOpP067l5Rtol9ZOG.jpg"
+      },
+      {
+        "id": "tt38956012:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1
+      }
+    ]
+  }
+}

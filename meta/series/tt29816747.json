@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": "tt29816747",
+    "type": "series",
+    "name": "Murder in Boston: Roots, Rampage & Reckoning",
+    "poster": "https://image.tmdb.org/t/p/w500/5fUnfGaKIJJYc8zRBgZLha5ACuh.jpg",
+    "posterShape": "poster",
+    "description": "On October 23, 1989, Charles Stuart places a frantic 911 call reporting that he and his pregnant wife — a white couple — have been shot by a Black man. The ensuing investigation ignites decades-old tensions and brutal racial profiling amidst a media firestorm and skepticism about Stuart's story.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/gRJNJE6v5qstUGk3o1cD6Iek2b.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt29816747:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/epCqbn7YJCzkZKFkb354Ul8LId9.jpg"
+      },
+      {
+        "id": "tt29816747:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bgn7tWOBqOe25ckhAQeaRUk8NQM.jpg"
+      },
+      {
+        "id": "tt29816747:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yBLpjOae3wruyY9Ezmr716kJF1R.jpg"
+      }
+    ]
+  }
+}

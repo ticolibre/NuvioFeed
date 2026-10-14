@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "id": "tt38884973",
+    "type": "series",
+    "name": "Dålig stämning",
+    "poster": "https://image.tmdb.org/t/p/w500/71g2Da6tJi0CxC7NNfYjQhEEzBv.jpg",
+    "posterShape": "poster",
+    "description": "Bad Mood with Julia Frandfors as host",
+    "releaseInfo": "2026",
+    "genres": [
+      "Talk"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/fWlMhFXi8roDSPSns0w8PZCBGKq.jpg",
+    "videos": [
+      {
+        "id": "tt38884973:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cSP7OC0ldOvdVepz03ntLRwIcFp.jpg"
+      },
+      {
+        "id": "tt38884973:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qXV4VoFZcgW4ZWaxnKTusKfDv5m.jpg"
+      },
+      {
+        "id": "tt38884973:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rRTUJtcM7cVY3VPE9A8I3WoOL91.jpg"
+      },
+      {
+        "id": "tt38884973:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lnyCIptPtsohRfYUgF1jfXWorOT.jpg"
+      },
+      {
+        "id": "tt38884973:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qzJ2CMdEHT7oMpzkbHANIfjArif.jpg"
+      },
+      {
+        "id": "tt38884973:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2T09n2Axof6CJUM64LRnGZP3H8Y.jpg"
+      }
+    ]
+  }
+}

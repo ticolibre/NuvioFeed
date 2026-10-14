@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "tt28014919",
+    "type": "series",
+    "name": "The Golden Boy",
+    "poster": "https://image.tmdb.org/t/p/w500/7pw4941SSho2jA2flH1jwFQkQPj.jpg",
+    "posterShape": "poster",
+    "description": "Exploraremos los triunfos y turbulencias de Oscar de la Hoya.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/9wHwIM7QRFnXohx5iJRnRKkmvRn.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt28014919:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rluPY32UoEggMIgtJectRu4XCG.jpg"
+      },
+      {
+        "id": "tt28014919:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tJO452uxKvo2avrHStNllEWXean.jpg"
+      }
+    ]
+  }
+}

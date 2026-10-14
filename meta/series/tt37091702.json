@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "id": "tt37091702",
+    "type": "series",
+    "name": "La casa de cristal",
+    "poster": "https://image.tmdb.org/t/p/w500/pxbTD69d5n1HcmeYC4u4Qa3NXGN.jpg",
+    "posterShape": "poster",
+    "description": "A mediados de los años 90, André Joyal, propietario de una cristalería, lucha por salvar su negocio en declive mientras afronta profundas tensiones familiares en un mundo en plena transformación. Para seguir adelante, André tendrá que aprender a soltar, aceptar el cambio y redefinir qué es lo verdaderamente importante en su vida.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ts89frrLgYJl3jfmBjEGkeVYv11.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt37091702:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zCHYJyEFvyzPAfSy875f5fF8Ptq.jpg"
+      },
+      {
+        "id": "tt37091702:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vknFrQKGhdjfMvInfAxLTFtRV51.jpg"
+      },
+      {
+        "id": "tt37091702:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5F2lHS4Xtl2owDAbfIaVYZP4sDa.jpg"
+      },
+      {
+        "id": "tt37091702:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rku1GkpgkSqhyyPjHzyfH7aGt2B.jpg"
+      },
+      {
+        "id": "tt37091702:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ug3rgbd4mbMGxwORhLhb4frwZ4e.jpg"
+      },
+      {
+        "id": "tt37091702:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nzx15NWs67RJEMnlg68ImcPDac4.jpg"
+      }
+    ]
+  }
+}

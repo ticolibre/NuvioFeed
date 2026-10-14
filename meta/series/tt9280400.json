@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": "tt9280400",
+    "type": "series",
+    "name": "A Killer Story",
+    "poster": "https://image.tmdb.org/t/p/w500/aq9m0ZiiNVquFFrTMeL9dCDstkJ.jpg",
+    "posterShape": "poster",
+    "description": "Nuestro héroe de la pequeña ciudad cuenta la historia de cómo un desafortunado incidente desencadena una serie de acontecimientos relacionados con la fortuna oculta de un hombre muerto y un grupo de personas decididas a hacerse con ella.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kFp5nRy5b6xghGKObHsqvcyGlR8.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt9280400:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vrs5pDSVbeubA53vDGAv1mUEWQT.jpg"
+      },
+      {
+        "id": "tt9280400:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5cWabJMM0FftjUJtVh245gvZxHH.jpg"
+      },
+      {
+        "id": "tt9280400:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cGblZwsRA8LZUwptZ6AthDUmffo.jpg"
+      }
+    ]
+  }
+}

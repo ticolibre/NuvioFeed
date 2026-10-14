@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "id": "tt43740196",
+    "type": "series",
+    "name": "A Beautiful Obsession",
+    "poster": "https://image.tmdb.org/t/p/w500/sMGr6FeYhA799ZU50r4wjt5HVdV.jpg",
+    "posterShape": "poster",
+    "description": "An intimate, raw portrait of Manchester City FC across two era-defining seasons. With unprecedented access, the film follows their worst run in decades and fightback to glory.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kqaqrGjVthqrK2kcjQEIeDYAAdH.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt43740196:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/19VMjPHc0q3JgjpQozHoiZd5JUm.jpg"
+      },
+      {
+        "id": "tt43740196:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/irn6eY1oEf3NMFn4E39Z1DGcLOx.jpg"
+      },
+      {
+        "id": "tt43740196:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9nt4gHvPzQjeKL8cYPFkrWUws15.jpg"
+      },
+      {
+        "id": "tt43740196:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wqhi1m7G6YWJzK99kpSJp63YQfw.jpg"
+      }
+    ]
+  }
+}

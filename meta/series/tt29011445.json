@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "id": "tt29011445",
+    "type": "series",
+    "name": "Buscando a Wanda",
+    "poster": "https://image.tmdb.org/t/p/w500/xfolZq3CZlZxGsG32SpdCrljMJu.jpg",
+    "posterShape": "poster",
+    "description": "Cuando la hija de los Klatt desaparece, deciden tomar cartas en el asunto y traman un plan descabellado: espiar al vecindario. Al adentrarse en el mundo del espionaje aficionado, saldrán a la luz uno a uno secretos impactantes.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ihFgxTeZ8nenm8Y41tuGH7tCeTU.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt29011445:1:1",
+        "title": "Los Klatt",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cuando aparece la camisa de su hija desaparecida en un contenedor de ropa, a Carlotta y a Dedo se les ocurre una idea disparatada para encontrarla.",
+        "released": "2024-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A7vbULgItxmoF0j6HQgTfYSKZJm.jpg"
+      },
+      {
+        "id": "tt29011445:1:2",
+        "title": "Los Hessel",
+        "season": 1,
+        "episode": 2,
+        "overview": "Dedo irrumpe con torpeza en la casa de un maestro de la escuela de Wanda. Ole descubre lo que están haciendo sus padres y sugiere algo.",
+        "released": "2024-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cmDEyvMRqVtLfHw5LDnKBu8FaVA.jpg"
+      },
+      {
+        "id": "tt29011445:1:3",
+        "title": "Los Roth",
+        "season": 1,
+        "episode": 3,
+        "overview": "Después de una sesión en casa de su terapeuta, Carlotta nota algo sospechoso. La detective Rauch recibe información inquietante sobre el caso.",
+        "released": "2024-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mx50j0l8cu0H8HdvvyCoB6FRU0m.jpg"
+      },
+      {
+        "id": "tt29011445:1:4",
+        "title": "Los Vinson",
+        "season": 1,
+        "episode": 4,
+        "overview": "Carlotta crea un vínculo con Lucie Vinson, una compañera de escuela de Wanda. Dedo y Ole se topan con una pista nueva.",
+        "released": "2024-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gD5HIIQ2yz5wc782PSOZSLx5IAo.jpg"
+      },
+      {
+        "id": "tt29011445:1:5",
+        "title": "Los Novak",
+        "season": 1,
+        "episode": 5,
+        "overview": "El secreto de Dedo queda al descubierto. Ole asiste a la Games World y conoce a Chris, quien le da noticias esperanzadoras sobre Wanda.",
+        "released": "2024-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d7DEtXAZvBYFz3AmRuyDSfRv01l.jpg"
+      },
+      {
+        "id": "tt29011445:1:6",
+        "title": "Los Küchler",
+        "season": 1,
+        "episode": 6,
+        "overview": "Carlotta y Dedo se encuentran en una situación aterradora, la cual los obliga a enfrentar sus problemas.",
+        "released": "2024-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xq3tpoveRcMm0zsgzRCTCnj8UjD.jpg"
+      },
+      {
+        "id": "tt29011445:1:7",
+        "title": "El Rey",
+        "season": 1,
+        "episode": 7,
+        "overview": "Los Klatt arman un plan para cubrir sus rastros, ya que la detective Rauch sospecha que las casas de su vecindario tienen cámaras.",
+        "released": "2024-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gahdIPpi1k4RqKbXjoHmtjYvzbo.jpg"
+      },
+      {
+        "id": "tt29011445:1:8",
+        "title": "Wanda Fest",
+        "season": 1,
+        "episode": 8,
+        "overview": "El final de la temporada. Mientras el festival está en curso, los Klatt comienzan su misión y descubren algo impactante.",
+        "released": "2024-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Dh1yc40KmGM37xM78h66RrHc9C.jpg"
+      },
+      {
+        "id": "tt29011445:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-10-21"
+      },
+      {
+        "id": "tt29011445:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-10-28"
+      },
+      {
+        "id": "tt29011445:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-11-04"
+      },
+      {
+        "id": "tt29011445:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2026-11-11"
+      },
+      {
+        "id": "tt29011445:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2026-11-18"
+      },
+      {
+        "id": "tt29011445:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2026-11-25"
+      },
+      {
+        "id": "tt29011445:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2026-12-02"
+      },
+      {
+        "id": "tt29011445:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2026-12-09"
+      }
+    ]
+  }
+}

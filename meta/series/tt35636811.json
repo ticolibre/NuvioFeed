@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "id": "tt35636811",
+    "type": "series",
+    "name": "Serie Mundial 2024: La lucha por la gloria",
+    "poster": "https://image.tmdb.org/t/p/w500/8Jt8alGslZqhdty19EhenfmA5e4.jpg",
+    "posterShape": "poster",
+    "description": "Vive la batalla de los colosos como nunca antes cuando los Yankees y los Dodgers reviven la rivalidad más icónica de los playoffs de la MLB. Con acceso íntimo a los jugadores superestrellas, sus entrenadores y sus familias, sé testigo de los sacrificios que se requieren para reclamar el trono del béisbol.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/nGVtqTJ2EIIOowC9PpUzoudCz2U.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt35636811:1:1",
+        "title": "Un partido para la historia",
+        "season": 1,
+        "episode": 1,
+        "overview": "Uno de los encuentros más esperados en décadas cumple en el juego inicial con un final increíble que hace historia y deja sin habla a los fanes.",
+        "released": "2025-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ptXfhpHZGP0Gb7VbsBi7HnkDgVJ.jpg"
+      },
+      {
+        "id": "tt35636811:1:2",
+        "title": "La presión es un privilegio",
+        "season": 1,
+        "episode": 2,
+        "overview": "El increíble inicio de LA recibe un duro golpe cuando Shohei Ohtani se lesiona en el segundo partido. A NY le urge una chispa de Aaron Judge para evitar la eliminación.",
+        "released": "2025-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3UXKyOZ44W9JMPqJ0uTFZ38uXFL.jpg"
+      },
+      {
+        "id": "tt35636811:1:3",
+        "title": "Gigantes durmientes",
+        "season": 1,
+        "episode": 3,
+        "overview": "Cuando el heroísmo del canterano Anthony Volpe obliga a un quinto juego, NY parece tan fuerte como antes... y su esperanza de remontar pende de un hilo.",
+        "released": "2025-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wTEJLsSwkm3i9NwVVpZswLBlRZ3.jpg"
+      }
+    ]
+  }
+}

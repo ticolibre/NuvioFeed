@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "tt37542748",
+    "type": "series",
+    "name": "Muerte en el 603: El caso de Ellen Greenberg",
+    "poster": "https://image.tmdb.org/t/p/w500/fM40mNmsTBue8wAGm2nIZyEQ4iM.jpg",
+    "posterShape": "poster",
+    "description": "Ellen Greenberg apareció muerta con veinte puñaladas en el cuerpo. Filadelfia lo declaró suicidio. Esta serie de tres episodios sigue a la familia en su búsqueda de la verdad.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/d5LyRISUqoQODlaXDtHBLVdBew4.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt37542748:1:1",
+        "title": "¿Homicidio o suicidio?",
+        "season": 1,
+        "episode": 1,
+        "overview": "La muerte de una maestra se declara suicidio, pero su cuerpo es hallado con 20 puñaladas. Talvez la verdad aún no salió a la luz.",
+        "released": "2025-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xGn0Ah3cx9IHI2ndY1SPjl9c8dJ.jpg"
+      },
+      {
+        "id": "tt37542748:1:2",
+        "title": "La llamada más extraña al 911",
+        "season": 1,
+        "episode": 2,
+        "overview": "Surgen detalles impactantes sobre el caso de Ellen, y la familia recurre a los medios.",
+        "released": "2025-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1v7gq1YwtRHyQrLOq3EgfoZ1x0D.jpg"
+      },
+      {
+        "id": "tt37542748:1:3",
+        "title": "The Greenbergs v. The City of Philadelphia",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un caso impactante llega a los titulares. La familia, en busca de respuestas, acude a la corte tras el sorpresivo cambio de veredicto del médico forense, quien descarta el suicidio. ¿Hallarán la verdad?",
+        "released": "2025-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/88PnO0Y1cjsZyFrLfwBrSnph8MR.jpg"
+      }
+    ]
+  }
+}

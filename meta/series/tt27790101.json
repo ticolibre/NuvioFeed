@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "id": "tt27790101",
+    "type": "series",
+    "name": "Conan O'Brien de Visita",
+    "poster": "https://image.tmdb.org/t/p/w500/sYPALWpfdzqgQ7lkTkZkyfzggDT.jpg",
+    "posterShape": "poster",
+    "description": "En esta divertida serie documental de viajes, Conan O’Brien experimenta las culturas locales y se conecta con los fans que conoció en su podcast.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Documental",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ktrkqJrNoIBufIszGnU5xOPdtqX.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt27790101:1:1",
+        "title": "Noruega",
+        "season": 1,
+        "episode": 1,
+        "overview": "La pérdida de su equipaje no puede impedir que Conan experimente lo mejor de Noruega.",
+        "released": "2024-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mRAKzvRYEixLlNQOp2IMoihrgCQ.jpg"
+      },
+      {
+        "id": "tt27790101:1:2",
+        "title": "Argentina",
+        "season": 1,
+        "episode": 2,
+        "overview": "En Buenos Aires, Conan practica con un club de fútbol local, disfruta de un asado con Jordan Schlansky, y aprende qué significa ser gaucho.",
+        "released": "2024-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p0koGJqvgzte73aRBmAeAo52YqL.jpg"
+      },
+      {
+        "id": "tt27790101:1:3",
+        "title": "Tailandia",
+        "season": 1,
+        "episode": 3,
+        "overview": "La determinación mental y física de Conan se pone a prueba en Bangkok cuando se enfrenta a un luchador de Muay Thai, una pitón y un escorpión frito.",
+        "released": "2024-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mvMWx7cS0b90sqnkJ06v3mJMa0I.jpg"
+      },
+      {
+        "id": "tt27790101:1:4",
+        "title": "Irlanda",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mientras busca las raíces de su familia en Irlanda, Conan se esfuerza por hablar como un local y cantar con The Irish Tenors.",
+        "released": "2024-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dytRAgg8hVJe9wzc6S7tiTxMHkt.jpg"
+      },
+      {
+        "id": "tt27790101:2:1",
+        "title": "España",
+        "season": 2,
+        "episode": 1,
+        "overview": "Conan recolecta aceitunas con Jordan Schlansky, prueba un simulador de vuelo y vive lo mejor de Madrid con Javier Bardem.",
+        "released": "2025-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8MJXvtprdlH5zSE5OsGHOtfZFSz.jpg"
+      },
+      {
+        "id": "tt27790101:2:2",
+        "title": "Nueva Zelanda",
+        "season": 2,
+        "episode": 2,
+        "overview": "Conan intenta romper un récord mundial con Taika Waititi y conoce a Riley, un fan de su podcast, en su singular casa contenedor.",
+        "released": "2025-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/67LzQnStjMbecH0TDryv2KyfrbC.jpg"
+      },
+      {
+        "id": "tt27790101:2:3",
+        "title": "Austria",
+        "season": 2,
+        "episode": 3,
+        "overview": "Tras entregar por fin una camiseta pendiente de Team Coco a una fan, Conan se presenta con los Niños Cantores de Viena y canaliza su Freud interior.",
+        "released": "2025-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1i66yNIUk7KP1r0o4hge03iTdOs.jpg"
+      },
+      {
+        "id": "tt27790101:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kw6oCgIDZE7lP0VZ3tgJeVbqhBQ.jpg"
+      },
+      {
+        "id": "tt27790101:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2026-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bCzKilInkObt1XTIdnQytyPCJEM.jpg"
+      },
+      {
+        "id": "tt27790101:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2026-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nNCbscywjGmdvp743D7ItaMrpUb.jpg"
+      },
+      {
+        "id": "tt27790101:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2026-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eXGebV8d6tj1r9jMOk9sqDFxpWL.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "id": "tt38639909",
+    "type": "series",
+    "name": "Castle Walls",
+    "poster": "https://image.tmdb.org/t/p/w500/AfgiYkzGNhrJRQj8RhJk05rAQRe.jpg",
+    "posterShape": "poster",
+    "description": "In the eleventh century, Hasan Sabbah captures the castle of Alamut and founds a mysterious movement that challenges the established order. While his old friend Nizam al-Mulk strives to protect the empire, Azazil—a warrior freed from the dungeon—emerges as his most loyal *fedai*. In this tale where friendship turns to enmity, love, faith, betrayal, and the lust for power fuel a conflict that alters the course of history.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ad2Se0PSSTBSJ1nwX1wQIZC89cP.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt38639909:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m82xnTCF2I8i6tq2QG03IhHgYav.jpg"
+      },
+      {
+        "id": "tt38639909:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oXpGl9JSRrPaVOb5Yltn2qy52lH.jpg"
+      }
+    ]
+  }
+}

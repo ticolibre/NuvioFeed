@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "tt21614420",
+    "type": "series",
+    "name": "La franquicia",
+    "poster": "https://image.tmdb.org/t/p/w500/ikqZFo86jGxjd19ZtxeXvLTJ2bc.jpg",
+    "posterShape": "poster",
+    "description": "En esta comedia de HBO, el equipo de una saga de películas de superhéroes poco queridas lucha por un lugar en el salvaje mundo del cine.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5bkxQ4fXDMhfF8CAToNxmz0gC7O.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt21614420:1:1",
+        "title": "Escena 31A: Tecto Conoce a Ojo",
+        "season": 1,
+        "episode": 1,
+        "overview": "El asistente de dirección Dan trabaja para mantener a flote la producción de la última película de superhéroes de Maximum Studios.",
+        "released": "2024-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iKIV8PaB2DBffASETh9swVbmMPz.jpg"
+      },
+      {
+        "id": "tt21614420:1:2",
+        "title": "Escena 36: El Taladro Invisible",
+        "season": 1,
+        "episode": 2,
+        "overview": "Al intentar rodar una escena cuestionable, Dan se enfrenta al escrutinio de Dag. Anita se impone como la nueva productora del filme.",
+        "released": "2024-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1SAfEeoaoj7clCR6W87YRVbpeCU.jpg"
+      },
+      {
+        "id": "tt21614420:1:3",
+        "title": "Escena 54: El Fantasma Lila",
+        "season": 1,
+        "episode": 3,
+        "overview": "Cuando Maximum Studios es acusado de tener un \"problema con las mujeres\"” Anita intenta empoderar al único personaje femenino de Tecto.",
+        "released": "2024-10-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wdsNCwN2WxwrBFUxjEJEtciN38S.jpg"
+      },
+      {
+        "id": "tt21614420:1:4",
+        "title": "Escena 83: Entra la Gárgara",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mientras se preparan para un cameo de la mayor estrella de Maximum, el equipo de Tecto se enfrenta a otra película de la franquicia.",
+        "released": "2024-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/20Qi31L2PjKmyt20RFyyL3IZLkN.jpg"
+      },
+      {
+        "id": "tt21614420:1:5",
+        "title": "Escena 16: La Escena de Eric en el Hospital",
+        "season": 1,
+        "episode": 5,
+        "overview": "Mientras Anita gestiona un pedido inusual de posicionamiento de producto, Adam recluta a Dag para que lo ayude con sus inseguridades.",
+        "released": "2024-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vksmokHr41ELhsbqUMN7dzdQWgn.jpg"
+      },
+      {
+        "id": "tt21614420:1:6",
+        "title": "Escena 110: Bautismo de Fuego",
+        "season": 1,
+        "episode": 6,
+        "overview": "Durante otra noche larga en el set, Dan intenta levantar la moral como puede, mientras Eric espera la visita de su héroe de Hollywood.",
+        "released": "2024-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lRMWyU9aBLc3q8IGodCwBfLBBQ3.jpg"
+      },
+      {
+        "id": "tt21614420:1:7",
+        "title": "Escena 113: El Puente",
+        "season": 1,
+        "episode": 7,
+        "overview": "Filmando en Armenia, la última crisis nerviosa de Eric lleva a Dan y a Dag a hacerse cargo de un día de rodaje explosivo.",
+        "released": "2024-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pchVOWfFMWS1DvisH398IVCiVQw.jpg"
+      },
+      {
+        "id": "tt21614420:1:8",
+        "title": "Escena 117: La Muerte de Ojo",
+        "season": 1,
+        "episode": 8,
+        "overview": "Una revelación sorprendente impulsa a Anita, Dan y Dag a tomar medidas, mientras que un incidente ensombrece el último día de Peter.",
+        "released": "2024-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wM9aIgcEIksyyghLDCbf1lNXr5i.jpg"
+      }
+    ]
+  }
+}

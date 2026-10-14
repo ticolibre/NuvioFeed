@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "id": "tt42369871",
+    "type": "series",
+    "name": "Star Wars: The Mandalorian and Grogu | Una Mirada Especial",
+    "poster": "https://image.tmdb.org/t/p/w500/qI7r7bo2kLaHx9gpCEc3ZHYylUL.jpg",
+    "posterShape": "poster",
+    "description": "La caída del Imperio ha dejado a la galaxia sumida en el caos. Para restaurar el orden, la incipiente Nueva República recluta al legendario cazarrecompensas mandaloriano Din Djarin, quien emprende peligrosas misiones con su joven aprendiz y compañero Grogu.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/bxhodfyAivcHoM4JPB6310aRgp5.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt42369871:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bU4uj6a65rs9soWwzl7lVI1A9tC.jpg"
+      },
+      {
+        "id": "tt42369871:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/As5QTurDqr13qSuZrI34Wop2eue.jpg"
+      },
+      {
+        "id": "tt42369871:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ytRyASfKawk0aJpIiBZU6Md3VKX.jpg"
+      },
+      {
+        "id": "tt42369871:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2kM69E9gS3O4Sc1rQECiqhuD6Dl.jpg"
+      }
+    ]
+  }
+}

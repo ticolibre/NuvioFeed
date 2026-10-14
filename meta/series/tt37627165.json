@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "id": "tt37627165",
+    "type": "series",
+    "name": "Cyborg 009 Nemesis",
+    "poster": "https://image.tmdb.org/t/p/w500/j5QYqbk0PvESqYgkeI5D1TvyDwn.jpg",
+    "posterShape": "poster",
+    "description": "Since their inception, the cyborg soldiers have protected humanity from various enemies threatening peace for over half a century. Yet the battle continues—a group of nine cyborgs called \"Nemesis\" convinced that 009 and his comrades alone cannot bring peace to the world has emerged. Led by Graviton, the cyborg who manipulates gravity, what is their ultimate goal? Will we witness a generational change!?",
+    "releaseInfo": "2026",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/uo6qbE403AnotkznV0uo7s25aHY.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt37627165:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cqzSyMoKKLikSiNOL2Z35m9SpQb.jpg"
+      },
+      {
+        "id": "tt37627165:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/99cKZXz6Gk7QB0Oy2p6p8ny1Mjy.jpg"
+      },
+      {
+        "id": "tt37627165:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bBbq74e7Y2FeJoDertZDjtZr3vO.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "tt28445343",
+    "type": "series",
+    "name": "Naturaleza indomable",
+    "poster": "https://image.tmdb.org/t/p/w500/w7Hd9tfECId17gXgx4HxlESX58r.jpg",
+    "posterShape": "poster",
+    "description": "¿Cómo podemos ayudar a los animales que están en grave peligro de extinción? Sigue a un equipo de cineastas expertos en vida silvestre en una travesía a los rincones más remotos para intentar captar, con tecnología de avanzada, imágenes espectaculares de las especies más escurridizas del planeta.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Documental",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/glvt1nsJey4UKg76vRWshdNAMtw.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt28445343:1:1",
+        "title": "Tigres",
+        "season": 1,
+        "episode": 1,
+        "overview": "En las remotas selvas tropicales de Malasia, Declan, Vianet y Aldo buscan a los tigres más escasos del mundo con la esperanza de defenderlos de despiadados cazadores furtivos.",
+        "released": "2025-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jjY3Y40PBDQvS3nBdU07ezzasHn.jpg"
+      },
+      {
+        "id": "tt28445343:1:2",
+        "title": "Osos",
+        "season": 1,
+        "episode": 2,
+        "overview": "En lo más profundo del desierto de Mongolia, el equipo juega al juego definitivo del escondite, buscando osos del Gobi antes de que desaparezcan para siempre.",
+        "released": "2025-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kcLB5HSYplvcbt1h76JjNReDjpG.jpg"
+      },
+      {
+        "id": "tt28445343:1:3",
+        "title": "Rinocerontes",
+        "season": 1,
+        "episode": 3,
+        "overview": "En la isla de Java, el equipo esquiva cocodrilos para intentar encontrar a los rinocerontes más escasos del mundo con el fin de ayudarles a reproducirse nuevamente.",
+        "released": "2025-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jHQv4smtBxwTbhfaYH3mrdiWIau.jpg"
+      },
+      {
+        "id": "tt28445343:1:4",
+        "title": "Leopardos",
+        "season": 1,
+        "episode": 4,
+        "overview": "En las escarpadas montañas de Armenia, el equipo persigue a uno de los depredadores más misteriosos y majestuosos de todos: el leopardo del Cáucaso.",
+        "released": "2025-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8mGfctG1Fov3raFtClNpcTUVFbt.jpg"
+      },
+      {
+        "id": "tt28445343:1:5",
+        "title": "Gorilas",
+        "season": 1,
+        "episode": 5,
+        "overview": "El equipo se dirige a las densas selvas de Gabón para localizar a una manada de gorilas totalmente salvajes, con un sorprendente plan para salvarlos de la extinción.",
+        "released": "2025-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cVV7Qu4gJhFlTp9oqJChtylM6b5.jpg"
+      },
+      {
+        "id": "tt28445343:1:6",
+        "title": "Ballenas",
+        "season": 1,
+        "episode": 6,
+        "overview": "En batalla contra el Atlántico Norte, el equipo se adentra en la bodega de un barco para buscar ballenas en peligro de extinción con la ayuda de tecnología de punta.",
+        "released": "2025-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h6Pwm6SOYma2gteCg7sxsL1uSj5.jpg"
+      }
+    ]
+  }
+}

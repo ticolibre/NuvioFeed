@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "tt43492801",
+    "type": "series",
+    "name": "Furioso",
+    "poster": "https://image.tmdb.org/t/p/w500/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+    "posterShape": "poster",
+    "description": "Herido y con amnesia, un hombre halla refugio con un entrenador de artes marciales mixtas y sube al cuadrilátero, dividido entre un futuro esperanzador y un pasado que lo acecha.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt43492801:1:1",
+        "title": "Propósito",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un hombre con amnesia al borde de la muerte es acogido a regañadientes por un entrenador de MMA. Mientras surgen recuerdos brutales, un joven y arrogante luchador busca la fama.",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/saldeBPxZyWiVdEXKRza66RUzUF.jpg"
+      },
+      {
+        "id": "tt43492801:1:2",
+        "title": "Cabeza y corazón",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tras ser expulsado por su excesiva agresividad, Marcelo consigue una segunda oportunidad en el Gimnasio Trindade y logra subirse al ring. Toni y Yana hacen un trato.",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9bBaLfWWiCeIZEEmN45VK19oX6X.jpg"
+      },
+      {
+        "id": "tt43492801:1:3",
+        "title": "Cicatriz",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras Toni le enseña a Marcelo a trascender su ira, una persona de su pasado le hace llegar una dura advertencia. Gabi planea un futuro prometedor para Trindade.",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i7beJl2oHM1THn3nqXTO4KyVFgg.jpg"
+      },
+      {
+        "id": "tt43492801:1:4",
+        "title": "Las reglas del juego",
+        "season": 1,
+        "episode": 4,
+        "overview": "El equipo de Trindade aúna esfuerzos y se acomoda en su nuevo centro de entrenamiento. Gabi y Marcelo se conocen mejor, y Toni no aparta la mirada del premio.",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w9O5tQ0uYbuNMFxZ8whtdO6tl9a.jpg"
+      },
+      {
+        "id": "tt43492801:1:5",
+        "title": "Fantasma",
+        "season": 1,
+        "episode": 5,
+        "overview": "Un vistazo a la vida de Marcelo antes de Trindade revela al hombre detrás de la máscara: de dónde viene, cómo terminó en Río de Janeiro y cuál es su verdadera identidad.",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yoZsmjq0MbIrKD0Tg2YUAHP9G1e.jpg"
+      },
+      {
+        "id": "tt43492801:1:6",
+        "title": "La decisión",
+        "season": 1,
+        "episode": 6,
+        "overview": "Yana y Toni investigan las actividades clandestinas de Novaes. Ahora que Marcelo está contra las cuerdas, ¿logrará transformar su furia y remordimiento en gloria?",
+        "released": "2026-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/irHOhtS0o0kaPi6SH5ncA43Fskp.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "id": "tt39163341",
+    "type": "series",
+    "name": "Introducción al Asesinato",
+    "poster": "https://image.tmdb.org/t/p/w500/cy7sdlwtaiZYkpykbnzBtb4IoHs.jpg",
+    "posterShape": "poster",
+    "description": "Tennessee. Bajo la dirección del profesor de sociología Alex Campbell, los estudiantes de Elizabethton High School investigan los Asesinatos de las Pelirrojas. Este caso de hace décadas es una serie de crímenes sin resolver que acapararon los titulares en todo el sur estadounidense, antes de caer en el olvido. El proyecto de clase pronto se convierte en una investigación real. A medida que descubren nuevas pistas, los estudiantes conectan indicios que habían pasado desapercibidos y vuelven a poner en el punto de mira en las olvidadas víctimas. Basada en el podcast homónimo del mismo nombre.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/j3Unn0ynJIWrsmWMcPA4mBIk3Qf.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39163341:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-07-13"
+      },
+      {
+        "id": "tt39163341:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-07-13"
+      },
+      {
+        "id": "tt39163341:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-07-13"
+      }
+    ]
+  }
+}

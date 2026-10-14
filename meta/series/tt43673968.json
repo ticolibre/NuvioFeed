@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "id": "tt43673968",
+    "type": "series",
+    "name": "MOURINHO",
+    "poster": "https://image.tmdb.org/t/p/w500/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+    "posterShape": "poster",
+    "description": "Este documental traza la carrera de José Mourinho y muestra cómo se convirtió en uno de los mejores entrenadores de fútbol de clubes muy prestigiosos.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Documental"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt43673968:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "overview": "2004. Frank Lampard, John Terry y sir Alex Ferguson recuerdan la osada llegada de José Mourinho al Chelsea, donde pasa a ser apodado el Especial.",
+        "released": "2026-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l87pcEAhlJTCrbyJd8X0Y9im1k0.jpg"
+      },
+      {
+        "id": "tt43673968:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "overview": "2007. Tensiones y luchas de poder ponen a prueba al entrenador del Chelsea, quien tiene en la vista un nuevo desafío en la Serie A acompañado por Zlatan Ibrahimović y Luis Figo.",
+        "released": "2026-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a4PNwMdx79J2CxxYWfV5IczsIvc.jpg"
+      },
+      {
+        "id": "tt43673968:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "overview": "2010. La venganza y la revolución van de la mano cuando José Mourinho llega al Real Madrid para acabar con la supremacía del club rival al que conoce demasiado bien...",
+        "released": "2026-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dINxmGOPDSx99GZksgn1Wmp6uhQ.jpg"
+      }
+    ]
+  }
+}

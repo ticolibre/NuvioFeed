@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "tt42206913",
+    "type": "series",
+    "name": "The Grand-ish Tour",
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "posterShape": "poster",
+    "description": "Gathering in the care home where they now live, Jeremy Clarkson, Richard Hammond and James May host three special shows looking back at their favourite Grand Tour moments. Or at least the ones they can remember. Their fading memories stretch from California to Mongolia to Italy and everywhere in between, and include classic moments of misery featuring mud, water, and at least two actual injuries.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Reality"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/iOLxzG9TlBUyiDyNWrKtAD9gd5u.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt42206913:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qNSZ0LXmX7Sc4EpdXuLbfZIvGsL.jpg"
+      },
+      {
+        "id": "tt42206913:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kdFfonM2OwbdcrMv7UlacPvZbI3.jpg"
+      },
+      {
+        "id": "tt42206913:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yO6HYEQjs4Nj28Fpl9QL8fyVZTD.jpg"
+      }
+    ]
+  }
+}

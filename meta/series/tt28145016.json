@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "tt28145016",
+    "type": "series",
+    "name": "La última ronda: un asesino en serie en la NY Queer",
+    "poster": "https://image.tmdb.org/t/p/w500/7Xy3OrCyzWCIwRo5cmDOJFVjixe.jpg",
+    "posterShape": "poster",
+    "description": "El caso de un asesino en serie que apuntó a hombres homosexuales en la ciudad de Nueva York en la década de 1990 revela los prejuicios de la época en esta docuserie.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/sChJAh9Dw1QR0fvzmrSs87NLWQk.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt28145016:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d5UPRc6a0IYTB2tUimIVDNo6qvM.jpg"
+      },
+      {
+        "id": "tt28145016:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g757RVttpct9fmk2mPLS4nUP1jv.jpg"
+      },
+      {
+        "id": "tt28145016:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/608jtDBjPRbM3AhlfTN1LXm3m5m.jpg"
+      },
+      {
+        "id": "tt28145016:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggdHbbIVi1VB2QOdBa521P8bQgL.jpg"
+      }
+    ]
+  }
+}
