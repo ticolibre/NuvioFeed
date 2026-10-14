@@ -30,10 +30,6 @@
         {
           "name": "skip",
           "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
         }
       ]
     },
@@ -44,10 +40,6 @@
       "extra": [
         {
           "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
           "isRequired": false
         }
       ]
@@ -60,10 +52,6 @@
         {
           "name": "skip",
           "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
         }
       ]
     },
@@ -74,10 +62,6 @@
       "extra": [
         {
           "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
           "isRequired": false
         }
       ]
@@ -90,10 +74,6 @@
         {
           "name": "skip",
           "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
         }
       ]
     },
@@ -104,10 +84,6 @@
       "extra": [
         {
           "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
           "isRequired": false
         }
       ]
@@ -120,10 +96,6 @@
         {
           "name": "skip",
           "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
         }
       ]
     },
@@ -134,10 +106,6 @@
       "extra": [
         {
           "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
           "isRequired": false
         }
       ]
@@ -150,10 +118,6 @@
         {
           "name": "skip",
           "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
         }
       ]
     },
@@ -165,10 +129,6 @@
         {
           "name": "skip",
           "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
         }
       ]
     },
@@ -177,40 +137,6 @@
       "id": "best-picture-nominees",
       "name": "Oscars: Best Picture Nominees",
       "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        },
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "movie",
-      "id": "global-search",
-      "name": "Global Search",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": true
-        },
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "global-search-series",
-      "name": "Global Search: Series",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": true
-        },
         {
           "name": "skip",
           "isRequired": false
