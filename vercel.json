@@ -7,6 +7,18 @@
     {
       "source": "/catalog/movie/global-search.json",
       "destination": "/api/search"
+    },
+    {
+      "source": "/catalog/series/global-search-series/:extra",
+      "destination": "/api/search-series?extra=:extra"
+    },
+    {
+      "source": "/catalog/series/global-search-series.json",
+      "destination": "/api/search-series"
+    },
+    {
+      "source": "/meta/:type/:id",
+      "destination": "/api/meta?type=:type&id=:id"
     }
   ]
 }

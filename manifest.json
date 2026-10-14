@@ -186,6 +186,21 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "series",
+      "id": "global-search-series",
+      "name": "Global Search: Series",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "config": [
