@@ -19,6 +19,84 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Gregory Peck",
+      "Hugh Marlowe",
+      "Gary Merrill",
+      "Millard Mitchell",
+      "Dean Jagger",
+      "Robert Arthur",
+      "Paul Stewart",
+      "John Kellogg",
+      "Robert Patten",
+      "Lee MacGregor",
+      "Sam Edwards",
+      "Roger Anderson"
+    ],
+    "app_cast": [
+      {
+        "name": "Gregory Peck",
+        "character": "Brigadier General Frank Savage",
+        "photo": "https://image.tmdb.org/t/p/w500/8EkjKu6OJPpEwpARpxVh6yd1f9k.jpg"
+      },
+      {
+        "name": "Hugh Marlowe",
+        "character": "Lieutenant Colonel Ben Gately",
+        "photo": "https://image.tmdb.org/t/p/w500/5GyNiSiS9RQduMt0JlFn8jCnKb2.jpg"
+      },
+      {
+        "name": "Gary Merrill",
+        "character": "Colonel Keith Davenport",
+        "photo": "https://image.tmdb.org/t/p/w500/sMmRlBwu1lS8qJW6t9iRNn8qBxA.jpg"
+      },
+      {
+        "name": "Millard Mitchell",
+        "character": "Major General Patrick Pritchard",
+        "photo": "https://image.tmdb.org/t/p/w500/elMhz4DvHUu5OK8hdC3cpzPwGEk.jpg"
+      },
+      {
+        "name": "Dean Jagger",
+        "character": "Major / Lieutenant Colonel Harvey Stovall",
+        "photo": "https://image.tmdb.org/t/p/w500/fgAzRigYun0yXqIdAYPUA4GViFq.jpg"
+      },
+      {
+        "name": "Robert Arthur",
+        "character": "Sergeant McIllhenny",
+        "photo": "https://image.tmdb.org/t/p/w500/ppYxQZPddFPRzflyhGJzO8Whhj5.jpg"
+      },
+      {
+        "name": "Paul Stewart",
+        "character": "Major \"Doc\" Kaiser (flight surgeon)",
+        "photo": "https://image.tmdb.org/t/p/w500/8dsAzDIErQFdPAZOJaaVGrohdnf.jpg"
+      },
+      {
+        "name": "John Kellogg",
+        "character": "Major Cobb",
+        "photo": "https://image.tmdb.org/t/p/w500/asGID6iV64631Z5hSvyXimOMTuV.jpg"
+      },
+      {
+        "name": "Robert Patten",
+        "character": "Lieutenant Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/5LdkirLlW9HEgur3AtCyQsDXQYS.jpg"
+      },
+      {
+        "name": "Lee MacGregor",
+        "character": "Lieutenant Zimmerman",
+        "photo": "https://image.tmdb.org/t/p/w500/fzjegcCxi7aiWZ6IO7RT6ulv44g.jpg"
+      },
+      {
+        "name": "Sam Edwards",
+        "character": "Lieutenant Birdwell",
+        "photo": "https://image.tmdb.org/t/p/w500/743x0QFbc8TkmbpDbxUTZ5izSgv.jpg"
+      },
+      {
+        "name": "Roger Anderson",
+        "character": "Interrogation Officer"
+      }
+    ],
+    "director": [
+      "Henry King"
+    ]
   }
 }

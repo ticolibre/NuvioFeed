@@ -18,6 +18,83 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Ry Barrett",
+      "Andrea Pavlovic",
+      "Cameron Love",
+      "Reece Presley",
+      "Liam Leone",
+      "Charlotte Creaghan",
+      "Lea Rose Sebastianis",
+      "Sam Roulston",
+      "Alexander Oliver",
+      "Timothy Paul McCarthy",
+      "Tom Jacobs",
+      "Casey MacDonald"
+    ],
+    "app_cast": [
+      {
+        "name": "Ry Barrett",
+        "character": "Johnny",
+        "photo": "https://image.tmdb.org/t/p/w500/eDAKEhyBrFCU7nQOhQD8lySuJL4.jpg"
+      },
+      {
+        "name": "Andrea Pavlovic",
+        "character": "Kris",
+        "photo": "https://image.tmdb.org/t/p/w500/fC6ywFNaxdoKerRIyXZ6ia8tHVS.jpg"
+      },
+      {
+        "name": "Cameron Love",
+        "character": "Colt",
+        "photo": "https://image.tmdb.org/t/p/w500/gctU2XCjeobSSo7oVO7lCd29Fsi.jpg"
+      },
+      {
+        "name": "Reece Presley",
+        "character": "The Ranger",
+        "photo": "https://image.tmdb.org/t/p/w500/bp3EOp7bRO5k9K83U0wf4NH878R.jpg"
+      },
+      {
+        "name": "Liam Leone",
+        "character": "Troy",
+        "photo": "https://image.tmdb.org/t/p/w500/ul5gxRRkBElwGc4dt9ytONmOOh2.jpg"
+      },
+      {
+        "name": "Charlotte Creaghan",
+        "character": "Aurora",
+        "photo": "https://image.tmdb.org/t/p/w500/2mHZ5m7eSTBpLy7xtbc5FVIqUXw.jpg"
+      },
+      {
+        "name": "Lea Rose Sebastianis",
+        "character": "Brodie",
+        "photo": "https://image.tmdb.org/t/p/w500/hmh3wErANhtjvPEW1v1cB2s6kXV.jpg"
+      },
+      {
+        "name": "Sam Roulston",
+        "character": "Ehren",
+        "photo": "https://image.tmdb.org/t/p/w500/3pfjkD8TIa05o6aCyAEkphJdDnO.jpg"
+      },
+      {
+        "name": "Alexander Oliver",
+        "character": "Evan",
+        "photo": "https://image.tmdb.org/t/p/w500/xUSjfXPAjXnKBL5TwLvstSzuyQw.jpg"
+      },
+      {
+        "name": "Timothy Paul McCarthy",
+        "character": "Chuck",
+        "photo": "https://image.tmdb.org/t/p/w500/rdNxGb6jnWmzXaSJRh8OUSl4Tio.jpg"
+      },
+      {
+        "name": "Tom Jacobs",
+        "character": "Johnny's Dad (voice)"
+      },
+      {
+        "name": "Casey MacDonald",
+        "character": "Radio Newscaster (voice)"
+      }
+    ],
+    "director": [
+      "Chris Nash"
+    ]
   }
 }

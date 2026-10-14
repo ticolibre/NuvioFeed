@@ -17,6 +17,83 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Ethan Hawke",
+      "Elaine Hendrix",
+      "Diane Gaeta",
+      "Betty Gabriel",
+      "Mo McRae",
+      "Chris Sullivan",
+      "Nate Mooney",
+      "Christopher Heyerdahl",
+      "Anne-Marie Johnson",
+      "Della Atherton",
+      "Everly Sucher",
+      "Pierce Minor"
+    ],
+    "app_cast": [
+      {
+        "name": "Ethan Hawke",
+        "character": "Russell Millings",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Elaine Hendrix",
+        "character": "Diane Spring",
+        "photo": "https://image.tmdb.org/t/p/w500/ajnxlCCO0IYQeaL2KOJwjFWkFG0.jpg"
+      },
+      {
+        "name": "Diane Gaeta",
+        "character": "Becca",
+        "photo": "https://image.tmdb.org/t/p/w500/dGePU6JZLMQiKMiBeNgDxttnYG1.jpg"
+      },
+      {
+        "name": "Betty Gabriel",
+        "character": "Deeks",
+        "photo": "https://image.tmdb.org/t/p/w500/n67i3H3VM5quDQfcS591EbotPby.jpg"
+      },
+      {
+        "name": "Mo McRae",
+        "character": "Wilson",
+        "photo": "https://image.tmdb.org/t/p/w500/yU3VD12vMbG94xEvSBASWsFsL1B.jpg"
+      },
+      {
+        "name": "Chris Sullivan",
+        "character": "Orankle",
+        "photo": "https://image.tmdb.org/t/p/w500/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+      },
+      {
+        "name": "Nate Mooney",
+        "character": "Homeless Man",
+        "photo": "https://image.tmdb.org/t/p/w500/kBcIrVvc9hTAiUOERK2pCQgX1Iw.jpg"
+      },
+      {
+        "name": "Christopher Heyerdahl",
+        "character": "Jim",
+        "photo": "https://image.tmdb.org/t/p/w500/pTPZa3TFIkxRbqM5adXYE51a99s.jpg"
+      },
+      {
+        "name": "Anne-Marie Johnson",
+        "character": "Tracy Westmore",
+        "photo": "https://image.tmdb.org/t/p/w500/9jHQhTaK1lr41zKsYQew5wN7okf.jpg"
+      },
+      {
+        "name": "Della Atherton",
+        "character": "Beverly"
+      },
+      {
+        "name": "Everly Sucher",
+        "character": "Ella"
+      },
+      {
+        "name": "Pierce Minor",
+        "character": "Checkpoint Guard",
+        "photo": "https://image.tmdb.org/t/p/w500/6H49egEXLXuzqD8HiIgNK5QvWzh.jpg"
+      }
+    ],
+    "director": [
+      "Logan Marshall-Green"
+    ]
   }
 }

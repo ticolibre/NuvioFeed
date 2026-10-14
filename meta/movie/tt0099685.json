@@ -18,6 +18,85 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino",
+      "Frank Sivero",
+      "Tony Darrow",
+      "Mike Starr",
+      "Frank Vincent",
+      "Chuck Low",
+      "Frank DiLeo",
+      "Henny Youngman"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "James Conway",
+        "photo": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Henry Hill",
+        "photo": "https://image.tmdb.org/t/p/w500/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Tommy DeVito",
+        "photo": "https://image.tmdb.org/t/p/w500/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+      },
+      {
+        "name": "Lorraine Bracco",
+        "character": "Karen Hill",
+        "photo": "https://image.tmdb.org/t/p/w500/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+      },
+      {
+        "name": "Paul Sorvino",
+        "character": "Paul Cicero",
+        "photo": "https://image.tmdb.org/t/p/w500/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg"
+      },
+      {
+        "name": "Frank Sivero",
+        "character": "Frankie Carbone",
+        "photo": "https://image.tmdb.org/t/p/w500/eqvhj0iNtcsN6EJhd21Goqi1DSq.jpg"
+      },
+      {
+        "name": "Tony Darrow",
+        "character": "Sonny Bunz",
+        "photo": "https://image.tmdb.org/t/p/w500/kc6cGKm2yYx5ekHo4zGizhMLBge.jpg"
+      },
+      {
+        "name": "Mike Starr",
+        "character": "Frenchy",
+        "photo": "https://image.tmdb.org/t/p/w500/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+      },
+      {
+        "name": "Frank Vincent",
+        "character": "Billy Batts",
+        "photo": "https://image.tmdb.org/t/p/w500/fa1gikNsPKvX1roWUo2bBmixnvp.jpg"
+      },
+      {
+        "name": "Chuck Low",
+        "character": "Morris Kessler",
+        "photo": "https://image.tmdb.org/t/p/w500/zaw5Tyk2K6aawV13fQ4tSPdbEUp.jpg"
+      },
+      {
+        "name": "Frank DiLeo",
+        "character": "Tuddy Cicero",
+        "photo": "https://image.tmdb.org/t/p/w500/2lAHDwBw8yWdY3luOq9YhxN96Bm.jpg"
+      },
+      {
+        "name": "Henny Youngman",
+        "character": "Henny Youngman",
+        "photo": "https://image.tmdb.org/t/p/w500/jRAZU4C1L0WbYlZLZadCxzscuNl.jpg"
+      }
+    ],
+    "director": [
+      "Martin Scorsese"
+    ]
   }
 }

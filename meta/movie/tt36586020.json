@@ -17,6 +17,85 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Jessica Chastain",
+      "Jay Duplass",
+      "Arabella Olivia Clark",
+      "Karen Allen",
+      "Arian Moayed",
+      "Dichen Lachman",
+      "Sean Kaufman",
+      "Adam Silver",
+      "Alec Secăreanu",
+      "Travis Nelson",
+      "Carrie Dimaculangan",
+      "Hayley Spelman"
+    ],
+    "app_cast": [
+      {
+        "name": "Jessica Chastain",
+        "character": "Mommy / Other Mommy",
+        "photo": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+      },
+      {
+        "name": "Jay Duplass",
+        "character": "Daddo",
+        "photo": "https://image.tmdb.org/t/p/w500/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
+      },
+      {
+        "name": "Arabella Olivia Clark",
+        "character": "Bela",
+        "photo": "https://image.tmdb.org/t/p/w500/bwTovaznMIXo9Je01soHBCzmFxn.jpg"
+      },
+      {
+        "name": "Karen Allen",
+        "character": "Grandma Ruth",
+        "photo": "https://image.tmdb.org/t/p/w500/75yyZZyinCUcuK8pOSXnggmuiRp.jpg"
+      },
+      {
+        "name": "Arian Moayed",
+        "character": "Uncle Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
+      },
+      {
+        "name": "Dichen Lachman",
+        "character": "Lois Anthony",
+        "photo": "https://image.tmdb.org/t/p/w500/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+      },
+      {
+        "name": "Sean Kaufman",
+        "character": "Kelvin",
+        "photo": "https://image.tmdb.org/t/p/w500/9sMkCOJU6tWIoezXBapA58C4qpH.jpg"
+      },
+      {
+        "name": "Adam Silver",
+        "character": "Brian",
+        "photo": "https://image.tmdb.org/t/p/w500/jE3zEMEYflS3adHtF11YqLAwlVI.jpg"
+      },
+      {
+        "name": "Alec Secăreanu",
+        "character": "Ruiss",
+        "photo": "https://image.tmdb.org/t/p/w500/faV10C9gsWfF7E5HwKoqymhbDPb.jpg"
+      },
+      {
+        "name": "Travis Nelson",
+        "character": "Tony",
+        "photo": "https://image.tmdb.org/t/p/w500/y5aSsFzlsW21qjXb2gxdla8rsKc.jpg"
+      },
+      {
+        "name": "Carrie Dimaculangan",
+        "character": "Callie",
+        "photo": "https://image.tmdb.org/t/p/w500/be9i55RrygV2ti7vXwr61j8OlCL.jpg"
+      },
+      {
+        "name": "Hayley Spelman",
+        "character": "Other Mommy (Creature)",
+        "photo": "https://image.tmdb.org/t/p/w500/cGy1nKhFlCmsN1SpPZE0GHxOX9M.jpg"
+      }
+    ],
+    "director": [
+      "Rob Savage"
+    ]
   }
 }

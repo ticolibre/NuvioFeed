@@ -18,6 +18,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Michelle Williams",
+      "Hong Chau",
+      "Maryann Plunkett",
+      "John Magaro",
+      "André 3000",
+      "Amanda Plummer",
+      "Matt Malloy",
+      "Heather Lawless",
+      "James Le Gros",
+      "Denzel Rodriguez",
+      "Eudora Peterson",
+      "Judd Hirsch"
+    ],
+    "app_cast": [
+      {
+        "name": "Michelle Williams",
+        "character": "Lizzy",
+        "photo": "https://image.tmdb.org/t/p/w500/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+      },
+      {
+        "name": "Hong Chau",
+        "character": "Jo",
+        "photo": "https://image.tmdb.org/t/p/w500/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+      },
+      {
+        "name": "Maryann Plunkett",
+        "character": "Jean",
+        "photo": "https://image.tmdb.org/t/p/w500/317RSmgO74AhbqcfnYbAkVKWCXh.jpg"
+      },
+      {
+        "name": "John Magaro",
+        "character": "Sean",
+        "photo": "https://image.tmdb.org/t/p/w500/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+      },
+      {
+        "name": "André 3000",
+        "character": "Eric",
+        "photo": "https://image.tmdb.org/t/p/w500/dQh7n7NiCzPxYOHyva4AG4n59cZ.jpg"
+      },
+      {
+        "name": "Amanda Plummer",
+        "character": "Dorothy",
+        "photo": "https://image.tmdb.org/t/p/w500/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg"
+      },
+      {
+        "name": "Matt Malloy",
+        "character": "Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/csNVv2jlw6QLoNCcifGnvT9hN2O.jpg"
+      },
+      {
+        "name": "Heather Lawless",
+        "character": "Marlene",
+        "photo": "https://image.tmdb.org/t/p/w500/aZV7sE4LqYqFadqiiqPZx3bOZtN.jpg"
+      },
+      {
+        "name": "James Le Gros",
+        "character": "Ira",
+        "photo": "https://image.tmdb.org/t/p/w500/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+      },
+      {
+        "name": "Denzel Rodriguez",
+        "character": "William",
+        "photo": "https://image.tmdb.org/t/p/w500/mWifLI3Ovr33nuOnW9ULbAzUHDZ.jpg"
+      },
+      {
+        "name": "Eudora Peterson",
+        "character": "Lauren",
+        "photo": "https://image.tmdb.org/t/p/w500/oJUyZvbrYKUu9F5yW69rHxadZQ.jpg"
+      },
+      {
+        "name": "Judd Hirsch",
+        "character": "Bill",
+        "photo": "https://image.tmdb.org/t/p/w500/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      }
+    ],
+    "director": [
+      "Kelly Reichardt"
+    ]
   }
 }

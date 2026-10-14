@@ -18,6 +18,84 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Janet Gaynor",
+      "Charles Farrell",
+      "Albert Gran",
+      "David Butler",
+      "Marie Mosquini",
+      "Gladys Brockwell",
+      "Émile Chautard",
+      "Ben Bard",
+      "George E. Stone",
+      "Jessie Haslett",
+      "Brandon Hurst",
+      "Lillian West"
+    ],
+    "app_cast": [
+      {
+        "name": "Janet Gaynor",
+        "character": "Diane",
+        "photo": "https://image.tmdb.org/t/p/w500/xaiUwIObrSnFlNsqKrxJ10ZVMfw.jpg"
+      },
+      {
+        "name": "Charles Farrell",
+        "character": "Chico",
+        "photo": "https://image.tmdb.org/t/p/w500/5fhrR7vCYtlyJQxnhNPscwFxfgT.jpg"
+      },
+      {
+        "name": "Albert Gran",
+        "character": "Boul",
+        "photo": "https://image.tmdb.org/t/p/w500/jKVCUwIDORHwExSKBdmZsq7LZKm.jpg"
+      },
+      {
+        "name": "David Butler",
+        "character": "Gobin",
+        "photo": "https://image.tmdb.org/t/p/w500/7AiCqLg957EPeCzBxdv39D8igdc.jpg"
+      },
+      {
+        "name": "Marie Mosquini",
+        "character": "Madame Gobin",
+        "photo": "https://image.tmdb.org/t/p/w500/wJBhBG8DX3BnUXE6tg2jbdGECKS.jpg"
+      },
+      {
+        "name": "Gladys Brockwell",
+        "character": "Nana",
+        "photo": "https://image.tmdb.org/t/p/w500/jpo2C8eHFUrb451hWnfaPGqq5jh.jpg"
+      },
+      {
+        "name": "Émile Chautard",
+        "character": "Father Chevillon",
+        "photo": "https://image.tmdb.org/t/p/w500/kl4uS46oKd46Nf0OpPps33If9tm.jpg"
+      },
+      {
+        "name": "Ben Bard",
+        "character": "Col. Brissac",
+        "photo": "https://image.tmdb.org/t/p/w500/esH8wBwmTKFeH67C08LKYtVZZWj.jpg"
+      },
+      {
+        "name": "George E. Stone",
+        "character": "Sewer Rat",
+        "photo": "https://image.tmdb.org/t/p/w500/xuQahElsqcJ24XpEbQEnvHOJMwJ.jpg"
+      },
+      {
+        "name": "Jessie Haslett",
+        "character": "Aunt Valentine"
+      },
+      {
+        "name": "Brandon Hurst",
+        "character": "Uncle George",
+        "photo": "https://image.tmdb.org/t/p/w500/jU1SqbZ6de4cMQJo3rpsdkNJqD9.jpg"
+      },
+      {
+        "name": "Lillian West",
+        "character": "Arlette",
+        "photo": "https://image.tmdb.org/t/p/w500/A3ntTVkN6oCH6D173hlAhULMtQZ.jpg"
+      }
+    ],
+    "director": [
+      "Frank Borzage"
+    ]
   }
 }

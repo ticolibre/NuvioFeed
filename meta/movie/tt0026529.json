@@ -18,6 +18,83 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Victor McLaglen",
+      "Heather Angel",
+      "Preston Foster",
+      "Margot Grahame",
+      "Wallace Ford",
+      "Una O'Connor",
+      "J.M. Kerrigan",
+      "Joe Sawyer",
+      "Neil Fitzgerald",
+      "Donald Meek",
+      "D'Arcy Corrigan",
+      "Leo McCabe"
+    ],
+    "app_cast": [
+      {
+        "name": "Victor McLaglen",
+        "character": "Gypo Nolan",
+        "photo": "https://image.tmdb.org/t/p/w500/vYj8mVtT8CgQOHH8eRNMl7pA7F1.jpg"
+      },
+      {
+        "name": "Heather Angel",
+        "character": "Mary McPhillip",
+        "photo": "https://image.tmdb.org/t/p/w500/aL4rV0rDtnNjHocXITevohuj9e2.jpg"
+      },
+      {
+        "name": "Preston Foster",
+        "character": "Dan Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/fBxlhD0k4N8zAJX1FR4Uuf1MtUy.jpg"
+      },
+      {
+        "name": "Margot Grahame",
+        "character": "Katie Madden",
+        "photo": "https://image.tmdb.org/t/p/w500/xllWb7C8x7HEyCkadCcOJ67Frj1.jpg"
+      },
+      {
+        "name": "Wallace Ford",
+        "character": "Frankie McPhillip",
+        "photo": "https://image.tmdb.org/t/p/w500/icHpMpE6QRTGgIACyCLtfjlqSEG.jpg"
+      },
+      {
+        "name": "Una O'Connor",
+        "character": "Mrs. McPhillip",
+        "photo": "https://image.tmdb.org/t/p/w500/8XqwWhajcr80B4rqZD58ZnPCO52.jpg"
+      },
+      {
+        "name": "J.M. Kerrigan",
+        "character": "Terry",
+        "photo": "https://image.tmdb.org/t/p/w500/2AE4lldtdkQEEcRl647xlMTpvD8.jpg"
+      },
+      {
+        "name": "Joe Sawyer",
+        "character": "Bartly Mulholland",
+        "photo": "https://image.tmdb.org/t/p/w500/ct5dfzO05LnrJ4EBANBK2y8FPGN.jpg"
+      },
+      {
+        "name": "Neil Fitzgerald",
+        "character": "Tommy Connor"
+      },
+      {
+        "name": "Donald Meek",
+        "character": "Peter Mulligan",
+        "photo": "https://image.tmdb.org/t/p/w500/6TTBTlpHK6QG2i8T596LZbwvmJN.jpg"
+      },
+      {
+        "name": "D'Arcy Corrigan",
+        "character": "The Blind Man",
+        "photo": "https://image.tmdb.org/t/p/w500/xFQ6gD1U4OxKu5gjL1qiy5TFgwa.jpg"
+      },
+      {
+        "name": "Leo McCabe",
+        "character": "Donahue"
+      }
+    ],
+    "director": [
+      "John Ford"
+    ]
   }
 }

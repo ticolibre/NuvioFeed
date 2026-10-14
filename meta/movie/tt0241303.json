@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Juliette Binoche",
+      "Judi Dench",
+      "Alfred Molina",
+      "Lena Olin",
+      "Johnny Depp",
+      "Hugh O'Conor",
+      "Carrie-Anne Moss",
+      "John Wood",
+      "Peter Stormare",
+      "Leslie Caron",
+      "Victoire Thivisol",
+      "Aurelien Parent Koenig"
+    ],
+    "app_cast": [
+      {
+        "name": "Juliette Binoche",
+        "character": "Vianne Rocher",
+        "photo": "https://image.tmdb.org/t/p/w500/htdZZIroEyJaeHQAUTqokNfkPgl.jpg"
+      },
+      {
+        "name": "Judi Dench",
+        "character": "Armande Voizin",
+        "photo": "https://image.tmdb.org/t/p/w500/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Count Paul de Reynaud",
+        "photo": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "Lena Olin",
+        "character": "Josephine Muscat",
+        "photo": "https://image.tmdb.org/t/p/w500/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg"
+      },
+      {
+        "name": "Johnny Depp",
+        "character": "Roux",
+        "photo": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+      },
+      {
+        "name": "Hugh O'Conor",
+        "character": "Father Henri",
+        "photo": "https://image.tmdb.org/t/p/w500/1vQKnH0H98PaJJeu8xR0rtM7lze.jpg"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "character": "Caroline Clairmont",
+        "photo": "https://image.tmdb.org/t/p/w500/9zya72vRZYBQILfetACsnmCBgdj.jpg"
+      },
+      {
+        "name": "John Wood",
+        "character": "Guillaume Blerot",
+        "photo": "https://image.tmdb.org/t/p/w500/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Serge Muscat",
+        "photo": "https://image.tmdb.org/t/p/w500/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+      },
+      {
+        "name": "Leslie Caron",
+        "character": "Mrs. Audel",
+        "photo": "https://image.tmdb.org/t/p/w500/6ZCpoUIFNiVSCuFx2DXUgWFxq7r.jpg"
+      },
+      {
+        "name": "Victoire Thivisol",
+        "character": "Anouk Rocher",
+        "photo": "https://image.tmdb.org/t/p/w500/4E2A5Ew7eeICMHXnGzRyotxG7m9.jpg"
+      },
+      {
+        "name": "Aurelien Parent Koenig",
+        "character": "Luc Clairmont",
+        "photo": "https://image.tmdb.org/t/p/w500/oniYyrnZhNaMWbmq7Hj3rytTGAL.jpg"
+      }
+    ],
+    "director": [
+      "Lasse Hallström"
+    ]
   }
 }

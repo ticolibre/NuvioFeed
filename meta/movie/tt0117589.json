@@ -17,6 +17,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Brenda Blethyn",
+      "Marianne Jean-Baptiste",
+      "Timothy Spall",
+      "Phyllis Logan",
+      "Claire Rushbrook",
+      "Lee Ross",
+      "Lesley Manville",
+      "Elizabeth Berrington",
+      "Michele Austin",
+      "Ron Cook",
+      "Trevor Laird",
+      "Brian Bovell"
+    ],
+    "app_cast": [
+      {
+        "name": "Brenda Blethyn",
+        "character": "Cynthia Rose Purley",
+        "photo": "https://image.tmdb.org/t/p/w500/mxENo8tEvN0998PrNidYkN4wGGO.jpg"
+      },
+      {
+        "name": "Marianne Jean-Baptiste",
+        "character": "Hortense Cumberbatch",
+        "photo": "https://image.tmdb.org/t/p/w500/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg"
+      },
+      {
+        "name": "Timothy Spall",
+        "character": "Maurice Purley",
+        "photo": "https://image.tmdb.org/t/p/w500/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+      },
+      {
+        "name": "Phyllis Logan",
+        "character": "Monica Purley",
+        "photo": "https://image.tmdb.org/t/p/w500/jRNfzD3bA5fyPxXRTiDbfNsTcOV.jpg"
+      },
+      {
+        "name": "Claire Rushbrook",
+        "character": "Roxanne Purley",
+        "photo": "https://image.tmdb.org/t/p/w500/kJKFYyTlUeQ2TPhQHUdBhJOpEsM.jpg"
+      },
+      {
+        "name": "Lee Ross",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/sQNOXntZ677YC9686kUl1NWGP18.jpg"
+      },
+      {
+        "name": "Lesley Manville",
+        "character": "The Social Worker",
+        "photo": "https://image.tmdb.org/t/p/w500/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+      },
+      {
+        "name": "Elizabeth Berrington",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/wFz71bIKTlQoa8v1s243TIh5wUm.jpg"
+      },
+      {
+        "name": "Michele Austin",
+        "character": "Dionne",
+        "photo": "https://image.tmdb.org/t/p/w500/xwUikOrP51Y3FnKysZ4dr3saGFZ.jpg"
+      },
+      {
+        "name": "Ron Cook",
+        "character": "Stuart",
+        "photo": "https://image.tmdb.org/t/p/w500/gRHsTI9gwajULovSd2TVHROEEMj.jpg"
+      },
+      {
+        "name": "Trevor Laird",
+        "character": "Hortense's Brother",
+        "photo": "https://image.tmdb.org/t/p/w500/naIxoiikITirsPBKX10YC2Tb490.jpg"
+      },
+      {
+        "name": "Brian Bovell",
+        "character": "Hortense's Brother",
+        "photo": "https://image.tmdb.org/t/p/w500/rWmU6Vua4xMynf4zT2orZlxeGaI.jpg"
+      }
+    ],
+    "director": [
+      "Mike Leigh"
+    ]
   }
 }

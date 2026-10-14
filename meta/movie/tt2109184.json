@@ -17,6 +17,85 @@
           "rating": "5.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Katie Featherston",
+      "Kathryn Newton",
+      "Matt Shively",
+      "Aiden Lovekamp",
+      "Brady Allen",
+      "Stephen Dunham",
+      "Alexondra Lee",
+      "Georgica Pettus",
+      "Alisha Boe",
+      "Brendon Eggertsen",
+      "Constance Esposito",
+      "Ty Dawson"
+    ],
+    "app_cast": [
+      {
+        "name": "Katie Featherston",
+        "character": "Katie Featherston",
+        "photo": "https://image.tmdb.org/t/p/w500/mdbMy2B70PiFp0ckLo6WhSLDbR2.jpg"
+      },
+      {
+        "name": "Kathryn Newton",
+        "character": "Alex Nelson",
+        "photo": "https://image.tmdb.org/t/p/w500/3mos4oK6bps0uhQzW1L7nj5O0Gd.jpg"
+      },
+      {
+        "name": "Matt Shively",
+        "character": "Ben",
+        "photo": "https://image.tmdb.org/t/p/w500/iHRsz1oz5SWGYhEXS59dR0dsODZ.jpg"
+      },
+      {
+        "name": "Aiden Lovekamp",
+        "character": "Wyatt Nelson",
+        "photo": "https://image.tmdb.org/t/p/w500/ArVLQOI1UMcPjoakXCHIrZYFyVp.jpg"
+      },
+      {
+        "name": "Brady Allen",
+        "character": "Robbie",
+        "photo": "https://image.tmdb.org/t/p/w500/8nglrDR3KL2sileDQua0l0nY9rk.jpg"
+      },
+      {
+        "name": "Stephen Dunham",
+        "character": "Doug Nelson",
+        "photo": "https://image.tmdb.org/t/p/w500/6kBBjxl4QzHxHXXjvMi6BVbfLsf.jpg"
+      },
+      {
+        "name": "Alexondra Lee",
+        "character": "Holly Nelson",
+        "photo": "https://image.tmdb.org/t/p/w500/lEbjSMcwMJ7QbIO2v6xSQ7wudQ6.jpg"
+      },
+      {
+        "name": "Georgica Pettus",
+        "character": "Sarah",
+        "photo": "https://image.tmdb.org/t/p/w500/jHVyISCdlJ0RirIoqfPBZHxukQq.jpg"
+      },
+      {
+        "name": "Alisha Boe",
+        "character": "Tara",
+        "photo": "https://image.tmdb.org/t/p/w500/d97PBeHPYIJ4hshqoe2ahRJ2NIq.jpg"
+      },
+      {
+        "name": "Brendon Eggertsen",
+        "character": "Derek",
+        "photo": "https://image.tmdb.org/t/p/w500/7iCXxXVj8fbWzPoXpduyHwz7qmS.jpg"
+      },
+      {
+        "name": "Constance Esposito",
+        "character": "Robbie's Mom's Friend"
+      },
+      {
+        "name": "Ty Dawson",
+        "character": "Shadow Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/gZqKBQsWjEUXu090Nrc51idZvtn.jpg"
+      }
+    ],
+    "director": [
+      "Henry Joost",
+      "Ariel Schulman"
+    ]
   }
 }

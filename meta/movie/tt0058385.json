@@ -19,6 +19,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Stanley Holloway",
+      "Wilfrid Hyde-White",
+      "Gladys Cooper",
+      "Jeremy Brett",
+      "Theodore Bikel",
+      "Mona Washbourne",
+      "Isobel Elsom",
+      "John Holland",
+      "Marni Nixon",
+      "Colin Kenny"
+    ],
+    "app_cast": [
+      {
+        "name": "Audrey Hepburn",
+        "character": "Eliza Doolittle",
+        "photo": "https://image.tmdb.org/t/p/w500/wg3RRHA5jV755dV0ksQ9g0Nc2xE.jpg"
+      },
+      {
+        "name": "Rex Harrison",
+        "character": "Professor Henry Higgins",
+        "photo": "https://image.tmdb.org/t/p/w500/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+      },
+      {
+        "name": "Stanley Holloway",
+        "character": "Alfred P. Doolittle",
+        "photo": "https://image.tmdb.org/t/p/w500/3FLfK05mtqhF0mtuWVVWQCYwbA9.jpg"
+      },
+      {
+        "name": "Wilfrid Hyde-White",
+        "character": "Colonel Hugh Pickering",
+        "photo": "https://image.tmdb.org/t/p/w500/dqdw6iQgMxHp7v5wdI5a2VI6Rwp.jpg"
+      },
+      {
+        "name": "Gladys Cooper",
+        "character": "Mrs. Higgins",
+        "photo": "https://image.tmdb.org/t/p/w500/8ChGmCj4O9Q7kpkgHDguNNhX2Wk.jpg"
+      },
+      {
+        "name": "Jeremy Brett",
+        "character": "Freddy Eynsford-Hill",
+        "photo": "https://image.tmdb.org/t/p/w500/fiEmUphAVvJeogbNTVwUd5UEFuY.jpg"
+      },
+      {
+        "name": "Theodore Bikel",
+        "character": "Zoltan Karpathy",
+        "photo": "https://image.tmdb.org/t/p/w500/mYiM4fRl9xpGRBf6gSAPekvcaj8.jpg"
+      },
+      {
+        "name": "Mona Washbourne",
+        "character": "Mrs. Pearce",
+        "photo": "https://image.tmdb.org/t/p/w500/3verXd1ywWcpiOIPxqApEV3TvTT.jpg"
+      },
+      {
+        "name": "Isobel Elsom",
+        "character": "Mrs. Eynsford-Hill",
+        "photo": "https://image.tmdb.org/t/p/w500/2HoBes20CcuNFoUeyBbAIShbEQM.jpg"
+      },
+      {
+        "name": "John Holland",
+        "character": "Butler",
+        "photo": "https://image.tmdb.org/t/p/w500/1ctCrOanIch8iCkoVu6jxOw08dh.jpg"
+      },
+      {
+        "name": "Marni Nixon",
+        "character": "Eliza Doolittle (singing voice) (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/76mZuCSred16BMfneYmmlXlbXeB.jpg"
+      },
+      {
+        "name": "Colin Kenny",
+        "character": "Ad Lib at Church (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/8zW8KNpOtiQxx9lTugciQbsl4gV.jpg"
+      }
+    ],
+    "director": [
+      "George Cukor"
+    ]
   }
 }

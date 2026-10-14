@@ -19,6 +19,83 @@
           "rating": "8.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini",
+      "Sebastian Maniscalco",
+      "Dimiter D. Marinov",
+      "Mike Hatton",
+      "P.J. Byrne",
+      "Joe Cortese",
+      "Mary Agnes Nixon",
+      "Von Lewis",
+      "Jon Sortland",
+      "Don Stark"
+    ],
+    "app_cast": [
+      {
+        "name": "Viggo Mortensen",
+        "character": "Tony Lip",
+        "photo": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Mahershala Ali",
+        "character": "Dr. Don Shirley",
+        "photo": "https://image.tmdb.org/t/p/w500/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Dolores",
+        "photo": "https://image.tmdb.org/t/p/w500/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+      },
+      {
+        "name": "Sebastian Maniscalco",
+        "character": "Johnny Venere",
+        "photo": "https://image.tmdb.org/t/p/w500/bvJQGVOI8fJ9Y4eAvYqoQcOAbHZ.jpg"
+      },
+      {
+        "name": "Dimiter D. Marinov",
+        "character": "Oleg",
+        "photo": "https://image.tmdb.org/t/p/w500/lZwHZ27xqsPsuswcxyx6uWSh5VP.jpg"
+      },
+      {
+        "name": "Mike Hatton",
+        "character": "George",
+        "photo": "https://image.tmdb.org/t/p/w500/f1dQlVm0plWWCcFczq4d9jTQUxN.jpg"
+      },
+      {
+        "name": "P.J. Byrne",
+        "character": "Record Exec",
+        "photo": "https://image.tmdb.org/t/p/w500/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg"
+      },
+      {
+        "name": "Joe Cortese",
+        "character": "Gio Loscudo",
+        "photo": "https://image.tmdb.org/t/p/w500/4Z2PvYRrpZ27xLKnDrtX6iRmJ3e.jpg"
+      },
+      {
+        "name": "Mary Agnes Nixon",
+        "character": "Copa Coat Check Girl"
+      },
+      {
+        "name": "Von Lewis",
+        "character": "Bobby Rydell",
+        "photo": "https://image.tmdb.org/t/p/w500/bD92UEjqBKe3Tu075Ww8BENDCaO.jpg"
+      },
+      {
+        "name": "Jon Sortland",
+        "character": "Rydell Band Leader"
+      },
+      {
+        "name": "Don Stark",
+        "character": "Jules Podell",
+        "photo": "https://image.tmdb.org/t/p/w500/lkPWvElz5RxR4t4v3hM4SRy5E1j.jpg"
+      }
+    ],
+    "director": [
+      "Peter Farrelly"
+    ]
   }
 }

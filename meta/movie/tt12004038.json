@@ -19,6 +19,83 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Maika Monroe",
+      "Karl Glusman",
+      "Burn Gorman",
+      "Mãdãlina Anea",
+      "Gabriela Butuc",
+      "Cristina Deleanu",
+      "Ștefan Iancu",
+      "Florian Ghimpu",
+      "Flaviu Crisan",
+      "Ioana Abur",
+      "Alexandru Ion",
+      "Aida Economu"
+    ],
+    "app_cast": [
+      {
+        "name": "Maika Monroe",
+        "character": "Julia",
+        "photo": "https://image.tmdb.org/t/p/w500/x4yiKkMnCdf8g4eOrDoqla9FYEA.jpg"
+      },
+      {
+        "name": "Karl Glusman",
+        "character": "Francis",
+        "photo": "https://image.tmdb.org/t/p/w500/mTpLq73gepoX1fCLCtTunCxWYp5.jpg"
+      },
+      {
+        "name": "Burn Gorman",
+        "character": "Watcher",
+        "photo": "https://image.tmdb.org/t/p/w500/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+      },
+      {
+        "name": "Mãdãlina Anea",
+        "character": "Irina",
+        "photo": "https://image.tmdb.org/t/p/w500/rbE0P6BOlSMgzGXSvM7cM1hquE1.jpg"
+      },
+      {
+        "name": "Gabriela Butuc",
+        "character": "Flavia",
+        "photo": "https://image.tmdb.org/t/p/w500/l7PbsMnlpWfbUuA0SDltLJITbFl.jpg"
+      },
+      {
+        "name": "Cristina Deleanu",
+        "character": "Eleonora",
+        "photo": "https://image.tmdb.org/t/p/w500/r5kPVG1tMYR7Y4KmYbmOySyuov9.jpg"
+      },
+      {
+        "name": "Ștefan Iancu",
+        "character": "Sebastian",
+        "photo": "https://image.tmdb.org/t/p/w500/nP3p9VuxbddX063pCCDnYgNbIWA.jpg"
+      },
+      {
+        "name": "Florian Ghimpu",
+        "character": "Officer Radu"
+      },
+      {
+        "name": "Flaviu Crisan",
+        "character": "Simion"
+      },
+      {
+        "name": "Ioana Abur",
+        "character": "Simion's Wife",
+        "photo": "https://image.tmdb.org/t/p/w500/n9YZiwm4zMF8CFuxLHnH4wRODeC.jpg"
+      },
+      {
+        "name": "Alexandru Ion",
+        "character": "Nicolae",
+        "photo": "https://image.tmdb.org/t/p/w500/rGuJb7WH7896F8FPJRe9WOntWNL.jpg"
+      },
+      {
+        "name": "Aida Economu",
+        "character": "Lucia",
+        "photo": "https://image.tmdb.org/t/p/w500/8SJH2RhP7c37kl4XWckQapsVVxn.jpg"
+      }
+    ],
+    "director": [
+      "Chloe Okuno"
+    ]
   }
 }

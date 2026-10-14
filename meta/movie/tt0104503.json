@@ -18,6 +18,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Steve Buscemi",
+      "Seymour Cassel",
+      "Jennifer Beals",
+      "Pat Moya",
+      "Will Patton",
+      "Stanley Tucci",
+      "Elizabeth Bracco",
+      "Debi Mazar",
+      "Sam Rockwell",
+      "Steven Randazzo",
+      "Rockets Redglare",
+      "Jim Jarmusch"
+    ],
+    "app_cast": [
+      {
+        "name": "Steve Buscemi",
+        "character": "Aldolpho Rollo",
+        "photo": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+      },
+      {
+        "name": "Seymour Cassel",
+        "character": "Joe",
+        "photo": "https://image.tmdb.org/t/p/w500/3xAx3mu2VxpTIgdYe9RmSpyVwjH.jpg"
+      },
+      {
+        "name": "Jennifer Beals",
+        "character": "Angelica Pena",
+        "photo": "https://image.tmdb.org/t/p/w500/tu1CjyjoUoV7rGPyvwvH9b0MlbW.jpg"
+      },
+      {
+        "name": "Pat Moya",
+        "character": "Dang",
+        "photo": "https://image.tmdb.org/t/p/w500/xIY4EwJCYpNL28jdvN8zOBlsp7K.jpg"
+      },
+      {
+        "name": "Will Patton",
+        "character": "Skippy",
+        "photo": "https://image.tmdb.org/t/p/w500/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Gregoire",
+        "photo": "https://image.tmdb.org/t/p/w500/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+      },
+      {
+        "name": "Elizabeth Bracco",
+        "character": "Jackie",
+        "photo": "https://image.tmdb.org/t/p/w500/hWkmSuDWfelZ7PAmllHU3YHb3oV.jpg"
+      },
+      {
+        "name": "Debi Mazar",
+        "character": "Suzie",
+        "photo": "https://image.tmdb.org/t/p/w500/cU3LhqOjXzOqpGCSDFj5otlZreu.jpg"
+      },
+      {
+        "name": "Sam Rockwell",
+        "character": "Pauli",
+        "photo": "https://image.tmdb.org/t/p/w500/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+      },
+      {
+        "name": "Steven Randazzo",
+        "character": "Louis Barfardi",
+        "photo": "https://image.tmdb.org/t/p/w500/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg"
+      },
+      {
+        "name": "Rockets Redglare",
+        "character": "Guy",
+        "photo": "https://image.tmdb.org/t/p/w500/2B40xLjGMsxTY5dHxpiCmBZhni3.jpg"
+      },
+      {
+        "name": "Jim Jarmusch",
+        "character": "Monty",
+        "photo": "https://image.tmdb.org/t/p/w500/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg"
+      }
+    ],
+    "director": [
+      "Alexandre Rockwell"
+    ]
   }
 }

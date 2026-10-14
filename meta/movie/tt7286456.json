@@ -19,6 +19,84 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy",
+      "Brett Cullen",
+      "Shea Whigham",
+      "Bill Camp",
+      "Glenn Fleshler",
+      "Leigh Gill",
+      "Josh Pais",
+      "Rocco Luna",
+      "Marc Maron"
+    ],
+    "app_cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Arthur Fleck",
+        "photo": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Murray Franklin",
+        "photo": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Zazie Beetz",
+        "character": "Sophie Dumond",
+        "photo": "https://image.tmdb.org/t/p/w500/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+      },
+      {
+        "name": "Frances Conroy",
+        "character": "Penny Fleck",
+        "photo": "https://image.tmdb.org/t/p/w500/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+      },
+      {
+        "name": "Brett Cullen",
+        "character": "Thomas Wayne",
+        "photo": "https://image.tmdb.org/t/p/w500/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Detective Burke",
+        "photo": "https://image.tmdb.org/t/p/w500/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Detective Garrity",
+        "photo": "https://image.tmdb.org/t/p/w500/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+      },
+      {
+        "name": "Glenn Fleshler",
+        "character": "Randall",
+        "photo": "https://image.tmdb.org/t/p/w500/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
+      },
+      {
+        "name": "Leigh Gill",
+        "character": "Gary",
+        "photo": "https://image.tmdb.org/t/p/w500/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
+      },
+      {
+        "name": "Josh Pais",
+        "character": "Hoyt Vaughn",
+        "photo": "https://image.tmdb.org/t/p/w500/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+      },
+      {
+        "name": "Rocco Luna",
+        "character": "GiGi Dumond"
+      },
+      {
+        "name": "Marc Maron",
+        "character": "Gene Ufland",
+        "photo": "https://image.tmdb.org/t/p/w500/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+      }
+    ],
+    "director": [
+      "Todd Phillips"
+    ]
   }
 }

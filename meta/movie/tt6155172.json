@@ -17,6 +17,83 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Yalitza Aparicio",
+      "Marina de Tavira",
+      "Diego Cortina Autrey",
+      "Carlos Peralta",
+      "Marco Graf",
+      "Daniela Demesa",
+      "Nancy García García",
+      "Verónica García",
+      "Fernando Grediaga",
+      "Jorge Antonio Guerrero",
+      "José Manuel Guerrero Mendoza",
+      "Andy Cortés"
+    ],
+    "app_cast": [
+      {
+        "name": "Yalitza Aparicio",
+        "character": "Cleo Gutiérrez",
+        "photo": "https://image.tmdb.org/t/p/w500/wiZEyqNTNkevCT768bKvvOJvCHb.jpg"
+      },
+      {
+        "name": "Marina de Tavira",
+        "character": "Sofía",
+        "photo": "https://image.tmdb.org/t/p/w500/rGGjW1UnUL1Q4TGlfRL3W5yuyq1.jpg"
+      },
+      {
+        "name": "Diego Cortina Autrey",
+        "character": "Toño",
+        "photo": "https://image.tmdb.org/t/p/w500/sjk18uMlWDEW1SghHtYOckS2Bmm.jpg"
+      },
+      {
+        "name": "Carlos Peralta",
+        "character": "Paco",
+        "photo": "https://image.tmdb.org/t/p/w500/rCtVtycU3dG8Z3nWhi1XSsEbPN.jpg"
+      },
+      {
+        "name": "Marco Graf",
+        "character": "Pepe",
+        "photo": "https://image.tmdb.org/t/p/w500/na3AUeMwiN027NAb8gr4FfgBJJK.jpg"
+      },
+      {
+        "name": "Daniela Demesa",
+        "character": "Sofi",
+        "photo": "https://image.tmdb.org/t/p/w500/sM27P5vM5SNRJvSJqjdlIfDeYml.jpg"
+      },
+      {
+        "name": "Nancy García García",
+        "character": "Adela",
+        "photo": "https://image.tmdb.org/t/p/w500/81WXVXpMQEVOHvPVf1JAJ3RQ9tb.jpg"
+      },
+      {
+        "name": "Verónica García",
+        "character": "Teresa",
+        "photo": "https://image.tmdb.org/t/p/w500/qLR0UneJ0x9EUKQA9QeyJNLoEKU.jpg"
+      },
+      {
+        "name": "Fernando Grediaga",
+        "character": "Antonio",
+        "photo": "https://image.tmdb.org/t/p/w500/l4TQuRpoMv0mivsuR8Zr3bOvfho.jpg"
+      },
+      {
+        "name": "Jorge Antonio Guerrero",
+        "character": "Fermín",
+        "photo": "https://image.tmdb.org/t/p/w500/f99ND0Ku9XwVHtYxuOivkReIfYv.jpg"
+      },
+      {
+        "name": "José Manuel Guerrero Mendoza",
+        "character": "Ramón"
+      },
+      {
+        "name": "Andy Cortés",
+        "character": "Ignacio"
+      }
+    ],
+    "director": [
+      "Alfonso Cuarón"
+    ]
   }
 }

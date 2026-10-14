@@ -18,6 +18,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Nolan Gerard Funk",
+      "Lucy Hale",
+      "Violett Beane",
+      "Tyler Posey",
+      "Hayden Szeto",
+      "Aurora Perrineau",
+      "Sophia Ali",
+      "Landon Liboiron",
+      "Morgan Lindholm",
+      "Gary Anthony Williams",
+      "Ezmie Garcia",
+      "Sam Lerner"
+    ],
+    "app_cast": [
+      {
+        "name": "Nolan Gerard Funk",
+        "character": "Tyson Curran",
+        "photo": "https://image.tmdb.org/t/p/w500/nu8k4yKULdaK4bDOfBIBMdH6QqA.jpg"
+      },
+      {
+        "name": "Lucy Hale",
+        "character": "Olivia Barron",
+        "photo": "https://image.tmdb.org/t/p/w500/9meaYbWrMOpyIn3sWGTQXKGLiea.jpg"
+      },
+      {
+        "name": "Violett Beane",
+        "character": "Markie Cameron",
+        "photo": "https://image.tmdb.org/t/p/w500/5jalFEkEpbNxjc3HMsEYT0vQxSr.jpg"
+      },
+      {
+        "name": "Tyler Posey",
+        "character": "Lucas Moreno",
+        "photo": "https://image.tmdb.org/t/p/w500/sWViYwUjkvARouQTKc6UeO3iK3y.jpg"
+      },
+      {
+        "name": "Hayden Szeto",
+        "character": "Brad Chang",
+        "photo": "https://image.tmdb.org/t/p/w500/34Zjbk78f8hEQzqedNVnmWsgGea.jpg"
+      },
+      {
+        "name": "Aurora Perrineau",
+        "character": "Giselle Hammond",
+        "photo": "https://image.tmdb.org/t/p/w500/5zgJaU4N1uc3fyTz9JbYYMNOeX7.jpg"
+      },
+      {
+        "name": "Sophia Ali",
+        "character": "Penelope Amari",
+        "photo": "https://image.tmdb.org/t/p/w500/45B39NY2LEYewNUiWtvFb7LrDct.jpg"
+      },
+      {
+        "name": "Landon Liboiron",
+        "character": "Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/1hnx9SJo1DQnkveFA9hOQ0BfNwL.jpg"
+      },
+      {
+        "name": "Morgan Lindholm",
+        "character": "Alexis Podell",
+        "photo": "https://image.tmdb.org/t/p/w500/kWcJ679vawdP7tZGz8fmE5y90xA.jpg"
+      },
+      {
+        "name": "Gary Anthony Williams",
+        "character": "Calex (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg"
+      },
+      {
+        "name": "Ezmie Garcia",
+        "character": "Young Inez / Inez's Granddaughter",
+        "photo": "https://image.tmdb.org/t/p/w500/xuh97iCwzUM6SUPAewuEzP15iuH.jpg"
+      },
+      {
+        "name": "Sam Lerner",
+        "character": "Ronnie",
+        "photo": "https://image.tmdb.org/t/p/w500/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
+      }
+    ],
+    "director": [
+      "Jeff Wadlow"
+    ]
   }
 }

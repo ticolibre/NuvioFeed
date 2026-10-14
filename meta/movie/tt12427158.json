@@ -18,6 +18,84 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Teyana Taylor",
+      "William Catlett",
+      "Josiah Cross",
+      "Aven Courtney",
+      "Aaron Kingsley Adetola",
+      "Terri Abney",
+      "Delissa Reynolds",
+      "Amelia Workman",
+      "Adriane Lenox",
+      "Mark Gessner",
+      "Gavin Schlosser",
+      "Jolly Swag"
+    ],
+    "app_cast": [
+      {
+        "name": "Teyana Taylor",
+        "character": "Inez",
+        "photo": "https://image.tmdb.org/t/p/w500/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+      },
+      {
+        "name": "William Catlett",
+        "character": "Lucky",
+        "photo": "https://image.tmdb.org/t/p/w500/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg"
+      },
+      {
+        "name": "Josiah Cross",
+        "character": "Terry",
+        "photo": "https://image.tmdb.org/t/p/w500/t6wC8LhdCPhlsIsyzqZSro54hfa.jpg"
+      },
+      {
+        "name": "Aven Courtney",
+        "character": "Terry 13 Year Old",
+        "photo": "https://image.tmdb.org/t/p/w500/8zBs5HCJF0Y6XW8z3YrQnLCMRMs.jpg"
+      },
+      {
+        "name": "Aaron Kingsley Adetola",
+        "character": "Terry 6 Years Old",
+        "photo": "https://image.tmdb.org/t/p/w500/1bcFrorRtHGe0seQoQ5OAqKYWIu.jpg"
+      },
+      {
+        "name": "Terri Abney",
+        "character": "Kim Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/p7WkBwGtt4smtQAVtpVK87rXuq1.jpg"
+      },
+      {
+        "name": "Delissa Reynolds",
+        "character": "Mrs. Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/hUceo25PpWhiPXZKpfng91ZSULI.jpg"
+      },
+      {
+        "name": "Amelia Workman",
+        "character": "Anita Tucker",
+        "photo": "https://image.tmdb.org/t/p/w500/d8Wi3NlizQxFUr2yTWzb9FlGYWG.jpg"
+      },
+      {
+        "name": "Adriane Lenox",
+        "character": "Miss Annie",
+        "photo": "https://image.tmdb.org/t/p/w500/6uwcIdXFMCZntOxpEjiNOZfYbDv.jpg"
+      },
+      {
+        "name": "Mark Gessner",
+        "character": "Jerry",
+        "photo": "https://image.tmdb.org/t/p/w500/r7DUdm3A6vdHBCZpshWCIYTqAKG.jpg"
+      },
+      {
+        "name": "Gavin Schlosser",
+        "character": "Pea 6 Years Old"
+      },
+      {
+        "name": "Jolly Swag",
+        "character": "Pea 13 Years Old",
+        "photo": "https://image.tmdb.org/t/p/w500/A7fRyU8qNEFexVpOSNgZj82ZAtO.jpg"
+      }
+    ],
+    "director": [
+      "A.V. Rockwell"
+    ]
   }
 }

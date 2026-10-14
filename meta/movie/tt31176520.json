@@ -19,6 +19,85 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Joaquin Phoenix",
+      "Deirdre O'Connell",
+      "Emma Stone",
+      "Micheal Ward",
+      "Pedro Pascal",
+      "Cameron Mann",
+      "Matt Gomez Hidaka",
+      "Luke Grimes",
+      "Amélie Hoeferle",
+      "Clifton Collins Jr.",
+      "William Belleau",
+      "Austin Butler"
+    ],
+    "app_cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Joe Cross",
+        "photo": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+      },
+      {
+        "name": "Deirdre O'Connell",
+        "character": "Dawn Bodkin",
+        "photo": "https://image.tmdb.org/t/p/w500/14e0AZOZafenduP7O6oMLSL92RP.jpg"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Louise Cross",
+        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "Micheal Ward",
+        "character": "Michael Cooke",
+        "photo": "https://image.tmdb.org/t/p/w500/fnVDz5q9Vtocm2VY5tU3voP6RxG.jpg"
+      },
+      {
+        "name": "Pedro Pascal",
+        "character": "Ted Garcia",
+        "photo": "https://image.tmdb.org/t/p/w500/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+      },
+      {
+        "name": "Cameron Mann",
+        "character": "Brian Frazee",
+        "photo": "https://image.tmdb.org/t/p/w500/3sc89h2GBEM7DfhXtohc0nIgPCU.jpg"
+      },
+      {
+        "name": "Matt Gomez Hidaka",
+        "character": "Eric Garcia",
+        "photo": "https://image.tmdb.org/t/p/w500/uUDDMSYqNydNrmbELg8ZdUvFB1s.jpg"
+      },
+      {
+        "name": "Luke Grimes",
+        "character": "Guy Tooley",
+        "photo": "https://image.tmdb.org/t/p/w500/c547Xiwf9feeDbGfQchfJCkC111.jpg"
+      },
+      {
+        "name": "Amélie Hoeferle",
+        "character": "Sarah",
+        "photo": "https://image.tmdb.org/t/p/w500/vBNKPHxo86gQOIPpPszueyeI2bt.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Lodge",
+        "photo": "https://image.tmdb.org/t/p/w500/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+      },
+      {
+        "name": "William Belleau",
+        "character": "Officer Butterfly Jimenez",
+        "photo": "https://image.tmdb.org/t/p/w500/fZenco7DivoGTfCkbyubgW18BId.jpg"
+      },
+      {
+        "name": "Austin Butler",
+        "character": "Vernon Jefferson Peak",
+        "photo": "https://image.tmdb.org/t/p/w500/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+      }
+    ],
+    "director": [
+      "Ari Aster"
+    ]
   }
 }

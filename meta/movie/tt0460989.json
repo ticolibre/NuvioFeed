@@ -18,6 +18,80 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Cillian Murphy",
+      "Pádraic Delaney",
+      "Liam Cunningham",
+      "Orla Fitzgerald",
+      "Mary O'Riordan",
+      "Mary Murphy",
+      "Laurence Barry",
+      "Damien Kearney",
+      "Frank Bourke",
+      "Myles Horgan",
+      "Martin Lucey",
+      "Aidan O'Hare"
+    ],
+    "app_cast": [
+      {
+        "name": "Cillian Murphy",
+        "character": "Damien",
+        "photo": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Pádraic Delaney",
+        "character": "Teddy",
+        "photo": "https://image.tmdb.org/t/p/w500/pnKHr0Kf9lfoY5FZpo1p9cVMWHJ.jpg"
+      },
+      {
+        "name": "Liam Cunningham",
+        "character": "Dan",
+        "photo": "https://image.tmdb.org/t/p/w500/y27shwpEYGq4vhdEajcmqucuq9x.jpg"
+      },
+      {
+        "name": "Orla Fitzgerald",
+        "character": "Sinead",
+        "photo": "https://image.tmdb.org/t/p/w500/1GlqOJOaiQqwTwvTSjALFuNoiKY.jpg"
+      },
+      {
+        "name": "Mary O'Riordan",
+        "character": "Peggy"
+      },
+      {
+        "name": "Mary Murphy",
+        "character": "Bernadette"
+      },
+      {
+        "name": "Laurence Barry",
+        "character": "Micheail"
+      },
+      {
+        "name": "Damien Kearney",
+        "character": "Finbar",
+        "photo": "https://image.tmdb.org/t/p/w500/kWc69tlQ9worA84TpEptUQ3ZMS8.jpg"
+      },
+      {
+        "name": "Frank Bourke",
+        "character": "Leo",
+        "photo": "https://image.tmdb.org/t/p/w500/1AWUOKX5978SbppSTLZjtyGnl70.jpg"
+      },
+      {
+        "name": "Myles Horgan",
+        "character": "Rory"
+      },
+      {
+        "name": "Martin Lucey",
+        "character": "Congo"
+      },
+      {
+        "name": "Aidan O'Hare",
+        "character": "Steady Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/kQZACPyVcWvwP7V5ZWpdxGhgV7X.jpg"
+      }
+    ],
+    "director": [
+      "Ken Loach"
+    ]
   }
 }

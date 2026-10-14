@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Bette Davis",
+      "George Brent",
+      "Humphrey Bogart",
+      "Geraldine Fitzgerald",
+      "Ronald Reagan",
+      "Henry Travers",
+      "Cora Witherspoon",
+      "Dorothy Peterson",
+      "Virginia Brissac",
+      "Charles Richman",
+      "Herbert Rawlinson",
+      "Leonard Mudie"
+    ],
+    "app_cast": [
+      {
+        "name": "Bette Davis",
+        "character": "Judith Traherne",
+        "photo": "https://image.tmdb.org/t/p/w500/dr7UzpC9055ByCdCUHvTP1qsD2X.jpg"
+      },
+      {
+        "name": "George Brent",
+        "character": "Dr. Frederick Steele",
+        "photo": "https://image.tmdb.org/t/p/w500/831vetUvPxlDCd6yJitdnH1YeyX.jpg"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "character": "Michael O'Leary",
+        "photo": "https://image.tmdb.org/t/p/w500/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+      },
+      {
+        "name": "Geraldine Fitzgerald",
+        "character": "Ann King",
+        "photo": "https://image.tmdb.org/t/p/w500/jLpd1AxJIAYHE41kIJjXKAK5Vnn.jpg"
+      },
+      {
+        "name": "Ronald Reagan",
+        "character": "Alec",
+        "photo": "https://image.tmdb.org/t/p/w500/tuB7bNPABSP3MtPKpdttbz2OdSU.jpg"
+      },
+      {
+        "name": "Henry Travers",
+        "character": "Dr. Parsons",
+        "photo": "https://image.tmdb.org/t/p/w500/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
+      },
+      {
+        "name": "Cora Witherspoon",
+        "character": "Carrie",
+        "photo": "https://image.tmdb.org/t/p/w500/dptHFjTA3CDg7d4cpjXqvkthm3S.jpg"
+      },
+      {
+        "name": "Dorothy Peterson",
+        "character": "Miss Wainwright",
+        "photo": "https://image.tmdb.org/t/p/w500/9XS1zFsS5vayMWDjsxm7ZuNCH4Z.jpg"
+      },
+      {
+        "name": "Virginia Brissac",
+        "character": "Martha",
+        "photo": "https://image.tmdb.org/t/p/w500/qRL3IiribgsVWBOtgS1oIGThWMY.jpg"
+      },
+      {
+        "name": "Charles Richman",
+        "character": "Colonel Mantle",
+        "photo": "https://image.tmdb.org/t/p/w500/yn1JbbZEPSG5hHQMbNPD6K2YBwd.jpg"
+      },
+      {
+        "name": "Herbert Rawlinson",
+        "character": "Dr. Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/siWyKk2R5OfDhdJHYtlAPdYuXAc.jpg"
+      },
+      {
+        "name": "Leonard Mudie",
+        "character": "Dr. Driscoll",
+        "photo": "https://image.tmdb.org/t/p/w500/gODC8yLtVXYypdqQcE01I2IFqfO.jpg"
+      }
+    ],
+    "director": [
+      "Edmund Goulding"
+    ]
   }
 }

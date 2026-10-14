@@ -20,6 +20,83 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Ronald Colman",
+      "Jane Wyatt",
+      "Edward Everett Horton",
+      "John Howard",
+      "Thomas Mitchell",
+      "Margo",
+      "Isabel Jewell",
+      "H.B. Warner",
+      "Sam Jaffe",
+      "John Burton",
+      "Milton Owen",
+      "John T. Murray"
+    ],
+    "app_cast": [
+      {
+        "name": "Ronald Colman",
+        "character": "Robert \" Bob \" Conway",
+        "photo": "https://image.tmdb.org/t/p/w500/2Rw0UG4QLk8cDCTGZZ5RxFK1e41.jpg"
+      },
+      {
+        "name": "Jane Wyatt",
+        "character": "Sondra Bizet",
+        "photo": "https://image.tmdb.org/t/p/w500/y623a9SfqOFtTawBG9TuESniqzf.jpg"
+      },
+      {
+        "name": "Edward Everett Horton",
+        "character": "Alexander P. \" Lovey \" Lovett",
+        "photo": "https://image.tmdb.org/t/p/w500/wtoC3cXLStuYmiEUVQavdvbh5Js.jpg"
+      },
+      {
+        "name": "John Howard",
+        "character": "George Conway",
+        "photo": "https://image.tmdb.org/t/p/w500/oWtp0JXgzPuylb10PA9OOUmFKle.jpg"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "character": "Henry Barnard",
+        "photo": "https://image.tmdb.org/t/p/w500/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+      },
+      {
+        "name": "Margo",
+        "character": "Maria",
+        "photo": "https://image.tmdb.org/t/p/w500/66hSyfJNtWxswJxCnThOtDkINsI.jpg"
+      },
+      {
+        "name": "Isabel Jewell",
+        "character": "Gloria Stone",
+        "photo": "https://image.tmdb.org/t/p/w500/ojUCADi71n1Ea4Sri3kKJz5Whdn.jpg"
+      },
+      {
+        "name": "H.B. Warner",
+        "character": "Chang",
+        "photo": "https://image.tmdb.org/t/p/w500/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+      },
+      {
+        "name": "Sam Jaffe",
+        "character": "High Lama",
+        "photo": "https://image.tmdb.org/t/p/w500/pvWsxtku6Ki4zKJPUz3K2StJmwB.jpg"
+      },
+      {
+        "name": "John Burton",
+        "character": "Wynant (uncredited)"
+      },
+      {
+        "name": "Milton Owen",
+        "character": "Fenner (uncredited)"
+      },
+      {
+        "name": "John T. Murray",
+        "character": "Meeker (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/5FmnCXK3C4HDa8pV64z1ATYYOOF.jpg"
+      }
+    ],
+    "director": [
+      "Frank Capra"
+    ]
   }
 }

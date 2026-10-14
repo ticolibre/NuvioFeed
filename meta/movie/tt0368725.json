@@ -17,6 +17,81 @@
           "rating": "5.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Vanessa Redgrave",
+      "Cameron D'Angelo",
+      "Kiera D'Angelo",
+      "Geraldine James",
+      "Angelina Jolie",
+      "Daria Knez",
+      "Kika Markham",
+      "Michael Moore",
+      "Joely Richardson",
+      "Rade Šerbedžija",
+      "Miriam Turner",
+      "Maxim Vengerov"
+    ],
+    "app_cast": [
+      {
+        "name": "Vanessa Redgrave",
+        "character": "The woman",
+        "photo": "https://image.tmdb.org/t/p/w500/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
+      },
+      {
+        "name": "Cameron D'Angelo",
+        "character": "The woman's son"
+      },
+      {
+        "name": "Kiera D'Angelo",
+        "character": "The woman's daughter"
+      },
+      {
+        "name": "Geraldine James",
+        "character": "Ranevskaya",
+        "photo": "https://image.tmdb.org/t/p/w500/szGMl8MRuOPKb45xH36uH85xNhd.jpg"
+      },
+      {
+        "name": "Angelina Jolie",
+        "character": "The Young Woman in the Church",
+        "photo": "https://image.tmdb.org/t/p/w500/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+      },
+      {
+        "name": "Daria Knez",
+        "character": "The revolutionary's younger sister"
+      },
+      {
+        "name": "Kika Markham",
+        "character": "Jean",
+        "photo": "https://image.tmdb.org/t/p/w500/ia15nIOLMCeaTygAzvc1eZsUS5M.jpg"
+      },
+      {
+        "name": "Michael Moore",
+        "character": "The War Correspondent",
+        "photo": "https://image.tmdb.org/t/p/w500/m5YViuBUXfKAHNEUObGpzhzQPgE.jpg"
+      },
+      {
+        "name": "Joely Richardson",
+        "character": "Woman at 30",
+        "photo": "https://image.tmdb.org/t/p/w500/yv6aLd1TY06HUJqZshEfs8j5twD.jpg"
+      },
+      {
+        "name": "Rade Šerbedžija",
+        "character": "The diplomat",
+        "photo": "https://image.tmdb.org/t/p/w500/1mJC5oD3pLH1vAS3wJ4sGNxYeqJ.jpg"
+      },
+      {
+        "name": "Miriam Turner",
+        "character": "The revolutionary's mother"
+      },
+      {
+        "name": "Maxim Vengerov",
+        "character": "Violonist",
+        "photo": "https://image.tmdb.org/t/p/w500/ykCTf7clmrtfhZhR3CkvRDV1pQG.jpg"
+      }
+    ],
+    "director": [
+      "Carlo Gabriel Nero"
+    ]
   }
 }

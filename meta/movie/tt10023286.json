@@ -17,6 +17,49 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Richard Jenkins",
+      "Jayne Houdyshell",
+      "Amy Schumer",
+      "Beanie Feldstein",
+      "Steven Yeun",
+      "June Squibb"
+    ],
+    "app_cast": [
+      {
+        "name": "Richard Jenkins",
+        "character": "Erik",
+        "photo": "https://image.tmdb.org/t/p/w500/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+      },
+      {
+        "name": "Jayne Houdyshell",
+        "character": "Deirdre",
+        "photo": "https://image.tmdb.org/t/p/w500/AlYIzwmfxuZ0yvU4L9F9h0tJGmZ.jpg"
+      },
+      {
+        "name": "Amy Schumer",
+        "character": "Aimee",
+        "photo": "https://image.tmdb.org/t/p/w500/saXAIob0JOf8B4Z9v2pgzEHV8wb.jpg"
+      },
+      {
+        "name": "Beanie Feldstein",
+        "character": "Brigid",
+        "photo": "https://image.tmdb.org/t/p/w500/lyK1s3TcUKQidfVDnNPt3TAc6mI.jpg"
+      },
+      {
+        "name": "Steven Yeun",
+        "character": "Richard",
+        "photo": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+      },
+      {
+        "name": "June Squibb",
+        "character": "Momo",
+        "photo": "https://image.tmdb.org/t/p/w500/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg"
+      }
+    ],
+    "director": [
+      "Stephen Karam"
+    ]
   }
 }

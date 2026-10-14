@@ -18,6 +18,84 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Glenn Close",
+      "John Malkovich",
+      "Michelle Pfeiffer",
+      "Uma Thurman",
+      "Swoosie Kurtz",
+      "Keanu Reeves",
+      "Mildred Natwick",
+      "Peter Capaldi",
+      "Joe Sheridan",
+      "Valerie Gogan",
+      "Laura Benson",
+      "Joanna Pavlis"
+    ],
+    "app_cast": [
+      {
+        "name": "Glenn Close",
+        "character": "Marquise Isabelle de Merteuil",
+        "photo": "https://image.tmdb.org/t/p/w500/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Vicomte Sébastien de Valmont",
+        "photo": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "character": "Madame Marie de Tourvel",
+        "photo": "https://image.tmdb.org/t/p/w500/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+      },
+      {
+        "name": "Uma Thurman",
+        "character": "Cécile de Volanges",
+        "photo": "https://image.tmdb.org/t/p/w500/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+      },
+      {
+        "name": "Swoosie Kurtz",
+        "character": "Madame de Volanges",
+        "photo": "https://image.tmdb.org/t/p/w500/uCHMttpxVITjDXtjs8FS6O7TQHx.jpg"
+      },
+      {
+        "name": "Keanu Reeves",
+        "character": "Le Chevalier Raphael Danceny",
+        "photo": "https://image.tmdb.org/t/p/w500/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+      },
+      {
+        "name": "Mildred Natwick",
+        "character": "Madame de Rosemonde",
+        "photo": "https://image.tmdb.org/t/p/w500/gBsUxWJ5GpJ8CwlrHSrx5TjnQZr.jpg"
+      },
+      {
+        "name": "Peter Capaldi",
+        "character": "Azolan",
+        "photo": "https://image.tmdb.org/t/p/w500/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+      },
+      {
+        "name": "Joe Sheridan",
+        "character": "Georges",
+        "photo": "https://image.tmdb.org/t/p/w500/5o67SGrxiyhc4YtJzSaP9BRfvWu.jpg"
+      },
+      {
+        "name": "Valerie Gogan",
+        "character": "Julie",
+        "photo": "https://image.tmdb.org/t/p/w500/6Be5iZxrrZHoADiOdmdDk85Xdgt.jpg"
+      },
+      {
+        "name": "Laura Benson",
+        "character": "Emilie"
+      },
+      {
+        "name": "Joanna Pavlis",
+        "character": "Adèle",
+        "photo": "https://image.tmdb.org/t/p/w500/gGtkM0baTd80305DY66q5dNLAQ4.jpg"
+      }
+    ],
+    "director": [
+      "Stephen Frears"
+    ]
   }
 }

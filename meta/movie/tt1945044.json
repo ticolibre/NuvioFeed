@@ -18,6 +18,84 @@
           "rating": "4.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Stephen Lang",
+      "Kelly Blatz",
+      "Brittany Curran",
+      "Gage Golightly",
+      "Nick Nicotera",
+      "Michael Ormsby",
+      "Brett Dier",
+      "Kevin Chapman",
+      "Nick Nordella",
+      "Laura Putnam",
+      "Meredith Prunty",
+      "Ashley Tramonte"
+    ],
+    "app_cast": [
+      {
+        "name": "Stephen Lang",
+        "character": "Father Conway",
+        "photo": "https://image.tmdb.org/t/p/w500/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+      },
+      {
+        "name": "Kelly Blatz",
+        "character": "Patrick",
+        "photo": "https://image.tmdb.org/t/p/w500/2PPGAQGFluZRHxdU8HPkEzM8Lvx.jpg"
+      },
+      {
+        "name": "Brittany Curran",
+        "character": "Reign",
+        "photo": "https://image.tmdb.org/t/p/w500/3pltJ0C1xPqi2gU0nI6ASpYBPFS.jpg"
+      },
+      {
+        "name": "Gage Golightly",
+        "character": "Amber",
+        "photo": "https://image.tmdb.org/t/p/w500/htAji9G6V5YrDXYmm136K7a3lxc.jpg"
+      },
+      {
+        "name": "Nick Nicotera",
+        "character": "Brian Knowles",
+        "photo": "https://image.tmdb.org/t/p/w500/8DVRj7jG4Q1qL7EmjJdKv8fat2U.jpg"
+      },
+      {
+        "name": "Michael Ormsby",
+        "character": "Rory",
+        "photo": "https://image.tmdb.org/t/p/w500/5zvKCHw3OXtb2bjICmDgjlHr501.jpg"
+      },
+      {
+        "name": "Brett Dier",
+        "character": "Brad",
+        "photo": "https://image.tmdb.org/t/p/w500/o6qpQsBtIpU7EonNDktecfP9qTi.jpg"
+      },
+      {
+        "name": "Kevin Chapman",
+        "character": "Greer",
+        "photo": "https://image.tmdb.org/t/p/w500/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg"
+      },
+      {
+        "name": "Nick Nordella",
+        "character": "Drew",
+        "photo": "https://image.tmdb.org/t/p/w500/c5Cej2dNDc8AEfzM0UPxKyYPVHy.jpg"
+      },
+      {
+        "name": "Laura Putnam",
+        "character": "Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/p14L4lPBfFtnPmpCVa39tOgBv3K.jpg"
+      },
+      {
+        "name": "Meredith Prunty",
+        "character": "Party Dancer",
+        "photo": "https://image.tmdb.org/t/p/w500/hLElwqNOhm1EMcSxgjJT3lnYHn0.jpg"
+      },
+      {
+        "name": "Ashley Tramonte",
+        "character": "Rave Party Teen"
+      }
+    ],
+    "director": [
+      "Marcus Nispel"
+    ]
   }
 }

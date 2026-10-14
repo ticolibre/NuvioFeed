@@ -19,6 +19,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Austin Butler",
+      "Tom Hanks",
+      "Olivia DeJonge",
+      "Helen Thomson",
+      "Richard Roxburgh",
+      "Kelvin Harrison Jr.",
+      "David Wenham",
+      "Kodi Smit-McPhee",
+      "Luke Bracey",
+      "Dacre Montgomery",
+      "Leon Ford",
+      "Gary Clark Jr."
+    ],
+    "app_cast": [
+      {
+        "name": "Austin Butler",
+        "character": "Elvis Presley",
+        "photo": "https://image.tmdb.org/t/p/w500/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+      },
+      {
+        "name": "Tom Hanks",
+        "character": "Colonel Tom Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Olivia DeJonge",
+        "character": "Priscilla",
+        "photo": "https://image.tmdb.org/t/p/w500/gQ43hkgb3jJRBjCtRwx7zEHexic.jpg"
+      },
+      {
+        "name": "Helen Thomson",
+        "character": "Gladys Presley",
+        "photo": "https://image.tmdb.org/t/p/w500/uTKMoAEGLbkCHWCuBKbKMM3mR80.jpg"
+      },
+      {
+        "name": "Richard Roxburgh",
+        "character": "Vernon Presley",
+        "photo": "https://image.tmdb.org/t/p/w500/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+      },
+      {
+        "name": "Kelvin Harrison Jr.",
+        "character": "B.B. King",
+        "photo": "https://image.tmdb.org/t/p/w500/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg"
+      },
+      {
+        "name": "David Wenham",
+        "character": "Hank Snow",
+        "photo": "https://image.tmdb.org/t/p/w500/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+      },
+      {
+        "name": "Kodi Smit-McPhee",
+        "character": "Jimmie Rodgers Snow",
+        "photo": "https://image.tmdb.org/t/p/w500/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+      },
+      {
+        "name": "Luke Bracey",
+        "character": "Jerry Schilling",
+        "photo": "https://image.tmdb.org/t/p/w500/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+      },
+      {
+        "name": "Dacre Montgomery",
+        "character": "Steve Binder",
+        "photo": "https://image.tmdb.org/t/p/w500/v5zhoNq2RgnUEtSLAFLOPLTJWCT.jpg"
+      },
+      {
+        "name": "Leon Ford",
+        "character": "Tom Diskin",
+        "photo": "https://image.tmdb.org/t/p/w500/djxNCzu1MYxz6D2XV5I1yCsw1e.jpg"
+      },
+      {
+        "name": "Gary Clark Jr.",
+        "character": "Arthur 'Big Boy' Crudup",
+        "photo": "https://image.tmdb.org/t/p/w500/w0ePaQi3UUOaejzNGmHpc2V87lK.jpg"
+      }
+    ],
+    "director": [
+      "Baz Luhrmann"
+    ]
   }
 }

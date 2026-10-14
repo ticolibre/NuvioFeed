@@ -18,6 +18,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Fernanda Torres",
+      "Fernanda Montenegro",
+      "Selton Mello",
+      "Valentina Herszage",
+      "Maria Manoella",
+      "Bárbara Luz",
+      "Gabriela Carneiro da Cunha",
+      "Luiza Kosovski",
+      "Marjorie Estiano",
+      "Pri Helena",
+      "Guilherme Silveira",
+      "Antonio Saboia"
+    ],
+    "app_cast": [
+      {
+        "name": "Fernanda Torres",
+        "character": "Eunice Paiva",
+        "photo": "https://image.tmdb.org/t/p/w500/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
+      },
+      {
+        "name": "Fernanda Montenegro",
+        "character": "Eunice Paiva (Older)",
+        "photo": "https://image.tmdb.org/t/p/w500/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+      },
+      {
+        "name": "Selton Mello",
+        "character": "Rubens Paiva",
+        "photo": "https://image.tmdb.org/t/p/w500/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+      },
+      {
+        "name": "Valentina Herszage",
+        "character": "Veroca",
+        "photo": "https://image.tmdb.org/t/p/w500/QGXJzVxqZPVnRv2RVFVC5RkoSJ.jpg"
+      },
+      {
+        "name": "Maria Manoella",
+        "character": "Veroca",
+        "photo": "https://image.tmdb.org/t/p/w500/2l5OS18iXdT2ju2w95LjX4F682Y.jpg"
+      },
+      {
+        "name": "Bárbara Luz",
+        "character": "Nalu",
+        "photo": "https://image.tmdb.org/t/p/w500/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
+      },
+      {
+        "name": "Gabriela Carneiro da Cunha",
+        "character": "Nalu",
+        "photo": "https://image.tmdb.org/t/p/w500/fzjjN0YjKXmlftViA23UMLb4OE8.jpg"
+      },
+      {
+        "name": "Luiza Kosovski",
+        "character": "Eliana",
+        "photo": "https://image.tmdb.org/t/p/w500/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
+      },
+      {
+        "name": "Marjorie Estiano",
+        "character": "Eliana",
+        "photo": "https://image.tmdb.org/t/p/w500/3affZ1HBujLZkIzLgs8kgdsPV8v.jpg"
+      },
+      {
+        "name": "Pri Helena",
+        "character": "Zezé",
+        "photo": "https://image.tmdb.org/t/p/w500/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
+      },
+      {
+        "name": "Guilherme Silveira",
+        "character": "Marcelo",
+        "photo": "https://image.tmdb.org/t/p/w500/lScyb0tcjC52LN7WficCIff3ESA.jpg"
+      },
+      {
+        "name": "Antonio Saboia",
+        "character": "Marcelo",
+        "photo": "https://image.tmdb.org/t/p/w500/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
+      }
+    ],
+    "director": [
+      "Walter Salles"
+    ]
   }
 }

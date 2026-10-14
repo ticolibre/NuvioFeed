@@ -19,6 +19,83 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Ethan Hawke",
+      "John Travolta",
+      "Taissa Farmiga",
+      "James Ransone",
+      "Karen Gillan",
+      "Burn Gorman",
+      "Toby Huss",
+      "Larry Fessenden",
+      "Kaius Harrison",
+      "Tommy Nohilly",
+      "Jeff Bairstow",
+      "Michael Davis"
+    ],
+    "app_cast": [
+      {
+        "name": "Ethan Hawke",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "John Travolta",
+        "character": "The Marshal",
+        "photo": "https://image.tmdb.org/t/p/w500/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+      },
+      {
+        "name": "Taissa Farmiga",
+        "character": "Mary Anne",
+        "photo": "https://image.tmdb.org/t/p/w500/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
+      },
+      {
+        "name": "James Ransone",
+        "character": "Gilly",
+        "photo": "https://image.tmdb.org/t/p/w500/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Ellen",
+        "photo": "https://image.tmdb.org/t/p/w500/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+      },
+      {
+        "name": "Burn Gorman",
+        "character": "Priest",
+        "photo": "https://image.tmdb.org/t/p/w500/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+      },
+      {
+        "name": "Toby Huss",
+        "character": "Harris",
+        "photo": "https://image.tmdb.org/t/p/w500/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+      },
+      {
+        "name": "Larry Fessenden",
+        "character": "Roy",
+        "photo": "https://image.tmdb.org/t/p/w500/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg"
+      },
+      {
+        "name": "Kaius Harrison",
+        "character": "William T. 'Billy' Baxter",
+        "photo": "https://image.tmdb.org/t/p/w500/tLsOIsHlkuS19iOengXPi1wQA6U.jpg"
+      },
+      {
+        "name": "Tommy Nohilly",
+        "character": "Tubby",
+        "photo": "https://image.tmdb.org/t/p/w500/eqc68LDaS3ItRZlOh0qGFM4sckj.jpg"
+      },
+      {
+        "name": "Jeff Bairstow",
+        "character": "Townsperson"
+      },
+      {
+        "name": "Michael Davis",
+        "character": "Dollar Bill"
+      }
+    ],
+    "director": [
+      "Ti West"
+    ]
   }
 }

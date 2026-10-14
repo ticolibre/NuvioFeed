@@ -18,6 +18,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Seann William Scott",
+      "Mariela Garriga",
+      "Dale Dickey",
+      "Christie Herring",
+      "Larsen Thompson",
+      "Kevin Carroll",
+      "Raymond Cham Jr.",
+      "Nick Boraine",
+      "Sean H. Scully",
+      "Matthew Bellows",
+      "Leith M. Burke",
+      "Cassandra Ballard"
+    ],
+    "app_cast": [
+      {
+        "name": "Seann William Scott",
+        "character": "Evan",
+        "photo": "https://image.tmdb.org/t/p/w500/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg"
+      },
+      {
+        "name": "Mariela Garriga",
+        "character": "Lauren",
+        "photo": "https://image.tmdb.org/t/p/w500/hQhh8h3q6fmsm5GW1vlAgLhqHgQ.jpg"
+      },
+      {
+        "name": "Dale Dickey",
+        "character": "Marie",
+        "photo": "https://image.tmdb.org/t/p/w500/588WXHw17JYi2rAqIVQXzgYENu3.jpg"
+      },
+      {
+        "name": "Christie Herring",
+        "character": "Carrie",
+        "photo": "https://image.tmdb.org/t/p/w500/xNAN1LpN0ppGuvLTEMrgcFfRSzQ.jpg"
+      },
+      {
+        "name": "Larsen Thompson",
+        "character": "Kelly",
+        "photo": "https://image.tmdb.org/t/p/w500/xZCPujHOieKHgKBSgPxtL8RvQUQ.jpg"
+      },
+      {
+        "name": "Kevin Carroll",
+        "character": "Overstreet",
+        "photo": "https://image.tmdb.org/t/p/w500/8G4rrDJfwurNWv4BJY7PlPXqIiK.jpg"
+      },
+      {
+        "name": "Raymond Cham Jr.",
+        "character": "Chris",
+        "photo": "https://image.tmdb.org/t/p/w500/aA9BmnWxYtPlr3FIa2PNaEw3vLn.jpg"
+      },
+      {
+        "name": "Nick Boraine",
+        "character": "Lou",
+        "photo": "https://image.tmdb.org/t/p/w500/lcuyeUFhnYVp2YdUscYNFOQxkJ3.jpg"
+      },
+      {
+        "name": "Sean H. Scully",
+        "character": "Ray",
+        "photo": "https://image.tmdb.org/t/p/w500/dCw1CUtFHTo5wdjWys1TwZHAcvM.jpg"
+      },
+      {
+        "name": "Matthew Bellows",
+        "character": "Charles Henry Cole III",
+        "photo": "https://image.tmdb.org/t/p/w500/3BlRBqSqIGzUzv2SybyfKSVPTHD.jpg"
+      },
+      {
+        "name": "Leith M. Burke",
+        "character": "Mark",
+        "photo": "https://image.tmdb.org/t/p/w500/qhwNMGmshCTZKpHU5uKHARIQudR.jpg"
+      },
+      {
+        "name": "Cassandra Ballard",
+        "character": "Young Marie",
+        "photo": "https://image.tmdb.org/t/p/w500/ruYkD8nXRzIQCEmtxEohbT1L4wG.jpg"
+      }
+    ],
+    "director": [
+      "Henry Jacobson"
+    ]
   }
 }

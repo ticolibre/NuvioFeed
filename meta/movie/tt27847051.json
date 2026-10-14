@@ -19,6 +19,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Wagner Moura",
+      "Alice Carvalho",
+      "Gabriel Leone",
+      "Isabél Zuaa",
+      "Maria Fernanda Cândido",
+      "Udo Kier",
+      "Robson Andrade",
+      "Rubens Santos",
+      "Licínio Januário",
+      "Joálisson Cunha",
+      "Marcelo Valle",
+      "Fabiana Pirro"
+    ],
+    "app_cast": [
+      {
+        "name": "Wagner Moura",
+        "character": "Marcelo Alves / Armando Solimões / Fernando Solimões",
+        "photo": "https://image.tmdb.org/t/p/w500/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+      },
+      {
+        "name": "Alice Carvalho",
+        "character": "Fátima",
+        "photo": "https://image.tmdb.org/t/p/w500/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
+      },
+      {
+        "name": "Gabriel Leone",
+        "character": "Bobbi",
+        "photo": "https://image.tmdb.org/t/p/w500/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+      },
+      {
+        "name": "Isabél Zuaa",
+        "character": "Tereza Victória",
+        "photo": "https://image.tmdb.org/t/p/w500/jpOLvpTvOmPheFsM8thqMHXuwK3.jpg"
+      },
+      {
+        "name": "Maria Fernanda Cândido",
+        "character": "Elza",
+        "photo": "https://image.tmdb.org/t/p/w500/8aejiePMZJTjTUUdZ9feOEozm7.jpg"
+      },
+      {
+        "name": "Udo Kier",
+        "character": "Hans",
+        "photo": "https://image.tmdb.org/t/p/w500/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+      },
+      {
+        "name": "Robson Andrade",
+        "character": "Clóvis",
+        "photo": "https://image.tmdb.org/t/p/w500/scASoqhwySjTlbP6mgPsMlfEd0F.jpg"
+      },
+      {
+        "name": "Rubens Santos",
+        "character": "Natalício",
+        "photo": "https://image.tmdb.org/t/p/w500/eyNsZkTUhiz15B5Fp4UXJItAPnr.jpg"
+      },
+      {
+        "name": "Licínio Januário",
+        "character": "Antônio",
+        "photo": "https://image.tmdb.org/t/p/w500/1e5dE2kJ9YCRX4iKWiMVcbM9jGh.jpg"
+      },
+      {
+        "name": "Joálisson Cunha",
+        "character": "Frentista",
+        "photo": "https://image.tmdb.org/t/p/w500/poSvEHjLNkY7ptLjCYKzYoUfWxT.jpg"
+      },
+      {
+        "name": "Marcelo Valle",
+        "character": "João Carpinteiro",
+        "photo": "https://image.tmdb.org/t/p/w500/4OzWWkxbCwdIBuwUs8ENLbGhdis.jpg"
+      },
+      {
+        "name": "Fabiana Pirro",
+        "character": "Dra. Inês",
+        "photo": "https://image.tmdb.org/t/p/w500/ayGlKs6RFL1z1BcKyXDrJ2JyPUL.jpg"
+      }
+    ],
+    "director": [
+      "Kleber Mendonça Filho"
+    ]
   }
 }

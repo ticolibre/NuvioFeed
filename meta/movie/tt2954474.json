@@ -18,6 +18,85 @@
           "rating": "5.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Isla Fisher",
+      "Anson Mount",
+      "Gillian Jacobs",
+      "Jim Parsons",
+      "Joanna Cassidy",
+      "Eva Longoria",
+      "Bryce Johnson",
+      "John de Lancie",
+      "Michael Villar",
+      "Annie Tedesco",
+      "Roberto Sanchez",
+      "Jeff Branson"
+    ],
+    "app_cast": [
+      {
+        "name": "Isla Fisher",
+        "character": "Eveleigh Maddox",
+        "photo": "https://image.tmdb.org/t/p/w500/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+      },
+      {
+        "name": "Anson Mount",
+        "character": "David Maddox",
+        "photo": "https://image.tmdb.org/t/p/w500/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+      },
+      {
+        "name": "Gillian Jacobs",
+        "character": "Sadie",
+        "photo": "https://image.tmdb.org/t/p/w500/tKpXn260glPElCKlFekKAACNWYn.jpg"
+      },
+      {
+        "name": "Jim Parsons",
+        "character": "Dr. Mathison",
+        "photo": "https://image.tmdb.org/t/p/w500/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+      },
+      {
+        "name": "Joanna Cassidy",
+        "character": "Helena Knoll",
+        "photo": "https://image.tmdb.org/t/p/w500/cgyR6QLZdC6apR8eHnhgqDQmqyr.jpg"
+      },
+      {
+        "name": "Eva Longoria",
+        "character": "Eileen",
+        "photo": "https://image.tmdb.org/t/p/w500/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+      },
+      {
+        "name": "Bryce Johnson",
+        "character": "Ben",
+        "photo": "https://image.tmdb.org/t/p/w500/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+      },
+      {
+        "name": "John de Lancie",
+        "character": "Victor Napoli",
+        "photo": "https://image.tmdb.org/t/p/w500/e9GsjWaW9fabT22ceLzesJhUgzd.jpg"
+      },
+      {
+        "name": "Michael Villar",
+        "character": "Leo",
+        "photo": "https://image.tmdb.org/t/p/w500/qpm6UuSM2OvpL4DnmBtt1UsJp0U.jpg"
+      },
+      {
+        "name": "Annie Tedesco",
+        "character": "Victoria Lambert",
+        "photo": "https://image.tmdb.org/t/p/w500/o1zV8FBuSH4r7WnP5OqsjbA3cFt.jpg"
+      },
+      {
+        "name": "Roberto Sanchez",
+        "character": "Emilio",
+        "photo": "https://image.tmdb.org/t/p/w500/9uRNiMcxueGxmPKqvAv6I3JEP20.jpg"
+      },
+      {
+        "name": "Jeff Branson",
+        "character": "Glenn Barry",
+        "photo": "https://image.tmdb.org/t/p/w500/90EYPrS0gW1mXGUtKkjBci9zmh3.jpg"
+      }
+    ],
+    "director": [
+      "Kevin Greutert"
+    ]
   }
 }

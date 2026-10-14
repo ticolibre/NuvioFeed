@@ -20,6 +20,80 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Vahid Mobasseri",
+      "Mariam Afshari",
+      "Ebrahim Azizi",
+      "Hadis Pakbaten",
+      "Majid Panahi",
+      "Mohamad Ali Elyasmehr",
+      "George Hashemzadeh",
+      "Delmaz Najafi",
+      "Afsaneh Najm Abadi",
+      "Omid Reza",
+      "Ali Rastegari",
+      "Mohsen Maleki"
+    ],
+    "app_cast": [
+      {
+        "name": "Vahid Mobasseri",
+        "character": "Vahid",
+        "photo": "https://image.tmdb.org/t/p/w500/xKi4iv6WdOhwBZvmG4gjyz4i2Bb.jpg"
+      },
+      {
+        "name": "Mariam Afshari",
+        "character": "Shiva",
+        "photo": "https://image.tmdb.org/t/p/w500/qVNOG4w5dzlKeFAF33ibR0slraK.jpg"
+      },
+      {
+        "name": "Ebrahim Azizi",
+        "character": "Eghbal",
+        "photo": "https://image.tmdb.org/t/p/w500/fEQbxXpEnJ7WMmQb0SWE2TqzFPl.jpg"
+      },
+      {
+        "name": "Hadis Pakbaten",
+        "character": "Golrokh",
+        "photo": "https://image.tmdb.org/t/p/w500/ywC6mkpEjaqGmFtMnO4jh94tIq6.jpg"
+      },
+      {
+        "name": "Majid Panahi",
+        "character": "Ali",
+        "photo": "https://image.tmdb.org/t/p/w500/2BUiGI1c50NCBezUSXr3FWxYOQM.jpg"
+      },
+      {
+        "name": "Mohamad Ali Elyasmehr",
+        "character": "Hamid",
+        "photo": "https://image.tmdb.org/t/p/w500/uNuEOVcIr5483Pmgjmdjgmmm5pk.jpg"
+      },
+      {
+        "name": "George Hashemzadeh",
+        "character": "Salar",
+        "photo": "https://image.tmdb.org/t/p/w500/cZwuEyNoVwwYo03KULd3HfTmJZh.jpg"
+      },
+      {
+        "name": "Delmaz Najafi",
+        "character": "Eghbal's Daughter"
+      },
+      {
+        "name": "Afsaneh Najm Abadi",
+        "character": "Eghbal's Wife"
+      },
+      {
+        "name": "Omid Reza",
+        "character": "Vahid's Colleague"
+      },
+      {
+        "name": "Ali Rastegari",
+        "character": "The Doctor"
+      },
+      {
+        "name": "Mohsen Maleki",
+        "character": "Security Guard"
+      }
+    ],
+    "director": [
+      "Jafar Panahi"
+    ]
   }
 }

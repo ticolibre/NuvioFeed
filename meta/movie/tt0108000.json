@@ -18,6 +18,68 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Ashley Judd",
+      "Todd Field",
+      "Bentley Mitchum",
+      "Dorothy Lyman",
+      "Allison Dean",
+      "Betsy Douds",
+      "Felicia Hernández",
+      "Divya Satia",
+      "Bobby Barnes",
+      "Jean Garrido"
+    ],
+    "app_cast": [
+      {
+        "name": "Ashley Judd",
+        "character": "Ruby Lee Gissing",
+        "photo": "https://image.tmdb.org/t/p/w500/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+      },
+      {
+        "name": "Todd Field",
+        "character": "Mike McCaslin",
+        "photo": "https://image.tmdb.org/t/p/w500/KR12bc20pVnlTr0wir8XuxW3Pt.jpg"
+      },
+      {
+        "name": "Bentley Mitchum",
+        "character": "Ricky Chambers",
+        "photo": "https://image.tmdb.org/t/p/w500/7gKMXmpo5heq8dDuD3emUzSBl59.jpg"
+      },
+      {
+        "name": "Dorothy Lyman",
+        "character": "Mildred Chambers",
+        "photo": "https://image.tmdb.org/t/p/w500/fXBwBgxKyOIwha47Csx5AEAVSEe.jpg"
+      },
+      {
+        "name": "Allison Dean",
+        "character": "Rochelle Bridges",
+        "photo": "https://image.tmdb.org/t/p/w500/tpdKWbK5BxTyZZHMbIbTM5G62VQ.jpg"
+      },
+      {
+        "name": "Betsy Douds",
+        "character": "Debrah Ann"
+      },
+      {
+        "name": "Felicia Hernández",
+        "character": "Persefina"
+      },
+      {
+        "name": "Divya Satia",
+        "character": "Indian Singer"
+      },
+      {
+        "name": "Bobby Barnes",
+        "character": "Wanda"
+      },
+      {
+        "name": "Jean Garrido",
+        "character": "Bar Dancer"
+      }
+    ],
+    "director": [
+      "Victor Nuñez"
+    ]
   }
 }

@@ -18,6 +18,82 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Bing Crosby",
+      "Ingrid Bergman",
+      "Henry Travers",
+      "William Gargan",
+      "Ruth Donnelly",
+      "Joan Carroll",
+      "Martha Sleeper",
+      "Rhys Williams",
+      "Richard Tyler",
+      "Una O'Connor",
+      "Edward Coch Jr.",
+      "Aina Constant"
+    ],
+    "app_cast": [
+      {
+        "name": "Bing Crosby",
+        "character": "Father O'Malley",
+        "photo": "https://image.tmdb.org/t/p/w500/wl3k3h5dgpukwaT1sMPqR4ANrzq.jpg"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "character": "Sister Mary Benedict",
+        "photo": "https://image.tmdb.org/t/p/w500/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+      },
+      {
+        "name": "Henry Travers",
+        "character": "Horace P. Bogardus",
+        "photo": "https://image.tmdb.org/t/p/w500/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
+      },
+      {
+        "name": "William Gargan",
+        "character": "Joe Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/2BdHWfQbf5YGIg2qs6TCdRcu7lJ.jpg"
+      },
+      {
+        "name": "Ruth Donnelly",
+        "character": "Sister Michael",
+        "photo": "https://image.tmdb.org/t/p/w500/xg5Gq8nBGddGv4n2DQvgxZbtRNK.jpg"
+      },
+      {
+        "name": "Joan Carroll",
+        "character": "Patsy Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/9JuE8FAjUCFrHFAHFdddJyMNeSa.jpg"
+      },
+      {
+        "name": "Martha Sleeper",
+        "character": "Mary Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/iRhFdrEFp6ZosqZtyjCZtXC4gZY.jpg"
+      },
+      {
+        "name": "Rhys Williams",
+        "character": "Dr. McKay",
+        "photo": "https://image.tmdb.org/t/p/w500/5n6ufKbjGLZN64tUgKErOdGONCU.jpg"
+      },
+      {
+        "name": "Richard Tyler",
+        "character": "Eddie Breen"
+      },
+      {
+        "name": "Una O'Connor",
+        "character": "Mrs. Breen",
+        "photo": "https://image.tmdb.org/t/p/w500/8XqwWhajcr80B4rqZD58ZnPCO52.jpg"
+      },
+      {
+        "name": "Edward Coch Jr.",
+        "character": "Baby Jesus (uncredited)"
+      },
+      {
+        "name": "Aina Constant",
+        "character": "Nun (uncredited)"
+      }
+    ],
+    "director": [
+      "Leo McCarey"
+    ]
   }
 }

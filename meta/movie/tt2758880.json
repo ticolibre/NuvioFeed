@@ -17,6 +17,83 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Haluk Bilginer",
+      "Melisa Sözen",
+      "Demet Akbağ",
+      "Ayberk Pekcan",
+      "Serhat Kılıç",
+      "Tamer Levent",
+      "Nejat İşler",
+      "Nadir Sarıbacak",
+      "Mehmet Ali Nuroğlu",
+      "Gamze Kuş",
+      "Emirhan Doruktutan",
+      "Ekrem İlhan"
+    ],
+    "app_cast": [
+      {
+        "name": "Haluk Bilginer",
+        "character": "Aydın",
+        "photo": "https://image.tmdb.org/t/p/w500/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg"
+      },
+      {
+        "name": "Melisa Sözen",
+        "character": "Nihal",
+        "photo": "https://image.tmdb.org/t/p/w500/c0yFUMePzSfU4HONDIRGGcqtyt4.jpg"
+      },
+      {
+        "name": "Demet Akbağ",
+        "character": "Necla",
+        "photo": "https://image.tmdb.org/t/p/w500/eGuozRn0wfZlzxVBlLigT0yI8Zh.jpg"
+      },
+      {
+        "name": "Ayberk Pekcan",
+        "character": "Hidayet",
+        "photo": "https://image.tmdb.org/t/p/w500/1D3TwIK5hoWAn3k8j8Wrsq7CJnS.jpg"
+      },
+      {
+        "name": "Serhat Kılıç",
+        "character": "İmam Hamdi",
+        "photo": "https://image.tmdb.org/t/p/w500/mhqfAxuR7DPOP3FRiI2SQKaSRn6.jpg"
+      },
+      {
+        "name": "Tamer Levent",
+        "character": "Suavi",
+        "photo": "https://image.tmdb.org/t/p/w500/bQrGr7zTAdNfeGb18wNgPbXTmle.jpg"
+      },
+      {
+        "name": "Nejat İşler",
+        "character": "İsmail",
+        "photo": "https://image.tmdb.org/t/p/w500/xFhmBekB2odhRY335lJ6rWiIdyw.jpg"
+      },
+      {
+        "name": "Nadir Sarıbacak",
+        "character": "Levent",
+        "photo": "https://image.tmdb.org/t/p/w500/5OVgKmFPQuLTgVwgq4LMuBVi4JA.jpg"
+      },
+      {
+        "name": "Mehmet Ali Nuroğlu",
+        "character": "Müşteri",
+        "photo": "https://image.tmdb.org/t/p/w500/xrO2KoAvlP1Qq1n3eIKZd3PwHft.jpg"
+      },
+      {
+        "name": "Gamze Kuş",
+        "character": "Misafir 7",
+        "photo": "https://image.tmdb.org/t/p/w500/uBLiv2iMYGXts3kVcjD3tQZN4tj.jpg"
+      },
+      {
+        "name": "Emirhan Doruktutan",
+        "character": "İlyas"
+      },
+      {
+        "name": "Ekrem İlhan",
+        "character": "Ekrem"
+      }
+    ],
+    "director": [
+      "Nuri Bilge Ceylan"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Montgomery Clift",
+      "Elizabeth Taylor",
+      "Shelley Winters",
+      "Anne Revere",
+      "Keefe Brasselle",
+      "Fred Clark",
+      "Raymond Burr",
+      "Herbert Heyes",
+      "Shepperd Strudwick",
+      "Frieda Inescort",
+      "Kathryn Givney",
+      "Walter Sande"
+    ],
+    "app_cast": [
+      {
+        "name": "Montgomery Clift",
+        "character": "George Eastman",
+        "photo": "https://image.tmdb.org/t/p/w500/h3RqRyQnVBLPkUz7ZcBYLqq7eXl.jpg"
+      },
+      {
+        "name": "Elizabeth Taylor",
+        "character": "Angela Vickers",
+        "photo": "https://image.tmdb.org/t/p/w500/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Shelley Winters",
+        "character": "Alice Tripp",
+        "photo": "https://image.tmdb.org/t/p/w500/sY7LVp0M8yJgFD0o2uAIJgfLGm9.jpg"
+      },
+      {
+        "name": "Anne Revere",
+        "character": "Hannah Eastman",
+        "photo": "https://image.tmdb.org/t/p/w500/mtlMi003Niqn0lv4Vemxkx5v09M.jpg"
+      },
+      {
+        "name": "Keefe Brasselle",
+        "character": "Earl Eastman",
+        "photo": "https://image.tmdb.org/t/p/w500/86ghXSHrR1E6W51WbKPOKFcqROt.jpg"
+      },
+      {
+        "name": "Fred Clark",
+        "character": "Defense Attorney Bellows",
+        "photo": "https://image.tmdb.org/t/p/w500/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+      },
+      {
+        "name": "Raymond Burr",
+        "character": "District Attorney R. Frank Marlowe",
+        "photo": "https://image.tmdb.org/t/p/w500/gsmckogOXPIk6lce2qnNMAFF901.jpg"
+      },
+      {
+        "name": "Herbert Heyes",
+        "character": "Charles Eastman",
+        "photo": "https://image.tmdb.org/t/p/w500/nFq5tQbLJXkq1BcudYnvAIZADXj.jpg"
+      },
+      {
+        "name": "Shepperd Strudwick",
+        "character": "Anthony Vickers",
+        "photo": "https://image.tmdb.org/t/p/w500/weRqJOKGWXPKUQ6C8xJSt7b3gOY.jpg"
+      },
+      {
+        "name": "Frieda Inescort",
+        "character": "Mrs. Ann Vickers",
+        "photo": "https://image.tmdb.org/t/p/w500/zJmuhnqpClP1IUe2gS0en72UAIF.jpg"
+      },
+      {
+        "name": "Kathryn Givney",
+        "character": "Louise Eastman",
+        "photo": "https://image.tmdb.org/t/p/w500/sCAID3HDTETbA4GLUn2OKZFaqMi.jpg"
+      },
+      {
+        "name": "Walter Sande",
+        "character": "Defense Attorney Art Jansen",
+        "photo": "https://image.tmdb.org/t/p/w500/kyVJTouV9WlfIkcfooLE6whhiyy.jpg"
+      }
+    ],
+    "director": [
+      "George Stevens"
+    ]
   }
 }

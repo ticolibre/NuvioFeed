@@ -17,6 +17,84 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Jennifer Lawrence",
+      "Brian Tyree Henry",
+      "Linda Emond",
+      "Jayne Houdyshell",
+      "Stephen McKinley Henderson",
+      "Russell Harvard",
+      "Sean Carvajal",
+      "Frederick Weller",
+      "Will Pullen",
+      "Neal Huff",
+      "Danny Wolohan",
+      "Han Soto"
+    ],
+    "app_cast": [
+      {
+        "name": "Jennifer Lawrence",
+        "character": "Lynsey",
+        "photo": "https://image.tmdb.org/t/p/w500/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+      },
+      {
+        "name": "Brian Tyree Henry",
+        "character": "James",
+        "photo": "https://image.tmdb.org/t/p/w500/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+      },
+      {
+        "name": "Linda Emond",
+        "character": "Gloria",
+        "photo": "https://image.tmdb.org/t/p/w500/PjDT3zk5xAIFiJ1MaEJLtjdq5s.jpg"
+      },
+      {
+        "name": "Jayne Houdyshell",
+        "character": "Sharon",
+        "photo": "https://image.tmdb.org/t/p/w500/AlYIzwmfxuZ0yvU4L9F9h0tJGmZ.jpg"
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "character": "Dr. Lucas",
+        "photo": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+      },
+      {
+        "name": "Russell Harvard",
+        "character": "Justin",
+        "photo": "https://image.tmdb.org/t/p/w500/bSLWTNljHxOZYVCngWZLxpu3InV.jpg"
+      },
+      {
+        "name": "Sean Carvajal",
+        "character": "Santiago"
+      },
+      {
+        "name": "Frederick Weller",
+        "character": "Rick",
+        "photo": "https://image.tmdb.org/t/p/w500/nNgNNahLhlQqlknS2dA1ZTO3NKG.jpg"
+      },
+      {
+        "name": "Will Pullen",
+        "character": "Bro",
+        "photo": "https://image.tmdb.org/t/p/w500/gffTjtaQbPNabhArPkd90HbkZlZ.jpg"
+      },
+      {
+        "name": "Neal Huff",
+        "character": "Neuropsychologist",
+        "photo": "https://image.tmdb.org/t/p/w500/iNvUcnFm4O3tESbemiMFdMJH2zp.jpg"
+      },
+      {
+        "name": "Danny Wolohan",
+        "character": "Jim",
+        "photo": "https://image.tmdb.org/t/p/w500/pMe2ftvLE4EkMsgSIw6RGgjHIRD.jpg"
+      },
+      {
+        "name": "Han Soto",
+        "character": "Physiotherapist",
+        "photo": "https://image.tmdb.org/t/p/w500/xurbZkff3yOPmKpEpKrb2pdemYf.jpg"
+      }
+    ],
+    "director": [
+      "Lila Neugebauer"
+    ]
   }
 }

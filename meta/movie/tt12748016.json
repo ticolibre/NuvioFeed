@@ -17,6 +17,61 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Andrey Berezin",
+      "Botis Seva",
+      "Ditta Miranda Jasjfi",
+      "Germaine Acogny",
+      "Jamila Johnson-Small",
+      "Kaori Ito",
+      "Nazareth Panadero",
+      "Oleg Stepanov",
+      "Tsai-Chin Yu"
+    ],
+    "app_cast": [
+      {
+        "name": "Andrey Berezin",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/qgA2a2ezZzV4jbygnDJbujcHBqQ.jpg"
+      },
+      {
+        "name": "Botis Seva",
+        "character": "Self"
+      },
+      {
+        "name": "Ditta Miranda Jasjfi",
+        "character": "Self"
+      },
+      {
+        "name": "Germaine Acogny",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/htBFB2HCXVA3Pcqy9BAIas1qceJ.jpg"
+      },
+      {
+        "name": "Jamila Johnson-Small",
+        "character": "Self"
+      },
+      {
+        "name": "Kaori Ito",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/rKM4K5hcmvRFhJgtFN8kGweYt3l.jpg"
+      },
+      {
+        "name": "Nazareth Panadero",
+        "character": "Self"
+      },
+      {
+        "name": "Oleg Stepanov",
+        "character": "Self"
+      },
+      {
+        "name": "Tsai-Chin Yu",
+        "character": "Self"
+      }
+    ],
+    "director": [
+      "Jonathan Glazer"
+    ]
   }
 }

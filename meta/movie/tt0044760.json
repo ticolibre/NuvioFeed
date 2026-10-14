@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Taylor",
+      "Elizabeth Taylor",
+      "Joan Fontaine",
+      "George Sanders",
+      "Emlyn Williams",
+      "Robert Douglas",
+      "Finlay Currie",
+      "Felix Aylmer",
+      "Francis de Wolff",
+      "Norman Wooland",
+      "Basil Sydney",
+      "Harold Warrender"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Taylor",
+        "character": "Wilfred of Ivanhoe",
+        "photo": "https://image.tmdb.org/t/p/w500/1CDILPhiOQztlvZwsU55kKBspIV.jpg"
+      },
+      {
+        "name": "Elizabeth Taylor",
+        "character": "Rebecca",
+        "photo": "https://image.tmdb.org/t/p/w500/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Joan Fontaine",
+        "character": "Rowena",
+        "photo": "https://image.tmdb.org/t/p/w500/y5Hl4TyipNN7463zZpPq5KFB3aM.jpg"
+      },
+      {
+        "name": "George Sanders",
+        "character": "Sir Brian de Bois-Guilbert",
+        "photo": "https://image.tmdb.org/t/p/w500/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+      },
+      {
+        "name": "Emlyn Williams",
+        "character": "Wamba",
+        "photo": "https://image.tmdb.org/t/p/w500/ri3bPiWWE4g3zEkinSuna34TNl3.jpg"
+      },
+      {
+        "name": "Robert Douglas",
+        "character": "Sir Hugh De Bracy",
+        "photo": "https://image.tmdb.org/t/p/w500/4UGnE8M7DiIxt8v47UyeQLFCCRU.jpg"
+      },
+      {
+        "name": "Finlay Currie",
+        "character": "Cedric",
+        "photo": "https://image.tmdb.org/t/p/w500/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+      },
+      {
+        "name": "Felix Aylmer",
+        "character": "Isaac",
+        "photo": "https://image.tmdb.org/t/p/w500/1aTMXytbbImctXD8k4dNKkkMf2N.jpg"
+      },
+      {
+        "name": "Francis de Wolff",
+        "character": "Front De Boeuf",
+        "photo": "https://image.tmdb.org/t/p/w500/g1JKH34BvvR7QOj05ZdcnFiPyVU.jpg"
+      },
+      {
+        "name": "Norman Wooland",
+        "character": "King Richard",
+        "photo": "https://image.tmdb.org/t/p/w500/puCQ0AfqDBSJr6cK1ZmTys3NErz.jpg"
+      },
+      {
+        "name": "Basil Sydney",
+        "character": "Waldemar Fitzurse",
+        "photo": "https://image.tmdb.org/t/p/w500/myZrVjtZ6gjhwE29hH4l6mHhuCi.jpg"
+      },
+      {
+        "name": "Harold Warrender",
+        "character": "Robin of Locksley",
+        "photo": "https://image.tmdb.org/t/p/w500/wQmaWboO4ylyzQ9hGP8PphjBM8.jpg"
+      }
+    ],
+    "director": [
+      "Richard Thorpe"
+    ]
   }
 }

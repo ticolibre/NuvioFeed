@@ -19,6 +19,84 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Warren Beatty",
+      "Annette Bening",
+      "Harvey Keitel",
+      "Ben Kingsley",
+      "Elliott Gould",
+      "Joe Mantegna",
+      "Bebe Neuwirth",
+      "Bill Graham",
+      "Lewis van Bergen",
+      "Wendy Phillips",
+      "Richard C. Sarafian",
+      "Karen Russell"
+    ],
+    "app_cast": [
+      {
+        "name": "Warren Beatty",
+        "character": "Ben 'Bugsy' Siegel",
+        "photo": "https://image.tmdb.org/t/p/w500/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg"
+      },
+      {
+        "name": "Annette Bening",
+        "character": "Virginia Hill",
+        "photo": "https://image.tmdb.org/t/p/w500/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "Mickey Cohen",
+        "photo": "https://image.tmdb.org/t/p/w500/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Meyer Lansky",
+        "photo": "https://image.tmdb.org/t/p/w500/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+      },
+      {
+        "name": "Elliott Gould",
+        "character": "Harry Greenberg",
+        "photo": "https://image.tmdb.org/t/p/w500/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+      },
+      {
+        "name": "Joe Mantegna",
+        "character": "George Raft",
+        "photo": "https://image.tmdb.org/t/p/w500/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+      },
+      {
+        "name": "Bebe Neuwirth",
+        "character": "Countess di Frasso",
+        "photo": "https://image.tmdb.org/t/p/w500/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+      },
+      {
+        "name": "Bill Graham",
+        "character": "Charles \"Lucky\" Luciano"
+      },
+      {
+        "name": "Lewis van Bergen",
+        "character": "Joe Adonis",
+        "photo": "https://image.tmdb.org/t/p/w500/mXeuWaTT4uENxT4lYPBtCGOgzJb.jpg"
+      },
+      {
+        "name": "Wendy Phillips",
+        "character": "Esta Siegel",
+        "photo": "https://image.tmdb.org/t/p/w500/da6oLmkAcEOG727F0oHjsbnw53D.jpg"
+      },
+      {
+        "name": "Richard C. Sarafian",
+        "character": "Jack Dragna",
+        "photo": "https://image.tmdb.org/t/p/w500/5r4AFht3ecnl4V2w8KvfmV7A4yB.jpg"
+      },
+      {
+        "name": "Karen Russell",
+        "character": "Dancer",
+        "photo": "https://image.tmdb.org/t/p/w500/ddc76MzIPr0gwtA7ju4VkVtWIkt.jpg"
+      }
+    ],
+    "director": [
+      "Barry Levinson"
+    ]
   }
 }

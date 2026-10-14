@@ -18,6 +18,84 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Wallace Beery",
+      "Jackie Cooper",
+      "Irene Rich",
+      "Roscoe Ates",
+      "Edward Brophy",
+      "Hale Hamilton",
+      "Jesse Scott",
+      "Marcia Mae Jones",
+      "Dannie Mac Grant",
+      "Frank Hagney",
+      "Dell Henderson",
+      "Tom McGuire"
+    ],
+    "app_cast": [
+      {
+        "name": "Wallace Beery",
+        "character": "Andy 'Champ' Purcell",
+        "photo": "https://image.tmdb.org/t/p/w500/a26DU6lG8YPAr9QgSOCDuZWAI2l.jpg"
+      },
+      {
+        "name": "Jackie Cooper",
+        "character": "Dink Purcell",
+        "photo": "https://image.tmdb.org/t/p/w500/pbdUaMBfLq2qUP1jg7dM9hINRcI.jpg"
+      },
+      {
+        "name": "Irene Rich",
+        "character": "Linda Carleton",
+        "photo": "https://image.tmdb.org/t/p/w500/jU4F6pN7hLz0cJkgnUsFdQobgSV.jpg"
+      },
+      {
+        "name": "Roscoe Ates",
+        "character": "Sponge",
+        "photo": "https://image.tmdb.org/t/p/w500/jrtu4ej5MLP6Ynl35wPP0bGaroB.jpg"
+      },
+      {
+        "name": "Edward Brophy",
+        "character": "Tim",
+        "photo": "https://image.tmdb.org/t/p/w500/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"
+      },
+      {
+        "name": "Hale Hamilton",
+        "character": "Tony Carleton",
+        "photo": "https://image.tmdb.org/t/p/w500/fQbwcHY7KLdylzv5ThMG1qKuKGK.jpg"
+      },
+      {
+        "name": "Jesse Scott",
+        "character": "Jonah"
+      },
+      {
+        "name": "Marcia Mae Jones",
+        "character": "Mary Lou Carleton",
+        "photo": "https://image.tmdb.org/t/p/w500/aerwDgFl6UiFcYO0FZVNh3cJY1O.jpg"
+      },
+      {
+        "name": "Dannie Mac Grant",
+        "character": "Boy Taunting Dink (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/AjAJbyKvKBi3p8Es149FLBHdhi2.jpg"
+      },
+      {
+        "name": "Frank Hagney",
+        "character": "Mexican Champ Manuel Quiroga (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/eUun6Blqa6hEBrlscgz9qnH6Ly0.jpg"
+      },
+      {
+        "name": "Dell Henderson",
+        "character": "The Doctor (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/gA4BPbRHPSvI16n1QcRlAd3gmSo.jpg"
+      },
+      {
+        "name": "Tom McGuire",
+        "character": "Los Angeles Promoter (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/gEi4brY4vNuG8gTwpdtnTkxIfnI.jpg"
+      }
+    ],
+    "director": [
+      "King Vidor"
+    ]
   }
 }

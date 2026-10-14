@@ -17,6 +17,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Mark Ruffalo",
+      "Matt Bomer",
+      "Taylor Kitsch",
+      "Jim Parsons",
+      "Alfred Molina",
+      "Julia Roberts",
+      "Joe Mantello",
+      "BD Wong",
+      "Jonathan Groff",
+      "Stephen Spinella",
+      "Finn Wittrock",
+      "Denis O'Hare"
+    ],
+    "app_cast": [
+      {
+        "name": "Mark Ruffalo",
+        "character": "Ned Weeks",
+        "photo": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Matt Bomer",
+        "character": "Felix Turner",
+        "photo": "https://image.tmdb.org/t/p/w500/oxL27Z3XtjoABaOynKazZeg7qKM.jpg"
+      },
+      {
+        "name": "Taylor Kitsch",
+        "character": "Bruce Niles",
+        "photo": "https://image.tmdb.org/t/p/w500/pTFkwvE2URbbftiaofexfolhkH9.jpg"
+      },
+      {
+        "name": "Jim Parsons",
+        "character": "Tommy Boatwright",
+        "photo": "https://image.tmdb.org/t/p/w500/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Ben Weeks",
+        "photo": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "Julia Roberts",
+        "character": "Dr. Emma Brookner",
+        "photo": "https://image.tmdb.org/t/p/w500/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
+      },
+      {
+        "name": "Joe Mantello",
+        "character": "Mickey Marcus",
+        "photo": "https://image.tmdb.org/t/p/w500/jgTk4PZUhjPe7UEeiusaAK8PomK.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Buzzy",
+        "photo": "https://image.tmdb.org/t/p/w500/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      },
+      {
+        "name": "Jonathan Groff",
+        "character": "Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+      },
+      {
+        "name": "Stephen Spinella",
+        "character": "Sanford",
+        "photo": "https://image.tmdb.org/t/p/w500/lJahZcmWjggljySaqnPyGIuOeXs.jpg"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Albert",
+        "photo": "https://image.tmdb.org/t/p/w500/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "Hiram Keebler",
+        "photo": "https://image.tmdb.org/t/p/w500/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+      }
+    ],
+    "director": [
+      "Ryan Murphy"
+    ]
   }
 }

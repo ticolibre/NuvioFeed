@@ -17,6 +17,61 @@
           "rating": "5.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Kerris Dorsey",
+      "Ahna O'Reilly",
+      "James Tupper",
+      "Lia McHugh",
+      "Braeden Lemasters",
+      "Lawrence Pressman",
+      "Jocelyn Ayanna",
+      "Evan Dickson"
+    ],
+    "app_cast": [
+      {
+        "name": "Kerris Dorsey",
+        "character": "Kellie",
+        "photo": "https://image.tmdb.org/t/p/w500/fLmneHXuhQx1LF05HCAbsmnD7Mm.jpg"
+      },
+      {
+        "name": "Ahna O'Reilly",
+        "character": "Robin",
+        "photo": "https://image.tmdb.org/t/p/w500/9FvuLLjjHUqzbzhjX8ougHBrBjM.jpg"
+      },
+      {
+        "name": "James Tupper",
+        "character": "James",
+        "photo": "https://image.tmdb.org/t/p/w500/juB7BiVfi1M8H8YbL3XdUGcnFhf.jpg"
+      },
+      {
+        "name": "Lia McHugh",
+        "character": "Abby",
+        "photo": "https://image.tmdb.org/t/p/w500/vPnN8xBLsm5vMZvMpRBNJ5WuAdl.jpg"
+      },
+      {
+        "name": "Braeden Lemasters",
+        "character": "Todd",
+        "photo": "https://image.tmdb.org/t/p/w500/weeT5xb8MZtdFQOvIXxV4OVf4R9.jpg"
+      },
+      {
+        "name": "Lawrence Pressman",
+        "character": "Bernard",
+        "photo": "https://image.tmdb.org/t/p/w500/k9MkT0iU8JkFuiA2SSwigAlM7wT.jpg"
+      },
+      {
+        "name": "Jocelyn Ayanna",
+        "character": "Joan Lang",
+        "photo": "https://image.tmdb.org/t/p/w500/rIBzNIQcoA7ILHf5mj9j2j2Vk49.jpg"
+      },
+      {
+        "name": "Evan Dickson",
+        "character": "Track Coach",
+        "photo": "https://image.tmdb.org/t/p/w500/28ae7SOwSlvhbfpDeoZKv40vXUz.jpg"
+      }
+    ],
+    "director": [
+      "Marcel Sarmiento"
+    ]
   }
 }

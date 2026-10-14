@@ -17,6 +17,60 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Anthony Hopkins",
+      "Olivia Colman",
+      "Mark Gatiss",
+      "Olivia Williams",
+      "Imogen Poots",
+      "Rufus Sewell",
+      "Ayesha Dharker",
+      "Roman Zeller"
+    ],
+    "app_cast": [
+      {
+        "name": "Anthony Hopkins",
+        "character": "Anthony",
+        "photo": "https://image.tmdb.org/t/p/w500/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+      },
+      {
+        "name": "Olivia Colman",
+        "character": "Anne",
+        "photo": "https://image.tmdb.org/t/p/w500/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+      },
+      {
+        "name": "Mark Gatiss",
+        "character": "The Man",
+        "photo": "https://image.tmdb.org/t/p/w500/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+      },
+      {
+        "name": "Olivia Williams",
+        "character": "The Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+      },
+      {
+        "name": "Imogen Poots",
+        "character": "Laura",
+        "photo": "https://image.tmdb.org/t/p/w500/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+      },
+      {
+        "name": "Rufus Sewell",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+      },
+      {
+        "name": "Ayesha Dharker",
+        "character": "Dr. Sarai",
+        "photo": "https://image.tmdb.org/t/p/w500/6LNt1MmG22qPQxQgRVmoOPfQofQ.jpg"
+      },
+      {
+        "name": "Roman Zeller",
+        "character": "Boy"
+      }
+    ],
+    "director": [
+      "Florian Zeller"
+    ]
   }
 }

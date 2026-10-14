@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Christian Bale",
+      "Bradley Cooper",
+      "Amy Adams",
+      "Jeremy Renner",
+      "Jennifer Lawrence",
+      "Louis C.K.",
+      "Jack Huston",
+      "Michael Peña",
+      "Shea Whigham",
+      "Alessandro Nivola",
+      "Elisabeth Röhm",
+      "Paul Herman"
+    ],
+    "app_cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Irving Rosenfeld",
+        "photo": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Richie DiMaso",
+        "photo": "https://image.tmdb.org/t/p/w500/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Sydney Prosser",
+        "photo": "https://image.tmdb.org/t/p/w500/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Mayor Carmine Polito",
+        "photo": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Jennifer Lawrence",
+        "character": "Rosalyn Rosenfeld",
+        "photo": "https://image.tmdb.org/t/p/w500/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+      },
+      {
+        "name": "Louis C.K.",
+        "character": "Stoddard Thorsen",
+        "photo": "https://image.tmdb.org/t/p/w500/1ii770zdeX62UFGawTmNr2vddYb.jpg"
+      },
+      {
+        "name": "Jack Huston",
+        "character": "Pete Musane",
+        "photo": "https://image.tmdb.org/t/p/w500/qWGoZaUbeuaOLbDvyP5txYr9Hct.jpg"
+      },
+      {
+        "name": "Michael Peña",
+        "character": "Paco Hernandez / Sheik Abdullah",
+        "photo": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Carl Elway",
+        "photo": "https://image.tmdb.org/t/p/w500/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+      },
+      {
+        "name": "Alessandro Nivola",
+        "character": "Anthony Amado",
+        "photo": "https://image.tmdb.org/t/p/w500/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+      },
+      {
+        "name": "Elisabeth Röhm",
+        "character": "Dolly Polito",
+        "photo": "https://image.tmdb.org/t/p/w500/hIlBBZD2Rou4to1OauI799jV1UH.jpg"
+      },
+      {
+        "name": "Paul Herman",
+        "character": "Alfonse Simone",
+        "photo": "https://image.tmdb.org/t/p/w500/xC7qCS2EFTpfd1KX0ysR6zr60NZ.jpg"
+      }
+    ],
+    "director": [
+      "David O. Russell"
+    ]
   }
 }

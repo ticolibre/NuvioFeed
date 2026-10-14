@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "James Cagney",
+      "Joan Leslie",
+      "Walter Huston",
+      "Richard Whorf",
+      "Irene Manning",
+      "George Tobias",
+      "Rosemary DeCamp",
+      "Jeanne Cagney",
+      "Frances Langford",
+      "George Barbier",
+      "Walter Catlett",
+      "Douglas Croft"
+    ],
+    "app_cast": [
+      {
+        "name": "James Cagney",
+        "character": "George M. Cohan",
+        "photo": "https://image.tmdb.org/t/p/w500/haDKecHGGb1qh8gAoR3ExiJlujn.jpg"
+      },
+      {
+        "name": "Joan Leslie",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/vft5HULa1wnW1dQEWd197XBchs0.jpg"
+      },
+      {
+        "name": "Walter Huston",
+        "character": "Jerry Cohan",
+        "photo": "https://image.tmdb.org/t/p/w500/yLhqfB99005d2nS7CIkwWO4qzmP.jpg"
+      },
+      {
+        "name": "Richard Whorf",
+        "character": "Sam Harris",
+        "photo": "https://image.tmdb.org/t/p/w500/mEPtqsnmOOvZmAouU5oOkNQkMSJ.jpg"
+      },
+      {
+        "name": "Irene Manning",
+        "character": "Fay Templeton",
+        "photo": "https://image.tmdb.org/t/p/w500/6kBWUiG6t2PTBmooA4F4zvioTjQ.jpg"
+      },
+      {
+        "name": "George Tobias",
+        "character": "Dietz",
+        "photo": "https://image.tmdb.org/t/p/w500/d6c4cwCjeJJwlXNaxBonpPvmlAM.jpg"
+      },
+      {
+        "name": "Rosemary DeCamp",
+        "character": "Nellie Cohan",
+        "photo": "https://image.tmdb.org/t/p/w500/qogZ06A7RZQIqzJaK7Q36EDOQyq.jpg"
+      },
+      {
+        "name": "Jeanne Cagney",
+        "character": "Josie Cohan",
+        "photo": "https://image.tmdb.org/t/p/w500/ghcJ4v0bsnPdAlWzJMXgxd5mQ78.jpg"
+      },
+      {
+        "name": "Frances Langford",
+        "character": "Singer",
+        "photo": "https://image.tmdb.org/t/p/w500/vij0aBhye1sals1XpHqTT0w2Umy.jpg"
+      },
+      {
+        "name": "George Barbier",
+        "character": "Erlanger",
+        "photo": "https://image.tmdb.org/t/p/w500/dhBDURtUCsFayX2Zx1rglLYgqN1.jpg"
+      },
+      {
+        "name": "Walter Catlett",
+        "character": "Theatre Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/c5ldUlcqrUuxpQE9iXqj9GlRZwt.jpg"
+      },
+      {
+        "name": "Douglas Croft",
+        "character": "George M. Cohan, as a boy of 13",
+        "photo": "https://image.tmdb.org/t/p/w500/A3ypkPfzUvODD0T0xZ0Dv45PybM.jpg"
+      }
+    ],
+    "director": [
+      "Michael Curtiz"
+    ]
   }
 }

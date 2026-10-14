@@ -19,6 +19,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Dwayne Johnson",
+      "Stephen Merchant",
+      "Ashley Judd",
+      "Julie Andrews",
+      "Ryan Sheckler",
+      "Seth MacFarlane",
+      "Destiny Whitlock",
+      "Chase Ellison",
+      "Darien Provost",
+      "Alex Ferris",
+      "Nicole Muñoz",
+      "Brendan Meyer"
+    ],
+    "app_cast": [
+      {
+        "name": "Dwayne Johnson",
+        "character": "Derek Thompson / Tooth Fairy",
+        "photo": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+      },
+      {
+        "name": "Stephen Merchant",
+        "character": "Tracy",
+        "photo": "https://image.tmdb.org/t/p/w500/6WM2rK6390Nwk398syJbGcPvRct.jpg"
+      },
+      {
+        "name": "Ashley Judd",
+        "character": "Carly",
+        "photo": "https://image.tmdb.org/t/p/w500/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+      },
+      {
+        "name": "Julie Andrews",
+        "character": "Lily",
+        "photo": "https://image.tmdb.org/t/p/w500/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg"
+      },
+      {
+        "name": "Ryan Sheckler",
+        "character": "Mick Donnelly",
+        "photo": "https://image.tmdb.org/t/p/w500/3LFEzPYmLgE6ct3WQJiHu36XyRu.jpg"
+      },
+      {
+        "name": "Seth MacFarlane",
+        "character": "Ziggy",
+        "photo": "https://image.tmdb.org/t/p/w500/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+      },
+      {
+        "name": "Destiny Whitlock",
+        "character": "Tess",
+        "photo": "https://image.tmdb.org/t/p/w500/ik3foTpTS2ZDsgvBlPoG9iRTZxE.jpg"
+      },
+      {
+        "name": "Chase Ellison",
+        "character": "Randy",
+        "photo": "https://image.tmdb.org/t/p/w500/c8c2jl1YxDQ6wjcHd7mzsVMDHCP.jpg"
+      },
+      {
+        "name": "Darien Provost",
+        "character": "Gabe",
+        "photo": "https://image.tmdb.org/t/p/w500/pPVyfgQkNfylJCULoqeTPHII84g.jpg"
+      },
+      {
+        "name": "Alex Ferris",
+        "character": "Shelter Cove Kid",
+        "photo": "https://image.tmdb.org/t/p/w500/d5TXrALTXoiYpXXjrCfzD4JzL78.jpg"
+      },
+      {
+        "name": "Nicole Muñoz",
+        "character": "Kelly",
+        "photo": "https://image.tmdb.org/t/p/w500/dKwknVUm2cl0C3SdG0UMuA1z5nD.jpg"
+      },
+      {
+        "name": "Brendan Meyer",
+        "character": "Ben",
+        "photo": "https://image.tmdb.org/t/p/w500/cSIsHQjie1xElTL86pCAvHL4ddB.jpg"
+      }
+    ],
+    "director": [
+      "Michael Lembeck"
+    ]
   }
 }

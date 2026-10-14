@@ -18,6 +18,85 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "William Holden",
+      "Kim Novak",
+      "Rosalind Russell",
+      "Betty Field",
+      "Susan Strasberg",
+      "Cliff Robertson",
+      "Arthur O'Connell",
+      "Verna Felton",
+      "Reta Shaw",
+      "Nick Adams",
+      "Raymond Bailey",
+      "Elizabeth Wilson"
+    ],
+    "app_cast": [
+      {
+        "name": "William Holden",
+        "character": "Hal Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Kim Novak",
+        "character": "Madge Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/wQYlkzNBJkvFAY3R0FQZfwLhTDx.jpg"
+      },
+      {
+        "name": "Rosalind Russell",
+        "character": "Rosemary - The School Teacher",
+        "photo": "https://image.tmdb.org/t/p/w500/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg"
+      },
+      {
+        "name": "Betty Field",
+        "character": "Flo Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/dQTrh5POuSzSvrEN2dOMFBR7SCe.jpg"
+      },
+      {
+        "name": "Susan Strasberg",
+        "character": "Millie Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/wrU3UqQtSVGvXzD6k0611kEcbqL.jpg"
+      },
+      {
+        "name": "Cliff Robertson",
+        "character": "Alan Benson",
+        "photo": "https://image.tmdb.org/t/p/w500/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+      },
+      {
+        "name": "Arthur O'Connell",
+        "character": "Howard Bevans",
+        "photo": "https://image.tmdb.org/t/p/w500/jJh2FxbrpIm5GzIMP8uA0cWNQdc.jpg"
+      },
+      {
+        "name": "Verna Felton",
+        "character": "Helen Potts",
+        "photo": "https://image.tmdb.org/t/p/w500/xJ7mohLuufsNn6dkvzjKi5nlaFn.jpg"
+      },
+      {
+        "name": "Reta Shaw",
+        "character": "Irma Henderson",
+        "photo": "https://image.tmdb.org/t/p/w500/gy1L3rVUPFRvoztcHc5GOT2ABhz.jpg"
+      },
+      {
+        "name": "Nick Adams",
+        "character": "'Bomber'",
+        "photo": "https://image.tmdb.org/t/p/w500/yrXQ3DlthU5vks3L7Wan2r39AHF.jpg"
+      },
+      {
+        "name": "Raymond Bailey",
+        "character": "Mr. Benson",
+        "photo": "https://image.tmdb.org/t/p/w500/wM6u14GHDOvWfT4XAP8PARA60qj.jpg"
+      },
+      {
+        "name": "Elizabeth Wilson",
+        "character": "Christine Schoenwalder",
+        "photo": "https://image.tmdb.org/t/p/w500/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
+      }
+    ],
+    "director": [
+      "Joshua Logan"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Deanna Durbin",
+      "Barbara Read",
+      "Nan Grey",
+      "Charles Winninger",
+      "Binnie Barnes",
+      "Ray Milland",
+      "Nella Walker",
+      "Hobart Cavanaugh",
+      "John 'Dusty' King",
+      "Alice Brady",
+      "Mischa Auer",
+      "Ernest Cossart"
+    ],
+    "app_cast": [
+      {
+        "name": "Deanna Durbin",
+        "character": "Penny Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/ue8P6Sn8YFDJ7z1OyntxCJn3qHN.jpg"
+      },
+      {
+        "name": "Barbara Read",
+        "character": "Kay Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/3D8O1z1TFPfR7b1HTCKtV3hUF0C.jpg"
+      },
+      {
+        "name": "Nan Grey",
+        "character": "Joan Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/wsmYXBNPsl2LDTetc1qHiXENgM0.jpg"
+      },
+      {
+        "name": "Charles Winninger",
+        "character": "Judson Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/ga4o02ASamp2g2vDZfdl2Uxddqk.jpg"
+      },
+      {
+        "name": "Binnie Barnes",
+        "character": "Donna Lyons",
+        "photo": "https://image.tmdb.org/t/p/w500/5xKKB6w2OUVxhNvbsD5uKeJd4zl.jpg"
+      },
+      {
+        "name": "Ray Milland",
+        "character": "Lord Michael Stuart",
+        "photo": "https://image.tmdb.org/t/p/w500/nqZGSLa9jS92hYlmkacFXxYwB2Y.jpg"
+      },
+      {
+        "name": "Nella Walker",
+        "character": "Dorothy Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/3ETSoodq1ooscaeO6Dkq4CgXo4Q.jpg"
+      },
+      {
+        "name": "Hobart Cavanaugh",
+        "character": "Wilbur Lamb",
+        "photo": "https://image.tmdb.org/t/p/w500/AjyCNH3j3ukDlxhP442kI2CoQkW.jpg"
+      },
+      {
+        "name": "John 'Dusty' King",
+        "character": "Bill Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/20fVusFauZMZEk4jh3sU7xjenfI.jpg"
+      },
+      {
+        "name": "Alice Brady",
+        "character": "Mrs. Lyons",
+        "photo": "https://image.tmdb.org/t/p/w500/v9XVx9jV7ntUKog525jrYkSnq3n.jpg"
+      },
+      {
+        "name": "Mischa Auer",
+        "character": "Count Arisztid",
+        "photo": "https://image.tmdb.org/t/p/w500/7mCfBcUq6FedSlD9lT6AWR3bIou.jpg"
+      },
+      {
+        "name": "Ernest Cossart",
+        "character": "Binns",
+        "photo": "https://image.tmdb.org/t/p/w500/A3ZU9hvKmT26MdLb8VS2PxGacLo.jpg"
+      }
+    ],
+    "director": [
+      "Henry Koster"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "5.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Frances O'Connor",
+      "Shirley Knight",
+      "Mark Duplass",
+      "Chandler Riggs",
+      "Joel Courtney",
+      "Dylan McDermott",
+      "Chris Browning",
+      "Amanda Walsh",
+      "Eddie Jones",
+      "Hana Hayes",
+      "Pepper Binkley",
+      "Sewell Whitney"
+    ],
+    "app_cast": [
+      {
+        "name": "Frances O'Connor",
+        "character": "Rebecca",
+        "photo": "https://image.tmdb.org/t/p/w500/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg"
+      },
+      {
+        "name": "Shirley Knight",
+        "character": "Mercy",
+        "photo": "https://image.tmdb.org/t/p/w500/5m1S3lOEP79hq10IODqEIfDPa1T.jpg"
+      },
+      {
+        "name": "Mark Duplass",
+        "character": "Uncle Lanning",
+        "photo": "https://image.tmdb.org/t/p/w500/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+      },
+      {
+        "name": "Chandler Riggs",
+        "character": "George",
+        "photo": "https://image.tmdb.org/t/p/w500/bN2BtSPbZKijm8Bpp9hkxMxyv25.jpg"
+      },
+      {
+        "name": "Joel Courtney",
+        "character": "Buddy",
+        "photo": "https://image.tmdb.org/t/p/w500/XvlAlEedqATZcPoZcQh3cxXOA7.jpg"
+      },
+      {
+        "name": "Dylan McDermott",
+        "character": "Jim Swann",
+        "photo": "https://image.tmdb.org/t/p/w500/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
+      },
+      {
+        "name": "Chris Browning",
+        "character": "Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/jKsUctww9FbZXlY04kyzIM0tBse.jpg"
+      },
+      {
+        "name": "Amanda Walsh",
+        "character": "Charlotte",
+        "photo": "https://image.tmdb.org/t/p/w500/7UtpYscsKdVIOf38Mos0iVPXkgZ.jpg"
+      },
+      {
+        "name": "Eddie Jones",
+        "character": "Pastor Gregory Luke",
+        "photo": "https://image.tmdb.org/t/p/w500/nMGaE2RFCZpVv5gVlDqeLLxNql6.jpg"
+      },
+      {
+        "name": "Hana Hayes",
+        "character": "Girl Next Door",
+        "photo": "https://image.tmdb.org/t/p/w500/qufjrDvVKu6nsKEPB5dWzBJfVKZ.jpg"
+      },
+      {
+        "name": "Pepper Binkley",
+        "character": "Young Mercy",
+        "photo": "https://image.tmdb.org/t/p/w500/wTpeMN3OMpNDT7OZMmrlCgWv7ch.jpg"
+      },
+      {
+        "name": "Sewell Whitney",
+        "character": "Doctor Hayes",
+        "photo": "https://image.tmdb.org/t/p/w500/aF9NquOtzoy7C0nnQs1tuowSUr8.jpg"
+      }
+    ],
+    "director": [
+      "Peter Cornwell"
+    ]
   }
 }

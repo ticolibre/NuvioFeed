@@ -19,6 +19,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Joel Edgerton",
+      "Rebecca Hall",
+      "Jason Bateman",
+      "Tim Griffin",
+      "Allison Tolman",
+      "Busy Philipps",
+      "Adam Lazarre-White",
+      "Beau Knapp",
+      "Wendell Pierce",
+      "Mirrah Foulkes",
+      "Nash Edgerton",
+      "David Denman"
+    ],
+    "app_cast": [
+      {
+        "name": "Joel Edgerton",
+        "character": "Gordo Mosley",
+        "photo": "https://image.tmdb.org/t/p/w500/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
+      },
+      {
+        "name": "Rebecca Hall",
+        "character": "Robyn Callem",
+        "photo": "https://image.tmdb.org/t/p/w500/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+      },
+      {
+        "name": "Jason Bateman",
+        "character": "Simon Callem",
+        "photo": "https://image.tmdb.org/t/p/w500/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+      },
+      {
+        "name": "Tim Griffin",
+        "character": "Kevin Keelor",
+        "photo": "https://image.tmdb.org/t/p/w500/sJKlW3W5rUyxdR8eslf7ScSe3yw.jpg"
+      },
+      {
+        "name": "Allison Tolman",
+        "character": "Lucy",
+        "photo": "https://image.tmdb.org/t/p/w500/uMn33sVI4bhYdUhLJPxntOmisio.jpg"
+      },
+      {
+        "name": "Busy Philipps",
+        "character": "Duffy",
+        "photo": "https://image.tmdb.org/t/p/w500/7yvrZFL9gM4mqRITD5rrVU0mcmM.jpg"
+      },
+      {
+        "name": "Adam Lazarre-White",
+        "character": "Ron",
+        "photo": "https://image.tmdb.org/t/p/w500/p63rzBpX50N94k81febrIwxUeQD.jpg"
+      },
+      {
+        "name": "Beau Knapp",
+        "character": "Detective Walker",
+        "photo": "https://image.tmdb.org/t/p/w500/6OWe75RIFETlY3iqvTjswcXRc33.jpg"
+      },
+      {
+        "name": "Wendell Pierce",
+        "character": "Detective Mills",
+        "photo": "https://image.tmdb.org/t/p/w500/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+      },
+      {
+        "name": "Mirrah Foulkes",
+        "character": "Wendy Dale",
+        "photo": "https://image.tmdb.org/t/p/w500/uQYRW8RswUtcSxEOQ2XxAooX65B.jpg"
+      },
+      {
+        "name": "Nash Edgerton",
+        "character": "Frank Dale",
+        "photo": "https://image.tmdb.org/t/p/w500/qaqSjQXRjTyCKChgVtBSHnnWbb9.jpg"
+      },
+      {
+        "name": "David Denman",
+        "character": "Greg",
+        "photo": "https://image.tmdb.org/t/p/w500/4I06ZD8SQ6pU1QYShiUXb711fJW.jpg"
+      }
+    ],
+    "director": [
+      "Joel Edgerton"
+    ]
   }
 }

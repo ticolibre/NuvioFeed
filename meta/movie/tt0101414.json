@@ -20,6 +20,86 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White",
+      "Jerry Orbach",
+      "David Ogden Stiers",
+      "Angela Lansbury",
+      "Rex Everhart",
+      "Jesse Corti",
+      "Bradley Pierce",
+      "Hal Smith",
+      "Jo Anne Worley",
+      "Mary Kay Bergman"
+    ],
+    "app_cast": [
+      {
+        "name": "Paige O'Hara",
+        "character": "Belle (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg"
+      },
+      {
+        "name": "Robby Benson",
+        "character": "Beast (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/rYcDiM9LrStdlcb80N3WAR2CsHX.jpg"
+      },
+      {
+        "name": "Richard White",
+        "character": "Gaston (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/ffrXvosdpVWd00neXUyposGNViF.jpg"
+      },
+      {
+        "name": "Jerry Orbach",
+        "character": "Lumiere (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/C0n4GfMUoesutHPbquKw9JANtW.jpg"
+      },
+      {
+        "name": "David Ogden Stiers",
+        "character": "Cogsworth (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+      },
+      {
+        "name": "Angela Lansbury",
+        "character": "Mrs. Potts (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+      },
+      {
+        "name": "Rex Everhart",
+        "character": "Maurice (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/dX5HOEcUl6Amx9btPN3jCnSloOO.jpg"
+      },
+      {
+        "name": "Jesse Corti",
+        "character": "Lefou (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/oI6zfkWgkMP3UFT5KCi5B6etzCa.jpg"
+      },
+      {
+        "name": "Bradley Pierce",
+        "character": "Chip (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/j6iW0vVA23GQniAPSYI6mi4hiEW.jpg"
+      },
+      {
+        "name": "Hal Smith",
+        "character": "Philippe (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
+      },
+      {
+        "name": "Jo Anne Worley",
+        "character": "Wardrobe (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/EzPTRJ2GxUFgYo6JXw19G2JDb3.jpg"
+      },
+      {
+        "name": "Mary Kay Bergman",
+        "character": "Bimbette (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
+      }
+    ],
+    "director": [
+      "Gary Trousdale",
+      "Kirk Wise"
+    ]
   }
 }

@@ -19,6 +19,84 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Burt Lancaster",
+      "Dana Wynter",
+      "Dean Martin",
+      "Barbara Hale",
+      "Jean Seberg",
+      "Jacqueline Bisset",
+      "George Kennedy",
+      "Jodean Lawrence",
+      "Helen Hayes",
+      "John Findlater",
+      "Van Heflin",
+      "Maureen Stapleton"
+    ],
+    "app_cast": [
+      {
+        "name": "Burt Lancaster",
+        "character": "Mel Bakersfeld",
+        "photo": "https://image.tmdb.org/t/p/w500/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+      },
+      {
+        "name": "Dana Wynter",
+        "character": "Cindy Bakersfeld",
+        "photo": "https://image.tmdb.org/t/p/w500/qH9Zl24ojLDF57b4BYnHl9G1dQt.jpg"
+      },
+      {
+        "name": "Dean Martin",
+        "character": "Vernon Demerest",
+        "photo": "https://image.tmdb.org/t/p/w500/lMWkTDKPsDVS3DiMUNkTLLjm3f5.jpg"
+      },
+      {
+        "name": "Barbara Hale",
+        "character": "Sarah Demerest",
+        "photo": "https://image.tmdb.org/t/p/w500/xLE53ZfGifU5hNyjoE6z6FsOU01.jpg"
+      },
+      {
+        "name": "Jean Seberg",
+        "character": "Tanya Livingston",
+        "photo": "https://image.tmdb.org/t/p/w500/mNW6MJ5YAiFWAnH9pCmi0PjKXc.jpg"
+      },
+      {
+        "name": "Jacqueline Bisset",
+        "character": "Gwen Meighen",
+        "photo": "https://image.tmdb.org/t/p/w500/oFAb5GVuP5mE2yEUZ6m70YiGIPw.jpg"
+      },
+      {
+        "name": "George Kennedy",
+        "character": "Joe Patroni",
+        "photo": "https://image.tmdb.org/t/p/w500/fIVmcPEcPmh0Rbx4mYf9aneCmDe.jpg"
+      },
+      {
+        "name": "Jodean Lawrence",
+        "character": "Marie Patroni"
+      },
+      {
+        "name": "Helen Hayes",
+        "character": "Ada Quonsett",
+        "photo": "https://image.tmdb.org/t/p/w500/i1mqaJOQG9TBVBZjn8No70GeGhE.jpg"
+      },
+      {
+        "name": "John Findlater",
+        "character": "Peter Coakley",
+        "photo": "https://image.tmdb.org/t/p/w500/u2StgNxF3rmRgxxksIuDgSzbHTR.jpg"
+      },
+      {
+        "name": "Van Heflin",
+        "character": "D. O. Guerrero",
+        "photo": "https://image.tmdb.org/t/p/w500/8YDZWDaX9lp1GUTdRzokngoLd8s.jpg"
+      },
+      {
+        "name": "Maureen Stapleton",
+        "character": "Inez Guerrero",
+        "photo": "https://image.tmdb.org/t/p/w500/rXwg71O6oU6x3sB5c4erlAu7mhy.jpg"
+      }
+    ],
+    "director": [
+      "George Seaton"
+    ]
   }
 }

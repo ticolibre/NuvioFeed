@@ -19,6 +19,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Scarlett Johansson",
+      "Taika Waititi",
+      "Sam Rockwell",
+      "Rebel Wilson",
+      "Alfie Allen",
+      "Stephen Merchant",
+      "Archie Yates",
+      "Luke Brandon Field",
+      "Sam Haygarth",
+      "Stanislav Callas"
+    ],
+    "app_cast": [
+      {
+        "name": "Roman Griffin Davis",
+        "character": "Jojo",
+        "photo": "https://image.tmdb.org/t/p/w500/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg"
+      },
+      {
+        "name": "Thomasin McKenzie",
+        "character": "Elsa",
+        "photo": "https://image.tmdb.org/t/p/w500/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Rosie",
+        "photo": "https://image.tmdb.org/t/p/w500/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+      },
+      {
+        "name": "Taika Waititi",
+        "character": "Adolf",
+        "photo": "https://image.tmdb.org/t/p/w500/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+      },
+      {
+        "name": "Sam Rockwell",
+        "character": "Captain Klenzendorf",
+        "photo": "https://image.tmdb.org/t/p/w500/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+      },
+      {
+        "name": "Rebel Wilson",
+        "character": "Fraulein Rahm",
+        "photo": "https://image.tmdb.org/t/p/w500/yuyRg1WaY616Uux3vP9ONsUjQTS.jpg"
+      },
+      {
+        "name": "Alfie Allen",
+        "character": "Finkel",
+        "photo": "https://image.tmdb.org/t/p/w500/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg"
+      },
+      {
+        "name": "Stephen Merchant",
+        "character": "Deertz",
+        "photo": "https://image.tmdb.org/t/p/w500/6WM2rK6390Nwk398syJbGcPvRct.jpg"
+      },
+      {
+        "name": "Archie Yates",
+        "character": "Yorki",
+        "photo": "https://image.tmdb.org/t/p/w500/8o2nEb5Bo2y6Nq9JS7JfyyQfbR4.jpg"
+      },
+      {
+        "name": "Luke Brandon Field",
+        "character": "Christoph",
+        "photo": "https://image.tmdb.org/t/p/w500/oFxfxwnJAZ6JSSpXWNuAt9ffW8W.jpg"
+      },
+      {
+        "name": "Sam Haygarth",
+        "character": "Hans",
+        "photo": "https://image.tmdb.org/t/p/w500/9Uw949Bvn2nnowhiUTdRkoDk5tb.jpg"
+      },
+      {
+        "name": "Stanislav Callas",
+        "character": "Russian Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/fiTOWrPrzOloBXiD2O88hfdNxxa.jpg"
+      }
+    ],
+    "director": [
+      "Taika Waititi"
+    ]
   }
 }

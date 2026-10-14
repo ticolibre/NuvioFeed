@@ -19,6 +19,84 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Laurence Olivier",
+      "Renée Asherson",
+      "Ralph Truman",
+      "Ernest Thesiger",
+      "Frederick Cooper",
+      "Robert Helpmann",
+      "Leslie Banks",
+      "Felix Aylmer",
+      "Robert Newton",
+      "Freda Jackson",
+      "George Cole",
+      "Leo Genn"
+    ],
+    "app_cast": [
+      {
+        "name": "Laurence Olivier",
+        "character": "King Henry",
+        "photo": "https://image.tmdb.org/t/p/w500/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
+      },
+      {
+        "name": "Renée Asherson",
+        "character": "Princess Katherine",
+        "photo": "https://image.tmdb.org/t/p/w500/jOTJnH264W2dylwIbU6jJvHR42Y.jpg"
+      },
+      {
+        "name": "Ralph Truman",
+        "character": "Mountjoy - The French Herald",
+        "photo": "https://image.tmdb.org/t/p/w500/1mt0AckZ2jNmOGYROCUNdqnGNAO.jpg"
+      },
+      {
+        "name": "Ernest Thesiger",
+        "character": "Duke of Berri - French Ambassador",
+        "photo": "https://image.tmdb.org/t/p/w500/zvtpYFtWZsYTJEpGmJagb2uxtC2.jpg"
+      },
+      {
+        "name": "Frederick Cooper",
+        "character": "Corporal Nym"
+      },
+      {
+        "name": "Robert Helpmann",
+        "character": "Bishop of Ely",
+        "photo": "https://image.tmdb.org/t/p/w500/aiOx8lQIKwXkH3AiGkznklq08yY.jpg"
+      },
+      {
+        "name": "Leslie Banks",
+        "character": "Chorus",
+        "photo": "https://image.tmdb.org/t/p/w500/nZuJTNrU2stqxn7L39ELyaq1A42.jpg"
+      },
+      {
+        "name": "Felix Aylmer",
+        "character": "Archbishop of Canterbury",
+        "photo": "https://image.tmdb.org/t/p/w500/1aTMXytbbImctXD8k4dNKkkMf2N.jpg"
+      },
+      {
+        "name": "Robert Newton",
+        "character": "Ancient Pistol",
+        "photo": "https://image.tmdb.org/t/p/w500/rk2vn6t830zKeROOx2aMdaEteyc.jpg"
+      },
+      {
+        "name": "Freda Jackson",
+        "character": "Mistress Quickly",
+        "photo": "https://image.tmdb.org/t/p/w500/2h9qUpEYnQvnHgJPoKIfCE3spbZ.jpg"
+      },
+      {
+        "name": "George Cole",
+        "character": "Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/qRQlXtz9l3Sbe9OzpIQMvb6v3E3.jpg"
+      },
+      {
+        "name": "Leo Genn",
+        "character": "The Constable of France",
+        "photo": "https://image.tmdb.org/t/p/w500/2MxHaZXCgxPmHiK4MWn1a3o7qzk.jpg"
+      }
+    ],
+    "director": [
+      "Laurence Olivier"
+    ]
   }
 }

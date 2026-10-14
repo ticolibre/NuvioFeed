@@ -17,6 +17,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Clint Eastwood",
+      "Hilary Swank",
+      "Morgan Freeman",
+      "Jay Baruchel",
+      "Mike Colter",
+      "Lucia Rijker",
+      "Brían F. O'Byrne",
+      "Anthony Mackie",
+      "Margo Martindale",
+      "Riki Lindhome",
+      "Michael Peña",
+      "Benito Martinez"
+    ],
+    "app_cast": [
+      {
+        "name": "Clint Eastwood",
+        "character": "Frankie Dunn",
+        "photo": "https://image.tmdb.org/t/p/w500/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+      },
+      {
+        "name": "Hilary Swank",
+        "character": "Maggie Fitzgerald",
+        "photo": "https://image.tmdb.org/t/p/w500/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Eddie Scrap-Iron Dupris",
+        "photo": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+      },
+      {
+        "name": "Jay Baruchel",
+        "character": "Danger Barch",
+        "photo": "https://image.tmdb.org/t/p/w500/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+      },
+      {
+        "name": "Mike Colter",
+        "character": "Big Willie Little",
+        "photo": "https://image.tmdb.org/t/p/w500/9LG9AzoY2ak6M2kwhKlGkLOUUot.jpg"
+      },
+      {
+        "name": "Lucia Rijker",
+        "character": "Billie 'The Blue Bear'",
+        "photo": "https://image.tmdb.org/t/p/w500/6v7Ec32c70aJWJqkuq4UrMxxEj7.jpg"
+      },
+      {
+        "name": "Brían F. O'Byrne",
+        "character": "Father Horvak",
+        "photo": "https://image.tmdb.org/t/p/w500/9obqr2sZ0cf4z2ZsZoaHslSx45V.jpg"
+      },
+      {
+        "name": "Anthony Mackie",
+        "character": "Shawrelle Berry",
+        "photo": "https://image.tmdb.org/t/p/w500/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+      },
+      {
+        "name": "Margo Martindale",
+        "character": "Earline Fitzgerald",
+        "photo": "https://image.tmdb.org/t/p/w500/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+      },
+      {
+        "name": "Riki Lindhome",
+        "character": "Mardell Fitzgerald",
+        "photo": "https://image.tmdb.org/t/p/w500/kJAGFp0ZW5sY0NoysFZcfSRykZa.jpg"
+      },
+      {
+        "name": "Michael Peña",
+        "character": "Omar",
+        "photo": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Benito Martinez",
+        "character": "Billie's Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg"
+      }
+    ],
+    "director": [
+      "Clint Eastwood"
+    ]
   }
 }

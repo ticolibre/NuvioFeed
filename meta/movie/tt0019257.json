@@ -18,6 +18,73 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Emil Jannings",
+      "Florence Vidor",
+      "Lewis Stone",
+      "Vera Voronina",
+      "Neil Hamilton",
+      "Harry Cording",
+      "Nicholas Kobliansky",
+      "Sam Savitsky",
+      "Alexander Skonnikov",
+      "Tullio Carminati",
+      "Carmencita Johnson"
+    ],
+    "app_cast": [
+      {
+        "name": "Emil Jannings",
+        "character": "Czar Paul I",
+        "photo": "https://image.tmdb.org/t/p/w500/yX7AFfYgYit6WlPshockLsP40LB.jpg"
+      },
+      {
+        "name": "Florence Vidor",
+        "character": "Countess Ostermann",
+        "photo": "https://image.tmdb.org/t/p/w500/bjc0mtBLd8m0bsq2xepeijvtmwg.jpg"
+      },
+      {
+        "name": "Lewis Stone",
+        "character": "Count Pahlen",
+        "photo": "https://image.tmdb.org/t/p/w500/4RqVHEfQVLPMYHBkmMoUvVdduMP.jpg"
+      },
+      {
+        "name": "Vera Voronina",
+        "character": "Mademoiselle Lapoukhine",
+        "photo": "https://image.tmdb.org/t/p/w500/mVtbyOR9Y6bF8RLjXk8prdITHSX.jpg"
+      },
+      {
+        "name": "Neil Hamilton",
+        "character": "Crown Prince Alexander",
+        "photo": "https://image.tmdb.org/t/p/w500/23jm1XwaaBKWTp5fKs7kzThK4KZ.jpg"
+      },
+      {
+        "name": "Harry Cording",
+        "character": "Stefan",
+        "photo": "https://image.tmdb.org/t/p/w500/4mIzjcLu6cQfRudjHs3vG3bWg5g.jpg"
+      },
+      {
+        "name": "Nicholas Kobliansky"
+      },
+      {
+        "name": "Sam Savitsky"
+      },
+      {
+        "name": "Alexander Skonnikov"
+      },
+      {
+        "name": "Tullio Carminati",
+        "character": "Minor Role (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/dMeoF46we9MvKT3vM5MU25p1skX.jpg"
+      },
+      {
+        "name": "Carmencita Johnson",
+        "character": "Baby (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/trDaM4tI3AEwLXgEiIxnfbcjax8.jpg"
+      }
+    ],
+    "director": [
+      "Ernst Lubitsch"
+    ]
   }
 }

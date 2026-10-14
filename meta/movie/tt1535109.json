@@ -19,6 +19,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Hanks",
+      "Barkhad Abdi",
+      "Barkhad Abdirahman",
+      "Faysal  Ahmed",
+      "Mahat M. Ali",
+      "Michael Chernus",
+      "David Warshofsky",
+      "Corey Johnson",
+      "Chris Mulkey",
+      "Yul Vazquez",
+      "Max Martini",
+      "Catherine Keener"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Captain Richard Phillips",
+        "photo": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Barkhad Abdi",
+        "character": "Muse",
+        "photo": "https://image.tmdb.org/t/p/w500/utfeg8GnGyW3aVNcRfhII9RCXB6.jpg"
+      },
+      {
+        "name": "Barkhad Abdirahman",
+        "character": "Bilal",
+        "photo": "https://image.tmdb.org/t/p/w500/o5K3tGiClerpgpCOpqFZGJ5cd28.jpg"
+      },
+      {
+        "name": "Faysal  Ahmed",
+        "character": "Najee",
+        "photo": "https://image.tmdb.org/t/p/w500/jrnwwBq4Xq3UADdAb028ddK32eD.jpg"
+      },
+      {
+        "name": "Mahat M. Ali",
+        "character": "Elmi",
+        "photo": "https://image.tmdb.org/t/p/w500/lV31hBFhk0YT7ktv7OVMqonA7yz.jpg"
+      },
+      {
+        "name": "Michael Chernus",
+        "character": "Shane Murphy",
+        "photo": "https://image.tmdb.org/t/p/w500/tqtVxv36oQf4LlHpR3nlfUCm6M4.jpg"
+      },
+      {
+        "name": "David Warshofsky",
+        "character": "Mike Perry",
+        "photo": "https://image.tmdb.org/t/p/w500/pLABX1wyaVE4CcEZVmoM2Y5XbQU.jpg"
+      },
+      {
+        "name": "Corey Johnson",
+        "character": "Ken Quinn",
+        "photo": "https://image.tmdb.org/t/p/w500/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+      },
+      {
+        "name": "Chris Mulkey",
+        "character": "John Cronan",
+        "photo": "https://image.tmdb.org/t/p/w500/kpJid21QcIBGvwP0Bddvw0p8wEl.jpg"
+      },
+      {
+        "name": "Yul Vazquez",
+        "character": "Captain Frank Castellano",
+        "photo": "https://image.tmdb.org/t/p/w500/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+      },
+      {
+        "name": "Max Martini",
+        "character": "SEAL Commander",
+        "photo": "https://image.tmdb.org/t/p/w500/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg"
+      },
+      {
+        "name": "Catherine Keener",
+        "character": "Andrea Phillips",
+        "photo": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      }
+    ],
+    "director": [
+      "Paul Greengrass"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Spencer Tracy",
+      "Sidney Poitier",
+      "Katharine Hepburn",
+      "Katharine Houghton",
+      "Cecil Kellaway",
+      "Beah Richards",
+      "Roy Glenn",
+      "Isabel Sanford",
+      "Virginia Christine",
+      "Alexandra Hay",
+      "Barbara Randolph",
+      "D'Urville Martin"
+    ],
+    "app_cast": [
+      {
+        "name": "Spencer Tracy",
+        "character": "Matt Drayton",
+        "photo": "https://image.tmdb.org/t/p/w500/aUZUlQjiWvl23stKXzxycb31sen.jpg"
+      },
+      {
+        "name": "Sidney Poitier",
+        "character": "John Prentice",
+        "photo": "https://image.tmdb.org/t/p/w500/fhMiCe3ScxBGKEX6Y6flEJm7iHd.jpg"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "character": "Christina Drayton",
+        "photo": "https://image.tmdb.org/t/p/w500/hzBSOe6bburyMeeCqD9kR9tRfdD.jpg"
+      },
+      {
+        "name": "Katharine Houghton",
+        "character": "Joanna \"Joey\" Drayton",
+        "photo": "https://image.tmdb.org/t/p/w500/tDUgRgAxHuxt7ZpOMSxDspyoI5T.jpg"
+      },
+      {
+        "name": "Cecil Kellaway",
+        "character": "Monsignor Ryan",
+        "photo": "https://image.tmdb.org/t/p/w500/rGVj5ODGkAxEllJt2JZTtO7doIj.jpg"
+      },
+      {
+        "name": "Beah Richards",
+        "character": "Mrs. Prentice",
+        "photo": "https://image.tmdb.org/t/p/w500/aJmFZrnKpQFVM8kCbPLEosighTh.jpg"
+      },
+      {
+        "name": "Roy Glenn",
+        "character": "Mr. Prentice",
+        "photo": "https://image.tmdb.org/t/p/w500/yqX9VteGzhPNLGvlK5E1KULX79H.jpg"
+      },
+      {
+        "name": "Isabel Sanford",
+        "character": "Tillie",
+        "photo": "https://image.tmdb.org/t/p/w500/qiVE5wtlJVXwSvqnNu7PUOQaCqA.jpg"
+      },
+      {
+        "name": "Virginia Christine",
+        "character": "Hilary St. George",
+        "photo": "https://image.tmdb.org/t/p/w500/aVPUIpWumBgMFdWo0R5wCQWZM0N.jpg"
+      },
+      {
+        "name": "Alexandra Hay",
+        "character": "Carhop",
+        "photo": "https://image.tmdb.org/t/p/w500/odKE8u2ShQbNOUK9DhCLewPj2tB.jpg"
+      },
+      {
+        "name": "Barbara Randolph",
+        "character": "Dorothy",
+        "photo": "https://image.tmdb.org/t/p/w500/tjY4xPD454prOTsTDonyUBe3AoS.jpg"
+      },
+      {
+        "name": "D'Urville Martin",
+        "character": "Frankie",
+        "photo": "https://image.tmdb.org/t/p/w500/7PMIku1z3slTzoWEtPNjjbG5SXM.jpg"
+      }
+    ],
+    "director": [
+      "Stanley Kramer"
+    ]
   }
 }

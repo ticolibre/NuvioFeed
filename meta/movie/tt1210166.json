@@ -17,6 +17,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman",
+      "Robin Wright",
+      "Chris Pratt",
+      "Stephen Bishop",
+      "Reed Diamond",
+      "Brent Jennings",
+      "Ken Medlock",
+      "Tammy Blanchard",
+      "Jack McGee",
+      "Vyto Ruginis"
+    ],
+    "app_cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Billy Beane",
+        "photo": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "name": "Jonah Hill",
+        "character": "Peter Brand",
+        "photo": "https://image.tmdb.org/t/p/w500/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Art Howe",
+        "photo": "https://image.tmdb.org/t/p/w500/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Sharon",
+        "photo": "https://image.tmdb.org/t/p/w500/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+      },
+      {
+        "name": "Chris Pratt",
+        "character": "Scott Hatteberg",
+        "photo": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Stephen Bishop",
+        "character": "David Justice",
+        "photo": "https://image.tmdb.org/t/p/w500/duiEwqhUI8gnMWHQ3K2DKO4Xo3w.jpg"
+      },
+      {
+        "name": "Reed Diamond",
+        "character": "Mark Shapiro",
+        "photo": "https://image.tmdb.org/t/p/w500/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg"
+      },
+      {
+        "name": "Brent Jennings",
+        "character": "Ron Washington",
+        "photo": "https://image.tmdb.org/t/p/w500/1koVGx5tgu4FRSbscOTT3sWp0i9.jpg"
+      },
+      {
+        "name": "Ken Medlock",
+        "character": "Grady Fuson",
+        "photo": "https://image.tmdb.org/t/p/w500/dgbhapNyMaXNUrKau2uqMdapPLn.jpg"
+      },
+      {
+        "name": "Tammy Blanchard",
+        "character": "Elizabeth Hatteberg",
+        "photo": "https://image.tmdb.org/t/p/w500/ztbtRXEBJaOiQevIn0xNKAzu9MU.jpg"
+      },
+      {
+        "name": "Jack McGee",
+        "character": "John Poloni",
+        "photo": "https://image.tmdb.org/t/p/w500/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+      },
+      {
+        "name": "Vyto Ruginis",
+        "character": "Pittaro",
+        "photo": "https://image.tmdb.org/t/p/w500/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg"
+      }
+    ],
+    "director": [
+      "Bennett Miller"
+    ]
   }
 }

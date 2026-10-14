@@ -17,6 +17,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "Susan Sarandon",
+      "Vincent Gardenia",
+      "David Wayne",
+      "Allen Garfield",
+      "Austin Pendleton",
+      "Charles Durning",
+      "Herb Edelman",
+      "Martin Gabel",
+      "Harold Gould",
+      "Cliff Osmond"
+    ],
+    "app_cast": [
+      {
+        "name": "Jack Lemmon",
+        "character": "Hildebrand Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+      },
+      {
+        "name": "Walter Matthau",
+        "character": "Walter Burns",
+        "photo": "https://image.tmdb.org/t/p/w500/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+      },
+      {
+        "name": "Susan Sarandon",
+        "character": "Peggy Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+      },
+      {
+        "name": "Vincent Gardenia",
+        "character": "Sheriff",
+        "photo": "https://image.tmdb.org/t/p/w500/xoJsXDJTNV4MUCqciN3ThcQrPdP.jpg"
+      },
+      {
+        "name": "David Wayne",
+        "character": "Roy Bensinger",
+        "photo": "https://image.tmdb.org/t/p/w500/mXatzN2o2Dcx4hUQxeKXkbkE9Fk.jpg"
+      },
+      {
+        "name": "Allen Garfield",
+        "character": "Kruger",
+        "photo": "https://image.tmdb.org/t/p/w500/v4S64Kcmgg7THvrFElzAeJiscy6.jpg"
+      },
+      {
+        "name": "Austin Pendleton",
+        "character": "Earl Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+      },
+      {
+        "name": "Charles Durning",
+        "character": "Murphy",
+        "photo": "https://image.tmdb.org/t/p/w500/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+      },
+      {
+        "name": "Herb Edelman",
+        "character": "Schwartz",
+        "photo": "https://image.tmdb.org/t/p/w500/nuuRY9WJCVS7BnhLiADVPHImWuy.jpg"
+      },
+      {
+        "name": "Martin Gabel",
+        "character": "Dr. Max J. Eggelhofer",
+        "photo": "https://image.tmdb.org/t/p/w500/50lp2oS1KK3BNC2ofdJrt1YGFNJ.jpg"
+      },
+      {
+        "name": "Harold Gould",
+        "character": "Mayor",
+        "photo": "https://image.tmdb.org/t/p/w500/34OhfMWScEyQpy0bdnhta9mUvqV.jpg"
+      },
+      {
+        "name": "Cliff Osmond",
+        "character": "Officer Jacobi",
+        "photo": "https://image.tmdb.org/t/p/w500/y7MZ3R1zw4a2hr6hLpNMTGjeXvG.jpg"
+      }
+    ],
+    "director": [
+      "Billy Wilder"
+    ]
   }
 }

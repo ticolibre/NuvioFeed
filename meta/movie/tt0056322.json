@@ -17,6 +17,82 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Leonardo Villar",
+      "Glória Menezes",
+      "Dionísio Azevedo",
+      "Geraldo del Rey",
+      "Roberto Ferreira",
+      "Othon Bastos",
+      "Antônio Pitanga",
+      "Gilberto Marques",
+      "Norma Bengell",
+      "Jurema Penna",
+      "Milton Gaúcho",
+      "Enoch Torres"
+    ],
+    "app_cast": [
+      {
+        "name": "Leonardo Villar",
+        "character": "Zé do Burro",
+        "photo": "https://image.tmdb.org/t/p/w500/jaXYMbT9Vfi0KbvWG3UMVz4gaWU.jpg"
+      },
+      {
+        "name": "Glória Menezes",
+        "character": "Rosa",
+        "photo": "https://image.tmdb.org/t/p/w500/oz3NsbIuRq6c6uGHhyTYpQ92c0x.jpg"
+      },
+      {
+        "name": "Dionísio Azevedo",
+        "character": "Padre Olavo",
+        "photo": "https://image.tmdb.org/t/p/w500/23HJBpGdSj1vPDw50AYLu5kPzTp.jpg"
+      },
+      {
+        "name": "Geraldo del Rey",
+        "character": "Bonitão",
+        "photo": "https://image.tmdb.org/t/p/w500/nYR9aTQwKC3ZqXXSHGgISbszLeS.jpg"
+      },
+      {
+        "name": "Roberto Ferreira",
+        "character": "Dedé",
+        "photo": "https://image.tmdb.org/t/p/w500/kFtyHTaNph1g5LUdK7IKalGIwns.jpg"
+      },
+      {
+        "name": "Othon Bastos",
+        "character": "Reporter",
+        "photo": "https://image.tmdb.org/t/p/w500/vGdOzEEyuQsMapNKdzE7BGGLpZD.jpg"
+      },
+      {
+        "name": "Antônio Pitanga",
+        "character": "Mestre Coca",
+        "photo": "https://image.tmdb.org/t/p/w500/6Sdhnxw4CQk2TbFk3L9D25nbga6.jpg"
+      },
+      {
+        "name": "Gilberto Marques",
+        "character": "Galego"
+      },
+      {
+        "name": "Norma Bengell",
+        "character": "Marly",
+        "photo": "https://image.tmdb.org/t/p/w500/bZfE2pQ5y2bxHVR8rnV6KOSNGpM.jpg"
+      },
+      {
+        "name": "Jurema Penna",
+        "character": "Zealot",
+        "photo": "https://image.tmdb.org/t/p/w500/vwNwb7FnNNeKvDSkXe7SYbb1h18.jpg"
+      },
+      {
+        "name": "Milton Gaúcho",
+        "character": "Policial"
+      },
+      {
+        "name": "Enoch Torres",
+        "character": "Inspetor"
+      }
+    ],
+    "director": [
+      "Anselmo Duarte"
+    ]
   }
 }

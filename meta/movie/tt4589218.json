@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Josh Hutcherson",
+      "Piper Rubio",
+      "Elizabeth Lail",
+      "Matthew Lillard",
+      "Mary Stuart Masterson",
+      "Kat Conner Sterling",
+      "David Lind",
+      "Christian Stokes",
+      "Joseph Poliquin",
+      "Grant Feely",
+      "Asher Colton Spence",
+      "David Huston Doty"
+    ],
+    "app_cast": [
+      {
+        "name": "Josh Hutcherson",
+        "character": "Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+      },
+      {
+        "name": "Piper Rubio",
+        "character": "Abby",
+        "photo": "https://image.tmdb.org/t/p/w500/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg"
+      },
+      {
+        "name": "Elizabeth Lail",
+        "character": "Vanessa",
+        "photo": "https://image.tmdb.org/t/p/w500/guu5KjmRBjAWr4JkRdPHeyqXJPX.jpg"
+      },
+      {
+        "name": "Matthew Lillard",
+        "character": "Steve Raglan / William Afton",
+        "photo": "https://image.tmdb.org/t/p/w500/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+      },
+      {
+        "name": "Mary Stuart Masterson",
+        "character": "Aunt Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/sxQksTRKrubxcfjA5f1cQIr7dk9.jpg"
+      },
+      {
+        "name": "Kat Conner Sterling",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/w500/5Mq6X1MeVuoSa37VRQw987aF3pZ.jpg"
+      },
+      {
+        "name": "David Lind",
+        "character": "Jeff",
+        "photo": "https://image.tmdb.org/t/p/w500/4fDDnqq5WlBI6DOkXe1YGdCJ0a2.jpg"
+      },
+      {
+        "name": "Christian Stokes",
+        "character": "Hank",
+        "photo": "https://image.tmdb.org/t/p/w500/h8pgK1CIMVNint4NHdI9V4qTly0.jpg"
+      },
+      {
+        "name": "Joseph Poliquin",
+        "character": "Carl",
+        "photo": "https://image.tmdb.org/t/p/w500/eZEDVgLFZirrCpoK1znP8rir5Ut.jpg"
+      },
+      {
+        "name": "Grant Feely",
+        "character": "Ghost Kid (Blonde Boy)",
+        "photo": "https://image.tmdb.org/t/p/w500/2SwRr2soaKyxqn9l1uHvVGXSMBx.jpg"
+      },
+      {
+        "name": "Asher Colton Spence",
+        "character": "Ghost Kid (With Hook)",
+        "photo": "https://image.tmdb.org/t/p/w500/nKBPfq8FLvxbPg60XI5DYMwRC90.jpg"
+      },
+      {
+        "name": "David Huston Doty",
+        "character": "Ghost Kid (With Bunny Ears)",
+        "photo": "https://image.tmdb.org/t/p/w500/vFTMwK851b1sVXgdVcpqyiK1O9o.jpg"
+      }
+    ],
+    "director": [
+      "Emma Tammi"
+    ]
   }
 }

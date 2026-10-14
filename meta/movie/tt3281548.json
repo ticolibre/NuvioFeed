@@ -18,6 +18,85 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Saoirse Ronan",
+      "Emma Watson",
+      "Florence Pugh",
+      "Eliza Scanlen",
+      "Laura Dern",
+      "Timothée Chalamet",
+      "Tracy Letts",
+      "Bob Odenkirk",
+      "James Norton",
+      "Louis Garrel",
+      "Jayne Houdyshell",
+      "Chris Cooper"
+    ],
+    "app_cast": [
+      {
+        "name": "Saoirse Ronan",
+        "character": "Jo March",
+        "photo": "https://image.tmdb.org/t/p/w500/tsk3iKGmMgXIGbRjwf2zYkh8Zkb.jpg"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Meg March",
+        "photo": "https://image.tmdb.org/t/p/w500/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Amy March",
+        "photo": "https://image.tmdb.org/t/p/w500/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+      },
+      {
+        "name": "Eliza Scanlen",
+        "character": "Beth March",
+        "photo": "https://image.tmdb.org/t/p/w500/bxSr2EH0KLN2SqQBJiITUx35cF6.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Marmee March",
+        "photo": "https://image.tmdb.org/t/p/w500/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Laurie",
+        "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+      },
+      {
+        "name": "Tracy Letts",
+        "character": "Mr. Dashwood",
+        "photo": "https://image.tmdb.org/t/p/w500/x318yEddF10ASORC5U958C2kowf.jpg"
+      },
+      {
+        "name": "Bob Odenkirk",
+        "character": "Father March",
+        "photo": "https://image.tmdb.org/t/p/w500/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "James Norton",
+        "character": "John Brooke",
+        "photo": "https://image.tmdb.org/t/p/w500/9aoZjSVw6jTvV4ioi7KdH1wfgC2.jpg"
+      },
+      {
+        "name": "Louis Garrel",
+        "character": "Friedrich Bhaer",
+        "photo": "https://image.tmdb.org/t/p/w500/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg"
+      },
+      {
+        "name": "Jayne Houdyshell",
+        "character": "Hannah",
+        "photo": "https://image.tmdb.org/t/p/w500/AlYIzwmfxuZ0yvU4L9F9h0tJGmZ.jpg"
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Mr. Laurence",
+        "photo": "https://image.tmdb.org/t/p/w500/sJKghcu9wRDIvKM0cI7kqNXYRfS.jpg"
+      }
+    ],
+    "director": [
+      "Greta Gerwig"
+    ]
   }
 }

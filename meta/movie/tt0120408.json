@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Koji Yakusho",
+      "Misa Shimizu",
+      "Akira Emoto",
+      "Fujio Tokita",
+      "Mitsuko Baisho",
+      "Show Aikawa",
+      "Ken Kobayashi",
+      "Sabu Kawahara",
+      "Etsuko Ichihara",
+      "Tomorowo Taguchi",
+      "Chiho Terada",
+      "Sanshō Shinsui"
+    ],
+    "app_cast": [
+      {
+        "name": "Koji Yakusho",
+        "character": "Takuro Yamashita",
+        "photo": "https://image.tmdb.org/t/p/w500/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg"
+      },
+      {
+        "name": "Misa Shimizu",
+        "character": "Keiko Hattori",
+        "photo": "https://image.tmdb.org/t/p/w500/kmUhyTH0wDzLZVzFbDuKNvkfWgG.jpg"
+      },
+      {
+        "name": "Akira Emoto",
+        "character": "Tamotsu Takasaki",
+        "photo": "https://image.tmdb.org/t/p/w500/qQHdGgAL7idxy79oWHjYON6bYQm.jpg"
+      },
+      {
+        "name": "Fujio Tokita",
+        "character": "Jiro Nakajima",
+        "photo": "https://image.tmdb.org/t/p/w500/2DPIQcwwiv8BtyZIYKAmINUnd5J.jpg"
+      },
+      {
+        "name": "Mitsuko Baisho",
+        "character": "Misako Nakajima",
+        "photo": "https://image.tmdb.org/t/p/w500/cveQi03gBaZ6vkbGaECQAX1NG5D.jpg"
+      },
+      {
+        "name": "Show Aikawa",
+        "character": "Yuji Nozawa",
+        "photo": "https://image.tmdb.org/t/p/w500/zpeiRnFoH0Cktgu1ky8fRdNNOXT.jpg"
+      },
+      {
+        "name": "Ken Kobayashi",
+        "character": "Masaki Saito",
+        "photo": "https://image.tmdb.org/t/p/w500/7149tQG1gToWDHN2CyVqqg1i2dR.jpg"
+      },
+      {
+        "name": "Sabu Kawahara",
+        "character": "Seitaro Misato",
+        "photo": "https://image.tmdb.org/t/p/w500/i0TISI21zPJ3X5gYJ9orfll1rfB.jpg"
+      },
+      {
+        "name": "Etsuko Ichihara",
+        "character": "Fumie Hattori",
+        "photo": "https://image.tmdb.org/t/p/w500/qDMwdYtLjj58ronpF7W0TNcwnSZ.jpg"
+      },
+      {
+        "name": "Tomorowo Taguchi",
+        "character": "Eiji Dojima",
+        "photo": "https://image.tmdb.org/t/p/w500/8dyNOaOW9c9Qy2itA4haxJT4TN6.jpg"
+      },
+      {
+        "name": "Chiho Terada",
+        "character": "Emiko Yamashita",
+        "photo": "https://image.tmdb.org/t/p/w500/5pi6w7c0Ze50rK35oLKWtvNBtjt.jpg"
+      },
+      {
+        "name": "Sanshō Shinsui",
+        "character": "Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/yYktrYPPxbetHSmqmIIRsgSjscN.jpg"
+      }
+    ],
+    "director": [
+      "Shōhei Imamura"
+    ]
   }
 }

@@ -19,6 +19,86 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone",
+      "Claude Rains",
+      "Patric Knowles",
+      "Eugene Pallette",
+      "Alan Hale",
+      "Melville Cooper",
+      "Ian Hunter",
+      "Una O'Connor",
+      "Herbert Mundin",
+      "Montagu Love"
+    ],
+    "app_cast": [
+      {
+        "name": "Errol Flynn",
+        "character": "Robin Hood",
+        "photo": "https://image.tmdb.org/t/p/w500/x7yOzNMVCQzt7UQYy8Po3GNrR0I.jpg"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "character": "Maid Marian",
+        "photo": "https://image.tmdb.org/t/p/w500/9pIjSCaOSIp9IbMVUaZhQ4dWc9F.jpg"
+      },
+      {
+        "name": "Basil Rathbone",
+        "character": "Sir Guy of Gisbourne",
+        "photo": "https://image.tmdb.org/t/p/w500/kwDz2jfV06m2ljpTHfaC509FAmJ.jpg"
+      },
+      {
+        "name": "Claude Rains",
+        "character": "Prince John",
+        "photo": "https://image.tmdb.org/t/p/w500/fcM7Xfs0lWBw8TDjcFSLosX2YAD.jpg"
+      },
+      {
+        "name": "Patric Knowles",
+        "character": "Will Scarlett",
+        "photo": "https://image.tmdb.org/t/p/w500/4X3rTHSrPXO4iZ6o0ibcQNV2AIW.jpg"
+      },
+      {
+        "name": "Eugene Pallette",
+        "character": "Friar Tuck",
+        "photo": "https://image.tmdb.org/t/p/w500/y3n1c9qjmJzGeZWihwm0QWlmDoR.jpg"
+      },
+      {
+        "name": "Alan Hale",
+        "character": "Little John",
+        "photo": "https://image.tmdb.org/t/p/w500/e90MwAMkxjDqr3wOnOhDAjvylW5.jpg"
+      },
+      {
+        "name": "Melville Cooper",
+        "character": "High Sheriff of Nottingham",
+        "photo": "https://image.tmdb.org/t/p/w500/qtrkqGRWA1kmud8NG3W44cpjIHc.jpg"
+      },
+      {
+        "name": "Ian Hunter",
+        "character": "King Richard the Lion-Heart",
+        "photo": "https://image.tmdb.org/t/p/w500/yiSGJGTyww5YQwi9PYS96nefkOw.jpg"
+      },
+      {
+        "name": "Una O'Connor",
+        "character": "Bess",
+        "photo": "https://image.tmdb.org/t/p/w500/8XqwWhajcr80B4rqZD58ZnPCO52.jpg"
+      },
+      {
+        "name": "Herbert Mundin",
+        "character": "Much",
+        "photo": "https://image.tmdb.org/t/p/w500/3aXh1VxGhVLCqLEBXUyoJK6TlIz.jpg"
+      },
+      {
+        "name": "Montagu Love",
+        "character": "Bishop of the Black Canons",
+        "photo": "https://image.tmdb.org/t/p/w500/aCOahFpYdCKMOg8RO9jMsFOA5xx.jpg"
+      }
+    ],
+    "director": [
+      "Michael Curtiz",
+      "William Keighley"
+    ]
   }
 }

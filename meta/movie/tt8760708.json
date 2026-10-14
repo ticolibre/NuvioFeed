@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Allison Williams",
+      "Violet McGraw",
+      "Amie Donald",
+      "Jenna Davis",
+      "Ronny Chieng",
+      "Brian Jordan Alvarez",
+      "Jen Van Epps",
+      "Stephane Garneau-Monten",
+      "Lori Dungey",
+      "Amy Usherwood",
+      "Jack Cassidy",
+      "Michael Saccente"
+    ],
+    "app_cast": [
+      {
+        "name": "Allison Williams",
+        "character": "Gemma",
+        "photo": "https://image.tmdb.org/t/p/w500/5Jy9HELKS1OYg7moRl8870OSfJq.jpg"
+      },
+      {
+        "name": "Violet McGraw",
+        "character": "Cady",
+        "photo": "https://image.tmdb.org/t/p/w500/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
+      },
+      {
+        "name": "Amie Donald",
+        "character": "M3gan",
+        "photo": "https://image.tmdb.org/t/p/w500/dHnCD1oGVFEtnjskNQYO6sB5uSS.jpg"
+      },
+      {
+        "name": "Jenna Davis",
+        "character": "M3gan (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/4l5Ac5heS8pVNOtHwyjaYkgp6uF.jpg"
+      },
+      {
+        "name": "Ronny Chieng",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/yRUGjqALyg1LcJO75cO58cVJ2ud.jpg"
+      },
+      {
+        "name": "Brian Jordan Alvarez",
+        "character": "Cole",
+        "photo": "https://image.tmdb.org/t/p/w500/fKOHVfG2TCmzcRdJhjkUgL2LJcz.jpg"
+      },
+      {
+        "name": "Jen Van Epps",
+        "character": "Tess",
+        "photo": "https://image.tmdb.org/t/p/w500/pI18BVf1c6frUMoXj2bV82NEiLE.jpg"
+      },
+      {
+        "name": "Stephane Garneau-Monten",
+        "character": "Kurt",
+        "photo": "https://image.tmdb.org/t/p/w500/9wIbVsGkKeW0aSVwqxMD6nUFFeq.jpg"
+      },
+      {
+        "name": "Lori Dungey",
+        "character": "Celia",
+        "photo": "https://image.tmdb.org/t/p/w500/4xGZ5r6XYUYgwFWh9LANgA2qan4.jpg"
+      },
+      {
+        "name": "Amy Usherwood",
+        "character": "Lydia",
+        "photo": "https://image.tmdb.org/t/p/w500/zkdFl12MGCyabhF9Z5yPo268GzW.jpg"
+      },
+      {
+        "name": "Jack Cassidy",
+        "character": "Brandon",
+        "photo": "https://image.tmdb.org/t/p/w500/wthieh0WTF98mXfZDwVrocXULPj.jpg"
+      },
+      {
+        "name": "Michael Saccente",
+        "character": "Greg",
+        "photo": "https://image.tmdb.org/t/p/w500/iSOWUE2HzsR4KHBqzkRcvDkgb5H.jpg"
+      }
+    ],
+    "director": [
+      "Gerard Johnstone"
+    ]
   }
 }

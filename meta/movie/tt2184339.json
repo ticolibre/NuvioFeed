@@ -19,6 +19,85 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Ethan Hawke",
+      "Lena Headey",
+      "Max Burkholder",
+      "Adelaide Kane",
+      "Edwin Hodge",
+      "Rhys Wakefield",
+      "Tony Oller",
+      "Arija Bareikis",
+      "Tom Yi",
+      "Chris Mulkey",
+      "Tisha French",
+      "Dana Bunch"
+    ],
+    "app_cast": [
+      {
+        "name": "Ethan Hawke",
+        "character": "James Sandin",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "character": "Mary Sandin",
+        "photo": "https://image.tmdb.org/t/p/w500/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Max Burkholder",
+        "character": "Charlie Sandin",
+        "photo": "https://image.tmdb.org/t/p/w500/8uNNDZPSxLsNetHPl1zxMwKULTC.jpg"
+      },
+      {
+        "name": "Adelaide Kane",
+        "character": "Zoey Sandin",
+        "photo": "https://image.tmdb.org/t/p/w500/kkdHJejW6doFHa32mKeB07TSywu.jpg"
+      },
+      {
+        "name": "Edwin Hodge",
+        "character": "Bloody Stranger",
+        "photo": "https://image.tmdb.org/t/p/w500/lkouUtGzfgUPUj1LP8cEk8yvKXo.jpg"
+      },
+      {
+        "name": "Rhys Wakefield",
+        "character": "Polite Leader",
+        "photo": "https://image.tmdb.org/t/p/w500/wqg6qaNkYUMviXz7irNWJGDdeZB.jpg"
+      },
+      {
+        "name": "Tony Oller",
+        "character": "Henry",
+        "photo": "https://image.tmdb.org/t/p/w500/rQU8dHYLIMgGGkWYuGPg1NA7h2w.jpg"
+      },
+      {
+        "name": "Arija Bareikis",
+        "character": "Mrs. Grace Ferrin",
+        "photo": "https://image.tmdb.org/t/p/w500/vwiUbKHamFNfghWeAccw9OUVx9I.jpg"
+      },
+      {
+        "name": "Tom Yi",
+        "character": "Mr. Cali",
+        "photo": "https://image.tmdb.org/t/p/w500/m7nvQ2EZ1D1S500qDmYeoOdv3Ge.jpg"
+      },
+      {
+        "name": "Chris Mulkey",
+        "character": "Mr. Halverson",
+        "photo": "https://image.tmdb.org/t/p/w500/kpJid21QcIBGvwP0Bddvw0p8wEl.jpg"
+      },
+      {
+        "name": "Tisha French",
+        "character": "Mrs. Halverson",
+        "photo": "https://image.tmdb.org/t/p/w500/lhAu5IPZQuDjhw95aAsxDKNdFlR.jpg"
+      },
+      {
+        "name": "Dana Bunch",
+        "character": "Mr. Ferrin",
+        "photo": "https://image.tmdb.org/t/p/w500/6nfoiFhqrFphaD2FNMAmEYWk4G1.jpg"
+      }
+    ],
+    "director": [
+      "James DeMonaco"
+    ]
   }
 }

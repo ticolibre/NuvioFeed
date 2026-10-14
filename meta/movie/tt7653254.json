@@ -17,6 +17,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Adam Driver",
+      "Scarlett Johansson",
+      "Laura Dern",
+      "Alan Alda",
+      "Ray Liotta",
+      "Julie Hagerty",
+      "Merritt Wever",
+      "Azhy Robertson",
+      "Wallace Shawn",
+      "Martha Kelly",
+      "Mark O'Brien",
+      "Julia Greer"
+    ],
+    "app_cast": [
+      {
+        "name": "Adam Driver",
+        "character": "Charlie Barber",
+        "photo": "https://image.tmdb.org/t/p/w500/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Nicole Barber",
+        "photo": "https://image.tmdb.org/t/p/w500/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Nora Fanshaw",
+        "photo": "https://image.tmdb.org/t/p/w500/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Alan Alda",
+        "character": "Bert Spitz",
+        "photo": "https://image.tmdb.org/t/p/w500/a5tOOHdsrKSabKwdzDOYqeTp446.jpg"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Jay Marotta",
+        "photo": "https://image.tmdb.org/t/p/w500/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+      },
+      {
+        "name": "Julie Hagerty",
+        "character": "Sandra",
+        "photo": "https://image.tmdb.org/t/p/w500/bQZ0bcFNyE4a3GDNfYMmfO7eWMl.jpg"
+      },
+      {
+        "name": "Merritt Wever",
+        "character": "Cassie",
+        "photo": "https://image.tmdb.org/t/p/w500/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+      },
+      {
+        "name": "Azhy Robertson",
+        "character": "Henry Barber",
+        "photo": "https://image.tmdb.org/t/p/w500/eTTpOO97m9JLwKjWD2ByjKJPDPr.jpg"
+      },
+      {
+        "name": "Wallace Shawn",
+        "character": "Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        "name": "Martha Kelly",
+        "character": "The Evaluator",
+        "photo": "https://image.tmdb.org/t/p/w500/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+      },
+      {
+        "name": "Mark O'Brien",
+        "character": "Carter Mitchum",
+        "photo": "https://image.tmdb.org/t/p/w500/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+      },
+      {
+        "name": "Julia Greer",
+        "character": "Street Solicitor #1",
+        "photo": "https://image.tmdb.org/t/p/w500/41E8iSP0fqqwoDmsPMUWnEtPME2.jpg"
+      }
+    ],
+    "director": [
+      "Noah Baumbach"
+    ]
   }
 }

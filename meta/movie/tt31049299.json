@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Ben Affleck",
+      "Kerry Washington",
+      "Gillian Anderson",
+      "Steven Yeun",
+      "Adriana Paz",
+      "Luis Gerardo Méndez",
+      "Christopher Woodley",
+      "Jacob Estrada",
+      "Ray Fisher",
+      "Taylor Cooper",
+      "Chris Gann",
+      "Matt Gerald"
+    ],
+    "app_cast": [
+      {
+        "name": "Ben Affleck",
+        "character": "Mark Kimball",
+        "photo": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+      },
+      {
+        "name": "Kerry Washington",
+        "character": "Abigail Kimball",
+        "photo": "https://image.tmdb.org/t/p/w500/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+      },
+      {
+        "name": "Gillian Anderson",
+        "character": "Dayle Burton",
+        "photo": "https://image.tmdb.org/t/p/w500/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+      },
+      {
+        "name": "Steven Yeun",
+        "character": "Sam Allison",
+        "photo": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+      },
+      {
+        "name": "Adriana Paz",
+        "character": "Cecilia Trujillo",
+        "photo": "https://image.tmdb.org/t/p/w500/aUBNKmudV1CCMUHskWemg58vc3n.jpg"
+      },
+      {
+        "name": "Luis Gerardo Méndez",
+        "character": "Ramon",
+        "photo": "https://image.tmdb.org/t/p/w500/uV8XXAlTxNFsD4sBzCHsgo5MpKZ.jpg"
+      },
+      {
+        "name": "Christopher Woodley",
+        "character": "Denny Kimball",
+        "photo": "https://image.tmdb.org/t/p/w500/7qIR7rpHoQDUjtW0PUxPAvD2znu.jpg"
+      },
+      {
+        "name": "Jacob Estrada",
+        "character": "Hector",
+        "photo": "https://image.tmdb.org/t/p/w500/eai64zk7gMEyqOnK28r7P26oO9d.jpg"
+      },
+      {
+        "name": "Ray Fisher",
+        "character": "Ron Sperling",
+        "photo": "https://image.tmdb.org/t/p/w500/310snvA05xDOQZDn2fJSp242GHw.jpg"
+      },
+      {
+        "name": "Taylor Cooper",
+        "character": "Hannah",
+        "photo": "https://image.tmdb.org/t/p/w500/ai4yynRG9h8VASG76NZQgnj2Kx1.jpg"
+      },
+      {
+        "name": "Chris Gann",
+        "character": "Rand",
+        "photo": "https://image.tmdb.org/t/p/w500/jX73lEGi5TNjordeEEZRKjqGL9x.jpg"
+      },
+      {
+        "name": "Matt Gerald",
+        "character": "Kidnapper / James Bureaux",
+        "photo": "https://image.tmdb.org/t/p/w500/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg"
+      }
+    ],
+    "director": [
+      "Ben Affleck"
+    ]
   }
 }

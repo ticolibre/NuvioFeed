@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Cher",
+      "Nicolas Cage",
+      "Vincent Gardenia",
+      "Olympia Dukakis",
+      "Danny Aiello",
+      "Julie Bovasso",
+      "John Mahoney",
+      "Louis Guss",
+      "Feodor Chaliapin Jr.",
+      "Anita Gillette",
+      "Leonardo Cimino",
+      "Paula Trueman"
+    ],
+    "app_cast": [
+      {
+        "name": "Cher",
+        "character": "Loretta Castorini",
+        "photo": "https://image.tmdb.org/t/p/w500/yDglV70XMu2cBWZigp5Jxd4etfv.jpg"
+      },
+      {
+        "name": "Nicolas Cage",
+        "character": "Ronny Cammareri",
+        "photo": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+      },
+      {
+        "name": "Vincent Gardenia",
+        "character": "Cosmo Castorini",
+        "photo": "https://image.tmdb.org/t/p/w500/xoJsXDJTNV4MUCqciN3ThcQrPdP.jpg"
+      },
+      {
+        "name": "Olympia Dukakis",
+        "character": "Rose Castorini",
+        "photo": "https://image.tmdb.org/t/p/w500/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+      },
+      {
+        "name": "Danny Aiello",
+        "character": "Mr. Johnny Cammareri",
+        "photo": "https://image.tmdb.org/t/p/w500/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+      },
+      {
+        "name": "Julie Bovasso",
+        "character": "Rita Cappomaggi",
+        "photo": "https://image.tmdb.org/t/p/w500/q0VH5NSnsHnhgZxe6SufKQ63Y6Q.jpg"
+      },
+      {
+        "name": "John Mahoney",
+        "character": "Perry",
+        "photo": "https://image.tmdb.org/t/p/w500/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+      },
+      {
+        "name": "Louis Guss",
+        "character": "Raymond Capomaggi",
+        "photo": "https://image.tmdb.org/t/p/w500/hz5Akuh4QcqitlifYwDiZ9ut6Tr.jpg"
+      },
+      {
+        "name": "Feodor Chaliapin Jr.",
+        "character": "Old Man",
+        "photo": "https://image.tmdb.org/t/p/w500/5UGVHeLTHgKyO9SiJ4rrtpRWQHI.jpg"
+      },
+      {
+        "name": "Anita Gillette",
+        "character": "Mona",
+        "photo": "https://image.tmdb.org/t/p/w500/l3L12TDB1napZ9NeUgJbKIG4V4E.jpg"
+      },
+      {
+        "name": "Leonardo Cimino",
+        "character": "Felix",
+        "photo": "https://image.tmdb.org/t/p/w500/5SOh1zLMevY2O1AW3HiV1Mf4t2h.jpg"
+      },
+      {
+        "name": "Paula Trueman",
+        "character": "Lucy",
+        "photo": "https://image.tmdb.org/t/p/w500/38tYhKFOAenjMqQdQYHa12cvGvE.jpg"
+      }
+    ],
+    "director": [
+      "Norman Jewison"
+    ]
   }
 }

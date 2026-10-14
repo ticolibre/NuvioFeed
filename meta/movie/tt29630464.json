@@ -18,6 +18,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Lyndsy Fonseca",
+      "Russ",
+      "Tom Cavanagh",
+      "Hunter King",
+      "Joseph Lee Anderson",
+      "Rob Riggle",
+      "Brian Quinn",
+      "Matt Biedel",
+      "James Murray",
+      "Dee Freeman",
+      "T-Pain",
+      "Tristan Wilder Hallett"
+    ],
+    "app_cast": [
+      {
+        "name": "Lyndsy Fonseca",
+        "character": "Megan Forrester",
+        "photo": "https://image.tmdb.org/t/p/w500/xPbbiLpUpmaHIVnyR3BAfG1tm5S.jpg"
+      },
+      {
+        "name": "Russ",
+        "character": "Ricky Vargas",
+        "photo": "https://image.tmdb.org/t/p/w500/mHBSird3BUr2Ezuw6bQunsWgeVt.jpg"
+      },
+      {
+        "name": "Tom Cavanagh",
+        "character": "Pastor Rizzo",
+        "photo": "https://image.tmdb.org/t/p/w500/ySArFxNLO43QJsWBUQ9I85TmnqW.jpg"
+      },
+      {
+        "name": "Hunter King",
+        "character": "Emma Rizzo",
+        "photo": "https://image.tmdb.org/t/p/w500/7w2B5PtjSZe64ZzDuf7S3JNAOCx.jpg"
+      },
+      {
+        "name": "Joseph Lee Anderson",
+        "character": "Ryan Stark",
+        "photo": "https://image.tmdb.org/t/p/w500/3u6LOjmlhjvhXsLFJdXieBZmJaU.jpg"
+      },
+      {
+        "name": "Rob Riggle",
+        "character": "Paul DeLuca",
+        "photo": "https://image.tmdb.org/t/p/w500/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+      },
+      {
+        "name": "Brian Quinn",
+        "character": "Ranger Wright",
+        "photo": "https://image.tmdb.org/t/p/w500/qnF6WjWcZtnlKSrFdmPnjODqckF.jpg"
+      },
+      {
+        "name": "Matt Biedel",
+        "character": "Mike Forrester",
+        "photo": "https://image.tmdb.org/t/p/w500/o0ngbxhq1oKEHPUk1EPazkd6oVa.jpg"
+      },
+      {
+        "name": "James Murray",
+        "character": "D. Chiggins",
+        "photo": "https://image.tmdb.org/t/p/w500/mgHpnrgY4M56hgHQ5HB4JgtAcSO.jpg"
+      },
+      {
+        "name": "Dee Freeman",
+        "character": "Maryanne Winston",
+        "photo": "https://image.tmdb.org/t/p/w500/kRoKXkLWgjS1GpbLdo60ZpYusej.jpg"
+      },
+      {
+        "name": "T-Pain",
+        "character": "Joey Di Rigolo",
+        "photo": "https://image.tmdb.org/t/p/w500/cYMkeVg7gPXI49iWpQ22MgXYzyr.jpg"
+      },
+      {
+        "name": "Tristan Wilder Hallett",
+        "character": "Ethan Forrester",
+        "photo": "https://image.tmdb.org/t/p/w500/fJ5I18RfDKeievC8W36PhzYGtku.jpg"
+      }
+    ],
+    "director": [
+      "Maclain Nelson"
+    ]
   }
 }

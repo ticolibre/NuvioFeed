@@ -19,6 +19,78 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Wendell B. Harris Jr.",
+      "Angela Leslie",
+      "Amina Fakir",
+      "Paula McGee",
+      "Anthony Ennis",
+      "Davon Kiley",
+      "Timothy Alvaro",
+      "Renauld Bailleux",
+      "William Ballenger",
+      "Lynn Barbee",
+      "Jerome Barney",
+      "Patrick Barrie"
+    ],
+    "app_cast": [
+      {
+        "name": "Wendell B. Harris Jr.",
+        "character": "William Douglas Street",
+        "photo": "https://image.tmdb.org/t/p/w500/hSmgwlMYlqsfQONOZTCC1P2CcAo.jpg"
+      },
+      {
+        "name": "Angela Leslie",
+        "character": "Gabrielle",
+        "photo": "https://image.tmdb.org/t/p/w500/76NU5EUceleyUmfN2Kbb65kJUVQ.jpg"
+      },
+      {
+        "name": "Amina Fakir",
+        "character": "Tatiana",
+        "photo": "https://image.tmdb.org/t/p/w500/eK4jIpsoPvxplk9AcQ9gsRJhZKl.jpg"
+      },
+      {
+        "name": "Paula McGee",
+        "character": "Herself",
+        "photo": "https://image.tmdb.org/t/p/w500/5U9pyJcNNFJn13SGwfDsZhUSgV1.jpg"
+      },
+      {
+        "name": "Anthony Ennis",
+        "character": "Curtis / Prelude Narration",
+        "photo": "https://image.tmdb.org/t/p/w500/r79uleveSd0NQbh3g2BSlQwpaPB.jpg"
+      },
+      {
+        "name": "Davon Kiley",
+        "character": "Dr. Hand"
+      },
+      {
+        "name": "Timothy Alvaro",
+        "character": "Brian Whitaker, Detroit Human Rights Commission"
+      },
+      {
+        "name": "Renauld Bailleux",
+        "character": "Raoul the Belgian"
+      },
+      {
+        "name": "William Ballenger",
+        "character": "Attorney Barrett, The Head Honcho"
+      },
+      {
+        "name": "Lynn Barbee",
+        "character": "Fable"
+      },
+      {
+        "name": "Jerome Barney",
+        "character": "Tall Arresting Policeman"
+      },
+      {
+        "name": "Patrick Barrie",
+        "character": "Marie Antoinette"
+      }
+    ],
+    "director": [
+      "Wendell B. Harris Jr."
+    ]
   }
 }

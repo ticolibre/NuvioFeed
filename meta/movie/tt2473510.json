@@ -18,6 +18,85 @@
           "rating": "5.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Chris J. Murray",
+      "Brit Shaw",
+      "Ivy George",
+      "Dan Gill",
+      "Olivia Taylor Dudley",
+      "Chloe Csengery",
+      "Jessica Tyler Brown",
+      "Don McManus",
+      "Michael Krawic",
+      "Hallie Foote",
+      "Aiden Lovekamp",
+      "Cara Pifko"
+    ],
+    "app_cast": [
+      {
+        "name": "Chris J. Murray",
+        "character": "Ryan",
+        "photo": "https://image.tmdb.org/t/p/w500/6D6TL8SmpECyBYAsYnqtdImU2rG.jpg"
+      },
+      {
+        "name": "Brit Shaw",
+        "character": "Emily",
+        "photo": "https://image.tmdb.org/t/p/w500/bfxu8bpzXc273Uamnviada7rh3y.jpg"
+      },
+      {
+        "name": "Ivy George",
+        "character": "Leila",
+        "photo": "https://image.tmdb.org/t/p/w500/dNN7foEH43717FlKOR0soQ0trc9.jpg"
+      },
+      {
+        "name": "Dan Gill",
+        "character": "Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/5kIX2YA95ixPL95RafnI7UOR2pX.jpg"
+      },
+      {
+        "name": "Olivia Taylor Dudley",
+        "character": "Skyler",
+        "photo": "https://image.tmdb.org/t/p/w500/dcYv3aYSMNbGcYHehUjeEg1UwqY.jpg"
+      },
+      {
+        "name": "Chloe Csengery",
+        "character": "Katie",
+        "photo": "https://image.tmdb.org/t/p/w500/jEXZlunoXQv1SVXVmCnRwZj4auv.jpg"
+      },
+      {
+        "name": "Jessica Tyler Brown",
+        "character": "Kristi",
+        "photo": "https://image.tmdb.org/t/p/w500/g4hKYEa0yL3gQwpbRY6bmGvnzCy.jpg"
+      },
+      {
+        "name": "Don McManus",
+        "character": "Kent",
+        "photo": "https://image.tmdb.org/t/p/w500/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg"
+      },
+      {
+        "name": "Michael Krawic",
+        "character": "Father Todd",
+        "photo": "https://image.tmdb.org/t/p/w500/hc6O2B8muO2je43LHmxK4yDK8ei.jpg"
+      },
+      {
+        "name": "Hallie Foote",
+        "character": "Grandma Lois",
+        "photo": "https://image.tmdb.org/t/p/w500/ahyy93tNJ3rx77dtIm7OSWRu9tD.jpg"
+      },
+      {
+        "name": "Aiden Lovekamp",
+        "character": "Hunter Rey",
+        "photo": "https://image.tmdb.org/t/p/w500/ArVLQOI1UMcPjoakXCHIrZYFyVp.jpg"
+      },
+      {
+        "name": "Cara Pifko",
+        "character": "Laura",
+        "photo": "https://image.tmdb.org/t/p/w500/oe6Xx56bpVYpcTJJNJFbzN0PWfA.jpg"
+      }
+    ],
+    "director": [
+      "Gregory Plotkin"
+    ]
   }
 }

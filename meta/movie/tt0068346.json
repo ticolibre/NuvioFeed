@@ -18,6 +18,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Gian Maria Volonté",
+      "Luigi Squarzina",
+      "Peter Baldwin",
+      "Renato Romano",
+      "Franco Graziosi",
+      "Gianfranco Ombuen",
+      "Elio Jotta",
+      "Luciano Colitti",
+      "Edda Ferronao",
+      "Accursio Di Leo",
+      "Terenzio Cordova",
+      "Giuseppe Lo Presti"
+    ],
+    "app_cast": [
+      {
+        "name": "Gian Maria Volonté",
+        "character": "Enrico Mattei",
+        "photo": "https://image.tmdb.org/t/p/w500/xPwxiUgSnvqMvPTm2TlqTUskOJ.jpg"
+      },
+      {
+        "name": "Luigi Squarzina",
+        "character": "liberal journalist",
+        "photo": "https://image.tmdb.org/t/p/w500/8hybRIVRRdeaTqE6mBTK4TnqwZz.jpg"
+      },
+      {
+        "name": "Peter Baldwin",
+        "character": "William McHale",
+        "photo": "https://image.tmdb.org/t/p/w500/2eJb5l3zPRgWvidF39CsHLCb8tV.jpg"
+      },
+      {
+        "name": "Renato Romano",
+        "character": "journalist",
+        "photo": "https://image.tmdb.org/t/p/w500/bq8RQPRY8LBBKxg3GqX7hT8axjr.jpg"
+      },
+      {
+        "name": "Franco Graziosi",
+        "character": "Minister of State partecipations",
+        "photo": "https://image.tmdb.org/t/p/w500/4NeiS1GuniV5vduwrlrpsnNTIyU.jpg"
+      },
+      {
+        "name": "Gianfranco Ombuen",
+        "character": "Mr. Ferrari, the engineer",
+        "photo": "https://image.tmdb.org/t/p/w500/sp0aFc60mGjAOhE4kavisf63eKZ.jpg"
+      },
+      {
+        "name": "Elio Jotta",
+        "character": "head of the Committee of Inquiry",
+        "photo": "https://image.tmdb.org/t/p/w500/c96oGMrk01ADmLmaaypQfDTSytm.jpg"
+      },
+      {
+        "name": "Luciano Colitti",
+        "character": "Irnerio Bertuzzi"
+      },
+      {
+        "name": "Edda Ferronao",
+        "character": "Mrs. Mattei",
+        "photo": "https://image.tmdb.org/t/p/w500/xMcGTfm3ZTiOPhEtMxe2TFapktB.jpg"
+      },
+      {
+        "name": "Accursio Di Leo",
+        "character": "Sicilian character",
+        "photo": "https://image.tmdb.org/t/p/w500/ej2sgz6wIEvLAHfBXW0S7snL0O3.jpg"
+      },
+      {
+        "name": "Terenzio Cordova",
+        "character": "police officer",
+        "photo": "https://image.tmdb.org/t/p/w500/3IfRp7hvEWSQwisSH4kHkjLHp0V.jpg"
+      },
+      {
+        "name": "Giuseppe Lo Presti",
+        "character": "Sicilian character",
+        "photo": "https://image.tmdb.org/t/p/w500/nwtINkLN3NCuYfHVV9fhv2THPxf.jpg"
+      }
+    ],
+    "director": [
+      "Francesco Rosi"
+    ]
   }
 }

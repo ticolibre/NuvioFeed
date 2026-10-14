@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael Douglas",
+      "Benicio del Toro",
+      "Catherine Zeta-Jones",
+      "Erika Christensen",
+      "Don Cheadle",
+      "Jacob Vargas",
+      "Miguel Ferrer",
+      "Luis Guzmán",
+      "Topher Grace",
+      "Tomas Milian",
+      "Clifton Collins Jr.",
+      "Amy Irving"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael Douglas",
+        "character": "Robert Wakefield",
+        "photo": "https://image.tmdb.org/t/p/w500/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Javier Rodriguez",
+        "photo": "https://image.tmdb.org/t/p/w500/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "character": "Helena Ayala",
+        "photo": "https://image.tmdb.org/t/p/w500/2fAo0jWy8zPl9jgR4DH5nLyL8Xa.jpg"
+      },
+      {
+        "name": "Erika Christensen",
+        "character": "Caroline Wakefield",
+        "photo": "https://image.tmdb.org/t/p/w500/2QQJgrGVe3Fr8x7y50dBpN2g9lS.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "Montel Gordon",
+        "photo": "https://image.tmdb.org/t/p/w500/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+      },
+      {
+        "name": "Jacob Vargas",
+        "character": "Manolo Sanchez",
+        "photo": "https://image.tmdb.org/t/p/w500/hq5SIxyGHGTBCxc9LPpyeHmOjkU.jpg"
+      },
+      {
+        "name": "Miguel Ferrer",
+        "character": "Eduardo Ruiz",
+        "photo": "https://image.tmdb.org/t/p/w500/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+      },
+      {
+        "name": "Luis Guzmán",
+        "character": "Ray Castro",
+        "photo": "https://image.tmdb.org/t/p/w500/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Seth Abrahms",
+        "photo": "https://image.tmdb.org/t/p/w500/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+      },
+      {
+        "name": "Tomas Milian",
+        "character": "Gen. Arturo Salazar",
+        "photo": "https://image.tmdb.org/t/p/w500/4kJLJS71fMyiA7lD685pCtZlljR.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Francisco Flores",
+        "photo": "https://image.tmdb.org/t/p/w500/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+      },
+      {
+        "name": "Amy Irving",
+        "character": "Barbara Wakefield",
+        "photo": "https://image.tmdb.org/t/p/w500/dGPkygyZ8F5lKJyiuqBLs3WveeF.jpg"
+      }
+    ],
+    "director": [
+      "Steven Soderbergh"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Maurice Chevalier",
+      "Jeanette MacDonald",
+      "Genevieve Tobin",
+      "Charles Ruggles",
+      "Roland Young",
+      "Josephine Dunn",
+      "Richard Carle",
+      "Barbara Leonard",
+      "George Barbier",
+      "Lita Chevret",
+      "Sheila Bromley",
+      "Charles Judels"
+    ],
+    "app_cast": [
+      {
+        "name": "Maurice Chevalier",
+        "character": "Dr. Andre Bertier",
+        "photo": "https://image.tmdb.org/t/p/w500/zABRw3iRFqqKV0xB3Z3VcsJDfad.jpg"
+      },
+      {
+        "name": "Jeanette MacDonald",
+        "character": "Colette Bertier",
+        "photo": "https://image.tmdb.org/t/p/w500/b82ADTC3aUKUvdbGIYWHzFO3Ff6.jpg"
+      },
+      {
+        "name": "Genevieve Tobin",
+        "character": "Mitzi Olivier",
+        "photo": "https://image.tmdb.org/t/p/w500/hQsXALJakpFOOvd6T7inVJLs2Lo.jpg"
+      },
+      {
+        "name": "Charles Ruggles",
+        "character": "Adolph",
+        "photo": "https://image.tmdb.org/t/p/w500/auirQUnJ5kKBTl2p6kHtkJBNeo1.jpg"
+      },
+      {
+        "name": "Roland Young",
+        "character": "Professor Olivier",
+        "photo": "https://image.tmdb.org/t/p/w500/hme2CvDcGqdZEsPKcdvhjgEvvDl.jpg"
+      },
+      {
+        "name": "Josephine Dunn",
+        "character": "Mademoiselle Martel",
+        "photo": "https://image.tmdb.org/t/p/w500/1iOqpnIIzUCBvUcpI1Bqzy0Xtof.jpg"
+      },
+      {
+        "name": "Richard Carle",
+        "character": "Henri Dornier - Private Detective",
+        "photo": "https://image.tmdb.org/t/p/w500/y7TVekUSJtf8y8V1UrRlPG71xjq.jpg"
+      },
+      {
+        "name": "Barbara Leonard",
+        "character": "Mitzi's Maid",
+        "photo": "https://image.tmdb.org/t/p/w500/410Byc6G9DaIaFAuO3xAE6iQd2M.jpg"
+      },
+      {
+        "name": "George Barbier",
+        "character": "Police Commissioner",
+        "photo": "https://image.tmdb.org/t/p/w500/dhBDURtUCsFayX2Zx1rglLYgqN1.jpg"
+      },
+      {
+        "name": "Lita Chevret",
+        "character": "Party Guest (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/e2RXzQXGF3qNwPkihn7HyniypzS.jpg"
+      },
+      {
+        "name": "Sheila Bromley",
+        "character": "Colette's Downstairs Maid (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/jTikc3JRMYwG8pl9x5OlpLmi6Bl.jpg"
+      },
+      {
+        "name": "Charles Judels",
+        "character": "Policeman (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/oNmrJvaPBPHeG7qcQE0ed9OPewf.jpg"
+      }
+    ],
+    "director": [
+      "Ernst Lubitsch"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Holland",
+      "Sadie Sink",
+      "Tramell Tillman",
+      "Zendaya",
+      "Jacob Batalon",
+      "Jon Bernthal",
+      "Mark Ruffalo",
+      "Florence Pugh",
+      "Liza Colón-Zayas",
+      "Marisa Tomei",
+      "Naomi Watts",
+      "Michael Mando"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Holland",
+        "character": "Peter Parker / Spider-Man",
+        "photo": "https://image.tmdb.org/t/p/w500/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg"
+      },
+      {
+        "name": "Sadie Sink",
+        "character": "Jean Grey",
+        "photo": "https://image.tmdb.org/t/p/w500/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+      },
+      {
+        "name": "Tramell Tillman",
+        "character": "William 'Bill' Metzger",
+        "photo": "https://image.tmdb.org/t/p/w500/2Uxa2M5HIoEuBb6gVOnNAuyn5wN.jpg"
+      },
+      {
+        "name": "Zendaya",
+        "character": "MJ",
+        "photo": "https://image.tmdb.org/t/p/w500/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg"
+      },
+      {
+        "name": "Jacob Batalon",
+        "character": "Ned Leeds",
+        "photo": "https://image.tmdb.org/t/p/w500/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+      },
+      {
+        "name": "Jon Bernthal",
+        "character": "Frank Castle / Punisher",
+        "photo": "https://image.tmdb.org/t/p/w500/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Bruce Banner / Hulk",
+        "photo": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Yelena Belova / Black Widow",
+        "photo": "https://image.tmdb.org/t/p/w500/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+      },
+      {
+        "name": "Liza Colón-Zayas",
+        "character": "Detective Jean DeWolff",
+        "photo": "https://image.tmdb.org/t/p/w500/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "May Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+      },
+      {
+        "name": "Naomi Watts",
+        "character": "E.V. (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/7ysvff7ZhW388SIh2YjQ0XIryOn.jpg"
+      },
+      {
+        "name": "Michael Mando",
+        "character": "Mac Gargan / Scorpion",
+        "photo": "https://image.tmdb.org/t/p/w500/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+      }
+    ],
+    "director": [
+      "Destin Daniel Cretton"
+    ]
   }
 }

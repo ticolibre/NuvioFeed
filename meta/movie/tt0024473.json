@@ -18,6 +18,83 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Charles Laughton",
+      "Robert Donat",
+      "Franklin Dyall",
+      "Miles Mander",
+      "Laurence Hanray",
+      "William Austin",
+      "John Loder",
+      "Claud Allister",
+      "Gibb McLaughlin",
+      "Sam Livesey",
+      "Merle Oberon",
+      "Wendy Barrie"
+    ],
+    "app_cast": [
+      {
+        "name": "Charles Laughton",
+        "character": "Henry VIII",
+        "photo": "https://image.tmdb.org/t/p/w500/lhk6flmWDZMOLwq8VILMD6jH71F.jpg"
+      },
+      {
+        "name": "Robert Donat",
+        "character": "Thomas Culpeper",
+        "photo": "https://image.tmdb.org/t/p/w500/zIgfKqnrmvsFXnhDpm1S90lHprD.jpg"
+      },
+      {
+        "name": "Franklin Dyall",
+        "character": "Thomas Cromwell",
+        "photo": "https://image.tmdb.org/t/p/w500/q1LqODYAL8tvKBvITTV7JqPw0IX.jpg"
+      },
+      {
+        "name": "Miles Mander",
+        "character": "Wriothesley",
+        "photo": "https://image.tmdb.org/t/p/w500/AnbbuFFGTTAtM2dfi3YAYSfAaXD.jpg"
+      },
+      {
+        "name": "Laurence Hanray",
+        "character": "Archbishop Cranmer",
+        "photo": "https://image.tmdb.org/t/p/w500/n42M7hkDiy8XBnDJantb7E7YYL9.jpg"
+      },
+      {
+        "name": "William Austin",
+        "character": "Duke of Cleves",
+        "photo": "https://image.tmdb.org/t/p/w500/1lGOOMIx5Wd0JFwYCiV9o8GlPru.jpg"
+      },
+      {
+        "name": "John Loder",
+        "character": "Peynell",
+        "photo": "https://image.tmdb.org/t/p/w500/4F6RnLjEuhetDl4qu8QUH3pMrf1.jpg"
+      },
+      {
+        "name": "Claud Allister",
+        "character": "Cornell"
+      },
+      {
+        "name": "Gibb McLaughlin",
+        "character": "The French Executioner",
+        "photo": "https://image.tmdb.org/t/p/w500/mfEfFyjT50lXP0Tjb4z9maUV5bM.jpg"
+      },
+      {
+        "name": "Sam Livesey",
+        "character": "The English Executioner"
+      },
+      {
+        "name": "Merle Oberon",
+        "character": "Anne Boleyn",
+        "photo": "https://image.tmdb.org/t/p/w500/uRc4TzGXojrivskCw37609FcK0i.jpg"
+      },
+      {
+        "name": "Wendy Barrie",
+        "character": "Jane Seymour",
+        "photo": "https://image.tmdb.org/t/p/w500/1xhRhiU95SS6y79v7YBlSN3JuFy.jpg"
+      }
+    ],
+    "director": [
+      "Alexander Korda"
+    ]
   }
 }

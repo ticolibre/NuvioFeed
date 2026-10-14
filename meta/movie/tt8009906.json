@@ -17,6 +17,84 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Ryan Guzman",
+      "Kyle Gallner",
+      "Alix Angelis",
+      "Chris Lew Kum Hoi",
+      "Emma Holzer",
+      "Daniel Hoffmann-Gill",
+      "Joanna David",
+      "Tara Karsian",
+      "Giulia Nahmany",
+      "Amrou Al-Kadhi",
+      "Matt Raimo",
+      "Shvan Aladdin"
+    ],
+    "app_cast": [
+      {
+        "name": "Ryan Guzman",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/w500/8K38d7ciLeMRp9XBcB4yZZL88zz.jpg"
+      },
+      {
+        "name": "Kyle Gallner",
+        "character": "Drew",
+        "photo": "https://image.tmdb.org/t/p/w500/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg"
+      },
+      {
+        "name": "Alix Angelis",
+        "character": "Lane",
+        "photo": "https://image.tmdb.org/t/p/w500/a62IbDYDwmGU361QkbgpMpdCgbu.jpg"
+      },
+      {
+        "name": "Chris Lew Kum Hoi",
+        "character": "Chris",
+        "photo": "https://image.tmdb.org/t/p/w500/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg"
+      },
+      {
+        "name": "Emma Holzer",
+        "character": "Riley",
+        "photo": "https://image.tmdb.org/t/p/w500/dZIlQ9aRuLIwhQzKXH4iovkwILr.jpg"
+      },
+      {
+        "name": "Daniel Hoffmann-Gill",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/cVdWNGUNnleeKIUjPjpwDhE5tqQ.jpg"
+      },
+      {
+        "name": "Joanna David",
+        "character": "Schoolmarm",
+        "photo": "https://image.tmdb.org/t/p/w500/vyxw5MuyLsBeFQJ0TU0RjBfEByd.jpg"
+      },
+      {
+        "name": "Tara Karsian",
+        "character": "Voice of Possessed Lane (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/eAVv6CaQbK4a6TczRVVe6VyhDAK.jpg"
+      },
+      {
+        "name": "Giulia Nahmany",
+        "character": "Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/vHhT80PtKoO7nRQyzATh9GRvehZ.jpg"
+      },
+      {
+        "name": "Amrou Al-Kadhi",
+        "character": "Dante"
+      },
+      {
+        "name": "Matt Raimo",
+        "character": "Derek",
+        "photo": "https://image.tmdb.org/t/p/w500/tqF5UnfeLHhFSjyrIqpbomKdtpD.jpg"
+      },
+      {
+        "name": "Shvan Aladdin",
+        "character": "Faiz",
+        "photo": "https://image.tmdb.org/t/p/w500/zIfYOYMZmtb0ulULHehksjQBQvA.jpg"
+      }
+    ],
+    "director": [
+      "Damien LeVeck"
+    ]
   }
 }

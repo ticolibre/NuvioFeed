@@ -17,6 +17,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Wyatt Russell",
+      "Kerry Condon",
+      "Amélie Hoeferle",
+      "Gavin Warren",
+      "Nancy Lenehan",
+      "Ellie Araiza",
+      "Rahnuma Panthaky",
+      "Eddie Martinez",
+      "Jodi Long",
+      "Aivan Uttapa",
+      "Preston Galli",
+      "Elijah J. Roberts"
+    ],
+    "app_cast": [
+      {
+        "name": "Wyatt Russell",
+        "character": "Ray Waller",
+        "photo": "https://image.tmdb.org/t/p/w500/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Eve Waller",
+        "photo": "https://image.tmdb.org/t/p/w500/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+      },
+      {
+        "name": "Amélie Hoeferle",
+        "character": "Izzy Waller",
+        "photo": "https://image.tmdb.org/t/p/w500/vBNKPHxo86gQOIPpPszueyeI2bt.jpg"
+      },
+      {
+        "name": "Gavin Warren",
+        "character": "Elliot Waller",
+        "photo": "https://image.tmdb.org/t/p/w500/6nUuNaDEPURSFcJDu0QlLpb3uZP.jpg"
+      },
+      {
+        "name": "Nancy Lenehan",
+        "character": "Kay",
+        "photo": "https://image.tmdb.org/t/p/w500/chVVOrraeMfM6UEDB3WfllsxxDJ.jpg"
+      },
+      {
+        "name": "Ellie Araiza",
+        "character": "Angel",
+        "photo": "https://image.tmdb.org/t/p/w500/2X8iYhiOPrwOK51L9bm2GXm43iB.jpg"
+      },
+      {
+        "name": "Rahnuma Panthaky",
+        "character": "Dr. Sridhar",
+        "photo": "https://image.tmdb.org/t/p/w500/5K1Os8pZNB87g65Cyq8RlvAFYj4.jpg"
+      },
+      {
+        "name": "Eddie Martinez",
+        "character": "Coach E",
+        "photo": "https://image.tmdb.org/t/p/w500/77nwrGFFTWa3otlKKfTBxAlMJom.jpg"
+      },
+      {
+        "name": "Jodi Long",
+        "character": "Lucy Summers",
+        "photo": "https://image.tmdb.org/t/p/w500/rLsdDkJMQRGiLfYgfwqQcNW4ZGc.jpg"
+      },
+      {
+        "name": "Aivan Uttapa",
+        "character": "Ty",
+        "photo": "https://image.tmdb.org/t/p/w500/xsejrIaOTRJVL3wmoR3JpcWPTdy.jpg"
+      },
+      {
+        "name": "Preston Galli",
+        "character": "Young Boy in Flashback Scene",
+        "photo": "https://image.tmdb.org/t/p/w500/hohhfSiCYBWNvu8QmWzHJBA3utb.jpg"
+      },
+      {
+        "name": "Elijah J. Roberts",
+        "character": "Ronin",
+        "photo": "https://image.tmdb.org/t/p/w500/5lVSNv9FhALKP41Z8BpxOJpEB2t.jpg"
+      }
+    ],
+    "director": [
+      "Bryce McGuire"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jennifer Lawrence",
+      "Meryl Streep",
+      "Cate Blanchett",
+      "Rob Morgan",
+      "Jonah Hill",
+      "Mark Rylance",
+      "Tyler Perry",
+      "Timothée Chalamet",
+      "Ron Perlman",
+      "Ariana Grande",
+      "Kid Cudi"
+    ],
+    "app_cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Dr. Randall Mindy",
+        "photo": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Jennifer Lawrence",
+        "character": "Kate Dibiasky",
+        "photo": "https://image.tmdb.org/t/p/w500/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "President Orlean",
+        "photo": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Brie Evantee",
+        "photo": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        "name": "Rob Morgan",
+        "character": "Dr. Teddy Oglethorpe",
+        "photo": "https://image.tmdb.org/t/p/w500/ps6wR3JZnk6MY9tbtOLORgadqs6.jpg"
+      },
+      {
+        "name": "Jonah Hill",
+        "character": "Jason Orlean",
+        "photo": "https://image.tmdb.org/t/p/w500/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "Peter Isherwell",
+        "photo": "https://image.tmdb.org/t/p/w500/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Tyler Perry",
+        "character": "Jack Bremmer",
+        "photo": "https://image.tmdb.org/t/p/w500/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Yule",
+        "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+      },
+      {
+        "name": "Ron Perlman",
+        "character": "Benedict Drask",
+        "photo": "https://image.tmdb.org/t/p/w500/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+      },
+      {
+        "name": "Ariana Grande",
+        "character": "Riley Bina",
+        "photo": "https://image.tmdb.org/t/p/w500/d4HtCXm58GuqVJVGgDKFn0dEj8M.jpg"
+      },
+      {
+        "name": "Kid Cudi",
+        "character": "DJ Chello",
+        "photo": "https://image.tmdb.org/t/p/w500/z5TRmx4WQB9Ge1WQa6VdxBKnwmC.jpg"
+      }
+    ],
+    "director": [
+      "Adam McKay"
+    ]
   }
 }

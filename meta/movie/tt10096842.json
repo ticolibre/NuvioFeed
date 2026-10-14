@@ -19,6 +19,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Ilana Glazer",
+      "Justin Theroux",
+      "Pierce Brosnan",
+      "Zainab Jah",
+      "Gretchen Mol",
+      "Sophia Bush",
+      "Josh Hamilton",
+      "Kelly AuCoin",
+      "Lucy Walters",
+      "Sabina Gadecki",
+      "Francesca Faridany",
+      "Taylor Ortega"
+    ],
+    "app_cast": [
+      {
+        "name": "Ilana Glazer",
+        "character": "Lucia \"Lucy\" Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/etW0YsMvj67bSRuJCsevpAOLsWf.jpg"
+      },
+      {
+        "name": "Justin Theroux",
+        "character": "Adrian Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
+      },
+      {
+        "name": "Pierce Brosnan",
+        "character": "Dr. John Hindle",
+        "photo": "https://image.tmdb.org/t/p/w500/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "name": "Zainab Jah",
+        "character": "Grace Singleton",
+        "photo": "https://image.tmdb.org/t/p/w500/A5YstJLHjhCHWAk0os1D1TrYs1X.jpg"
+      },
+      {
+        "name": "Gretchen Mol",
+        "character": "Dawn",
+        "photo": "https://image.tmdb.org/t/p/w500/e3C1D1I09gtSGy4Ej1ewW2FFoew.jpg"
+      },
+      {
+        "name": "Sophia Bush",
+        "character": "Corgan",
+        "photo": "https://image.tmdb.org/t/p/w500/dm4s2L4bChDZFIpjV01ELeNl05W.jpg"
+      },
+      {
+        "name": "Josh Hamilton",
+        "character": "Greg",
+        "photo": "https://image.tmdb.org/t/p/w500/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+      },
+      {
+        "name": "Kelly AuCoin",
+        "character": "Dirk",
+        "photo": "https://image.tmdb.org/t/p/w500/fxQoskK0bbWybyz88R0aCGBQgFL.jpg"
+      },
+      {
+        "name": "Lucy Walters",
+        "character": "Marcy",
+        "photo": "https://image.tmdb.org/t/p/w500/u5YcKnwWdAudCRHnWltkuEQ469T.jpg"
+      },
+      {
+        "name": "Sabina Gadecki",
+        "character": "Rita",
+        "photo": "https://image.tmdb.org/t/p/w500/bDOxtSQBS0CJE8xwqiXcE6tTh9w.jpg"
+      },
+      {
+        "name": "Francesca Faridany",
+        "character": "Coraline",
+        "photo": "https://image.tmdb.org/t/p/w500/fbXecW3S1MJMWWCIVgWWB3WcGfr.jpg"
+      },
+      {
+        "name": "Taylor Ortega",
+        "character": "Eden",
+        "photo": "https://image.tmdb.org/t/p/w500/wIYSeem4epL3TkZjnYtHqsqOlsF.jpg"
+      }
+    ],
+    "director": [
+      "John Lee"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Cruise",
+      "Renée Zellweger",
+      "Cuba Gooding Jr.",
+      "Kelly Preston",
+      "Jerry O'Connell",
+      "Jay Mohr",
+      "Regina King",
+      "Bonnie Hunt",
+      "Jonathan Lipnicki",
+      "Todd Louiso",
+      "Mark Pellington",
+      "Jeremy Suarez"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Jerry Maguire",
+        "photo": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+      },
+      {
+        "name": "Renée Zellweger",
+        "character": "Dorothy Boyd",
+        "photo": "https://image.tmdb.org/t/p/w500/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Rod Tidwell",
+        "photo": "https://image.tmdb.org/t/p/w500/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+      },
+      {
+        "name": "Kelly Preston",
+        "character": "Avery Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg"
+      },
+      {
+        "name": "Jerry O'Connell",
+        "character": "Frank Cushman",
+        "photo": "https://image.tmdb.org/t/p/w500/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
+      },
+      {
+        "name": "Jay Mohr",
+        "character": "Bob Sugar",
+        "photo": "https://image.tmdb.org/t/p/w500/nk9q6JdcFQMLhaElN4lpUkxuqbd.jpg"
+      },
+      {
+        "name": "Regina King",
+        "character": "Marcee Tidwell",
+        "photo": "https://image.tmdb.org/t/p/w500/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Laurel Boyd",
+        "photo": "https://image.tmdb.org/t/p/w500/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      },
+      {
+        "name": "Jonathan Lipnicki",
+        "character": "Ray Boyd",
+        "photo": "https://image.tmdb.org/t/p/w500/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+      },
+      {
+        "name": "Todd Louiso",
+        "character": "Chad the Nanny",
+        "photo": "https://image.tmdb.org/t/p/w500/dkvuAxxXoCqGQrPNYHlELxL75q2.jpg"
+      },
+      {
+        "name": "Mark Pellington",
+        "character": "Bill Dooler",
+        "photo": "https://image.tmdb.org/t/p/w500/cpJLscf59MCJpmVSlAd0H9oKwiM.jpg"
+      },
+      {
+        "name": "Jeremy Suarez",
+        "character": "Tyson Tidwell",
+        "photo": "https://image.tmdb.org/t/p/w500/j8r6JTIS5lZvoajCiaSyF64gGlg.jpg"
+      }
+    ],
+    "director": [
+      "Cameron Crowe"
+    ]
   }
 }

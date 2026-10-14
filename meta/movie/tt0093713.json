@@ -17,6 +17,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Pelle Hvenegaard",
+      "Max von Sydow",
+      "Erik Paaske",
+      "Björn Granath",
+      "Astrid Villaume",
+      "Axel Strøbye",
+      "Troels Asmussen",
+      "Kristina Törnqvist",
+      "Karen Wegener",
+      "Sofie Gråbøl",
+      "Lars Simonsen",
+      "Buster Larsen"
+    ],
+    "app_cast": [
+      {
+        "name": "Pelle Hvenegaard",
+        "character": "Pelle Karlsson",
+        "photo": "https://image.tmdb.org/t/p/w500/5QXdg2mGPnpeFBUiuO59OZ90GdL.jpg"
+      },
+      {
+        "name": "Max von Sydow",
+        "character": "Lasse Karlsson - Farmhand",
+        "photo": "https://image.tmdb.org/t/p/w500/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
+      },
+      {
+        "name": "Erik Paaske",
+        "character": "Stengården Foreman",
+        "photo": "https://image.tmdb.org/t/p/w500/9So1LdRyCBf3NItqF2TwOC5IYuX.jpg"
+      },
+      {
+        "name": "Björn Granath",
+        "character": "Erik - Swedish Farm Worker",
+        "photo": "https://image.tmdb.org/t/p/w500/x6H9cCe7yModCopeskGdcOKnONX.jpg"
+      },
+      {
+        "name": "Astrid Villaume",
+        "character": "Mrs. Kongstrup",
+        "photo": "https://image.tmdb.org/t/p/w500/wOeZkSo7LcJ7UDug01XZJ1400Id.jpg"
+      },
+      {
+        "name": "Axel Strøbye",
+        "character": "Kongstrup - Kungsgården Landlord",
+        "photo": "https://image.tmdb.org/t/p/w500/l2XkJgwPrCNcpdvCeQQfmKwbt.jpg"
+      },
+      {
+        "name": "Troels Asmussen",
+        "character": "Rud - A Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/a4AOA2MdbiBusdq02Q05dmmnMdF.jpg"
+      },
+      {
+        "name": "Kristina Törnqvist",
+        "character": "Anna - Stengården Maid",
+        "photo": "https://image.tmdb.org/t/p/w500/hpE419fOlkJKXSkfapox4JeMrYv.jpg"
+      },
+      {
+        "name": "Karen Wegener",
+        "character": "Madam Olsen",
+        "photo": "https://image.tmdb.org/t/p/w500/jPz7pveUvXmFRHvKugTXYfLa88o.jpg"
+      },
+      {
+        "name": "Sofie Gråbøl",
+        "character": "Miss Sine - Mrs. Kongstrup's Niece",
+        "photo": "https://image.tmdb.org/t/p/w500/cG3s3Lknb0KjIJgKdroTkMTCi4N.jpg"
+      },
+      {
+        "name": "Lars Simonsen",
+        "character": "Nils Køller - Father of Anna's Children",
+        "photo": "https://image.tmdb.org/t/p/w500/s4F4M7ViAkrY5EETrl6neRmNB4l.jpg"
+      },
+      {
+        "name": "Buster Larsen",
+        "character": "Ole Køller - Nils' Father",
+        "photo": "https://image.tmdb.org/t/p/w500/lxSO5zSVCg2wBS12mIHkoYmjO4V.jpg"
+      }
+    ],
+    "director": [
+      "Bille August"
+    ]
   }
 }

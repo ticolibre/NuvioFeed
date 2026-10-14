@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Tyrone Power",
+      "Gene Tierney",
+      "Herbert Marshall",
+      "Anne Baxter",
+      "Clifton Webb",
+      "John Payne",
+      "Lucile Watson",
+      "Frank Latimore",
+      "Elsa Lanchester",
+      "Fritz Kortner",
+      "John Wengraf",
+      "Cecil Humphreys"
+    ],
+    "app_cast": [
+      {
+        "name": "Tyrone Power",
+        "character": "Larry Darrell",
+        "photo": "https://image.tmdb.org/t/p/w500/iUyYe8JNOegoe0efRja4scocHYq.jpg"
+      },
+      {
+        "name": "Gene Tierney",
+        "character": "Isabel Bradley",
+        "photo": "https://image.tmdb.org/t/p/w500/sexaQ4TPHEnwaiEAGpJDGlmEjF3.jpg"
+      },
+      {
+        "name": "Herbert Marshall",
+        "character": "W. Somerset Maugham",
+        "photo": "https://image.tmdb.org/t/p/w500/r2DrJ6dxBNSjCtP7PRNBsYjbNI2.jpg"
+      },
+      {
+        "name": "Anne Baxter",
+        "character": "Sophie MacDonald",
+        "photo": "https://image.tmdb.org/t/p/w500/mUMKB7ZGzHJ38LpDWnA4VheIGBB.jpg"
+      },
+      {
+        "name": "Clifton Webb",
+        "character": "Elliott Templeton",
+        "photo": "https://image.tmdb.org/t/p/w500/l1QPGO4z93NSfEgcU5c7RQok0dJ.jpg"
+      },
+      {
+        "name": "John Payne",
+        "character": "Gray Maturin",
+        "photo": "https://image.tmdb.org/t/p/w500/sesIuEnKJfbTnf3ds2WSRFsmlGQ.jpg"
+      },
+      {
+        "name": "Lucile Watson",
+        "character": "Louisa Bradley",
+        "photo": "https://image.tmdb.org/t/p/w500/wNBcS1nGUNvKta1jHrnoSdxDUUZ.jpg"
+      },
+      {
+        "name": "Frank Latimore",
+        "character": "Bob MacDonald",
+        "photo": "https://image.tmdb.org/t/p/w500/4yKBJYFW9hXhNZE3qxlKkJzCDtF.jpg"
+      },
+      {
+        "name": "Elsa Lanchester",
+        "character": "Miss Keith",
+        "photo": "https://image.tmdb.org/t/p/w500/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
+      },
+      {
+        "name": "Fritz Kortner",
+        "character": "Kosti",
+        "photo": "https://image.tmdb.org/t/p/w500/9Yj5OwxoFVP8fkBo4Ey89KfCZrL.jpg"
+      },
+      {
+        "name": "John Wengraf",
+        "character": "Joseph - Gray & Isabel's Butler",
+        "photo": "https://image.tmdb.org/t/p/w500/lk8cPT3OgjlhUkud2y4wVMG3imE.jpg"
+      },
+      {
+        "name": "Cecil Humphreys",
+        "character": "Holy Man",
+        "photo": "https://image.tmdb.org/t/p/w500/w0eWAqW7OBIY5cd5xstDdl9q1wa.jpg"
+      }
+    ],
+    "director": [
+      "Edmund Goulding"
+    ]
   }
 }

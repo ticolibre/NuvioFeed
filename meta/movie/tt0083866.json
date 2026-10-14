@@ -19,6 +19,82 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Robert MacNaughton",
+      "Peter Coyote",
+      "Dee Wallace",
+      "Erika Eleniak",
+      "K.C. Martel",
+      "C. Thomas Howell",
+      "Sean Frye",
+      "David M. O'Dell",
+      "Richard Swingler",
+      "Frank Toth"
+    ],
+    "app_cast": [
+      {
+        "name": "Henry Thomas",
+        "character": "Elliott",
+        "photo": "https://image.tmdb.org/t/p/w500/tyTcpTMIAyIIy30u8N59G0PI06f.jpg"
+      },
+      {
+        "name": "Drew Barrymore",
+        "character": "Gertie",
+        "photo": "https://image.tmdb.org/t/p/w500/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg"
+      },
+      {
+        "name": "Robert MacNaughton",
+        "character": "Michael",
+        "photo": "https://image.tmdb.org/t/p/w500/fYsyr42druY9iPNOiH7QsCob2TU.jpg"
+      },
+      {
+        "name": "Peter Coyote",
+        "character": "Keys",
+        "photo": "https://image.tmdb.org/t/p/w500/AglpxXP9wBM567UMGL9DAMbid1V.jpg"
+      },
+      {
+        "name": "Dee Wallace",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg"
+      },
+      {
+        "name": "Erika Eleniak",
+        "character": "Pretty Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg"
+      },
+      {
+        "name": "K.C. Martel",
+        "character": "Greg",
+        "photo": "https://image.tmdb.org/t/p/w500/97MS9dZlwzOQ50O9PHxjykFtAFg.jpg"
+      },
+      {
+        "name": "C. Thomas Howell",
+        "character": "Tyler",
+        "photo": "https://image.tmdb.org/t/p/w500/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+      },
+      {
+        "name": "Sean Frye",
+        "character": "Steve",
+        "photo": "https://image.tmdb.org/t/p/w500/fK5oztH0aqzB2uj8OaULoxi8CBy.jpg"
+      },
+      {
+        "name": "David M. O'Dell",
+        "character": "Schoolboy"
+      },
+      {
+        "name": "Richard Swingler",
+        "character": "Science Teacher"
+      },
+      {
+        "name": "Frank Toth",
+        "character": "Policeman"
+      }
+    ],
+    "director": [
+      "Steven Spielberg"
+    ]
   }
 }

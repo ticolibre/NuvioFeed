@@ -19,6 +19,83 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Shannon Lucio",
+      "Riley Smith",
+      "Christopher Rodriguez Marquette",
+      "Chris Lowell",
+      "Adam Arkin",
+      "Aimee Garcia",
+      "Robert Haley",
+      "Tommy Lafitte",
+      "Christopher Lowell",
+      "Jennifer Massey",
+      "Jeff Monahan",
+      "Alice Eisner"
+    ],
+    "app_cast": [
+      {
+        "name": "Shannon Lucio",
+        "character": "Polly Deely",
+        "photo": "https://image.tmdb.org/t/p/w500/3U8sFUrjXVUP6Wj5Zg1SAFGWHrv.jpg"
+      },
+      {
+        "name": "Riley Smith",
+        "character": "Chauncey Boyd",
+        "photo": "https://image.tmdb.org/t/p/w500/cBLhhvqOQY8g95RaymVbd2Bd6py.jpg"
+      },
+      {
+        "name": "Christopher Rodriguez Marquette",
+        "character": "Carl Jenkins",
+        "photo": "https://image.tmdb.org/t/p/w500/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
+      },
+      {
+        "name": "Chris Lowell",
+        "character": "Tom Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/mRZcivH2VjWRB1mQuOvRuRC2Lll.jpg"
+      },
+      {
+        "name": "Adam Arkin",
+        "character": "Dean Deeley",
+        "photo": "https://image.tmdb.org/t/p/w500/66CugPTyelfdtYe0IV0U0LQP1sA.jpg"
+      },
+      {
+        "name": "Aimee Garcia",
+        "character": "Suzy Winters",
+        "photo": "https://image.tmdb.org/t/p/w500/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
+      },
+      {
+        "name": "Robert Haley",
+        "character": "Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/cf7UhLqiRXB2efOyPHh34dqJhP4.jpg"
+      },
+      {
+        "name": "Tommy Lafitte",
+        "character": "Leroy Dell",
+        "photo": "https://image.tmdb.org/t/p/w500/wXO5rNNDB9QCjTHSPARqsVcUPYc.jpg"
+      },
+      {
+        "name": "Christopher Lowell",
+        "character": "Tom Jackson"
+      },
+      {
+        "name": "Jennifer Massey",
+        "character": "Barbara",
+        "photo": "https://image.tmdb.org/t/p/w500/mh9kIYPPdwmjOswU7yE7zHxdAjC.jpg"
+      },
+      {
+        "name": "Jeff Monahan",
+        "character": "Floyd",
+        "photo": "https://image.tmdb.org/t/p/w500/uimMAMJPmhOPrQ41deHbli63vcE.jpg"
+      },
+      {
+        "name": "Alice Eisner",
+        "character": "Kitchen Server"
+      }
+    ],
+    "director": [
+      "Michael Mayer"
+    ]
   }
 }

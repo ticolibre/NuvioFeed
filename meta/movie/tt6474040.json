@@ -18,6 +18,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Ethan Hawke",
+      "Noomi Rapace",
+      "Mark Strong",
+      "Christopher Heyerdahl",
+      "Bea Santos",
+      "Mark Rendall",
+      "Ian Matthews",
+      "John Ralston",
+      "Shanti Roney",
+      "Christopher Wagelin",
+      "Thorbjørn Harr",
+      "Gustaf Hammarsten"
+    ],
+    "app_cast": [
+      {
+        "name": "Ethan Hawke",
+        "character": "Lars Nystrom",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Noomi Rapace",
+        "character": "Bianca Lind",
+        "photo": "https://image.tmdb.org/t/p/w500/m0J6ZqEyNljqF1DXBoC9DcMStHP.jpg"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "Gunnar Sorensson",
+        "photo": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+      },
+      {
+        "name": "Christopher Heyerdahl",
+        "character": "Chief Mattsson",
+        "photo": "https://image.tmdb.org/t/p/w500/pTPZa3TFIkxRbqM5adXYE51a99s.jpg"
+      },
+      {
+        "name": "Bea Santos",
+        "character": "Klara Mardh",
+        "photo": "https://image.tmdb.org/t/p/w500/OdkauzwhAU5VVFgUW01PahvW1K.jpg"
+      },
+      {
+        "name": "Mark Rendall",
+        "character": "Elov Eriksson",
+        "photo": "https://image.tmdb.org/t/p/w500/4Zcn4hksQgs0sZ1DVZedPVzrgo4.jpg"
+      },
+      {
+        "name": "Ian Matthews",
+        "character": "Detective Halsten Vinter",
+        "photo": "https://image.tmdb.org/t/p/w500/sw5sYeOk1bBD98ADtJSIUzkali4.jpg"
+      },
+      {
+        "name": "John Ralston",
+        "character": "Detective Jakobsson",
+        "photo": "https://image.tmdb.org/t/p/w500/f89otIIkQaqeB1oEoN0l7XWp26n.jpg"
+      },
+      {
+        "name": "Shanti Roney",
+        "character": "Olof Palme",
+        "photo": "https://image.tmdb.org/t/p/w500/59OHttxV6qHxmoCNGyZOmrksv0h.jpg"
+      },
+      {
+        "name": "Christopher Wagelin",
+        "character": "Vincent",
+        "photo": "https://image.tmdb.org/t/p/w500/pqo0mTnRcRvL0zDKaK2SCIxbdPZ.jpg"
+      },
+      {
+        "name": "Thorbjørn Harr",
+        "character": "Christopher Lind",
+        "photo": "https://image.tmdb.org/t/p/w500/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
+      },
+      {
+        "name": "Gustaf Hammarsten",
+        "character": "Taxi Driver",
+        "photo": "https://image.tmdb.org/t/p/w500/aDiOyuZzeyWc1WZLog5qO1nssBS.jpg"
+      }
+    ],
+    "director": [
+      "Robert Budreau"
+    ]
   }
 }

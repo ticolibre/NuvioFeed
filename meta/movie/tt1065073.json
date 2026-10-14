@@ -17,6 +17,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Ellar Coltrane",
+      "Patricia Arquette",
+      "Ethan Hawke",
+      "Lorelei Linklater",
+      "Libby Villari",
+      "Marco Perella",
+      "Brad Hawkins",
+      "Jamie Howard",
+      "Andrew Villarreal",
+      "Jenni Tooley",
+      "Zoe Graham",
+      "Charlie Sexton"
+    ],
+    "app_cast": [
+      {
+        "name": "Ellar Coltrane",
+        "character": "Mason",
+        "photo": "https://image.tmdb.org/t/p/w500/8r78yVw07oR8smO6c3wNpOnUSxT.jpg"
+      },
+      {
+        "name": "Patricia Arquette",
+        "character": "Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "character": "Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Lorelei Linklater",
+        "character": "Samantha",
+        "photo": "https://image.tmdb.org/t/p/w500/8xTFHBYaB0SZT0ZCwUmf9AOczAD.jpg"
+      },
+      {
+        "name": "Libby Villari",
+        "character": "Grandma",
+        "photo": "https://image.tmdb.org/t/p/w500/YjyLmdqVKRkmpkYqn2xVL5EbLO.jpg"
+      },
+      {
+        "name": "Marco Perella",
+        "character": "Professor Bill Welbrock",
+        "photo": "https://image.tmdb.org/t/p/w500/q7vwCX7FBJ05Dl6SvA7MFbt7ULo.jpg"
+      },
+      {
+        "name": "Brad Hawkins",
+        "character": "Jim",
+        "photo": "https://image.tmdb.org/t/p/w500/d5ze33WLuSPlnAkqDhOhV4icRYA.jpg"
+      },
+      {
+        "name": "Jamie Howard",
+        "character": "Mindy",
+        "photo": "https://image.tmdb.org/t/p/w500/vDYMA1CekyHnl7wUkJ4jQ8omRfK.jpg"
+      },
+      {
+        "name": "Andrew Villarreal",
+        "character": "Randy"
+      },
+      {
+        "name": "Jenni Tooley",
+        "character": "Annie",
+        "photo": "https://image.tmdb.org/t/p/w500/kRhCVK9CyIVwndAAJYU1KeVv3y5.jpg"
+      },
+      {
+        "name": "Zoe Graham",
+        "character": "Sheena",
+        "photo": "https://image.tmdb.org/t/p/w500/rrpk2zcnopTAmpHzMY1N8CrgTmK.jpg"
+      },
+      {
+        "name": "Charlie Sexton",
+        "character": "Jimmy",
+        "photo": "https://image.tmdb.org/t/p/w500/lvLDURaLppIO7RtbZlkWEBGyQH1.jpg"
+      }
+    ],
+    "director": [
+      "Richard Linklater"
+    ]
   }
 }

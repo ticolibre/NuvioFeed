@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Rosalind Russell",
+      "Forrest Tucker",
+      "Coral Browne",
+      "Peggy Cass",
+      "Jan Handzlik",
+      "Roger Smith",
+      "Fred Clark",
+      "Connie Gilchrist",
+      "Yuki Shimoda",
+      "Patric Knowles",
+      "Joanna Barnes",
+      "Pippa Scott"
+    ],
+    "app_cast": [
+      {
+        "name": "Rosalind Russell",
+        "character": "Mame Dennis",
+        "photo": "https://image.tmdb.org/t/p/w500/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg"
+      },
+      {
+        "name": "Forrest Tucker",
+        "character": "Beauregard Jackson Pickett Burnside",
+        "photo": "https://image.tmdb.org/t/p/w500/yqdE1cqCXWhLTgIRHDgqHJMrJlY.jpg"
+      },
+      {
+        "name": "Coral Browne",
+        "character": "Vera Charles",
+        "photo": "https://image.tmdb.org/t/p/w500/qedlTPM2tk5ZIcv3y1inUod66tt.jpg"
+      },
+      {
+        "name": "Peggy Cass",
+        "character": "Agnes Gooch",
+        "photo": "https://image.tmdb.org/t/p/w500/e8IDV0HjuXfGlVugDWgnZkWZSge.jpg"
+      },
+      {
+        "name": "Jan Handzlik",
+        "character": "Patrick Dennis - Younger",
+        "photo": "https://image.tmdb.org/t/p/w500/6PHtrerIlZXCg8tKaQtPvhem2gN.jpg"
+      },
+      {
+        "name": "Roger Smith",
+        "character": "Patrick Dennis - Older",
+        "photo": "https://image.tmdb.org/t/p/w500/2WwTalupsrFNGWncnDzvO0bCCdZ.jpg"
+      },
+      {
+        "name": "Fred Clark",
+        "character": "Dwight Babcock",
+        "photo": "https://image.tmdb.org/t/p/w500/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+      },
+      {
+        "name": "Connie Gilchrist",
+        "character": "Norah Muldoon",
+        "photo": "https://image.tmdb.org/t/p/w500/dyqG4TCZkqhehorbLKhtbyDvaDk.jpg"
+      },
+      {
+        "name": "Yuki Shimoda",
+        "character": "Ito",
+        "photo": "https://image.tmdb.org/t/p/w500/8ljPssO2nDpJqdvG1Y23bRbyNDa.jpg"
+      },
+      {
+        "name": "Patric Knowles",
+        "character": "Lindsay Woolsey",
+        "photo": "https://image.tmdb.org/t/p/w500/4X3rTHSrPXO4iZ6o0ibcQNV2AIW.jpg"
+      },
+      {
+        "name": "Joanna Barnes",
+        "character": "Gloria Upson",
+        "photo": "https://image.tmdb.org/t/p/w500/9wGu4Dg1L5dDFPAjjk8CoA8xjN4.jpg"
+      },
+      {
+        "name": "Pippa Scott",
+        "character": "Pegeen Ryan",
+        "photo": "https://image.tmdb.org/t/p/w500/8aY7FTHBHjxiS9m0caOTuQrJxkq.jpg"
+      }
+    ],
+    "director": [
+      "Morton DaCosta"
+    ]
   }
 }

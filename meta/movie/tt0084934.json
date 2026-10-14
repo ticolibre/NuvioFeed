@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Tarık Akan",
+      "Şerif Sezer",
+      "Halil Ergün",
+      "Meral Orhonsay",
+      "Necmettin Çobanoğlu",
+      "Hikmet Çelik",
+      "Tuncay Akça",
+      "Sevda Aktolga",
+      "Güven Şengil",
+      "Hale Akınlı",
+      "Turgut Savaş",
+      "Hikmet Taşdemir"
+    ],
+    "app_cast": [
+      {
+        "name": "Tarık Akan",
+        "character": "Seyit Ali",
+        "photo": "https://image.tmdb.org/t/p/w500/w2SYSwJlrNZESEbUijKtiKFneEw.jpg"
+      },
+      {
+        "name": "Şerif Sezer",
+        "character": "Zînê",
+        "photo": "https://image.tmdb.org/t/p/w500/iNCTcx874hP31X1LmA74DuFDzY5.jpg"
+      },
+      {
+        "name": "Halil Ergün",
+        "character": "Mehmet Salih",
+        "photo": "https://image.tmdb.org/t/p/w500/kCmwIQzhmwY5dUmhSnmfeSveGtu.jpg"
+      },
+      {
+        "name": "Meral Orhonsay",
+        "character": "Emine",
+        "photo": "https://image.tmdb.org/t/p/w500/d4OBx4ln8wfNsEOzB4tu3Ty58jY.jpg"
+      },
+      {
+        "name": "Necmettin Çobanoğlu",
+        "character": "Ömer",
+        "photo": "https://image.tmdb.org/t/p/w500/8Vk1o5Psw3XOkTgvFyWlgHAq3zy.jpg"
+      },
+      {
+        "name": "Hikmet Çelik",
+        "character": "Mevlüt",
+        "photo": "https://image.tmdb.org/t/p/w500/lRUvj7KugAq6tXiv4RaXSEeQrBJ.jpg"
+      },
+      {
+        "name": "Tuncay Akça",
+        "character": "Yusuf",
+        "photo": "https://image.tmdb.org/t/p/w500/38nYf5Wq1ocEf6XeWZkNgfqBREY.jpg"
+      },
+      {
+        "name": "Sevda Aktolga",
+        "character": "Meral",
+        "photo": "https://image.tmdb.org/t/p/w500/or48RbOr1dsTNOVCg9KtcOiyuh4.jpg"
+      },
+      {
+        "name": "Güven Şengil",
+        "character": "Süleyman"
+      },
+      {
+        "name": "Hale Akınlı",
+        "character": "Seyran",
+        "photo": "https://image.tmdb.org/t/p/w500/141OONt2UXObt25idiXy4VsHa0s.jpg"
+      },
+      {
+        "name": "Turgut Savaş",
+        "character": "Zafer",
+        "photo": "https://image.tmdb.org/t/p/w500/f80CyzoEQiG3UYuG7FjJR7VqQOY.jpg"
+      },
+      {
+        "name": "Hikmet Taşdemir",
+        "character": "Sevket",
+        "photo": "https://image.tmdb.org/t/p/w500/z71Yfc6jKiCkQUUIbBPlitmdsyg.jpg"
+      }
+    ],
+    "director": [
+      "Yılmaz Güney",
+      "Şerif Gören"
+    ]
   }
 }

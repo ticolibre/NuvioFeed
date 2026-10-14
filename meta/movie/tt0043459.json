@@ -19,6 +19,84 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Richard Basehart",
+      "Gary Merrill",
+      "Oskar Werner",
+      "Hildegard Knef",
+      "Dominique Blanchar",
+      "O.E. Hasse",
+      "Wilfried Seyferth",
+      "Hans Christian Blech",
+      "Helene Thimig",
+      "George Tyne",
+      "Robert Freitag",
+      "Harold Benedict"
+    ],
+    "app_cast": [
+      {
+        "name": "Richard Basehart",
+        "character": "Lt. Dick Rennick",
+        "photo": "https://image.tmdb.org/t/p/w500/rlk0wF1UbQH7DPGmkXKd1tMzDWo.jpg"
+      },
+      {
+        "name": "Gary Merrill",
+        "character": "Col. Devlin",
+        "photo": "https://image.tmdb.org/t/p/w500/sMmRlBwu1lS8qJW6t9iRNn8qBxA.jpg"
+      },
+      {
+        "name": "Oskar Werner",
+        "character": "Cpl. Karl Maurer - aka Happy",
+        "photo": "https://image.tmdb.org/t/p/w500/qUljBeQUIvRIU6KmcMiBpyx8Er7.jpg"
+      },
+      {
+        "name": "Hildegard Knef",
+        "character": "Hilde",
+        "photo": "https://image.tmdb.org/t/p/w500/4tJPQPXIg89oN51exyA6mCKJmeg.jpg"
+      },
+      {
+        "name": "Dominique Blanchar",
+        "character": "Monique",
+        "photo": "https://image.tmdb.org/t/p/w500/y2HdZG6BMpNk1yosiTw7aP9AXmy.jpg"
+      },
+      {
+        "name": "O.E. Hasse",
+        "character": "Col. Oberst von Ecker",
+        "photo": "https://image.tmdb.org/t/p/w500/gbQudSFv6Io7W6mK5gSPfu8yJqm.jpg"
+      },
+      {
+        "name": "Wilfried Seyferth",
+        "character": "Heinz Scholtz, SS-Mann",
+        "photo": "https://image.tmdb.org/t/p/w500/bSgRSRd4M3a7avM3oDvT2hvYzJ.jpg"
+      },
+      {
+        "name": "Hans Christian Blech",
+        "character": "Sgt. Rudolf Barth - aka Tiger",
+        "photo": "https://image.tmdb.org/t/p/w500/j7UNNNlIX8mr9M6c6c1PE39NNQv.jpg"
+      },
+      {
+        "name": "Helene Thimig",
+        "character": "Fräulein Schneide",
+        "photo": "https://image.tmdb.org/t/p/w500/pLwCYdZj6ZNqxiE8nVmdYp4BbQS.jpg"
+      },
+      {
+        "name": "George Tyne",
+        "character": "Sgt. Griffin",
+        "photo": "https://image.tmdb.org/t/p/w500/qUVWU8q0cMeMzF79q5IWuRaxkce.jpg"
+      },
+      {
+        "name": "Robert Freitag",
+        "character": "Sgt. Paul Richter",
+        "photo": "https://image.tmdb.org/t/p/w500/gzAwPimBpU4N9VTVeIFf0Iby0RT.jpg"
+      },
+      {
+        "name": "Harold Benedict",
+        "character": "Lt. Pete Gevers"
+      }
+    ],
+    "director": [
+      "Anatole Litvak"
+    ]
   }
 }

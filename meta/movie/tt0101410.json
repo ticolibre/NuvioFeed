@@ -19,6 +19,86 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "John Turturro",
+      "John Goodman",
+      "Judy Davis",
+      "Michael Lerner",
+      "John Mahoney",
+      "Tony Shalhoub",
+      "Jon Polito",
+      "Steve Buscemi",
+      "David Warrilow",
+      "Richard Portnow",
+      "Christopher Murney",
+      "I.M. Hobson"
+    ],
+    "app_cast": [
+      {
+        "name": "John Turturro",
+        "character": "Barton Fink",
+        "photo": "https://image.tmdb.org/t/p/w500/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+      },
+      {
+        "name": "John Goodman",
+        "character": "Charlie Meadows",
+        "photo": "https://image.tmdb.org/t/p/w500/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+      },
+      {
+        "name": "Judy Davis",
+        "character": "Audrey Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/yAwsKkca91QJdsf1suUm637mwUx.jpg"
+      },
+      {
+        "name": "Michael Lerner",
+        "character": "Jack Lipnick",
+        "photo": "https://image.tmdb.org/t/p/w500/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
+      },
+      {
+        "name": "John Mahoney",
+        "character": "W.P. Mayhew",
+        "photo": "https://image.tmdb.org/t/p/w500/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+      },
+      {
+        "name": "Tony Shalhoub",
+        "character": "Ben Geisler",
+        "photo": "https://image.tmdb.org/t/p/w500/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+      },
+      {
+        "name": "Jon Polito",
+        "character": "Lou Breeze",
+        "photo": "https://image.tmdb.org/t/p/w500/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Chet",
+        "photo": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+      },
+      {
+        "name": "David Warrilow",
+        "character": "Garland Stanford",
+        "photo": "https://image.tmdb.org/t/p/w500/w6APS9AwQk3WlNLMJ1En0fdYjDL.jpg"
+      },
+      {
+        "name": "Richard Portnow",
+        "character": "Detective Mastrionotti",
+        "photo": "https://image.tmdb.org/t/p/w500/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg"
+      },
+      {
+        "name": "Christopher Murney",
+        "character": "Detective Deutsch",
+        "photo": "https://image.tmdb.org/t/p/w500/2HoXLhK5CTo6TMYUpWZg5NQmd4k.jpg"
+      },
+      {
+        "name": "I.M. Hobson",
+        "character": "Derek",
+        "photo": "https://image.tmdb.org/t/p/w500/iU0BwBTILhQ4qWrDVryxwa1aI7N.jpg"
+      }
+    ],
+    "director": [
+      "Joel Coen",
+      "Ethan Coen"
+    ]
   }
 }

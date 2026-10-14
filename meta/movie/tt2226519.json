@@ -17,6 +17,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Emily Browning",
+      "Cam Gigandet",
+      "Dawn Olivieri",
+      "Xavier Samuel",
+      "Frances Fisher",
+      "Thomas Dekker",
+      "Marlene Forte",
+      "Elizabeth Peña",
+      "Kennedy Waite",
+      "Casey LaBow",
+      "Brandon Jay McLaren",
+      "James Kyson"
+    ],
+    "app_cast": [
+      {
+        "name": "Emily Browning",
+        "character": "Hayley",
+        "photo": "https://image.tmdb.org/t/p/w500/silK3Pdugbf1YOtIdXev1eZxzvF.jpg"
+      },
+      {
+        "name": "Cam Gigandet",
+        "character": "Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+      },
+      {
+        "name": "Dawn Olivieri",
+        "character": "Annie",
+        "photo": "https://image.tmdb.org/t/p/w500/tet7ZVbzhLWwT44m9j94folyl5N.jpg"
+      },
+      {
+        "name": "Xavier Samuel",
+        "character": "Enzo",
+        "photo": "https://image.tmdb.org/t/p/w500/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+      },
+      {
+        "name": "Frances Fisher",
+        "character": "Camila",
+        "photo": "https://image.tmdb.org/t/p/w500/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+      },
+      {
+        "name": "Thomas Dekker",
+        "character": "Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/vO72HH4PfesrCwEioBJn2gR6ebC.jpg"
+      },
+      {
+        "name": "Marlene Forte",
+        "character": "Dr. Ortiz",
+        "photo": "https://image.tmdb.org/t/p/w500/qBhO3tT3VzF1bxUhw3ylmQsfTwP.jpg"
+      },
+      {
+        "name": "Elizabeth Peña",
+        "character": "Dr. Lopez",
+        "photo": "https://image.tmdb.org/t/p/w500/uyUrPmtbwiGFOq8pIfYVQYgmBmK.jpg"
+      },
+      {
+        "name": "Kennedy Waite",
+        "character": "Lila",
+        "photo": "https://image.tmdb.org/t/p/w500/aYosEl2S636eTvXuX4qduV4M3Q9.jpg"
+      },
+      {
+        "name": "Casey LaBow",
+        "character": "Evie",
+        "photo": "https://image.tmdb.org/t/p/w500/c1tVIDa1mOlj7lKiWuP7sQVURuf.jpg"
+      },
+      {
+        "name": "Brandon Jay McLaren",
+        "character": "Butch Hopkins",
+        "photo": "https://image.tmdb.org/t/p/w500/jZKb3ziBI3r8I6Yd8m1zUWl2G4O.jpg"
+      },
+      {
+        "name": "James Kyson",
+        "character": "Coat & Tie Fan",
+        "photo": "https://image.tmdb.org/t/p/w500/jpV8eFgigwHbhyEL9eZ4czbgMoy.jpg"
+      }
+    ],
+    "director": [
+      "Catherine Hardwicke"
+    ]
   }
 }

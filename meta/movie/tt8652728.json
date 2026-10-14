@@ -18,6 +18,84 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Kelvin Harrison Jr.",
+      "Taylor Russell",
+      "Renée Elise Goldsberry",
+      "Sterling K. Brown",
+      "Lucas Hedges",
+      "Alexa Demie",
+      "Neal Huff",
+      "Clifton Collins Jr.",
+      "Krisha Fairchild",
+      "Ruben E. A. Brown",
+      "Joshua Brockington",
+      "Vivi Pineda"
+    ],
+    "app_cast": [
+      {
+        "name": "Kelvin Harrison Jr.",
+        "character": "Tyler",
+        "photo": "https://image.tmdb.org/t/p/w500/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg"
+      },
+      {
+        "name": "Taylor Russell",
+        "character": "Emily",
+        "photo": "https://image.tmdb.org/t/p/w500/3kW1SvpzyOPPZHxbz7cgR7ilmtQ.jpg"
+      },
+      {
+        "name": "Renée Elise Goldsberry",
+        "character": "Catharine",
+        "photo": "https://image.tmdb.org/t/p/w500/xlcw1r2ieUlaDLK6CIs5MQ9HIgK.jpg"
+      },
+      {
+        "name": "Sterling K. Brown",
+        "character": "Ronald",
+        "photo": "https://image.tmdb.org/t/p/w500/uq4kBHad6mOA4iXpX8f16PQJBEA.jpg"
+      },
+      {
+        "name": "Lucas Hedges",
+        "character": "Luke",
+        "photo": "https://image.tmdb.org/t/p/w500/8WP1uXUwm6Z1vzrMaIiKj89M6kX.jpg"
+      },
+      {
+        "name": "Alexa Demie",
+        "character": "Alexis",
+        "photo": "https://image.tmdb.org/t/p/w500/onU85U3QTP00gHZL9bA8aTclra7.jpg"
+      },
+      {
+        "name": "Neal Huff",
+        "character": "Bill",
+        "photo": "https://image.tmdb.org/t/p/w500/iNvUcnFm4O3tESbemiMFdMJH2zp.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Bobby",
+        "photo": "https://image.tmdb.org/t/p/w500/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+      },
+      {
+        "name": "Krisha Fairchild",
+        "character": "English Teacher",
+        "photo": "https://image.tmdb.org/t/p/w500/xPMKbvaiVDU96IcbbBdwwnrX0e8.jpg"
+      },
+      {
+        "name": "Ruben E. A. Brown",
+        "character": "Wally",
+        "photo": "https://image.tmdb.org/t/p/w500/hX1ioM0DBoNUOg18crzn5aPeURG.jpg"
+      },
+      {
+        "name": "Joshua Brockington",
+        "character": "Stan",
+        "photo": "https://image.tmdb.org/t/p/w500/xM966UMZrIggb3IbZT1un7zhfhw.jpg"
+      },
+      {
+        "name": "Vivi Pineda",
+        "character": "Elena"
+      }
+    ],
+    "director": [
+      "Trey Edward Shults"
+    ]
   }
 }

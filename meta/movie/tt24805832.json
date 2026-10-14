@@ -17,6 +17,81 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Residente",
+      "Sasha Calle",
+      "Lio Mehiel",
+      "Dreya Renae Castillo",
+      "Luciana Elisa Quiñonez",
+      "Kimaya Thais",
+      "Allison Salinas",
+      "Emma Ramos",
+      "Leslie Grace",
+      "Sharlene Cruz",
+      "Gabriella Surodjawan",
+      "Indigo Montez"
+    ],
+    "app_cast": [
+      {
+        "name": "Residente",
+        "character": "Vicente",
+        "photo": "https://image.tmdb.org/t/p/w500/eYh1nkVhooSTEQX7BjM9fZIc7al.jpg"
+      },
+      {
+        "name": "Sasha Calle",
+        "character": "Eva",
+        "photo": "https://image.tmdb.org/t/p/w500/yLZY25AQOC2xKzsWqteyJTcWPK3.jpg"
+      },
+      {
+        "name": "Lio Mehiel",
+        "character": "Violeta",
+        "photo": "https://image.tmdb.org/t/p/w500/mZqH6QPvtsyQAy2mq1sk4HnYuJY.jpg"
+      },
+      {
+        "name": "Dreya Renae Castillo",
+        "character": "Young Violeta"
+      },
+      {
+        "name": "Luciana Elisa Quiñonez",
+        "character": "Young Eva",
+        "photo": "https://image.tmdb.org/t/p/w500/qeTKeqLo1xj9DsRRUaMrfTYgQg6.jpg"
+      },
+      {
+        "name": "Kimaya Thais",
+        "character": "Middle Violeta"
+      },
+      {
+        "name": "Allison Salinas",
+        "character": "Middle Eva"
+      },
+      {
+        "name": "Emma Ramos",
+        "character": "Carmen",
+        "photo": "https://image.tmdb.org/t/p/w500/rt66aGKR3HO4wfHDGi7uOypUZTk.jpg"
+      },
+      {
+        "name": "Leslie Grace",
+        "character": "Yenny",
+        "photo": "https://image.tmdb.org/t/p/w500/iagnGYDvHQJclR4EuUA8E6nSW1z.jpg"
+      },
+      {
+        "name": "Sharlene Cruz",
+        "character": "Camilla",
+        "photo": "https://image.tmdb.org/t/p/w500/gQBcmcQJPgdtbg8wTzyE1O35oAT.jpg"
+      },
+      {
+        "name": "Gabriella Surodjawan",
+        "character": "Teen Camilla",
+        "photo": "https://image.tmdb.org/t/p/w500/l0VfVKhfjVDnduqlfZVKd2E7yrY.jpg"
+      },
+      {
+        "name": "Indigo Montez",
+        "character": "Natalia"
+      }
+    ],
+    "director": [
+      "Alessandra Lacorazza"
+    ]
   }
 }

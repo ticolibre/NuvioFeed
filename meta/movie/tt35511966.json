@@ -18,6 +18,86 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Guitarricadelafuente",
+      "Miguel Bernardeau",
+      "Carlos González",
+      "Milo Quifes",
+      "Lola Dueñas",
+      "Penélope Cruz",
+      "Glenn Close",
+      "Antonio de la Torre",
+      "María Morales",
+      "Natalia de Molina",
+      "Lorenzo Zurzolo",
+      "Albert Pla"
+    ],
+    "app_cast": [
+      {
+        "name": "Guitarricadelafuente",
+        "character": "Sebastián",
+        "photo": "https://image.tmdb.org/t/p/w500/q0N5rMfVMkFPHw1qVs9RIWf8ZvA.jpg"
+      },
+      {
+        "name": "Miguel Bernardeau",
+        "character": "Rafael",
+        "photo": "https://image.tmdb.org/t/p/w500/aPyvMBnGaTeWkMStdHvdiiWxpBQ.jpg"
+      },
+      {
+        "name": "Carlos González",
+        "character": "Alberto",
+        "photo": "https://image.tmdb.org/t/p/w500/bPag2U3ei3Wb2KfSXEQGDY5a8pi.jpg"
+      },
+      {
+        "name": "Milo Quifes",
+        "character": "Carlos",
+        "photo": "https://image.tmdb.org/t/p/w500/vniYP6wozDkntBQImES2kJrBSOW.jpg"
+      },
+      {
+        "name": "Lola Dueñas",
+        "character": "Teresa",
+        "photo": "https://image.tmdb.org/t/p/w500/bZgXKlGkLgjvL3qU2Iq2l2zsKo7.jpg"
+      },
+      {
+        "name": "Penélope Cruz",
+        "character": "Nené Romero",
+        "photo": "https://image.tmdb.org/t/p/w500/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+      },
+      {
+        "name": "Glenn Close",
+        "character": "Isabelle Durand",
+        "photo": "https://image.tmdb.org/t/p/w500/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+      },
+      {
+        "name": "Antonio de la Torre",
+        "character": "Vicente (El padre de Carlos)",
+        "photo": "https://image.tmdb.org/t/p/w500/d43JMOaio4mTZlov23gM2q8a6Uo.jpg"
+      },
+      {
+        "name": "María Morales",
+        "character": "La madre",
+        "photo": "https://image.tmdb.org/t/p/w500/5GrA2RftV05xVp73lO2xvO7PoWw.jpg"
+      },
+      {
+        "name": "Natalia de Molina",
+        "character": "Valentina (La hermana)",
+        "photo": "https://image.tmdb.org/t/p/w500/6wlQQgxW8sQTCQU79sNpEL4lYfs.jpg"
+      },
+      {
+        "name": "Lorenzo Zurzolo",
+        "character": "Riccardo",
+        "photo": "https://image.tmdb.org/t/p/w500/kuBQoAnIuLI1wSuEVZST4vfEJhO.jpg"
+      },
+      {
+        "name": "Albert Pla",
+        "character": "Teniente Coronel",
+        "photo": "https://image.tmdb.org/t/p/w500/zND6odCRSkLJMWxpy1QfCk7axtA.jpg"
+      }
+    ],
+    "director": [
+      "Javier Ambrossi",
+      "Javier Calvo"
+    ]
   }
 }

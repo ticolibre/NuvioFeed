@@ -18,6 +18,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Mikey Madison",
+      "Jeremy Allen White",
+      "Jeremy Strong",
+      "Bill Burr",
+      "Wunmi Mosaku",
+      "Billy Magnussen",
+      "Betty Gilpin",
+      "Gbenga Akinnagbe",
+      "Anna Lambe",
+      "Aidan Laprete",
+      "Kelley Pereira",
+      "Nelson Franklin"
+    ],
+    "app_cast": [
+      {
+        "name": "Mikey Madison",
+        "character": "Frances Haugen",
+        "photo": "https://image.tmdb.org/t/p/w500/nsWQNYBTBYE2TCzGpyXTpA0TTEz.jpg"
+      },
+      {
+        "name": "Jeremy Allen White",
+        "character": "Jeff Horwitz",
+        "photo": "https://image.tmdb.org/t/p/w500/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "character": "Mark Zuckerberg",
+        "photo": "https://image.tmdb.org/t/p/w500/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      },
+      {
+        "name": "Bill Burr",
+        "character": "Charlie Garrigan",
+        "photo": "https://image.tmdb.org/t/p/w500/4U95TX23X97OK9csaKVwzqAjFUV.jpg"
+      },
+      {
+        "name": "Wunmi Mosaku",
+        "character": "Raya",
+        "photo": "https://image.tmdb.org/t/p/w500/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg"
+      },
+      {
+        "name": "Billy Magnussen",
+        "character": "Teddy Marks",
+        "photo": "https://image.tmdb.org/t/p/w500/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg"
+      },
+      {
+        "name": "Betty Gilpin",
+        "character": "Kris",
+        "photo": "https://image.tmdb.org/t/p/w500/6GvlDnnKM0WxBt0jUipBJw5VgD5.jpg"
+      },
+      {
+        "name": "Gbenga Akinnagbe",
+        "character": "Andy",
+        "photo": "https://image.tmdb.org/t/p/w500/vFcVgkew7ign5utNWycKvUiBb75.jpg"
+      },
+      {
+        "name": "Anna Lambe",
+        "character": "Morgan",
+        "photo": "https://image.tmdb.org/t/p/w500/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+      },
+      {
+        "name": "Aidan Laprete",
+        "character": "Zach",
+        "photo": "https://image.tmdb.org/t/p/w500/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
+      },
+      {
+        "name": "Kelley Pereira",
+        "character": "Evelyn",
+        "photo": "https://image.tmdb.org/t/p/w500/AvlYJ6QXyb0gGmj93jL276mA3Oi.jpg"
+      },
+      {
+        "name": "Nelson Franklin",
+        "character": "Tom",
+        "photo": "https://image.tmdb.org/t/p/w500/2YYnTxpFmS5i9qRkb6H4Nxky2px.jpg"
+      }
+    ],
+    "director": [
+      "Aaron Sorkin"
+    ]
   }
 }

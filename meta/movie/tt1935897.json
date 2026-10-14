@@ -17,6 +17,67 @@
           "rating": "5.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Bella Thorne",
+      "Cameron Monaghan",
+      "Jennifer Jason Leigh",
+      "Thomas Mann",
+      "Jennifer Morrison",
+      "Kurtwood Smith",
+      "Mckenna Grace",
+      "Taylor Spreitler",
+      "Brian Breiter"
+    ],
+    "app_cast": [
+      {
+        "name": "Bella Thorne",
+        "character": "Belle Walker",
+        "photo": "https://image.tmdb.org/t/p/w500/lgz1eArGmzrN8pDbFhRnoXxC7c4.jpg"
+      },
+      {
+        "name": "Cameron Monaghan",
+        "character": "James Walker",
+        "photo": "https://image.tmdb.org/t/p/w500/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
+      },
+      {
+        "name": "Jennifer Jason Leigh",
+        "character": "Joan Walker",
+        "photo": "https://image.tmdb.org/t/p/w500/7DbG2AO3nygHAkNC866HLPKkxv9.jpg"
+      },
+      {
+        "name": "Thomas Mann",
+        "character": "Terrence",
+        "photo": "https://image.tmdb.org/t/p/w500/cJO10vU19SL82pgMB6LdAijDSJv.jpg"
+      },
+      {
+        "name": "Jennifer Morrison",
+        "character": "Candice",
+        "photo": "https://image.tmdb.org/t/p/w500/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
+      },
+      {
+        "name": "Kurtwood Smith",
+        "character": "Dr. Milton",
+        "photo": "https://image.tmdb.org/t/p/w500/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+      },
+      {
+        "name": "Mckenna Grace",
+        "character": "Juliet Walker",
+        "photo": "https://image.tmdb.org/t/p/w500/mbY7ngjgYcrUPDVNBikB9sMdaIk.jpg"
+      },
+      {
+        "name": "Taylor Spreitler",
+        "character": "Marissa",
+        "photo": "https://image.tmdb.org/t/p/w500/5sAmpcNJiNeRV77CXJ2SWPsStkP.jpg"
+      },
+      {
+        "name": "Brian Breiter",
+        "character": "Teacher",
+        "photo": "https://image.tmdb.org/t/p/w500/5oS8K7Q6md8KdGPaXjNFafeKI6.jpg"
+      }
+    ],
+    "director": [
+      "Franck Khalfoun"
+    ]
   }
 }

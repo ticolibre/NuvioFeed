@@ -17,6 +17,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Sharlto Copley",
+      "Jason Cope",
+      "Nathalie Boltt",
+      "Sylvaine Strike",
+      "Elizabeth Mkandawie",
+      "John Sumner",
+      "William Allen Young",
+      "Nick Blake",
+      "Greg Melvill-Smith",
+      "Robert Hobbs",
+      "Vanessa Haywood",
+      "Morena Busa Sesatsa"
+    ],
+    "app_cast": [
+      {
+        "name": "Sharlto Copley",
+        "character": "Wikus van de Merwe",
+        "photo": "https://image.tmdb.org/t/p/w500/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+      },
+      {
+        "name": "Jason Cope",
+        "character": "Christopher Johnson / Grey Bradnam / Trent",
+        "photo": "https://image.tmdb.org/t/p/w500/xEqMZClrQQvaygQakUwtS5l7TYH.jpg"
+      },
+      {
+        "name": "Nathalie Boltt",
+        "character": "Sarah Livingstone - Sociologist",
+        "photo": "https://image.tmdb.org/t/p/w500/mYvZlMSwvv6WDfJHfV6bYm4ddES.jpg"
+      },
+      {
+        "name": "Sylvaine Strike",
+        "character": "Dr Katrina McKenzie",
+        "photo": "https://image.tmdb.org/t/p/w500/A1O7oEwqy3vebOdnXhyRtKCBeg4.jpg"
+      },
+      {
+        "name": "Elizabeth Mkandawie",
+        "character": "Interviewee",
+        "photo": "https://image.tmdb.org/t/p/w500/qqiB2LLwNjaEnivKXaRm5opKU4b.jpg"
+      },
+      {
+        "name": "John Sumner",
+        "character": "Les Feldman - MIL Engineer",
+        "photo": "https://image.tmdb.org/t/p/w500/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg"
+      },
+      {
+        "name": "William Allen Young",
+        "character": "Dirk Michaels",
+        "photo": "https://image.tmdb.org/t/p/w500/3QMYa0lOFs76wXmPuvdmTyz0KUA.jpg"
+      },
+      {
+        "name": "Nick Blake",
+        "character": "Francois Moraneu - CIV Engineer Team",
+        "photo": "https://image.tmdb.org/t/p/w500/eC9GDVX5yo4BPrbF7Syhf6xaDVz.jpg"
+      },
+      {
+        "name": "Greg Melvill-Smith",
+        "character": "Interviewer",
+        "photo": "https://image.tmdb.org/t/p/w500/kHFoDthDdI2RsNRaxrNQO9ihuQs.jpg"
+      },
+      {
+        "name": "Robert Hobbs",
+        "character": "Ross Pienaar",
+        "photo": "https://image.tmdb.org/t/p/w500/bTAi1h6oS2KC80HJAzeHN1IpT5T.jpg"
+      },
+      {
+        "name": "Vanessa Haywood",
+        "character": "Tania van de Merwe",
+        "photo": "https://image.tmdb.org/t/p/w500/h7FoJwTm8erZCkPMXKtRDmun165.jpg"
+      },
+      {
+        "name": "Morena Busa Sesatsa",
+        "character": "Interviewee"
+      }
+    ],
+    "director": [
+      "Neill Blomkamp"
+    ]
   }
 }

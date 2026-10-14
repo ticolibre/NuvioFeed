@@ -17,6 +17,87 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Carroll Baker",
+      "Lee J. Cobb",
+      "Henry Fonda",
+      "Carolyn Jones",
+      "Karl Malden",
+      "Gregory Peck",
+      "George Peppard",
+      "Robert Preston",
+      "Debbie Reynolds",
+      "James Stewart",
+      "Eli Wallach",
+      "John Wayne"
+    ],
+    "app_cast": [
+      {
+        "name": "Carroll Baker",
+        "character": "Eve Prescott Rawlings",
+        "photo": "https://image.tmdb.org/t/p/w500/ui9gwewS5Ofb2sop0ZWN9G8Yako.jpg"
+      },
+      {
+        "name": "Lee J. Cobb",
+        "character": "Marshal Lou Ramsey",
+        "photo": "https://image.tmdb.org/t/p/w500/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg"
+      },
+      {
+        "name": "Henry Fonda",
+        "character": "Jethro Stuart",
+        "photo": "https://image.tmdb.org/t/p/w500/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+      },
+      {
+        "name": "Carolyn Jones",
+        "character": "Julie Rawlings",
+        "photo": "https://image.tmdb.org/t/p/w500/ylA0xqACyD6mXS2e9d5cuI9wKut.jpg"
+      },
+      {
+        "name": "Karl Malden",
+        "character": "Zebulon Prescott",
+        "photo": "https://image.tmdb.org/t/p/w500/njDua2jZ1X1f5SYLzpxDt0hIhYu.jpg"
+      },
+      {
+        "name": "Gregory Peck",
+        "character": "Cleve Van Valen",
+        "photo": "https://image.tmdb.org/t/p/w500/8EkjKu6OJPpEwpARpxVh6yd1f9k.jpg"
+      },
+      {
+        "name": "George Peppard",
+        "character": "Zeb Rawlings",
+        "photo": "https://image.tmdb.org/t/p/w500/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg"
+      },
+      {
+        "name": "Robert Preston",
+        "character": "Roger Morgan",
+        "photo": "https://image.tmdb.org/t/p/w500/geEkOOrrqYXZ6NEj62drfAR8kM0.jpg"
+      },
+      {
+        "name": "Debbie Reynolds",
+        "character": "Lilith Prescott",
+        "photo": "https://image.tmdb.org/t/p/w500/2jG8pk5fr9ZgCQOH1cLVDWbbwBK.jpg"
+      },
+      {
+        "name": "James Stewart",
+        "character": "Linus Rawlings",
+        "photo": "https://image.tmdb.org/t/p/w500/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg"
+      },
+      {
+        "name": "Eli Wallach",
+        "character": "Charlie Gant",
+        "photo": "https://image.tmdb.org/t/p/w500/tX1kYpW1K8XjEA3i9FXrgFqNAaw.jpg"
+      },
+      {
+        "name": "John Wayne",
+        "character": "William Sherman",
+        "photo": "https://image.tmdb.org/t/p/w500/4VmiGmCwSnratHtYmT2AyXrdQ64.jpg"
+      }
+    ],
+    "director": [
+      "John Ford",
+      "Henry Hathaway",
+      "George Marshall"
+    ]
   }
 }

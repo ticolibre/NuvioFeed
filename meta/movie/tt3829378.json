@@ -18,6 +18,85 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Shree Crooks",
+      "Frank Grillo",
+      "Anna Torv",
+      "Jonah Beres",
+      "Lasaundra Gibson",
+      "Samantha Smith",
+      "Amanda Christine",
+      "Swati Kapila",
+      "Deric McCabe",
+      "Harold Perrineau",
+      "Ellen Dubin",
+      "Jaimi Paige"
+    ],
+    "app_cast": [
+      {
+        "name": "Shree Crooks",
+        "character": "Stephanie",
+        "photo": "https://image.tmdb.org/t/p/w500/ipntpl03KxmLI4GWYV9HqXcVU9d.jpg"
+      },
+      {
+        "name": "Frank Grillo",
+        "character": "Man / Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+      },
+      {
+        "name": "Anna Torv",
+        "character": "Woman / Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
+      },
+      {
+        "name": "Jonah Beres",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/tn7aX0wg01yAIao1OGTmNgkc8CI.jpg"
+      },
+      {
+        "name": "Lasaundra Gibson",
+        "character": "TV Reporter",
+        "photo": "https://image.tmdb.org/t/p/w500/axntsgQrmOHF0ECiD9ddBrQvlh3.jpg"
+      },
+      {
+        "name": "Samantha Smith",
+        "character": "Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/y6uj2uevovSjjZP1yPBd7qEBSdC.jpg"
+      },
+      {
+        "name": "Amanda Christine",
+        "character": "Moppet (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/ytG5JgrniXLY6elImmzTKjvGtCZ.jpg"
+      },
+      {
+        "name": "Swati Kapila",
+        "character": "BBC Reporter (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/fva4SmEzyAQvpJM27T2COEhnXJ1.jpg"
+      },
+      {
+        "name": "Deric McCabe",
+        "character": "Moppet (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/he9MogCB9O82fgoaI8rSUDjMc3x.jpg"
+      },
+      {
+        "name": "Harold Perrineau",
+        "character": "Leader (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/bVSLpGUaislREbujmknOqadrxYM.jpg"
+      },
+      {
+        "name": "Ellen Dubin",
+        "character": "Additional Voices (voice) (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/cvf1pX4t6ZzDPsRi9J2xGrGj78c.jpg"
+      },
+      {
+        "name": "Jaimi Paige",
+        "character": "Work Husband (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/5RJe5wHYnSVJCLkMUDWT9X8Wnfc.jpg"
+      }
+    ],
+    "director": [
+      "Akiva Goldsman"
+    ]
   }
 }

@@ -17,6 +17,84 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Billy Barratt",
+      "Sally Hawkins",
+      "Mischa Heywood",
+      "Jonah Wren Phillips",
+      "Stephen Phillips",
+      "Sally-Anne Upton",
+      "Sora Wong",
+      "Kathryn Adams",
+      "Brian Godfrey",
+      "Brendan Bacon",
+      "Olga Miller",
+      "Nicola Tiele"
+    ],
+    "app_cast": [
+      {
+        "name": "Billy Barratt",
+        "character": "Andy",
+        "photo": "https://image.tmdb.org/t/p/w500/h8XlTs26su2Rg3oLtShERYEnVc6.jpg"
+      },
+      {
+        "name": "Sally Hawkins",
+        "character": "Laura",
+        "photo": "https://image.tmdb.org/t/p/w500/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+      },
+      {
+        "name": "Mischa Heywood",
+        "character": "Cathy",
+        "photo": "https://image.tmdb.org/t/p/w500/c0lH1rP2YJfaQWZLzftfelT21o2.jpg"
+      },
+      {
+        "name": "Jonah Wren Phillips",
+        "character": "Oliver",
+        "photo": "https://image.tmdb.org/t/p/w500/zBy4aBLg10Qz8di9P12mBpnf97F.jpg"
+      },
+      {
+        "name": "Stephen Phillips",
+        "character": "Phil",
+        "photo": "https://image.tmdb.org/t/p/w500/cHHJDSm18g18s5t44nKBmq6FQtF.jpg"
+      },
+      {
+        "name": "Sally-Anne Upton",
+        "character": "Wendy",
+        "photo": "https://image.tmdb.org/t/p/w500/iwaFfln6gKuedwF5FjgAO60KJDd.jpg"
+      },
+      {
+        "name": "Sora Wong",
+        "character": "Piper",
+        "photo": "https://image.tmdb.org/t/p/w500/lh2fvJyAn5pX9EQU1jMUMxUl5d1.jpg"
+      },
+      {
+        "name": "Kathryn Adams",
+        "character": "Anna",
+        "photo": "https://image.tmdb.org/t/p/w500/y6B5cjw6JY6aHzj33NoX85aSwM7.jpg"
+      },
+      {
+        "name": "Brian Godfrey",
+        "character": "Ivan"
+      },
+      {
+        "name": "Brendan Bacon",
+        "character": "Anton",
+        "photo": "https://image.tmdb.org/t/p/w500/uTBjeGPq3JJKbVyWYR5XtEkotvU.jpg"
+      },
+      {
+        "name": "Olga Miller",
+        "character": "Macia",
+        "photo": "https://image.tmdb.org/t/p/w500/387I7r2u6zPAKCmCR2GxNumnPQf.jpg"
+      },
+      {
+        "name": "Nicola Tiele",
+        "character": "Berta"
+      }
+    ],
+    "director": [
+      "Michael Philippou",
+      "Danny Philippou"
+    ]
   }
 }

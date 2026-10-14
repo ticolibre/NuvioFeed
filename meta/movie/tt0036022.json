@@ -18,6 +18,85 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Mickey Rooney",
+      "Frank Morgan",
+      "James Craig",
+      "Marsha Hunt",
+      "Fay Bainter",
+      "Ray Collins",
+      "Van Johnson",
+      "Donna Reed",
+      "Jackie 'Butch' Jenkins",
+      "Dorothy Morris",
+      "John Craven",
+      "Ann Ayars"
+    ],
+    "app_cast": [
+      {
+        "name": "Mickey Rooney",
+        "character": "Homer Macauley",
+        "photo": "https://image.tmdb.org/t/p/w500/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
+      },
+      {
+        "name": "Frank Morgan",
+        "character": "Willie Grogan",
+        "photo": "https://image.tmdb.org/t/p/w500/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg"
+      },
+      {
+        "name": "James Craig",
+        "character": "Tom Spangler",
+        "photo": "https://image.tmdb.org/t/p/w500/cTVk52SG5w8VKLWmfcAdSl4I5NE.jpg"
+      },
+      {
+        "name": "Marsha Hunt",
+        "character": "Diana Steed",
+        "photo": "https://image.tmdb.org/t/p/w500/3AKYak1iEUMcRSpw2wUsJTsFuqD.jpg"
+      },
+      {
+        "name": "Fay Bainter",
+        "character": "Mrs. Macauley",
+        "photo": "https://image.tmdb.org/t/p/w500/mQm76108ttf5Sn1T9dkZ8rHJ1Kp.jpg"
+      },
+      {
+        "name": "Ray Collins",
+        "character": "Mr. Macauley",
+        "photo": "https://image.tmdb.org/t/p/w500/usQN1n6UMPwYrTuTKdiSxUj8Qwa.jpg"
+      },
+      {
+        "name": "Van Johnson",
+        "character": "Marcus Macauley",
+        "photo": "https://image.tmdb.org/t/p/w500/A6vw5kbdmyXDz1ddQOocJmg9TSc.jpg"
+      },
+      {
+        "name": "Donna Reed",
+        "character": "Bess Macauley",
+        "photo": "https://image.tmdb.org/t/p/w500/gO2sb3qfGWn9beecguFErp0tlv9.jpg"
+      },
+      {
+        "name": "Jackie 'Butch' Jenkins",
+        "character": "Ulysses Macauley",
+        "photo": "https://image.tmdb.org/t/p/w500/oUDGBNsaYcIWF3VGOgnX7FQEUK.jpg"
+      },
+      {
+        "name": "Dorothy Morris",
+        "character": "Mary Arena",
+        "photo": "https://image.tmdb.org/t/p/w500/cQP4AyxKXXaGFUMXpjCmyrphUoD.jpg"
+      },
+      {
+        "name": "John Craven",
+        "character": "Tobey George",
+        "photo": "https://image.tmdb.org/t/p/w500/bqU8S4ZDRv009qXNO0auRIVbnSD.jpg"
+      },
+      {
+        "name": "Ann Ayars",
+        "character": "Mrs. Sandoval",
+        "photo": "https://image.tmdb.org/t/p/w500/cqSTzYvsBQMKtixMcTxSmeeTzSK.jpg"
+      }
+    ],
+    "director": [
+      "Clarence Brown"
+    ]
   }
 }

@@ -19,6 +19,79 @@
           "rating": "5.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Charles King",
+      "Anita Page",
+      "Bessie Love",
+      "Betty Arthur",
+      "J. Emmett Beck",
+      "Nacio Herb Brown",
+      "James Burrows",
+      "Eddie Bush",
+      "Ray Cooke",
+      "Drew Demorest",
+      "Edward Dillon",
+      "Mary Doran"
+    ],
+    "app_cast": [
+      {
+        "name": "Charles King",
+        "character": "Eddie Kearns",
+        "photo": "https://image.tmdb.org/t/p/w500/yolYk3YbHv5KFYn8c7eui073qnv.jpg"
+      },
+      {
+        "name": "Anita Page",
+        "character": "Queenie Mahoney",
+        "photo": "https://image.tmdb.org/t/p/w500/l8K3xcxGyvXxH3WSU4wwsMrxcWp.jpg"
+      },
+      {
+        "name": "Bessie Love",
+        "character": "Harriet 'Hank' Mahoney",
+        "photo": "https://image.tmdb.org/t/p/w500/aOt4c5AoO1Zp8W93JTBnl1eEcFk.jpg"
+      },
+      {
+        "name": "Betty Arthur",
+        "character": "Chorus Dancer (uncredited)"
+      },
+      {
+        "name": "J. Emmett Beck",
+        "character": "Babe Hatrick (uncredited)"
+      },
+      {
+        "name": "Nacio Herb Brown",
+        "character": "Pianist (uncredited)"
+      },
+      {
+        "name": "James Burrows",
+        "character": "Singer (uncredited)"
+      },
+      {
+        "name": "Eddie Bush",
+        "character": "Quartet Guitarist and Singer (uncredited)"
+      },
+      {
+        "name": "Ray Cooke",
+        "character": "Bellhop (uncredited)"
+      },
+      {
+        "name": "Drew Demorest",
+        "character": "Turpe - Costumer (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/kHn7xpW4tBpdYvu4NSwWspAKYFk.jpg"
+      },
+      {
+        "name": "Edward Dillon",
+        "character": "Dillon - Stage Manager (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/lRWa2M2guVQUo4GCMPComWsds79.jpg"
+      },
+      {
+        "name": "Mary Doran",
+        "character": "Flo (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/rlQAwYe3kWCsqNkfC8mKLlp830S.jpg"
+      }
+    ],
+    "director": [
+      "Harry Beaumont"
+    ]
   }
 }

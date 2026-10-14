@@ -17,6 +17,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch",
+      "Wes Bentley",
+      "Mena Suvari",
+      "Peter Gallagher",
+      "Allison Janney",
+      "Chris Cooper",
+      "Scott Bakula",
+      "Sam Robards",
+      "Barry Del Sherman",
+      "Ara Celi"
+    ],
+    "app_cast": [
+      {
+        "name": "Kevin Spacey",
+        "character": "Lester Burnham",
+        "photo": "https://image.tmdb.org/t/p/w500/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+      },
+      {
+        "name": "Annette Bening",
+        "character": "Carolyn Burnham",
+        "photo": "https://image.tmdb.org/t/p/w500/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+      },
+      {
+        "name": "Thora Birch",
+        "character": "Jane Burnham",
+        "photo": "https://image.tmdb.org/t/p/w500/xJ6Bb3C8f0ior5LlWdNzxlb8cgV.jpg"
+      },
+      {
+        "name": "Wes Bentley",
+        "character": "Ricky Fitts",
+        "photo": "https://image.tmdb.org/t/p/w500/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+      },
+      {
+        "name": "Mena Suvari",
+        "character": "Angela Hayes",
+        "photo": "https://image.tmdb.org/t/p/w500/xjqKvy0bos02oSKNYzC4mxLbQ0W.jpg"
+      },
+      {
+        "name": "Peter Gallagher",
+        "character": "Buddy Kane",
+        "photo": "https://image.tmdb.org/t/p/w500/vD6q6Ja6bAhbfqlXS4ybCtyXtdA.jpg"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Barbara Fitts",
+        "photo": "https://image.tmdb.org/t/p/w500/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Colonel Fitts",
+        "photo": "https://image.tmdb.org/t/p/w500/sJKghcu9wRDIvKM0cI7kqNXYRfS.jpg"
+      },
+      {
+        "name": "Scott Bakula",
+        "character": "Jim Olmeyer",
+        "photo": "https://image.tmdb.org/t/p/w500/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg"
+      },
+      {
+        "name": "Sam Robards",
+        "character": "Jim Berkley",
+        "photo": "https://image.tmdb.org/t/p/w500/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+      },
+      {
+        "name": "Barry Del Sherman",
+        "character": "Brad",
+        "photo": "https://image.tmdb.org/t/p/w500/zXLTW52g9BW9CCQ5fzxoGNLDe8P.jpg"
+      },
+      {
+        "name": "Ara Celi",
+        "character": "Sale House Woman #1",
+        "photo": "https://image.tmdb.org/t/p/w500/FfdLUYferA1srJ947N752XzsPL.jpg"
+      }
+    ],
+    "director": [
+      "Sam Mendes"
+    ]
   }
 }

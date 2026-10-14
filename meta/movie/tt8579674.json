@@ -19,6 +19,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden",
+      "Claire Duburcq",
+      "Colin Firth",
+      "Benedict Cumberbatch",
+      "Daniel Mays",
+      "Adrian Scarborough",
+      "Chris Walley",
+      "Nabhaan Rizwan"
+    ],
+    "app_cast": [
+      {
+        "name": "George MacKay",
+        "character": "Lance Corporal Schofield",
+        "photo": "https://image.tmdb.org/t/p/w500/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
+      },
+      {
+        "name": "Dean-Charles Chapman",
+        "character": "Lance Corporal Blake",
+        "photo": "https://image.tmdb.org/t/p/w500/xIVxI2ECxxN5J2XNkHPjRax0IHc.jpg"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "Captain Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+      },
+      {
+        "name": "Andrew Scott",
+        "character": "Lieutenant Leslie",
+        "photo": "https://image.tmdb.org/t/p/w500/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+      },
+      {
+        "name": "Richard Madden",
+        "character": "Lieutenant Blake",
+        "photo": "https://image.tmdb.org/t/p/w500/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg"
+      },
+      {
+        "name": "Claire Duburcq",
+        "character": "Lauri",
+        "photo": "https://image.tmdb.org/t/p/w500/smfMUWSYOpLs7JOg5zCdcwI2vrB.jpg"
+      },
+      {
+        "name": "Colin Firth",
+        "character": "General Erinmore",
+        "photo": "https://image.tmdb.org/t/p/w500/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Colonel MacKenzie",
+        "photo": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        "name": "Daniel Mays",
+        "character": "Sergeant Sanders",
+        "photo": "https://image.tmdb.org/t/p/w500/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
+      },
+      {
+        "name": "Adrian Scarborough",
+        "character": "Major Hepburn",
+        "photo": "https://image.tmdb.org/t/p/w500/4YTIIoKDECRRaceheSJ6zw8ELZf.jpg"
+      },
+      {
+        "name": "Chris Walley",
+        "character": "Private Bullen",
+        "photo": "https://image.tmdb.org/t/p/w500/qASA1oFOwEvL7epg0HZkPE4SRwc.jpg"
+      },
+      {
+        "name": "Nabhaan Rizwan",
+        "character": "Sepoy Jondalar",
+        "photo": "https://image.tmdb.org/t/p/w500/ljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg"
+      }
+    ],
+    "director": [
+      "Sam Mendes"
+    ]
   }
 }

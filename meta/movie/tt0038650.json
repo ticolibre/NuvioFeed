@@ -19,6 +19,85 @@
           "rating": "8.3"
         }
       }
-    }
+    },
+    "cast": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore",
+      "Thomas Mitchell",
+      "Henry Travers",
+      "Beulah Bondi",
+      "Frank Faylen",
+      "Ward Bond",
+      "Gloria Grahame",
+      "H.B. Warner",
+      "Frank Albertson",
+      "Todd Karns"
+    ],
+    "app_cast": [
+      {
+        "name": "James Stewart",
+        "character": "George Bailey",
+        "photo": "https://image.tmdb.org/t/p/w500/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg"
+      },
+      {
+        "name": "Donna Reed",
+        "character": "Mary Hatch",
+        "photo": "https://image.tmdb.org/t/p/w500/gO2sb3qfGWn9beecguFErp0tlv9.jpg"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "character": "Mr. Potter",
+        "photo": "https://image.tmdb.org/t/p/w500/1Tp5aKxF8n6iwTpviwLrxe1krm3.jpg"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "character": "Uncle Billy",
+        "photo": "https://image.tmdb.org/t/p/w500/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+      },
+      {
+        "name": "Henry Travers",
+        "character": "Clarence",
+        "photo": "https://image.tmdb.org/t/p/w500/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
+      },
+      {
+        "name": "Beulah Bondi",
+        "character": "Mrs. Bailey",
+        "photo": "https://image.tmdb.org/t/p/w500/eMBdRplrMZfv7xC5FjzfOiOOb3E.jpg"
+      },
+      {
+        "name": "Frank Faylen",
+        "character": "Ernie",
+        "photo": "https://image.tmdb.org/t/p/w500/zmPkR8mUFDNGYNl3iTLh9uehNTn.jpg"
+      },
+      {
+        "name": "Ward Bond",
+        "character": "Bert",
+        "photo": "https://image.tmdb.org/t/p/w500/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+      },
+      {
+        "name": "Gloria Grahame",
+        "character": "Violet",
+        "photo": "https://image.tmdb.org/t/p/w500/xmFkXMemsrKZkveOXXU4mxgBxD7.jpg"
+      },
+      {
+        "name": "H.B. Warner",
+        "character": "Mr. Gower",
+        "photo": "https://image.tmdb.org/t/p/w500/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+      },
+      {
+        "name": "Frank Albertson",
+        "character": "Sam Wainwright",
+        "photo": "https://image.tmdb.org/t/p/w500/sT9JZ8GgHgunZS4PWIDX6wMoIS7.jpg"
+      },
+      {
+        "name": "Todd Karns",
+        "character": "Harry Bailey",
+        "photo": "https://image.tmdb.org/t/p/w500/cFOmcsJpxQ8fbVgocWiWRvIA2Fx.jpg"
+      }
+    ],
+    "director": [
+      "Frank Capra"
+    ]
   }
 }

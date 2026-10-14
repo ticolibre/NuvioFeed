@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Cynthia Erivo",
+      "Ariana Grande",
+      "Michelle Yeoh",
+      "Jonathan Bailey",
+      "Ethan Slater",
+      "Marissa Bode",
+      "Jeff Goldblum",
+      "Peter Dinklage",
+      "Andy Nyman",
+      "Courtney-Mae Briggs",
+      "Bowen Yang",
+      "Bronwyn James"
+    ],
+    "app_cast": [
+      {
+        "name": "Cynthia Erivo",
+        "character": "Elphaba",
+        "photo": "https://image.tmdb.org/t/p/w500/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+      },
+      {
+        "name": "Ariana Grande",
+        "character": "Galinda / Glinda",
+        "photo": "https://image.tmdb.org/t/p/w500/d4HtCXm58GuqVJVGgDKFn0dEj8M.jpg"
+      },
+      {
+        "name": "Michelle Yeoh",
+        "character": "Madame Morrible",
+        "photo": "https://image.tmdb.org/t/p/w500/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
+      },
+      {
+        "name": "Jonathan Bailey",
+        "character": "Fiyero",
+        "photo": "https://image.tmdb.org/t/p/w500/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg"
+      },
+      {
+        "name": "Ethan Slater",
+        "character": "Boq",
+        "photo": "https://image.tmdb.org/t/p/w500/xIgqyrM78FPt7Pb2Vv3IvJcnOWS.jpg"
+      },
+      {
+        "name": "Marissa Bode",
+        "character": "Nessarose",
+        "photo": "https://image.tmdb.org/t/p/w500/9n4IPNHY3Yp9JGDx8syinu9z7DX.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "The Wonderful Wizard of Oz",
+        "photo": "https://image.tmdb.org/t/p/w500/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+      },
+      {
+        "name": "Peter Dinklage",
+        "character": "Dr. Dillamond (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      },
+      {
+        "name": "Andy Nyman",
+        "character": "Governor Thropp",
+        "photo": "https://image.tmdb.org/t/p/w500/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+      },
+      {
+        "name": "Courtney-Mae Briggs",
+        "character": "Mrs. Thropp",
+        "photo": "https://image.tmdb.org/t/p/w500/ofOEXvhJpbFV7v8ZnH0ztTPGKkr.jpg"
+      },
+      {
+        "name": "Bowen Yang",
+        "character": "Pfannee",
+        "photo": "https://image.tmdb.org/t/p/w500/qzjyaEe7jjLaKSmzQ2dmtcjyCpe.jpg"
+      },
+      {
+        "name": "Bronwyn James",
+        "character": "Shenshen",
+        "photo": "https://image.tmdb.org/t/p/w500/mSaZaVNsAVU70VH5go2D2oS8OIL.jpg"
+      }
+    ],
+    "director": [
+      "Jon M. Chu"
+    ]
   }
 }

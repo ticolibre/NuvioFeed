@@ -18,6 +18,83 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Conrad Nagel",
+      "Jack Benny",
+      "John Gilbert",
+      "Norma Shearer",
+      "Joan Crawford",
+      "Bessie Love",
+      "Cliff Edwards",
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Anita Page",
+      "Lorayne Brox",
+      "Bobbe Brox"
+    ],
+    "app_cast": [
+      {
+        "name": "Conrad Nagel",
+        "character": "Self - Master of Ceremonies",
+        "photo": "https://image.tmdb.org/t/p/w500/eq8mN5jfRlkKhU0AlOtbSTtZdeS.jpg"
+      },
+      {
+        "name": "Jack Benny",
+        "character": "Self - Master of Ceremonies",
+        "photo": "https://image.tmdb.org/t/p/w500/aT3ZMuZoVJE1Bkha7dHAWbL1zrt.jpg"
+      },
+      {
+        "name": "John Gilbert",
+        "character": "Self / Romeo",
+        "photo": "https://image.tmdb.org/t/p/w500/wibrEasDmipryIht6W6ajxAAQgH.jpg"
+      },
+      {
+        "name": "Norma Shearer",
+        "character": "Self / Juliet",
+        "photo": "https://image.tmdb.org/t/p/w500/y9UuVsv4Wif8tqOdrLxSOfLNyW5.jpg"
+      },
+      {
+        "name": "Joan Crawford",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/r37awXZaJWCBjMA56kxcN5xiIBE.jpg"
+      },
+      {
+        "name": "Bessie Love",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/aOt4c5AoO1Zp8W93JTBnl1eEcFk.jpg"
+      },
+      {
+        "name": "Cliff Edwards",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/cplAl2NjSDuoHvSJ87kf8Yh2cdK.jpg"
+      },
+      {
+        "name": "Stan Laurel",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg"
+      },
+      {
+        "name": "Oliver Hardy",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg"
+      },
+      {
+        "name": "Anita Page",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/l8K3xcxGyvXxH3WSU4wwsMrxcWp.jpg"
+      },
+      {
+        "name": "Lorayne Brox",
+        "character": "Self - One of the Brox Sisters"
+      },
+      {
+        "name": "Bobbe Brox",
+        "character": "Self - One of the Brox Sisters"
+      }
+    ],
+    "director": [
+      "Charles Reisner"
+    ]
   }
 }

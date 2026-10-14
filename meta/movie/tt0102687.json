@@ -19,6 +19,77 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Edith Meeks",
+      "Millie White",
+      "Buck Smith",
+      "Anne Giotta ",
+      "Lydia Lafleur",
+      "Ian Nemser",
+      "Rob LaBelle",
+      "Evan Dunsky",
+      "Marina Lutz",
+      "Barry Cassidy",
+      "Richard Anthony",
+      "Angela M. Schreiber"
+    ],
+    "app_cast": [
+      {
+        "name": "Edith Meeks",
+        "character": "Felicia Beacon (\"Hero\")",
+        "photo": "https://image.tmdb.org/t/p/w500/1NY8mJVwlIDUiEFWACcYGWPfAG5.jpg"
+      },
+      {
+        "name": "Millie White",
+        "character": "Millie Sklar (\"Hero\")"
+      },
+      {
+        "name": "Buck Smith",
+        "character": "Gregory Lazar (\"Hero\")"
+      },
+      {
+        "name": "Anne Giotta ",
+        "character": "Evelyn McAlpert (\"Hero\")"
+      },
+      {
+        "name": "Lydia Lafleur",
+        "character": "Sylvia Manning (\"Hero\")"
+      },
+      {
+        "name": "Ian Nemser",
+        "character": "Sean White (\"Hero\")"
+      },
+      {
+        "name": "Rob LaBelle",
+        "character": "Jay Wete (\"Hero\")",
+        "photo": "https://image.tmdb.org/t/p/w500/3X25PHOci840zpSRH0ecgA8hala.jpg"
+      },
+      {
+        "name": "Evan Dunsky",
+        "character": "Dr. MacArthur (\"Hero\")",
+        "photo": "https://image.tmdb.org/t/p/w500/9Nv0xHncbZup1Qddq21dNXtNAIq.jpg"
+      },
+      {
+        "name": "Marina Lutz",
+        "character": "Hazel Lamprecht (\"Hero\")"
+      },
+      {
+        "name": "Barry Cassidy",
+        "character": "Officer Rilt (\"Hero\")"
+      },
+      {
+        "name": "Richard Anthony",
+        "character": "Edward Comacho (\"Hero\")",
+        "photo": "https://image.tmdb.org/t/p/w500/umd07uv7qHUtJHtz5WLhpfDaXho.jpg"
+      },
+      {
+        "name": "Angela M. Schreiber",
+        "character": "Florence Giddens (\"Hero\")"
+      }
+    ],
+    "director": [
+      "Todd Haynes"
+    ]
   }
 }

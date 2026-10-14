@@ -18,6 +18,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Jason Statham",
+      "Annabelle Wallis",
+      "Roland Møller",
+      "Ramon Tikaram",
+      "Arnas Fedaravičius",
+      "Jason Wong",
+      "Adrian Lester",
+      "Chaneil Kular",
+      "Andrew John Tait",
+      "Simon Kluth",
+      "Andrei Nova",
+      "Donking Rongavilla"
+    ],
+    "app_cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Cole Reed",
+        "photo": "https://image.tmdb.org/t/p/w500/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+      },
+      {
+        "name": "Annabelle Wallis",
+        "character": "Angie Ellis",
+        "photo": "https://image.tmdb.org/t/p/w500/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+      },
+      {
+        "name": "Roland Møller",
+        "character": "Captain Marko Madsen",
+        "photo": "https://image.tmdb.org/t/p/w500/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+      },
+      {
+        "name": "Ramon Tikaram",
+        "character": "Tibu Campallo",
+        "photo": "https://image.tmdb.org/t/p/w500/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+      },
+      {
+        "name": "Arnas Fedaravičius",
+        "character": "Mateo Pineda",
+        "photo": "https://image.tmdb.org/t/p/w500/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+      },
+      {
+        "name": "Jason Wong",
+        "character": "Taran",
+        "photo": "https://image.tmdb.org/t/p/w500/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+      },
+      {
+        "name": "Adrian Lester",
+        "character": "Captain Adam Spencer",
+        "photo": "https://image.tmdb.org/t/p/w500/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg"
+      },
+      {
+        "name": "Chaneil Kular",
+        "character": "Kameron Campallo",
+        "photo": "https://image.tmdb.org/t/p/w500/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+      },
+      {
+        "name": "Andrew John Tait",
+        "character": "BK Lobby Businessman",
+        "photo": "https://image.tmdb.org/t/p/w500/zwRwArmNyMTjXTJQopegK0kL439.jpg"
+      },
+      {
+        "name": "Simon Kluth",
+        "character": "Jaran Daniles",
+        "photo": "https://image.tmdb.org/t/p/w500/tk4Iwjm5z3G4bQRebSOpGopx6f0.jpg"
+      },
+      {
+        "name": "Andrei Nova",
+        "character": "BK Party Businessman",
+        "photo": "https://image.tmdb.org/t/p/w500/qW4RfbmHffTdiwmuEIQv3oyJ8YA.jpg"
+      },
+      {
+        "name": "Donking Rongavilla",
+        "character": "Employee of Jaran Daniles"
+      }
+    ],
+    "director": [
+      "Jean-François Richet"
+    ]
   }
 }

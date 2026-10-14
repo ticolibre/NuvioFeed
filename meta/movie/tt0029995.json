@@ -18,6 +18,84 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Donat",
+      "Rosalind Russell",
+      "Ralph Richardson",
+      "Rex Harrison",
+      "Emlyn Williams",
+      "Penelope Dudley-Ward",
+      "Francis L. Sullivan",
+      "Mary Clare",
+      "Cecil Parker",
+      "Nora Swinburne",
+      "Edward Chapman",
+      "Athene Seyler"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Donat",
+        "character": "Dr. Andrew Manson",
+        "photo": "https://image.tmdb.org/t/p/w500/zIgfKqnrmvsFXnhDpm1S90lHprD.jpg"
+      },
+      {
+        "name": "Rosalind Russell",
+        "character": "Christine Manson",
+        "photo": "https://image.tmdb.org/t/p/w500/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg"
+      },
+      {
+        "name": "Ralph Richardson",
+        "character": "Dr. Philip Denny",
+        "photo": "https://image.tmdb.org/t/p/w500/rPGUnz38kKtFfYmmEqVAjqZPA10.jpg"
+      },
+      {
+        "name": "Rex Harrison",
+        "character": "Dr. Frederick Lawford",
+        "photo": "https://image.tmdb.org/t/p/w500/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+      },
+      {
+        "name": "Emlyn Williams",
+        "character": "Owen",
+        "photo": "https://image.tmdb.org/t/p/w500/ri3bPiWWE4g3zEkinSuna34TNl3.jpg"
+      },
+      {
+        "name": "Penelope Dudley-Ward",
+        "character": "Toppy LeRoy",
+        "photo": "https://image.tmdb.org/t/p/w500/5KJ3ZVUNgo6AcTdk3l2J7p0OwVp.jpg"
+      },
+      {
+        "name": "Francis L. Sullivan",
+        "character": "Ben Chenkin"
+      },
+      {
+        "name": "Mary Clare",
+        "character": "Mrs. Orlando",
+        "photo": "https://image.tmdb.org/t/p/w500/uvRGDhYEg7jAOUoh00yiozgWnSw.jpg"
+      },
+      {
+        "name": "Cecil Parker",
+        "character": "Dr. Charles Every",
+        "photo": "https://image.tmdb.org/t/p/w500/bKRahLwOtk2EPYrE50zGjeZYsIO.jpg"
+      },
+      {
+        "name": "Nora Swinburne",
+        "character": "Mrs. Thornton",
+        "photo": "https://image.tmdb.org/t/p/w500/5K8cv6cJAFJfdresPBgI1EkOaLH.jpg"
+      },
+      {
+        "name": "Edward Chapman",
+        "character": "Joe Morgan",
+        "photo": "https://image.tmdb.org/t/p/w500/zNj1hRDc8C6Wdm92StP2RyjSmG1.jpg"
+      },
+      {
+        "name": "Athene Seyler",
+        "character": "Lady Raebank",
+        "photo": "https://image.tmdb.org/t/p/w500/oDi9maBaiTVuYMUg3k0c8MIKd68.jpg"
+      }
+    ],
+    "director": [
+      "King Vidor"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Janet Gaynor",
+      "Fredric March",
+      "Adolphe Menjou",
+      "May Robson",
+      "Andy Devine",
+      "Lionel Stander",
+      "Owen Moore",
+      "Peggy Wood",
+      "Elizabeth Jenns",
+      "Edgar Kennedy",
+      "J. C. Nugent",
+      "Guinn 'Big Boy' Williams"
+    ],
+    "app_cast": [
+      {
+        "name": "Janet Gaynor",
+        "character": "Esther Blodgett",
+        "photo": "https://image.tmdb.org/t/p/w500/xaiUwIObrSnFlNsqKrxJ10ZVMfw.jpg"
+      },
+      {
+        "name": "Fredric March",
+        "character": "Norman Maine",
+        "photo": "https://image.tmdb.org/t/p/w500/285cjPToJMXn0ALimtQoqofgM2G.jpg"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "character": "Oliver Niles",
+        "photo": "https://image.tmdb.org/t/p/w500/88FfjxT3cFDIbCIK0UmwyjEF6tU.jpg"
+      },
+      {
+        "name": "May Robson",
+        "character": "Lettie Blodgett",
+        "photo": "https://image.tmdb.org/t/p/w500/h4o6NoaGRoFvY8vo7YfbZtZvRtg.jpg"
+      },
+      {
+        "name": "Andy Devine",
+        "character": "Danny McGuire",
+        "photo": "https://image.tmdb.org/t/p/w500/rBCv7cszfbo2dkQbGxxff9xTppL.jpg"
+      },
+      {
+        "name": "Lionel Stander",
+        "character": "Matt Libby",
+        "photo": "https://image.tmdb.org/t/p/w500/AatXdvOQx9BEGSqHqL2eeoTNvCb.jpg"
+      },
+      {
+        "name": "Owen Moore",
+        "character": "Casey Burke",
+        "photo": "https://image.tmdb.org/t/p/w500/6iBzyALpUaf22lKD2kRgzmsHGuC.jpg"
+      },
+      {
+        "name": "Peggy Wood",
+        "character": "Miss Phillips",
+        "photo": "https://image.tmdb.org/t/p/w500/n6vfEUjEF5lFeTcEyaFPChO2EQl.jpg"
+      },
+      {
+        "name": "Elizabeth Jenns",
+        "character": "Anita Regis",
+        "photo": "https://image.tmdb.org/t/p/w500/qTOSYKwQmlK2WRML7gPwmgIaKMo.jpg"
+      },
+      {
+        "name": "Edgar Kennedy",
+        "character": "Pop Randall",
+        "photo": "https://image.tmdb.org/t/p/w500/oA8h7AdAUZYg5uO0xzFMQOkc9DQ.jpg"
+      },
+      {
+        "name": "J. C. Nugent",
+        "character": "Mr. Blodgett",
+        "photo": "https://image.tmdb.org/t/p/w500/5IG8xJtPGBwOSDr3ZHyuJWkfEOi.jpg"
+      },
+      {
+        "name": "Guinn 'Big Boy' Williams",
+        "character": "Posture Coach",
+        "photo": "https://image.tmdb.org/t/p/w500/oOJIg1Cnsc9IsT1861kLxyQjkuy.jpg"
+      }
+    ],
+    "director": [
+      "William A. Wellman"
+    ]
   }
 }

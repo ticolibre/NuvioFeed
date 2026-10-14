@@ -17,6 +17,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Steven Yeun",
+      "Han Ye-ri",
+      "Youn Yuh-jung",
+      "Will Patton",
+      "Alan Kim",
+      "Noel Kate Cho",
+      "Darryl Cox",
+      "Esther Moon",
+      "Ben Hall",
+      "Eric Starkey",
+      "Jacob Wade",
+      "James Carroll"
+    ],
+    "app_cast": [
+      {
+        "name": "Steven Yeun",
+        "character": "Jacob",
+        "photo": "https://image.tmdb.org/t/p/w500/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+      },
+      {
+        "name": "Han Ye-ri",
+        "character": "Monica",
+        "photo": "https://image.tmdb.org/t/p/w500/k5cM89lHQzbqlNH9b1Iy3ArNXRR.jpg"
+      },
+      {
+        "name": "Youn Yuh-jung",
+        "character": "Soonja",
+        "photo": "https://image.tmdb.org/t/p/w500/rSoSAX85gvPNSWmWXcCaJ2eBPrp.jpg"
+      },
+      {
+        "name": "Will Patton",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+      },
+      {
+        "name": "Alan Kim",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/mksORVS7tVouJZUWKlLrBSXgKQC.jpg"
+      },
+      {
+        "name": "Noel Kate Cho",
+        "character": "Anne",
+        "photo": "https://image.tmdb.org/t/p/w500/sSBsdu6Kc2aAQd0oNs7xXFt1sEK.jpg"
+      },
+      {
+        "name": "Darryl Cox",
+        "character": "Mr. Harlan",
+        "photo": "https://image.tmdb.org/t/p/w500/dokVBvE6DlV7gBXnLPfQo8GDC6t.jpg"
+      },
+      {
+        "name": "Esther Moon",
+        "character": "Mrs. Oh",
+        "photo": "https://image.tmdb.org/t/p/w500/eJS60HFBRKc7Ito1yOurIK2YfP4.jpg"
+      },
+      {
+        "name": "Ben Hall",
+        "character": "Dowsing Dan",
+        "photo": "https://image.tmdb.org/t/p/w500/kz9OvAxM8n6ouUeireS7W0IlHEO.jpg"
+      },
+      {
+        "name": "Eric Starkey",
+        "character": "Randy Boomer",
+        "photo": "https://image.tmdb.org/t/p/w500/uVyvYCysuesnsLcjUtDFT5Xa6xZ.jpg"
+      },
+      {
+        "name": "Jacob Wade",
+        "character": "Johnnie",
+        "photo": "https://image.tmdb.org/t/p/w500/eTt3oLsNoAHEpPWqOsiuLuz968S.jpg"
+      },
+      {
+        "name": "James Carroll",
+        "character": "Brother Roy",
+        "photo": "https://image.tmdb.org/t/p/w500/vFhoJerQSlwuYhUHfDpyYs9wst3.jpg"
+      }
+    ],
+    "director": [
+      "Lee Isaac Chung"
+    ]
   }
 }

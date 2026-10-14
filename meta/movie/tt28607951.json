@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Mikey Madison",
+      "Mark Eydelshteyn",
+      "Yura Borisov",
+      "Karren Karagulian",
+      "Vache Tovmasyan",
+      "Luna Sofía Miranda",
+      "Lindsey Normington",
+      "Darya Ekamasova",
+      "Aleksey Serebryakov",
+      "Anton Bitter",
+      "Ivy Wolk",
+      "Vlad Mamai"
+    ],
+    "app_cast": [
+      {
+        "name": "Mikey Madison",
+        "character": "Ani",
+        "photo": "https://image.tmdb.org/t/p/w500/nsWQNYBTBYE2TCzGpyXTpA0TTEz.jpg"
+      },
+      {
+        "name": "Mark Eydelshteyn",
+        "character": "Ivan",
+        "photo": "https://image.tmdb.org/t/p/w500/1M4zBlIRCdsQtJfi9Yn6uStGtsK.jpg"
+      },
+      {
+        "name": "Yura Borisov",
+        "character": "Igor",
+        "photo": "https://image.tmdb.org/t/p/w500/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+      },
+      {
+        "name": "Karren Karagulian",
+        "character": "Toros",
+        "photo": "https://image.tmdb.org/t/p/w500/rxyx8OFgShe0Kolptm5LpbsOUJj.jpg"
+      },
+      {
+        "name": "Vache Tovmasyan",
+        "character": "Garnik",
+        "photo": "https://image.tmdb.org/t/p/w500/cKHEEer9V0zK96f1gE0gvQ5IvZq.jpg"
+      },
+      {
+        "name": "Luna Sofía Miranda",
+        "character": "Lulu",
+        "photo": "https://image.tmdb.org/t/p/w500/eSEfNzd7f3Eg6LxWkiA1hjN51YN.jpg"
+      },
+      {
+        "name": "Lindsey Normington",
+        "character": "Diamond",
+        "photo": "https://image.tmdb.org/t/p/w500/2sEruLIIjLpyVAYHMSpraMPlFFb.jpg"
+      },
+      {
+        "name": "Darya Ekamasova",
+        "character": "Galina Zakharov",
+        "photo": "https://image.tmdb.org/t/p/w500/ehOZQn0EcYe0m7Qf59Bo6A8niIq.jpg"
+      },
+      {
+        "name": "Aleksey Serebryakov",
+        "character": "Nikolai Zakharov",
+        "photo": "https://image.tmdb.org/t/p/w500/ch67oszo5D7lK64xnDp9JFcmGLp.jpg"
+      },
+      {
+        "name": "Anton Bitter",
+        "character": "Tom",
+        "photo": "https://image.tmdb.org/t/p/w500/iWmPlBzc0RQ2XnHQc2tgLJbELlQ.jpg"
+      },
+      {
+        "name": "Ivy Wolk",
+        "character": "Crystal",
+        "photo": "https://image.tmdb.org/t/p/w500/33zDv0hoCj1BIcV8kXSNim7LX1r.jpg"
+      },
+      {
+        "name": "Vlad Mamai",
+        "character": "Aleks",
+        "photo": "https://image.tmdb.org/t/p/w500/hmXk1wbnStyIeiv0mWcflOGQaq0.jpg"
+      }
+    ],
+    "director": [
+      "Sean Baker"
+    ]
   }
 }

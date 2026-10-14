@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Helena Bonham Carter",
+      "Julian Sands",
+      "Maggie Smith",
+      "Denholm Elliott",
+      "Daniel Day-Lewis",
+      "Simon Callow",
+      "Rosemary Leach",
+      "Rupert Graves",
+      "Patrick Godfrey",
+      "Judi Dench",
+      "Fabia Drake",
+      "Joan Henley"
+    ],
+    "app_cast": [
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Lucy Honeychurch",
+        "photo": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "name": "Julian Sands",
+        "character": "George Emerson",
+        "photo": "https://image.tmdb.org/t/p/w500/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+      },
+      {
+        "name": "Maggie Smith",
+        "character": "Charlotte Bartlett",
+        "photo": "https://image.tmdb.org/t/p/w500/hjoWy2WB7RayROumynH3wuCa9aL.jpg"
+      },
+      {
+        "name": "Denholm Elliott",
+        "character": "Mr. Emerson",
+        "photo": "https://image.tmdb.org/t/p/w500/qqgkT4QMMUbiFztfcUVLPYRXAxD.jpg"
+      },
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Cecil Vyse",
+        "photo": "https://image.tmdb.org/t/p/w500/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Simon Callow",
+        "character": "The Reverend Mr. Beebe",
+        "photo": "https://image.tmdb.org/t/p/w500/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+      },
+      {
+        "name": "Rosemary Leach",
+        "character": "Mrs. Honeychurch",
+        "photo": "https://image.tmdb.org/t/p/w500/yqDbLLo4DTgUTdBxJXBDvflXz1v.jpg"
+      },
+      {
+        "name": "Rupert Graves",
+        "character": "Freddy Honeychurch",
+        "photo": "https://image.tmdb.org/t/p/w500/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg"
+      },
+      {
+        "name": "Patrick Godfrey",
+        "character": "The Reverend Mr. Eager",
+        "photo": "https://image.tmdb.org/t/p/w500/fGZMxe4VpV0rYDYbgXmyJlDO3f7.jpg"
+      },
+      {
+        "name": "Judi Dench",
+        "character": "Eleanor Lavish",
+        "photo": "https://image.tmdb.org/t/p/w500/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+      },
+      {
+        "name": "Fabia Drake",
+        "character": "Miss Catharine Alan",
+        "photo": "https://image.tmdb.org/t/p/w500/3IR1Y0z5SHbyYVBAcHu2FRRAQBY.jpg"
+      },
+      {
+        "name": "Joan Henley",
+        "character": "Miss Teresa Alan",
+        "photo": "https://image.tmdb.org/t/p/w500/xzprDRyLyZsKZNOzbBOcro3fwWA.jpg"
+      }
+    ],
+    "director": [
+      "James Ivory"
+    ]
   }
 }

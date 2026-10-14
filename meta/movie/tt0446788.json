@@ -17,6 +17,19 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Skylar Astin"
+    ],
+    "app_cast": [
+      {
+        "name": "Skylar Astin",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/dx6xbrerLNKHbUSOdTI68h7qrE3.jpg"
+      }
+    ],
+    "director": [
+      "Alexandra Shiva"
+    ]
   }
 }

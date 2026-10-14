@@ -18,6 +18,85 @@
           "rating": "5.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Andrew Jacobs",
+      "Jorge Diaz",
+      "Gabrielle Walsh",
+      "Renée Victor",
+      "Carlos Pratts",
+      "Noemi Gonzalez",
+      "David Saucedo",
+      "Gloria Sandoval",
+      "Katie Featherston",
+      "Micah Sloat",
+      "Molly Ephraim",
+      "Chloe Csengery"
+    ],
+    "app_cast": [
+      {
+        "name": "Andrew Jacobs",
+        "character": "Jesse Arista",
+        "photo": "https://image.tmdb.org/t/p/w500/vWN5qDL4OBSLl1CzstwSZGPM444.jpg"
+      },
+      {
+        "name": "Jorge Diaz",
+        "character": "Hector",
+        "photo": "https://image.tmdb.org/t/p/w500/gt6c8DRRnAJyHECoVZwEy6x9rpd.jpg"
+      },
+      {
+        "name": "Gabrielle Walsh",
+        "character": "Marisol Vargas",
+        "photo": "https://image.tmdb.org/t/p/w500/z7ZSuPsB6DTUpl72PF2yFlHAUUx.jpg"
+      },
+      {
+        "name": "Renée Victor",
+        "character": "Irma Arista",
+        "photo": "https://image.tmdb.org/t/p/w500/wAVDqwFhQsRQgO6VIYq6T9Wbbx8.jpg"
+      },
+      {
+        "name": "Carlos Pratts",
+        "character": "Oscar Lopez",
+        "photo": "https://image.tmdb.org/t/p/w500/hLE4sdwlADD4vKrKTbDrFFfICjK.jpg"
+      },
+      {
+        "name": "Noemi Gonzalez",
+        "character": "Evette Arista",
+        "photo": "https://image.tmdb.org/t/p/w500/9BXgDrNRYy6wp0gxFP5qpqc6B5x.jpg"
+      },
+      {
+        "name": "David Saucedo",
+        "character": "Cesar Arista",
+        "photo": "https://image.tmdb.org/t/p/w500/p27HRJvG6pPEsKQNVc4ksiUJ7Kr.jpg"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "character": "Ana Sanchez",
+        "photo": "https://image.tmdb.org/t/p/w500/rOUi5HwAXPfOhd9SkHs9vxLpWaP.jpg"
+      },
+      {
+        "name": "Katie Featherston",
+        "character": "Katie Featherston",
+        "photo": "https://image.tmdb.org/t/p/w500/mdbMy2B70PiFp0ckLo6WhSLDbR2.jpg"
+      },
+      {
+        "name": "Micah Sloat",
+        "character": "Micah Sloat",
+        "photo": "https://image.tmdb.org/t/p/w500/gF7ndGTcfBo7FMCaycY4ZTxAwxJ.jpg"
+      },
+      {
+        "name": "Molly Ephraim",
+        "character": "Ali Rey",
+        "photo": "https://image.tmdb.org/t/p/w500/hiYUdTuZHbInzqLYGCPb1P7TO9m.jpg"
+      },
+      {
+        "name": "Chloe Csengery",
+        "character": "Young Katie",
+        "photo": "https://image.tmdb.org/t/p/w500/jEXZlunoXQv1SVXVmCnRwZj4auv.jpg"
+      }
+    ],
+    "director": [
+      "Christopher Landon"
+    ]
   }
 }

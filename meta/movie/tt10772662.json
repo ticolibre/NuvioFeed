@@ -17,6 +17,62 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Lonnie Chavis",
+      "Ezra Dewey",
+      "Kristin Bauer",
+      "Scott Michael Foster",
+      "Micah A. Hauptman",
+      "Rich Ceraulo Ko",
+      "Anna B. Shaffer",
+      "Alfredo Tavares"
+    ],
+    "app_cast": [
+      {
+        "name": "Lonnie Chavis",
+        "character": "Bobby",
+        "photo": "https://image.tmdb.org/t/p/w500/7B7VrgAlckxU1elO7PwsHrMK6rH.jpg"
+      },
+      {
+        "name": "Ezra Dewey",
+        "character": "Kevin",
+        "photo": "https://image.tmdb.org/t/p/w500/f1fhAiedNj57VUCMKZVoDrvS5uY.jpg"
+      },
+      {
+        "name": "Kristin Bauer",
+        "character": "Ms. Burton",
+        "photo": "https://image.tmdb.org/t/p/w500/nin3d2l1ExYVftXise7JLq6RFsq.jpg"
+      },
+      {
+        "name": "Scott Michael Foster",
+        "character": "Officer Steward",
+        "photo": "https://image.tmdb.org/t/p/w500/eFn8ixpNNBNFJahkCpBGrfRuiYB.jpg"
+      },
+      {
+        "name": "Micah A. Hauptman",
+        "character": "The Creep",
+        "photo": "https://image.tmdb.org/t/p/w500/gOFfdRDtlz9XBlD6skGJzhhj3Id.jpg"
+      },
+      {
+        "name": "Rich Ceraulo Ko",
+        "character": "Officer 2",
+        "photo": "https://image.tmdb.org/t/p/w500/gQvp09PdcGaUC1vsHytENzt4ALw.jpg"
+      },
+      {
+        "name": "Anna B. Shaffer",
+        "character": "Officer 3",
+        "photo": "https://image.tmdb.org/t/p/w500/jBc0T2oAApMlLSyu8srU33zS4kb.jpg"
+      },
+      {
+        "name": "Alfredo Tavares",
+        "character": "Juan",
+        "photo": "https://image.tmdb.org/t/p/w500/4yj29kZbTWj5yPGwoxk650Bm1F2.jpg"
+      }
+    ],
+    "director": [
+      "David Charbonier",
+      "Justin Powell"
+    ]
   }
 }

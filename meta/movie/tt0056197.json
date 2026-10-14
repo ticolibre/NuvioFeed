@@ -19,6 +19,87 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "John Wayne",
+      "Robert Mitchum",
+      "Henry Fonda",
+      "Richard Burton",
+      "Sean Connery",
+      "Leslie Phillips",
+      "Robert Ryan",
+      "Paul Anka",
+      "Wolfgang Büttner",
+      "Mel Ferrer",
+      "Ray Danton",
+      "Peter Lawford"
+    ],
+    "app_cast": [
+      {
+        "name": "John Wayne",
+        "character": "Lt. Col. Benjamin Vandervoort",
+        "photo": "https://image.tmdb.org/t/p/w500/4VmiGmCwSnratHtYmT2AyXrdQ64.jpg"
+      },
+      {
+        "name": "Robert Mitchum",
+        "character": "Brig. Gen. Norman Cota",
+        "photo": "https://image.tmdb.org/t/p/w500/eXbqoAGBdF3gWqcuS3Zb7zkkqFw.jpg"
+      },
+      {
+        "name": "Henry Fonda",
+        "character": "Brig. Gen. Theodore Roosevelt Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+      },
+      {
+        "name": "Richard Burton",
+        "character": "Flight Officer David Campbell",
+        "photo": "https://image.tmdb.org/t/p/w500/j8yRSo6S2bnYubKZTBUvD7fuOyX.jpg"
+      },
+      {
+        "name": "Sean Connery",
+        "character": "Pvt. Flanagan",
+        "photo": "https://image.tmdb.org/t/p/w500/cd0zKpYJ6eSutkrZkLFxQCGjhnF.jpg"
+      },
+      {
+        "name": "Leslie Phillips",
+        "character": "RAF Officer Mac",
+        "photo": "https://image.tmdb.org/t/p/w500/xD1ud9ud75GRRQz2EDATyE7NhUV.jpg"
+      },
+      {
+        "name": "Robert Ryan",
+        "character": "Brig. Gen. James M. Gavin",
+        "photo": "https://image.tmdb.org/t/p/w500/hpWgaPTbBLGCdYXHcEVLIWaA3m0.jpg"
+      },
+      {
+        "name": "Paul Anka",
+        "character": "U.S. Army Ranger",
+        "photo": "https://image.tmdb.org/t/p/w500/8Qx0tMaYEPAWkUOwOnsnm4lZad5.jpg"
+      },
+      {
+        "name": "Wolfgang Büttner",
+        "character": "Maj. Gen. Dr. Hans Speidel",
+        "photo": "https://image.tmdb.org/t/p/w500/l9wlMp0oGBykx9tOMkN6vUByKSr.jpg"
+      },
+      {
+        "name": "Mel Ferrer",
+        "character": "Maj. Gen. Robert Haines",
+        "photo": "https://image.tmdb.org/t/p/w500/gHnbzoVeyyaCp77UUB4D6p4GGeI.jpg"
+      },
+      {
+        "name": "Ray Danton",
+        "character": "Capt. Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/m6AbhBmKtBIBxYoB48l7M3PNAp2.jpg"
+      },
+      {
+        "name": "Peter Lawford",
+        "character": "Lord Lovat",
+        "photo": "https://image.tmdb.org/t/p/w500/bRZ2A4UR2JMMQxw0VxcMBQDgVQs.jpg"
+      }
+    ],
+    "director": [
+      "Ken Annakin",
+      "Bernhard Wicki",
+      "Andrew Marton"
+    ]
   }
 }

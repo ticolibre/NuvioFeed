@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Kirsten Dunst",
+      "Wagner Moura",
+      "Cailee Spaeny",
+      "Stephen McKinley Henderson",
+      "Nelson Lee",
+      "Nick Offerman",
+      "Jefferson White",
+      "Evan Lai",
+      "Vince Pisani",
+      "Justin James Boykin",
+      "Jess Matney",
+      "Greg Hill"
+    ],
+    "app_cast": [
+      {
+        "name": "Kirsten Dunst",
+        "character": "Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+      },
+      {
+        "name": "Wagner Moura",
+        "character": "Joel",
+        "photo": "https://image.tmdb.org/t/p/w500/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+      },
+      {
+        "name": "Cailee Spaeny",
+        "character": "Jessie",
+        "photo": "https://image.tmdb.org/t/p/w500/6gUzyMnwo7TjZA7E1Amd1GI8JGw.jpg"
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "character": "Sammy",
+        "photo": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+      },
+      {
+        "name": "Nelson Lee",
+        "character": "Tony",
+        "photo": "https://image.tmdb.org/t/p/w500/3zKvaCGrZnxQLnlUxnCITeMp86K.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "President",
+        "photo": "https://image.tmdb.org/t/p/w500/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+      },
+      {
+        "name": "Jefferson White",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/8QSrhrWpqTBGJN3rfijXCvmOcb5.jpg"
+      },
+      {
+        "name": "Evan Lai",
+        "character": "Bohai",
+        "photo": "https://image.tmdb.org/t/p/w500/rSDVfjEcWdFKztdWIy8hkRAnDoI.jpg"
+      },
+      {
+        "name": "Vince Pisani",
+        "character": "Concierge",
+        "photo": "https://image.tmdb.org/t/p/w500/auCC2e7IKC146MDvO4k8tPXMKaZ.jpg"
+      },
+      {
+        "name": "Justin James Boykin",
+        "character": "American Soldier (Middle East)",
+        "photo": "https://image.tmdb.org/t/p/w500/uKduJ7UggxShJSu9nsIxd4gxbC8.jpg"
+      },
+      {
+        "name": "Jess Matney",
+        "character": "Checkpoint Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/wBNtFJOn9T1PcYO29EU269gLJAM.jpg"
+      },
+      {
+        "name": "Greg Hill",
+        "character": "Pete",
+        "photo": "https://image.tmdb.org/t/p/w500/rs8NzDP45azvMBBGESefA0nPqTF.jpg"
+      }
+    ],
+    "director": [
+      "Alex Garland"
+    ]
   }
 }

@@ -19,6 +19,83 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Paul Muni",
+      "Luise Rainer",
+      "Walter Connolly",
+      "Tilly Losch",
+      "Charley Grapewin",
+      "Jessie Ralph",
+      "Soo Yong",
+      "Keye Luke",
+      "Roland Lui",
+      "Suzanna Kim",
+      "Ching Wah Lee",
+      "Harold Huber"
+    ],
+    "app_cast": [
+      {
+        "name": "Paul Muni",
+        "character": "Wang",
+        "photo": "https://image.tmdb.org/t/p/w500/zBWkurrylrxKRmcOmN7bI9XlmBn.jpg"
+      },
+      {
+        "name": "Luise Rainer",
+        "character": "O-Lan",
+        "photo": "https://image.tmdb.org/t/p/w500/nSIKTFgYwlhYFRM8JqAEdLnL4oB.jpg"
+      },
+      {
+        "name": "Walter Connolly",
+        "character": "Uncle",
+        "photo": "https://image.tmdb.org/t/p/w500/mJB6tVqIlr5zhiSqCx2Vl0Kr6Nw.jpg"
+      },
+      {
+        "name": "Tilly Losch",
+        "character": "Lotus",
+        "photo": "https://image.tmdb.org/t/p/w500/xImi4NxeWVXVlPkyh1PHxiy0ng.jpg"
+      },
+      {
+        "name": "Charley Grapewin",
+        "character": "Old Father",
+        "photo": "https://image.tmdb.org/t/p/w500/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+      },
+      {
+        "name": "Jessie Ralph",
+        "character": "Cuckoo",
+        "photo": "https://image.tmdb.org/t/p/w500/gy4W2M3Jpi4kb7NTc6MPHUhHgc0.jpg"
+      },
+      {
+        "name": "Soo Yong",
+        "character": "Aunt",
+        "photo": "https://image.tmdb.org/t/p/w500/d7aQeYKH0ONm1mlb41Ct8KHj7aI.jpg"
+      },
+      {
+        "name": "Keye Luke",
+        "character": "Elder Son",
+        "photo": "https://image.tmdb.org/t/p/w500/fh9RufZ6VQjKGFVtXFr3wv2MYCd.jpg"
+      },
+      {
+        "name": "Roland Lui",
+        "character": "Younger Son"
+      },
+      {
+        "name": "Suzanna Kim",
+        "character": "Little Fool"
+      },
+      {
+        "name": "Ching Wah Lee",
+        "character": "Ching",
+        "photo": "https://image.tmdb.org/t/p/w500/zIjxzKloPGJZQZG7UwE2IygAJSh.jpg"
+      },
+      {
+        "name": "Harold Huber",
+        "character": "Cousin",
+        "photo": "https://image.tmdb.org/t/p/w500/46XRvEpn9ADtLp1OXXeIHMSZxHc.jpg"
+      }
+    ],
+    "director": [
+      "Sidney Franklin"
+    ]
   }
 }

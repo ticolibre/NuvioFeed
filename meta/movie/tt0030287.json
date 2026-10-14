@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Bette Davis",
+      "Henry Fonda",
+      "George Brent",
+      "Margaret Lindsay",
+      "Donald Crisp",
+      "Fay Bainter",
+      "Richard Cromwell",
+      "Henry O'Neill",
+      "Spring Byington",
+      "John Litel",
+      "Irving Pichel",
+      "Theresa Harris"
+    ],
+    "app_cast": [
+      {
+        "name": "Bette Davis",
+        "character": "Julie Marsden",
+        "photo": "https://image.tmdb.org/t/p/w500/dr7UzpC9055ByCdCUHvTP1qsD2X.jpg"
+      },
+      {
+        "name": "Henry Fonda",
+        "character": "Preston Dillard",
+        "photo": "https://image.tmdb.org/t/p/w500/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+      },
+      {
+        "name": "George Brent",
+        "character": "Buck Cantrell",
+        "photo": "https://image.tmdb.org/t/p/w500/831vetUvPxlDCd6yJitdnH1YeyX.jpg"
+      },
+      {
+        "name": "Margaret Lindsay",
+        "character": "Amy Bradford Dillard",
+        "photo": "https://image.tmdb.org/t/p/w500/70geXvjmQKZIqQdbaZ0eKKTWCym.jpg"
+      },
+      {
+        "name": "Donald Crisp",
+        "character": "Dr. Livingstone",
+        "photo": "https://image.tmdb.org/t/p/w500/MEPq09iLEwJVrxw1T97qOILhk6.jpg"
+      },
+      {
+        "name": "Fay Bainter",
+        "character": "Aunt Belle Massey",
+        "photo": "https://image.tmdb.org/t/p/w500/mQm76108ttf5Sn1T9dkZ8rHJ1Kp.jpg"
+      },
+      {
+        "name": "Richard Cromwell",
+        "character": "Ted Dillard",
+        "photo": "https://image.tmdb.org/t/p/w500/i18jVoVaMB2ONwG0AvpdSYfqjuz.jpg"
+      },
+      {
+        "name": "Henry O'Neill",
+        "character": "General Theopholus Bogardus",
+        "photo": "https://image.tmdb.org/t/p/w500/2jrV5PWrFNtnecl0Ls6zOJOp1EI.jpg"
+      },
+      {
+        "name": "Spring Byington",
+        "character": "Mrs. Kendrick",
+        "photo": "https://image.tmdb.org/t/p/w500/uXyfIzuEwtMhcFufThCITAAxKRh.jpg"
+      },
+      {
+        "name": "John Litel",
+        "character": "Jean La Cour",
+        "photo": "https://image.tmdb.org/t/p/w500/cH4K9uyqAjUWKZjBq0nA8VyOe14.jpg"
+      },
+      {
+        "name": "Irving Pichel",
+        "character": "Huger",
+        "photo": "https://image.tmdb.org/t/p/w500/mUWJiT1z5XpXowXQuiREAon595L.jpg"
+      },
+      {
+        "name": "Theresa Harris",
+        "character": "Zette",
+        "photo": "https://image.tmdb.org/t/p/w500/AgDlBQrEiwpSS4TMSN674yQB4n.jpg"
+      }
+    ],
+    "director": [
+      "William Wyler"
+    ]
   }
 }

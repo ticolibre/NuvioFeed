@@ -20,6 +20,84 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "John Wayne",
+      "Richard Widmark",
+      "Laurence Harvey",
+      "Frankie Avalon",
+      "Patrick Wayne",
+      "Linda Cristal",
+      "Joan O'Brien",
+      "Chill Wills",
+      "Joseph Calleia",
+      "Ken Curtis",
+      "Carlos Arruza",
+      "Jester Hairston"
+    ],
+    "app_cast": [
+      {
+        "name": "John Wayne",
+        "character": "Col. Davy Crockett",
+        "photo": "https://image.tmdb.org/t/p/w500/4VmiGmCwSnratHtYmT2AyXrdQ64.jpg"
+      },
+      {
+        "name": "Richard Widmark",
+        "character": "Jim Bowie",
+        "photo": "https://image.tmdb.org/t/p/w500/fvR0fQcGTVzmHZUGfPocqT6pRgJ.jpg"
+      },
+      {
+        "name": "Laurence Harvey",
+        "character": "Col. William Travis",
+        "photo": "https://image.tmdb.org/t/p/w500/l9iSQUawIByUjpLg5SI03oOpd64.jpg"
+      },
+      {
+        "name": "Frankie Avalon",
+        "character": "Smitty",
+        "photo": "https://image.tmdb.org/t/p/w500/oBn64Yi9BXf0xWsNyPI0m9bEQf9.jpg"
+      },
+      {
+        "name": "Patrick Wayne",
+        "character": "Capt. James Butler Bonham",
+        "photo": "https://image.tmdb.org/t/p/w500/u0EjouQWSjqr5npkGW9EXLNNAnC.jpg"
+      },
+      {
+        "name": "Linda Cristal",
+        "character": "Flaca",
+        "photo": "https://image.tmdb.org/t/p/w500/3nlyw5APVkJAeSBtPwu4DUH3xRt.jpg"
+      },
+      {
+        "name": "Joan O'Brien",
+        "character": "Mrs. Sue Dickinson",
+        "photo": "https://image.tmdb.org/t/p/w500/t2k99bcDvoWAKH3cBPzfjcr3EcV.jpg"
+      },
+      {
+        "name": "Chill Wills",
+        "character": "Beekeeper",
+        "photo": "https://image.tmdb.org/t/p/w500/uk1BljEiYkzSd7ihp7SJIpBVI3u.jpg"
+      },
+      {
+        "name": "Joseph Calleia",
+        "character": "Juan Seguin",
+        "photo": "https://image.tmdb.org/t/p/w500/qLLipHfet9kXRiveOqmimE5SGg1.jpg"
+      },
+      {
+        "name": "Ken Curtis",
+        "character": "Capt. Almeron Dickinson",
+        "photo": "https://image.tmdb.org/t/p/w500/nL4aCX6RJuuw1ML3FGWELXNiCdD.jpg"
+      },
+      {
+        "name": "Carlos Arruza",
+        "character": "Lt. Reyes"
+      },
+      {
+        "name": "Jester Hairston",
+        "character": "Jethro",
+        "photo": "https://image.tmdb.org/t/p/w500/e3XbFd7pDYsbrhjYaJiL0cu2As3.jpg"
+      }
+    ],
+    "director": [
+      "John Wayne"
+    ]
   }
 }

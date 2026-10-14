@@ -18,6 +18,81 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Suraj Sharma",
+      "Irrfan Khan",
+      "Ayush Tandon",
+      "Gautam Belur",
+      "Adil Hussain",
+      "Tabu",
+      "Ayaan Khan",
+      "Mohd Abbas Khaleeli",
+      "Vibish Sivakumar",
+      "Rafe Spall",
+      "Gérard Depardieu",
+      "James Saito"
+    ],
+    "app_cast": [
+      {
+        "name": "Suraj Sharma",
+        "character": "Pi Patel",
+        "photo": "https://image.tmdb.org/t/p/w500/zM1GN7rnzdhoIK3FBXaBCOx7igy.jpg"
+      },
+      {
+        "name": "Irrfan Khan",
+        "character": "Adult Pi Patel",
+        "photo": "https://image.tmdb.org/t/p/w500/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+      },
+      {
+        "name": "Ayush Tandon",
+        "character": "Pi Patel (11-12 Years)",
+        "photo": "https://image.tmdb.org/t/p/w500/iVq1xDK3dYPSAulHdDW2JiIlco1.jpg"
+      },
+      {
+        "name": "Gautam Belur",
+        "character": "Pi Patel (5 Years)"
+      },
+      {
+        "name": "Adil Hussain",
+        "character": "Santosh Patel",
+        "photo": "https://image.tmdb.org/t/p/w500/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg"
+      },
+      {
+        "name": "Tabu",
+        "character": "Gita Patel",
+        "photo": "https://image.tmdb.org/t/p/w500/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg"
+      },
+      {
+        "name": "Ayaan Khan",
+        "character": "Ravi Patel (7 Years)"
+      },
+      {
+        "name": "Mohd Abbas Khaleeli",
+        "character": "Ravi Patel (13-14 Years)"
+      },
+      {
+        "name": "Vibish Sivakumar",
+        "character": "Ravi Patel (18-19 Years)"
+      },
+      {
+        "name": "Rafe Spall",
+        "character": "Writer",
+        "photo": "https://image.tmdb.org/t/p/w500/zcqUqAvO7RQnitcCNNfTVPaiQtS.jpg"
+      },
+      {
+        "name": "Gérard Depardieu",
+        "character": "Cook",
+        "photo": "https://image.tmdb.org/t/p/w500/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
+      },
+      {
+        "name": "James Saito",
+        "character": "Older Insurance Investigator",
+        "photo": "https://image.tmdb.org/t/p/w500/2XiFPyvmJWUtaWHAJOhrMa6JJhQ.jpg"
+      }
+    ],
+    "director": [
+      "Ang Lee"
+    ]
   }
 }

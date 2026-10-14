@@ -18,6 +18,84 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Katie Featherston",
+      "Sprague Grayden",
+      "Lauren Bittner",
+      "Christopher Nicholas Smith",
+      "Chloe Csengery",
+      "Jessica Tyler Brown",
+      "Marilyn Alex",
+      "Dustin Ingram",
+      "Jessica Berger",
+      "Maria Olsen",
+      "Hallie Foote",
+      "William Juan Prieto"
+    ],
+    "app_cast": [
+      {
+        "name": "Katie Featherston",
+        "character": "Katie Featherston",
+        "photo": "https://image.tmdb.org/t/p/w500/mdbMy2B70PiFp0ckLo6WhSLDbR2.jpg"
+      },
+      {
+        "name": "Sprague Grayden",
+        "character": "Kristi Rey",
+        "photo": "https://image.tmdb.org/t/p/w500/dhWyIHiG9fYMkcd3pUK3Q7kFm37.jpg"
+      },
+      {
+        "name": "Lauren Bittner",
+        "character": "Julie",
+        "photo": "https://image.tmdb.org/t/p/w500/1rJdHySYguJMogq39eSJCFQWwWy.jpg"
+      },
+      {
+        "name": "Christopher Nicholas Smith",
+        "character": "Dennis",
+        "photo": "https://image.tmdb.org/t/p/w500/aNgDvTUySxZN2SfHQLzhPs5oncz.jpg"
+      },
+      {
+        "name": "Chloe Csengery",
+        "character": "Young Katie",
+        "photo": "https://image.tmdb.org/t/p/w500/jEXZlunoXQv1SVXVmCnRwZj4auv.jpg"
+      },
+      {
+        "name": "Jessica Tyler Brown",
+        "character": "Young Kristi",
+        "photo": "https://image.tmdb.org/t/p/w500/g4hKYEa0yL3gQwpbRY6bmGvnzCy.jpg"
+      },
+      {
+        "name": "Marilyn Alex",
+        "character": "Creepy Lady",
+        "photo": "https://image.tmdb.org/t/p/w500/qxnL3AhFdlIBIy79wziTcViEX5H.jpg"
+      },
+      {
+        "name": "Dustin Ingram",
+        "character": "Randy Rosen",
+        "photo": "https://image.tmdb.org/t/p/w500/4jH3kSG3JCcjWtbIQYkGmU1Cugc.jpg"
+      },
+      {
+        "name": "Jessica Berger",
+        "character": "Kid"
+      },
+      {
+        "name": "Maria Olsen",
+        "character": "Creepy Lady",
+        "photo": "https://image.tmdb.org/t/p/w500/rx36UHOn6ZcQoBqRD3OcKHXNT4K.jpg"
+      },
+      {
+        "name": "Hallie Foote",
+        "character": "Grandma Lois",
+        "photo": "https://image.tmdb.org/t/p/w500/ahyy93tNJ3rx77dtIm7OSWRu9tD.jpg"
+      },
+      {
+        "name": "William Juan Prieto",
+        "character": "Hunter Rey"
+      }
+    ],
+    "director": [
+      "Henry Joost",
+      "Ariel Schulman"
+    ]
   }
 }

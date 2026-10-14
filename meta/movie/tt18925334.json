@@ -18,6 +18,82 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Mia Goth",
+      "David Corenswet",
+      "Tandi Wright",
+      "Matthew Sunderland",
+      "Emma Jenkins-Purro",
+      "Alistair Sewell",
+      "Amelia Reid",
+      "Gabe McDonnell",
+      "Lauren Stewart",
+      "Todd Rippon",
+      "Grace Acheson",
+      "Shaman Theron"
+    ],
+    "app_cast": [
+      {
+        "name": "Mia Goth",
+        "character": "Pearl",
+        "photo": "https://image.tmdb.org/t/p/w500/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
+      },
+      {
+        "name": "David Corenswet",
+        "character": "Projectionist",
+        "photo": "https://image.tmdb.org/t/p/w500/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+      },
+      {
+        "name": "Tandi Wright",
+        "character": "Ruth",
+        "photo": "https://image.tmdb.org/t/p/w500/xLQ9j4pJ46HZhs5jMJ87w9zjv82.jpg"
+      },
+      {
+        "name": "Matthew Sunderland",
+        "character": "Father",
+        "photo": "https://image.tmdb.org/t/p/w500/l98RIqtlmOGaNpo1gnprS2cxqaw.jpg"
+      },
+      {
+        "name": "Emma Jenkins-Purro",
+        "character": "Mitsy",
+        "photo": "https://image.tmdb.org/t/p/w500/t7NSUojKs4pmDWKe9RTLYCVNpHA.jpg"
+      },
+      {
+        "name": "Alistair Sewell",
+        "character": "Howard",
+        "photo": "https://image.tmdb.org/t/p/w500/bE5tjZAC3BBoP0Mh1WgT00e6zfT.jpg"
+      },
+      {
+        "name": "Amelia Reid",
+        "character": "Margaret",
+        "photo": "https://image.tmdb.org/t/p/w500/j6P7HskVDbV2e8BNap3r16Uqh5x.jpg"
+      },
+      {
+        "name": "Gabe McDonnell",
+        "character": "Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/xvHEuYOn2zaMyoYlweoCI6VCIdo.jpg"
+      },
+      {
+        "name": "Lauren Stewart",
+        "character": "Pianist"
+      },
+      {
+        "name": "Todd Rippon",
+        "character": "Director",
+        "photo": "https://image.tmdb.org/t/p/w500/t4hW0lz412I2Ss8Wiudi56VWXFi.jpg"
+      },
+      {
+        "name": "Grace Acheson",
+        "character": "Ticket Taker"
+      },
+      {
+        "name": "Shaman Theron",
+        "character": "Crying Girl (uncredited)"
+      }
+    ],
+    "director": [
+      "Ti West"
+    ]
   }
 }

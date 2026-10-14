@@ -19,6 +19,83 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Jill Clayburgh",
+      "Alan Bates",
+      "Michael Murphy",
+      "Cliff Gorman",
+      "Kelly Bishop",
+      "Lisa Lucas",
+      "Linda Miller",
+      "Patricia Quinn",
+      "Andrew Duncan",
+      "Daniel Seltzer",
+      "Matthew Arkin",
+      "Penelope Russianoff"
+    ],
+    "app_cast": [
+      {
+        "name": "Jill Clayburgh",
+        "character": "Erica Benton",
+        "photo": "https://image.tmdb.org/t/p/w500/ruTMoRcRwdAdTHXl78SQX1tpeHA.jpg"
+      },
+      {
+        "name": "Alan Bates",
+        "character": "Saul Kaplan",
+        "photo": "https://image.tmdb.org/t/p/w500/w1ewomnpyqnft4uyNz24Dk12gYg.jpg"
+      },
+      {
+        "name": "Michael Murphy",
+        "character": "Martin Benton",
+        "photo": "https://image.tmdb.org/t/p/w500/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+      },
+      {
+        "name": "Cliff Gorman",
+        "character": "Charlie",
+        "photo": "https://image.tmdb.org/t/p/w500/sWCUAavM204vykyoVKW3TlRYmWF.jpg"
+      },
+      {
+        "name": "Kelly Bishop",
+        "character": "Elaine Liebowitz",
+        "photo": "https://image.tmdb.org/t/p/w500/gYSCnHaLAQU4RCgoyqBBslK1Uy5.jpg"
+      },
+      {
+        "name": "Lisa Lucas",
+        "character": "Patti Benton",
+        "photo": "https://image.tmdb.org/t/p/w500/62zK9kFtPJ03byCUnbAhbXjYsfQ.jpg"
+      },
+      {
+        "name": "Linda Miller",
+        "character": "Jeannette Lewin",
+        "photo": "https://image.tmdb.org/t/p/w500/bghU5vQP8W9UD9WxvK3QPxA0wRg.jpg"
+      },
+      {
+        "name": "Patricia Quinn",
+        "character": "Sue Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/yhfNHTyo5Y74GpnZA3hRsLC5NA2.jpg"
+      },
+      {
+        "name": "Andrew Duncan",
+        "character": "Bob",
+        "photo": "https://image.tmdb.org/t/p/w500/xKLAtV03Kvmz7huZra4nPsH9kpb.jpg"
+      },
+      {
+        "name": "Daniel Seltzer",
+        "character": "Dr. Arthur Jacobs"
+      },
+      {
+        "name": "Matthew Arkin",
+        "character": "Phil",
+        "photo": "https://image.tmdb.org/t/p/w500/294aAM9GbvhX3YybBbZQXZbQF7A.jpg"
+      },
+      {
+        "name": "Penelope Russianoff",
+        "character": "Dr. Tanya Berkel"
+      }
+    ],
+    "director": [
+      "Paul Mazursky"
+    ]
   }
 }

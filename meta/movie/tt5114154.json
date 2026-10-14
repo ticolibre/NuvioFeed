@@ -19,6 +19,82 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Lee Pace",
+      "Carrie Coon",
+      "Sander Thomas",
+      "Ray Baker",
+      "Amy Smart",
+      "Julian LaTourelle",
+      "Ana Ortiz",
+      "Cliff Chamberlain",
+      "Lylah Raye Acosta",
+      "Ruby Moncrieff-Karten",
+      "Molly Hagan",
+      "Anna Diop"
+    ],
+    "app_cast": [
+      {
+        "name": "Lee Pace",
+        "character": "Mark",
+        "photo": "https://image.tmdb.org/t/p/w500/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+      },
+      {
+        "name": "Carrie Coon",
+        "character": "Elizabeth",
+        "photo": "https://image.tmdb.org/t/p/w500/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+      },
+      {
+        "name": "Sander Thomas",
+        "character": "Jacob",
+        "photo": "https://image.tmdb.org/t/p/w500/iPQK8R8rBrFFNEWufWcxNiT6pnE.jpg"
+      },
+      {
+        "name": "Ray Baker",
+        "character": "Lenn",
+        "photo": "https://image.tmdb.org/t/p/w500/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg"
+      },
+      {
+        "name": "Amy Smart",
+        "character": "Amy",
+        "photo": "https://image.tmdb.org/t/p/w500/9GQwkmqd5klfXvhd29YI5OKAx3N.jpg"
+      },
+      {
+        "name": "Julian LaTourelle",
+        "character": "Dash"
+      },
+      {
+        "name": "Ana Ortiz",
+        "character": "Janice",
+        "photo": "https://image.tmdb.org/t/p/w500/rdOn32CUJNTd2ZavBs48eS41Rra.jpg"
+      },
+      {
+        "name": "Cliff Chamberlain",
+        "character": "Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/2yTzF2kdRSVmnEAwQtT442BNJje.jpg"
+      },
+      {
+        "name": "Lylah Raye Acosta",
+        "character": "Emma"
+      },
+      {
+        "name": "Ruby Moncrieff-Karten",
+        "character": "Isabelle"
+      },
+      {
+        "name": "Molly Hagan",
+        "character": "Daniels",
+        "photo": "https://image.tmdb.org/t/p/w500/m5pL170dlh7ex4lTESAK5kKARde.jpg"
+      },
+      {
+        "name": "Anna Diop",
+        "character": "Kate",
+        "photo": "https://image.tmdb.org/t/p/w500/1QcuJHVyLXZNnuwmNuqL9Lon4kq.jpg"
+      }
+    ],
+    "director": [
+      "Karen Moncrieff"
+    ]
   }
 }

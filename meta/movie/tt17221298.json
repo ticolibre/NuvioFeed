@@ -18,6 +18,84 @@
           "rating": "5.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Brianne Tju",
+      "Ali Gallo",
+      "Benjamin Wadsworth",
+      "Drew Scheid",
+      "Lo Graham",
+      "C.J. LeBlanc",
+      "Uriah Shelton",
+      "Joshua Mikel",
+      "Peter Giles",
+      "Blake Burt",
+      "Dana Wing Lau",
+      "Angel Lia Spitale"
+    ],
+    "app_cast": [
+      {
+        "name": "Brianne Tju",
+        "character": "Ever",
+        "photo": "https://image.tmdb.org/t/p/w500/nrC7MjGcpggazkcZSEyjlkUAM4k.jpg"
+      },
+      {
+        "name": "Ali Gallo",
+        "character": "Tamra",
+        "photo": "https://image.tmdb.org/t/p/w500/7OYhBLoGdrnhfw6vIlZNCFvzWN9.jpg"
+      },
+      {
+        "name": "Benjamin Wadsworth",
+        "character": "Randall",
+        "photo": "https://image.tmdb.org/t/p/w500/smNGeAw59reyB1btRIQOaxgbLZ4.jpg"
+      },
+      {
+        "name": "Drew Scheid",
+        "character": "Steven",
+        "photo": "https://image.tmdb.org/t/p/w500/ztj1zSSOLe5WtpvNVVIP1ir4xqa.jpg"
+      },
+      {
+        "name": "Lo Graham",
+        "character": "Jacey"
+      },
+      {
+        "name": "C.J. LeBlanc",
+        "character": "Hunt",
+        "photo": "https://image.tmdb.org/t/p/w500/w8WgnA0qCcSZvxAa2GtLaPCueVh.jpg"
+      },
+      {
+        "name": "Uriah Shelton",
+        "character": "Danny",
+        "photo": "https://image.tmdb.org/t/p/w500/rplEsJ5Ch5lOMji6VBysa3mDM2O.jpg"
+      },
+      {
+        "name": "Joshua Mikel",
+        "character": "Chip / Iron Maiden",
+        "photo": "https://image.tmdb.org/t/p/w500/SwmoaKeiAhznYnSsEOg58NNu2w.jpg"
+      },
+      {
+        "name": "Peter Giles",
+        "character": "Mr. Lorenzo",
+        "photo": "https://image.tmdb.org/t/p/w500/cdeLADYlf5zfkOnkX93L6WsegnG.jpg"
+      },
+      {
+        "name": "Blake Burt",
+        "character": "Ryan",
+        "photo": "https://image.tmdb.org/t/p/w500/jAA7A5rZHSzPMK3sKMcHWXwN0D3.jpg"
+      },
+      {
+        "name": "Dana Wing Lau",
+        "character": "Ever's Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/kC9LLnXPSIHkMcWFcNoBS9zaJFR.jpg"
+      },
+      {
+        "name": "Angel Lia Spitale",
+        "character": "Juniper",
+        "photo": "https://image.tmdb.org/t/p/w500/KR9ZLgCoKZKO4lwnaRuJfJPXd6.jpg"
+      }
+    ],
+    "director": [
+      "Marcus Dunstan"
+    ]
   }
 }

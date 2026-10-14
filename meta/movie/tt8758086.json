@@ -18,6 +18,79 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Daniella Pineda",
+      "Austin Amelio",
+      "Elle LaMont",
+      "Lee Eddy",
+      "Miles Emmons",
+      "Janeane Garofalo",
+      "Sophianna Smith",
+      "Jamy Lentz",
+      "Elke Boucher-Depew",
+      "Dylan Gage",
+      "Rochelle Robinson",
+      "Jessie Tilton"
+    ],
+    "app_cast": [
+      {
+        "name": "Daniella Pineda",
+        "character": "Marina",
+        "photo": "https://image.tmdb.org/t/p/w500/o8h5qbyy8A0zKTRN57YOlQOafyQ.jpg"
+      },
+      {
+        "name": "Austin Amelio",
+        "character": "Will",
+        "photo": "https://image.tmdb.org/t/p/w500/y4QTXuSSmD99n8dinMiTRBkUnAp.jpg"
+      },
+      {
+        "name": "Elle LaMont",
+        "character": "Alice",
+        "photo": "https://image.tmdb.org/t/p/w500/uR16F3g1J32HgvnlHW890ZAFnnT.jpg"
+      },
+      {
+        "name": "Lee Eddy",
+        "character": "Mrs. Bellows",
+        "photo": "https://image.tmdb.org/t/p/w500/gIcP0EGRB0BmKyanp2VK9RyoGtA.jpg"
+      },
+      {
+        "name": "Miles Emmons",
+        "character": "Bryce"
+      },
+      {
+        "name": "Janeane Garofalo",
+        "character": "Dr. Ward",
+        "photo": "https://image.tmdb.org/t/p/w500/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+      },
+      {
+        "name": "Sophianna Smith",
+        "character": "Young Rebecca"
+      },
+      {
+        "name": "Jamy Lentz",
+        "character": "Young Marina"
+      },
+      {
+        "name": "Elke Boucher-Depew",
+        "character": "Young Lily"
+      },
+      {
+        "name": "Dylan Gage",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/7OLY9ONyU58mhHp69uXyXFN3Swa.jpg"
+      },
+      {
+        "name": "Rochelle Robinson",
+        "character": "Mrs. Cline"
+      },
+      {
+        "name": "Jessie Tilton",
+        "character": "Rebecca Cline"
+      }
+    ],
+    "director": [
+      "Owen Egerton"
+    ]
   }
 }

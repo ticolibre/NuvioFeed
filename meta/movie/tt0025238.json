@@ -18,6 +18,85 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "James Cagney",
+      "Pat O'Brien",
+      "Gloria Stuart",
+      "Frank McHugh",
+      "Dorothy Tree",
+      "Robert Barrat",
+      "Willard Robertson",
+      "Guinn 'Big Boy' Williams",
+      "Howard Hickman",
+      "Maude Eburne",
+      "George Irving",
+      "Milton Kibbee"
+    ],
+    "app_cast": [
+      {
+        "name": "James Cagney",
+        "character": "Chesty O'Conner",
+        "photo": "https://image.tmdb.org/t/p/w500/haDKecHGGb1qh8gAoR3ExiJlujn.jpg"
+      },
+      {
+        "name": "Pat O'Brien",
+        "character": "Biff Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/a2io08DZPKgsaM8p9So2LAHOiPn.jpg"
+      },
+      {
+        "name": "Gloria Stuart",
+        "character": "Dorothy Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/9aG7UUX3PWIGGf1KRY5TsBSoNz9.jpg"
+      },
+      {
+        "name": "Frank McHugh",
+        "character": "Droopy Mullins",
+        "photo": "https://image.tmdb.org/t/p/w500/yxr2eRkScZWPQOtm2vzz38hALHD.jpg"
+      },
+      {
+        "name": "Dorothy Tree",
+        "character": "Gladys",
+        "photo": "https://image.tmdb.org/t/p/w500/dTOxj8risCPmBDfnK7S2QgtV41z.jpg"
+      },
+      {
+        "name": "Robert Barrat",
+        "character": "Commander Denny",
+        "photo": "https://image.tmdb.org/t/p/w500/beNgSV6zWEfGV1ikiPGz94uMbOS.jpg"
+      },
+      {
+        "name": "Willard Robertson",
+        "character": "Executive Officer",
+        "photo": "https://image.tmdb.org/t/p/w500/iDDeyE7MwtQB0SV2RSMfG6jt3GM.jpg"
+      },
+      {
+        "name": "Guinn 'Big Boy' Williams",
+        "character": "Dance-Floor Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/oOJIg1Cnsc9IsT1861kLxyQjkuy.jpg"
+      },
+      {
+        "name": "Howard Hickman",
+        "character": "Captain",
+        "photo": "https://image.tmdb.org/t/p/w500/5dJMZuoWq1lYMNeXsf7iZjwHobv.jpg"
+      },
+      {
+        "name": "Maude Eburne",
+        "character": "Droopy's Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/ijQRIZzSXnt53lPHUFpjDRLpnEZ.jpg"
+      },
+      {
+        "name": "George Irving",
+        "character": "Admiral",
+        "photo": "https://image.tmdb.org/t/p/w500/mZjiKvrBQK0Y7sL2Yt9QEaIQrFr.jpg"
+      },
+      {
+        "name": "Milton Kibbee",
+        "character": "Mike (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/hhWsIJNBO0ENVbfExPL6EqlZJUD.jpg"
+      }
+    ],
+    "director": [
+      "Lloyd Bacon"
+    ]
   }
 }

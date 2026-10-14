@@ -19,6 +19,86 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Adam Sandler",
+      "LaKeith Stanfield",
+      "Julia Fox",
+      "Kevin Garnett",
+      "Idina Menzel",
+      "Eric Bogosian",
+      "Judd Hirsch",
+      "Keith William Richards",
+      "Mike Francesa",
+      "Jonathan Aranbayev",
+      "Noa Fisher",
+      "Abel Tesfaye"
+    ],
+    "app_cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Howard Ratner",
+        "photo": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+      },
+      {
+        "name": "LaKeith Stanfield",
+        "character": "Demany",
+        "photo": "https://image.tmdb.org/t/p/w500/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+      },
+      {
+        "name": "Julia Fox",
+        "character": "Julia De Flore",
+        "photo": "https://image.tmdb.org/t/p/w500/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+      },
+      {
+        "name": "Kevin Garnett",
+        "character": "Kevin Garnett",
+        "photo": "https://image.tmdb.org/t/p/w500/reAAQwMgeq9Z6xGBSbumnsjfyfK.jpg"
+      },
+      {
+        "name": "Idina Menzel",
+        "character": "Dinah Ratner",
+        "photo": "https://image.tmdb.org/t/p/w500/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+      },
+      {
+        "name": "Eric Bogosian",
+        "character": "Arno Moradian",
+        "photo": "https://image.tmdb.org/t/p/w500/lUtLCWoLh18UFVOHBFr1VpUpoYJ.jpg"
+      },
+      {
+        "name": "Judd Hirsch",
+        "character": "Gooey",
+        "photo": "https://image.tmdb.org/t/p/w500/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      },
+      {
+        "name": "Keith William Richards",
+        "character": "Phil",
+        "photo": "https://image.tmdb.org/t/p/w500/zZ7GvVA7X2CgZSEsGbABEuQgNPw.jpg"
+      },
+      {
+        "name": "Mike Francesa",
+        "character": "Gary",
+        "photo": "https://image.tmdb.org/t/p/w500/NwrexgvNqGLLGRAUDf0f1tADz6.jpg"
+      },
+      {
+        "name": "Jonathan Aranbayev",
+        "character": "Eddie Ratner",
+        "photo": "https://image.tmdb.org/t/p/w500/9JX2kCqwEsmuuLdlC2YfOeJAgtX.jpg"
+      },
+      {
+        "name": "Noa Fisher",
+        "character": "Marcel Ratner",
+        "photo": "https://image.tmdb.org/t/p/w500/bTlCITzlK29SaQomAx1FbFJqJ7m.jpg"
+      },
+      {
+        "name": "Abel Tesfaye",
+        "character": "The Weeknd",
+        "photo": "https://image.tmdb.org/t/p/w500/7s7Rhd5dalfg9lKX2NMIT5O2sBA.jpg"
+      }
+    ],
+    "director": [
+      "Josh Safdie",
+      "Benny Safdie"
+    ]
   }
 }

@@ -17,6 +17,64 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "James Spader",
+      "Andie MacDowell",
+      "Peter Gallagher",
+      "Laura San Giacomo",
+      "Ron Vawter",
+      "Steven Brill",
+      "Alexandra Root",
+      "Earl T. Taylor",
+      "David Foil"
+    ],
+    "app_cast": [
+      {
+        "name": "James Spader",
+        "character": "Graham Dalton",
+        "photo": "https://image.tmdb.org/t/p/w500/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg"
+      },
+      {
+        "name": "Andie MacDowell",
+        "character": "Ann Bishop Mullany",
+        "photo": "https://image.tmdb.org/t/p/w500/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+      },
+      {
+        "name": "Peter Gallagher",
+        "character": "John Mullany",
+        "photo": "https://image.tmdb.org/t/p/w500/vD6q6Ja6bAhbfqlXS4ybCtyXtdA.jpg"
+      },
+      {
+        "name": "Laura San Giacomo",
+        "character": "Cynthia Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/xOPY9e0HN6zYmI5HrmRSbwygEzy.jpg"
+      },
+      {
+        "name": "Ron Vawter",
+        "character": "Therapist",
+        "photo": "https://image.tmdb.org/t/p/w500/f5WDxaiBGOP5bg3JsZEpotnJYbE.jpg"
+      },
+      {
+        "name": "Steven Brill",
+        "character": "Barfly",
+        "photo": "https://image.tmdb.org/t/p/w500/bhWId1JKFtFECSJPCYo9DbXeOaS.jpg"
+      },
+      {
+        "name": "Alexandra Root",
+        "character": "Girl on Tape"
+      },
+      {
+        "name": "Earl T. Taylor",
+        "character": "Landlord"
+      },
+      {
+        "name": "David Foil",
+        "character": "John's Colleague"
+      }
+    ],
+    "director": [
+      "Steven Soderbergh"
+    ]
   }
 }

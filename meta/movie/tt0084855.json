@@ -17,6 +17,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Paul Newman",
+      "Charlotte Rampling",
+      "Jack Warden",
+      "James Mason",
+      "Milo O'Shea",
+      "Lindsay Crouse",
+      "Edward Binns",
+      "Julie Bovasso",
+      "Roxanne Hart",
+      "James Handy",
+      "Wesley Addy",
+      "Joe Seneca"
+    ],
+    "app_cast": [
+      {
+        "name": "Paul Newman",
+        "character": "Frank Galvin",
+        "photo": "https://image.tmdb.org/t/p/w500/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg"
+      },
+      {
+        "name": "Charlotte Rampling",
+        "character": "Laura Fischer",
+        "photo": "https://image.tmdb.org/t/p/w500/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+      },
+      {
+        "name": "Jack Warden",
+        "character": "Mickey Morrissey",
+        "photo": "https://image.tmdb.org/t/p/w500/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+      },
+      {
+        "name": "James Mason",
+        "character": "Ed Concannon",
+        "photo": "https://image.tmdb.org/t/p/w500/vCABivuMBCT78sh5G0q8jO5rkT.jpg"
+      },
+      {
+        "name": "Milo O'Shea",
+        "character": "Judge Hoyle",
+        "photo": "https://image.tmdb.org/t/p/w500/wLcWVAw2REUJMT9JjbQbVXLqQkZ.jpg"
+      },
+      {
+        "name": "Lindsay Crouse",
+        "character": "Kaitlin Costello",
+        "photo": "https://image.tmdb.org/t/p/w500/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+      },
+      {
+        "name": "Edward Binns",
+        "character": "Bishop Brophy",
+        "photo": "https://image.tmdb.org/t/p/w500/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg"
+      },
+      {
+        "name": "Julie Bovasso",
+        "character": "Maureen Rooney",
+        "photo": "https://image.tmdb.org/t/p/w500/q0VH5NSnsHnhgZxe6SufKQ63Y6Q.jpg"
+      },
+      {
+        "name": "Roxanne Hart",
+        "character": "Sally Doneghy",
+        "photo": "https://image.tmdb.org/t/p/w500/sNDRhIcW51b7ruS8yt0Xpwa12Mz.jpg"
+      },
+      {
+        "name": "James Handy",
+        "character": "Kevin Doneghy",
+        "photo": "https://image.tmdb.org/t/p/w500/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg"
+      },
+      {
+        "name": "Wesley Addy",
+        "character": "Dr. Towler",
+        "photo": "https://image.tmdb.org/t/p/w500/j0DmXhowoVNXR21jQy9QhTD8BOz.jpg"
+      },
+      {
+        "name": "Joe Seneca",
+        "character": "Dr. Thompson",
+        "photo": "https://image.tmdb.org/t/p/w500/aFQMZdbawo7tQHnPMk1ififirwZ.jpg"
+      }
+    ],
+    "director": [
+      "Sidney Lumet"
+    ]
   }
 }

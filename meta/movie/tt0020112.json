@@ -18,6 +18,84 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Maurice Chevalier",
+      "Jeanette MacDonald",
+      "Lupino Lane",
+      "Lillian Roth",
+      "Eugene Pallette",
+      "E.H. Calvert",
+      "Edgar Norton",
+      "Lionel Belmore",
+      "Russ Powell",
+      "Carl Stockdale",
+      "Albert Roccardi",
+      "Anton Vaverka"
+    ],
+    "app_cast": [
+      {
+        "name": "Maurice Chevalier",
+        "character": "Count Alfred Renard",
+        "photo": "https://image.tmdb.org/t/p/w500/zABRw3iRFqqKV0xB3Z3VcsJDfad.jpg"
+      },
+      {
+        "name": "Jeanette MacDonald",
+        "character": "Queen Louise",
+        "photo": "https://image.tmdb.org/t/p/w500/b82ADTC3aUKUvdbGIYWHzFO3Ff6.jpg"
+      },
+      {
+        "name": "Lupino Lane",
+        "character": "Jacques",
+        "photo": "https://image.tmdb.org/t/p/w500/wFroJOcJqZE8uQQMyaBSc1Zd9se.jpg"
+      },
+      {
+        "name": "Lillian Roth",
+        "character": "Lulu",
+        "photo": "https://image.tmdb.org/t/p/w500/8KRJZyHBIl9MG7Pi0VKuhEU7pbY.jpg"
+      },
+      {
+        "name": "Eugene Pallette",
+        "character": "Minister of War",
+        "photo": "https://image.tmdb.org/t/p/w500/y3n1c9qjmJzGeZWihwm0QWlmDoR.jpg"
+      },
+      {
+        "name": "E.H. Calvert",
+        "character": "Sylvanian Ambassador",
+        "photo": "https://image.tmdb.org/t/p/w500/7FYUp62z6DR76sCEeUZHts9cDJW.jpg"
+      },
+      {
+        "name": "Edgar Norton",
+        "character": "Master of Ceremonies",
+        "photo": "https://image.tmdb.org/t/p/w500/rczXgxguSUzryMr0Au4W07KEdTD.jpg"
+      },
+      {
+        "name": "Lionel Belmore",
+        "character": "Prime Minister",
+        "photo": "https://image.tmdb.org/t/p/w500/1CVW0bmfp5flHBsLPnPhkJo8fZJ.jpg"
+      },
+      {
+        "name": "Russ Powell",
+        "character": "Afghan Ambassador",
+        "photo": "https://image.tmdb.org/t/p/w500/wa5QjKxGEXL3tIsnbvlLlWoLJCG.jpg"
+      },
+      {
+        "name": "Carl Stockdale",
+        "character": "The Admiral",
+        "photo": "https://image.tmdb.org/t/p/w500/y642LERKLtOlqTjcckH8oWDVBGb.jpg"
+      },
+      {
+        "name": "Albert Roccardi",
+        "character": "The Foreign Minister",
+        "photo": "https://image.tmdb.org/t/p/w500/wdr04qxBrBiZV4fVaGTEsVKDHzj.jpg"
+      },
+      {
+        "name": "Anton Vaverka",
+        "character": "Cabinet Minister"
+      }
+    ],
+    "director": [
+      "Ernst Lubitsch"
+    ]
   }
 }

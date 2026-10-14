@@ -19,6 +19,87 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Brian Baker",
+      "Trevor Dow",
+      "Gerry Eng",
+      "Sam Gorski",
+      "Mitch Horowitz",
+      "Niko Pueringer",
+      "Wren Weichman",
+      "Thom Hallum",
+      "James C. Burns",
+      "Jolene Andersen",
+      "Tyler Andrews",
+      "Vas Provatakis"
+    ],
+    "app_cast": [
+      {
+        "name": "Brian Baker",
+        "character": "Self (segment \"Abduction/Adduction\")"
+      },
+      {
+        "name": "Trevor Dow",
+        "character": "Self (segment \"Abduction/Adduction\")",
+        "photo": "https://image.tmdb.org/t/p/w500/6aUpyKfJDQdLMXi9jgAp2QFpZmM.jpg"
+      },
+      {
+        "name": "Gerry Eng",
+        "character": "Reed Farrington (segment \"Abduction/Adduction\")"
+      },
+      {
+        "name": "Sam Gorski",
+        "character": "Self (segment \"Abduction/Adduction\")",
+        "photo": "https://image.tmdb.org/t/p/w500/dhjQ5co7hwU9jYNvF45YjZJN4fo.jpg"
+      },
+      {
+        "name": "Mitch Horowitz",
+        "character": "Self (segment \"Abduction/Adduction\")"
+      },
+      {
+        "name": "Niko Pueringer",
+        "character": "Self (segment \"Abduction/Adduction\")",
+        "photo": "https://image.tmdb.org/t/p/w500/gBS5fgvIVEgASOReSzXvCKxBQiA.jpg"
+      },
+      {
+        "name": "Wren Weichman",
+        "character": "Self (segment \"Abduction/Adduction\")",
+        "photo": "https://image.tmdb.org/t/p/w500/pJDeoiFCoo232MRduYd4JHXzQtj.jpg"
+      },
+      {
+        "name": "Thom Hallum",
+        "character": "Broome (segment \"Stork\")",
+        "photo": "https://image.tmdb.org/t/p/w500/lTD1NWH6NjSqSnaCX2BxvJKZ4RE.jpg"
+      },
+      {
+        "name": "James C. Burns",
+        "character": "Aubert (segment \"Stork\")",
+        "photo": "https://image.tmdb.org/t/p/w500/lo4k6Vl7lo5DlU8sSqi3e0GEAXp.jpg"
+      },
+      {
+        "name": "Jolene Andersen",
+        "character": "Bennet (segment \"Stork\")",
+        "photo": "https://image.tmdb.org/t/p/w500/jeWRoKlw3UYWShVIdzVoJHSGrkf.jpg"
+      },
+      {
+        "name": "Tyler Andrews",
+        "character": "Ivy (segment \"Stork\")"
+      },
+      {
+        "name": "Vas Provatakis",
+        "character": "E.T. (segment \"Stork\")",
+        "photo": "https://image.tmdb.org/t/p/w500/3sNg2pkJ4a3caxhAQZhQbWBZBII.jpg"
+      }
+    ],
+    "director": [
+      "Jordan Downey",
+      "Christian Long",
+      "Justin Long",
+      "Kate Siegel",
+      "Virat Pal",
+      "Justin Martinez",
+      "Jay Cheel"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Gary Cooper",
+      "Walter Brennan",
+      "Joan Leslie",
+      "George Tobias",
+      "Stanley Ridges",
+      "Margaret Wycherly",
+      "Ward Bond",
+      "Noah Beery Jr.",
+      "June Lockhart",
+      "Dickie Moore",
+      "Clem Bevans",
+      "Howard Da Silva"
+    ],
+    "app_cast": [
+      {
+        "name": "Gary Cooper",
+        "character": "Alvin C. York",
+        "photo": "https://image.tmdb.org/t/p/w500/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+      },
+      {
+        "name": "Walter Brennan",
+        "character": "Pastor Rosier Pile",
+        "photo": "https://image.tmdb.org/t/p/w500/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg"
+      },
+      {
+        "name": "Joan Leslie",
+        "character": "Gracie Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/vft5HULa1wnW1dQEWd197XBchs0.jpg"
+      },
+      {
+        "name": "George Tobias",
+        "character": "\"Pusher\" Ross",
+        "photo": "https://image.tmdb.org/t/p/w500/d6c4cwCjeJJwlXNaxBonpPvmlAM.jpg"
+      },
+      {
+        "name": "Stanley Ridges",
+        "character": "Major Buxton",
+        "photo": "https://image.tmdb.org/t/p/w500/cL10nYNDpZru4Smqy9EfkBLUh4O.jpg"
+      },
+      {
+        "name": "Margaret Wycherly",
+        "character": "Mother York",
+        "photo": "https://image.tmdb.org/t/p/w500/deOr31wqp3iKvGxm8M2XXgQbcAT.jpg"
+      },
+      {
+        "name": "Ward Bond",
+        "character": "Ike Botkin",
+        "photo": "https://image.tmdb.org/t/p/w500/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+      },
+      {
+        "name": "Noah Beery Jr.",
+        "character": "Buck Lipscomb",
+        "photo": "https://image.tmdb.org/t/p/w500/oFdEn3ePUmhltOmF16Ggu1h1pQk.jpg"
+      },
+      {
+        "name": "June Lockhart",
+        "character": "Rosie York",
+        "photo": "https://image.tmdb.org/t/p/w500/xTETf5AXFEyzmxOTBwyCUzi8fK3.jpg"
+      },
+      {
+        "name": "Dickie Moore",
+        "character": "George York",
+        "photo": "https://image.tmdb.org/t/p/w500/AfhuD2u9Rotk0S51qIVWqZOpprv.jpg"
+      },
+      {
+        "name": "Clem Bevans",
+        "character": "Zeke",
+        "photo": "https://image.tmdb.org/t/p/w500/vieLe2fUBO7D9GxEMkRN7VK8iYQ.jpg"
+      },
+      {
+        "name": "Howard Da Silva",
+        "character": "Lem",
+        "photo": "https://image.tmdb.org/t/p/w500/pHLybgdBcZcMDtxSM1J4xs8zKh4.jpg"
+      }
+    ],
+    "director": [
+      "Howard Hawks"
+    ]
   }
 }

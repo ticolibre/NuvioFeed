@@ -18,6 +18,82 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Shaw",
+      "Sarah Miles",
+      "Peter Egan",
+      "Caroline Mortimer",
+      "Elizabeth Sellars",
+      "Ian Hogg",
+      "Lyndon Brook",
+      "Patricia Lawrence",
+      "Petra Markham",
+      "Christine Hargreaves",
+      "Alison Leggatt",
+      "Alec Wallis"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Shaw",
+        "character": "Steven Ledbetter",
+        "photo": "https://image.tmdb.org/t/p/w500/c8SIbGEmGIfhD9bObSf4FELUEns.jpg"
+      },
+      {
+        "name": "Sarah Miles",
+        "character": "Lady Franklin",
+        "photo": "https://image.tmdb.org/t/p/w500/pvl8vu1IYfNKxJUjn3p64QFG8fX.jpg"
+      },
+      {
+        "name": "Peter Egan",
+        "character": "Captain Hugh Cantrip",
+        "photo": "https://image.tmdb.org/t/p/w500/c1Mq0x2DEQiwzQYXD7AtFUdx7BC.jpg"
+      },
+      {
+        "name": "Caroline Mortimer",
+        "character": "Connie",
+        "photo": "https://image.tmdb.org/t/p/w500/rekApymMHcWhi46GwBkby9OU0s1.jpg"
+      },
+      {
+        "name": "Elizabeth Sellars",
+        "character": "Lady Franklin's mother"
+      },
+      {
+        "name": "Ian Hogg",
+        "character": "Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/lhh1F427MWiDvPH6iYLi64woycN.jpg"
+      },
+      {
+        "name": "Lyndon Brook",
+        "character": "Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/gSXN0fYj0lhIBHaGVsUJwTTB6vx.jpg"
+      },
+      {
+        "name": "Patricia Lawrence",
+        "character": "Mrs. Hansen"
+      },
+      {
+        "name": "Petra Markham",
+        "character": "Edith",
+        "photo": "https://image.tmdb.org/t/p/w500/fG9MLfTNYzocGpDhZ0Snax9eLvz.jpg"
+      },
+      {
+        "name": "Christine Hargreaves",
+        "character": "Doreen",
+        "photo": "https://image.tmdb.org/t/p/w500/7zLjJbWFRiSGq4LPxbhX2NF8mvb.jpg"
+      },
+      {
+        "name": "Alison Leggatt",
+        "character": "Passenger with Dog",
+        "photo": "https://image.tmdb.org/t/p/w500/p8dUhLY6n9p33f2YrwBZHvILxzx.jpg"
+      },
+      {
+        "name": "Alec Wallis",
+        "character": "Pub Landlord"
+      }
+    ],
+    "director": [
+      "Alan Bridges"
+    ]
   }
 }

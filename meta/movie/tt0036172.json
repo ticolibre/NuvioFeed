@@ -18,6 +18,84 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Jean Arthur",
+      "Joel McCrea",
+      "Charles Coburn",
+      "Richard Gaines",
+      "Bruce Bennett",
+      "Frank Sully",
+      "Donald Douglas",
+      "Clyde Fillmore",
+      "Stanley Clements",
+      "Sam Ash",
+      "Don Barclay",
+      "Brandon Beach"
+    ],
+    "app_cast": [
+      {
+        "name": "Jean Arthur",
+        "character": "Constance Milligan",
+        "photo": "https://image.tmdb.org/t/p/w500/h46KhIQOOMPUMIdGNSN3A4zwcGQ.jpg"
+      },
+      {
+        "name": "Joel McCrea",
+        "character": "Joe Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/k2DhZdrEKtauhnauAuivYO84Vee.jpg"
+      },
+      {
+        "name": "Charles Coburn",
+        "character": "Benjamin Dingle",
+        "photo": "https://image.tmdb.org/t/p/w500/yJL0hzeHNmYM2eV2dM00NElJVS.jpg"
+      },
+      {
+        "name": "Richard Gaines",
+        "character": "Charles J. Pendergast",
+        "photo": "https://image.tmdb.org/t/p/w500/qTap65x0jLOgyM0jxC3BPG83TEN.jpg"
+      },
+      {
+        "name": "Bruce Bennett",
+        "character": "FBI Agent Evans",
+        "photo": "https://image.tmdb.org/t/p/w500/70GxHSRcIsgSsTVl0hzjxLEA4s7.jpg"
+      },
+      {
+        "name": "Frank Sully",
+        "character": "FBI Agent Pike",
+        "photo": "https://image.tmdb.org/t/p/w500/m3t0i0di4jDYReiBeYa11OCf05r.jpg"
+      },
+      {
+        "name": "Donald Douglas",
+        "character": "FBI Agent Harding",
+        "photo": "https://image.tmdb.org/t/p/w500/7LXX2bgnhNRyqyaiq57ftlxDzN0.jpg"
+      },
+      {
+        "name": "Clyde Fillmore",
+        "character": "Senator Noonan",
+        "photo": "https://image.tmdb.org/t/p/w500/9W1adfcqErWd7Y4pFhZ61II5AKU.jpg"
+      },
+      {
+        "name": "Stanley Clements",
+        "character": "Morton Rodakiewicz",
+        "photo": "https://image.tmdb.org/t/p/w500/gZTuaIB3WAFlgjeSG5CatqWNlWf.jpg"
+      },
+      {
+        "name": "Sam Ash",
+        "character": "Committee Member (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/9yWsQsSXQTTMcQIzpGjjyMDdT86.jpg"
+      },
+      {
+        "name": "Don Barclay",
+        "character": "Drunk (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/jVKPE16JHrMa5H5VDyG4z05rK5M.jpg"
+      },
+      {
+        "name": "Brandon Beach",
+        "character": "Shaving Gag (uncredited)"
+      }
+    ],
+    "director": [
+      "George Stevens"
+    ]
   }
 }

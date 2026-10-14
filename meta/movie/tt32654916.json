@@ -19,6 +19,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "David Rysdahl",
+      "Lily Sullivan",
+      "Claudia Doumit",
+      "Arty Froushan",
+      "Elijah Isaiah Cook",
+      "Mara Huf",
+      "Sydney Blackburn",
+      "Isabelle Bonfrer",
+      "Emma Ramos",
+      "Oliver Cooper",
+      "Nicholas Lane",
+      "Hannah Mamalis"
+    ],
+    "app_cast": [
+      {
+        "name": "David Rysdahl",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
+      },
+      {
+        "name": "Lily Sullivan",
+        "character": "Sara / Lydia",
+        "photo": "https://image.tmdb.org/t/p/w500/sLjxpxV2JX8k3k9VWoIPrzqlh5J.jpg"
+      },
+      {
+        "name": "Claudia Doumit",
+        "character": "Aubrey",
+        "photo": "https://image.tmdb.org/t/p/w500/xIkGzC0x7itPEFGhutCXIMFkGVd.jpg"
+      },
+      {
+        "name": "Arty Froushan",
+        "character": "Ben",
+        "photo": "https://image.tmdb.org/t/p/w500/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg"
+      },
+      {
+        "name": "Elijah Isaiah Cook",
+        "character": "Terrance",
+        "photo": "https://image.tmdb.org/t/p/w500/gfDhACaR28m16GV5aM8csVHMzoO.jpg"
+      },
+      {
+        "name": "Mara Huf",
+        "character": "Lizzie",
+        "photo": "https://image.tmdb.org/t/p/w500/eZglS0iu7tbIfvslSjIRGjieEIr.jpg"
+      },
+      {
+        "name": "Sydney Blackburn",
+        "character": "Ben's Assistant",
+        "photo": "https://image.tmdb.org/t/p/w500/cDWSr9s7pGLNF72PnGmkDWIYswq.jpg"
+      },
+      {
+        "name": "Isabelle Bonfrer",
+        "character": "Circe",
+        "photo": "https://image.tmdb.org/t/p/w500/zuWMZedKqou0wxOhsRA2av7Q5wo.jpg"
+      },
+      {
+        "name": "Emma Ramos",
+        "character": "Alma",
+        "photo": "https://image.tmdb.org/t/p/w500/rt66aGKR3HO4wfHDGi7uOypUZTk.jpg"
+      },
+      {
+        "name": "Oliver Cooper",
+        "character": "Ultima Robotix Technician",
+        "photo": "https://image.tmdb.org/t/p/w500/dZyCpnWaW7gkTWOyhGUgg1xy19y.jpg"
+      },
+      {
+        "name": "Nicholas Lane",
+        "character": "Sex Robot Tester",
+        "photo": "https://image.tmdb.org/t/p/w500/agoGNeMzdiEnmlY8m9CcmdhMK0s.jpg"
+      },
+      {
+        "name": "Hannah Mamalis",
+        "character": "Groolganic Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/4oifTxPFL84LQ9GJYzmQAszF5Kn.jpg"
+      }
+    ],
+    "director": [
+      "Kate Dolan"
+    ]
   }
 }

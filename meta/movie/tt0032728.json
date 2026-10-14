@@ -18,6 +18,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "John Wayne",
+      "Thomas Mitchell",
+      "Ian Hunter",
+      "Barry Fitzgerald",
+      "Wilfrid Lawson",
+      "John Qualen",
+      "Mildred Natwick",
+      "Ward Bond",
+      "Arthur Shields",
+      "Joe Sawyer",
+      "Rafaela Ottiano",
+      "Jack Pennick"
+    ],
+    "app_cast": [
+      {
+        "name": "John Wayne",
+        "character": "Ole Olsen",
+        "photo": "https://image.tmdb.org/t/p/w500/4VmiGmCwSnratHtYmT2AyXrdQ64.jpg"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "character": "Driscoll",
+        "photo": "https://image.tmdb.org/t/p/w500/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+      },
+      {
+        "name": "Ian Hunter",
+        "character": "Smitty",
+        "photo": "https://image.tmdb.org/t/p/w500/yiSGJGTyww5YQwi9PYS96nefkOw.jpg"
+      },
+      {
+        "name": "Barry Fitzgerald",
+        "character": "Cocky",
+        "photo": "https://image.tmdb.org/t/p/w500/z8opHNghuygzMWsVOpG1Ln3ahmG.jpg"
+      },
+      {
+        "name": "Wilfrid Lawson",
+        "character": "Captain",
+        "photo": "https://image.tmdb.org/t/p/w500/k7XkIeyMYVgs2DjfVerAZ8jTY3O.jpg"
+      },
+      {
+        "name": "John Qualen",
+        "character": "Axel",
+        "photo": "https://image.tmdb.org/t/p/w500/aMuzXYaBmblQm95JxHZrmseeIYh.jpg"
+      },
+      {
+        "name": "Mildred Natwick",
+        "character": "Freda",
+        "photo": "https://image.tmdb.org/t/p/w500/gBsUxWJ5GpJ8CwlrHSrx5TjnQZr.jpg"
+      },
+      {
+        "name": "Ward Bond",
+        "character": "Yank",
+        "photo": "https://image.tmdb.org/t/p/w500/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+      },
+      {
+        "name": "Arthur Shields",
+        "character": "Donkeyman",
+        "photo": "https://image.tmdb.org/t/p/w500/skFqVhpntMZOCnOrpi6QvZESmZe.jpg"
+      },
+      {
+        "name": "Joe Sawyer",
+        "character": "Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/ct5dfzO05LnrJ4EBANBK2y8FPGN.jpg"
+      },
+      {
+        "name": "Rafaela Ottiano",
+        "character": "Bella",
+        "photo": "https://image.tmdb.org/t/p/w500/9mmSTWiE27nc9tJhVZ8vwO41jvd.jpg"
+      },
+      {
+        "name": "Jack Pennick",
+        "character": "Johnny",
+        "photo": "https://image.tmdb.org/t/p/w500/dLAfCfvDXRrn0yWxICFKFuq6kOf.jpg"
+      }
+    ],
+    "director": [
+      "John Ford"
+    ]
   }
 }

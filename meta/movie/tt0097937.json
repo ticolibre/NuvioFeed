@@ -17,6 +17,82 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Daniel Day-Lewis",
+      "Brenda Fricker",
+      "Alison Whelan",
+      "Kirsten Sheridan",
+      "Declan Croghan",
+      "Eanna MacLiam",
+      "Marie Conmee",
+      "Cyril Cusack",
+      "Phelim Drew",
+      "Ruth McCabe",
+      "Fiona Shaw",
+      "Ray McAnally"
+    ],
+    "app_cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Christy Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Brenda Fricker",
+        "character": "Mrs. Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/qE1d7gjcH0dvrS5RViNmagCjb85.jpg"
+      },
+      {
+        "name": "Alison Whelan",
+        "character": "Sheila"
+      },
+      {
+        "name": "Kirsten Sheridan",
+        "character": "Sharon",
+        "photo": "https://image.tmdb.org/t/p/w500/tgxwvotewbTyj18Eb2DAH2BkKcE.jpg"
+      },
+      {
+        "name": "Declan Croghan",
+        "character": "Tom"
+      },
+      {
+        "name": "Eanna MacLiam",
+        "character": "Benny",
+        "photo": "https://image.tmdb.org/t/p/w500/jKVvMndeD9JMK0TNlc8Lg86hQx9.jpg"
+      },
+      {
+        "name": "Marie Conmee",
+        "character": "Sadie"
+      },
+      {
+        "name": "Cyril Cusack",
+        "character": "Lord Castlewelland",
+        "photo": "https://image.tmdb.org/t/p/w500/hy340n3PsijAftH2LGg98aYGTZl.jpg"
+      },
+      {
+        "name": "Phelim Drew",
+        "character": "Brian",
+        "photo": "https://image.tmdb.org/t/p/w500/yFhL99WalMzrkNoK2UbzK0mcpI9.jpg"
+      },
+      {
+        "name": "Ruth McCabe",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/wlNCRQ8odruOPyY2WKG80znHlKr.jpg"
+      },
+      {
+        "name": "Fiona Shaw",
+        "character": "Dr. Eileen Cole",
+        "photo": "https://image.tmdb.org/t/p/w500/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+      },
+      {
+        "name": "Ray McAnally",
+        "character": "Mr. Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/xE7PkzhDmJ1Kdpa4IUYfFVqXMuE.jpg"
+      }
+    ],
+    "director": [
+      "Jim Sheridan"
+    ]
   }
 }

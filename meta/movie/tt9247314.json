@@ -19,6 +19,83 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Jeffrey Bowyer-Chapman",
+      "Ari Cohen",
+      "June Laporte",
+      "Ty Wood",
+      "Lochlyn Munro",
+      "Chandra West",
+      "Paul McGaffey",
+      "Thomas Elms",
+      "Aaron Poole",
+      "Megan Tracz",
+      "David LeReaney",
+      "Jasmin Nagy"
+    ],
+    "app_cast": [
+      {
+        "name": "Jeffrey Bowyer-Chapman",
+        "character": "Malik",
+        "photo": "https://image.tmdb.org/t/p/w500/pYCJuxa9pPC7hnELlvpIAjjL3Co.jpg"
+      },
+      {
+        "name": "Ari Cohen",
+        "character": "Aaron",
+        "photo": "https://image.tmdb.org/t/p/w500/qwflAB8DTO4VzllPNWFu8PLKlb0.jpg"
+      },
+      {
+        "name": "June Laporte",
+        "character": "Kayla",
+        "photo": "https://image.tmdb.org/t/p/w500/v2TRfQV5VRzAIwCTA8ZNH75uIST.jpg"
+      },
+      {
+        "name": "Ty Wood",
+        "character": "Tyler",
+        "photo": "https://image.tmdb.org/t/p/w500/7ZQHGgdiDlJFmeVCvlsfa3QAP8z.jpg"
+      },
+      {
+        "name": "Lochlyn Munro",
+        "character": "Marshal",
+        "photo": "https://image.tmdb.org/t/p/w500/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg"
+      },
+      {
+        "name": "Chandra West",
+        "character": "Tiffany",
+        "photo": "https://image.tmdb.org/t/p/w500/354CJGIdaKsGvNm2KyTb2TonFoV.jpg"
+      },
+      {
+        "name": "Paul McGaffey",
+        "character": "Mr. Reinhart"
+      },
+      {
+        "name": "Thomas Elms",
+        "character": "Matthew",
+        "photo": "https://image.tmdb.org/t/p/w500/chbeyxCZ0ReI4NIE1keApI75rlj.jpg"
+      },
+      {
+        "name": "Aaron Poole",
+        "character": "Liam",
+        "photo": "https://image.tmdb.org/t/p/w500/4amEyfzcaHq8DBLpkFjmqg5wwwS.jpg"
+      },
+      {
+        "name": "Megan Tracz",
+        "character": "Jessica",
+        "photo": "https://image.tmdb.org/t/p/w500/jYJmYvgz1SNlVgouyE7HJ7frmiQ.jpg"
+      },
+      {
+        "name": "David LeReaney",
+        "character": "Charles Darrylson",
+        "photo": "https://image.tmdb.org/t/p/w500/qSd8dBragBlf5ygDal3UqE2QwZW.jpg"
+      },
+      {
+        "name": "Jasmin Nagy",
+        "character": "Sammy"
+      }
+    ],
+    "director": [
+      "Kurtis David Harder"
+    ]
   }
 }

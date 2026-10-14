@@ -17,6 +17,50 @@
           "rating": "5.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Jamie Raskin",
+      "Robert Contee",
+      "Christina Laury",
+      "Daniel Hodges",
+      "Mel D. Cole",
+      "Erica Loewe"
+    ],
+    "app_cast": [
+      {
+        "name": "Jamie Raskin",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/g2TuvINfJP0EE3tuRHg5bcHdonA.jpg"
+      },
+      {
+        "name": "Robert Contee",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/3vvE5PANdTlV0nKI8mQNn0Lo5ud.jpg"
+      },
+      {
+        "name": "Christina Laury",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/vThltGDHQ2WhRYBkcMU8lwTL39L.jpg"
+      },
+      {
+        "name": "Daniel Hodges",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/a71iJNwQ8NKYCEPCp9jcswKdAOX.jpg"
+      },
+      {
+        "name": "Mel D. Cole",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/wVSlZ9XKraGbQPdizuSb0Jn8Qe2.jpg"
+      },
+      {
+        "name": "Erica Loewe",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/8USkoCPUbtuooGDR3nsATEnaQyL.jpg"
+      }
+    ],
+    "director": [
+      "Andrea Nix Fine",
+      "Sean Fine"
+    ]
   }
 }

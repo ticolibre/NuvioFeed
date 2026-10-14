@@ -18,6 +18,82 @@
           "rating": "5.2"
         }
       }
-    }
+    },
+    "cast": [
+      "George Arliss",
+      "Doris Lloyd",
+      "David Torrence",
+      "Joan Bennett",
+      "Florence Arliss",
+      "Anthony Bushell",
+      "Michael Visaroff",
+      "Ivan F. Simpson",
+      "Gwendolyn Logan",
+      "Charles E. Evans",
+      "Cosmo Kyrle Bellew",
+      "Margaret Mann"
+    ],
+    "app_cast": [
+      {
+        "name": "George Arliss",
+        "character": "Benjamin Disraeli",
+        "photo": "https://image.tmdb.org/t/p/w500/yDyriFY1dvggJv3Aq6FZfT7Y3st.jpg"
+      },
+      {
+        "name": "Doris Lloyd",
+        "character": "Mrs. Agatha Travers",
+        "photo": "https://image.tmdb.org/t/p/w500/fBK3svuhA9YpWRtD6EHMJMd7YC4.jpg"
+      },
+      {
+        "name": "David Torrence",
+        "character": "Lord Michael Probert",
+        "photo": "https://image.tmdb.org/t/p/w500/lgLl4dCLGr1LHc7aLFA3ech24cP.jpg"
+      },
+      {
+        "name": "Joan Bennett",
+        "character": "Lady Clarissa Pevensey",
+        "photo": "https://image.tmdb.org/t/p/w500/3xKU8SKCytMMBeIXzfZXvwaq0oO.jpg"
+      },
+      {
+        "name": "Florence Arliss",
+        "character": "Lady Mary Beaconsfield",
+        "photo": "https://image.tmdb.org/t/p/w500/ixPSlE8jRtYTWI3lam1qnte6NIu.jpg"
+      },
+      {
+        "name": "Anthony Bushell",
+        "character": "Lord Charles Deeford",
+        "photo": "https://image.tmdb.org/t/p/w500/sEzJDOA3pSLQitqp8CjnSiHZzoh.jpg"
+      },
+      {
+        "name": "Michael Visaroff",
+        "character": "Count Borsinov",
+        "photo": "https://image.tmdb.org/t/p/w500/gNN1Mk8gzefwgDVkOxLUj5PkHef.jpg"
+      },
+      {
+        "name": "Ivan F. Simpson",
+        "character": "Sir Hugh Myers",
+        "photo": "https://image.tmdb.org/t/p/w500/mCp0eD2J5vrbaHUZTnbYuANkXe.jpg"
+      },
+      {
+        "name": "Gwendolyn Logan",
+        "character": "Duchess of Glastonbury"
+      },
+      {
+        "name": "Charles E. Evans",
+        "character": "Mr. Potter, Disraeli's Gardener"
+      },
+      {
+        "name": "Cosmo Kyrle Bellew",
+        "character": "Mr. Terle, Disraeli's Downing Street Butler"
+      },
+      {
+        "name": "Margaret Mann",
+        "character": "Queen Victoria",
+        "photo": "https://image.tmdb.org/t/p/w500/rDOC5jSKV5inkOCxBCVuo3T8pCd.jpg"
+      }
+    ],
+    "director": [
+      "Alfred E. Green"
+    ]
   }
 }

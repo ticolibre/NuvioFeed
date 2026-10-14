@@ -18,6 +18,83 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Bruce Dern",
+      "Will Forte",
+      "June Squibb",
+      "Bob Odenkirk",
+      "Stacy Keach",
+      "Mary Louise Wilson",
+      "Rance Howard",
+      "Tim Driscoll",
+      "Devin Ratray",
+      "Angela McEwan",
+      "Glendora Stitt",
+      "Elizabeth Moore"
+    ],
+    "app_cast": [
+      {
+        "name": "Bruce Dern",
+        "character": "Woody Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/5RKGcElQiFZh4Mu9gInyUhr9Uu7.jpg"
+      },
+      {
+        "name": "Will Forte",
+        "character": "David Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+      },
+      {
+        "name": "June Squibb",
+        "character": "Kate Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg"
+      },
+      {
+        "name": "Bob Odenkirk",
+        "character": "Ross Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "Stacy Keach",
+        "character": "Ed Pegram",
+        "photo": "https://image.tmdb.org/t/p/w500/gtYepb7Vu9bXcdZ62PXm56KalNl.jpg"
+      },
+      {
+        "name": "Mary Louise Wilson",
+        "character": "Aunt Martha",
+        "photo": "https://image.tmdb.org/t/p/w500/sCWT5ygDqoegJzcZTwt063Dyrsk.jpg"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Uncle Ray",
+        "photo": "https://image.tmdb.org/t/p/w500/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg"
+      },
+      {
+        "name": "Tim Driscoll",
+        "character": "Bart",
+        "photo": "https://image.tmdb.org/t/p/w500/vtJIZHv9sXB3UF76Bq05hN84Zt1.jpg"
+      },
+      {
+        "name": "Devin Ratray",
+        "character": "Cole",
+        "photo": "https://image.tmdb.org/t/p/w500/Wh3Sy8wTnYusO0kCsXGC7DoEZN.jpg"
+      },
+      {
+        "name": "Angela McEwan",
+        "character": "Peg Nagy",
+        "photo": "https://image.tmdb.org/t/p/w500/aUH0nkfG3yK1QnUP6CDAkia3BUa.jpg"
+      },
+      {
+        "name": "Glendora Stitt",
+        "character": "Aunt Betty"
+      },
+      {
+        "name": "Elizabeth Moore",
+        "character": "Aunt Flo"
+      }
+    ],
+    "director": [
+      "Alexander Payne"
+    ]
   }
 }

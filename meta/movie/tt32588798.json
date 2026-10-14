@@ -19,6 +19,86 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Sandra Bullock",
+      "Nicole Kidman",
+      "Joey King",
+      "Maisie Williams",
+      "Xolo Maridueña",
+      "Lee Pace",
+      "Dianne Wiest",
+      "Stockard Channing",
+      "Solly McLeod",
+      "Ema Cavolli",
+      "Cassie Bradley",
+      "Liz Kingsman"
+    ],
+    "app_cast": [
+      {
+        "name": "Sandra Bullock",
+        "character": "Sally Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Gillian Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+      },
+      {
+        "name": "Joey King",
+        "character": "Kylie",
+        "photo": "https://image.tmdb.org/t/p/w500/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+      },
+      {
+        "name": "Maisie Williams",
+        "character": "Antonia",
+        "photo": "https://image.tmdb.org/t/p/w500/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+      },
+      {
+        "name": "Xolo Maridueña",
+        "character": "Gideon",
+        "photo": "https://image.tmdb.org/t/p/w500/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+      },
+      {
+        "name": "Lee Pace",
+        "character": "Ian Wright",
+        "photo": "https://image.tmdb.org/t/p/w500/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+      },
+      {
+        "name": "Dianne Wiest",
+        "character": "Jet",
+        "photo": "https://image.tmdb.org/t/p/w500/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+      },
+      {
+        "name": "Stockard Channing",
+        "character": "Franny",
+        "photo": "https://image.tmdb.org/t/p/w500/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+      },
+      {
+        "name": "Solly McLeod",
+        "character": "Tom Lockland",
+        "photo": "https://image.tmdb.org/t/p/w500/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg"
+      },
+      {
+        "name": "Ema Cavolli",
+        "character": "Maria Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/mzAXiBoJeY1fA9Nc6KNsKNPfsgO.jpg"
+      },
+      {
+        "name": "Cassie Bradley",
+        "character": "Hannah Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/u1rqfCyqHMjeOewKuaIaA9D3WqY.jpg"
+      },
+      {
+        "name": "Liz Kingsman",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/sNCFfAVWGe4d4SLlUiNWvLk1Vwe.jpg"
+      }
+    ],
+    "director": [
+      "Susanne Bier",
+      "Farhan Rana Rajpoot"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Vivien Leigh",
+      "Simone Signoret",
+      "José Ferrer",
+      "Lee Marvin",
+      "Oskar Werner",
+      "Elizabeth Ashley",
+      "George Segal",
+      "José Greco",
+      "Michael Dunn",
+      "Charles Korvin",
+      "Heinz Rühmann",
+      "Lilia Skala"
+    ],
+    "app_cast": [
+      {
+        "name": "Vivien Leigh",
+        "character": "Mary Treadwell",
+        "photo": "https://image.tmdb.org/t/p/w500/h1hS5o0cKXF2g9Wjej0RtibMPT0.jpg"
+      },
+      {
+        "name": "Simone Signoret",
+        "character": "La Condesa",
+        "photo": "https://image.tmdb.org/t/p/w500/vRI2Vt3HX911uDrVK170waQsL8b.jpg"
+      },
+      {
+        "name": "José Ferrer",
+        "character": "Rieber",
+        "photo": "https://image.tmdb.org/t/p/w500/mMOxqZz7Te7SHTd7AGqpjyyykb7.jpg"
+      },
+      {
+        "name": "Lee Marvin",
+        "character": "Tenny",
+        "photo": "https://image.tmdb.org/t/p/w500/bXVCrjGbGhPg6mgDi9OIrp5jK9b.jpg"
+      },
+      {
+        "name": "Oskar Werner",
+        "character": "Dr. Schumann",
+        "photo": "https://image.tmdb.org/t/p/w500/qUljBeQUIvRIU6KmcMiBpyx8Er7.jpg"
+      },
+      {
+        "name": "Elizabeth Ashley",
+        "character": "Jenny",
+        "photo": "https://image.tmdb.org/t/p/w500/xtUALRSTXGryJvvgmTi4jXIPA49.jpg"
+      },
+      {
+        "name": "George Segal",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+      },
+      {
+        "name": "José Greco",
+        "character": "Pepe",
+        "photo": "https://image.tmdb.org/t/p/w500/3N6iadqYo8UmAvZeSEVS5J6gdP7.jpg"
+      },
+      {
+        "name": "Michael Dunn",
+        "character": "Glocken",
+        "photo": "https://image.tmdb.org/t/p/w500/xMvzOvHR8CweClFPuRfHKkSAHUq.jpg"
+      },
+      {
+        "name": "Charles Korvin",
+        "character": "Capt. Thiele",
+        "photo": "https://image.tmdb.org/t/p/w500/4gFgLmYZLrQzka0LRUrTiKEJ3k1.jpg"
+      },
+      {
+        "name": "Heinz Rühmann",
+        "character": "Lowenthal",
+        "photo": "https://image.tmdb.org/t/p/w500/va392zg2RW7laSTaKgqV9lvCiJg.jpg"
+      },
+      {
+        "name": "Lilia Skala",
+        "character": "Frau Hutten",
+        "photo": "https://image.tmdb.org/t/p/w500/veiuZGexvC0tnyp8KmU5fWeVE9f.jpg"
+      }
+    ],
+    "director": [
+      "Stanley Kramer"
+    ]
   }
 }

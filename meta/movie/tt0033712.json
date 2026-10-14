@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Montgomery",
+      "Evelyn Keyes",
+      "Claude Rains",
+      "Rita Johnson",
+      "Edward Everett Horton",
+      "James Gleason",
+      "John Emery",
+      "Donald MacBride",
+      "Don Costello",
+      "Halliwell Hobbes",
+      "Benny Rubin",
+      "Warren Ashe"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Montgomery",
+        "character": "Joe Pendleton",
+        "photo": "https://image.tmdb.org/t/p/w500/o2H1yxVxbxlTWP1PZDFXv6oxiFj.jpg"
+      },
+      {
+        "name": "Evelyn Keyes",
+        "character": "Bette Logan",
+        "photo": "https://image.tmdb.org/t/p/w500/efzYiYB72V8NoWTs8wItkyVjDQi.jpg"
+      },
+      {
+        "name": "Claude Rains",
+        "character": "Mr. Jordan",
+        "photo": "https://image.tmdb.org/t/p/w500/fcM7Xfs0lWBw8TDjcFSLosX2YAD.jpg"
+      },
+      {
+        "name": "Rita Johnson",
+        "character": "Julia Farnsworth",
+        "photo": "https://image.tmdb.org/t/p/w500/dMWhm0NpzS1IZPFU9qvrNtrXtQz.jpg"
+      },
+      {
+        "name": "Edward Everett Horton",
+        "character": "Messenger 7013",
+        "photo": "https://image.tmdb.org/t/p/w500/wtoC3cXLStuYmiEUVQavdvbh5Js.jpg"
+      },
+      {
+        "name": "James Gleason",
+        "character": "Max Corkle",
+        "photo": "https://image.tmdb.org/t/p/w500/nIWAiRVuVbEfD8iSWymhOSJlWUm.jpg"
+      },
+      {
+        "name": "John Emery",
+        "character": "Tony Abbott",
+        "photo": "https://image.tmdb.org/t/p/w500/kuzWbz3ACuW8UeD5CX90uSjMdYn.jpg"
+      },
+      {
+        "name": "Donald MacBride",
+        "character": "Inspector Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/AkOwJ81bJkoorsGZMjhMpQZbCrO.jpg"
+      },
+      {
+        "name": "Don Costello",
+        "character": "Lefty",
+        "photo": "https://image.tmdb.org/t/p/w500/nRyIO4RV19NVJFXPay3IJAN06u3.jpg"
+      },
+      {
+        "name": "Halliwell Hobbes",
+        "character": "Sisk",
+        "photo": "https://image.tmdb.org/t/p/w500/ewmAwP5TBvqRlvFEgnXsMB7U6H0.jpg"
+      },
+      {
+        "name": "Benny Rubin",
+        "character": "Bugs",
+        "photo": "https://image.tmdb.org/t/p/w500/iuuhTfrRepkEIKVYFBdGDDpwaFP.jpg"
+      },
+      {
+        "name": "Warren Ashe",
+        "character": "Charlie (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/ikQyDrparvOlA1scV4dcA8Tbq8c.jpg"
+      }
+    ],
+    "director": [
+      "Alexander Hall"
+    ]
   }
 }

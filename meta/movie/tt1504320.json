@@ -18,6 +18,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter",
+      "Guy Pearce",
+      "Timothy Spall",
+      "Michael Gambon",
+      "Jennifer Ehle",
+      "Derek Jacobi",
+      "Freya Wilson",
+      "Ramona Marquez",
+      "Richard Dixon",
+      "Robert Portal"
+    ],
+    "app_cast": [
+      {
+        "name": "Colin Firth",
+        "character": "King George VI",
+        "photo": "https://image.tmdb.org/t/p/w500/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Lionel Logue",
+        "photo": "https://image.tmdb.org/t/p/w500/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Queen Elizabeth",
+        "photo": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "King Edward VIII",
+        "photo": "https://image.tmdb.org/t/p/w500/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+      },
+      {
+        "name": "Timothy Spall",
+        "character": "Winston Churchill",
+        "photo": "https://image.tmdb.org/t/p/w500/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "King George V",
+        "photo": "https://image.tmdb.org/t/p/w500/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        "name": "Jennifer Ehle",
+        "character": "Myrtle Logue",
+        "photo": "https://image.tmdb.org/t/p/w500/kMddVKineLFpxsUoGrb3E6edkOv.jpg"
+      },
+      {
+        "name": "Derek Jacobi",
+        "character": "Archbishop Cosmo Lang",
+        "photo": "https://image.tmdb.org/t/p/w500/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+      },
+      {
+        "name": "Freya Wilson",
+        "character": "Princess Elizabeth"
+      },
+      {
+        "name": "Ramona Marquez",
+        "character": "Princess Margaret",
+        "photo": "https://image.tmdb.org/t/p/w500/mNQ1TrYD4u8IYWbSUh7MFwSeTGe.jpg"
+      },
+      {
+        "name": "Richard Dixon",
+        "character": "Private Secretary",
+        "photo": "https://image.tmdb.org/t/p/w500/rhMlmS9dE6pyy4qnZGRzlRrGlhh.jpg"
+      },
+      {
+        "name": "Robert Portal",
+        "character": "Equerry",
+        "photo": "https://image.tmdb.org/t/p/w500/n1HEjfvZrxTShTZ1HncsWJ5Sib7.jpg"
+      }
+    ],
+    "director": [
+      "Tom Hooper"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Jude Hill",
+      "Jamie Dornan",
+      "Caitríona Balfe",
+      "Lewis McAskie",
+      "Judi Dench",
+      "Ciarán Hinds",
+      "Lara McDonnell",
+      "Colin Morgan",
+      "Gerard Horan",
+      "Josie Walker",
+      "Olive Tennant",
+      "Michael Maloney"
+    ],
+    "app_cast": [
+      {
+        "name": "Jude Hill",
+        "character": "Buddy",
+        "photo": "https://image.tmdb.org/t/p/w500/yAcW6qaqQVok6UpfPb1D9dPBFbK.jpg"
+      },
+      {
+        "name": "Jamie Dornan",
+        "character": "Pa",
+        "photo": "https://image.tmdb.org/t/p/w500/qmTiAm3LII5moykSriVkJCeysKC.jpg"
+      },
+      {
+        "name": "Caitríona Balfe",
+        "character": "Ma",
+        "photo": "https://image.tmdb.org/t/p/w500/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+      },
+      {
+        "name": "Lewis McAskie",
+        "character": "Will",
+        "photo": "https://image.tmdb.org/t/p/w500/gjv5cnI14X3PbhGQzJdc8yJmRCX.jpg"
+      },
+      {
+        "name": "Judi Dench",
+        "character": "Granny",
+        "photo": "https://image.tmdb.org/t/p/w500/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Pop",
+        "photo": "https://image.tmdb.org/t/p/w500/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+      },
+      {
+        "name": "Lara McDonnell",
+        "character": "Moira",
+        "photo": "https://image.tmdb.org/t/p/w500/qm5WAiX5YU6KoWMn5Ts4vW8eddo.jpg"
+      },
+      {
+        "name": "Colin Morgan",
+        "character": "Billy Clanton",
+        "photo": "https://image.tmdb.org/t/p/w500/jeSLhhfUIZR3UQGGhtYTk0J2I5.jpg"
+      },
+      {
+        "name": "Gerard Horan",
+        "character": "Mackie",
+        "photo": "https://image.tmdb.org/t/p/w500/crvohW6KrgAZUgoBE8IwKN5ErxQ.jpg"
+      },
+      {
+        "name": "Josie Walker",
+        "character": "Auntie Violet",
+        "photo": "https://image.tmdb.org/t/p/w500/tnCtnm6eOAVQ5JXXltG40ZwYAPO.jpg"
+      },
+      {
+        "name": "Olive Tennant",
+        "character": "Catherine",
+        "photo": "https://image.tmdb.org/t/p/w500/u1pkHtKRekBt7KecmZlz484HWwM.jpg"
+      },
+      {
+        "name": "Michael Maloney",
+        "character": "Frankie West",
+        "photo": "https://image.tmdb.org/t/p/w500/si6FZSfm1KNDqG1o6Db6Xeha1LB.jpg"
+      }
+    ],
+    "director": [
+      "Kenneth Branagh"
+    ]
   }
 }

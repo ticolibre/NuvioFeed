@@ -18,6 +18,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Mia Farrow",
+      "Barbara Hershey",
+      "Dianne Wiest",
+      "Woody Allen",
+      "Michael Caine",
+      "Lloyd Nolan",
+      "Maureen O'Sullivan",
+      "Carrie Fisher",
+      "Julie Kavner",
+      "Max von Sydow",
+      "Julia Louis-Dreyfus",
+      "Sam Waterston"
+    ],
+    "app_cast": [
+      {
+        "name": "Mia Farrow",
+        "character": "Hannah",
+        "photo": "https://image.tmdb.org/t/p/w500/ggEHiqS8v6pCiV7NfoFWHHV1ePu.jpg"
+      },
+      {
+        "name": "Barbara Hershey",
+        "character": "Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+      },
+      {
+        "name": "Dianne Wiest",
+        "character": "Holly",
+        "photo": "https://image.tmdb.org/t/p/w500/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+      },
+      {
+        "name": "Woody Allen",
+        "character": "Mickey Sachs",
+        "photo": "https://image.tmdb.org/t/p/w500/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Elliot",
+        "photo": "https://image.tmdb.org/t/p/w500/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+      },
+      {
+        "name": "Lloyd Nolan",
+        "character": "Evan",
+        "photo": "https://image.tmdb.org/t/p/w500/tENzeS3MDaFbTdhD2xhyybAfKWP.jpg"
+      },
+      {
+        "name": "Maureen O'Sullivan",
+        "character": "Norma",
+        "photo": "https://image.tmdb.org/t/p/w500/zWovLel1yHMSpWpoAUbfhs7uw9j.jpg"
+      },
+      {
+        "name": "Carrie Fisher",
+        "character": "April Knox",
+        "photo": "https://image.tmdb.org/t/p/w500/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+      },
+      {
+        "name": "Julie Kavner",
+        "character": "Gail",
+        "photo": "https://image.tmdb.org/t/p/w500/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+      },
+      {
+        "name": "Max von Sydow",
+        "character": "Frederick",
+        "photo": "https://image.tmdb.org/t/p/w500/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+      },
+      {
+        "name": "Sam Waterston",
+        "character": "David (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/cSCy9Ng1QJSbEi440342bL71ceF.jpg"
+      }
+    ],
+    "director": [
+      "Woody Allen"
+    ]
   }
 }

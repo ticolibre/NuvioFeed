@@ -19,6 +19,77 @@
           "rating": "5.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Debra Winger",
+      "Tracy Letts",
+      "Aidan Gillen",
+      "Melora Walters",
+      "Tyler Ross",
+      "Jessica Sula",
+      "Lesley Fera",
+      "Janine Mitchell",
+      "Vanessa Campbell",
+      "Eric Satterberg",
+      "Wayne Alon Scott"
+    ],
+    "app_cast": [
+      {
+        "name": "Debra Winger",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/iHZ2mZHEaNYFhEpnSguk043SKVE.jpg"
+      },
+      {
+        "name": "Tracy Letts",
+        "character": "Michael",
+        "photo": "https://image.tmdb.org/t/p/w500/x318yEddF10ASORC5U958C2kowf.jpg"
+      },
+      {
+        "name": "Aidan Gillen",
+        "character": "Robert",
+        "photo": "https://image.tmdb.org/t/p/w500/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+      },
+      {
+        "name": "Melora Walters",
+        "character": "Lucy",
+        "photo": "https://image.tmdb.org/t/p/w500/FSxiDBekrKgmzow1j3UhmNHOhI.jpg"
+      },
+      {
+        "name": "Tyler Ross",
+        "character": "Joel",
+        "photo": "https://image.tmdb.org/t/p/w500/slmrh68fod3NzPOAiimQCBBQsqz.jpg"
+      },
+      {
+        "name": "Jessica Sula",
+        "character": "Erin",
+        "photo": "https://image.tmdb.org/t/p/w500/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
+      },
+      {
+        "name": "Lesley Fera",
+        "character": "Susan",
+        "photo": "https://image.tmdb.org/t/p/w500/6oOyT5vhBISYc6OOVURrbkoLd7s.jpg"
+      },
+      {
+        "name": "Janine Mitchell",
+        "character": "Susan's friend"
+      },
+      {
+        "name": "Vanessa Campbell",
+        "character": "Dance Receptionist",
+        "photo": "https://image.tmdb.org/t/p/w500/51BpRKjxKgtPsM4AmBoHykUGi64.jpg"
+      },
+      {
+        "name": "Eric Satterberg",
+        "character": "John",
+        "photo": "https://image.tmdb.org/t/p/w500/7OFDbpmL0E4qmBWWOrgnD0FYtZ8.jpg"
+      },
+      {
+        "name": "Wayne Alon Scott",
+        "photo": "https://image.tmdb.org/t/p/w500/l5F0eaESnjPabZbGqqz72eZOGeA.jpg"
+      }
+    ],
+    "director": [
+      "Azazel Jacobs"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "8.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn",
+      "Ted Levine",
+      "Anthony Heald",
+      "Brooke Smith",
+      "Diane Baker",
+      "Kasi Lemmons",
+      "Frankie Faison",
+      "Tracey Walter",
+      "Charles Napier",
+      "Danny Darst"
+    ],
+    "app_cast": [
+      {
+        "name": "Jodie Foster",
+        "character": "Clarice Starling",
+        "photo": "https://image.tmdb.org/t/p/w500/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "character": "Dr. Hannibal Lecter",
+        "photo": "https://image.tmdb.org/t/p/w500/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+      },
+      {
+        "name": "Scott Glenn",
+        "character": "Jack Crawford",
+        "photo": "https://image.tmdb.org/t/p/w500/8DHORod2l6ZFS9KR0gNAAM3WZfI.jpg"
+      },
+      {
+        "name": "Ted Levine",
+        "character": "Jame Gumb",
+        "photo": "https://image.tmdb.org/t/p/w500/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+      },
+      {
+        "name": "Anthony Heald",
+        "character": "Dr. Frederick Chilton",
+        "photo": "https://image.tmdb.org/t/p/w500/e0E6Z1Y0debr4mAHgj0HO7MYyXG.jpg"
+      },
+      {
+        "name": "Brooke Smith",
+        "character": "Catherine Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/sa9JRbxYM5XTcCGQjHK91DSi43r.jpg"
+      },
+      {
+        "name": "Diane Baker",
+        "character": "Senator Ruth Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/doyBqSMhFzf4XJgOQJxJCYe5n54.jpg"
+      },
+      {
+        "name": "Kasi Lemmons",
+        "character": "Ardelia Mapp",
+        "photo": "https://image.tmdb.org/t/p/w500/7iiZTyu8TnN242AS9m3LcrwVuzz.jpg"
+      },
+      {
+        "name": "Frankie Faison",
+        "character": "Barney",
+        "photo": "https://image.tmdb.org/t/p/w500/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Lamar",
+        "photo": "https://image.tmdb.org/t/p/w500/9aALfdCcP0PDYcBmqB6auHF0Eud.jpg"
+      },
+      {
+        "name": "Charles Napier",
+        "character": "Lt. Boyle",
+        "photo": "https://image.tmdb.org/t/p/w500/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg"
+      },
+      {
+        "name": "Danny Darst",
+        "character": "Sgt. Tate",
+        "photo": "https://image.tmdb.org/t/p/w500/s7A7chIgR7vufCsFbJqV6MFSW0C.jpg"
+      }
+    ],
+    "director": [
+      "Jonathan Demme"
+    ]
   }
 }

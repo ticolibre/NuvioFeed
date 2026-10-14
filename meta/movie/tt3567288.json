@@ -18,6 +18,83 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Olivia DeJonge",
+      "Ed Oxenbould",
+      "Deanna Dunagan",
+      "Peter McRobbie",
+      "Kathryn Hahn",
+      "Celia Keenan-Bolger",
+      "Samuel Stricklen",
+      "Patch Darragh",
+      "Jorge Cordova",
+      "Steve Annan",
+      "Benjamin Kanes",
+      "Ocean James"
+    ],
+    "app_cast": [
+      {
+        "name": "Olivia DeJonge",
+        "character": "Becca",
+        "photo": "https://image.tmdb.org/t/p/w500/gQ43hkgb3jJRBjCtRwx7zEHexic.jpg"
+      },
+      {
+        "name": "Ed Oxenbould",
+        "character": "Tyler",
+        "photo": "https://image.tmdb.org/t/p/w500/lDjYnngxuQo4kibZFQJr994cZwM.jpg"
+      },
+      {
+        "name": "Deanna Dunagan",
+        "character": "Nana",
+        "photo": "https://image.tmdb.org/t/p/w500/cFjGlCpT8xA4HziBdohU42ddPoC.jpg"
+      },
+      {
+        "name": "Peter McRobbie",
+        "character": "Pop Pop",
+        "photo": "https://image.tmdb.org/t/p/w500/dzqI3wITKVTrnFBxYGFswDxALjf.jpg"
+      },
+      {
+        "name": "Kathryn Hahn",
+        "character": "Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+      },
+      {
+        "name": "Celia Keenan-Bolger",
+        "character": "Stacey",
+        "photo": "https://image.tmdb.org/t/p/w500/1ujTayBlW1TPPAWq5ps2yx0Q5vK.jpg"
+      },
+      {
+        "name": "Samuel Stricklen",
+        "character": "Conductor",
+        "photo": "https://image.tmdb.org/t/p/w500/y2AQRDhIkw0OPJCaffFYnzq95kg.jpg"
+      },
+      {
+        "name": "Patch Darragh",
+        "character": "Dr. Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/pLYaRnY2l61DphIUYZvLSlZZfGJ.jpg"
+      },
+      {
+        "name": "Jorge Cordova",
+        "character": "Miguel",
+        "photo": "https://image.tmdb.org/t/p/w500/k4XS2zyO0xqvykSrWqMLUKHXj6A.jpg"
+      },
+      {
+        "name": "Steve Annan",
+        "character": "Man on the Street"
+      },
+      {
+        "name": "Benjamin Kanes",
+        "character": "Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/xKjssoudWuTVPlmncuUGndjlZs0.jpg"
+      },
+      {
+        "name": "Ocean James",
+        "character": "Young Becca"
+      }
+    ],
+    "director": [
+      "M. Night Shyamalan"
+    ]
   }
 }

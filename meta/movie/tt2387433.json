@@ -19,6 +19,84 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Keri Russell",
+      "Josh Hamilton",
+      "Dakota Goyo",
+      "J.K. Simmons",
+      "Trevor St. John",
+      "Annie Thurman",
+      "Myndy Crist",
+      "Josh Wingate",
+      "Ron Ostrow",
+      "Alyvia Alyn Lind",
+      "Kadan Rockett",
+      "L.J. Benet"
+    ],
+    "app_cast": [
+      {
+        "name": "Keri Russell",
+        "character": "Lacy Barrett",
+        "photo": "https://image.tmdb.org/t/p/w500/4bLtisDjmCOemk3uC65NAlmdIjz.jpg"
+      },
+      {
+        "name": "Josh Hamilton",
+        "character": "Daniel",
+        "photo": "https://image.tmdb.org/t/p/w500/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+      },
+      {
+        "name": "Dakota Goyo",
+        "character": "Jesse",
+        "photo": "https://image.tmdb.org/t/p/w500/xHfxZDILa8JRZu5OoaXKiDa781o.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Edwin Pollard",
+        "photo": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Trevor St. John",
+        "character": "Alex Holcombe",
+        "photo": "https://image.tmdb.org/t/p/w500/hrBoF5u263objhRDuV7YCCLl7eH.jpg"
+      },
+      {
+        "name": "Annie Thurman",
+        "character": "Shelly",
+        "photo": "https://image.tmdb.org/t/p/w500/jTOvzVwURjZYPfxpDfVLpJclUQ5.jpg"
+      },
+      {
+        "name": "Myndy Crist",
+        "character": "Karen",
+        "photo": "https://image.tmdb.org/t/p/w500/vdAqumXVhAYpXLIePK71S2RUncv.jpg"
+      },
+      {
+        "name": "Josh Wingate",
+        "character": "Gun Salesperson",
+        "photo": "https://image.tmdb.org/t/p/w500/5OJ2PmT4g8eXpXpiwkKzXCkgBMR.jpg"
+      },
+      {
+        "name": "Ron Ostrow",
+        "character": "Richard",
+        "photo": "https://image.tmdb.org/t/p/w500/cNm2iTJisH7tZwazclvQz7MdNyB.jpg"
+      },
+      {
+        "name": "Alyvia Alyn Lind",
+        "character": "Young Daughter",
+        "photo": "https://image.tmdb.org/t/p/w500/lVf6GYE1yG1wyTMcO4o9AS6Nyws.jpg"
+      },
+      {
+        "name": "Kadan Rockett",
+        "character": "Sam Barrett"
+      },
+      {
+        "name": "L.J. Benet",
+        "character": "Kevin Ratner",
+        "photo": "https://image.tmdb.org/t/p/w500/9yoSfQ6P3i78u7S136cOC9G7ODJ.jpg"
+      }
+    ],
+    "director": [
+      "Scott Stewart"
+    ]
   }
 }

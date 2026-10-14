@@ -19,6 +19,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Betty Gilpin",
+      "Hilary Swank",
+      "Ethan Suplee",
+      "Teri Wyble",
+      "Ike Barinholtz",
+      "Wayne Duvall",
+      "Emma Roberts",
+      "Christopher Berry",
+      "Sturgill Simpson",
+      "Kate Nowlin",
+      "Amy Madigan",
+      "Reed Birney"
+    ],
+    "app_cast": [
+      {
+        "name": "Betty Gilpin",
+        "character": "Crystal",
+        "photo": "https://image.tmdb.org/t/p/w500/6GvlDnnKM0WxBt0jUipBJw5VgD5.jpg"
+      },
+      {
+        "name": "Hilary Swank",
+        "character": "Athena",
+        "photo": "https://image.tmdb.org/t/p/w500/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+      },
+      {
+        "name": "Ethan Suplee",
+        "character": "Gary",
+        "photo": "https://image.tmdb.org/t/p/w500/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+      },
+      {
+        "name": "Teri Wyble",
+        "character": "Liberty",
+        "photo": "https://image.tmdb.org/t/p/w500/zOdjLw4GCDRT2kswPXIHH4ZT6d.jpg"
+      },
+      {
+        "name": "Ike Barinholtz",
+        "character": "Staten Island",
+        "photo": "https://image.tmdb.org/t/p/w500/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+      },
+      {
+        "name": "Wayne Duvall",
+        "character": "Don",
+        "photo": "https://image.tmdb.org/t/p/w500/uZNSrzslzDQ6xlOFyphGlm5cH20.jpg"
+      },
+      {
+        "name": "Emma Roberts",
+        "character": "Yoga Pants",
+        "photo": "https://image.tmdb.org/t/p/w500/rUK616pPe8VGvAK0qmKOEbA3iIx.jpg"
+      },
+      {
+        "name": "Christopher Berry",
+        "character": "Target",
+        "photo": "https://image.tmdb.org/t/p/w500/8y2HybPVLxUabwnMPjdBREbitKZ.jpg"
+      },
+      {
+        "name": "Sturgill Simpson",
+        "character": "Vanilla Nice",
+        "photo": "https://image.tmdb.org/t/p/w500/bpS4YRGyPKcgNjSu6pnsMnVRRv8.jpg"
+      },
+      {
+        "name": "Kate Nowlin",
+        "character": "Big Red",
+        "photo": "https://image.tmdb.org/t/p/w500/f9R8WCenXteo66QaowsH7rfGck2.jpg"
+      },
+      {
+        "name": "Amy Madigan",
+        "character": "Ma",
+        "photo": "https://image.tmdb.org/t/p/w500/h2jErDWMDFFJth4Y9GiVNmwZf65.jpg"
+      },
+      {
+        "name": "Reed Birney",
+        "character": "Pop",
+        "photo": "https://image.tmdb.org/t/p/w500/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
+      }
+    ],
+    "director": [
+      "Craig Zobel"
+    ]
   }
 }

@@ -17,6 +17,79 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Gérard Depardieu",
+      "Sandrine Bonnaire",
+      "Maurice Pialat",
+      "Brigitte Legendre",
+      "Alain Artur",
+      "Yann Dedet",
+      "Jean-Claude Bourlat",
+      "Jean-Christophe Bouvet",
+      "Philippe Pallut",
+      "Marcel Anselin",
+      "Yvette Lavogez",
+      "Pierre D'Hoffelize"
+    ],
+    "app_cast": [
+      {
+        "name": "Gérard Depardieu",
+        "character": "Donissan",
+        "photo": "https://image.tmdb.org/t/p/w500/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
+      },
+      {
+        "name": "Sandrine Bonnaire",
+        "character": "Mouchette",
+        "photo": "https://image.tmdb.org/t/p/w500/iTHkJuVdFcAuZZtBH2frKTeujKG.jpg"
+      },
+      {
+        "name": "Maurice Pialat",
+        "character": "Menou-Segrais",
+        "photo": "https://image.tmdb.org/t/p/w500/qmdCLKHQgUMXla3mXUYPXvNKfac.jpg"
+      },
+      {
+        "name": "Brigitte Legendre",
+        "character": "La mère de Mouchette"
+      },
+      {
+        "name": "Alain Artur",
+        "character": "Cadignan",
+        "photo": "https://image.tmdb.org/t/p/w500/5cezO8apVHcODCEvksQqgC0DWiq.jpg"
+      },
+      {
+        "name": "Yann Dedet",
+        "character": "Gallet",
+        "photo": "https://image.tmdb.org/t/p/w500/dHjtZWjbrPc0wbav8cD431sUq4O.jpg"
+      },
+      {
+        "name": "Jean-Claude Bourlat",
+        "character": "Malorthy"
+      },
+      {
+        "name": "Jean-Christophe Bouvet",
+        "character": "Le maquignon",
+        "photo": "https://image.tmdb.org/t/p/w500/5iBuBcAXSj55e8xvtAVXAK5Yl2M.jpg"
+      },
+      {
+        "name": "Philippe Pallut",
+        "character": "Le carrier"
+      },
+      {
+        "name": "Marcel Anselin",
+        "character": "Mgr Gerbier"
+      },
+      {
+        "name": "Yvette Lavogez",
+        "character": "Marthe"
+      },
+      {
+        "name": "Pierre D'Hoffelize",
+        "character": "Havret"
+      }
+    ],
+    "director": [
+      "Maurice Pialat"
+    ]
   }
 }

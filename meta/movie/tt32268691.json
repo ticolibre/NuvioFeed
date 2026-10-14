@@ -19,6 +19,85 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Adria Arjona",
+      "Dan Stevens",
+      "Eric Wareheim",
+      "Reginald VelJohnson",
+      "Michael Biehn",
+      "Blake Kennedy",
+      "Alex Pereira",
+      "Drew Starkey",
+      "Rebecca Hall",
+      "Jacob Scipio",
+      "Leon M. Brown",
+      "Dave Campbell"
+    ],
+    "app_cast": [
+      {
+        "name": "Adria Arjona",
+        "character": "Celeste",
+        "photo": "https://image.tmdb.org/t/p/w500/gzrI92WZFANIBXOmXl3QGfb8Jak.jpg"
+      },
+      {
+        "name": "Dan Stevens",
+        "character": "Hans Kammler",
+        "photo": "https://image.tmdb.org/t/p/w500/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+      },
+      {
+        "name": "Eric Wareheim",
+        "character": "Kovacks",
+        "photo": "https://image.tmdb.org/t/p/w500/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg"
+      },
+      {
+        "name": "Reginald VelJohnson",
+        "character": "Josiah",
+        "photo": "https://image.tmdb.org/t/p/w500/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg"
+      },
+      {
+        "name": "Michael Biehn",
+        "character": "Baylor",
+        "photo": "https://image.tmdb.org/t/p/w500/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+      },
+      {
+        "name": "Blake Kennedy",
+        "character": "Daisy",
+        "photo": "https://image.tmdb.org/t/p/w500/uHyvjWY6oQ9gs9zzpcLYMS0nF9D.jpg"
+      },
+      {
+        "name": "Alex Pereira",
+        "character": "The Butcher",
+        "photo": "https://image.tmdb.org/t/p/w500/2CbbPCRIv0bTMvVBgOzo6PeWdMi.jpg"
+      },
+      {
+        "name": "Drew Starkey",
+        "character": "Cyrus",
+        "photo": "https://image.tmdb.org/t/p/w500/iUPJrhsqgvF6CydzGfRzJG0wLiF.jpg"
+      },
+      {
+        "name": "Rebecca Hall",
+        "character": "Hanna Kammler",
+        "photo": "https://image.tmdb.org/t/p/w500/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+      },
+      {
+        "name": "Jacob Scipio",
+        "character": "Griffin",
+        "photo": "https://image.tmdb.org/t/p/w500/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+      },
+      {
+        "name": "Leon M. Brown",
+        "character": "Larkin",
+        "photo": "https://image.tmdb.org/t/p/w500/dhdTmMZKkVygyuCE3CO3qXnyPcm.jpg"
+      },
+      {
+        "name": "Dave Campbell",
+        "character": "The Cockroach",
+        "photo": "https://image.tmdb.org/t/p/w500/yLoKRiuKHyhweLUxUD56AsnNdgj.jpg"
+      }
+    ],
+    "director": [
+      "Adam Wingard"
+    ]
   }
 }

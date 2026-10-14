@@ -19,6 +19,53 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Ryan Kwanten",
+      "J.K. Simmons",
+      "Sylvia Grace Crim",
+      "Andre Lamar",
+      "Tordy Clark",
+      "Sarah Clark",
+      "Katie Bacque"
+    ],
+    "app_cast": [
+      {
+        "name": "Ryan Kwanten",
+        "character": "Wes",
+        "photo": "https://image.tmdb.org/t/p/w500/vvbEabUWIeaHMBA2wrUChiLTjch.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Ghat (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Sylvia Grace Crim",
+        "character": "Brenda",
+        "photo": "https://image.tmdb.org/t/p/w500/j7le6MbsmdgUifTJ3ErpH5FuHgw.jpg"
+      },
+      {
+        "name": "Andre Lamar",
+        "character": "Gary C.",
+        "photo": "https://image.tmdb.org/t/p/w500/qfObWvhdbvucrRM5t9LetC7dG6W.jpg"
+      },
+      {
+        "name": "Tordy Clark",
+        "character": "Sharon The Trucker",
+        "photo": "https://image.tmdb.org/t/p/w500/7kddLvM0NrqjtjbelSEKz4f8Loc.jpg"
+      },
+      {
+        "name": "Sarah Clark",
+        "character": "Blonde Woman at Party"
+      },
+      {
+        "name": "Katie Bacque",
+        "character": "The Bear"
+      }
+    ],
+    "director": [
+      "Rebekah McKendry"
+    ]
   }
 }

@@ -18,6 +18,43 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Aya Cash",
+      "Josh Ruben",
+      "Chris Redd",
+      "Rebecca Drysdale",
+      "Lauren Sick"
+    ],
+    "app_cast": [
+      {
+        "name": "Aya Cash",
+        "character": "Fanny",
+        "photo": "https://image.tmdb.org/t/p/w500/xUqelq0tht436iAahA4oLupSbK0.jpg"
+      },
+      {
+        "name": "Josh Ruben",
+        "character": "Fred",
+        "photo": "https://image.tmdb.org/t/p/w500/uaGdQizPuWvG2rNZxfm8Z6A9BoS.jpg"
+      },
+      {
+        "name": "Chris Redd",
+        "character": "Carlo",
+        "photo": "https://image.tmdb.org/t/p/w500/nTisigWhjdQ10puFLTay9bqYl6s.jpg"
+      },
+      {
+        "name": "Rebecca Drysdale",
+        "character": "Bettina",
+        "photo": "https://image.tmdb.org/t/p/w500/bbzet2yR7duFymPc3flDxyZpZMY.jpg"
+      },
+      {
+        "name": "Lauren Sick",
+        "character": "Meredith / Bookstore Owner",
+        "photo": "https://image.tmdb.org/t/p/w500/dF6aP2PEv3IjSlqyPKzurumqRNE.jpg"
+      }
+    ],
+    "director": [
+      "Josh Ruben"
+    ]
   }
 }

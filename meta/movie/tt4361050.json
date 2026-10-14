@@ -17,6 +17,84 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Parker Mack",
+      "Annalise Basso",
+      "Elizabeth Reaser",
+      "Lulu Wilson",
+      "Henry Thomas",
+      "Halle Charlton",
+      "Alexis G. Zall",
+      "Doug Jones",
+      "Kate Siegel",
+      "Sam Anderson",
+      "Chelsea Gonzalez",
+      "Lincoln Melcher"
+    ],
+    "app_cast": [
+      {
+        "name": "Parker Mack",
+        "character": "Mikey",
+        "photo": "https://image.tmdb.org/t/p/w500/6b14Zk0nCrVjoaxdUqNwFOOBFK3.jpg"
+      },
+      {
+        "name": "Annalise Basso",
+        "character": "Paulina Zander",
+        "photo": "https://image.tmdb.org/t/p/w500/83ZIWVz4TxrCNgnUVayrMnv9UXA.jpg"
+      },
+      {
+        "name": "Elizabeth Reaser",
+        "character": "Alice Zander",
+        "photo": "https://image.tmdb.org/t/p/w500/gYzfVDwWI6A955MEtX1ZqfZIuN2.jpg"
+      },
+      {
+        "name": "Lulu Wilson",
+        "character": "Doris Zander",
+        "photo": "https://image.tmdb.org/t/p/w500/7qqMBuvdZoayPVmVZKHBLqUgKiJ.jpg"
+      },
+      {
+        "name": "Henry Thomas",
+        "character": "Father Tom",
+        "photo": "https://image.tmdb.org/t/p/w500/tyTcpTMIAyIIy30u8N59G0PI06f.jpg"
+      },
+      {
+        "name": "Halle Charlton",
+        "character": "Ellie"
+      },
+      {
+        "name": "Alexis G. Zall",
+        "character": "Betty",
+        "photo": "https://image.tmdb.org/t/p/w500/bTCFZUDmE01mg9Mix8TqlgH8GnQ.jpg"
+      },
+      {
+        "name": "Doug Jones",
+        "character": "Marcus",
+        "photo": "https://image.tmdb.org/t/p/w500/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+      },
+      {
+        "name": "Kate Siegel",
+        "character": "Jenny Browning",
+        "photo": "https://image.tmdb.org/t/p/w500/jJJGmVKvMFHMJEwyfiHgxXEFePO.jpg"
+      },
+      {
+        "name": "Sam Anderson",
+        "character": "Mr. Browning",
+        "photo": "https://image.tmdb.org/t/p/w500/AnSyGuhjALUwUzMfQFhYMSJp4ra.jpg"
+      },
+      {
+        "name": "Chelsea Gonzalez",
+        "character": "Gloria",
+        "photo": "https://image.tmdb.org/t/p/w500/38JGIxV3to09Op0M0s2Pg1H0re4.jpg"
+      },
+      {
+        "name": "Lincoln Melcher",
+        "character": "Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/9My4go9IECpZtlVtmufpAKkpw8r.jpg"
+      }
+    ],
+    "director": [
+      "Mike Flanagan"
+    ]
   }
 }

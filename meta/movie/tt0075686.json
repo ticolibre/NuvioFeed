@@ -19,6 +19,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Diane Keaton",
+      "Woody Allen",
+      "Tony Roberts",
+      "Carol Kane",
+      "Paul Simon",
+      "Shelley Duvall",
+      "Janet Margolin",
+      "Colleen Dewhurst",
+      "Christopher Walken",
+      "Donald Symington",
+      "Helen Ludlam",
+      "Mordecai Lawner"
+    ],
+    "app_cast": [
+      {
+        "name": "Diane Keaton",
+        "character": "Annie Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+      },
+      {
+        "name": "Woody Allen",
+        "character": "Alvy Singer",
+        "photo": "https://image.tmdb.org/t/p/w500/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      },
+      {
+        "name": "Tony Roberts",
+        "character": "Rob",
+        "photo": "https://image.tmdb.org/t/p/w500/734POBaLhVNFhCjaUaiFFl8JilB.jpg"
+      },
+      {
+        "name": "Carol Kane",
+        "character": "Allison",
+        "photo": "https://image.tmdb.org/t/p/w500/dm3Ci8XuVYZBqqlYtaLgth94VUe.jpg"
+      },
+      {
+        "name": "Paul Simon",
+        "character": "Tony Lacey",
+        "photo": "https://image.tmdb.org/t/p/w500/vWOVDx7feNDSpgI2njivbCeFvEu.jpg"
+      },
+      {
+        "name": "Shelley Duvall",
+        "character": "Pam",
+        "photo": "https://image.tmdb.org/t/p/w500/zwscEWl7QLiOsfsvzGXFjAQCVp3.jpg"
+      },
+      {
+        "name": "Janet Margolin",
+        "character": "Robin",
+        "photo": "https://image.tmdb.org/t/p/w500/xtaXyIrN1NiIqsOoHNv0yHpVynP.jpg"
+      },
+      {
+        "name": "Colleen Dewhurst",
+        "character": "Mrs. Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/rrUNC8d6lbIrZm4yCHS39bLDtL1.jpg"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Duane Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "name": "Donald Symington",
+        "character": "Dad Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/kykKsFl3Ku2Ng2B6FXpdo5a0vq4.jpg"
+      },
+      {
+        "name": "Helen Ludlam",
+        "character": "Grammy Hall"
+      },
+      {
+        "name": "Mordecai Lawner",
+        "character": "Alvy's Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/bqqgj2BmntDbFOvY9SzaeB9n1Ub.jpg"
+      }
+    ],
+    "director": [
+      "Woody Allen"
+    ]
   }
 }

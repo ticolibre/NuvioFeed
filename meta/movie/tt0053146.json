@@ -18,6 +18,80 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Breno Mello",
+      "Marpessa Dawn",
+      "Lourdes de Oliveira",
+      "Léa Garcia",
+      "Adhemar Ferreira da Silva",
+      "Waldetar De Souza",
+      "Alexandre Constantino",
+      "Jorge Dos Santos",
+      "Aurino Cassiano",
+      "Maria Alice",
+      "Marcel Camus",
+      "Fausto Guerzoni"
+    ],
+    "app_cast": [
+      {
+        "name": "Breno Mello",
+        "character": "Orfeo",
+        "photo": "https://image.tmdb.org/t/p/w500/3Ff0HeKPoMVeUd2PxSdhgEgATNi.jpg"
+      },
+      {
+        "name": "Marpessa Dawn",
+        "character": "Eurydice",
+        "photo": "https://image.tmdb.org/t/p/w500/guHtpzzHccOxTC4msqpRqOxsxte.jpg"
+      },
+      {
+        "name": "Lourdes de Oliveira",
+        "character": "Mira"
+      },
+      {
+        "name": "Léa Garcia",
+        "character": "Serafina",
+        "photo": "https://image.tmdb.org/t/p/w500/zNVk9FWikhnGiKZnsmyk2k2oThX.jpg"
+      },
+      {
+        "name": "Adhemar Ferreira da Silva",
+        "character": "Death",
+        "photo": "https://image.tmdb.org/t/p/w500/kF3257IffPYNGASiJM1JMHqer9P.jpg"
+      },
+      {
+        "name": "Waldetar De Souza",
+        "character": "Chico"
+      },
+      {
+        "name": "Alexandre Constantino",
+        "character": "Hermes",
+        "photo": "https://image.tmdb.org/t/p/w500/7Bb4v7AdCR7Rj9TMml62X5GLsC7.jpg"
+      },
+      {
+        "name": "Jorge Dos Santos",
+        "character": "Benedito"
+      },
+      {
+        "name": "Aurino Cassiano",
+        "character": "Zeca"
+      },
+      {
+        "name": "Maria Alice",
+        "character": "Little Girl"
+      },
+      {
+        "name": "Marcel Camus",
+        "character": "Ernesto",
+        "photo": "https://image.tmdb.org/t/p/w500/lErZmR4arJzF9QBVGWrdIPg64zl.jpg"
+      },
+      {
+        "name": "Fausto Guerzoni",
+        "character": "Fausto",
+        "photo": "https://image.tmdb.org/t/p/w500/jSFaAMBJhMeqCilFSwdMI6fFUpI.jpg"
+      }
+    ],
+    "director": [
+      "Marcel Camus"
+    ]
   }
 }

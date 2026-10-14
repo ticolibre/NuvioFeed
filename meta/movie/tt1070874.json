@@ -18,6 +18,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Eddie Redmayne",
+      "Sacha Baron Cohen",
+      "Mark Rylance",
+      "Joseph Gordon-Levitt",
+      "Frank Langella",
+      "Jeremy Strong",
+      "John Carroll Lynch",
+      "Yahya Abdul-Mateen II",
+      "Alex Sharp",
+      "Noah Robbins",
+      "Danny Flaherty",
+      "Ben Shenkman"
+    ],
+    "app_cast": [
+      {
+        "name": "Eddie Redmayne",
+        "character": "Tom Hayden",
+        "photo": "https://image.tmdb.org/t/p/w500/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "character": "Abbie Hoffman",
+        "photo": "https://image.tmdb.org/t/p/w500/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "William Kunstler",
+        "photo": "https://image.tmdb.org/t/p/w500/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "character": "Richard Schultz",
+        "photo": "https://image.tmdb.org/t/p/w500/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+      },
+      {
+        "name": "Frank Langella",
+        "character": "Judge Julius Hoffman",
+        "photo": "https://image.tmdb.org/t/p/w500/86DEo3sBguyc1l46606yVKD28T4.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "character": "Jerry Rubin",
+        "photo": "https://image.tmdb.org/t/p/w500/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      },
+      {
+        "name": "John Carroll Lynch",
+        "character": "David Dellinger",
+        "photo": "https://image.tmdb.org/t/p/w500/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+      },
+      {
+        "name": "Yahya Abdul-Mateen II",
+        "character": "Bobby Seale",
+        "photo": "https://image.tmdb.org/t/p/w500/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg"
+      },
+      {
+        "name": "Alex Sharp",
+        "character": "Rennie Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/hsbwCL4YzVnbmgFYvGRc9V30gSM.jpg"
+      },
+      {
+        "name": "Noah Robbins",
+        "character": "Lee Weiner",
+        "photo": "https://image.tmdb.org/t/p/w500/ddbhyhPmLutdjWSFgF9kRTSsjYH.jpg"
+      },
+      {
+        "name": "Danny Flaherty",
+        "character": "John Froines",
+        "photo": "https://image.tmdb.org/t/p/w500/2ZICtE27qlbiiiQhYiPeXSPlnWj.jpg"
+      },
+      {
+        "name": "Ben Shenkman",
+        "character": "Leonard Weinglass",
+        "photo": "https://image.tmdb.org/t/p/w500/AcIhNToOtxVc44GOP8IhcuOPqb3.jpg"
+      }
+    ],
+    "director": [
+      "Aaron Sorkin"
+    ]
   }
 }

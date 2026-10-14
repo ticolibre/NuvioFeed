@@ -18,6 +18,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Christian Friedel",
+      "Ernst Jacobi",
+      "Leonie Benesch",
+      "Ulrich Tukur",
+      "Fion Mutert",
+      "Ursina Lardi",
+      "Burghart Klaußner",
+      "Steffi Kühnert",
+      "Maria Dragus",
+      "Josef Bierbichler",
+      "Rainer Bock",
+      "Susanne Lothar"
+    ],
+    "app_cast": [
+      {
+        "name": "Christian Friedel",
+        "character": "The School Teacher",
+        "photo": "https://image.tmdb.org/t/p/w500/e991OjrO8tjAxoPzhg5vjNDHaou.jpg"
+      },
+      {
+        "name": "Ernst Jacobi",
+        "character": "The School Teacher as an Old Man (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/5Asta0aLv05ODjCtHtPQ5KqguxB.jpg"
+      },
+      {
+        "name": "Leonie Benesch",
+        "character": "Eva",
+        "photo": "https://image.tmdb.org/t/p/w500/dXs2srrTNOTOZXNa0UOaO9xx2QL.jpg"
+      },
+      {
+        "name": "Ulrich Tukur",
+        "character": "The Baron",
+        "photo": "https://image.tmdb.org/t/p/w500/nP9iuQml65bHD0jINp0f4I7Fkce.jpg"
+      },
+      {
+        "name": "Fion Mutert",
+        "character": "Sigmund"
+      },
+      {
+        "name": "Ursina Lardi",
+        "character": "Marie Louise",
+        "photo": "https://image.tmdb.org/t/p/w500/2jkpWQwylinnqcsYP6CuN4L575x.jpg"
+      },
+      {
+        "name": "Burghart Klaußner",
+        "character": "The Pastor",
+        "photo": "https://image.tmdb.org/t/p/w500/fRRo8H3zqvKJxyId4ECQeKqYFwM.jpg"
+      },
+      {
+        "name": "Steffi Kühnert",
+        "character": "The Pastor's Wife",
+        "photo": "https://image.tmdb.org/t/p/w500/6hW85ehTO43ypWbRxrpoy6WCfZ1.jpg"
+      },
+      {
+        "name": "Maria Dragus",
+        "character": "Klara",
+        "photo": "https://image.tmdb.org/t/p/w500/wXU9pn5ZVpwZfL5XtoZg4QGfnTF.jpg"
+      },
+      {
+        "name": "Josef Bierbichler",
+        "character": "The Steward",
+        "photo": "https://image.tmdb.org/t/p/w500/XbK3QlwxcXXceR06Ullp0Yr0Ng.jpg"
+      },
+      {
+        "name": "Rainer Bock",
+        "character": "The Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg"
+      },
+      {
+        "name": "Susanne Lothar",
+        "character": "The Midwife",
+        "photo": "https://image.tmdb.org/t/p/w500/xG0R9pn0MANss9eC4aB6kBINsXg.jpg"
+      }
+    ],
+    "director": [
+      "Michael Haneke"
+    ]
   }
 }

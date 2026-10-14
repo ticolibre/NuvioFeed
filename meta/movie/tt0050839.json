@@ -18,6 +18,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Lana Turner",
+      "Hope Lange",
+      "Lee Philips",
+      "Lloyd Nolan",
+      "Diane Varsi",
+      "Arthur Kennedy",
+      "Russ Tamblyn",
+      "Terry Moore",
+      "Barry Coe",
+      "David Nelson",
+      "Betty Field",
+      "Mildred Dunnock"
+    ],
+    "app_cast": [
+      {
+        "name": "Lana Turner",
+        "character": "Constance MacKenzie",
+        "photo": "https://image.tmdb.org/t/p/w500/5nyFlzZ9Dkih2MWOFSK4B90j4GX.jpg"
+      },
+      {
+        "name": "Hope Lange",
+        "character": "Selena Cross",
+        "photo": "https://image.tmdb.org/t/p/w500/tSI2AeouDffP0V3Qb5nd1cmN83X.jpg"
+      },
+      {
+        "name": "Lee Philips",
+        "character": "Michael Rossi",
+        "photo": "https://image.tmdb.org/t/p/w500/zVIRl0NonCshulMLKCPowqPPH7w.jpg"
+      },
+      {
+        "name": "Lloyd Nolan",
+        "character": "Dr. Matthew Swain",
+        "photo": "https://image.tmdb.org/t/p/w500/tENzeS3MDaFbTdhD2xhyybAfKWP.jpg"
+      },
+      {
+        "name": "Diane Varsi",
+        "character": "Allison MacKenzie",
+        "photo": "https://image.tmdb.org/t/p/w500/qRfkpnM5WaRRFVUxt3UqtBbF10J.jpg"
+      },
+      {
+        "name": "Arthur Kennedy",
+        "character": "Lucas Cross",
+        "photo": "https://image.tmdb.org/t/p/w500/o3BRFELyl7gVGRF0JhsGEP3Cny7.jpg"
+      },
+      {
+        "name": "Russ Tamblyn",
+        "character": "Norman Page",
+        "photo": "https://image.tmdb.org/t/p/w500/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+      },
+      {
+        "name": "Terry Moore",
+        "character": "Betty Anderson",
+        "photo": "https://image.tmdb.org/t/p/w500/znkj4uTUkNpJucQcW4z4juqf6b6.jpg"
+      },
+      {
+        "name": "Barry Coe",
+        "character": "Rodney Harrington",
+        "photo": "https://image.tmdb.org/t/p/w500/uGJpcRxCWmx1WkngkBU5o1wBxOH.jpg"
+      },
+      {
+        "name": "David Nelson",
+        "character": "Ted Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/ptPihffGwkR8OkUQH1sXKYbQ9VS.jpg"
+      },
+      {
+        "name": "Betty Field",
+        "character": "Nellie Cross",
+        "photo": "https://image.tmdb.org/t/p/w500/dQTrh5POuSzSvrEN2dOMFBR7SCe.jpg"
+      },
+      {
+        "name": "Mildred Dunnock",
+        "character": "Miss Elsie Thornton",
+        "photo": "https://image.tmdb.org/t/p/w500/7Uz07I2HyDPlJPqq1A0q0Kabq5D.jpg"
+      }
+    ],
+    "director": [
+      "Mark Robson"
+    ]
   }
 }

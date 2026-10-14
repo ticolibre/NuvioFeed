@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Donald Sutherland",
+      "Elliott Gould",
+      "Tom Skerritt",
+      "Sally Kellerman",
+      "Robert Duvall",
+      "Roger Bowen",
+      "René Auberjonois",
+      "David Arkin",
+      "Jo Ann Pflug",
+      "Gary Burghoff",
+      "Fred Williamson",
+      "Michael Murphy"
+    ],
+    "app_cast": [
+      {
+        "name": "Donald Sutherland",
+        "character": "Hawkeye Pierce",
+        "photo": "https://image.tmdb.org/t/p/w500/t9rN5Vni7GYmqqNi9nANCZbmewx.jpg"
+      },
+      {
+        "name": "Elliott Gould",
+        "character": "Trapper John McIntyre",
+        "photo": "https://image.tmdb.org/t/p/w500/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+      },
+      {
+        "name": "Tom Skerritt",
+        "character": "Duke Forrest",
+        "photo": "https://image.tmdb.org/t/p/w500/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
+      },
+      {
+        "name": "Sally Kellerman",
+        "character": "Maj. Margaret 'Hot Lips' O'Houlihan",
+        "photo": "https://image.tmdb.org/t/p/w500/dcErCXrb3DWfC9Hw77EifoIlMSY.jpg"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Maj. Frank Burns",
+        "photo": "https://image.tmdb.org/t/p/w500/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Roger Bowen",
+        "character": "Lt. Col. Henry Blake",
+        "photo": "https://image.tmdb.org/t/p/w500/ofr1WYVYwubABgyqkl7StAJZ6XV.jpg"
+      },
+      {
+        "name": "René Auberjonois",
+        "character": "Father John Mulcahy",
+        "photo": "https://image.tmdb.org/t/p/w500/1EZ6FnJGzwRl7XndkX8fBo8Tej3.jpg"
+      },
+      {
+        "name": "David Arkin",
+        "character": "St. Major Wade Vollmer",
+        "photo": "https://image.tmdb.org/t/p/w500/mz1AcRQkarakA3OdOeYVgnqVsh5.jpg"
+      },
+      {
+        "name": "Jo Ann Pflug",
+        "character": "Lt. 'Dish' Schneider",
+        "photo": "https://image.tmdb.org/t/p/w500/45DWVSsyyUyLGSxEOqzjbzLpiwB.jpg"
+      },
+      {
+        "name": "Gary Burghoff",
+        "character": "Cpl. 'Radar' O'Reilly",
+        "photo": "https://image.tmdb.org/t/p/w500/8dgZiuimcQVF5ulClA9hJL9zQNU.jpg"
+      },
+      {
+        "name": "Fred Williamson",
+        "character": "Dr. Oliver 'Spearchucker' Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/fwbqxb33pRZ5LcF3XZrZvxU1QSr.jpg"
+      },
+      {
+        "name": "Michael Murphy",
+        "character": "'Me Lai' Marston",
+        "photo": "https://image.tmdb.org/t/p/w500/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+      }
+    ],
+    "director": [
+      "Robert Altman"
+    ]
   }
 }

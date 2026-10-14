@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Harris Dickinson",
+      "Charlbi Dean",
+      "Dolly de Leon",
+      "Woody Harrelson",
+      "Zlatko Burić",
+      "Vicki Berlin",
+      "Henrik Dorsin",
+      "Iris Berben",
+      "Jean-Christophe Folly",
+      "Amanda Walker",
+      "Oliver Ford Davies",
+      "Sunnyi Melles"
+    ],
+    "app_cast": [
+      {
+        "name": "Harris Dickinson",
+        "character": "Carl",
+        "photo": "https://image.tmdb.org/t/p/w500/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
+      },
+      {
+        "name": "Charlbi Dean",
+        "character": "Yaya",
+        "photo": "https://image.tmdb.org/t/p/w500/bdWguLfrKPfRVIFvEOsVNMdeqw9.jpg"
+      },
+      {
+        "name": "Dolly de Leon",
+        "character": "Abigail",
+        "photo": "https://image.tmdb.org/t/p/w500/fwwvPAJaJA3F8P35MYGf8MmYfe8.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "The Captain",
+        "photo": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Zlatko Burić",
+        "character": "Dimitry",
+        "photo": "https://image.tmdb.org/t/p/w500/2b9ErKvUwblnByewNMXqBtFEIzQ.jpg"
+      },
+      {
+        "name": "Vicki Berlin",
+        "character": "Paula",
+        "photo": "https://image.tmdb.org/t/p/w500/6IBTHHoufClaMJiPbTox5SWZvbM.jpg"
+      },
+      {
+        "name": "Henrik Dorsin",
+        "character": "Jarmo",
+        "photo": "https://image.tmdb.org/t/p/w500/xCy1BDKAeGNCV6V1ntyYvo3kBB0.jpg"
+      },
+      {
+        "name": "Iris Berben",
+        "character": "Therese",
+        "photo": "https://image.tmdb.org/t/p/w500/nabFL01eWmR1Es3r6KSZO6JTUSa.jpg"
+      },
+      {
+        "name": "Jean-Christophe Folly",
+        "character": "Nelson",
+        "photo": "https://image.tmdb.org/t/p/w500/75KkhPqt8cc9e4F7SutU2asisCw.jpg"
+      },
+      {
+        "name": "Amanda Walker",
+        "character": "Clementine",
+        "photo": "https://image.tmdb.org/t/p/w500/g24boQMXNvZzWDKMPZFFs4x4h5f.jpg"
+      },
+      {
+        "name": "Oliver Ford Davies",
+        "character": "Winston",
+        "photo": "https://image.tmdb.org/t/p/w500/hDdpoEWtNd0c46PcuORomdEI5j0.jpg"
+      },
+      {
+        "name": "Sunnyi Melles",
+        "character": "Vera",
+        "photo": "https://image.tmdb.org/t/p/w500/ro6nr4EAYKSrXyuKpACUs0BpMgc.jpg"
+      }
+    ],
+    "director": [
+      "Ruben Östlund"
+    ]
   }
 }

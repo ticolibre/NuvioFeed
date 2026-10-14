@@ -18,6 +18,79 @@
           "rating": "2.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Andrew Creer",
+      "Stephanie Moran",
+      "Bradley Hamilton",
+      "Michelle Treacy",
+      "Emily Van Raay",
+      "Natalie Olivia Clarke",
+      "Madelaine Gionnet",
+      "Adam Drodge",
+      "Alex Friesen",
+      "Piper Davies",
+      "Halla Trineer",
+      "Emily Kafoury"
+    ],
+    "app_cast": [
+      {
+        "name": "Andrew Creer",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/h7rvcQkG75pAVPOJSK7veMhAzHQ.jpg"
+      },
+      {
+        "name": "Stephanie Moran",
+        "character": "Lily",
+        "photo": "https://image.tmdb.org/t/p/w500/l5v9JyChKNyLrHLNPQN1kHmWRzR.jpg"
+      },
+      {
+        "name": "Bradley Hamilton",
+        "character": "Mark",
+        "photo": "https://image.tmdb.org/t/p/w500/5qGUL8J8fsM24BsN1ixTEF2FB2A.jpg"
+      },
+      {
+        "name": "Michelle Treacy",
+        "character": "Dana"
+      },
+      {
+        "name": "Emily Van Raay",
+        "character": "Rose"
+      },
+      {
+        "name": "Natalie Olivia Clarke",
+        "character": "Millie",
+        "photo": "https://image.tmdb.org/t/p/w500/g9RyOxFdeQvnwbAHp2HfU7Bbjfz.jpg"
+      },
+      {
+        "name": "Madelaine Gionnet",
+        "character": "Friend"
+      },
+      {
+        "name": "Adam Drodge",
+        "character": "The Large Man"
+      },
+      {
+        "name": "Alex Friesen",
+        "character": "The Ghoul",
+        "photo": "https://image.tmdb.org/t/p/w500/ro96aKGBJH9QNp2iBg2OVkK7asJ.jpg"
+      },
+      {
+        "name": "Piper Davies",
+        "character": "The Rabbit",
+        "photo": "https://image.tmdb.org/t/p/w500/kiL1cMDrgfivJPligLrSrQrKxK6.jpg"
+      },
+      {
+        "name": "Halla Trineer",
+        "character": "Teenage Boy"
+      },
+      {
+        "name": "Emily Kafoury",
+        "character": "Teenage Girl"
+      }
+    ],
+    "director": [
+      "Sonny Mallhi"
+    ]
   }
 }

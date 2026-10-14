@@ -20,6 +20,84 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Preston",
+      "Shirley Jones",
+      "Buddy Hackett",
+      "Ron Howard",
+      "Hermione Gingold",
+      "Paul Ford",
+      "Pert Kelton",
+      "Timmy Everett",
+      "Susan Luckey",
+      "Peggy Mondo",
+      "Harry Hickox",
+      "Jesslyn Fax"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Preston",
+        "character": "Harold Hill",
+        "photo": "https://image.tmdb.org/t/p/w500/geEkOOrrqYXZ6NEj62drfAR8kM0.jpg"
+      },
+      {
+        "name": "Shirley Jones",
+        "character": "Marian Paroo",
+        "photo": "https://image.tmdb.org/t/p/w500/sUVC0cxUULxm5DaJGls6g12JAZ3.jpg"
+      },
+      {
+        "name": "Buddy Hackett",
+        "character": "Marcellus Washburn",
+        "photo": "https://image.tmdb.org/t/p/w500/tc9A8gHLAwMliIwRUs9O9QzlYZF.jpg"
+      },
+      {
+        "name": "Ron Howard",
+        "character": "Winthrop Paroo",
+        "photo": "https://image.tmdb.org/t/p/w500/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      },
+      {
+        "name": "Hermione Gingold",
+        "character": "Eulalie Mackechnie Shinn",
+        "photo": "https://image.tmdb.org/t/p/w500/k7iDQQllbchoNXiBqPbsRrCdxW1.jpg"
+      },
+      {
+        "name": "Paul Ford",
+        "character": "Mayor George Shinn",
+        "photo": "https://image.tmdb.org/t/p/w500/hpPxSJrDsRjIvTjce3THXWYpWDE.jpg"
+      },
+      {
+        "name": "Pert Kelton",
+        "character": "Mrs. Paroo",
+        "photo": "https://image.tmdb.org/t/p/w500/xTFARq5lohHXJv6mH9swroYYQha.jpg"
+      },
+      {
+        "name": "Timmy Everett",
+        "character": "Tommy Djilas",
+        "photo": "https://image.tmdb.org/t/p/w500/w4vRfeWlnrImokbyjAFbXMnW9PH.jpg"
+      },
+      {
+        "name": "Susan Luckey",
+        "character": "Zaneeta Shinn",
+        "photo": "https://image.tmdb.org/t/p/w500/kyjWDuQGgg1vxn3q17VXg4f8ws5.jpg"
+      },
+      {
+        "name": "Peggy Mondo",
+        "character": "Ethel"
+      },
+      {
+        "name": "Harry Hickox",
+        "character": "Charlie Cowell",
+        "photo": "https://image.tmdb.org/t/p/w500/q1S5FiT9NfjNtycis3Q0TffPWhA.jpg"
+      },
+      {
+        "name": "Jesslyn Fax",
+        "character": "Avis Grubb",
+        "photo": "https://image.tmdb.org/t/p/w500/k2YtSWCxe1rDHtARNW2K4Z3ZBOH.jpg"
+      }
+    ],
+    "director": [
+      "Morton DaCosta"
+    ]
   }
 }

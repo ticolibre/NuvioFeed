@@ -18,6 +18,81 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Ali MacGraw",
+      "Ryan O'Neal",
+      "John Marley",
+      "Ray Milland",
+      "Russell Nype",
+      "Tommy Lee Jones",
+      "Sydney Walker",
+      "Robert Modica",
+      "Katherine Balfour",
+      "Walker Daniels",
+      "John Merensky",
+      "Andrew Duncan"
+    ],
+    "app_cast": [
+      {
+        "name": "Ali MacGraw",
+        "character": "Jennifer Cavilleri",
+        "photo": "https://image.tmdb.org/t/p/w500/cng3cjxhfA4xNomdN9cIoipryne.jpg"
+      },
+      {
+        "name": "Ryan O'Neal",
+        "character": "Oliver Barrett IV",
+        "photo": "https://image.tmdb.org/t/p/w500/fVOj551i42ZlmBr3BvRKvfj7Mdj.jpg"
+      },
+      {
+        "name": "John Marley",
+        "character": "Phil Cavilleri",
+        "photo": "https://image.tmdb.org/t/p/w500/xyzwd0CiBjXfowH3HcPhvuWcV5B.jpg"
+      },
+      {
+        "name": "Ray Milland",
+        "character": "Oliver Barrett III",
+        "photo": "https://image.tmdb.org/t/p/w500/nqZGSLa9jS92hYlmkacFXxYwB2Y.jpg"
+      },
+      {
+        "name": "Russell Nype",
+        "character": "Dean Thompson",
+        "photo": "https://image.tmdb.org/t/p/w500/2mIBx308LZR3PNolqaY4Rji7JRu.jpg"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Hank Simpson",
+        "photo": "https://image.tmdb.org/t/p/w500/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "name": "Sydney Walker",
+        "character": "Dr. Shapeley",
+        "photo": "https://image.tmdb.org/t/p/w500/1cpTr6tdsJYsdxExkIyoukZuVKb.jpg"
+      },
+      {
+        "name": "Robert Modica",
+        "character": "Dr. Addison"
+      },
+      {
+        "name": "Katherine Balfour",
+        "character": "Mrs. Barrett"
+      },
+      {
+        "name": "Walker Daniels",
+        "character": "Ray Stratton"
+      },
+      {
+        "name": "John Merensky",
+        "character": "Steve"
+      },
+      {
+        "name": "Andrew Duncan",
+        "character": "Reverend Blauvelt",
+        "photo": "https://image.tmdb.org/t/p/w500/xKLAtV03Kvmz7huZra4nPsH9kpb.jpg"
+      }
+    ],
+    "director": [
+      "Arthur Hiller"
+    ]
   }
 }

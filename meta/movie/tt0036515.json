@@ -18,6 +18,84 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Bette Davis",
+      "Paul Lukas",
+      "Geraldine Fitzgerald",
+      "Lucile Watson",
+      "Beulah Bondi",
+      "George Coulouris",
+      "Donald Woods",
+      "Henry Daniell",
+      "Eric Roberts",
+      "Donald Buka",
+      "Anthony Caruso",
+      "Helmut Dantine"
+    ],
+    "app_cast": [
+      {
+        "name": "Bette Davis",
+        "character": "Sara Müller",
+        "photo": "https://image.tmdb.org/t/p/w500/dr7UzpC9055ByCdCUHvTP1qsD2X.jpg"
+      },
+      {
+        "name": "Paul Lukas",
+        "character": "Kurt Müller",
+        "photo": "https://image.tmdb.org/t/p/w500/uPN8hpMtacoFylb0Ez9j800bilZ.jpg"
+      },
+      {
+        "name": "Geraldine Fitzgerald",
+        "character": "Marthe de Brancovis",
+        "photo": "https://image.tmdb.org/t/p/w500/jLpd1AxJIAYHE41kIJjXKAK5Vnn.jpg"
+      },
+      {
+        "name": "Lucile Watson",
+        "character": "Fanny Farrelly",
+        "photo": "https://image.tmdb.org/t/p/w500/wNBcS1nGUNvKta1jHrnoSdxDUUZ.jpg"
+      },
+      {
+        "name": "Beulah Bondi",
+        "character": "Anise",
+        "photo": "https://image.tmdb.org/t/p/w500/eMBdRplrMZfv7xC5FjzfOiOOb3E.jpg"
+      },
+      {
+        "name": "George Coulouris",
+        "character": "Teck de Brancovis",
+        "photo": "https://image.tmdb.org/t/p/w500/cB87rJWOsstpwhBXk6nqqZ9SEJg.jpg"
+      },
+      {
+        "name": "Donald Woods",
+        "character": "David Farrelly",
+        "photo": "https://image.tmdb.org/t/p/w500/qgTEj1k6BWRQVzBCan2kxZKsS6D.jpg"
+      },
+      {
+        "name": "Henry Daniell",
+        "character": "Phili Von Ramme",
+        "photo": "https://image.tmdb.org/t/p/w500/5g4V2fKBAI5TGjqfItfsnPjqZN9.jpg"
+      },
+      {
+        "name": "Eric Roberts",
+        "character": "Bodo"
+      },
+      {
+        "name": "Donald Buka",
+        "character": "Joshua",
+        "photo": "https://image.tmdb.org/t/p/w500/ngnfsrxG2aTNC9k8HKK3437WenW.jpg"
+      },
+      {
+        "name": "Anthony Caruso",
+        "character": "Italian Man",
+        "photo": "https://image.tmdb.org/t/p/w500/8eDPQrngmyQW8NrNbZ9oOfOM9ti.jpg"
+      },
+      {
+        "name": "Helmut Dantine",
+        "character": "Young Man",
+        "photo": "https://image.tmdb.org/t/p/w500/AcKhHPzV6lCTamh1S2tFr8fgo6V.jpg"
+      }
+    ],
+    "director": [
+      "Herman Shumlin"
+    ]
   }
 }

@@ -17,6 +17,84 @@
           "rating": "4.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Reese Mishler",
+      "Pfeifer Brown",
+      "Ryan Shoos",
+      "Cassidy Gifford",
+      "Price T. Morgan",
+      "Mackie Burt",
+      "Travis Cluff",
+      "Alexa Benson",
+      "Rebecca Dowty",
+      "Mackie Burt",
+      "Melissa Bratton",
+      "Theo Burkhardt"
+    ],
+    "app_cast": [
+      {
+        "name": "Reese Mishler",
+        "character": "Reese",
+        "photo": "https://image.tmdb.org/t/p/w500/8bA5HRFGdU5ZXufrsYshxRh2Ji7.jpg"
+      },
+      {
+        "name": "Pfeifer Brown",
+        "character": "Pfeifer",
+        "photo": "https://image.tmdb.org/t/p/w500/ufj164DFqITRAe1MSJNhojd6lan.jpg"
+      },
+      {
+        "name": "Ryan Shoos",
+        "character": "Ryan",
+        "photo": "https://image.tmdb.org/t/p/w500/w6DBn4qcgpLjVMxDekXsfMiTFbt.jpg"
+      },
+      {
+        "name": "Cassidy Gifford",
+        "character": "Cassidy",
+        "photo": "https://image.tmdb.org/t/p/w500/h0DAnus6YDp9YHhyneQ6UyYSN0V.jpg"
+      },
+      {
+        "name": "Price T. Morgan",
+        "character": "Stage Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/oOdDg462w4coy74UizMzpcTJMDX.jpg"
+      },
+      {
+        "name": "Mackie Burt",
+        "character": "Cheerleader #1",
+        "photo": "https://image.tmdb.org/t/p/w500/yqIZh0lKTYHbuWChxpveVQrq25T.jpg"
+      },
+      {
+        "name": "Travis Cluff",
+        "character": "Mr. Schwendiman",
+        "photo": "https://image.tmdb.org/t/p/w500/2cA2W0FQs2GV1VFutsAUrmdPvMY.jpg"
+      },
+      {
+        "name": "Alexa Benson",
+        "character": "Drama Student",
+        "photo": "https://image.tmdb.org/t/p/w500/AtbCuF9m888zBJ7q7EeL7HAN3tp.jpg"
+      },
+      {
+        "name": "Rebecca Dowty",
+        "character": "Parent of the Nerd",
+        "photo": "https://image.tmdb.org/t/p/w500/wU4Eq1EhmUNnCe778ief36c38wu.jpg"
+      },
+      {
+        "name": "Mackie Burt",
+        "character": "Cheerleader",
+        "photo": "https://image.tmdb.org/t/p/w500/yqIZh0lKTYHbuWChxpveVQrq25T.jpg"
+      },
+      {
+        "name": "Melissa Bratton",
+        "character": "Pfeifer's Mom"
+      },
+      {
+        "name": "Theo Burkhardt",
+        "character": "Rick Houser"
+      }
+    ],
+    "director": [
+      "Travis Cluff",
+      "Chris Lofing"
+    ]
   }
 }

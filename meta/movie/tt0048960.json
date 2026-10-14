@@ -21,6 +21,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "David Niven",
+      "Cantinflas",
+      "Shirley MacLaine",
+      "Robert Newton",
+      "Finlay Currie",
+      "Robert Morley",
+      "Charles Boyer",
+      "Gilbert Roland",
+      "Marlene Dietrich",
+      "Frank Sinatra",
+      "Buster Keaton",
+      "John Carradine"
+    ],
+    "app_cast": [
+      {
+        "name": "David Niven",
+        "character": "Phileas Fogg",
+        "photo": "https://image.tmdb.org/t/p/w500/ioW2DU6T2HPvTdqUSaLLQmGPb38.jpg"
+      },
+      {
+        "name": "Cantinflas",
+        "character": "Passepartout",
+        "photo": "https://image.tmdb.org/t/p/w500/iASObohpLJzqYQM6bQzyup3QvEs.jpg"
+      },
+      {
+        "name": "Shirley MacLaine",
+        "character": "Princess Aouda",
+        "photo": "https://image.tmdb.org/t/p/w500/vU4QsP3GRj03S8Z92vrZfkdb7rO.jpg"
+      },
+      {
+        "name": "Robert Newton",
+        "character": "Mr. Fix",
+        "photo": "https://image.tmdb.org/t/p/w500/rk2vn6t830zKeROOx2aMdaEteyc.jpg"
+      },
+      {
+        "name": "Finlay Currie",
+        "character": "Whist Partner",
+        "photo": "https://image.tmdb.org/t/p/w500/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+      },
+      {
+        "name": "Robert Morley",
+        "character": "Ralph",
+        "photo": "https://image.tmdb.org/t/p/w500/38Ms5ijBMIZNA4cwhiRvmBM0fOS.jpg"
+      },
+      {
+        "name": "Charles Boyer",
+        "character": "Monsieur Gasse",
+        "photo": "https://image.tmdb.org/t/p/w500/uVV5HiMl0xP1haPwqcJNweGizZ1.jpg"
+      },
+      {
+        "name": "Gilbert Roland",
+        "character": "Achmed Abdullah",
+        "photo": "https://image.tmdb.org/t/p/w500/mzFPFiCb7fNsGI9gBFHYn0kqg7g.jpg"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "character": "Saloon Hostess",
+        "photo": "https://image.tmdb.org/t/p/w500/9AxXKUr9CLfy5Lcg3JaNRbWD6Be.jpg"
+      },
+      {
+        "name": "Frank Sinatra",
+        "character": "Saloon Pianist",
+        "photo": "https://image.tmdb.org/t/p/w500/dafKPsivu50RdChBSrgGmMRenYt.jpg"
+      },
+      {
+        "name": "Buster Keaton",
+        "character": "Train Conductor",
+        "photo": "https://image.tmdb.org/t/p/w500/ejJz8YWn1Dr1PFn6E70NZ0oZ6o6.jpg"
+      },
+      {
+        "name": "John Carradine",
+        "character": "Proctor Stamp",
+        "photo": "https://image.tmdb.org/t/p/w500/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+      }
+    ],
+    "director": [
+      "Michael Anderson"
+    ]
   }
 }

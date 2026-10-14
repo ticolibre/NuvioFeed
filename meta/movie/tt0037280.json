@@ -17,6 +17,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Claudette Colbert",
+      "Jennifer Jones",
+      "Joseph Cotten",
+      "Shirley Temple",
+      "Monty Woolley",
+      "Lionel Barrymore",
+      "Robert Walker",
+      "Hattie McDaniel",
+      "Agnes Moorehead",
+      "Alla Nazimova",
+      "Albert Bassermann",
+      "Gordon Oliver"
+    ],
+    "app_cast": [
+      {
+        "name": "Claudette Colbert",
+        "character": "Anne Hilton",
+        "photo": "https://image.tmdb.org/t/p/w500/hGXgVxZCMliuHZhVTg2q2UAgrmI.jpg"
+      },
+      {
+        "name": "Jennifer Jones",
+        "character": "Jane Hilton",
+        "photo": "https://image.tmdb.org/t/p/w500/kPWuP9WGAkVnwdmT1KCif4KOMwz.jpg"
+      },
+      {
+        "name": "Joseph Cotten",
+        "character": "Tony Willett",
+        "photo": "https://image.tmdb.org/t/p/w500/djfCB0jPOgmq3w7RD3BMLzWsAu8.jpg"
+      },
+      {
+        "name": "Shirley Temple",
+        "character": "Bridget Hilton",
+        "photo": "https://image.tmdb.org/t/p/w500/5jBfns8fqeFp5WrrmO6NZThpia2.jpg"
+      },
+      {
+        "name": "Monty Woolley",
+        "character": "William Smollett",
+        "photo": "https://image.tmdb.org/t/p/w500/a6eZUY568tOA9UfE0Fdgz9iaXSo.jpg"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "character": "Clergyman",
+        "photo": "https://image.tmdb.org/t/p/w500/1Tp5aKxF8n6iwTpviwLrxe1krm3.jpg"
+      },
+      {
+        "name": "Robert Walker",
+        "character": "Bill Smollett",
+        "photo": "https://image.tmdb.org/t/p/w500/c4vtXpzvEXs7xzpiSTaBi0UIPIn.jpg"
+      },
+      {
+        "name": "Hattie McDaniel",
+        "character": "Fidelia",
+        "photo": "https://image.tmdb.org/t/p/w500/cw4t51HdjPUcry2MRv652t36985.jpg"
+      },
+      {
+        "name": "Agnes Moorehead",
+        "character": "Emily Hawkins",
+        "photo": "https://image.tmdb.org/t/p/w500/h9vMkb6cjd5J3i0GCQ0t73DlQl0.jpg"
+      },
+      {
+        "name": "Alla Nazimova",
+        "character": "Zofia Koslowska",
+        "photo": "https://image.tmdb.org/t/p/w500/vD0vhqW4ScjTV20jQKmw6L9HJIu.jpg"
+      },
+      {
+        "name": "Albert Bassermann",
+        "character": "Sigmund Golden",
+        "photo": "https://image.tmdb.org/t/p/w500/uigX73KXCG55UXxM7dkg3Mg35VB.jpg"
+      },
+      {
+        "name": "Gordon Oliver",
+        "character": "Marine Officer Seeking Room",
+        "photo": "https://image.tmdb.org/t/p/w500/1f7YAGrlReAeBy7wWhRrANZRkw1.jpg"
+      }
+    ],
+    "director": [
+      "John Cromwell"
+    ]
   }
 }

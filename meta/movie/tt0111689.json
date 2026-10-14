@@ -19,6 +19,25 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Karen Sillas",
+      "Tom Noonan"
+    ],
+    "app_cast": [
+      {
+        "name": "Karen Sillas",
+        "character": "Jackie Marsh",
+        "photo": "https://image.tmdb.org/t/p/w500/vQhlcyC2TZkHJQ2w86e1BSmRdae.jpg"
+      },
+      {
+        "name": "Tom Noonan",
+        "character": "Michael",
+        "photo": "https://image.tmdb.org/t/p/w500/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+      }
+    ],
+    "director": [
+      "Tom Noonan"
+    ]
   }
 }

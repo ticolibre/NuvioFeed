@@ -17,6 +17,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Gregory Peck",
+      "Dorothy McGuire",
+      "John Garfield",
+      "Celeste Holm",
+      "Anne Revere",
+      "June Havoc",
+      "Albert Dekker",
+      "Jane Wyatt",
+      "Dean Stockwell",
+      "Nicholas Joy",
+      "Sam Jaffe",
+      "Harold Vermilyea"
+    ],
+    "app_cast": [
+      {
+        "name": "Gregory Peck",
+        "character": "Philip Schuyler Green",
+        "photo": "https://image.tmdb.org/t/p/w500/8EkjKu6OJPpEwpARpxVh6yd1f9k.jpg"
+      },
+      {
+        "name": "Dorothy McGuire",
+        "character": "Kathy Lacy",
+        "photo": "https://image.tmdb.org/t/p/w500/v6dOzPAxifN2gpP8hyPrSxzc2LT.jpg"
+      },
+      {
+        "name": "John Garfield",
+        "character": "Dave Goldman",
+        "photo": "https://image.tmdb.org/t/p/w500/f0OMA5i7YCYuHrmgy13BypChCg3.jpg"
+      },
+      {
+        "name": "Celeste Holm",
+        "character": "Anne Dettrey",
+        "photo": "https://image.tmdb.org/t/p/w500/gakDoDsesyikanmDsVfTuQ5UWLL.jpg"
+      },
+      {
+        "name": "Anne Revere",
+        "character": "Mrs. Green",
+        "photo": "https://image.tmdb.org/t/p/w500/mtlMi003Niqn0lv4Vemxkx5v09M.jpg"
+      },
+      {
+        "name": "June Havoc",
+        "character": "Elaine Wales",
+        "photo": "https://image.tmdb.org/t/p/w500/fmUnJfGy0QS5uR640jmnktTPcUk.jpg"
+      },
+      {
+        "name": "Albert Dekker",
+        "character": "John Minify",
+        "photo": "https://image.tmdb.org/t/p/w500/pgvLnzm4NuJQZiSRVhpQDz8QUYT.jpg"
+      },
+      {
+        "name": "Jane Wyatt",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/y623a9SfqOFtTawBG9TuESniqzf.jpg"
+      },
+      {
+        "name": "Dean Stockwell",
+        "character": "Tommy Green",
+        "photo": "https://image.tmdb.org/t/p/w500/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg"
+      },
+      {
+        "name": "Nicholas Joy",
+        "character": "Dr. Craigie",
+        "photo": "https://image.tmdb.org/t/p/w500/3flrfpogDk6kf9thyWP7uHygIiI.jpg"
+      },
+      {
+        "name": "Sam Jaffe",
+        "character": "Professor Fred Lieberman",
+        "photo": "https://image.tmdb.org/t/p/w500/pvWsxtku6Ki4zKJPUz3K2StJmwB.jpg"
+      },
+      {
+        "name": "Harold Vermilyea",
+        "character": "Lou Jordan",
+        "photo": "https://image.tmdb.org/t/p/w500/6ruYGK31R5ZwDtkQLAZPa2IJdNw.jpg"
+      }
+    ],
+    "director": [
+      "Elia Kazan"
+    ]
   }
 }

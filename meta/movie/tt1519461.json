@@ -19,6 +19,80 @@
           "rating": "5.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Frank Novak",
+      "Reid Warner",
+      "Darrin Bragg",
+      "Ben Rovner",
+      "Jelena Nik",
+      "David Thornsberry",
+      "Amelia Thornsberry",
+      "Jennefer Folsom",
+      "Roy Abramsohn",
+      "Glenn Campbell",
+      "Concepcion West",
+      "James Decker"
+    ],
+    "app_cast": [
+      {
+        "name": "Frank Novak",
+        "character": "Frank Novak",
+        "photo": "https://image.tmdb.org/t/p/w500/oAYRVswbxQCTM62A3pyQRbRiwUN.jpg"
+      },
+      {
+        "name": "Reid Warner",
+        "character": "Reid",
+        "photo": "https://image.tmdb.org/t/p/w500/9PpGQn8BSUOv75F0zGawa9x9VHi.jpg"
+      },
+      {
+        "name": "Darrin Bragg",
+        "character": "Darrin",
+        "photo": "https://image.tmdb.org/t/p/w500/36YfU8aoPLozhL3SOgxrkjNaPQK.jpg"
+      },
+      {
+        "name": "Ben Rovner",
+        "character": "Ben",
+        "photo": "https://image.tmdb.org/t/p/w500/fChJUA74293QjXo0gV9BHtZGRSR.jpg"
+      },
+      {
+        "name": "Jelena Nik",
+        "character": "Jelena",
+        "photo": "https://image.tmdb.org/t/p/w500/mU1gyr6nhMU30XUp9LdWePDO3Gn.jpg"
+      },
+      {
+        "name": "David Thornsberry",
+        "character": "Employee"
+      },
+      {
+        "name": "Amelia Thornsberry",
+        "character": "Employee Daughter"
+      },
+      {
+        "name": "Jennefer Folsom",
+        "character": "Jennefer Ludwigsen",
+        "photo": "https://image.tmdb.org/t/p/w500/o24jTDccGaxcNBv0bKz4cjZTiPE.jpg"
+      },
+      {
+        "name": "Roy Abramsohn",
+        "character": "Jim Nelson",
+        "photo": "https://image.tmdb.org/t/p/w500/usiJGjbTVR4y8FZ7r3ahoxt9Wka.jpg"
+      },
+      {
+        "name": "Glenn Campbell",
+        "character": "Glenn Campbell"
+      },
+      {
+        "name": "Concepcion West",
+        "character": "Little A'Le'Inn Waitress"
+      },
+      {
+        "name": "James Decker",
+        "character": "Kooky Rachel Local"
+      }
+    ],
+    "director": [
+      "Oren Peli"
+    ]
   }
 }

@@ -19,6 +19,80 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Massimo Troisi",
+      "Philippe Noiret",
+      "Maria Grazia Cucinotta",
+      "Renato Scarpa",
+      "Linda Moretti",
+      "Mariano Rigillo",
+      "Anna Bonaiuto",
+      "Sergio Solli",
+      "Carlo Di Maio",
+      "Nando Neri",
+      "Vincenzo Di Sauro",
+      "Orazio Stracuzzi"
+    ],
+    "app_cast": [
+      {
+        "name": "Massimo Troisi",
+        "character": "Mario Ruoppolo",
+        "photo": "https://image.tmdb.org/t/p/w500/t3u1YkX8W5j95ZLnpREycgPu1x9.jpg"
+      },
+      {
+        "name": "Philippe Noiret",
+        "character": "Pablo Neruda",
+        "photo": "https://image.tmdb.org/t/p/w500/mWPa6A0JK3tfVRQDIzCQGEao19B.jpg"
+      },
+      {
+        "name": "Maria Grazia Cucinotta",
+        "character": "Beatrice Russo",
+        "photo": "https://image.tmdb.org/t/p/w500/zZ46tuQnCEnYlfGiyuZTAb7w4BL.jpg"
+      },
+      {
+        "name": "Renato Scarpa",
+        "character": "Telegrapher",
+        "photo": "https://image.tmdb.org/t/p/w500/wVWEERHioQVxnB4jFeDDZIzdSPX.jpg"
+      },
+      {
+        "name": "Linda Moretti",
+        "character": "Donna Rosa",
+        "photo": "https://image.tmdb.org/t/p/w500/4RXo3cS27IP6jYj464OU9M89ITM.jpg"
+      },
+      {
+        "name": "Mariano Rigillo",
+        "character": "Di Cosimo",
+        "photo": "https://image.tmdb.org/t/p/w500/p6bQl4qicc0bFnsKxxKagDjsOOy.jpg"
+      },
+      {
+        "name": "Anna Bonaiuto",
+        "character": "Matilde",
+        "photo": "https://image.tmdb.org/t/p/w500/1istMMsr34yfaYCnNyW8SFVMuU5.jpg"
+      },
+      {
+        "name": "Sergio Solli",
+        "character": "Peasant",
+        "photo": "https://image.tmdb.org/t/p/w500/awwiyTMCPpHv2IvnNTZ1I7zI7Wm.jpg"
+      },
+      {
+        "name": "Carlo Di Maio",
+        "character": "Priest",
+        "photo": "https://image.tmdb.org/t/p/w500/5eYDIribcDWaprP0HR85ajVaI6k.jpg"
+      },
+      {
+        "name": "Nando Neri"
+      },
+      {
+        "name": "Vincenzo Di Sauro"
+      },
+      {
+        "name": "Orazio Stracuzzi",
+        "photo": "https://image.tmdb.org/t/p/w500/zttVmTiKYr9p10sd7pBWpSbjUM3.jpg"
+      }
+    ],
+    "director": [
+      "Michael Radford"
+    ]
   }
 }

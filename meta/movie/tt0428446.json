@@ -19,6 +19,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Joseph Fiennes",
+      "Winona Ryder",
+      "David Arquette",
+      "Juliette Lewis",
+      "Ty Burrell",
+      "Josh Charles",
+      "Kevin Dunn",
+      "Nora Dunn",
+      "Judah Friedlander",
+      "Lukas Haas",
+      "Tom Hollander",
+      "Brad Hunt"
+    ],
+    "app_cast": [
+      {
+        "name": "Joseph Fiennes",
+        "character": "Michael Burrows",
+        "photo": "https://image.tmdb.org/t/p/w500/fcqZXeEyL6z5vkidPtsMu99JtpB.jpg"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Siri Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg"
+      },
+      {
+        "name": "David Arquette",
+        "character": "Harvey",
+        "photo": "https://image.tmdb.org/t/p/w500/74wJjoywG7zCrNMWbRxwoyOj7Ub.jpg"
+      },
+      {
+        "name": "Juliette Lewis",
+        "character": "Joleen",
+        "photo": "https://image.tmdb.org/t/p/w500/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg"
+      },
+      {
+        "name": "Ty Burrell",
+        "character": "Emile",
+        "photo": "https://image.tmdb.org/t/p/w500/4dwlnG1dcEPAf2cjNsYbYJn5E8Y.jpg"
+      },
+      {
+        "name": "Josh Charles",
+        "character": "Paramedic",
+        "photo": "https://image.tmdb.org/t/p/w500/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+      },
+      {
+        "name": "Kevin Dunn",
+        "character": "Insurance Exec",
+        "photo": "https://image.tmdb.org/t/p/w500/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+      },
+      {
+        "name": "Nora Dunn",
+        "character": "Mrs. Pearlman",
+        "photo": "https://image.tmdb.org/t/p/w500/x9NAUBciKKxDaYRcntc4vKjqilG.jpg"
+      },
+      {
+        "name": "Judah Friedlander",
+        "character": "Simon",
+        "photo": "https://image.tmdb.org/t/p/w500/bwg3rqSxlHAUhpmRreSpECs0YZf.jpg"
+      },
+      {
+        "name": "Lukas Haas",
+        "character": "Farley",
+        "photo": "https://image.tmdb.org/t/p/w500/vabZQXlAhyW2GxQfDM1PhKURA8.jpg"
+      },
+      {
+        "name": "Tom Hollander",
+        "character": "Henry",
+        "photo": "https://image.tmdb.org/t/p/w500/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+      },
+      {
+        "name": "Brad Hunt",
+        "character": "Stan",
+        "photo": "https://image.tmdb.org/t/p/w500/uKQR59fnCx4M0oVmYuf4tIuZZCO.jpg"
+      }
+    ],
+    "director": [
+      "Finn Taylor"
+    ]
   }
 }

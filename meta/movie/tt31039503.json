@@ -18,6 +18,25 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Ramy Youssef",
+      "Steve Way"
+    ],
+    "app_cast": [
+      {
+        "name": "Ramy Youssef",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/uLQWOoq11TKqnLfJBu90aKEGj8O.jpg"
+      },
+      {
+        "name": "Steve Way",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/Brqw82PcVTTOdXNUXm81taoAzu.jpg"
+      }
+    ],
+    "director": [
+      "Christopher Storer"
+    ]
   }
 }

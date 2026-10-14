@@ -19,6 +19,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Jack Nicholson",
+      "Helen Hunt",
+      "Greg Kinnear",
+      "Cuba Gooding Jr.",
+      "Shirley Knight",
+      "Jesse James",
+      "Yeardley Smith",
+      "Lupe Ontiveros",
+      "Skeet Ulrich",
+      "Harold Ramis",
+      "Lawrence Kasdan",
+      "Bibi Osterwald"
+    ],
+    "app_cast": [
+      {
+        "name": "Jack Nicholson",
+        "character": "Melvin Udall",
+        "photo": "https://image.tmdb.org/t/p/w500/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "name": "Helen Hunt",
+        "character": "Carol Connelly",
+        "photo": "https://image.tmdb.org/t/p/w500/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+      },
+      {
+        "name": "Greg Kinnear",
+        "character": "Simon Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Frank Sachs",
+        "photo": "https://image.tmdb.org/t/p/w500/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+      },
+      {
+        "name": "Shirley Knight",
+        "character": "Beverly Connelly",
+        "photo": "https://image.tmdb.org/t/p/w500/5m1S3lOEP79hq10IODqEIfDPa1T.jpg"
+      },
+      {
+        "name": "Jesse James",
+        "character": "Spencer Connelly",
+        "photo": "https://image.tmdb.org/t/p/w500/ebT4hnQ1VPtm9itUNp74Yj6Sx4o.jpg"
+      },
+      {
+        "name": "Yeardley Smith",
+        "character": "Jackie Simpson",
+        "photo": "https://image.tmdb.org/t/p/w500/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+      },
+      {
+        "name": "Lupe Ontiveros",
+        "character": "Nora Manning",
+        "photo": "https://image.tmdb.org/t/p/w500/bFlpBo46W4KXQVNspvPTUhZvsmQ.jpg"
+      },
+      {
+        "name": "Skeet Ulrich",
+        "character": "Vincent Lopiano",
+        "photo": "https://image.tmdb.org/t/p/w500/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+      },
+      {
+        "name": "Harold Ramis",
+        "character": "Dr. Bettes",
+        "photo": "https://image.tmdb.org/t/p/w500/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg"
+      },
+      {
+        "name": "Lawrence Kasdan",
+        "character": "Dr. Green",
+        "photo": "https://image.tmdb.org/t/p/w500/1c57YAUDEsyI6jwc3buKISgh2pf.jpg"
+      },
+      {
+        "name": "Bibi Osterwald",
+        "character": "Neighbor Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/ijRRdGTXh97zodlPra5TzonvTf.jpg"
+      }
+    ],
+    "director": [
+      "James L. Brooks"
+    ]
   }
 }

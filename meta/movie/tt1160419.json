@@ -18,6 +18,85 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Jason Momoa",
+      "Stellan Skarsgård",
+      "Stephen McKinley Henderson",
+      "Josh Brolin",
+      "Javier Bardem",
+      "Sharon Duncan-Brewster",
+      "Chang Chen",
+      "Dave Bautista",
+      "David Dastmalchian"
+    ],
+    "app_cast": [
+      {
+        "name": "Timothée Chalamet",
+        "character": "Paul Atreides",
+        "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "character": "Lady Jessica Atreides",
+        "photo": "https://image.tmdb.org/t/p/w500/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+      },
+      {
+        "name": "Oscar Isaac",
+        "character": "Duke Leto Atreides",
+        "photo": "https://image.tmdb.org/t/p/w500/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+      },
+      {
+        "name": "Jason Momoa",
+        "character": "Duncan Idaho",
+        "photo": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Baron Vladimir Harkonnen",
+        "photo": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "character": "Thufir Hawat",
+        "photo": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Gurney Halleck",
+        "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Stilgar",
+        "photo": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+      },
+      {
+        "name": "Sharon Duncan-Brewster",
+        "character": "Dr. Liet Kynes",
+        "photo": "https://image.tmdb.org/t/p/w500/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg"
+      },
+      {
+        "name": "Chang Chen",
+        "character": "Dr. Wellington Yueh",
+        "photo": "https://image.tmdb.org/t/p/w500/tkROVkn6yoqF3AcQ4hneOursHXR.jpg"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Beast Rabban Harkonnen",
+        "photo": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+      },
+      {
+        "name": "David Dastmalchian",
+        "character": "Piter de Vries",
+        "photo": "https://image.tmdb.org/t/p/w500/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+      }
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ]
   }
 }

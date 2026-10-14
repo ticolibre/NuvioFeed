@@ -19,6 +19,84 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Burt Lancaster",
+      "Susan Sarandon",
+      "Kate Reid",
+      "Michel Piccoli",
+      "Hollis McLaren",
+      "Robert Joy",
+      "Al Waxman",
+      "Robert Goulet",
+      "Moses Znaimer",
+      "Angus MacInnes",
+      "Sean Sullivan",
+      "Wallace Shawn"
+    ],
+    "app_cast": [
+      {
+        "name": "Burt Lancaster",
+        "character": "Lou",
+        "photo": "https://image.tmdb.org/t/p/w500/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+      },
+      {
+        "name": "Susan Sarandon",
+        "character": "Sally",
+        "photo": "https://image.tmdb.org/t/p/w500/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+      },
+      {
+        "name": "Kate Reid",
+        "character": "Grace",
+        "photo": "https://image.tmdb.org/t/p/w500/5VQNGinv6uV3IYYYgkRRo2XDliE.jpg"
+      },
+      {
+        "name": "Michel Piccoli",
+        "character": "Joseph",
+        "photo": "https://image.tmdb.org/t/p/w500/bazUUNSnTs1yrAjDgfnFYxwlqao.jpg"
+      },
+      {
+        "name": "Hollis McLaren",
+        "character": "Chrissy",
+        "photo": "https://image.tmdb.org/t/p/w500/hmH2mMNNusrEXiXLwNtjij1mx90.jpg"
+      },
+      {
+        "name": "Robert Joy",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/kPY9ggs4qCi3oeEvkYP17Yvfm5r.jpg"
+      },
+      {
+        "name": "Al Waxman",
+        "character": "Alfie",
+        "photo": "https://image.tmdb.org/t/p/w500/7nvvodM6mqMHPVzGQBIIG34pjsp.jpg"
+      },
+      {
+        "name": "Robert Goulet",
+        "character": "Singer",
+        "photo": "https://image.tmdb.org/t/p/w500/kqCwDpsRWIHDtbfIrpJ4L63j53i.jpg"
+      },
+      {
+        "name": "Moses Znaimer",
+        "character": "Felix",
+        "photo": "https://image.tmdb.org/t/p/w500/vOSUxcObk9SKwoF3nOqGt1VyOg7.jpg"
+      },
+      {
+        "name": "Angus MacInnes",
+        "character": "Vinnie",
+        "photo": "https://image.tmdb.org/t/p/w500/ylhpfXbXZ5Hr1qV3WhhbjJstgGh.jpg"
+      },
+      {
+        "name": "Sean Sullivan",
+        "character": "Buddy"
+      },
+      {
+        "name": "Wallace Shawn",
+        "character": "Waiter",
+        "photo": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      }
+    ],
+    "director": [
+      "Louis Malle"
+    ]
   }
 }

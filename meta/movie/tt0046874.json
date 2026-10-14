@@ -17,6 +17,81 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Bing Crosby",
+      "Grace Kelly",
+      "William Holden",
+      "Anthony Ross",
+      "Gene Reynolds",
+      "Jacqueline Fontaine",
+      "Eddie Ryder",
+      "Robert Kent",
+      "John W. Reynolds",
+      "Bob Alden",
+      "Mary Ellen Batten",
+      "Morgan Brown"
+    ],
+    "app_cast": [
+      {
+        "name": "Bing Crosby",
+        "character": "Frank Elgin",
+        "photo": "https://image.tmdb.org/t/p/w500/wl3k3h5dgpukwaT1sMPqR4ANrzq.jpg"
+      },
+      {
+        "name": "Grace Kelly",
+        "character": "Georgie Elgin",
+        "photo": "https://image.tmdb.org/t/p/w500/gnz3NGJrUERwklqfuPWXxcOPs0Q.jpg"
+      },
+      {
+        "name": "William Holden",
+        "character": "Bernie Dodd",
+        "photo": "https://image.tmdb.org/t/p/w500/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Anthony Ross",
+        "character": "Philip Cook",
+        "photo": "https://image.tmdb.org/t/p/w500/lBnoG8UGXzMdCkcLSZ4fcZRDrto.jpg"
+      },
+      {
+        "name": "Gene Reynolds",
+        "character": "Larry",
+        "photo": "https://image.tmdb.org/t/p/w500/6yDAz8JMGw04ndeFhAxb1NR4OqC.jpg"
+      },
+      {
+        "name": "Jacqueline Fontaine",
+        "character": "Lounge Singer",
+        "photo": "https://image.tmdb.org/t/p/w500/6n6Goypm5P8lJqBHRYHRSR1zcab.jpg"
+      },
+      {
+        "name": "Eddie Ryder",
+        "character": "Ed",
+        "photo": "https://image.tmdb.org/t/p/w500/tWqGKaXPkpHoWtJ7vEtiONK2WZp.jpg"
+      },
+      {
+        "name": "Robert Kent",
+        "character": "Paul Unger",
+        "photo": "https://image.tmdb.org/t/p/w500/nLqggn5bX0YW1thl0EofjbUHYOx.jpg"
+      },
+      {
+        "name": "John W. Reynolds",
+        "character": "Henry Johnson"
+      },
+      {
+        "name": "Bob Alden",
+        "character": "Bellboy (uncredited)"
+      },
+      {
+        "name": "Mary Ellen Batten",
+        "character": "Spectator (uncredited)"
+      },
+      {
+        "name": "Morgan Brown",
+        "character": "Bar Patron (uncredited)"
+      }
+    ],
+    "director": [
+      "George Seaton"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore",
+      "Ray Collins",
+      "George Coulouris",
+      "Agnes Moorehead",
+      "Paul Stewart",
+      "Ruth Warrick",
+      "Erskine Sanford",
+      "William Alland",
+      "Everett Sloane",
+      "Fortunio Bonanova"
+    ],
+    "app_cast": [
+      {
+        "name": "Orson Welles",
+        "character": "Charles Foster Kane",
+        "photo": "https://image.tmdb.org/t/p/w500/e9lGmqQq3EsHeUQgQLByo275hcc.jpg"
+      },
+      {
+        "name": "Joseph Cotten",
+        "character": "Jedediah Leland",
+        "photo": "https://image.tmdb.org/t/p/w500/djfCB0jPOgmq3w7RD3BMLzWsAu8.jpg"
+      },
+      {
+        "name": "Dorothy Comingore",
+        "character": "Susan Alexander Kane",
+        "photo": "https://image.tmdb.org/t/p/w500/x8RBK7T3HgWMWVniWkapAfPULDU.jpg"
+      },
+      {
+        "name": "Ray Collins",
+        "character": "Jim W. Gettys",
+        "photo": "https://image.tmdb.org/t/p/w500/usQN1n6UMPwYrTuTKdiSxUj8Qwa.jpg"
+      },
+      {
+        "name": "George Coulouris",
+        "character": "Walter Parks Thatcher",
+        "photo": "https://image.tmdb.org/t/p/w500/cB87rJWOsstpwhBXk6nqqZ9SEJg.jpg"
+      },
+      {
+        "name": "Agnes Moorehead",
+        "character": "Mary Kane",
+        "photo": "https://image.tmdb.org/t/p/w500/h9vMkb6cjd5J3i0GCQ0t73DlQl0.jpg"
+      },
+      {
+        "name": "Paul Stewart",
+        "character": "Raymond",
+        "photo": "https://image.tmdb.org/t/p/w500/8dsAzDIErQFdPAZOJaaVGrohdnf.jpg"
+      },
+      {
+        "name": "Ruth Warrick",
+        "character": "Emily Norton Kane",
+        "photo": "https://image.tmdb.org/t/p/w500/hNrwfbcvhjFHm6xJVQojSFfmfuR.jpg"
+      },
+      {
+        "name": "Erskine Sanford",
+        "character": "Herbert Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/3785XaExkxo0yN337yN9808wtvJ.jpg"
+      },
+      {
+        "name": "William Alland",
+        "character": "Jerry Thompson/Narrator",
+        "photo": "https://image.tmdb.org/t/p/w500/AYIhDKhP2TLVMNxT8BQ6EXKoMO.jpg"
+      },
+      {
+        "name": "Everett Sloane",
+        "character": "Mr. Bernstein",
+        "photo": "https://image.tmdb.org/t/p/w500/6A5zOAAPSsMHzwDflb99l4mfwMi.jpg"
+      },
+      {
+        "name": "Fortunio Bonanova",
+        "character": "Signor Matiste",
+        "photo": "https://image.tmdb.org/t/p/w500/39RJP5GMzaw1Bh6hBaYK6qsEDW1.jpg"
+      }
+    ],
+    "director": [
+      "Orson Welles"
+    ]
   }
 }

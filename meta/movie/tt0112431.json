@@ -20,6 +20,84 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Christine Cavanaugh",
+      "Miriam Margolyes",
+      "Danny Mann",
+      "Hugo Weaving",
+      "Miriam Flynn",
+      "James Cromwell",
+      "Magda Szubanski",
+      "Russi Taylor",
+      "Roscoe Lee Browne",
+      "Evelyn Krape",
+      "Michael Edward-Stevens",
+      "Charles Bartlett"
+    ],
+    "app_cast": [
+      {
+        "name": "Christine Cavanaugh",
+        "character": "Babe (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/8fDGffuBfbMTRTALHpSQQvuzSuO.jpg"
+      },
+      {
+        "name": "Miriam Margolyes",
+        "character": "Fly (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Ferdinand (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        "name": "Hugo Weaving",
+        "character": "Rex (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+      },
+      {
+        "name": "Miriam Flynn",
+        "character": "Maa (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/8o4nFOpCPrgJRhrUMHoouT1E9X3.jpg"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Farmer Hoggett",
+        "photo": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+      },
+      {
+        "name": "Magda Szubanski",
+        "character": "Esme Hoggett",
+        "photo": "https://image.tmdb.org/t/p/w500/fNb650TNqOBG6dSP9bLhoxxI9wA.jpg"
+      },
+      {
+        "name": "Russi Taylor",
+        "character": "Cat (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"
+      },
+      {
+        "name": "Roscoe Lee Browne",
+        "character": "Narrator (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+      },
+      {
+        "name": "Evelyn Krape",
+        "character": "Old Ewe (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/vpJgIoI3FjLiQtnpA44dLJwqt1A.jpg"
+      },
+      {
+        "name": "Michael Edward-Stevens",
+        "character": "Horse (voice)"
+      },
+      {
+        "name": "Charles Bartlett",
+        "character": "Cow (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/axsbiDd7ykK8FUf95fSLyNTsjhP.jpg"
+      }
+    ],
+    "director": [
+      "Chris Noonan"
+    ]
   }
 }

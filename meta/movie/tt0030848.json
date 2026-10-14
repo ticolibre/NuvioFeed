@@ -19,6 +19,84 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Clark Gable",
+      "Myrna Loy",
+      "Spencer Tracy",
+      "Lionel Barrymore",
+      "Gloria Holden",
+      "Samuel S. Hinds",
+      "Marjorie Main",
+      "Ted Pearson",
+      "Louis Jean Heydt",
+      "Virginia Grey",
+      "Priscilla Lawson",
+      "Claudia Coleman"
+    ],
+    "app_cast": [
+      {
+        "name": "Clark Gable",
+        "character": "Jim Lane",
+        "photo": "https://image.tmdb.org/t/p/w500/qD6WJzydym7n7fCeL9PGnHe1aEV.jpg"
+      },
+      {
+        "name": "Myrna Loy",
+        "character": "Ann \"Thursday\" Barton",
+        "photo": "https://image.tmdb.org/t/p/w500/rNzjcOeTmJkyE8LMHdF3iYUCkPz.jpg"
+      },
+      {
+        "name": "Spencer Tracy",
+        "character": "Gunner Morse",
+        "photo": "https://image.tmdb.org/t/p/w500/aUZUlQjiWvl23stKXzxycb31sen.jpg"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "character": "Howard B. Drake",
+        "photo": "https://image.tmdb.org/t/p/w500/1Tp5aKxF8n6iwTpviwLrxe1krm3.jpg"
+      },
+      {
+        "name": "Gloria Holden",
+        "character": "Mrs. May Benson",
+        "photo": "https://image.tmdb.org/t/p/w500/cuyP722J6jgs1cltb2KzmyZ5Pcr.jpg"
+      },
+      {
+        "name": "Samuel S. Hinds",
+        "character": "General Ross",
+        "photo": "https://image.tmdb.org/t/p/w500/uwUEvtPnO79him7Lf8lwQlVW78X.jpg"
+      },
+      {
+        "name": "Marjorie Main",
+        "character": "Landlady",
+        "photo": "https://image.tmdb.org/t/p/w500/t6sY3EiBVYMcboUImwYlkQ7pMEk.jpg"
+      },
+      {
+        "name": "Ted Pearson",
+        "character": "Joe"
+      },
+      {
+        "name": "Louis Jean Heydt",
+        "character": "Greg Benson",
+        "photo": "https://image.tmdb.org/t/p/w500/6FPH4YZILpyarstBBIWcA4wpArJ.jpg"
+      },
+      {
+        "name": "Virginia Grey",
+        "character": "Sarah",
+        "photo": "https://image.tmdb.org/t/p/w500/ftyCI3XPJoGS75m3DFXOgOpw58z.jpg"
+      },
+      {
+        "name": "Priscilla Lawson",
+        "character": "Mable",
+        "photo": "https://image.tmdb.org/t/p/w500/hHMU5HGz4cgIktC0lGhglNttW6W.jpg"
+      },
+      {
+        "name": "Claudia Coleman",
+        "character": "Mrs. Barton",
+        "photo": "https://image.tmdb.org/t/p/w500/As5JBrf9jmmdwNO7Opr0aq4XZLX.jpg"
+      }
+    ],
+    "director": [
+      "Victor Fleming"
+    ]
   }
 }

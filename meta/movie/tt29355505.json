@@ -20,6 +20,85 @@
           "rating": "8.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Joan Cusack",
+      "Tom Hanks",
+      "Tim Allen",
+      "Conan O'Brien",
+      "Scarlett Spears",
+      "Greta Lee",
+      "Shelby Rabara",
+      "Mykal-Michelle Harris",
+      "Craig Robinson",
+      "Jay Hernandez",
+      "Lori Alan",
+      "Bonnie Hunt"
+    ],
+    "app_cast": [
+      {
+        "name": "Joan Cusack",
+        "character": "Jessie (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+      },
+      {
+        "name": "Tom Hanks",
+        "character": "Woody (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Tim Allen",
+        "character": "Buzz Lightyear (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg"
+      },
+      {
+        "name": "Conan O'Brien",
+        "character": "Smarty Pants (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/deRbViPut0t80miscBpP2DhBJU5.jpg"
+      },
+      {
+        "name": "Scarlett Spears",
+        "character": "Bonnie (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/h0loJ4v3wbUfUA6dxUYv7B6fET1.jpg"
+      },
+      {
+        "name": "Greta Lee",
+        "character": "Lilypad (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/6SydTis4XUcovlwIGskT59JowLX.jpg"
+      },
+      {
+        "name": "Shelby Rabara",
+        "character": "Snappy (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/ouMiEKlhCj2LFKEQtI6fGRMDemF.jpg"
+      },
+      {
+        "name": "Mykal-Michelle Harris",
+        "character": "Blaze (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/4TvVJYo8gEks8cegfNoZogXJgp2.jpg"
+      },
+      {
+        "name": "Craig Robinson",
+        "character": "Atlas (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+      },
+      {
+        "name": "Jay Hernandez",
+        "character": "Bonnie’s Dad (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/86mlhxglLYYCac1CWWj4s9uR9U9.jpg"
+      },
+      {
+        "name": "Lori Alan",
+        "character": "Bonnie's Mom (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Dolly (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      }
+    ],
+    "director": [
+      "Andrew Stanton"
+    ]
   }
 }

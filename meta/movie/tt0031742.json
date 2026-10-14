@@ -17,6 +17,84 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Burgess Meredith",
+      "Lon Chaney Jr.",
+      "Betty Field",
+      "Charles Bickford",
+      "Roman Bohnen",
+      "Bob Steele",
+      "Noah Beery Jr.",
+      "Oscar O'Shea",
+      "Granville Bates",
+      "Leigh Whipper",
+      "Helen Lynd",
+      "Silver Tip Baker"
+    ],
+    "app_cast": [
+      {
+        "name": "Burgess Meredith",
+        "character": "George Milton",
+        "photo": "https://image.tmdb.org/t/p/w500/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+      },
+      {
+        "name": "Lon Chaney Jr.",
+        "character": "Lennie Small",
+        "photo": "https://image.tmdb.org/t/p/w500/4DHZ2jXQFbTuslsaOmrmrJ9HMMd.jpg"
+      },
+      {
+        "name": "Betty Field",
+        "character": "Mae",
+        "photo": "https://image.tmdb.org/t/p/w500/dQTrh5POuSzSvrEN2dOMFBR7SCe.jpg"
+      },
+      {
+        "name": "Charles Bickford",
+        "character": "Slim",
+        "photo": "https://image.tmdb.org/t/p/w500/eIHzgOkNyenH8HXezzsH056RTXd.jpg"
+      },
+      {
+        "name": "Roman Bohnen",
+        "character": "Candy",
+        "photo": "https://image.tmdb.org/t/p/w500/4X6DJ6peH7Q095HNGNtdQks5IG2.jpg"
+      },
+      {
+        "name": "Bob Steele",
+        "character": "Curley",
+        "photo": "https://image.tmdb.org/t/p/w500/jOaQFxwyNWRNEEdRoiiRaOVrOpK.jpg"
+      },
+      {
+        "name": "Noah Beery Jr.",
+        "character": "Whit",
+        "photo": "https://image.tmdb.org/t/p/w500/oFdEn3ePUmhltOmF16Ggu1h1pQk.jpg"
+      },
+      {
+        "name": "Oscar O'Shea",
+        "character": "Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/shWnx3maJa24MT3EmNnXhOSAKXs.jpg"
+      },
+      {
+        "name": "Granville Bates",
+        "character": "Carlson",
+        "photo": "https://image.tmdb.org/t/p/w500/b06X4tnoqG4KlU4ySNHpmd6yMpz.jpg"
+      },
+      {
+        "name": "Leigh Whipper",
+        "character": "Crooks",
+        "photo": "https://image.tmdb.org/t/p/w500/3aDpK0wYeYrjahs02WhBWWmU8fV.jpg"
+      },
+      {
+        "name": "Helen Lynd",
+        "character": "Susie",
+        "photo": "https://image.tmdb.org/t/p/w500/R4HBH8asdTXFAgLqahVfSru5a4.jpg"
+      },
+      {
+        "name": "Silver Tip Baker",
+        "character": "Old Hand (uncredited)"
+      }
+    ],
+    "director": [
+      "Lewis Milestone"
+    ]
   }
 }

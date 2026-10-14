@@ -19,6 +19,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Jessica Rothe",
+      "Israel Broussard",
+      "Charles Aitken",
+      "Ruby Modine",
+      "Blaine Kern III",
+      "Rachel Matthews",
+      "Billy Slaughter",
+      "Caleb Spillyards",
+      "Jimmy Gonzales",
+      "Jason Bayle",
+      "Rob Mello",
+      "Phi Vu"
+    ],
+    "app_cast": [
+      {
+        "name": "Jessica Rothe",
+        "character": "Theresa 'Tree' Gelbman",
+        "photo": "https://image.tmdb.org/t/p/w500/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+      },
+      {
+        "name": "Israel Broussard",
+        "character": "Carter Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/7HmcvPVEkzKncyn2KKaX3AX0Yc0.jpg"
+      },
+      {
+        "name": "Charles Aitken",
+        "character": "Gregory Butler",
+        "photo": "https://image.tmdb.org/t/p/w500/96viVHXRXd76fUYhUufq1JTjX0T.jpg"
+      },
+      {
+        "name": "Ruby Modine",
+        "character": "Lori Spengler",
+        "photo": "https://image.tmdb.org/t/p/w500/tGeZmJOzO5gEeetkc6WIpJM3mj6.jpg"
+      },
+      {
+        "name": "Blaine Kern III",
+        "character": "Nick Sims",
+        "photo": "https://image.tmdb.org/t/p/w500/u0KBbbuEcRC4E7otk5y955TjREv.jpg"
+      },
+      {
+        "name": "Rachel Matthews",
+        "character": "Danielle Bouseman",
+        "photo": "https://image.tmdb.org/t/p/w500/rPm9vlAEsFTLict8nLmRVt4Zfhe.jpg"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Dr. Winter",
+        "photo": "https://image.tmdb.org/t/p/w500/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg"
+      },
+      {
+        "name": "Caleb Spillyards",
+        "character": "Tim Bauer",
+        "photo": "https://image.tmdb.org/t/p/w500/5r7Q82C3g8CCIR2Eew6gc2oWSK2.jpg"
+      },
+      {
+        "name": "Jimmy Gonzales",
+        "character": "Police Officer",
+        "photo": "https://image.tmdb.org/t/p/w500/jEJ5TdOeqOJyopKMEc8w9qDtsuN.jpg"
+      },
+      {
+        "name": "Jason Bayle",
+        "character": "David Gelbman",
+        "photo": "https://image.tmdb.org/t/p/w500/tAKsOGYYc4OlIqzx9D5HJnF6jJc.jpg"
+      },
+      {
+        "name": "Rob Mello",
+        "character": "John Tombs",
+        "photo": "https://image.tmdb.org/t/p/w500/z6rXR4W9WPHpjUrJUn5u2XI019S.jpg"
+      },
+      {
+        "name": "Phi Vu",
+        "character": "Ryan Phan",
+        "photo": "https://image.tmdb.org/t/p/w500/2jUCUmgbzgYXgjsAaRrxKV1TIWw.jpg"
+      }
+    ],
+    "director": [
+      "Christopher Landon"
+    ]
   }
 }

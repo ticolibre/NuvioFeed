@@ -17,6 +17,79 @@
           "rating": "4.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Theda Bara",
+      "Ben Deeley",
+      "Stuart Holmes",
+      "Claire Whitney",
+      "William H. Tooker",
+      "Loel Steuart",
+      "Eldean Steuart",
+      "Eugenie Woodward",
+      "Stanhope Wheatcroft",
+      "Frank Norcross",
+      "Ethel Fleming",
+      "Emily Fitzroy"
+    ],
+    "app_cast": [
+      {
+        "name": "Theda Bara",
+        "character": "Lady Isabel Carlisle",
+        "photo": "https://image.tmdb.org/t/p/w500/kZdFCjZpAoMujJ4tNN6GPH29qad.jpg"
+      },
+      {
+        "name": "Ben Deeley",
+        "character": "Archibald Carlisle",
+        "photo": "https://image.tmdb.org/t/p/w500/yiY9ZEauH1N0iidG6kSmNVtJuVE.jpg"
+      },
+      {
+        "name": "Stuart Holmes",
+        "character": "Captain Levison",
+        "photo": "https://image.tmdb.org/t/p/w500/6xdFxJI4qkaxYg2vq3LYr1t68tq.jpg"
+      },
+      {
+        "name": "Claire Whitney",
+        "character": "Barbara Hare",
+        "photo": "https://image.tmdb.org/t/p/w500/sDSErFfsLHJtQXYIOv0Suz6zHrp.jpg"
+      },
+      {
+        "name": "William H. Tooker",
+        "character": "Judge Hare, Barbara's Father",
+        "photo": "https://image.tmdb.org/t/p/w500/mH1IwGNygI5iXACwpzof33kZABb.jpg"
+      },
+      {
+        "name": "Loel Steuart",
+        "character": "Carlisle Child"
+      },
+      {
+        "name": "Eldean Steuart",
+        "character": "Little William Carlisle"
+      },
+      {
+        "name": "Eugenie Woodward",
+        "character": "Mrs. Hare"
+      },
+      {
+        "name": "Stanhope Wheatcroft",
+        "character": "Richard Hare",
+        "photo": "https://image.tmdb.org/t/p/w500/uL0NCVg9Rj4DixFTYeXJ5HustXt.jpg"
+      },
+      {
+        "name": "Frank Norcross"
+      },
+      {
+        "name": "Ethel Fleming",
+        "photo": "https://image.tmdb.org/t/p/w500/7hTtgulsnnlhEBTFr36FrnvBarv.jpg"
+      },
+      {
+        "name": "Emily Fitzroy",
+        "character": "Cornelia",
+        "photo": "https://image.tmdb.org/t/p/w500/4V6A5auvNlrXcVPFdua8MfiC2ms.jpg"
+      }
+    ],
+    "director": [
+      "Bertram Bracken"
+    ]
   }
 }

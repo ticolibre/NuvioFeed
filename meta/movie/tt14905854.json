@@ -18,6 +18,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Jessie Buckley",
+      "Paul Mescal",
+      "Emily Watson",
+      "Joe Alwyn",
+      "Jacobi Jupe",
+      "Noah Jupe",
+      "Olivia Lynes",
+      "Justine Mitchell",
+      "David Wilmot",
+      "Louisa Harland",
+      "Freya Hannan-Mills",
+      "Bodhi Rae Breathnach"
+    ],
+    "app_cast": [
+      {
+        "name": "Jessie Buckley",
+        "character": "Agnes",
+        "photo": "https://image.tmdb.org/t/p/w500/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+      },
+      {
+        "name": "Paul Mescal",
+        "character": "Will",
+        "photo": "https://image.tmdb.org/t/p/w500/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+      },
+      {
+        "name": "Emily Watson",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Joe Alwyn",
+        "character": "Bartholomew",
+        "photo": "https://image.tmdb.org/t/p/w500/jAdaAeaDVYWlU8I5X5p5DuUI8Ii.jpg"
+      },
+      {
+        "name": "Jacobi Jupe",
+        "character": "Hamnet",
+        "photo": "https://image.tmdb.org/t/p/w500/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
+      },
+      {
+        "name": "Noah Jupe",
+        "character": "Hamlet",
+        "photo": "https://image.tmdb.org/t/p/w500/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+      },
+      {
+        "name": "Olivia Lynes",
+        "character": "Judith",
+        "photo": "https://image.tmdb.org/t/p/w500/cao5MdKpOR0uCDIymGdIP4kG0rD.jpg"
+      },
+      {
+        "name": "Justine Mitchell",
+        "character": "Joan",
+        "photo": "https://image.tmdb.org/t/p/w500/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
+      },
+      {
+        "name": "David Wilmot",
+        "character": "John",
+        "photo": "https://image.tmdb.org/t/p/w500/epb46N0iJyAmSOguMdFn6qQGSsy.jpg"
+      },
+      {
+        "name": "Louisa Harland",
+        "character": "Rowan",
+        "photo": "https://image.tmdb.org/t/p/w500/8uH0t3Y7saXoPTYiSGy8ZQn6s8B.jpg"
+      },
+      {
+        "name": "Freya Hannan-Mills",
+        "character": "Eliza",
+        "photo": "https://image.tmdb.org/t/p/w500/eV70wCE8cte5KwXoLiJ1HzsQOuT.jpg"
+      },
+      {
+        "name": "Bodhi Rae Breathnach",
+        "character": "Susanna",
+        "photo": "https://image.tmdb.org/t/p/w500/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+      }
+    ],
+    "director": [
+      "Chloé Zhao"
+    ]
   }
 }

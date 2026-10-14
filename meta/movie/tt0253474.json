@@ -18,6 +18,85 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay",
+      "Maureen Lipman",
+      "Emilia Fox",
+      "Ed Stoppard",
+      "Julia Rayner",
+      "Jessica Kate Meyer",
+      "Michał Żebrowski",
+      "Wanja Mues",
+      "Richard Ridings",
+      "Nomi Sharron"
+    ],
+    "app_cast": [
+      {
+        "name": "Adrien Brody",
+        "character": "Władysław 'Władek' Szpilman",
+        "photo": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+      },
+      {
+        "name": "Thomas Kretschmann",
+        "character": "Captain Wilm Hosenfeld",
+        "photo": "https://image.tmdb.org/t/p/w500/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
+      },
+      {
+        "name": "Frank Finlay",
+        "character": "Father",
+        "photo": "https://image.tmdb.org/t/p/w500/fO7CYAaGydu9d3s5numYRi1BRvL.jpg"
+      },
+      {
+        "name": "Maureen Lipman",
+        "character": "Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/kx26NOAw9GnsHjJIJ4l40YHblJ.jpg"
+      },
+      {
+        "name": "Emilia Fox",
+        "character": "Dorota",
+        "photo": "https://image.tmdb.org/t/p/w500/lZpNRsHAOW8m0f7bRfgUDmRRjo.jpg"
+      },
+      {
+        "name": "Ed Stoppard",
+        "character": "Henryk Szpilman",
+        "photo": "https://image.tmdb.org/t/p/w500/jnLSiFipp0K5ROJblLCISC7ezzO.jpg"
+      },
+      {
+        "name": "Julia Rayner",
+        "character": "Regina Szpilman",
+        "photo": "https://image.tmdb.org/t/p/w500/rLDjZ79E5tHILTpzKitMaC3r1sI.jpg"
+      },
+      {
+        "name": "Jessica Kate Meyer",
+        "character": "Halina Szpilman",
+        "photo": "https://image.tmdb.org/t/p/w500/vwyvMA9t4njaaAriCNaXBkpcyy6.jpg"
+      },
+      {
+        "name": "Michał Żebrowski",
+        "character": "Jurek",
+        "photo": "https://image.tmdb.org/t/p/w500/4qzNrGn4V17nDPF3HmJcpk0rLb2.jpg"
+      },
+      {
+        "name": "Wanja Mues",
+        "character": "SS Slapping Father",
+        "photo": "https://image.tmdb.org/t/p/w500/10ptcRKO2diZH1lqVUdWfCIEFG6.jpg"
+      },
+      {
+        "name": "Richard Ridings",
+        "character": "Mr. Lipa",
+        "photo": "https://image.tmdb.org/t/p/w500/eH3QE45JSgJtw0j14PLcGmEaVOG.jpg"
+      },
+      {
+        "name": "Nomi Sharron",
+        "character": "Feather Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/7MzgUgbJCakD35GP9u91IpiEgl9.jpg"
+      }
+    ],
+    "director": [
+      "Roman Polanski"
+    ]
   }
 }

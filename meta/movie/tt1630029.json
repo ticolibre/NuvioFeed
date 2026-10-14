@@ -19,6 +19,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Kate Winslet",
+      "Cliff Curtis",
+      "Joel David Moore",
+      "CCH Pounder",
+      "Edie Falco",
+      "Jemaine Clement",
+      "Giovanni Ribisi",
+      "Britain Dalton"
+    ],
+    "app_cast": [
+      {
+        "name": "Sam Worthington",
+        "character": "Jake Sully",
+        "photo": "https://image.tmdb.org/t/p/w500/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Neytiri",
+        "photo": "https://image.tmdb.org/t/p/w500/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "character": "Kiri",
+        "photo": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+      },
+      {
+        "name": "Stephen Lang",
+        "character": "Colonel Miles Quaritch",
+        "photo": "https://image.tmdb.org/t/p/w500/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Ronal",
+        "photo": "https://image.tmdb.org/t/p/w500/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+      },
+      {
+        "name": "Cliff Curtis",
+        "character": "Tonowari",
+        "photo": "https://image.tmdb.org/t/p/w500/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+      },
+      {
+        "name": "Joel David Moore",
+        "character": "Norm Spellman",
+        "photo": "https://image.tmdb.org/t/p/w500/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+      },
+      {
+        "name": "CCH Pounder",
+        "character": "Mo'at",
+        "photo": "https://image.tmdb.org/t/p/w500/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+      },
+      {
+        "name": "Edie Falco",
+        "character": "General Frances Ardmore",
+        "photo": "https://image.tmdb.org/t/p/w500/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+      },
+      {
+        "name": "Jemaine Clement",
+        "character": "Dr. Ian Garvin",
+        "photo": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+      },
+      {
+        "name": "Giovanni Ribisi",
+        "character": "Parker Selfridge",
+        "photo": "https://image.tmdb.org/t/p/w500/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+      },
+      {
+        "name": "Britain Dalton",
+        "character": "Lo'ak",
+        "photo": "https://image.tmdb.org/t/p/w500/asX3eJr9oHNs1ZgRYGwsZRAntqS.jpg"
+      }
+    ],
+    "director": [
+      "James Cameron"
+    ]
   }
 }

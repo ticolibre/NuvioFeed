@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Paul Giamatti",
+      "Thomas Haden Church",
+      "Virginia Madsen",
+      "Sandra Oh",
+      "Marylouise Burke",
+      "Jessica Hecht",
+      "Missy Doty",
+      "M.C. Gainey",
+      "Alysia Reiner",
+      "Shake Tukhmanyan",
+      "Shaun Duke",
+      "Robert Covarrubias"
+    ],
+    "app_cast": [
+      {
+        "name": "Paul Giamatti",
+        "character": "Miles",
+        "photo": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "name": "Thomas Haden Church",
+        "character": "Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+      },
+      {
+        "name": "Virginia Madsen",
+        "character": "Maya",
+        "photo": "https://image.tmdb.org/t/p/w500/2u72BF7i189nAcX1kEJLjGMsb0c.jpg"
+      },
+      {
+        "name": "Sandra Oh",
+        "character": "Stephanie",
+        "photo": "https://image.tmdb.org/t/p/w500/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+      },
+      {
+        "name": "Marylouise Burke",
+        "character": "Miles's Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/nNI88PGCKxSBoiUiqVbb5YzNF9m.jpg"
+      },
+      {
+        "name": "Jessica Hecht",
+        "character": "Victoria",
+        "photo": "https://image.tmdb.org/t/p/w500/5JVd1ZLnhdZVFInDy8Zut9M1M5C.jpg"
+      },
+      {
+        "name": "Missy Doty",
+        "character": "Cammi",
+        "photo": "https://image.tmdb.org/t/p/w500/jvMhNAU4pec6z3R39HTZK3IAKpI.jpg"
+      },
+      {
+        "name": "M.C. Gainey",
+        "character": "Cammi's Husband",
+        "photo": "https://image.tmdb.org/t/p/w500/nM82se0lOFbOhhj3J6tRFcdEydO.jpg"
+      },
+      {
+        "name": "Alysia Reiner",
+        "character": "Christine Erganian",
+        "photo": "https://image.tmdb.org/t/p/w500/eHtaKC4HSI2cz4kZF2pAYhPN74U.jpg"
+      },
+      {
+        "name": "Shake Tukhmanyan",
+        "character": "Mrs. Erganian",
+        "photo": "https://image.tmdb.org/t/p/w500/dkZozry1yqm5zOb0vSESLDWGuCB.jpg"
+      },
+      {
+        "name": "Shaun Duke",
+        "character": "Mike Erganian",
+        "photo": "https://image.tmdb.org/t/p/w500/5HZefIaaB1eiErvOD3UP3O53saD.jpg"
+      },
+      {
+        "name": "Robert Covarrubias",
+        "character": "Miles's Building Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/86jYMAhs3eO7KaH2f20h8wqoFyz.jpg"
+      }
+    ],
+    "director": [
+      "Alexander Payne"
+    ]
   }
 }

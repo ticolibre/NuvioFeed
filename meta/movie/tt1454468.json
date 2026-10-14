@@ -19,6 +19,55 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Sandra Bullock",
+      "George Clooney",
+      "Ed Harris",
+      "Orto Ignatiussen",
+      "Phaldut Sharma",
+      "Amy Warren",
+      "Basher Savage"
+    ],
+    "app_cast": [
+      {
+        "name": "Sandra Bullock",
+        "character": "Ryan Stone",
+        "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+      },
+      {
+        "name": "George Clooney",
+        "character": "Matt Kowalski",
+        "photo": "https://image.tmdb.org/t/p/w500/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Mission Control (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+      },
+      {
+        "name": "Orto Ignatiussen",
+        "character": "Aningaaq (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/jpbMzoXaPjgZGjNOtGAxnZSO3Pz.jpg"
+      },
+      {
+        "name": "Phaldut Sharma",
+        "character": "Shariff (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/iJKcwRJXEcZngnvseylidVHCg6j.jpg"
+      },
+      {
+        "name": "Amy Warren",
+        "character": "Explorer Captain (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/6HVjs4uho7gGEfRobKrwbqFeF37.jpg"
+      },
+      {
+        "name": "Basher Savage",
+        "character": "Russian Space Station Captain (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/xv1ZQEOOshYhFv764unwbb9Zsl6.jpg"
+      }
+    ],
+    "director": [
+      "Alfonso Cuarón"
+    ]
   }
 }

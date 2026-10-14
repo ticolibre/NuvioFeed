@@ -19,6 +19,84 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Tyrone Power",
+      "Alice Faye",
+      "Don Ameche",
+      "Ethel Merman",
+      "Jack Haley",
+      "Jean Hersholt",
+      "Helen Westley",
+      "John Carradine",
+      "Paul Hurst",
+      "Wally Vernon",
+      "Ruth Terry",
+      "Douglas Fowley"
+    ],
+    "app_cast": [
+      {
+        "name": "Tyrone Power",
+        "character": "Alexander - Roger Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/iUyYe8JNOegoe0efRja4scocHYq.jpg"
+      },
+      {
+        "name": "Alice Faye",
+        "character": "Stella Kirby",
+        "photo": "https://image.tmdb.org/t/p/w500/jC15KAoPnRWuuGWP2msKxWZsa3I.jpg"
+      },
+      {
+        "name": "Don Ameche",
+        "character": "Charlie Dwyer",
+        "photo": "https://image.tmdb.org/t/p/w500/p2Q0LE3SECDvb5W2yAvvfRtzIyo.jpg"
+      },
+      {
+        "name": "Ethel Merman",
+        "character": "Jerry Allen",
+        "photo": "https://image.tmdb.org/t/p/w500/bqNcRrAXBImXem21bO4hW4bCT31.jpg"
+      },
+      {
+        "name": "Jack Haley",
+        "character": "Davey Lane",
+        "photo": "https://image.tmdb.org/t/p/w500/bvZMv9OeLQT67zpprx5Og3QIDEA.jpg"
+      },
+      {
+        "name": "Jean Hersholt",
+        "character": "Prof. Heinrich",
+        "photo": "https://image.tmdb.org/t/p/w500/aQ7HTIXEmlnwghYvWk5NS8NBI5M.jpg"
+      },
+      {
+        "name": "Helen Westley",
+        "character": "Aunt Sophie",
+        "photo": "https://image.tmdb.org/t/p/w500/7cqZn76oOLV5IbgLCHL2I36pSH.jpg"
+      },
+      {
+        "name": "John Carradine",
+        "character": "Speakeasy Doorman",
+        "photo": "https://image.tmdb.org/t/p/w500/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg"
+      },
+      {
+        "name": "Paul Hurst",
+        "character": "Bill Mulligan"
+      },
+      {
+        "name": "Wally Vernon",
+        "character": "Wally Vernon",
+        "photo": "https://image.tmdb.org/t/p/w500/wnXCcliBr24vHdqUazrIXdDVQb1.jpg"
+      },
+      {
+        "name": "Ruth Terry",
+        "character": "Ruby",
+        "photo": "https://image.tmdb.org/t/p/w500/Au9NNKLI0vH8BzPhVBBDFksWeC6.jpg"
+      },
+      {
+        "name": "Douglas Fowley",
+        "character": "Snapper",
+        "photo": "https://image.tmdb.org/t/p/w500/zsgxWLXCHdMKJrsCI8dRWs4IEEk.jpg"
+      }
+    ],
+    "director": [
+      "Henry King"
+    ]
   }
 }

@@ -19,6 +19,78 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Gene Kelly",
+      "Leslie Caron",
+      "Oscar Levant",
+      "Georges Guétary",
+      "Nina Foch",
+      "Robert Ames",
+      "Joan Anderson",
+      "Larry Arnold",
+      "Martha Bamattre",
+      "Charles Bastin",
+      "Joan Bayley",
+      "Rodney Bieber"
+    ],
+    "app_cast": [
+      {
+        "name": "Gene Kelly",
+        "character": "Jerry Mulligan",
+        "photo": "https://image.tmdb.org/t/p/w500/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+      },
+      {
+        "name": "Leslie Caron",
+        "character": "Lise Bouvier",
+        "photo": "https://image.tmdb.org/t/p/w500/6ZCpoUIFNiVSCuFx2DXUgWFxq7r.jpg"
+      },
+      {
+        "name": "Oscar Levant",
+        "character": "Adam Cook",
+        "photo": "https://image.tmdb.org/t/p/w500/smcuIJIwXOiV1xUKJjrrozn3yZP.jpg"
+      },
+      {
+        "name": "Georges Guétary",
+        "character": "Henri Baurel",
+        "photo": "https://image.tmdb.org/t/p/w500/3buh7MC9qZwhPtoiPbNewbnGoR0.jpg"
+      },
+      {
+        "name": "Nina Foch",
+        "character": "Milo Roberts",
+        "photo": "https://image.tmdb.org/t/p/w500/zkSVQYtUBFKpoBXCyIA0dW8N5Tj.jpg"
+      },
+      {
+        "name": "Robert Ames",
+        "character": "Ballet Dancer (uncredited)"
+      },
+      {
+        "name": "Joan Anderson",
+        "character": "Child in Ballet (uncredited)"
+      },
+      {
+        "name": "Larry Arnold",
+        "character": "Frenchman (uncredited)"
+      },
+      {
+        "name": "Martha Bamattre",
+        "character": "Mathilde Mattieu (uncredited)"
+      },
+      {
+        "name": "Charles Bastin",
+        "character": "Smiling Young Man (uncredited)"
+      },
+      {
+        "name": "Joan Bayley",
+        "character": "Ballet Dancer (uncredited)"
+      },
+      {
+        "name": "Rodney Bieber",
+        "character": "Ballet Dancer (uncredited)"
+      }
+    ],
+    "director": [
+      "Vincente Minnelli"
+    ]
   }
 }

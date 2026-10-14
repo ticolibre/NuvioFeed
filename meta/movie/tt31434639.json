@@ -18,6 +18,86 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "D'Pharaoh Woon-A-Tai",
+      "Will Poulter",
+      "Cosmo Jarvis",
+      "Kit Connor",
+      "Finn Bennett",
+      "Taylor John Smith",
+      "Michael Gandolfini",
+      "Adain Bradley",
+      "Noah Centineo",
+      "Evan Holtzman",
+      "Henrique Zaga",
+      "Joseph Quinn"
+    ],
+    "app_cast": [
+      {
+        "name": "D'Pharaoh Woon-A-Tai",
+        "character": "Ray",
+        "photo": "https://image.tmdb.org/t/p/w500/ozEGeNK9r2EFn4rNU0DSuNQaia0.jpg"
+      },
+      {
+        "name": "Will Poulter",
+        "character": "Erik",
+        "photo": "https://image.tmdb.org/t/p/w500/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+      },
+      {
+        "name": "Cosmo Jarvis",
+        "character": "Elliott",
+        "photo": "https://image.tmdb.org/t/p/w500/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+      },
+      {
+        "name": "Kit Connor",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/1zx8xbJd8cUmNBertjzSuajCIGx.jpg"
+      },
+      {
+        "name": "Finn Bennett",
+        "character": "John",
+        "photo": "https://image.tmdb.org/t/p/w500/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+      },
+      {
+        "name": "Taylor John Smith",
+        "character": "Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+      },
+      {
+        "name": "Michael Gandolfini",
+        "character": "Lt. MacDonald",
+        "photo": "https://image.tmdb.org/t/p/w500/949lN8eoD3oXx1TmpjzmPQvt2TI.jpg"
+      },
+      {
+        "name": "Adain Bradley",
+        "character": "Sgt Laerrus",
+        "photo": "https://image.tmdb.org/t/p/w500/qPe2AgBrIIOOv4uLK984dxgGzxE.jpg"
+      },
+      {
+        "name": "Noah Centineo",
+        "character": "Brian",
+        "photo": "https://image.tmdb.org/t/p/w500/p1bcst401RyxfDGykx2iQLI7CV5.jpg"
+      },
+      {
+        "name": "Evan Holtzman",
+        "character": "Brock",
+        "photo": "https://image.tmdb.org/t/p/w500/6bMtNQloX5g4d1xNa4QLKaQKL0z.jpg"
+      },
+      {
+        "name": "Henrique Zaga",
+        "character": "Aaron",
+        "photo": "https://image.tmdb.org/t/p/w500/ievztVvYh3chqStu5ZdZI6anxfh.jpg"
+      },
+      {
+        "name": "Joseph Quinn",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+      }
+    ],
+    "director": [
+      "Ray Mendoza",
+      "Alex Garland"
+    ]
   }
 }

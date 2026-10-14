@@ -17,6 +17,83 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Elizabeth Taylor",
+      "Paul Newman",
+      "Burl Ives",
+      "Judith Anderson",
+      "Jack Carson",
+      "Madeleine Sherwood",
+      "Vaughn Taylor",
+      "Larry Gates",
+      "Brian Corcoran",
+      "Zelda Cleaver",
+      "Robert 'Rusty' Stevens",
+      "Hugh Corcoran"
+    ],
+    "app_cast": [
+      {
+        "name": "Elizabeth Taylor",
+        "character": "Maggie Pollitt",
+        "photo": "https://image.tmdb.org/t/p/w500/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Paul Newman",
+        "character": "Brick Pollitt",
+        "photo": "https://image.tmdb.org/t/p/w500/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg"
+      },
+      {
+        "name": "Burl Ives",
+        "character": "Harvey 'Big Daddy' Pollitt",
+        "photo": "https://image.tmdb.org/t/p/w500/qRefQVFPdXwkHLLgDLFPeRgcLu4.jpg"
+      },
+      {
+        "name": "Judith Anderson",
+        "character": "Ida 'Big Mama' Pollitt",
+        "photo": "https://image.tmdb.org/t/p/w500/33Ree0GhYJoxQuh1vAjyGsoKiS4.jpg"
+      },
+      {
+        "name": "Jack Carson",
+        "character": "Gooper Pollitt",
+        "photo": "https://image.tmdb.org/t/p/w500/lOYGfx1zbsrhpqzL1svLE1LmFYe.jpg"
+      },
+      {
+        "name": "Madeleine Sherwood",
+        "character": "Mae Pollitt",
+        "photo": "https://image.tmdb.org/t/p/w500/bDwZn45GRRb4eS99bFrYLcdofAA.jpg"
+      },
+      {
+        "name": "Vaughn Taylor",
+        "character": "Deacon Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/qX7jGnLyveGDBRy9nRgzBJFMqTH.jpg"
+      },
+      {
+        "name": "Larry Gates",
+        "character": "Dr. Baugh",
+        "photo": "https://image.tmdb.org/t/p/w500/g9ovDZYmccbsuDNsdzaHEcjz3Zl.jpg"
+      },
+      {
+        "name": "Brian Corcoran",
+        "character": "Boy (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/7BgaSOzYPDvBwz8TyxRT05XvukN.jpg"
+      },
+      {
+        "name": "Zelda Cleaver",
+        "character": "Sookey (uncredited)"
+      },
+      {
+        "name": "Robert 'Rusty' Stevens",
+        "character": "Sonny (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/47OCUlSlkyVGo9G57fW4R67cps0.jpg"
+      },
+      {
+        "name": "Hugh Corcoran",
+        "character": "Buster (uncredited)"
+      }
+    ],
+    "director": [
+      "Richard Brooks"
+    ]
   }
 }

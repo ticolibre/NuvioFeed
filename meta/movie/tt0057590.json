@@ -19,6 +19,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Albert Finney",
+      "Susannah York",
+      "Hugh Griffith",
+      "Edith Evans",
+      "Joan Greenwood",
+      "Diane Cilento",
+      "David Tomlinson",
+      "Freda Jackson",
+      "Jack MacGowran",
+      "Lynn Redgrave",
+      "Joyce Redman",
+      "David Warner"
+    ],
+    "app_cast": [
+      {
+        "name": "Albert Finney",
+        "character": "Tom Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/v77sxrIQvkPmiqE4bODGocXgDTl.jpg"
+      },
+      {
+        "name": "Susannah York",
+        "character": "Sophie Western",
+        "photo": "https://image.tmdb.org/t/p/w500/v5Q3guQyQwWtfG1dOFBZ4fG0SEc.jpg"
+      },
+      {
+        "name": "Hugh Griffith",
+        "character": "Squire Western",
+        "photo": "https://image.tmdb.org/t/p/w500/lPIIJDevyALBfQYqMBXiYmnDckw.jpg"
+      },
+      {
+        "name": "Edith Evans",
+        "character": "Miss Western",
+        "photo": "https://image.tmdb.org/t/p/w500/huC59QKyC6icoedwZc3yXBzNubc.jpg"
+      },
+      {
+        "name": "Joan Greenwood",
+        "character": "Lady Bellaston",
+        "photo": "https://image.tmdb.org/t/p/w500/hkVJ4DWEoXokbOJM3Pm5XWWX3Q1.jpg"
+      },
+      {
+        "name": "Diane Cilento",
+        "character": "Molly Seagrim",
+        "photo": "https://image.tmdb.org/t/p/w500/7veis5HtF7tqAM0cXIq6GVeFM56.jpg"
+      },
+      {
+        "name": "David Tomlinson",
+        "character": "Lord Fellamar",
+        "photo": "https://image.tmdb.org/t/p/w500/lKhZSgrvhArJcB9uowtxto8ACt2.jpg"
+      },
+      {
+        "name": "Freda Jackson",
+        "character": "Mrs. Seagrim",
+        "photo": "https://image.tmdb.org/t/p/w500/2h9qUpEYnQvnHgJPoKIfCE3spbZ.jpg"
+      },
+      {
+        "name": "Jack MacGowran",
+        "character": "Partridge",
+        "photo": "https://image.tmdb.org/t/p/w500/rpQ8woHjo3ZzsJNT3RJSfJGDNIQ.jpg"
+      },
+      {
+        "name": "Lynn Redgrave",
+        "character": "Susan, Uptown Inn",
+        "photo": "https://image.tmdb.org/t/p/w500/jIre1bJ2unStloUDFJNkUIpzA45.jpg"
+      },
+      {
+        "name": "Joyce Redman",
+        "character": "Mrs. Waters",
+        "photo": "https://image.tmdb.org/t/p/w500/hP3jo67BxeO6X1Lw1jwN8s4ocEW.jpg"
+      },
+      {
+        "name": "David Warner",
+        "character": "Mr. Blifil",
+        "photo": "https://image.tmdb.org/t/p/w500/AlsZcAY2c4chfOxMW69gHQzH1B2.jpg"
+      }
+    ],
+    "director": [
+      "Tony Richardson"
+    ]
   }
 }

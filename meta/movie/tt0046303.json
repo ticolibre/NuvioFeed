@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Alan Ladd",
+      "Jean Arthur",
+      "Van Heflin",
+      "Brandon De Wilde",
+      "Jack Palance",
+      "Ben Johnson",
+      "Edgar Buchanan",
+      "Emile Meyer",
+      "Elisha Cook Jr.",
+      "Douglas Spencer",
+      "John Dierkes",
+      "Ellen Corby"
+    ],
+    "app_cast": [
+      {
+        "name": "Alan Ladd",
+        "character": "Shane",
+        "photo": "https://image.tmdb.org/t/p/w500/uGB0o5okVhsS7ogtwwEXmbtRF2k.jpg"
+      },
+      {
+        "name": "Jean Arthur",
+        "character": "Marian Starrett",
+        "photo": "https://image.tmdb.org/t/p/w500/h46KhIQOOMPUMIdGNSN3A4zwcGQ.jpg"
+      },
+      {
+        "name": "Van Heflin",
+        "character": "Joe Starrett",
+        "photo": "https://image.tmdb.org/t/p/w500/8YDZWDaX9lp1GUTdRzokngoLd8s.jpg"
+      },
+      {
+        "name": "Brandon De Wilde",
+        "character": "Joey Starrett",
+        "photo": "https://image.tmdb.org/t/p/w500/cl8hufW5kHzDeuzHUgbj2QjdenT.jpg"
+      },
+      {
+        "name": "Jack Palance",
+        "character": "Jack Wilson",
+        "photo": "https://image.tmdb.org/t/p/w500/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg"
+      },
+      {
+        "name": "Ben Johnson",
+        "character": "Chris Calloway",
+        "photo": "https://image.tmdb.org/t/p/w500/VJYWJAOLcLE1WyG1v8W2h7TahA.jpg"
+      },
+      {
+        "name": "Edgar Buchanan",
+        "character": "Fred Lewis",
+        "photo": "https://image.tmdb.org/t/p/w500/zKcqHZrqVsS0N4kdnqaD8vdOINI.jpg"
+      },
+      {
+        "name": "Emile Meyer",
+        "character": "Rufus Ryker",
+        "photo": "https://image.tmdb.org/t/p/w500/uwEr8gjLRsclk7HbqiOrgkGgRcv.jpg"
+      },
+      {
+        "name": "Elisha Cook Jr.",
+        "character": "Frank 'Stonewall' Torrey",
+        "photo": "https://image.tmdb.org/t/p/w500/lM7n3Feg9t2mkcMUmdJ5fCi54wJ.jpg"
+      },
+      {
+        "name": "Douglas Spencer",
+        "character": "Axel 'Swede' Shipstead",
+        "photo": "https://image.tmdb.org/t/p/w500/4FGsO6xGExYaYb0bKYFgooHwB96.jpg"
+      },
+      {
+        "name": "John Dierkes",
+        "character": "Morgan Ryker",
+        "photo": "https://image.tmdb.org/t/p/w500/4M9P2Tcu1bR6us0vrnmae6j6TdQ.jpg"
+      },
+      {
+        "name": "Ellen Corby",
+        "character": "Liz Torrey",
+        "photo": "https://image.tmdb.org/t/p/w500/sf45aqBW2iYSnWU1aTGozEemMby.jpg"
+      }
+    ],
+    "director": [
+      "George Stevens"
+    ]
   }
 }

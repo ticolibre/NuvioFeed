@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Anna Magnani",
+      "Burt Lancaster",
+      "Marisa Pavan",
+      "Ben Cooper",
+      "Virginia Grey",
+      "Jo Van Fleet",
+      "Sandro Giglio",
+      "Mimi Aguglia",
+      "Florence Sundstrom",
+      "Don Bachardy",
+      "Larry Chance",
+      "Lewis Charles"
+    ],
+    "app_cast": [
+      {
+        "name": "Anna Magnani",
+        "character": "Serafina Delle Rose",
+        "photo": "https://image.tmdb.org/t/p/w500/iT6FUf7z5O2N9OOZFxhreVWRHYp.jpg"
+      },
+      {
+        "name": "Burt Lancaster",
+        "character": "Alvaro Mangiacavallo",
+        "photo": "https://image.tmdb.org/t/p/w500/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+      },
+      {
+        "name": "Marisa Pavan",
+        "character": "Rosa Delle Rose",
+        "photo": "https://image.tmdb.org/t/p/w500/6ovw7Qf1kBnHz0RFbYddRNZ6BYs.jpg"
+      },
+      {
+        "name": "Ben Cooper",
+        "character": "Seaman Jack Hunter",
+        "photo": "https://image.tmdb.org/t/p/w500/tVUEES60DQxep68IJ1ySUpOqH1X.jpg"
+      },
+      {
+        "name": "Virginia Grey",
+        "character": "Estelle Hohengarten",
+        "photo": "https://image.tmdb.org/t/p/w500/ftyCI3XPJoGS75m3DFXOgOpw58z.jpg"
+      },
+      {
+        "name": "Jo Van Fleet",
+        "character": "Bessie",
+        "photo": "https://image.tmdb.org/t/p/w500/xdingRjzTi1lbFV1mepFeM9nMxA.jpg"
+      },
+      {
+        "name": "Sandro Giglio",
+        "character": "Father De Leo",
+        "photo": "https://image.tmdb.org/t/p/w500/n2MUAuNtL1nlOoxcroKSwUo0hN0.jpg"
+      },
+      {
+        "name": "Mimi Aguglia",
+        "character": "Assunta",
+        "photo": "https://image.tmdb.org/t/p/w500/sD3w0Sx26jfRl9h71Gf5uz5povg.jpg"
+      },
+      {
+        "name": "Florence Sundstrom",
+        "character": "Flora",
+        "photo": "https://image.tmdb.org/t/p/w500/sakxO2XDJEh3X3pGzdh8Pwwv3Tm.jpg"
+      },
+      {
+        "name": "Don Bachardy",
+        "character": "Passenger in the Back Seat of a Car (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/j77EzMY6kl6Nto2h6Ae2JYcm4e6.jpg"
+      },
+      {
+        "name": "Larry Chance",
+        "character": "Rosario Delle Rose (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/pqTCuADlZC4uIXmFsTZtH1TtSOh.jpg"
+      },
+      {
+        "name": "Lewis Charles",
+        "character": "Taxi Driver (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/bKDj6JNQEaxnPhc6DPJoDo7gwTz.jpg"
+      }
+    ],
+    "director": [
+      "Daniel Mann"
+    ]
   }
 }

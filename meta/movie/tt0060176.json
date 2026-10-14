@@ -19,6 +19,84 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "David Hemmings",
+      "Vanessa Redgrave",
+      "Sarah Miles",
+      "John Castle",
+      "Veruschka von Lehndorff",
+      "Jane Birkin",
+      "Gillian Hills",
+      "Peter Bowles",
+      "Julian Chagrin",
+      "Claude Chagrin",
+      "Jimmy Page",
+      "Jeff Beck"
+    ],
+    "app_cast": [
+      {
+        "name": "David Hemmings",
+        "character": "Thomas",
+        "photo": "https://image.tmdb.org/t/p/w500/xU0DylXHjiRTJlZ3czZ6luFF7uZ.jpg"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
+      },
+      {
+        "name": "Sarah Miles",
+        "character": "Patricia",
+        "photo": "https://image.tmdb.org/t/p/w500/pvl8vu1IYfNKxJUjn3p64QFG8fX.jpg"
+      },
+      {
+        "name": "John Castle",
+        "character": "Bill",
+        "photo": "https://image.tmdb.org/t/p/w500/bC2KfRuMflJTDegbLJYawM5t2fS.jpg"
+      },
+      {
+        "name": "Veruschka von Lehndorff",
+        "character": "Veruschka",
+        "photo": "https://image.tmdb.org/t/p/w500/eTyEX3GzUX8m0NtgU7jRBR3bTyR.jpg"
+      },
+      {
+        "name": "Jane Birkin",
+        "character": "The Blonde",
+        "photo": "https://image.tmdb.org/t/p/w500/nkg4tcwseZMHtDmdpFfZqK2mP6a.jpg"
+      },
+      {
+        "name": "Gillian Hills",
+        "character": "The Brunette",
+        "photo": "https://image.tmdb.org/t/p/w500/cVgJcjHZgsjfifZBJzelwS90l3G.jpg"
+      },
+      {
+        "name": "Peter Bowles",
+        "character": "Ron",
+        "photo": "https://image.tmdb.org/t/p/w500/j15QR9zAwMDFuqTFLL03zxUrM4g.jpg"
+      },
+      {
+        "name": "Julian Chagrin",
+        "character": "Mime",
+        "photo": "https://image.tmdb.org/t/p/w500/uLSNRg4aKmy6R1qIdZPfoatAQVp.jpg"
+      },
+      {
+        "name": "Claude Chagrin",
+        "character": "Mime"
+      },
+      {
+        "name": "Jimmy Page",
+        "character": "Self - The Yardbirds (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/1xxzTj4HrCBBoyCP8eJimFpo6BK.jpg"
+      },
+      {
+        "name": "Jeff Beck",
+        "character": "Self - The Yardbirds (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/X16Bn8VOBYiLenre7ufN7Kzdi.jpg"
+      }
+    ],
+    "director": [
+      "Michelangelo Antonioni"
+    ]
   }
 }

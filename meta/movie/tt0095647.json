@@ -20,6 +20,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Gene Hackman",
+      "Willem Dafoe",
+      "Frances McDormand",
+      "Brad Dourif",
+      "R. Lee Ermey",
+      "Gailard Sartain",
+      "Stephen Tobolowsky",
+      "Michael Rooker",
+      "Pruitt Taylor Vince",
+      "Badja Djola",
+      "Kevin Dunn",
+      "Frankie Faison"
+    ],
+    "app_cast": [
+      {
+        "name": "Gene Hackman",
+        "character": "Agent Rupert Anderson",
+        "photo": "https://image.tmdb.org/t/p/w500/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Agent Alan Ward",
+        "photo": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Frances McDormand",
+        "character": "Mrs. Pell",
+        "photo": "https://image.tmdb.org/t/p/w500/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+      },
+      {
+        "name": "Brad Dourif",
+        "character": "Deputy Clinton Pell",
+        "photo": "https://image.tmdb.org/t/p/w500/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+      },
+      {
+        "name": "R. Lee Ermey",
+        "character": "Mayor Tilman",
+        "photo": "https://image.tmdb.org/t/p/w500/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+      },
+      {
+        "name": "Gailard Sartain",
+        "character": "Sheriff Stuckey",
+        "photo": "https://image.tmdb.org/t/p/w500/oYCs7TlrvnwcNujQ2yzG4x7fz7f.jpg"
+      },
+      {
+        "name": "Stephen Tobolowsky",
+        "character": "Townley",
+        "photo": "https://image.tmdb.org/t/p/w500/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Frank Bailey",
+        "photo": "https://image.tmdb.org/t/p/w500/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+      },
+      {
+        "name": "Pruitt Taylor Vince",
+        "character": "Lester Cowens",
+        "photo": "https://image.tmdb.org/t/p/w500/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+      },
+      {
+        "name": "Badja Djola",
+        "character": "Agent Monk",
+        "photo": "https://image.tmdb.org/t/p/w500/23T7W3ZhU7BXmgt0LKc5BB6yFIX.jpg"
+      },
+      {
+        "name": "Kevin Dunn",
+        "character": "Agent Bird",
+        "photo": "https://image.tmdb.org/t/p/w500/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+      },
+      {
+        "name": "Frankie Faison",
+        "character": "Eulogist",
+        "photo": "https://image.tmdb.org/t/p/w500/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+      }
+    ],
+    "director": [
+      "Alan Parker"
+    ]
   }
 }

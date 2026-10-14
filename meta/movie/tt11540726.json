@@ -19,6 +19,83 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Rebecca Hall",
+      "Tim Roth",
+      "Grace Kaufman",
+      "Michael Esper",
+      "Angela Wong Carbone",
+      "Winsome Brown",
+      "Josh Drennen",
+      "Rosemary Howard",
+      "Jaime Zevallos",
+      "Patrick Klein",
+      "Bradley Lewis",
+      "Rocco Palmieri"
+    ],
+    "app_cast": [
+      {
+        "name": "Rebecca Hall",
+        "character": "Margaret",
+        "photo": "https://image.tmdb.org/t/p/w500/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+      },
+      {
+        "name": "Tim Roth",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+      },
+      {
+        "name": "Grace Kaufman",
+        "character": "Abbie",
+        "photo": "https://image.tmdb.org/t/p/w500/rcHnvXc79Lv2PO2IjSd0O7tJKYG.jpg"
+      },
+      {
+        "name": "Michael Esper",
+        "character": "Peter",
+        "photo": "https://image.tmdb.org/t/p/w500/ri6OmRuEnbF3pcirudq3Gvc0oI5.jpg"
+      },
+      {
+        "name": "Angela Wong Carbone",
+        "character": "Gwyn",
+        "photo": "https://image.tmdb.org/t/p/w500/jetiltActpqk7615DPS3xrFeSoA.jpg"
+      },
+      {
+        "name": "Winsome Brown",
+        "character": "Tess",
+        "photo": "https://image.tmdb.org/t/p/w500/5HaGVYaKmUJTafH1mHPUQLkgjkg.jpg"
+      },
+      {
+        "name": "Josh Drennen",
+        "character": "Officer Geary",
+        "photo": "https://image.tmdb.org/t/p/w500/fQ6zkA9AbEoA0KFqlyPNQ6eQxjp.jpg"
+      },
+      {
+        "name": "Rosemary Howard",
+        "character": "Desk Clerk",
+        "photo": "https://image.tmdb.org/t/p/w500/DJj5tzb25LanRIeHoNtDccNm7b.jpg"
+      },
+      {
+        "name": "Jaime Zevallos",
+        "character": "Driver",
+        "photo": "https://image.tmdb.org/t/p/w500/BAbo8u4hvNA6jRSWu78r6kBhp8.jpg"
+      },
+      {
+        "name": "Patrick Klein",
+        "character": "Biomatix Executive",
+        "photo": "https://image.tmdb.org/t/p/w500/tPANMYNUKHCtqK1nEWla4tvk9np.jpg"
+      },
+      {
+        "name": "Bradley Lewis",
+        "character": "BioMatix Employee"
+      },
+      {
+        "name": "Rocco Palmieri",
+        "character": "Employee #9"
+      }
+    ],
+    "director": [
+      "Andrew Semans"
+    ]
   }
 }

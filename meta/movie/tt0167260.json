@@ -19,6 +19,85 @@
           "rating": "8.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Andy Serkis",
+      "Dominic Monaghan",
+      "Billy Boyd",
+      "John Noble",
+      "David Wenham",
+      "Miranda Otto",
+      "Bernard Hill",
+      "John Rhys-Davies"
+    ],
+    "app_cast": [
+      {
+        "name": "Elijah Wood",
+        "character": "Frodo",
+        "photo": "https://image.tmdb.org/t/p/w500/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf",
+        "photo": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "character": "Aragorn",
+        "photo": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Sean Astin",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+      },
+      {
+        "name": "Andy Serkis",
+        "character": "Gollum / Smeagol",
+        "photo": "https://image.tmdb.org/t/p/w500/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        "name": "Dominic Monaghan",
+        "character": "Merry",
+        "photo": "https://image.tmdb.org/t/p/w500/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+      },
+      {
+        "name": "Billy Boyd",
+        "character": "Pippin",
+        "photo": "https://image.tmdb.org/t/p/w500/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+      },
+      {
+        "name": "John Noble",
+        "character": "Denethor",
+        "photo": "https://image.tmdb.org/t/p/w500/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+      },
+      {
+        "name": "David Wenham",
+        "character": "Faramir",
+        "photo": "https://image.tmdb.org/t/p/w500/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+      },
+      {
+        "name": "Miranda Otto",
+        "character": "Éowyn",
+        "photo": "https://image.tmdb.org/t/p/w500/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+      },
+      {
+        "name": "Bernard Hill",
+        "character": "Théoden",
+        "photo": "https://image.tmdb.org/t/p/w500/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "character": "Gimli",
+        "photo": "https://image.tmdb.org/t/p/w500/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+      }
+    ],
+    "director": [
+      "Peter Jackson"
+    ]
   }
 }

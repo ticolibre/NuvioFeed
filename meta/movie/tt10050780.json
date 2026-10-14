@@ -18,6 +18,19 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Anthony Jeselnik"
+    ],
+    "app_cast": [
+      {
+        "name": "Anthony Jeselnik",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/9hOiK8kuUAeqaqESFs8Wxlpc4Fd.jpg"
+      }
+    ],
+    "director": [
+      "Marcus Raboy"
+    ]
   }
 }

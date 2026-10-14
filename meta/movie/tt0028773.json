@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Sylvia Sidney",
+      "Joel McCrea",
+      "Humphrey Bogart",
+      "Wendy Barrie",
+      "Claire Trevor",
+      "Allen Jenkins",
+      "Marjorie Main",
+      "Billy Halop",
+      "Huntz Hall",
+      "Bobby Jordan",
+      "Leo Gorcey",
+      "Gabriel Dell"
+    ],
+    "app_cast": [
+      {
+        "name": "Sylvia Sidney",
+        "character": "Drina",
+        "photo": "https://image.tmdb.org/t/p/w500/2ahFUatfOEqqY6p7XnSAPlIZU2e.jpg"
+      },
+      {
+        "name": "Joel McCrea",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/k2DhZdrEKtauhnauAuivYO84Vee.jpg"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "character": "\"Baby Face\" Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+      },
+      {
+        "name": "Wendy Barrie",
+        "character": "Kay",
+        "photo": "https://image.tmdb.org/t/p/w500/1xhRhiU95SS6y79v7YBlSN3JuFy.jpg"
+      },
+      {
+        "name": "Claire Trevor",
+        "character": "Francey",
+        "photo": "https://image.tmdb.org/t/p/w500/9fBt1rbo63Gu7pO7WVo8RizMgUF.jpg"
+      },
+      {
+        "name": "Allen Jenkins",
+        "character": "Hunk",
+        "photo": "https://image.tmdb.org/t/p/w500/5Sx6PnCGo2NIDYqWwP3P2BCejqd.jpg"
+      },
+      {
+        "name": "Marjorie Main",
+        "character": "Mrs. Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/t6sY3EiBVYMcboUImwYlkQ7pMEk.jpg"
+      },
+      {
+        "name": "Billy Halop",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/1p0Wnj7TDIyQ3Q1lsfdFQJKdTnb.jpg"
+      },
+      {
+        "name": "Huntz Hall",
+        "character": "Dippy",
+        "photo": "https://image.tmdb.org/t/p/w500/nWQUrkHlYtEVMhkRZRau6YjnEVK.jpg"
+      },
+      {
+        "name": "Bobby Jordan",
+        "character": "Angel",
+        "photo": "https://image.tmdb.org/t/p/w500/7YN2rFPDqSrVHC7KSikNCG9uZL5.jpg"
+      },
+      {
+        "name": "Leo Gorcey",
+        "character": "Spit",
+        "photo": "https://image.tmdb.org/t/p/w500/hRXC5CA5sUSgDmrnpbqG7CMbe80.jpg"
+      },
+      {
+        "name": "Gabriel Dell",
+        "character": "T. B.",
+        "photo": "https://image.tmdb.org/t/p/w500/R4qxT0LPEcwU3CViix90xSqYcY.jpg"
+      }
+    ],
+    "director": [
+      "William Wyler"
+    ]
   }
 }

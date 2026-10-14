@@ -19,6 +19,86 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Ian Hunter",
+      "Verree Teasdale",
+      "Hobart Cavanaugh",
+      "Dick Powell",
+      "Ross Alexander",
+      "Olivia de Havilland",
+      "Jean Muir",
+      "Grant Mitchell",
+      "Frank McHugh",
+      "Dewey Robinson",
+      "James Cagney",
+      "Joe E. Brown"
+    ],
+    "app_cast": [
+      {
+        "name": "Ian Hunter",
+        "character": "Theseus",
+        "photo": "https://image.tmdb.org/t/p/w500/yiSGJGTyww5YQwi9PYS96nefkOw.jpg"
+      },
+      {
+        "name": "Verree Teasdale",
+        "character": "Hippolyta",
+        "photo": "https://image.tmdb.org/t/p/w500/wIxc1yCTZ2z3UT7eoHWKWkm5esy.jpg"
+      },
+      {
+        "name": "Hobart Cavanaugh",
+        "character": "Philostrate",
+        "photo": "https://image.tmdb.org/t/p/w500/AjyCNH3j3ukDlxhP442kI2CoQkW.jpg"
+      },
+      {
+        "name": "Dick Powell",
+        "character": "Lysander",
+        "photo": "https://image.tmdb.org/t/p/w500/msDrFPoalt7oWWK9S1ELCgSF3R2.jpg"
+      },
+      {
+        "name": "Ross Alexander",
+        "character": "Demetrius",
+        "photo": "https://image.tmdb.org/t/p/w500/oCEqXAmejL5cfLcteqFnLbS5DDu.jpg"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "character": "Hermia",
+        "photo": "https://image.tmdb.org/t/p/w500/9pIjSCaOSIp9IbMVUaZhQ4dWc9F.jpg"
+      },
+      {
+        "name": "Jean Muir",
+        "character": "Helena",
+        "photo": "https://image.tmdb.org/t/p/w500/dRwwIbTUc49IeOegAYZ4S9T20DQ.jpg"
+      },
+      {
+        "name": "Grant Mitchell",
+        "character": "Egeus",
+        "photo": "https://image.tmdb.org/t/p/w500/aK0rpMG4ALS3B6sVqb9cvLsPtJS.jpg"
+      },
+      {
+        "name": "Frank McHugh",
+        "character": "Quince",
+        "photo": "https://image.tmdb.org/t/p/w500/yxr2eRkScZWPQOtm2vzz38hALHD.jpg"
+      },
+      {
+        "name": "Dewey Robinson",
+        "character": "Snug",
+        "photo": "https://image.tmdb.org/t/p/w500/zq14YNrOf2yA3G4tEmYXlZDC704.jpg"
+      },
+      {
+        "name": "James Cagney",
+        "character": "Bottom",
+        "photo": "https://image.tmdb.org/t/p/w500/haDKecHGGb1qh8gAoR3ExiJlujn.jpg"
+      },
+      {
+        "name": "Joe E. Brown",
+        "character": "Flute",
+        "photo": "https://image.tmdb.org/t/p/w500/r4xvWwOfTjDrSxx2MRhsJW1omX.jpg"
+      }
+    ],
+    "director": [
+      "William Dieterle",
+      "Max Reinhardt"
+    ]
   }
 }

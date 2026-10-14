@@ -19,6 +19,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Robert Shaw",
+      "Charles Durning",
+      "Ray Walston",
+      "Eileen Brennan",
+      "Harold Gould",
+      "John Heffernan",
+      "Dana Elcar",
+      "Jack Kehoe",
+      "Dimitra Arliss",
+      "Robert Earl Jones"
+    ],
+    "app_cast": [
+      {
+        "name": "Paul Newman",
+        "character": "Henry Gondorff",
+        "photo": "https://image.tmdb.org/t/p/w500/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg"
+      },
+      {
+        "name": "Robert Redford",
+        "character": "Johnny Hooker",
+        "photo": "https://image.tmdb.org/t/p/w500/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg"
+      },
+      {
+        "name": "Robert Shaw",
+        "character": "Doyle Lonnegan",
+        "photo": "https://image.tmdb.org/t/p/w500/c8SIbGEmGIfhD9bObSf4FELUEns.jpg"
+      },
+      {
+        "name": "Charles Durning",
+        "character": "Lt. Wm. Snyder",
+        "photo": "https://image.tmdb.org/t/p/w500/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+      },
+      {
+        "name": "Ray Walston",
+        "character": "J.J. Singleton",
+        "photo": "https://image.tmdb.org/t/p/w500/pRVUmhdc9nxflBI5GJvokz0nPPb.jpg"
+      },
+      {
+        "name": "Eileen Brennan",
+        "character": "Billie",
+        "photo": "https://image.tmdb.org/t/p/w500/b3hP3bHhDqWQfiuZWqhcIUUsPKT.jpg"
+      },
+      {
+        "name": "Harold Gould",
+        "character": "Kid Twist",
+        "photo": "https://image.tmdb.org/t/p/w500/34OhfMWScEyQpy0bdnhta9mUvqV.jpg"
+      },
+      {
+        "name": "John Heffernan",
+        "character": "Eddie Niles",
+        "photo": "https://image.tmdb.org/t/p/w500/xqd1XspCgVpWZ7jEZyBbFzZfxan.jpg"
+      },
+      {
+        "name": "Dana Elcar",
+        "character": "F.B.I. Agent Polk",
+        "photo": "https://image.tmdb.org/t/p/w500/iYYbcpWCikPFPvLWCqwKVvNVvrC.jpg"
+      },
+      {
+        "name": "Jack Kehoe",
+        "character": "Erie Kid",
+        "photo": "https://image.tmdb.org/t/p/w500/bwsY19BaN9vF21XuH8nVZrEAplo.jpg"
+      },
+      {
+        "name": "Dimitra Arliss",
+        "character": "Loretta",
+        "photo": "https://image.tmdb.org/t/p/w500/rhGEghV0oYvZzYXyYISHFkIUurB.jpg"
+      },
+      {
+        "name": "Robert Earl Jones",
+        "character": "Luther Coleman",
+        "photo": "https://image.tmdb.org/t/p/w500/wHXkfp6KLdexNSWVHa417wLItlp.jpg"
+      }
+    ],
+    "director": [
+      "George Roy Hill"
+    ]
   }
 }

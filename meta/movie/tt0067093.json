@@ -18,6 +18,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Chaim Topol",
+      "Norma Crane",
+      "Leonard Frey",
+      "Molly Picon",
+      "Paul Mann",
+      "Rosalind Harris",
+      "Michele Marsh",
+      "Neva Small",
+      "Paul Michael Glaser",
+      "Ray Lovelock",
+      "Elaine Edwards",
+      "Candy Bonstein"
+    ],
+    "app_cast": [
+      {
+        "name": "Chaim Topol",
+        "character": "Tevye",
+        "photo": "https://image.tmdb.org/t/p/w500/Ah6ZOrg9AmeqPU04qUGF5eon2Fv.jpg"
+      },
+      {
+        "name": "Norma Crane",
+        "character": "Golde",
+        "photo": "https://image.tmdb.org/t/p/w500/rATlBUVRJQDUoDsz9jxweDyAaaB.jpg"
+      },
+      {
+        "name": "Leonard Frey",
+        "character": "Motel",
+        "photo": "https://image.tmdb.org/t/p/w500/l8EVoH2d9zHc4ktARpg90jm2K6l.jpg"
+      },
+      {
+        "name": "Molly Picon",
+        "character": "Yente",
+        "photo": "https://image.tmdb.org/t/p/w500/qXaV5qklT6F2smIVEHmgkRctR2t.jpg"
+      },
+      {
+        "name": "Paul Mann",
+        "character": "Lazar Wolf",
+        "photo": "https://image.tmdb.org/t/p/w500/4kDCvLmZPIsHfb4My77RvENbuU3.jpg"
+      },
+      {
+        "name": "Rosalind Harris",
+        "character": "Tzeitel",
+        "photo": "https://image.tmdb.org/t/p/w500/aOvNYWqdxHkmCaYoMkoilNb7yOE.jpg"
+      },
+      {
+        "name": "Michele Marsh",
+        "character": "Hodel"
+      },
+      {
+        "name": "Neva Small",
+        "character": "Chava",
+        "photo": "https://image.tmdb.org/t/p/w500/199GD6JcLxyvP1YOJ80IZDoqwes.jpg"
+      },
+      {
+        "name": "Paul Michael Glaser",
+        "character": "Perchik",
+        "photo": "https://image.tmdb.org/t/p/w500/lDgHZ7vLoUshFzOcgxqSJBiLUUo.jpg"
+      },
+      {
+        "name": "Ray Lovelock",
+        "character": "Fyedka",
+        "photo": "https://image.tmdb.org/t/p/w500/uZQa8foSrVLnTaBc3oQflriMawl.jpg"
+      },
+      {
+        "name": "Elaine Edwards",
+        "character": "Shprintze",
+        "photo": "https://image.tmdb.org/t/p/w500/gdyAlwkcovJhPXQbphpBfZRyZRC.jpg"
+      },
+      {
+        "name": "Candy Bonstein",
+        "character": "Bielke",
+        "photo": "https://image.tmdb.org/t/p/w500/wR9odsoytbcK2iNdJZlQqU2RCrW.jpg"
+      }
+    ],
+    "director": [
+      "Norman Jewison"
+    ]
   }
 }

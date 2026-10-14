@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Ronald Colman",
+      "Greer Garson",
+      "Philip Dorn",
+      "Susan Peters",
+      "Henry Travers",
+      "Reginald Owen",
+      "Bramwell Fletcher",
+      "Rhys Williams",
+      "Una O'Connor",
+      "Aubrey Mather",
+      "Margaret Wycherly",
+      "Arthur Margetson"
+    ],
+    "app_cast": [
+      {
+        "name": "Ronald Colman",
+        "character": "Charles Rainier",
+        "photo": "https://image.tmdb.org/t/p/w500/2Rw0UG4QLk8cDCTGZZ5RxFK1e41.jpg"
+      },
+      {
+        "name": "Greer Garson",
+        "character": "Paula",
+        "photo": "https://image.tmdb.org/t/p/w500/6jpbH6x6r8IfOT0f3hqC7xFpQuV.jpg"
+      },
+      {
+        "name": "Philip Dorn",
+        "character": "Dr. Jonathan Benet",
+        "photo": "https://image.tmdb.org/t/p/w500/9BM0kaSy8JVzNIduSgsPIhlgDtH.jpg"
+      },
+      {
+        "name": "Susan Peters",
+        "character": "Kitty",
+        "photo": "https://image.tmdb.org/t/p/w500/gwCe5rKlqfJrYfhiCcTQNkwHdUH.jpg"
+      },
+      {
+        "name": "Henry Travers",
+        "character": "Dr. Sims",
+        "photo": "https://image.tmdb.org/t/p/w500/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
+      },
+      {
+        "name": "Reginald Owen",
+        "character": "\"Biffer\"",
+        "photo": "https://image.tmdb.org/t/p/w500/a7PEC3JPysPo4OoOqOIagDFZmNB.jpg"
+      },
+      {
+        "name": "Bramwell Fletcher",
+        "character": "Harrison",
+        "photo": "https://image.tmdb.org/t/p/w500/br1WnaQ03WN1gB1Ky5SZ7p3Wqwx.jpg"
+      },
+      {
+        "name": "Rhys Williams",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/5n6ufKbjGLZN64tUgKErOdGONCU.jpg"
+      },
+      {
+        "name": "Una O'Connor",
+        "character": "Tobacconist",
+        "photo": "https://image.tmdb.org/t/p/w500/8XqwWhajcr80B4rqZD58ZnPCO52.jpg"
+      },
+      {
+        "name": "Aubrey Mather",
+        "character": "Sheldon",
+        "photo": "https://image.tmdb.org/t/p/w500/caPKaLvQaxK90CDja00rKfS9w4W.jpg"
+      },
+      {
+        "name": "Margaret Wycherly",
+        "character": "Mrs. Deventer",
+        "photo": "https://image.tmdb.org/t/p/w500/deOr31wqp3iKvGxm8M2XXgQbcAT.jpg"
+      },
+      {
+        "name": "Arthur Margetson",
+        "character": "Chetwynd",
+        "photo": "https://image.tmdb.org/t/p/w500/rxbYGg6gFAi3mnImXPKSCl25W1w.jpg"
+      }
+    ],
+    "director": [
+      "Mervyn LeRoy"
+    ]
   }
 }

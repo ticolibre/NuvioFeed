@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Maggie Smith",
+      "Michael Gambon",
+      "Kristin Scott Thomas",
+      "Camilla Rutherford",
+      "Charles Dance",
+      "Geraldine Somerville",
+      "Tom Hollander",
+      "Natasha Wightman",
+      "Jeremy Northam",
+      "Bob Balaban",
+      "James Wilby",
+      "Claudie Blakley"
+    ],
+    "app_cast": [
+      {
+        "name": "Maggie Smith",
+        "character": "Constance Trentham",
+        "photo": "https://image.tmdb.org/t/p/w500/hjoWy2WB7RayROumynH3wuCa9aL.jpg"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "William McCordle",
+        "photo": "https://image.tmdb.org/t/p/w500/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        "name": "Kristin Scott Thomas",
+        "character": "Sylvia McCordle",
+        "photo": "https://image.tmdb.org/t/p/w500/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+      },
+      {
+        "name": "Camilla Rutherford",
+        "character": "Isobel McCordle",
+        "photo": "https://image.tmdb.org/t/p/w500/rVoFC3VLv5JWsBN0mlyTLrF1Zg5.jpg"
+      },
+      {
+        "name": "Charles Dance",
+        "character": "Raymond Stockbridge",
+        "photo": "https://image.tmdb.org/t/p/w500/pKiXMCLf0uHQNwQPCjSNrjsUiJO.jpg"
+      },
+      {
+        "name": "Geraldine Somerville",
+        "character": "Louisa Stockbridge",
+        "photo": "https://image.tmdb.org/t/p/w500/vyLIquF45MpN6OOPmk8L7gnmKrY.jpg"
+      },
+      {
+        "name": "Tom Hollander",
+        "character": "Anthony Meredith",
+        "photo": "https://image.tmdb.org/t/p/w500/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+      },
+      {
+        "name": "Natasha Wightman",
+        "character": "Lavinia Meredith",
+        "photo": "https://image.tmdb.org/t/p/w500/9G7c9rAL0mt57ckZGF8Fartwz8X.jpg"
+      },
+      {
+        "name": "Jeremy Northam",
+        "character": "Ivor Novello",
+        "photo": "https://image.tmdb.org/t/p/w500/lnvV2sEAl1oUkUuUEr51UjxIuRr.jpg"
+      },
+      {
+        "name": "Bob Balaban",
+        "character": "Morris Weissman",
+        "photo": "https://image.tmdb.org/t/p/w500/qceORed11dvRnxQjVGexPvgF5Xu.jpg"
+      },
+      {
+        "name": "James Wilby",
+        "character": "Freddie Nesbitt",
+        "photo": "https://image.tmdb.org/t/p/w500/s5ddkHYkVbsfiP3yPesTXcR0H6Y.jpg"
+      },
+      {
+        "name": "Claudie Blakley",
+        "character": "Mabel Nesbitt",
+        "photo": "https://image.tmdb.org/t/p/w500/bUy1X1ili9Goj3AQNrBD1kd7A8q.jpg"
+      }
+    ],
+    "director": [
+      "Robert Altman"
+    ]
   }
 }

@@ -17,6 +17,49 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Eggers",
+      "Jarin Blaschke",
+      "Robert Pattinson",
+      "Willem Dafoe",
+      "Linda Muir",
+      "Craig Lathrop"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Eggers",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/8Mbq0G8FguELKC8zNFunapPpkt5.jpg"
+      },
+      {
+        "name": "Jarin Blaschke",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/n69b7E1j9vjsEqIlAu0iIP3gk9D.jpg"
+      },
+      {
+        "name": "Robert Pattinson",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Linda Muir",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/uH0lstyJ7FvM5gHUinCYXrD3e1r.jpg"
+      },
+      {
+        "name": "Craig Lathrop",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/wCgkN95GPs88vCl0gEqetwihAZ3.jpg"
+      }
+    ],
+    "director": [
+      "Jon Mefford"
+    ]
   }
 }

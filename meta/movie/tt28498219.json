@@ -19,6 +19,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "John Cena",
+      "Jessica Biel",
+      "Arturo Castro",
+      "Sam Richardson",
+      "Teyonah Parris",
+      "Danai Gurira",
+      "Golshifteh Farahani",
+      "Corey Stoll",
+      "Daniel Bernhardt",
+      "Randeep Hooda",
+      "Bill Camp",
+      "Kristofer Hivju"
+    ],
+    "app_cast": [
+      {
+        "name": "John Cena",
+        "character": "Sean",
+        "photo": "https://image.tmdb.org/t/p/w500/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+      },
+      {
+        "name": "Jessica Biel",
+        "character": "Aimee",
+        "photo": "https://image.tmdb.org/t/p/w500/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+      },
+      {
+        "name": "Arturo Castro",
+        "character": "Ted",
+        "photo": "https://image.tmdb.org/t/p/w500/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg"
+      },
+      {
+        "name": "Sam Richardson",
+        "character": "Crosby",
+        "photo": "https://image.tmdb.org/t/p/w500/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg"
+      },
+      {
+        "name": "Teyonah Parris",
+        "character": "Charmaine",
+        "photo": "https://image.tmdb.org/t/p/w500/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+      },
+      {
+        "name": "Danai Gurira",
+        "character": "Helen",
+        "photo": "https://image.tmdb.org/t/p/w500/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+      },
+      {
+        "name": "Golshifteh Farahani",
+        "character": "Robbie",
+        "photo": "https://image.tmdb.org/t/p/w500/lbsd2lAIQq4egOUXDIfjhte12vv.jpg"
+      },
+      {
+        "name": "Corey Stoll",
+        "character": "Mosier",
+        "photo": "https://image.tmdb.org/t/p/w500/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+      },
+      {
+        "name": "Daniel Bernhardt",
+        "character": "Falko",
+        "photo": "https://image.tmdb.org/t/p/w500/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+      },
+      {
+        "name": "Randeep Hooda",
+        "character": "Mustafa",
+        "photo": "https://image.tmdb.org/t/p/w500/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Smalley",
+        "photo": "https://image.tmdb.org/t/p/w500/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+      },
+      {
+        "name": "Kristofer Hivju",
+        "character": "Grigor",
+        "photo": "https://image.tmdb.org/t/p/w500/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+      }
+    ],
+    "director": [
+      "Sam Hargrave"
+    ]
   }
 }

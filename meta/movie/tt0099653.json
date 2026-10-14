@@ -19,6 +19,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Patrick Swayze",
+      "Demi Moore",
+      "Whoopi Goldberg",
+      "Tony Goldwyn",
+      "Vincent Schiavelli",
+      "Rick Aviles",
+      "Martina Deignan",
+      "Rick Kleber",
+      "Phil Leeds",
+      "Armelia McQueen",
+      "Gail Boggs",
+      "Stephen Root"
+    ],
+    "app_cast": [
+      {
+        "name": "Patrick Swayze",
+        "character": "Sam Wheat",
+        "photo": "https://image.tmdb.org/t/p/w500/ys8dRhQRsS0nLPTXXEHyuFhXCYO.jpg"
+      },
+      {
+        "name": "Demi Moore",
+        "character": "Molly Jensen",
+        "photo": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "character": "Oda Mae Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+      },
+      {
+        "name": "Tony Goldwyn",
+        "character": "Carl Bruner",
+        "photo": "https://image.tmdb.org/t/p/w500/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+      },
+      {
+        "name": "Vincent Schiavelli",
+        "character": "Subway Ghost",
+        "photo": "https://image.tmdb.org/t/p/w500/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+      },
+      {
+        "name": "Rick Aviles",
+        "character": "Willie Lopez",
+        "photo": "https://image.tmdb.org/t/p/w500/5gSlvykK09Y2t5gmIGn7440Na9A.jpg"
+      },
+      {
+        "name": "Martina Deignan",
+        "character": "Rose",
+        "photo": "https://image.tmdb.org/t/p/w500/r1Zu2fNWWEAKfMf62TXqD4veybV.jpg"
+      },
+      {
+        "name": "Rick Kleber",
+        "character": "Mover",
+        "photo": "https://image.tmdb.org/t/p/w500/fONPW02k7NGGRGTctB7hVyvyJVO.jpg"
+      },
+      {
+        "name": "Phil Leeds",
+        "character": "Emergency Room Ghost",
+        "photo": "https://image.tmdb.org/t/p/w500/5eUEN9aSxmEa8IGpcsieArYTOVV.jpg"
+      },
+      {
+        "name": "Armelia McQueen",
+        "character": "Oda Mae's Sister",
+        "photo": "https://image.tmdb.org/t/p/w500/Yu8n7teVyVZ72Q9KlgJUrpptOP.jpg"
+      },
+      {
+        "name": "Gail Boggs",
+        "character": "Oda Mae's Sister",
+        "photo": "https://image.tmdb.org/t/p/w500/ic3pkpmYKi1aZo4CjiQ72zx2Rmp.jpg"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Police Sgt.",
+        "photo": "https://image.tmdb.org/t/p/w500/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+      }
+    ],
+    "director": [
+      "Jerry Zucker"
+    ]
   }
 }

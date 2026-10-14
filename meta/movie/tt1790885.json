@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Jessica Chastain",
+      "Jason Clarke",
+      "Joel Edgerton",
+      "Jennifer Ehle",
+      "Mark Strong",
+      "Kyle Chandler",
+      "Edgar Ramírez",
+      "James Gandolfini",
+      "Chris Pratt",
+      "Callan Mulvey",
+      "Fares Fares",
+      "Reda Kateb"
+    ],
+    "app_cast": [
+      {
+        "name": "Jessica Chastain",
+        "character": "Maya",
+        "photo": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+      },
+      {
+        "name": "Jason Clarke",
+        "character": "Dan",
+        "photo": "https://image.tmdb.org/t/p/w500/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+      },
+      {
+        "name": "Joel Edgerton",
+        "character": "Patrick - Squadron Team Leader",
+        "photo": "https://image.tmdb.org/t/p/w500/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
+      },
+      {
+        "name": "Jennifer Ehle",
+        "character": "Jessica",
+        "photo": "https://image.tmdb.org/t/p/w500/kMddVKineLFpxsUoGrb3E6edkOv.jpg"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "George",
+        "photo": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+      },
+      {
+        "name": "Kyle Chandler",
+        "character": "Joseph Bradley",
+        "photo": "https://image.tmdb.org/t/p/w500/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+      },
+      {
+        "name": "Edgar Ramírez",
+        "character": "Larry from Ground Branch",
+        "photo": "https://image.tmdb.org/t/p/w500/o9xJcedad1BwpMcgDGtW5dVgzH.jpg"
+      },
+      {
+        "name": "James Gandolfini",
+        "character": "C.I.A. Director",
+        "photo": "https://image.tmdb.org/t/p/w500/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+      },
+      {
+        "name": "Chris Pratt",
+        "character": "Justin - DEVGRU",
+        "photo": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "name": "Callan Mulvey",
+        "character": "Saber - DEVGRU",
+        "photo": "https://image.tmdb.org/t/p/w500/wJ8P1yNVmkx1PS1mc6Pi48tphfG.jpg"
+      },
+      {
+        "name": "Fares Fares",
+        "character": "Hakim",
+        "photo": "https://image.tmdb.org/t/p/w500/rLk2uAENs1cNyWFy039fErxNpLj.jpg"
+      },
+      {
+        "name": "Reda Kateb",
+        "character": "Ammar",
+        "photo": "https://image.tmdb.org/t/p/w500/mvDuT7covYkAjK2Ix2VHJcvPyE0.jpg"
+      }
+    ],
+    "director": [
+      "Kathryn Bigelow"
+    ]
   }
 }

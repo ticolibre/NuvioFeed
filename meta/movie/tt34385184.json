@@ -11,6 +11,85 @@
     "genres": [
       "Drama",
       "Comedia"
+    ],
+    "cast": [
+      "Rosalind Eleazar",
+      "Adam Driver",
+      "Daniel Kaluuya",
+      "Anna Kendrick",
+      "Topher Grace",
+      "Chris Rock",
+      "Anthony Anderson",
+      "Kelli Garner",
+      "Amy Landecker",
+      "Rich Sommer",
+      "Ice-T",
+      "Tracie Thoms"
+    ],
+    "app_cast": [
+      {
+        "name": "Rosalind Eleazar",
+        "character": "Misty Green",
+        "photo": "https://image.tmdb.org/t/p/w500/9Tb1rLSnyCfnZXYixfjWJuQJig9.jpg"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Zach",
+        "photo": "https://image.tmdb.org/t/p/w500/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+      },
+      {
+        "name": "Daniel Kaluuya",
+        "character": "Jordan ‘Jay’ Green",
+        "photo": "https://image.tmdb.org/t/p/w500/jj2kZqJobjom36wlhlYhc38nTwN.jpg"
+      },
+      {
+        "name": "Anna Kendrick",
+        "character": "Naomi",
+        "photo": "https://image.tmdb.org/t/p/w500/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Randy",
+        "photo": "https://image.tmdb.org/t/p/w500/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+      },
+      {
+        "name": "Chris Rock",
+        "character": "Jordan Green",
+        "photo": "https://image.tmdb.org/t/p/w500/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+      },
+      {
+        "name": "Anthony Anderson",
+        "character": "Officer Ward",
+        "photo": "https://image.tmdb.org/t/p/w500/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+      },
+      {
+        "name": "Kelli Garner",
+        "character": "Carol",
+        "photo": "https://image.tmdb.org/t/p/w500/fPdTPPFUy3tZMg4I6Tgg29YX3cx.jpg"
+      },
+      {
+        "name": "Amy Landecker",
+        "character": "Celine",
+        "photo": "https://image.tmdb.org/t/p/w500/6UMXVrMsM4ogTqB63UFHMDB6mqD.jpg"
+      },
+      {
+        "name": "Rich Sommer",
+        "character": "Brad",
+        "photo": "https://image.tmdb.org/t/p/w500/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg"
+      },
+      {
+        "name": "Ice-T",
+        "character": "Ice-T",
+        "photo": "https://image.tmdb.org/t/p/w500/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+      },
+      {
+        "name": "Tracie Thoms",
+        "character": "Rhonda",
+        "photo": "https://image.tmdb.org/t/p/w500/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg"
+      }
+    ],
+    "director": [
+      "Chris Rock"
     ]
   }
 }

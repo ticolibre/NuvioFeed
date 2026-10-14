@@ -20,6 +20,77 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "David Oyelowo",
+      "Storm Reid",
+      "Mykelti Williamson",
+      "Alfred Molina",
+      "Brian Tyree Henry",
+      "Shinelle Azoroh",
+      "Byron Mann",
+      "April Grace",
+      "Omar Leyva",
+      "Sarkis Ninos",
+      "Ray Barnes"
+    ],
+    "app_cast": [
+      {
+        "name": "David Oyelowo",
+        "character": "Detective Jack Radcliff",
+        "photo": "https://image.tmdb.org/t/p/w500/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+      },
+      {
+        "name": "Storm Reid",
+        "character": "Ashley Radcliff",
+        "photo": "https://image.tmdb.org/t/p/w500/c5ld0nVHZ2dv25Jhn5DpXwTlXyH.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Bobby Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Howard Keleshian",
+        "photo": "https://image.tmdb.org/t/p/w500/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "Brian Tyree Henry",
+        "character": "Garret Radcliff",
+        "photo": "https://image.tmdb.org/t/p/w500/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+      },
+      {
+        "name": "Shinelle Azoroh",
+        "character": "Susan Radcliff",
+        "photo": "https://image.tmdb.org/t/p/w500/eLxygTrx4tDPDriyR9LOL8wu4HW.jpg"
+      },
+      {
+        "name": "Byron Mann",
+        "character": "Sergeant Roger Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/lJXes5cQU2a3x5V4auFV4CFyrYB.jpg"
+      },
+      {
+        "name": "April Grace",
+        "character": "Sergeant Julia Rodriguez",
+        "photo": "https://image.tmdb.org/t/p/w500/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg"
+      },
+      {
+        "name": "Omar Leyva",
+        "character": "Property Officer #1",
+        "photo": "https://image.tmdb.org/t/p/w500/mpUNAbWsmIEH27JqWmMKTJBedBG.jpg"
+      },
+      {
+        "name": "Sarkis Ninos",
+        "character": "Property Officer #2"
+      },
+      {
+        "name": "Ray Barnes",
+        "character": "Reverend Ray"
+      }
+    ],
+    "director": [
+      "Jacob Aaron Estes"
+    ]
   }
 }

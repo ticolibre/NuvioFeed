@@ -18,6 +18,86 @@
           "rating": "8.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Ryan Gosling",
+      "Sandra Hüller",
+      "James Ortiz",
+      "Lionel Boyce",
+      "Milana Vayntrub",
+      "Ken Leung",
+      "Priya Kansara",
+      "Mia Soteriou",
+      "Annelle Olaleye",
+      "Maya Eva Hosein",
+      "Bastian Antonio Fuentes",
+      "Alice Brittain"
+    ],
+    "app_cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Ryland Grace",
+        "photo": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Sandra Hüller",
+        "character": "Eva Stratt",
+        "photo": "https://image.tmdb.org/t/p/w500/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+      },
+      {
+        "name": "James Ortiz",
+        "character": "Rocky (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg"
+      },
+      {
+        "name": "Lionel Boyce",
+        "character": "Carl",
+        "photo": "https://image.tmdb.org/t/p/w500/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
+      },
+      {
+        "name": "Milana Vayntrub",
+        "character": "Olesya Ilyukhina",
+        "photo": "https://image.tmdb.org/t/p/w500/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg"
+      },
+      {
+        "name": "Ken Leung",
+        "character": "Yao",
+        "photo": "https://image.tmdb.org/t/p/w500/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+      },
+      {
+        "name": "Priya Kansara",
+        "character": "Mary (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/zv9kpaQ8AVBfjI2LAAZV58NeVQg.jpg"
+      },
+      {
+        "name": "Mia Soteriou",
+        "character": "Dr. Browne",
+        "photo": "https://image.tmdb.org/t/p/w500/bU4Twfk4as290gPFouByj7Wjd2.jpg"
+      },
+      {
+        "name": "Annelle Olaleye",
+        "character": "Olivia",
+        "photo": "https://image.tmdb.org/t/p/w500/V0UqW30EQaHjGhwDnb6dT0AWmz.jpg"
+      },
+      {
+        "name": "Maya Eva Hosein",
+        "character": "Rekha",
+        "photo": "https://image.tmdb.org/t/p/w500/lDHbsnyUoBzmtbMevNl4F2n8B8B.jpg"
+      },
+      {
+        "name": "Bastian Antonio Fuentes",
+        "character": "Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/u7SDAocZ7ZCMOCejLRZtZFdb2Bl.jpg"
+      },
+      {
+        "name": "Alice Brittain",
+        "character": "Hardware Store Cashier",
+        "photo": "https://image.tmdb.org/t/p/w500/qOlSX2GtTU1Rhn5iYf4K0bqQJgu.jpg"
+      }
+    ],
+    "director": [
+      "Phil Lord",
+      "Christopher Miller"
+    ]
   }
 }

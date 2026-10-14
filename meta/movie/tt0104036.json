@@ -19,6 +19,84 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Stephen Rea",
+      "Miranda Richardson",
+      "Jaye Davidson",
+      "Forest Whitaker",
+      "Adrian Dunbar",
+      "Breffni McKenna",
+      "Joe Savino",
+      "Birdy Sweeney",
+      "Andrée Bernard",
+      "Jim Broadbent",
+      "Ralph Brown",
+      "Tony Slattery"
+    ],
+    "app_cast": [
+      {
+        "name": "Stephen Rea",
+        "character": "Fergus",
+        "photo": "https://image.tmdb.org/t/p/w500/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+      },
+      {
+        "name": "Miranda Richardson",
+        "character": "Jude",
+        "photo": "https://image.tmdb.org/t/p/w500/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+      },
+      {
+        "name": "Jaye Davidson",
+        "character": "Dil",
+        "photo": "https://image.tmdb.org/t/p/w500/1gvLTgrBpRreybxQ56dgjjKkVrh.jpg"
+      },
+      {
+        "name": "Forest Whitaker",
+        "character": "Jody",
+        "photo": "https://image.tmdb.org/t/p/w500/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+      },
+      {
+        "name": "Adrian Dunbar",
+        "character": "Maguire",
+        "photo": "https://image.tmdb.org/t/p/w500/AwiptVRftEIwXSM8C4izNVQtQL7.jpg"
+      },
+      {
+        "name": "Breffni McKenna",
+        "character": "Tinker",
+        "photo": "https://image.tmdb.org/t/p/w500/eaF7zfUfINdTuZeLL0Rk60THRBu.jpg"
+      },
+      {
+        "name": "Joe Savino",
+        "character": "Eddie"
+      },
+      {
+        "name": "Birdy Sweeney",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/qQTe0WKihjQrnUsEx0yXj1hAu20.jpg"
+      },
+      {
+        "name": "Andrée Bernard",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/mYHVfIcFjzZ0lrksBPwdVQ0hZPK.jpg"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Col",
+        "photo": "https://image.tmdb.org/t/p/w500/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+      },
+      {
+        "name": "Ralph Brown",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/20VVWsUZHmTmN80xgHyy6LAFDuC.jpg"
+      },
+      {
+        "name": "Tony Slattery",
+        "character": "Deveroux",
+        "photo": "https://image.tmdb.org/t/p/w500/rxW6vimB3DHAXPHmeEYLILBdhJl.jpg"
+      }
+    ],
+    "director": [
+      "Neil Jordan"
+    ]
   }
 }

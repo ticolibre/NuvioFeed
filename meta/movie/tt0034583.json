@@ -18,6 +18,85 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains",
+      "Conrad Veidt",
+      "Sydney Greenstreet",
+      "Peter Lorre",
+      "S.Z. Sakall",
+      "Madeleine Lebeau",
+      "Dooley Wilson",
+      "Joy Page",
+      "John Qualen"
+    ],
+    "app_cast": [
+      {
+        "name": "Humphrey Bogart",
+        "character": "Rick Blaine",
+        "photo": "https://image.tmdb.org/t/p/w500/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "character": "Ilsa Lund",
+        "photo": "https://image.tmdb.org/t/p/w500/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+      },
+      {
+        "name": "Paul Henreid",
+        "character": "Victor Laszlo",
+        "photo": "https://image.tmdb.org/t/p/w500/kqlDSharpQjqeNVS5BZkqqJl3ZF.jpg"
+      },
+      {
+        "name": "Claude Rains",
+        "character": "Captain Louis Renault",
+        "photo": "https://image.tmdb.org/t/p/w500/fcM7Xfs0lWBw8TDjcFSLosX2YAD.jpg"
+      },
+      {
+        "name": "Conrad Veidt",
+        "character": "Major Heinrich Strasser",
+        "photo": "https://image.tmdb.org/t/p/w500/rmlK341dwK57BVWz1S96tpv7SSF.jpg"
+      },
+      {
+        "name": "Sydney Greenstreet",
+        "character": "Signor Ferrari",
+        "photo": "https://image.tmdb.org/t/p/w500/67bcDUjZEXrTpOTejsweP53KQGV.jpg"
+      },
+      {
+        "name": "Peter Lorre",
+        "character": "Ugarte",
+        "photo": "https://image.tmdb.org/t/p/w500/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+      },
+      {
+        "name": "S.Z. Sakall",
+        "character": "Carl",
+        "photo": "https://image.tmdb.org/t/p/w500/AviTmjTn7MUezntky2YqBUh9Jiu.jpg"
+      },
+      {
+        "name": "Madeleine Lebeau",
+        "character": "Yvonne",
+        "photo": "https://image.tmdb.org/t/p/w500/4Mx6Nj7sPwA8OWHgcWOTL6OXWWE.jpg"
+      },
+      {
+        "name": "Dooley Wilson",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/eLXMuPM0lBXvmikeT77alaNPcgX.jpg"
+      },
+      {
+        "name": "Joy Page",
+        "character": "Annina Brandel",
+        "photo": "https://image.tmdb.org/t/p/w500/bCwMkDrF0kUECkEoJ00fofLSXeo.jpg"
+      },
+      {
+        "name": "John Qualen",
+        "character": "Berger",
+        "photo": "https://image.tmdb.org/t/p/w500/aMuzXYaBmblQm95JxHZrmseeIYh.jpg"
+      }
+    ],
+    "director": [
+      "Michael Curtiz"
+    ]
   }
 }

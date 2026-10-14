@@ -19,6 +19,80 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "María Mercedes Coroy",
+      "Sabrina De La Hoz",
+      "Margarita Kénefic",
+      "Julio Díaz",
+      "María Telón",
+      "Juan Pablo Olyslager",
+      "Ayla-Elea Hurtado",
+      "Enrique Argüello",
+      "Alejandra Colom",
+      "Marvin Coroy",
+      "Pedro Javier Silva Lira",
+      "Maria Marcos"
+    ],
+    "app_cast": [
+      {
+        "name": "María Mercedes Coroy",
+        "character": "Alma",
+        "photo": "https://image.tmdb.org/t/p/w500/l5QMYwvg7UefUxMrkMSc8Y1dIiN.jpg"
+      },
+      {
+        "name": "Sabrina De La Hoz",
+        "character": "Natalia",
+        "photo": "https://image.tmdb.org/t/p/w500/xnMkzYdZoTNrjXtvHGP5LKllYHW.jpg"
+      },
+      {
+        "name": "Margarita Kénefic",
+        "character": "Carmen",
+        "photo": "https://image.tmdb.org/t/p/w500/3sInti9ooxMFR3FkAUQzVjxgK6M.jpg"
+      },
+      {
+        "name": "Julio Díaz",
+        "character": "Enrique",
+        "photo": "https://image.tmdb.org/t/p/w500/bkauU09fipBgLoS1bey8ZxN93Ny.jpg"
+      },
+      {
+        "name": "María Telón",
+        "character": "Valeriana",
+        "photo": "https://image.tmdb.org/t/p/w500/usv2QPBLlmincUzjgNORJiFrauD.jpg"
+      },
+      {
+        "name": "Juan Pablo Olyslager",
+        "character": "Letona",
+        "photo": "https://image.tmdb.org/t/p/w500/mVcT70Tyr4sUS8GsYRvYJYA57rp.jpg"
+      },
+      {
+        "name": "Ayla-Elea Hurtado",
+        "character": "Sara"
+      },
+      {
+        "name": "Enrique Argüello",
+        "character": "Abogado"
+      },
+      {
+        "name": "Alejandra Colom",
+        "character": "Periodista",
+        "photo": "https://image.tmdb.org/t/p/w500/3rP0qAnd5AuXKuy9houluNKFlTP.jpg"
+      },
+      {
+        "name": "Marvin Coroy",
+        "character": "Intérprete"
+      },
+      {
+        "name": "Pedro Javier Silva Lira",
+        "character": "Policier"
+      },
+      {
+        "name": "Maria Marcos",
+        "character": "Mujer Ixil"
+      }
+    ],
+    "director": [
+      "Jayro Bustamante"
+    ]
   }
 }

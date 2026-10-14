@@ -20,6 +20,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Melanie Lynskey",
+      "Elijah Wood",
+      "David Yow",
+      "Jane Levy",
+      "Devon Graye",
+      "Christine Woods",
+      "Robert Longstreet",
+      "Gary Anthony Williams",
+      "Myron Natwick",
+      "Derek Mears",
+      "Jason Manuel Olazabal",
+      "Lee Eddy"
+    ],
+    "app_cast": [
+      {
+        "name": "Melanie Lynskey",
+        "character": "Ruth Kimke",
+        "photo": "https://image.tmdb.org/t/p/w500/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+      },
+      {
+        "name": "Elijah Wood",
+        "character": "Tony",
+        "photo": "https://image.tmdb.org/t/p/w500/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "David Yow",
+        "character": "Marshall",
+        "photo": "https://image.tmdb.org/t/p/w500/rbL8wH5G8gBd93RjOcfcFLC3e2l.jpg"
+      },
+      {
+        "name": "Jane Levy",
+        "character": "Dez",
+        "photo": "https://image.tmdb.org/t/p/w500/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
+      },
+      {
+        "name": "Devon Graye",
+        "character": "Christian",
+        "photo": "https://image.tmdb.org/t/p/w500/kVqBgzkjWNaNFmXSJ7MLI3jOMOT.jpg"
+      },
+      {
+        "name": "Christine Woods",
+        "character": "Meredith",
+        "photo": "https://image.tmdb.org/t/p/w500/wBDuMqxjpqVcyT11CeokDWyqbCP.jpg"
+      },
+      {
+        "name": "Robert Longstreet",
+        "character": "Chris Rumack",
+        "photo": "https://image.tmdb.org/t/p/w500/j9e2HBqicMM59lErK8pL94Jh59v.jpg"
+      },
+      {
+        "name": "Gary Anthony Williams",
+        "character": "Det. William Bendix",
+        "photo": "https://image.tmdb.org/t/p/w500/96BbiV8rQOeGyoDxgrepRd6lUjm.jpg"
+      },
+      {
+        "name": "Myron Natwick",
+        "character": "Killer Sills",
+        "photo": "https://image.tmdb.org/t/p/w500/c7odiC2jOF00LeLSk4lgD6HebfQ.jpg"
+      },
+      {
+        "name": "Derek Mears",
+        "character": "Donkey Dick",
+        "photo": "https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"
+      },
+      {
+        "name": "Jason Manuel Olazabal",
+        "character": "Cesar",
+        "photo": "https://image.tmdb.org/t/p/w500/z5YiTOGBvWfKwy8ZEhTenCYwrDc.jpg"
+      },
+      {
+        "name": "Lee Eddy",
+        "character": "Angie",
+        "photo": "https://image.tmdb.org/t/p/w500/gIcP0EGRB0BmKyanp2VK9RyoGtA.jpg"
+      }
+    ],
+    "director": [
+      "Macon Blair"
+    ]
   }
 }

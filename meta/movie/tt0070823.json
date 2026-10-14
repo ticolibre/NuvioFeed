@@ -17,6 +17,82 @@
           "rating": "5.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Rod Taylor",
+      "Anne Heywood",
+      "Jean Sorel",
+      "Don Knight",
+      "Stack Pierce",
+      "Ed Bernard",
+      "Erik Holland",
+      "Robert Miller Driscoll",
+      "Solomon Karriem",
+      "Ji-Tu Cumbuka",
+      "Willie Harris",
+      "Caro Kenyatta"
+    ],
+    "app_cast": [
+      {
+        "name": "Rod Taylor",
+        "character": "Trader Horn",
+        "photo": "https://image.tmdb.org/t/p/w500/nSpfs8lXHxWcksZW3qC9ArMLAqZ.jpg"
+      },
+      {
+        "name": "Anne Heywood",
+        "character": "Nicole Mercer",
+        "photo": "https://image.tmdb.org/t/p/w500/kDZlzq5XWSw1PMjcQw6xGbhM3f8.jpg"
+      },
+      {
+        "name": "Jean Sorel",
+        "character": "Emil DuMond",
+        "photo": "https://image.tmdb.org/t/p/w500/fP0u5mPqTbBuJW1Uex0Wfv5rjbG.jpg"
+      },
+      {
+        "name": "Don Knight",
+        "character": "Colonel Sinclair",
+        "photo": "https://image.tmdb.org/t/p/w500/l0rVz42EO9A1kW8tNUOEZU2JzgN.jpg"
+      },
+      {
+        "name": "Stack Pierce",
+        "character": "Malugi",
+        "photo": "https://image.tmdb.org/t/p/w500/vCZ2iTJpXXhG2oAV95GZCz2k9X2.jpg"
+      },
+      {
+        "name": "Ed Bernard",
+        "character": "Apague",
+        "photo": "https://image.tmdb.org/t/p/w500/2zkFaDgbS2WtNxjlEbkrYKPKpO.jpg"
+      },
+      {
+        "name": "Erik Holland",
+        "character": "Lt. Medford",
+        "photo": "https://image.tmdb.org/t/p/w500/dAfDvcLnT6gUui0FA04gbZQNPZk.jpg"
+      },
+      {
+        "name": "Robert Miller Driscoll",
+        "character": "Alfredo"
+      },
+      {
+        "name": "Solomon Karriem",
+        "character": "Red Sun"
+      },
+      {
+        "name": "Ji-Tu Cumbuka",
+        "character": "Orange Stripe",
+        "photo": "https://image.tmdb.org/t/p/w500/aPxkduleB0dlJXZRPvTW59kCadD.jpg"
+      },
+      {
+        "name": "Willie Harris",
+        "character": "Blue Star"
+      },
+      {
+        "name": "Caro Kenyatta",
+        "character": "Umbopa",
+        "photo": "https://image.tmdb.org/t/p/w500/woHuY4dqbikqd8PIWwY0um1ybIi.jpg"
+      }
+    ],
+    "director": [
+      "Reza Badiyi"
+    ]
   }
 }

@@ -12,6 +12,80 @@
       "Suspense",
       "Ciencia ficción"
     ],
-    "background": "https://image.tmdb.org/t/p/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg"
+    "background": "https://image.tmdb.org/t/p/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "cast": [
+      "Tom Rhys Harries",
+      "Naomi Ackie",
+      "Eddie Marsan",
+      "Max Minghella",
+      "David Dencik",
+      "Francesca Corney",
+      "Ruby Sear",
+      "Wil Coban",
+      "Joshua James",
+      "Jake Curran",
+      "Nancy Carroll",
+      "Olivia-Mai Barrett"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Rhys Harries",
+        "character": "Matt Hagen / Clayface",
+        "photo": "https://image.tmdb.org/t/p/w500/elxvpHPqOxGcKe6U2hcArIcpyWo.jpg"
+      },
+      {
+        "name": "Naomi Ackie",
+        "character": "Caitlyn Corr",
+        "photo": "https://image.tmdb.org/t/p/w500/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+      },
+      {
+        "name": "Eddie Marsan",
+        "photo": "https://image.tmdb.org/t/p/w500/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+      },
+      {
+        "name": "Max Minghella",
+        "character": "John Borrelli",
+        "photo": "https://image.tmdb.org/t/p/w500/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+      },
+      {
+        "name": "David Dencik",
+        "photo": "https://image.tmdb.org/t/p/w500/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg"
+      },
+      {
+        "name": "Francesca Corney",
+        "photo": "https://image.tmdb.org/t/p/w500/p2B2dYAvl0TMUtbrZxzOdNgBbSE.jpg"
+      },
+      {
+        "name": "Ruby Sear",
+        "character": "Theresa",
+        "photo": "https://image.tmdb.org/t/p/w500/hNlLm6NaHPjakDJhPEY1suGcxKi.jpg"
+      },
+      {
+        "name": "Wil Coban",
+        "character": "Bones",
+        "photo": "https://image.tmdb.org/t/p/w500/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
+      },
+      {
+        "name": "Joshua James",
+        "character": "Corey Bowery",
+        "photo": "https://image.tmdb.org/t/p/w500/jw1n2Pzi2LJvyu6OkXTHMXPV7Q4.jpg"
+      },
+      {
+        "name": "Jake Curran",
+        "character": "Patches",
+        "photo": "https://image.tmdb.org/t/p/w500/pC6ozticiOmovaPpwqKVOMhn0b9.jpg"
+      },
+      {
+        "name": "Nancy Carroll",
+        "photo": "https://image.tmdb.org/t/p/w500/lXTNopDRBsDLTlXTREvuBT3KMIt.jpg"
+      },
+      {
+        "name": "Olivia-Mai Barrett",
+        "photo": "https://image.tmdb.org/t/p/w500/gWZRzvOnUxZmvdzHuxBvIS0BEJP.jpg"
+      }
+    ],
+    "director": [
+      "James Watkins"
+    ]
   }
 }

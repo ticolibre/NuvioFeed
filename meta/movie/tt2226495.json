@@ -18,6 +18,85 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Max Minghella",
+      "JJ Feild",
+      "Tom Gallop",
+      "Christian Clemenson",
+      "Eloise Mumford",
+      "Michael Gladis",
+      "Molly Hagan",
+      "Marina Black",
+      "Tim Griffin",
+      "Frankie J. Allison",
+      "Dan Bakkedahl",
+      "Alejandro Patiño"
+    ],
+    "app_cast": [
+      {
+        "name": "Max Minghella",
+        "character": "Tom Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+      },
+      {
+        "name": "JJ Feild",
+        "character": "Killer",
+        "photo": "https://image.tmdb.org/t/p/w500/ixelMubtR3MlwmkAkeVsie5dLoT.jpg"
+      },
+      {
+        "name": "Tom Gallop",
+        "character": "Roger",
+        "photo": "https://image.tmdb.org/t/p/w500/jqbrDxorFinlo6Ae39SL17AvKaf.jpg"
+      },
+      {
+        "name": "Christian Clemenson",
+        "character": "Alan Emmerich",
+        "photo": "https://image.tmdb.org/t/p/w500/uki9bmhoR4V4x0E7uVTCj9iZwNy.jpg"
+      },
+      {
+        "name": "Eloise Mumford",
+        "character": "Anna",
+        "photo": "https://image.tmdb.org/t/p/w500/qSZvYfSDO6hyecInknWpcyrQ7Hz.jpg"
+      },
+      {
+        "name": "Michael Gladis",
+        "character": "Whistle Blower",
+        "photo": "https://image.tmdb.org/t/p/w500/4vCeN0HQ4UoSGhFxu7qpN9vtx7z.jpg"
+      },
+      {
+        "name": "Molly Hagan",
+        "character": "Janine",
+        "photo": "https://image.tmdb.org/t/p/w500/m5pL170dlh7ex4lTESAK5kKARde.jpg"
+      },
+      {
+        "name": "Marina Black",
+        "character": "Lorraine Gambizzi",
+        "photo": "https://image.tmdb.org/t/p/w500/qrSai8w4RCcoRNtbkzSQ5FHB53B.jpg"
+      },
+      {
+        "name": "Tim Griffin",
+        "character": "Hitman",
+        "photo": "https://image.tmdb.org/t/p/w500/sJKlW3W5rUyxdR8eslf7ScSe3yw.jpg"
+      },
+      {
+        "name": "Frankie J. Allison",
+        "character": "Barney the Security Guard",
+        "photo": "https://image.tmdb.org/t/p/w500/bgrok3Y8PVUqy2TGNSN7GSH9c7y.jpg"
+      },
+      {
+        "name": "Dan Bakkedahl",
+        "character": "Random Denning Employee",
+        "photo": "https://image.tmdb.org/t/p/w500/zHDMTZe3Xjvut57oTZixURBNDHi.jpg"
+      },
+      {
+        "name": "Alejandro Patiño",
+        "character": "Fernando the Janitor",
+        "photo": "https://image.tmdb.org/t/p/w500/7z7QrMTX4rh4jgKpzJ2mJPQ9HAM.jpg"
+      }
+    ],
+    "director": [
+      "Joe Johnston"
+    ]
   }
 }

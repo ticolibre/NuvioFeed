@@ -17,6 +17,85 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Alfre Woodard",
+      "Richard Schiff",
+      "Aldis Hodge",
+      "Wendell Pierce",
+      "Danielle Brooks",
+      "Michael O'Neill",
+      "Richard Gunn",
+      "LaMonica Garrett",
+      "Vernee Watson",
+      "Dennis Haskins",
+      "John Churchill",
+      "Alex Castillo"
+    ],
+    "app_cast": [
+      {
+        "name": "Alfre Woodard",
+        "character": "Warden Bernadine Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
+      },
+      {
+        "name": "Richard Schiff",
+        "character": "Marty Lumetta",
+        "photo": "https://image.tmdb.org/t/p/w500/1kg1X6OWRuMdBBYqZLQ6UqMlEPC.jpg"
+      },
+      {
+        "name": "Aldis Hodge",
+        "character": "Anthony Woods",
+        "photo": "https://image.tmdb.org/t/p/w500/enDU0pemco1mFxxdLKUzWakC6sk.jpg"
+      },
+      {
+        "name": "Wendell Pierce",
+        "character": "Jonathan Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+      },
+      {
+        "name": "Danielle Brooks",
+        "character": "Evette Wilkinson",
+        "photo": "https://image.tmdb.org/t/p/w500/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg"
+      },
+      {
+        "name": "Michael O'Neill",
+        "character": "Chaplain David Kendricks",
+        "photo": "https://image.tmdb.org/t/p/w500/u9Ejl9iS4ZJ36Y653UCe8huLaOn.jpg"
+      },
+      {
+        "name": "Richard Gunn",
+        "character": "Deputy Thomas Morgan",
+        "photo": "https://image.tmdb.org/t/p/w500/7ODMQSrJSpAZj8DtqtoBKiofotp.jpg"
+      },
+      {
+        "name": "LaMonica Garrett",
+        "character": "Major Logan Cartwright",
+        "photo": "https://image.tmdb.org/t/p/w500/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+      },
+      {
+        "name": "Vernee Watson",
+        "character": "Mrs. Collins",
+        "photo": "https://image.tmdb.org/t/p/w500/rUMtF1F6wrUHHfRkFlLz27xRoxd.jpg"
+      },
+      {
+        "name": "Dennis Haskins",
+        "character": "Mr. Collins",
+        "photo": "https://image.tmdb.org/t/p/w500/kC7SeTVT9WQlGGiWpgCn2ovjYUx.jpg"
+      },
+      {
+        "name": "John Churchill",
+        "character": "Officer Brooks",
+        "photo": "https://image.tmdb.org/t/p/w500/i2p1dOBVCrb1hG3rA0GI8ptdReW.jpg"
+      },
+      {
+        "name": "Alex Castillo",
+        "character": "Victor Jimenez",
+        "photo": "https://image.tmdb.org/t/p/w500/pJ0Ma1ePA9kncJpEIDYEaXGCbfo.jpg"
+      }
+    ],
+    "director": [
+      "Chinonye Chukwu"
+    ]
   }
 }

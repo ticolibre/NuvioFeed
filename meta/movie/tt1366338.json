@@ -19,6 +19,84 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Gabriel Chavarria",
+      "Demián Bichir",
+      "Theo Rossi",
+      "Tony Revolori",
+      "Melissa Benoist",
+      "Yvette Monreal",
+      "Eva Longoria",
+      "Montse Hernandez",
+      "Noel Gugliemi",
+      "Bryan Rubio",
+      "Cress Williams",
+      "Franck Khalfoun"
+    ],
+    "app_cast": [
+      {
+        "name": "Gabriel Chavarria",
+        "character": "Danny Alvarez",
+        "photo": "https://image.tmdb.org/t/p/w500/aLvEXygc9wN4DqTNNY1h69gaEdS.jpg"
+      },
+      {
+        "name": "Demián Bichir",
+        "character": "Miguel Alvarez",
+        "photo": "https://image.tmdb.org/t/p/w500/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+      },
+      {
+        "name": "Theo Rossi",
+        "character": "Francisco 'Ghost' Alvarez",
+        "photo": "https://image.tmdb.org/t/p/w500/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Chuy",
+        "photo": "https://image.tmdb.org/t/p/w500/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+      },
+      {
+        "name": "Melissa Benoist",
+        "character": "Lorelai",
+        "photo": "https://image.tmdb.org/t/p/w500/1F0fCPNhb5W0WyFe8Tszfbx1DEp.jpg"
+      },
+      {
+        "name": "Yvette Monreal",
+        "character": "Claudia",
+        "photo": "https://image.tmdb.org/t/p/w500/ub3IyLYc71IZIRzyUhrqOebRcDp.jpg"
+      },
+      {
+        "name": "Eva Longoria",
+        "character": "Gloria Alvarez",
+        "photo": "https://image.tmdb.org/t/p/w500/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+      },
+      {
+        "name": "Montse Hernandez",
+        "character": "Isabel",
+        "photo": "https://image.tmdb.org/t/p/w500/mQ8tY2ji2fSBnkrKJAsIAxHTZUG.jpg"
+      },
+      {
+        "name": "Noel Gugliemi",
+        "character": "Angel",
+        "photo": "https://image.tmdb.org/t/p/w500/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+      },
+      {
+        "name": "Bryan Rubio",
+        "character": "Gordo"
+      },
+      {
+        "name": "Cress Williams",
+        "character": "Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg"
+      },
+      {
+        "name": "Franck Khalfoun",
+        "character": "Marc Ochs",
+        "photo": "https://image.tmdb.org/t/p/w500/nzXKV3T7fHMBzRWzfYozVl8ZfwQ.jpg"
+      }
+    ],
+    "director": [
+      "Ricardo de Montreuil"
+    ]
   }
 }

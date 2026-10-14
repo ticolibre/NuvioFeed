@@ -17,6 +17,83 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Denzel Washington",
+      "Viola Davis",
+      "Stephen McKinley Henderson",
+      "Jovan Adepo",
+      "Russell Hornsby",
+      "Mykelti Williamson",
+      "Saniyya Sidney",
+      "Lesley Boone",
+      "Christopher Mele",
+      "Jason Silvis",
+      "Tra'Waan Coles",
+      "Joe Fishel"
+    ],
+    "app_cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "Troy Maxson",
+        "photo": "https://image.tmdb.org/t/p/w500/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Viola Davis",
+        "character": "Rose Maxson",
+        "photo": "https://image.tmdb.org/t/p/w500/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "character": "Jim Bono",
+        "photo": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+      },
+      {
+        "name": "Jovan Adepo",
+        "character": "Cory Maxson",
+        "photo": "https://image.tmdb.org/t/p/w500/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+      },
+      {
+        "name": "Russell Hornsby",
+        "character": "Lyons Maxson",
+        "photo": "https://image.tmdb.org/t/p/w500/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Gabriel Maxson",
+        "photo": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "name": "Saniyya Sidney",
+        "character": "Raynell Maxson",
+        "photo": "https://image.tmdb.org/t/p/w500/3GO94ImDSWeFiBIkKpghkcjz0Fk.jpg"
+      },
+      {
+        "name": "Lesley Boone",
+        "character": "Evangelist Preacher",
+        "photo": "https://image.tmdb.org/t/p/w500/gZ0xoKwBDQC6pi3CKV7P0Qg1Szf.jpg"
+      },
+      {
+        "name": "Christopher Mele",
+        "character": "Deputy Commissioner",
+        "photo": "https://image.tmdb.org/t/p/w500/syCDYJwf4UGDlVKLSlK4WLD9Oqt.jpg"
+      },
+      {
+        "name": "Jason Silvis",
+        "character": "Garbage Truck Driver"
+      },
+      {
+        "name": "Tra'Waan Coles",
+        "character": "Towns person"
+      },
+      {
+        "name": "Joe Fishel",
+        "character": "Parade Marcher",
+        "photo": "https://image.tmdb.org/t/p/w500/Aapim9EAy3vY8eeS4n4tnF4iHsY.jpg"
+      }
+    ],
+    "director": [
+      "Denzel Washington"
+    ]
   }
 }

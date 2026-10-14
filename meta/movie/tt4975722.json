@@ -17,6 +17,83 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Trevante Rhodes",
+      "André Holland",
+      "Janelle Monáe",
+      "Ashton Sanders",
+      "Jharrel Jerome",
+      "Alex R. Hibbert",
+      "Jaden Piner",
+      "Naomie Harris",
+      "Mahershala Ali",
+      "Shariff Earp",
+      "Duan Sanderson",
+      "Herman 'Caheei McGloun"
+    ],
+    "app_cast": [
+      {
+        "name": "Trevante Rhodes",
+        "character": "Black",
+        "photo": "https://image.tmdb.org/t/p/w500/mx11nZOnT5nZbuzFi3TPVBQBZr.jpg"
+      },
+      {
+        "name": "André Holland",
+        "character": "Kevin",
+        "photo": "https://image.tmdb.org/t/p/w500/riYqFOgYLYH4Hw8p2JYTw5lXGDE.jpg"
+      },
+      {
+        "name": "Janelle Monáe",
+        "character": "Teresa",
+        "photo": "https://image.tmdb.org/t/p/w500/eTYG6eBH1LzLWcdQJaH72Wzxemm.jpg"
+      },
+      {
+        "name": "Ashton Sanders",
+        "character": "Chiron",
+        "photo": "https://image.tmdb.org/t/p/w500/2hMKOd6TLQWwLAS6ztUcZj8IZAC.jpg"
+      },
+      {
+        "name": "Jharrel Jerome",
+        "character": "Kevin Age 16",
+        "photo": "https://image.tmdb.org/t/p/w500/zH840Fv86TixTLVZKzPZJJacphd.jpg"
+      },
+      {
+        "name": "Alex R. Hibbert",
+        "character": "Little",
+        "photo": "https://image.tmdb.org/t/p/w500/nGUjQOlY1pqsJtiWrui2ylzkmBm.jpg"
+      },
+      {
+        "name": "Jaden Piner",
+        "character": "Kevin Age 9",
+        "photo": "https://image.tmdb.org/t/p/w500/9fNbkVJ7qdOiXsj9wYuWCsfJiIO.jpg"
+      },
+      {
+        "name": "Naomie Harris",
+        "character": "Paula",
+        "photo": "https://image.tmdb.org/t/p/w500/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+      },
+      {
+        "name": "Mahershala Ali",
+        "character": "Juan",
+        "photo": "https://image.tmdb.org/t/p/w500/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+      },
+      {
+        "name": "Shariff Earp",
+        "character": "Terrence",
+        "photo": "https://image.tmdb.org/t/p/w500/1i2uuhUHDBmtSBLq6gpnGI50sBf.jpg"
+      },
+      {
+        "name": "Duan Sanderson",
+        "character": "Azu"
+      },
+      {
+        "name": "Herman 'Caheei McGloun",
+        "character": "Longshoreman"
+      }
+    ],
+    "director": [
+      "Barry Jenkins"
+    ]
   }
 }

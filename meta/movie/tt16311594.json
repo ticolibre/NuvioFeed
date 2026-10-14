@@ -18,6 +18,85 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Brad Pitt",
+      "Damson Idris",
+      "Javier Bardem",
+      "Kerry Condon",
+      "Tobias Menzies",
+      "Kim Bodnia",
+      "Sarah Niles",
+      "Will Merrick",
+      "Joseph Balderrama",
+      "Abdul Salis",
+      "Callie Cooke",
+      "Samson Kayo"
+    ],
+    "app_cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Sonny Hayes",
+        "photo": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "name": "Damson Idris",
+        "character": "Joshua Pearce",
+        "photo": "https://image.tmdb.org/t/p/w500/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Ruben Cervantes",
+        "photo": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Kate McKenna",
+        "photo": "https://image.tmdb.org/t/p/w500/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+      },
+      {
+        "name": "Tobias Menzies",
+        "character": "Peter Banning",
+        "photo": "https://image.tmdb.org/t/p/w500/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+      },
+      {
+        "name": "Kim Bodnia",
+        "character": "Kaspar Smolinski",
+        "photo": "https://image.tmdb.org/t/p/w500/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+      },
+      {
+        "name": "Sarah Niles",
+        "character": "Bernadette",
+        "photo": "https://image.tmdb.org/t/p/w500/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+      },
+      {
+        "name": "Will Merrick",
+        "character": "Nickleby",
+        "photo": "https://image.tmdb.org/t/p/w500/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+      },
+      {
+        "name": "Joseph Balderrama",
+        "character": "Fazio",
+        "photo": "https://image.tmdb.org/t/p/w500/8BwRFsXzWD25dPih6IePcRD3EjT.jpg"
+      },
+      {
+        "name": "Abdul Salis",
+        "character": "Dodge",
+        "photo": "https://image.tmdb.org/t/p/w500/2gDH3kNzUr4IUZLbCiYR9OCTjGa.jpg"
+      },
+      {
+        "name": "Callie Cooke",
+        "character": "Jodie",
+        "photo": "https://image.tmdb.org/t/p/w500/kAKeZuL0ILQCtjIWniCnqmwpvNx.jpg"
+      },
+      {
+        "name": "Samson Kayo",
+        "character": "Cash",
+        "photo": "https://image.tmdb.org/t/p/w500/jyGT8cgl6MEANOpRKoHgXaC1yp6.jpg"
+      }
+    ],
+    "director": [
+      "Joseph Kosinski"
+    ]
   }
 }

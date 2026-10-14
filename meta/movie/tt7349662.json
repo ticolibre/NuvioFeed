@@ -20,6 +20,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "John David Washington",
+      "Adam Driver",
+      "Topher Grace",
+      "Laura Harrier",
+      "Alec Baldwin",
+      "Jasper Pääkkönen",
+      "Corey Hawkins",
+      "Paul Walter Hauser",
+      "Ryan Eggold",
+      "Isiah Whitlock Jr.",
+      "Robert John Burke",
+      "Brian Tarantina"
+    ],
+    "app_cast": [
+      {
+        "name": "John David Washington",
+        "character": "Ron Stallworth",
+        "photo": "https://image.tmdb.org/t/p/w500/27C77ni5XmlgkJVbomXPC4tHWVd.jpg"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Flip Zimmerman",
+        "photo": "https://image.tmdb.org/t/p/w500/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "David Duke",
+        "photo": "https://image.tmdb.org/t/p/w500/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+      },
+      {
+        "name": "Laura Harrier",
+        "character": "Patrice Dumas",
+        "photo": "https://image.tmdb.org/t/p/w500/hYS8z1DxP6jvsBNXMRALiSI3nhw.jpg"
+      },
+      {
+        "name": "Alec Baldwin",
+        "character": "Dr. Kennebrew Beauregard",
+        "photo": "https://image.tmdb.org/t/p/w500/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+      },
+      {
+        "name": "Jasper Pääkkönen",
+        "character": "Felix Kendrickson",
+        "photo": "https://image.tmdb.org/t/p/w500/6H80CzneYDcDIErQP9BKcYf8gZr.jpg"
+      },
+      {
+        "name": "Corey Hawkins",
+        "character": "Kwame Ture",
+        "photo": "https://image.tmdb.org/t/p/w500/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+      },
+      {
+        "name": "Paul Walter Hauser",
+        "character": "Ivanhoe",
+        "photo": "https://image.tmdb.org/t/p/w500/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+      },
+      {
+        "name": "Ryan Eggold",
+        "character": "Walter Breachway",
+        "photo": "https://image.tmdb.org/t/p/w500/6YZfGMzcugWwMquOIzGlsgx4wYN.jpg"
+      },
+      {
+        "name": "Isiah Whitlock Jr.",
+        "character": "Mr. Turrentine",
+        "photo": "https://image.tmdb.org/t/p/w500/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg"
+      },
+      {
+        "name": "Robert John Burke",
+        "character": "Chief Bridges",
+        "photo": "https://image.tmdb.org/t/p/w500/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+      },
+      {
+        "name": "Brian Tarantina",
+        "character": "Officer Clay Mulaney",
+        "photo": "https://image.tmdb.org/t/p/w500/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+      }
+    ],
+    "director": [
+      "Spike Lee"
+    ]
   }
 }

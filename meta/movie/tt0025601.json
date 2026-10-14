@@ -18,6 +18,84 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Grace Moore",
+      "Tullio Carminati",
+      "Lyle Talbot",
+      "Mona Barrie",
+      "Jessie Ralph",
+      "Luis Alberni",
+      "Andrés de Segurola",
+      "Rosemary Glosz",
+      "Nydia Westman",
+      "Henry Armetta",
+      "Reginald Barlow",
+      "Herman Bing"
+    ],
+    "app_cast": [
+      {
+        "name": "Grace Moore",
+        "character": "Mary Barrett",
+        "photo": "https://image.tmdb.org/t/p/w500/2p7vshkPsTLCReoFvaBjOmfLWfa.jpg"
+      },
+      {
+        "name": "Tullio Carminati",
+        "character": "Giulio Monteverdi",
+        "photo": "https://image.tmdb.org/t/p/w500/dMeoF46we9MvKT3vM5MU25p1skX.jpg"
+      },
+      {
+        "name": "Lyle Talbot",
+        "character": "Bill Houston",
+        "photo": "https://image.tmdb.org/t/p/w500/a4rVESEvJg6VRd23M6FLRjlfsta.jpg"
+      },
+      {
+        "name": "Mona Barrie",
+        "character": "Lally",
+        "photo": "https://image.tmdb.org/t/p/w500/o2Mzqhjq0YISSrnDlByHuhmD1f2.jpg"
+      },
+      {
+        "name": "Jessie Ralph",
+        "character": "Angelina",
+        "photo": "https://image.tmdb.org/t/p/w500/gy4W2M3Jpi4kb7NTc6MPHUhHgc0.jpg"
+      },
+      {
+        "name": "Luis Alberni",
+        "character": "Giovanni",
+        "photo": "https://image.tmdb.org/t/p/w500/l9T44h8op9ZT3Xx0RrhAzT6jaMc.jpg"
+      },
+      {
+        "name": "Andrés de Segurola",
+        "character": "Galuppi",
+        "photo": "https://image.tmdb.org/t/p/w500/7rTBcgY7XHoXFQF9alGTyCa85te.jpg"
+      },
+      {
+        "name": "Rosemary Glosz",
+        "character": "Frappazini"
+      },
+      {
+        "name": "Nydia Westman",
+        "character": "Muriel",
+        "photo": "https://image.tmdb.org/t/p/w500/tWVAHJxbOpktW22y5dyiAlvn3uW.jpg"
+      },
+      {
+        "name": "Henry Armetta",
+        "character": "Cafe Owner",
+        "photo": "https://image.tmdb.org/t/p/w500/9Bvd4g9QaFoMtYm3VYpJeAa9R3I.jpg"
+      },
+      {
+        "name": "Reginald Barlow",
+        "character": "Stage Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/ba1tF6xNUWFYgxQ4pmd0Z3nqG20.jpg"
+      },
+      {
+        "name": "Herman Bing",
+        "character": "Vegetable Man",
+        "photo": "https://image.tmdb.org/t/p/w500/62SmiO7zFXABLqJeKbLjIjc0FHl.jpg"
+      }
+    ],
+    "director": [
+      "Victor Schertzinger"
+    ]
   }
 }

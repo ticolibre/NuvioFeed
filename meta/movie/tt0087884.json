@@ -17,6 +17,80 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell",
+      "Hunter Carson",
+      "Aurore Clément",
+      "Bernhard Wicki",
+      "Sam Berry",
+      "Claresie Mobley",
+      "Viva",
+      "Socorro Valdez",
+      "Edward Fayton",
+      "Justin Hogg"
+    ],
+    "app_cast": [
+      {
+        "name": "Harry Dean Stanton",
+        "character": "Travis",
+        "photo": "https://image.tmdb.org/t/p/w500/9zOTpVMwMHNjPFBNoPy9vOBT1NC.jpg"
+      },
+      {
+        "name": "Nastassja Kinski",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/1o5i8C3eX612uky7fAI3YMGnaDF.jpg"
+      },
+      {
+        "name": "Dean Stockwell",
+        "character": "Walt",
+        "photo": "https://image.tmdb.org/t/p/w500/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg"
+      },
+      {
+        "name": "Hunter Carson",
+        "character": "Hunter",
+        "photo": "https://image.tmdb.org/t/p/w500/75DvinRibsEYKDasdBM7iiqJ9L9.jpg"
+      },
+      {
+        "name": "Aurore Clément",
+        "character": "Anne",
+        "photo": "https://image.tmdb.org/t/p/w500/mS97i9fMcFAu1RqYbFlh3g4JdE4.jpg"
+      },
+      {
+        "name": "Bernhard Wicki",
+        "character": "Doctor Ulmer",
+        "photo": "https://image.tmdb.org/t/p/w500/yx0u2ipHqHIZO9dqEFopcs6mnk3.jpg"
+      },
+      {
+        "name": "Sam Berry",
+        "character": "Gas Station Attendant"
+      },
+      {
+        "name": "Claresie Mobley",
+        "character": "Car Rental Clerk"
+      },
+      {
+        "name": "Viva",
+        "character": "Woman on TV",
+        "photo": "https://image.tmdb.org/t/p/w500/as8RgWBNvRKF6nTEd1ZcDVius7M.jpg"
+      },
+      {
+        "name": "Socorro Valdez",
+        "character": "Carmelita"
+      },
+      {
+        "name": "Edward Fayton",
+        "character": "Hunter's Friend"
+      },
+      {
+        "name": "Justin Hogg",
+        "character": "Hunter (Age 3)"
+      }
+    ],
+    "director": [
+      "Wim Wenders"
+    ]
   }
 }

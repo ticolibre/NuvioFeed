@@ -19,6 +19,31 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Samantha Morton",
+      "Naomi Ackie",
+      "Hector Hewer"
+    ],
+    "app_cast": [
+      {
+        "name": "Samantha Morton",
+        "character": "Ghost",
+        "photo": "https://image.tmdb.org/t/p/w500/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
+      },
+      {
+        "name": "Naomi Ackie",
+        "character": "Professor",
+        "photo": "https://image.tmdb.org/t/p/w500/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+      },
+      {
+        "name": "Hector Hewer",
+        "character": "Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/5po93d6H1qJutAvDZLkmPBDBTS4.jpg"
+      }
+    ],
+    "director": [
+      "Asif Kapadia"
+    ]
   }
 }

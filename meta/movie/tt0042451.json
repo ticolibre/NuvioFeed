@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Spencer Tracy",
+      "Joan Bennett",
+      "Elizabeth Taylor",
+      "Don Taylor",
+      "Billie Burke",
+      "Leo G. Carroll",
+      "Moroni Olsen",
+      "Melville Cooper",
+      "Taylor Holmes",
+      "Paul Harvey",
+      "Frank Orth",
+      "Russ Tamblyn"
+    ],
+    "app_cast": [
+      {
+        "name": "Spencer Tracy",
+        "character": "Stanley T. Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/aUZUlQjiWvl23stKXzxycb31sen.jpg"
+      },
+      {
+        "name": "Joan Bennett",
+        "character": "Ellie Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/3xKU8SKCytMMBeIXzfZXvwaq0oO.jpg"
+      },
+      {
+        "name": "Elizabeth Taylor",
+        "character": "Kay Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Don Taylor",
+        "character": "Buckley Dunstan",
+        "photo": "https://image.tmdb.org/t/p/w500/6Gg2DR2oP3qUPTEomlJi7i4dne9.jpg"
+      },
+      {
+        "name": "Billie Burke",
+        "character": "Doris Dunstan",
+        "photo": "https://image.tmdb.org/t/p/w500/gciSUzrGMI1BHDxiElw8KEcIOVW.jpg"
+      },
+      {
+        "name": "Leo G. Carroll",
+        "character": "Mr. Massoula",
+        "photo": "https://image.tmdb.org/t/p/w500/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+      },
+      {
+        "name": "Moroni Olsen",
+        "character": "Herbert Dunstan",
+        "photo": "https://image.tmdb.org/t/p/w500/xJ56TNofwpQH3b0UAs8spNq35OR.jpg"
+      },
+      {
+        "name": "Melville Cooper",
+        "character": "Mr. Tringle",
+        "photo": "https://image.tmdb.org/t/p/w500/qtrkqGRWA1kmud8NG3W44cpjIHc.jpg"
+      },
+      {
+        "name": "Taylor Holmes",
+        "character": "Warner",
+        "photo": "https://image.tmdb.org/t/p/w500/3Ry2FISteIUevnkrEyUnByuIaHy.jpg"
+      },
+      {
+        "name": "Paul Harvey",
+        "character": "Reverend Galsworthy",
+        "photo": "https://image.tmdb.org/t/p/w500/krviQRcmljOEjFtKAfzXQNgmgES.jpg"
+      },
+      {
+        "name": "Frank Orth",
+        "character": "Joe",
+        "photo": "https://image.tmdb.org/t/p/w500/s8yUbtAu6wueQjDRncuSX6x6ZUt.jpg"
+      },
+      {
+        "name": "Russ Tamblyn",
+        "character": "Tommy Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+      }
+    ],
+    "director": [
+      "Vincente Minnelli"
+    ]
   }
 }

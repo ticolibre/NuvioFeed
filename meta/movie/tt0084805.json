@@ -18,6 +18,84 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Dustin Hoffman",
+      "Jessica Lange",
+      "Teri Garr",
+      "Dabney Coleman",
+      "Charles Durning",
+      "Bill Murray",
+      "Sydney Pollack",
+      "George Gaynes",
+      "Geena Davis",
+      "Doris Belack",
+      "Ellen Foley",
+      "Peter Gatto"
+    ],
+    "app_cast": [
+      {
+        "name": "Dustin Hoffman",
+        "character": "Michael Dorsey / Dorothy Michaels",
+        "photo": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+      },
+      {
+        "name": "Jessica Lange",
+        "character": "Julie Nichols",
+        "photo": "https://image.tmdb.org/t/p/w500/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+      },
+      {
+        "name": "Teri Garr",
+        "character": "Sandy Lester",
+        "photo": "https://image.tmdb.org/t/p/w500/iscVncnCVtM8Wl4FmcEkr6KDtRE.jpg"
+      },
+      {
+        "name": "Dabney Coleman",
+        "character": "Ron Carlisle",
+        "photo": "https://image.tmdb.org/t/p/w500/wfYLBxqwRUB15FaDGEolL0lgSA5.jpg"
+      },
+      {
+        "name": "Charles Durning",
+        "character": "Les Nichols",
+        "photo": "https://image.tmdb.org/t/p/w500/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+      },
+      {
+        "name": "Bill Murray",
+        "character": "Jeff Slater",
+        "photo": "https://image.tmdb.org/t/p/w500/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Sydney Pollack",
+        "character": "George Fields",
+        "photo": "https://image.tmdb.org/t/p/w500/l6Sq7iEakN4eCeMXyZuloc5VIJO.jpg"
+      },
+      {
+        "name": "George Gaynes",
+        "character": "John Van Horn",
+        "photo": "https://image.tmdb.org/t/p/w500/6NrhrTrjwpR55wffPDdCz7lNNHA.jpg"
+      },
+      {
+        "name": "Geena Davis",
+        "character": "April",
+        "photo": "https://image.tmdb.org/t/p/w500/jNsZLedzKPuyUmgnvpRpP5oG3Wr.jpg"
+      },
+      {
+        "name": "Doris Belack",
+        "character": "Rita",
+        "photo": "https://image.tmdb.org/t/p/w500/16m9TcY0LsIslYEpOjAhmkGg7fr.jpg"
+      },
+      {
+        "name": "Ellen Foley",
+        "character": "Jacqui",
+        "photo": "https://image.tmdb.org/t/p/w500/80OuOOR0WjvhnDcz96R8XH2BPmy.jpg"
+      },
+      {
+        "name": "Peter Gatto",
+        "character": "Rick"
+      }
+    ],
+    "director": [
+      "Sydney Pollack"
+    ]
   }
 }

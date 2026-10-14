@@ -17,6 +17,84 @@
           "rating": "8.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Emma Stone",
+      "Viola Davis",
+      "Bryce Dallas Howard",
+      "Octavia Spencer",
+      "Jessica Chastain",
+      "Ahna O'Reilly",
+      "Allison Janney",
+      "Anna Camp",
+      "Eleanor Henry",
+      "Emma Henry",
+      "Chris Lowell",
+      "Cicely Tyson"
+    ],
+    "app_cast": [
+      {
+        "name": "Emma Stone",
+        "character": "Skeeter Phelan",
+        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "Viola Davis",
+        "character": "Aibileen Clark",
+        "photo": "https://image.tmdb.org/t/p/w500/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Hilly Holbrook",
+        "photo": "https://image.tmdb.org/t/p/w500/fmXhf4rJOrzc3QWwxVbNd7kP8wy.jpg"
+      },
+      {
+        "name": "Octavia Spencer",
+        "character": "Minny Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Celia Foote",
+        "photo": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+      },
+      {
+        "name": "Ahna O'Reilly",
+        "character": "Elizabeth Leefolt",
+        "photo": "https://image.tmdb.org/t/p/w500/9FvuLLjjHUqzbzhjX8ougHBrBjM.jpg"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Charlotte Phelan",
+        "photo": "https://image.tmdb.org/t/p/w500/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+      },
+      {
+        "name": "Anna Camp",
+        "character": "Jolene French",
+        "photo": "https://image.tmdb.org/t/p/w500/32H0SJbTK3tvLVgf3X1aiaUdcxe.jpg"
+      },
+      {
+        "name": "Eleanor Henry",
+        "character": "Mae Mobley",
+        "photo": "https://image.tmdb.org/t/p/w500/bRBiBFwyE7v9vj3gJXsDBGQ8mBm.jpg"
+      },
+      {
+        "name": "Emma Henry",
+        "character": "Mae Mobley"
+      },
+      {
+        "name": "Chris Lowell",
+        "character": "Stuart Whitworth",
+        "photo": "https://image.tmdb.org/t/p/w500/mRZcivH2VjWRB1mQuOvRuRC2Lll.jpg"
+      },
+      {
+        "name": "Cicely Tyson",
+        "character": "Constantine Jefferson",
+        "photo": "https://image.tmdb.org/t/p/w500/iaQjeWcfENq6WYbQK078Vwrb8qf.jpg"
+      }
+    ],
+    "director": [
+      "Tate Taylor"
+    ]
   }
 }

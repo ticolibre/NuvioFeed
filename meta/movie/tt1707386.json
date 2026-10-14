@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Hugh Jackman",
+      "Russell Crowe",
+      "Amanda Seyfried",
+      "Anne Hathaway",
+      "Eddie Redmayne",
+      "Sacha Baron Cohen",
+      "Helena Bonham Carter",
+      "Aaron Tveit",
+      "Samantha Barks",
+      "Daniel Huttlestone",
+      "Fra Fee",
+      "Hugh Skinner"
+    ],
+    "app_cast": [
+      {
+        "name": "Hugh Jackman",
+        "character": "Jean Valjean",
+        "photo": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+      },
+      {
+        "name": "Russell Crowe",
+        "character": "Javert",
+        "photo": "https://image.tmdb.org/t/p/w500/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+      },
+      {
+        "name": "Amanda Seyfried",
+        "character": "Cosette",
+        "photo": "https://image.tmdb.org/t/p/w500/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Fantine",
+        "photo": "https://image.tmdb.org/t/p/w500/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+      },
+      {
+        "name": "Eddie Redmayne",
+        "character": "Marius Pontmercy",
+        "photo": "https://image.tmdb.org/t/p/w500/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "character": "Monsieur Thénardier",
+        "photo": "https://image.tmdb.org/t/p/w500/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Madame Thénardier",
+        "photo": "https://image.tmdb.org/t/p/w500/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "name": "Aaron Tveit",
+        "character": "Enjolras",
+        "photo": "https://image.tmdb.org/t/p/w500/r69Yb2Az5oRpop6ZJMDhjQ4qfN0.jpg"
+      },
+      {
+        "name": "Samantha Barks",
+        "character": "Éponine Thénardier",
+        "photo": "https://image.tmdb.org/t/p/w500/5JiD8sbwXcDnr6CqCBurFVCWwun.jpg"
+      },
+      {
+        "name": "Daniel Huttlestone",
+        "character": "Gavroche",
+        "photo": "https://image.tmdb.org/t/p/w500/iYDzqUvdrTSrudJ2minBShloyxH.jpg"
+      },
+      {
+        "name": "Fra Fee",
+        "character": "Courfeyrac",
+        "photo": "https://image.tmdb.org/t/p/w500/1UnZxfqaRTpoqpafM9PEAvlHAc7.jpg"
+      },
+      {
+        "name": "Hugh Skinner",
+        "character": "Joly",
+        "photo": "https://image.tmdb.org/t/p/w500/7MHdNxS1gRnx0ZQGPrfS5eRjMe3.jpg"
+      }
+    ],
+    "director": [
+      "Tom Hooper"
+    ]
   }
 }

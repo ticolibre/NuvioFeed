@@ -21,6 +21,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Ingrid Bergman",
+      "Gregory Peck",
+      "Michael Chekhov",
+      "Leo G. Carroll",
+      "Rhonda Fleming",
+      "John Emery",
+      "Norman Lloyd",
+      "Bill Goodwin",
+      "Steven Geray",
+      "Donald Curtis",
+      "Wallace Ford",
+      "Art Baker"
+    ],
+    "app_cast": [
+      {
+        "name": "Ingrid Bergman",
+        "character": "Dr. Constance Petersen",
+        "photo": "https://image.tmdb.org/t/p/w500/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+      },
+      {
+        "name": "Gregory Peck",
+        "character": "John Ballantine",
+        "photo": "https://image.tmdb.org/t/p/w500/8EkjKu6OJPpEwpARpxVh6yd1f9k.jpg"
+      },
+      {
+        "name": "Michael Chekhov",
+        "character": "Dr. Alexander Brulov",
+        "photo": "https://image.tmdb.org/t/p/w500/me5CPJq6HrZlsGGdfyhxriVV750.jpg"
+      },
+      {
+        "name": "Leo G. Carroll",
+        "character": "Dr. Murchison",
+        "photo": "https://image.tmdb.org/t/p/w500/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+      },
+      {
+        "name": "Rhonda Fleming",
+        "character": "Mary Carmichael",
+        "photo": "https://image.tmdb.org/t/p/w500/icEoh2kp7suY2BLNAVlWkuMjnRi.jpg"
+      },
+      {
+        "name": "John Emery",
+        "character": "Dr. Fleurot",
+        "photo": "https://image.tmdb.org/t/p/w500/kuzWbz3ACuW8UeD5CX90uSjMdYn.jpg"
+      },
+      {
+        "name": "Norman Lloyd",
+        "character": "Mr. Garmes",
+        "photo": "https://image.tmdb.org/t/p/w500/z7jg1zuFfC5jqn4kI40OGAOrD5U.jpg"
+      },
+      {
+        "name": "Bill Goodwin",
+        "character": "House Detective",
+        "photo": "https://image.tmdb.org/t/p/w500/uF4N4A29rgRH1ARfqdll8xXJdgo.jpg"
+      },
+      {
+        "name": "Steven Geray",
+        "character": "Dr. Graff",
+        "photo": "https://image.tmdb.org/t/p/w500/7DIDhL4PGClAHMNDKWM9Gt3nvcX.jpg"
+      },
+      {
+        "name": "Donald Curtis",
+        "character": "Harry",
+        "photo": "https://image.tmdb.org/t/p/w500/2VrI2eZXGhESrx9E5EuAbGtqkFF.jpg"
+      },
+      {
+        "name": "Wallace Ford",
+        "character": "Stranger in Hotel Lobby",
+        "photo": "https://image.tmdb.org/t/p/w500/icHpMpE6QRTGgIACyCLtfjlqSEG.jpg"
+      },
+      {
+        "name": "Art Baker",
+        "character": "Det. Lt. Cooley",
+        "photo": "https://image.tmdb.org/t/p/w500/g0uEezuImx8wNnWZXsdIvo0Ze7s.jpg"
+      }
+    ],
+    "director": [
+      "Alfred Hitchcock"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Paul Muni",
+      "Gale Sondergaard",
+      "Joseph Schildkraut",
+      "Gloria Holden",
+      "Donald Crisp",
+      "Erin O'Brien-Moore",
+      "John Litel",
+      "Henry O'Neill",
+      "Morris Carnovsky",
+      "Louis Calhern",
+      "Ralph Morgan",
+      "Robert Barrat"
+    ],
+    "app_cast": [
+      {
+        "name": "Paul Muni",
+        "character": "Emile Zola",
+        "photo": "https://image.tmdb.org/t/p/w500/zBWkurrylrxKRmcOmN7bI9XlmBn.jpg"
+      },
+      {
+        "name": "Gale Sondergaard",
+        "character": "Lucie Dreyfus",
+        "photo": "https://image.tmdb.org/t/p/w500/qIM4YO2sWBzdGOCAZctZjPcUK2c.jpg"
+      },
+      {
+        "name": "Joseph Schildkraut",
+        "character": "Capt. Alfred Dreyfus",
+        "photo": "https://image.tmdb.org/t/p/w500/vhcQACFWxEt1HttbGcgB7vcBYLS.jpg"
+      },
+      {
+        "name": "Gloria Holden",
+        "character": "Alexandrine Zola",
+        "photo": "https://image.tmdb.org/t/p/w500/cuyP722J6jgs1cltb2KzmyZ5Pcr.jpg"
+      },
+      {
+        "name": "Donald Crisp",
+        "character": "Maitre Labori",
+        "photo": "https://image.tmdb.org/t/p/w500/MEPq09iLEwJVrxw1T97qOILhk6.jpg"
+      },
+      {
+        "name": "Erin O'Brien-Moore",
+        "character": "Nana",
+        "photo": "https://image.tmdb.org/t/p/w500/mPZE2aLIo4tJaoCH95i3hVNzr2L.jpg"
+      },
+      {
+        "name": "John Litel",
+        "character": "Charpentier",
+        "photo": "https://image.tmdb.org/t/p/w500/cH4K9uyqAjUWKZjBq0nA8VyOe14.jpg"
+      },
+      {
+        "name": "Henry O'Neill",
+        "character": "Colonel Picquart",
+        "photo": "https://image.tmdb.org/t/p/w500/2jrV5PWrFNtnecl0Ls6zOJOp1EI.jpg"
+      },
+      {
+        "name": "Morris Carnovsky",
+        "character": "Anatole France",
+        "photo": "https://image.tmdb.org/t/p/w500/2I2o2LrjnY37ptKSQwOvFFG1zkL.jpg"
+      },
+      {
+        "name": "Louis Calhern",
+        "character": "Major Dort",
+        "photo": "https://image.tmdb.org/t/p/w500/80l4tBYFQ08GLFk9wjilThyM8H.jpg"
+      },
+      {
+        "name": "Ralph Morgan",
+        "character": "Commander of Paris",
+        "photo": "https://image.tmdb.org/t/p/w500/5By4MqjMaQY7aOx1kninnw5331N.jpg"
+      },
+      {
+        "name": "Robert Barrat",
+        "character": "Major Walsin-Esterhazy",
+        "photo": "https://image.tmdb.org/t/p/w500/beNgSV6zWEfGV1ikiPGz94uMbOS.jpg"
+      }
+    ],
+    "director": [
+      "William Dieterle"
+    ]
   }
 }

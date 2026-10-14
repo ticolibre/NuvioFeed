@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael Keaton",
+      "Emma Stone",
+      "Zach Galifianakis",
+      "Edward Norton",
+      "Andrea Riseborough",
+      "Naomi Watts",
+      "Amy Ryan",
+      "Lindsay Duncan",
+      "Merritt Wever",
+      "Jeremy Shamos",
+      "Damian Young",
+      "Kenny Chin"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael Keaton",
+        "character": "Riggan",
+        "photo": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "Zach Galifianakis",
+        "character": "Jake",
+        "photo": "https://image.tmdb.org/t/p/w500/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+      },
+      {
+        "name": "Andrea Riseborough",
+        "character": "Laura",
+        "photo": "https://image.tmdb.org/t/p/w500/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+      },
+      {
+        "name": "Naomi Watts",
+        "character": "Lesley",
+        "photo": "https://image.tmdb.org/t/p/w500/7ysvff7ZhW388SIh2YjQ0XIryOn.jpg"
+      },
+      {
+        "name": "Amy Ryan",
+        "character": "Sylvia",
+        "photo": "https://image.tmdb.org/t/p/w500/rE0YBJr3R6GcKu6Gw4K2lGW0ctC.jpg"
+      },
+      {
+        "name": "Lindsay Duncan",
+        "character": "Tabitha",
+        "photo": "https://image.tmdb.org/t/p/w500/sgyf4vOUs5KlRmp4Uuw7UXKjU2b.jpg"
+      },
+      {
+        "name": "Merritt Wever",
+        "character": "Annie",
+        "photo": "https://image.tmdb.org/t/p/w500/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+      },
+      {
+        "name": "Jeremy Shamos",
+        "character": "Ralph",
+        "photo": "https://image.tmdb.org/t/p/w500/4nEMfWgNBdBhzdzNGCOHyW941EC.jpg"
+      },
+      {
+        "name": "Damian Young",
+        "character": "Gabriel",
+        "photo": "https://image.tmdb.org/t/p/w500/bvUhCL4CGNw0StkG8XaU07VueH5.jpg"
+      },
+      {
+        "name": "Kenny Chin",
+        "character": "Korean Grocer",
+        "photo": "https://image.tmdb.org/t/p/w500/i2Msjdl4nkZ6GGBagHg3opxb33f.jpg"
+      }
+    ],
+    "director": [
+      "Alejandro G. Iñárritu"
+    ]
   }
 }

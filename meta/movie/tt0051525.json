@@ -20,6 +20,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Tony Curtis",
+      "Sidney Poitier",
+      "Theodore Bikel",
+      "Charles McGraw",
+      "Lon Chaney Jr.",
+      "King Donovan",
+      "Claude Akins",
+      "Lawrence Dobkin",
+      "Whit Bissell",
+      "Carl Switzer",
+      "Kevin Coughlin",
+      "Cara Williams"
+    ],
+    "app_cast": [
+      {
+        "name": "Tony Curtis",
+        "character": "John 'Joker' Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+      },
+      {
+        "name": "Sidney Poitier",
+        "character": "Noah Cullen",
+        "photo": "https://image.tmdb.org/t/p/w500/fhMiCe3ScxBGKEX6Y6flEJm7iHd.jpg"
+      },
+      {
+        "name": "Theodore Bikel",
+        "character": "Sheriff Max Muller",
+        "photo": "https://image.tmdb.org/t/p/w500/mYiM4fRl9xpGRBf6gSAPekvcaj8.jpg"
+      },
+      {
+        "name": "Charles McGraw",
+        "character": "Capt. Frank Gibbons",
+        "photo": "https://image.tmdb.org/t/p/w500/ufUi3tG67j3WWWnMvbl2x8cDryU.jpg"
+      },
+      {
+        "name": "Lon Chaney Jr.",
+        "character": "Big Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/4DHZ2jXQFbTuslsaOmrmrJ9HMMd.jpg"
+      },
+      {
+        "name": "King Donovan",
+        "character": "Solly",
+        "photo": "https://image.tmdb.org/t/p/w500/wyLgxA4EwT1PdYD28Ya1Z1IvWO.jpg"
+      },
+      {
+        "name": "Claude Akins",
+        "character": "Mack",
+        "photo": "https://image.tmdb.org/t/p/w500/bPj4MN7pI96WiIp0vK7cyNY0wtX.jpg"
+      },
+      {
+        "name": "Lawrence Dobkin",
+        "character": "Editor",
+        "photo": "https://image.tmdb.org/t/p/w500/3GnsSfYAspOTILATAKjumIzJggd.jpg"
+      },
+      {
+        "name": "Whit Bissell",
+        "character": "Lou Gans",
+        "photo": "https://image.tmdb.org/t/p/w500/ctpL0dPAv6n9ArbWRK1Cet0wvqk.jpg"
+      },
+      {
+        "name": "Carl Switzer",
+        "character": "Angus",
+        "photo": "https://image.tmdb.org/t/p/w500/vCkSMW92oos0CtHGXJiMk8fl8c0.jpg"
+      },
+      {
+        "name": "Kevin Coughlin",
+        "character": "Billy",
+        "photo": "https://image.tmdb.org/t/p/w500/l8t3ErM6le0a1UauhBRSW5OPBkq.jpg"
+      },
+      {
+        "name": "Cara Williams",
+        "character": "Billy's mother",
+        "photo": "https://image.tmdb.org/t/p/w500/iMj4MvTC8gjSCq5obLOces7FXmY.jpg"
+      }
+    ],
+    "director": [
+      "Stanley Kramer"
+    ]
   }
 }

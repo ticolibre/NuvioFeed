@@ -17,6 +17,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Burt Lancaster",
+      "Claudia Cardinale",
+      "Alain Delon",
+      "Paolo Stoppa",
+      "Rina Morelli",
+      "Romolo Valli",
+      "Terence Hill",
+      "Pierre Clémenti",
+      "Lucilla Morlacchi",
+      "Giuliano Gemma",
+      "Ida Galli",
+      "Ottavia Piccolo"
+    ],
+    "app_cast": [
+      {
+        "name": "Burt Lancaster",
+        "character": "Prince Fabrizio Corbera of Salina",
+        "photo": "https://image.tmdb.org/t/p/w500/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+      },
+      {
+        "name": "Claudia Cardinale",
+        "character": "Angelica Sedara / Bastiana",
+        "photo": "https://image.tmdb.org/t/p/w500/gbTVdZGrOwteJ7qYSzyn8XpUk0H.jpg"
+      },
+      {
+        "name": "Alain Delon",
+        "character": "Tancredi Falconeri",
+        "photo": "https://image.tmdb.org/t/p/w500/u4nu4YAQfwuy5Dnxlk28Z5eNA1S.jpg"
+      },
+      {
+        "name": "Paolo Stoppa",
+        "character": "Don Calogero Sedara",
+        "photo": "https://image.tmdb.org/t/p/w500/3JMNHmi8734eaMT5zh453DsaaEo.jpg"
+      },
+      {
+        "name": "Rina Morelli",
+        "character": "Princess Maria Stella Corbera of Salina",
+        "photo": "https://image.tmdb.org/t/p/w500/kdP3Wgz98JSic8PmR47AmP9CjU2.jpg"
+      },
+      {
+        "name": "Romolo Valli",
+        "character": "Father Pirrone",
+        "photo": "https://image.tmdb.org/t/p/w500/lO3XrvDrIYC4IL4EamKgAufYsg7.jpg"
+      },
+      {
+        "name": "Terence Hill",
+        "character": "Count Cavriaghi",
+        "photo": "https://image.tmdb.org/t/p/w500/vBkWDZh93QRUvg3oh5d96QQZWLn.jpg"
+      },
+      {
+        "name": "Pierre Clémenti",
+        "character": "Francesco Paolo",
+        "photo": "https://image.tmdb.org/t/p/w500/qon2PVQqEk3T2vphwGvpzsfI8Ht.jpg"
+      },
+      {
+        "name": "Lucilla Morlacchi",
+        "character": "Concetta Corbera",
+        "photo": "https://image.tmdb.org/t/p/w500/1HYnVXtBKJVQj42n5i0iXKfxELD.jpg"
+      },
+      {
+        "name": "Giuliano Gemma",
+        "character": "Garibaldi's General",
+        "photo": "https://image.tmdb.org/t/p/w500/hpWbvBhSFklP9rMms1iA5NvXHNZ.jpg"
+      },
+      {
+        "name": "Ida Galli",
+        "character": "Carolina",
+        "photo": "https://image.tmdb.org/t/p/w500/9iUgC8Z10IIxGUd1ozoNcy7zYvp.jpg"
+      },
+      {
+        "name": "Ottavia Piccolo",
+        "character": "Caterina",
+        "photo": "https://image.tmdb.org/t/p/w500/opG0RW7PuAdDrdXmrYMxwHhrSNs.jpg"
+      }
+    ],
+    "director": [
+      "Luchino Visconti"
+    ]
   }
 }

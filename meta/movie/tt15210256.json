@@ -17,6 +17,48 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Stephen Curry",
+      "Reggie Miller",
+      "Kevin Durant",
+      "Ayesha Curry",
+      "Draymond Green",
+      "Dell Curry"
+    ],
+    "app_cast": [
+      {
+        "name": "Stephen Curry",
+        "character": "Stephen Curry",
+        "photo": "https://image.tmdb.org/t/p/w500/dmLZdGhZkCYktooIp8iqXhAvoWz.jpg"
+      },
+      {
+        "name": "Reggie Miller",
+        "character": "Reggie Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/7g3w5TVKlxVbBRtNEXLgJdxIrZb.jpg"
+      },
+      {
+        "name": "Kevin Durant",
+        "character": "Kevin Durant",
+        "photo": "https://image.tmdb.org/t/p/w500/zDUqKQP4OE9gM0Y75oOF9OPXGFB.jpg"
+      },
+      {
+        "name": "Ayesha Curry",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/fhQNbSlEXqXEmyDpQVqzrbIWe0T.jpg"
+      },
+      {
+        "name": "Draymond Green",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/rOo6gtoWlWE8mZW9UyncYjMhtRB.jpg"
+      },
+      {
+        "name": "Dell Curry",
+        "character": "Self"
+      }
+    ],
+    "director": [
+      "Peter Nicks"
+    ]
   }
 }

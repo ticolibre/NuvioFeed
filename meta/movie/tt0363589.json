@@ -18,6 +18,80 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Alex Frost",
+      "Eric Deulen",
+      "John Robinson",
+      "Elias McConnell",
+      "Jordan Taylor",
+      "Carrie Finklea",
+      "Nicole George",
+      "Brittany Mountain",
+      "Alicia Miles",
+      "Kristen Hicks",
+      "Bennie Dixon",
+      "Nathan Tyson"
+    ],
+    "app_cast": [
+      {
+        "name": "Alex Frost",
+        "character": "Alex",
+        "photo": "https://image.tmdb.org/t/p/w500/2rP9HunXkl4lzC8z0g4II5RHslz.jpg"
+      },
+      {
+        "name": "Eric Deulen",
+        "character": "Eric",
+        "photo": "https://image.tmdb.org/t/p/w500/RTQxsBDOMbCxLth6va6mZPifVn.jpg"
+      },
+      {
+        "name": "John Robinson",
+        "character": "John McFarland",
+        "photo": "https://image.tmdb.org/t/p/w500/prehpEqJzLvsGHzu7gbhFsDSo1J.jpg"
+      },
+      {
+        "name": "Elias McConnell",
+        "character": "Elias",
+        "photo": "https://image.tmdb.org/t/p/w500/9XWH3TegLqNZBnDcOcqmSe6Jzir.jpg"
+      },
+      {
+        "name": "Jordan Taylor",
+        "character": "Jordan"
+      },
+      {
+        "name": "Carrie Finklea",
+        "character": "Carrie",
+        "photo": "https://image.tmdb.org/t/p/w500/oJ2AmJZvUIVk5LD0tYavAP2aBpi.jpg"
+      },
+      {
+        "name": "Nicole George",
+        "character": "Nicole"
+      },
+      {
+        "name": "Brittany Mountain",
+        "character": "Brittany"
+      },
+      {
+        "name": "Alicia Miles",
+        "character": "Acadia"
+      },
+      {
+        "name": "Kristen Hicks",
+        "character": "Michelle"
+      },
+      {
+        "name": "Bennie Dixon",
+        "character": "Benny",
+        "photo": "https://image.tmdb.org/t/p/w500/qdOrcZ6EFhWSvxuZL2uvxvT1cab.jpg"
+      },
+      {
+        "name": "Nathan Tyson",
+        "character": "Nathan",
+        "photo": "https://image.tmdb.org/t/p/w500/mHBE0tVBICxBB9stsueQeuTkgVj.jpg"
+      }
+    ],
+    "director": [
+      "Gus Van Sant"
+    ]
   }
 }

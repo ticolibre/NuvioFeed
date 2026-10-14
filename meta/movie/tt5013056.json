@@ -19,6 +19,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Mark Rylance",
+      "Kenneth Branagh",
+      "Cillian Murphy",
+      "Barry Keoghan",
+      "Harry Styles",
+      "Aneurin Barnard",
+      "Damien Bonnard",
+      "Lee Armstrong",
+      "James Bloor",
+      "Tom Glynn-Carney"
+    ],
+    "app_cast": [
+      {
+        "name": "Fionn Whitehead",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/2JjRhwG6BEWeF4n9TlvDEDzlP5P.jpg"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Farrier",
+        "photo": "https://image.tmdb.org/t/p/w500/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "Mr. Dawson",
+        "photo": "https://image.tmdb.org/t/p/w500/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Kenneth Branagh",
+        "character": "Commander Bolton",
+        "photo": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "character": "Shivering Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Barry Keoghan",
+        "character": "George",
+        "photo": "https://image.tmdb.org/t/p/w500/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+      },
+      {
+        "name": "Harry Styles",
+        "character": "Alex",
+        "photo": "https://image.tmdb.org/t/p/w500/9EKjDDD8Naa7dBH76renIjso6CP.jpg"
+      },
+      {
+        "name": "Aneurin Barnard",
+        "character": "Gibson",
+        "photo": "https://image.tmdb.org/t/p/w500/oTMljk89o91IXbHjxW6evuH146J.jpg"
+      },
+      {
+        "name": "Damien Bonnard",
+        "character": "French Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/jZLowoW3gGxKbrscwZintPBsQR5.jpg"
+      },
+      {
+        "name": "Lee Armstrong",
+        "character": "Grenadier",
+        "photo": "https://image.tmdb.org/t/p/w500/Amwo3wNm5keL3l61WF8ccSlVPW0.jpg"
+      },
+      {
+        "name": "James Bloor",
+        "character": "Irate Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/1qAFpwH5FwNw4HWecGpUevsVDDx.jpg"
+      },
+      {
+        "name": "Tom Glynn-Carney",
+        "character": "Peter",
+        "photo": "https://image.tmdb.org/t/p/w500/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+      }
+    ],
+    "director": [
+      "Christopher Nolan"
+    ]
   }
 }

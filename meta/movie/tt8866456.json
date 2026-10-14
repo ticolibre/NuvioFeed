@@ -19,6 +19,79 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Helena Zengel",
+      "Willem Dafoe",
+      "Emily Watson",
+      "Finn Wolfhard",
+      "Carol Bors",
+      "Andrei Antoniu Anghel",
+      "Razvan Stoica",
+      "David Andrei Baltatu",
+      "Eduard Mihail Oancea",
+      "Tomas Otto Ghela",
+      "Eduard Ionut Cucu",
+      "Stefan Burlacu"
+    ],
+    "app_cast": [
+      {
+        "name": "Helena Zengel",
+        "character": "Yuri",
+        "photo": "https://image.tmdb.org/t/p/w500/6ousX9QcimaM2tuaeBcqYEfBjKG.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Maxim",
+        "photo": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Emily Watson",
+        "character": "Dasha",
+        "photo": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Finn Wolfhard",
+        "character": "Petro",
+        "photo": "https://image.tmdb.org/t/p/w500/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+      },
+      {
+        "name": "Carol Bors",
+        "character": "Oleg",
+        "photo": "https://image.tmdb.org/t/p/w500/aRR46mTgDnuaTuAtojf83F74H5J.jpg"
+      },
+      {
+        "name": "Andrei Antoniu Anghel",
+        "character": "Vlad",
+        "photo": "https://image.tmdb.org/t/p/w500/uKq5CzXKCcTTvYxZF7siORyHn0d.jpg"
+      },
+      {
+        "name": "Razvan Stoica",
+        "character": "Ivan"
+      },
+      {
+        "name": "David Andrei Baltatu",
+        "character": "Gleb"
+      },
+      {
+        "name": "Eduard Mihail Oancea",
+        "character": "Pavel"
+      },
+      {
+        "name": "Tomas Otto Ghela",
+        "character": "Tudor"
+      },
+      {
+        "name": "Eduard Ionut Cucu",
+        "character": "Edi"
+      },
+      {
+        "name": "Stefan Burlacu",
+        "character": "Victor"
+      }
+    ],
+    "director": [
+      "Isaiah Saxon"
+    ]
   }
 }

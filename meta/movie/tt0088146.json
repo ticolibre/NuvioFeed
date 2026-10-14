@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Howard Rollins",
+      "Adolph Caesar",
+      "Art Evans",
+      "Robert Townsend",
+      "Denzel Washington",
+      "David Alan Grier",
+      "David Harris",
+      "Dennis Lipscomb",
+      "Patti LaBelle",
+      "Wings Hauser",
+      "Larry Riley",
+      "William Allen Young"
+    ],
+    "app_cast": [
+      {
+        "name": "Howard Rollins",
+        "character": "Captain Davenport",
+        "photo": "https://image.tmdb.org/t/p/w500/tuCYS3UhxTanQ7TVCXk3F36UrrZ.jpg"
+      },
+      {
+        "name": "Adolph Caesar",
+        "character": "Sergeant Waters",
+        "photo": "https://image.tmdb.org/t/p/w500/glpbDuY1dfDtfD2Py1PbfbBhvIU.jpg"
+      },
+      {
+        "name": "Art Evans",
+        "character": "Private Wilkie",
+        "photo": "https://image.tmdb.org/t/p/w500/buSAuxtomWV06xdfzZYd7kLbTVc.jpg"
+      },
+      {
+        "name": "Robert Townsend",
+        "character": "Corporal Ellis",
+        "photo": "https://image.tmdb.org/t/p/w500/saXSXNW1G1Wt9kN4r4Chjxm3YcU.jpg"
+      },
+      {
+        "name": "Denzel Washington",
+        "character": "Private First Class Peterson",
+        "photo": "https://image.tmdb.org/t/p/w500/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "David Alan Grier",
+        "character": "Corporal Cobb",
+        "photo": "https://image.tmdb.org/t/p/w500/jzo5B1zoIB8NOV68wLp9g1R8d5o.jpg"
+      },
+      {
+        "name": "David Harris",
+        "character": "Private Smalls",
+        "photo": "https://image.tmdb.org/t/p/w500/5hBB94ZT9AeatPaTUHyNm4PnItR.jpg"
+      },
+      {
+        "name": "Dennis Lipscomb",
+        "character": "Captain Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/bpvFPjCrpOABOWfE6H0bRQx4Khl.jpg"
+      },
+      {
+        "name": "Patti LaBelle",
+        "character": "Big Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/1t9BjspI4Y3eXombjV4H6eLhBWv.jpg"
+      },
+      {
+        "name": "Wings Hauser",
+        "character": "Lieutenant Byrd",
+        "photo": "https://image.tmdb.org/t/p/w500/yYGJCFjsWNVVOPqq2Rl1JWRrYt3.jpg"
+      },
+      {
+        "name": "Larry Riley",
+        "character": "C.J. Memphis",
+        "photo": "https://image.tmdb.org/t/p/w500/cyV2mfEHSw7rLq4BZe8B6sizPDF.jpg"
+      },
+      {
+        "name": "William Allen Young",
+        "character": "Private Henson",
+        "photo": "https://image.tmdb.org/t/p/w500/3QMYa0lOFs76wXmPuvdmTyz0KUA.jpg"
+      }
+    ],
+    "director": [
+      "Norman Jewison"
+    ]
   }
 }

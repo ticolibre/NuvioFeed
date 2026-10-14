@@ -17,6 +17,86 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Emily Watson",
+      "Paul Mescal",
+      "Aisling Franciosi",
+      "Declan Conlon",
+      "Toni O'Rourke",
+      "Marion O'Dwyer",
+      "Brendan McCormack",
+      "Lalor Roddy",
+      "Isabelle Connolly",
+      "Seán T. Ó Meallaigh",
+      "Steve Gunn",
+      "Leah Minto"
+    ],
+    "app_cast": [
+      {
+        "name": "Emily Watson",
+        "character": "Aileen O'Hara",
+        "photo": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Paul Mescal",
+        "character": "Brian O'Hara",
+        "photo": "https://image.tmdb.org/t/p/w500/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+      },
+      {
+        "name": "Aisling Franciosi",
+        "character": "Sarah Murphy",
+        "photo": "https://image.tmdb.org/t/p/w500/g6qewxM4EEg02HUTLUw9KGkLdNj.jpg"
+      },
+      {
+        "name": "Declan Conlon",
+        "character": "Con O'Hara",
+        "photo": "https://image.tmdb.org/t/p/w500/tozd3BAPHMVZ7Vzk330kNU2gjpx.jpg"
+      },
+      {
+        "name": "Toni O'Rourke",
+        "character": "Erin O'Hara",
+        "photo": "https://image.tmdb.org/t/p/w500/y3HbFCo31RDS9tRVLFCjNo3ntA4.jpg"
+      },
+      {
+        "name": "Marion O'Dwyer",
+        "character": "Mary Fitz",
+        "photo": "https://image.tmdb.org/t/p/w500/rBWpMQohUabjRTuvENWEiHyKjx1.jpg"
+      },
+      {
+        "name": "Brendan McCormack",
+        "character": "Francie D'Arcey",
+        "photo": "https://image.tmdb.org/t/p/w500/gR18s3mO4v8yi82DjjUyFkyGbuB.jpg"
+      },
+      {
+        "name": "Lalor Roddy",
+        "character": "Paddy O'Hara",
+        "photo": "https://image.tmdb.org/t/p/w500/gHQjrMlieq3FcRjDbeGzMToNTgc.jpg"
+      },
+      {
+        "name": "Isabelle Connolly",
+        "character": "Emma Daly",
+        "photo": "https://image.tmdb.org/t/p/w500/6GX94KZ5aNJrznIS7mvsPOCaPBp.jpg"
+      },
+      {
+        "name": "Seán T. Ó Meallaigh",
+        "character": "Nigel O'Connor",
+        "photo": "https://image.tmdb.org/t/p/w500/3qrxxnXadhGN0Gislv2lIrEOjGE.jpg"
+      },
+      {
+        "name": "Steve Gunn",
+        "character": "Dennis Guiney",
+        "photo": "https://image.tmdb.org/t/p/w500/4xfe6euyt2OWIGurwDgCXnD7qOH.jpg"
+      },
+      {
+        "name": "Leah Minto",
+        "character": "Sheila Breen",
+        "photo": "https://image.tmdb.org/t/p/w500/7CtlYFRUmxJBVX4roBKH9bUX1TG.jpg"
+      }
+    ],
+    "director": [
+      "Saela Davis",
+      "Anna Rose Holmer"
+    ]
   }
 }

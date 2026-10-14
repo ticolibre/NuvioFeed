@@ -19,6 +19,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Kevin Costner",
+      "Tommy Lee Jones",
+      "Gary Oldman",
+      "Kevin Bacon",
+      "Michael Rooker",
+      "Jack Lemmon",
+      "Laurie Metcalf",
+      "Sissy Spacek",
+      "Joe Pesci",
+      "John Candy",
+      "Pruitt Taylor Vince",
+      "Jay O. Sanders"
+    ],
+    "app_cast": [
+      {
+        "name": "Kevin Costner",
+        "character": "Jim Garrison",
+        "photo": "https://image.tmdb.org/t/p/w500/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Clay Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Lee Harvey Oswald",
+        "photo": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+      },
+      {
+        "name": "Kevin Bacon",
+        "character": "Willie O'Keefe",
+        "photo": "https://image.tmdb.org/t/p/w500/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Bill Broussard",
+        "photo": "https://image.tmdb.org/t/p/w500/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+      },
+      {
+        "name": "Jack Lemmon",
+        "character": "Jack Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "character": "Susie Cox",
+        "photo": "https://image.tmdb.org/t/p/w500/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+      },
+      {
+        "name": "Sissy Spacek",
+        "character": "Liz Garrison",
+        "photo": "https://image.tmdb.org/t/p/w500/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "David Ferrie",
+        "photo": "https://image.tmdb.org/t/p/w500/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+      },
+      {
+        "name": "John Candy",
+        "character": "Dean Andrews",
+        "photo": "https://image.tmdb.org/t/p/w500/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
+      },
+      {
+        "name": "Pruitt Taylor Vince",
+        "character": "Lee Bowers",
+        "photo": "https://image.tmdb.org/t/p/w500/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+      },
+      {
+        "name": "Jay O. Sanders",
+        "character": "Lou Ivon",
+        "photo": "https://image.tmdb.org/t/p/w500/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+      }
+    ],
+    "director": [
+      "Oliver Stone"
+    ]
   }
 }

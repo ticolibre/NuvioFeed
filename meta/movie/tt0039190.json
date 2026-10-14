@@ -20,6 +20,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Cary Grant",
+      "Loretta Young",
+      "David Niven",
+      "Monty Woolley",
+      "James Gleason",
+      "Gladys Cooper",
+      "Elsa Lanchester",
+      "Sara Haden",
+      "Karolyn Grimes",
+      "Tito Vuolo",
+      "Regis Toomey",
+      "Sarah Edwards"
+    ],
+    "app_cast": [
+      {
+        "name": "Cary Grant",
+        "character": "Dudley",
+        "photo": "https://image.tmdb.org/t/p/w500/lcNAirMFcyM7WIiCmaabjbNZVOJ.jpg"
+      },
+      {
+        "name": "Loretta Young",
+        "character": "Julia Brougham",
+        "photo": "https://image.tmdb.org/t/p/w500/vtpGjZpAK88rTTi9Y7VLGpMyt6m.jpg"
+      },
+      {
+        "name": "David Niven",
+        "character": "Henry Brougham",
+        "photo": "https://image.tmdb.org/t/p/w500/ioW2DU6T2HPvTdqUSaLLQmGPb38.jpg"
+      },
+      {
+        "name": "Monty Woolley",
+        "character": "Professor Wutheridge",
+        "photo": "https://image.tmdb.org/t/p/w500/a6eZUY568tOA9UfE0Fdgz9iaXSo.jpg"
+      },
+      {
+        "name": "James Gleason",
+        "character": "Sylvester",
+        "photo": "https://image.tmdb.org/t/p/w500/nIWAiRVuVbEfD8iSWymhOSJlWUm.jpg"
+      },
+      {
+        "name": "Gladys Cooper",
+        "character": "Mrs. Hamilton",
+        "photo": "https://image.tmdb.org/t/p/w500/8ChGmCj4O9Q7kpkgHDguNNhX2Wk.jpg"
+      },
+      {
+        "name": "Elsa Lanchester",
+        "character": "Matilda",
+        "photo": "https://image.tmdb.org/t/p/w500/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
+      },
+      {
+        "name": "Sara Haden",
+        "character": "Mildred Cassaway",
+        "photo": "https://image.tmdb.org/t/p/w500/77NW5jRIn7rxzEMxhR2kjsCCDXg.jpg"
+      },
+      {
+        "name": "Karolyn Grimes",
+        "character": "Debby Brougham",
+        "photo": "https://image.tmdb.org/t/p/w500/7QfMrjGzNJGMoX3FroXoor2PzUI.jpg"
+      },
+      {
+        "name": "Tito Vuolo",
+        "character": "Maggenti",
+        "photo": "https://image.tmdb.org/t/p/w500/kZ7lZ66IMcQcGt59xs6PD3GdHAb.jpg"
+      },
+      {
+        "name": "Regis Toomey",
+        "character": "Mr. Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/fBaA8glCL6YOMX8O58a3s3yJy4P.jpg"
+      },
+      {
+        "name": "Sarah Edwards",
+        "character": "Mrs. Duffy",
+        "photo": "https://image.tmdb.org/t/p/w500/zp8298thKDZjQnYKm7jtt9opUEp.jpg"
+      }
+    ],
+    "director": [
+      "Henry Koster"
+    ]
   }
 }

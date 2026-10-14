@@ -17,6 +17,42 @@
           "rating": "5.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Lucas Paul",
+      "Dali Rose Tetreault",
+      "Ross Paul",
+      "Jaime Hill",
+      "Kyle Edward Ball"
+    ],
+    "app_cast": [
+      {
+        "name": "Lucas Paul",
+        "character": "Kevin"
+      },
+      {
+        "name": "Dali Rose Tetreault",
+        "character": "Kaylee",
+        "photo": "https://image.tmdb.org/t/p/w500/dWUDZrgb9mT5os0xHxztgwqujm0.jpg"
+      },
+      {
+        "name": "Ross Paul",
+        "character": "Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/rhltvLppt9LBMvHbfw0hjW4X7BG.jpg"
+      },
+      {
+        "name": "Jaime Hill",
+        "character": "Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/i1Rb3LQ5WZGBSsCUF5sxUOuM0P0.jpg"
+      },
+      {
+        "name": "Kyle Edward Ball",
+        "character": "Entity (voice) (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/bNxzuPvb09hlER5eGsnzK5VNvkn.jpg"
+      }
+    ],
+    "director": [
+      "Kyle Edward Ball"
+    ]
   }
 }

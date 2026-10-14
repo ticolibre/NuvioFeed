@@ -18,6 +18,81 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Kyle Gallner",
+      "Johnny Berchtold",
+      "Liza Weil",
+      "Billy Slaughter",
+      "Matthew Laureano",
+      "Jordan Sherley",
+      "Kanesha Washington",
+      "Lupe Leon",
+      "Merah Benoit",
+      "Glendon Ray Hobgood",
+      "Brooks Anne Hayes",
+      "Carson Allen Minniear"
+    ],
+    "app_cast": [
+      {
+        "name": "Kyle Gallner",
+        "character": "Benson",
+        "photo": "https://image.tmdb.org/t/p/w500/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg"
+      },
+      {
+        "name": "Johnny Berchtold",
+        "character": "Randolph Bradley",
+        "photo": "https://image.tmdb.org/t/p/w500/tGKPmmdo6ASnNx0GoHiGgDvnndJ.jpg"
+      },
+      {
+        "name": "Liza Weil",
+        "character": "Miss Beard",
+        "photo": "https://image.tmdb.org/t/p/w500/eYR8oJnVKfCR73OlF7Uy2oC2MM3.jpg"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Hardy",
+        "photo": "https://image.tmdb.org/t/p/w500/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg"
+      },
+      {
+        "name": "Matthew Laureano",
+        "character": "Chris",
+        "photo": "https://image.tmdb.org/t/p/w500/5PlghFvtaJ81MRQcRlvyyxXbgp6.jpg"
+      },
+      {
+        "name": "Jordan Sherley",
+        "character": "Jess",
+        "photo": "https://image.tmdb.org/t/p/w500/5oC1KBMPYAQfJ5lTB576d2bbT0q.jpg"
+      },
+      {
+        "name": "Kanesha Washington",
+        "character": "Marsha",
+        "photo": "https://image.tmdb.org/t/p/w500/b5qir4G7z9obrAJuwoaeh2taF69.jpg"
+      },
+      {
+        "name": "Lupe Leon",
+        "character": "Lisa"
+      },
+      {
+        "name": "Merah Benoit",
+        "character": "Tessa",
+        "photo": "https://image.tmdb.org/t/p/w500/aVEEjpWuE6dUj1PCPAdX9nyQAqG.jpg"
+      },
+      {
+        "name": "Glendon Ray Hobgood",
+        "character": "Sheppard"
+      },
+      {
+        "name": "Brooks Anne Hayes",
+        "character": "Carol"
+      },
+      {
+        "name": "Carson Allen Minniear",
+        "character": "Young Randy"
+      }
+    ],
+    "director": [
+      "Carter Smith"
+    ]
   }
 }

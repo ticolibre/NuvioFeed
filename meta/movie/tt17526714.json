@@ -18,6 +18,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Demi Moore",
+      "Margaret Qualley",
+      "Dennis Quaid",
+      "Edward Hamilton-Clark",
+      "Gore Abrams",
+      "Oscar Lesage",
+      "Christian Erickson",
+      "Robin Greer",
+      "Tom Morton",
+      "Hugo Diego Garcia",
+      "Daniel Knight",
+      "Jonathon Carley"
+    ],
+    "app_cast": [
+      {
+        "name": "Demi Moore",
+        "character": "Elisabeth",
+        "photo": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+      },
+      {
+        "name": "Margaret Qualley",
+        "character": "Sue",
+        "photo": "https://image.tmdb.org/t/p/w500/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+      },
+      {
+        "name": "Dennis Quaid",
+        "character": "Harvey",
+        "photo": "https://image.tmdb.org/t/p/w500/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+      },
+      {
+        "name": "Edward Hamilton-Clark",
+        "character": "Fred",
+        "photo": "https://image.tmdb.org/t/p/w500/q1EWL2z2xMcbf84TpOTqGs6Csxs.jpg"
+      },
+      {
+        "name": "Gore Abrams",
+        "character": "Oliver",
+        "photo": "https://image.tmdb.org/t/p/w500/bKMTqbl0FYlzIC6aTMKQZNAhhXK.jpg"
+      },
+      {
+        "name": "Oscar Lesage",
+        "character": "Troy",
+        "photo": "https://image.tmdb.org/t/p/w500/uWSiPLMBem0ikdtr6uq2bMnz8fr.jpg"
+      },
+      {
+        "name": "Christian Erickson",
+        "character": "Man at Diner",
+        "photo": "https://image.tmdb.org/t/p/w500/cpEzQNW1EsRmK8SMj4y5xwevXwM.jpg"
+      },
+      {
+        "name": "Robin Greer",
+        "character": "Male Nurse",
+        "photo": "https://image.tmdb.org/t/p/w500/6oAOwJt2LywrGqkB8fGjvAbkLB.jpg"
+      },
+      {
+        "name": "Tom Morton",
+        "character": "Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/aOdP4niQX4ckaFwPQmbf0mlYTC5.jpg"
+      },
+      {
+        "name": "Hugo Diego Garcia",
+        "character": "Diego - Boyfriend",
+        "photo": "https://image.tmdb.org/t/p/w500/mC0Aly8hHgNIYvZSa1SZmYU47pn.jpg"
+      },
+      {
+        "name": "Daniel Knight",
+        "character": "Casting Director",
+        "photo": "https://image.tmdb.org/t/p/w500/t3O1QKPY0rUPtxKn2PEw2SaIXdc.jpg"
+      },
+      {
+        "name": "Jonathon Carley",
+        "character": "Assistant Casting Director",
+        "photo": "https://image.tmdb.org/t/p/w500/6gL0yP4FEtDP5qurujJURpivTd3.jpg"
+      }
+    ],
+    "director": [
+      "Coralie Fargeat"
+    ]
   }
 }

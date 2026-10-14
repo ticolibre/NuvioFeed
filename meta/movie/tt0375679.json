@@ -17,6 +17,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Don Cheadle",
+      "Sandra Bullock",
+      "Brendan Fraser",
+      "Matt Dillon",
+      "Jennifer Esposito",
+      "Michael Peña",
+      "Terrence Howard",
+      "Thandiwe Newton",
+      "Ludacris",
+      "Larenz Tate",
+      "Ryan Phillippe",
+      "Shaun Toub"
+    ],
+    "app_cast": [
+      {
+        "name": "Don Cheadle",
+        "character": "Det. Graham Waters",
+        "photo": "https://image.tmdb.org/t/p/w500/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+      },
+      {
+        "name": "Sandra Bullock",
+        "character": "Jean Cabot",
+        "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+      },
+      {
+        "name": "Brendan Fraser",
+        "character": "Rick Cabot",
+        "photo": "https://image.tmdb.org/t/p/w500/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+      },
+      {
+        "name": "Matt Dillon",
+        "character": "Officer John Ryan",
+        "photo": "https://image.tmdb.org/t/p/w500/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+      },
+      {
+        "name": "Jennifer Esposito",
+        "character": "Ria",
+        "photo": "https://image.tmdb.org/t/p/w500/xI3Jar2KwgzBYH79oVXUxvXisUq.jpg"
+      },
+      {
+        "name": "Michael Peña",
+        "character": "Daniel Ruiz",
+        "photo": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Terrence Howard",
+        "character": "Cameron Thayer",
+        "photo": "https://image.tmdb.org/t/p/w500/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+      },
+      {
+        "name": "Thandiwe Newton",
+        "character": "Christine Thayer",
+        "photo": "https://image.tmdb.org/t/p/w500/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+      },
+      {
+        "name": "Ludacris",
+        "character": "Anthony",
+        "photo": "https://image.tmdb.org/t/p/w500/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+      },
+      {
+        "name": "Larenz Tate",
+        "character": "Peter",
+        "photo": "https://image.tmdb.org/t/p/w500/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+      },
+      {
+        "name": "Ryan Phillippe",
+        "character": "Officer Tom Hansen",
+        "photo": "https://image.tmdb.org/t/p/w500/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+      },
+      {
+        "name": "Shaun Toub",
+        "character": "Farhad",
+        "photo": "https://image.tmdb.org/t/p/w500/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+      }
+    ],
+    "director": [
+      "Paul Haggis"
+    ]
   }
 }

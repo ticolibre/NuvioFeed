@@ -17,6 +17,80 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Travis Tope",
+      "Haley Ramm",
+      "Jacinda Barrett",
+      "Gary Cole",
+      "Clark Backo",
+      "Vinson Tran",
+      "Gage Munroe",
+      "Milton Barnes",
+      "Claire Rankin",
+      "Debra Hale",
+      "Jeff Clarke",
+      "Paulino Nunes"
+    ],
+    "app_cast": [
+      {
+        "name": "Travis Tope",
+        "character": "Jude",
+        "photo": "https://image.tmdb.org/t/p/w500/e70wistUzfGRVW7hvOZMEaK77ar.jpg"
+      },
+      {
+        "name": "Haley Ramm",
+        "character": "June",
+        "photo": "https://image.tmdb.org/t/p/w500/lDE684pJqM7LESfactPMfQPgc5J.jpg"
+      },
+      {
+        "name": "Jacinda Barrett",
+        "character": "Megan",
+        "photo": "https://image.tmdb.org/t/p/w500/gWiUe9tXD4F3aUxb7NJ3W6aJk3M.jpg"
+      },
+      {
+        "name": "Gary Cole",
+        "character": "Wallace",
+        "photo": "https://image.tmdb.org/t/p/w500/uWsqIlfHbyxkmBJLmq2mR93musF.jpg"
+      },
+      {
+        "name": "Clark Backo",
+        "character": "Nell",
+        "photo": "https://image.tmdb.org/t/p/w500/d24KKFxfoql6PBsBPsejFgzhSlH.jpg"
+      },
+      {
+        "name": "Vinson Tran",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/iRIExU2NG6Lingh8D2hr2e8EA1d.jpg"
+      },
+      {
+        "name": "Gage Munroe",
+        "character": "Eric Dragle",
+        "photo": "https://image.tmdb.org/t/p/w500/lEeflzrrDK4uCqwqwVvYURSscH5.jpg"
+      },
+      {
+        "name": "Milton Barnes",
+        "photo": "https://image.tmdb.org/t/p/w500/qCP3CVoEQmLopSHuHLOUooP1RDY.jpg"
+      },
+      {
+        "name": "Claire Rankin",
+        "photo": "https://image.tmdb.org/t/p/w500/nwPUWhTEuxcH2ai0NgLEuUkxsUz.jpg"
+      },
+      {
+        "name": "Debra Hale",
+        "photo": "https://image.tmdb.org/t/p/w500/tyNSZGsU9ijJsqNxacaO6Ln5asU.jpg"
+      },
+      {
+        "name": "Jeff Clarke",
+        "character": "Officer Landerberg"
+      },
+      {
+        "name": "Paulino Nunes",
+        "photo": "https://image.tmdb.org/t/p/w500/kLL1Q84BRmvRKYBUMFCNR36M7Qo.jpg"
+      }
+    ],
+    "director": [
+      "Chris Eigeman"
+    ]
   }
 }

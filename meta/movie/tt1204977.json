@@ -17,6 +17,83 @@
           "rating": "5.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Daren Kagasoff",
+      "Matthew Settle",
+      "Olivia Cooke",
+      "Ana Coto",
+      "Shelley Hennig",
+      "Bianca A. Santos",
+      "Douglas Smith",
+      "Robyn Lively",
+      "Sierra Hawkins",
+      "Lin Shaye",
+      "Claudia Katz Minnick",
+      "Afra Sophia Tully"
+    ],
+    "app_cast": [
+      {
+        "name": "Daren Kagasoff",
+        "character": "Trevor",
+        "photo": "https://image.tmdb.org/t/p/w500/3jR09GLiSq8puOaqMJ6r44SJMMv.jpg"
+      },
+      {
+        "name": "Matthew Settle",
+        "character": "Anthony Morris",
+        "photo": "https://image.tmdb.org/t/p/w500/69D3JqJslcqJ1lqwcet2zGRAr7n.jpg"
+      },
+      {
+        "name": "Olivia Cooke",
+        "character": "Laine Morris",
+        "photo": "https://image.tmdb.org/t/p/w500/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+      },
+      {
+        "name": "Ana Coto",
+        "character": "Sarah Morris",
+        "photo": "https://image.tmdb.org/t/p/w500/fMHm47Quez8FUvtF6QUlReBkond.jpg"
+      },
+      {
+        "name": "Shelley Hennig",
+        "character": "Debbie Galardi",
+        "photo": "https://image.tmdb.org/t/p/w500/bsqU5e9rVuLhP8l1GqUWjsBRQvq.jpg"
+      },
+      {
+        "name": "Bianca A. Santos",
+        "character": "Isabelle",
+        "photo": "https://image.tmdb.org/t/p/w500/pXg9qTtbSG5vGSqKZVAMci5zb2T.jpg"
+      },
+      {
+        "name": "Douglas Smith",
+        "character": "Pete",
+        "photo": "https://image.tmdb.org/t/p/w500/rHZPWNxjIrpiHQnEOttscjTVvnm.jpg"
+      },
+      {
+        "name": "Robyn Lively",
+        "character": "Mrs. Galardi",
+        "photo": "https://image.tmdb.org/t/p/w500/tz4oKXOkJhHZezaQUTgo66gPn77.jpg"
+      },
+      {
+        "name": "Sierra Hawkins",
+        "character": "Doris Zander",
+        "photo": "https://image.tmdb.org/t/p/w500/5wOKGoN4OynLm17FITbepUDBRhO.jpg"
+      },
+      {
+        "name": "Lin Shaye",
+        "character": "Paulina Zander",
+        "photo": "https://image.tmdb.org/t/p/w500/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+      },
+      {
+        "name": "Claudia Katz Minnick",
+        "character": "Alice Zander"
+      },
+      {
+        "name": "Afra Sophia Tully",
+        "character": "Young Laine"
+      }
+    ],
+    "director": [
+      "Stiles White"
+    ]
   }
 }

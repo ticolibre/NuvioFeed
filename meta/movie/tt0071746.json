@@ -17,6 +17,82 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Dustin Hoffman",
+      "Valerie Perrine",
+      "Jan Miner",
+      "Stanley Beck",
+      "Frankie Man",
+      "Rashel Novikoff",
+      "Gary Morton",
+      "Guy Rennie",
+      "Michele Yonge",
+      "Kathryn Witt",
+      "Monroe Myers",
+      "John DiSanti"
+    ],
+    "app_cast": [
+      {
+        "name": "Dustin Hoffman",
+        "character": "Lenny Bruce",
+        "photo": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+      },
+      {
+        "name": "Valerie Perrine",
+        "character": "Honey Bruce",
+        "photo": "https://image.tmdb.org/t/p/w500/7EVA2zlWVB0q4AB4VIEAYbMkySf.jpg"
+      },
+      {
+        "name": "Jan Miner",
+        "character": "Sally Marr",
+        "photo": "https://image.tmdb.org/t/p/w500/erffIl6A5DrKKBKc3m463D4DcF9.jpg"
+      },
+      {
+        "name": "Stanley Beck",
+        "character": "Artie Silver",
+        "photo": "https://image.tmdb.org/t/p/w500/db0ej3xAn8eeVmmq9wG5QejWdqP.jpg"
+      },
+      {
+        "name": "Frankie Man",
+        "character": "Baltimore Comic"
+      },
+      {
+        "name": "Rashel Novikoff",
+        "character": "Aunt Mema",
+        "photo": "https://image.tmdb.org/t/p/w500/ejGmxGgjQoCZXOQlrd5OF0eDvtR.jpg"
+      },
+      {
+        "name": "Gary Morton",
+        "character": "Sherman Hart",
+        "photo": "https://image.tmdb.org/t/p/w500/5xhG4YDF3fCjLgsFw1ZtqnLUkTI.jpg"
+      },
+      {
+        "name": "Guy Rennie",
+        "character": "Jack Goldstein"
+      },
+      {
+        "name": "Michele Yonge",
+        "character": "Nurse",
+        "photo": "https://image.tmdb.org/t/p/w500/ejglrHp0RDaX2CnG2Z6cy9KbgxI.jpg"
+      },
+      {
+        "name": "Kathryn Witt",
+        "character": "Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/zFLAkPVeH7G0OakDxQMqjSJRKLM.jpg"
+      },
+      {
+        "name": "Monroe Myers",
+        "character": "Hawaiin Judge"
+      },
+      {
+        "name": "John DiSanti",
+        "character": "John Santi",
+        "photo": "https://image.tmdb.org/t/p/w500/fGZNEtZRa5ld5bbmQEPaytK9Y8f.jpg"
+      }
+    ],
+    "director": [
+      "Bob Fosse"
+    ]
   }
 }

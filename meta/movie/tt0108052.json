@@ -19,6 +19,85 @@
           "rating": "8.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes",
+      "Caroline Goodall",
+      "Jonathan Sagall",
+      "Embeth Davidtz",
+      "Małgorzata Gebel",
+      "Shmuel Levy",
+      "Mark Ivanir",
+      "Béatrice Macola",
+      "Andrzej Seweryn",
+      "Friedrich von Thun"
+    ],
+    "app_cast": [
+      {
+        "name": "Liam Neeson",
+        "character": "Oskar Schindler",
+        "photo": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Itzhak Stern",
+        "photo": "https://image.tmdb.org/t/p/w500/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "character": "Amon Goeth",
+        "photo": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+      },
+      {
+        "name": "Caroline Goodall",
+        "character": "Emilie Schindler",
+        "photo": "https://image.tmdb.org/t/p/w500/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+      },
+      {
+        "name": "Jonathan Sagall",
+        "character": "Poldek Pfefferberg",
+        "photo": "https://image.tmdb.org/t/p/w500/waxNDsgfw7CXXO3LH8EdKi8z7VV.jpg"
+      },
+      {
+        "name": "Embeth Davidtz",
+        "character": "Helen Hirsch",
+        "photo": "https://image.tmdb.org/t/p/w500/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+      },
+      {
+        "name": "Małgorzata Gebel",
+        "character": "Viktoria Klonowska",
+        "photo": "https://image.tmdb.org/t/p/w500/7MYoXZKIuCAfMzTs1HBkaLB03z8.jpg"
+      },
+      {
+        "name": "Shmuel Levy",
+        "character": "Wilek Chilowicz",
+        "photo": "https://image.tmdb.org/t/p/w500/eZDmJaS0Z0Fj2377wBul9xmm27S.jpg"
+      },
+      {
+        "name": "Mark Ivanir",
+        "character": "Marcel Goldberg",
+        "photo": "https://image.tmdb.org/t/p/w500/1kxGAsP4YRiR7LgmlM9KgtekMLk.jpg"
+      },
+      {
+        "name": "Béatrice Macola",
+        "character": "Ingrid",
+        "photo": "https://image.tmdb.org/t/p/w500/dXdt4Ti4mbJilnsm0wtvwb13eny.jpg"
+      },
+      {
+        "name": "Andrzej Seweryn",
+        "character": "Julian Scherner",
+        "photo": "https://image.tmdb.org/t/p/w500/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+      },
+      {
+        "name": "Friedrich von Thun",
+        "character": "Rolf Czurda",
+        "photo": "https://image.tmdb.org/t/p/w500/iQuOeoD8mi4cZEa91mXLlpz6SJz.jpg"
+      }
+    ],
+    "director": [
+      "Steven Spielberg"
+    ]
   }
 }

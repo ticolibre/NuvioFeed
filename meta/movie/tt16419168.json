@@ -17,6 +17,44 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Benny Safdie",
+      "Josh Safdie",
+      "Adam Sandler",
+      "Jason Bateman",
+      "Megan Amram"
+    ],
+    "app_cast": [
+      {
+        "name": "Benny Safdie",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+      },
+      {
+        "name": "Josh Safdie",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/dLvuuFc3kqIsixbZKDOGx9HTalP.jpg"
+      },
+      {
+        "name": "Adam Sandler",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+      },
+      {
+        "name": "Jason Bateman",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+      },
+      {
+        "name": "Megan Amram",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/yk9aErnVjuAUZ25j45i05UrWzp5.jpg"
+      }
+    ],
+    "director": [
+      "Josh Safdie",
+      "Benny Safdie"
+    ]
   }
 }

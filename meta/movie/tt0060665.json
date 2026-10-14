@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Paul Scofield",
+      "Wendy Hiller",
+      "Leo McKern",
+      "Robert Shaw",
+      "Orson Welles",
+      "Susannah York",
+      "Nigel Davenport",
+      "John Hurt",
+      "Corin Redgrave",
+      "Colin Blakely",
+      "Cyril Luckham",
+      "Jack Gwillim"
+    ],
+    "app_cast": [
+      {
+        "name": "Paul Scofield",
+        "character": "Thomas More",
+        "photo": "https://image.tmdb.org/t/p/w500/c9GUKYC5Ew14jUBL70i2gdGRuMp.jpg"
+      },
+      {
+        "name": "Wendy Hiller",
+        "character": "Alice More",
+        "photo": "https://image.tmdb.org/t/p/w500/psF8n2DRp0UCsmUBnRKwu6YmMoA.jpg"
+      },
+      {
+        "name": "Leo McKern",
+        "character": "Thomas Cromwell",
+        "photo": "https://image.tmdb.org/t/p/w500/yzVoghBAj7iK8dsVu39TNrLpfvE.jpg"
+      },
+      {
+        "name": "Robert Shaw",
+        "character": "King Henry VIII",
+        "photo": "https://image.tmdb.org/t/p/w500/c8SIbGEmGIfhD9bObSf4FELUEns.jpg"
+      },
+      {
+        "name": "Orson Welles",
+        "character": "Cardinal Wolsey",
+        "photo": "https://image.tmdb.org/t/p/w500/e9lGmqQq3EsHeUQgQLByo275hcc.jpg"
+      },
+      {
+        "name": "Susannah York",
+        "character": "Margaret More",
+        "photo": "https://image.tmdb.org/t/p/w500/v5Q3guQyQwWtfG1dOFBZ4fG0SEc.jpg"
+      },
+      {
+        "name": "Nigel Davenport",
+        "character": "The Duke of Norfolk",
+        "photo": "https://image.tmdb.org/t/p/w500/v7ebqfzimSOjRc1vFGgTCSP1P6a.jpg"
+      },
+      {
+        "name": "John Hurt",
+        "character": "Richard Rich",
+        "photo": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+      },
+      {
+        "name": "Corin Redgrave",
+        "character": "William Roper (the Younger)",
+        "photo": "https://image.tmdb.org/t/p/w500/3n6KZJnMXUWeQ31Y7UkkVIgdW6q.jpg"
+      },
+      {
+        "name": "Colin Blakely",
+        "character": "Matthew",
+        "photo": "https://image.tmdb.org/t/p/w500/lXm7BsoFx50zPgajpzTMBBhsvpr.jpg"
+      },
+      {
+        "name": "Cyril Luckham",
+        "character": "Archbishop Cranmer",
+        "photo": "https://image.tmdb.org/t/p/w500/lgNKuzxUlg4v99Nlo0E8WY34g1X.jpg"
+      },
+      {
+        "name": "Jack Gwillim",
+        "character": "Chief Justice",
+        "photo": "https://image.tmdb.org/t/p/w500/sxi3CEhSnYIHljsXrCUvJ2cvrdV.jpg"
+      }
+    ],
+    "director": [
+      "Fred Zinnemann"
+    ]
   }
 }

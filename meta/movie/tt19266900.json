@@ -17,6 +17,83 @@
           "rating": "4.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Kate Berlant",
+      "John Early",
+      "Meredith Vieira",
+      "Aria Surrec",
+      "Morgan Gruer",
+      "Riley Vuong",
+      "Frankie Quiñones",
+      "Hope Shapiro",
+      "Matt Gourley",
+      "Cici Lau",
+      "Blair Beeken",
+      "Chedi Chang"
+    ],
+    "app_cast": [
+      {
+        "name": "Kate Berlant",
+        "character": "Kate Berlant",
+        "photo": "https://image.tmdb.org/t/p/w500/81c1bO5HQq34UBvvi10rIGedZ0n.jpg"
+      },
+      {
+        "name": "John Early",
+        "character": "John Early",
+        "photo": "https://image.tmdb.org/t/p/w500/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
+      },
+      {
+        "name": "Meredith Vieira",
+        "character": "Meredith Vieira",
+        "photo": "https://image.tmdb.org/t/p/w500/9n7XtZ8Ek57Ix33bNwRxD8h1OE6.jpg"
+      },
+      {
+        "name": "Aria Surrec",
+        "character": "Lizzy",
+        "photo": "https://image.tmdb.org/t/p/w500/siWZ70dD6mNLK36MG3rxBvAgXWM.jpg"
+      },
+      {
+        "name": "Morgan Gruer",
+        "character": "Tessa"
+      },
+      {
+        "name": "Riley Vuong",
+        "character": "Shayna"
+      },
+      {
+        "name": "Frankie Quiñones",
+        "character": "Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/lQIySV819G5jocadtAThVvKuYcS.jpg"
+      },
+      {
+        "name": "Hope Shapiro",
+        "character": "Dominique Reich",
+        "photo": "https://image.tmdb.org/t/p/w500/ocXaipeCbF7kHywnF7c6tHE8Bl3.jpg"
+      },
+      {
+        "name": "Matt Gourley",
+        "character": "Chris",
+        "photo": "https://image.tmdb.org/t/p/w500/uiheJH5rCROD97ExG70FS50So9C.jpg"
+      },
+      {
+        "name": "Cici Lau",
+        "character": "Chinese Grandma",
+        "photo": "https://image.tmdb.org/t/p/w500/ntkvQa0AQcjU5vrEXghgEdk8NRT.jpg"
+      },
+      {
+        "name": "Blair Beeken",
+        "character": "Waitress",
+        "photo": "https://image.tmdb.org/t/p/w500/mImTvRyGtJE6mGbtrrzXq2tIXgZ.jpg"
+      },
+      {
+        "name": "Chedi Chang",
+        "character": "Rebecca",
+        "photo": "https://image.tmdb.org/t/p/w500/lmU9Ys1Q5Mz5eLtUMdPCqGLPeVx.jpg"
+      }
+    ],
+    "director": [
+      "Andrew DeYoung"
+    ]
   }
 }

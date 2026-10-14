@@ -19,6 +19,69 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Pattinson",
+      "Willem Dafoe",
+      "Valeriia Karaman",
+      "Logan Hawkes",
+      "Kyla Nicolle",
+      "Shaun Clarke",
+      "Pierre Richard",
+      "Preston Hudson",
+      "Jeff Cruts",
+      "Sully Seagull"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Pattinson",
+        "character": "Thomas Howard",
+        "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Thomas Wake",
+        "photo": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Valeriia Karaman",
+        "character": "Mermaid",
+        "photo": "https://image.tmdb.org/t/p/w500/qPbtMxEbcNOenBOq1kiHSi7oNcZ.jpg"
+      },
+      {
+        "name": "Logan Hawkes",
+        "character": "Ephraim Winslow",
+        "photo": "https://image.tmdb.org/t/p/w500/8Ai8dFBOlobC6mFLLNleyfhL20d.jpg"
+      },
+      {
+        "name": "Kyla Nicolle",
+        "character": "Woman on the Rocks",
+        "photo": "https://image.tmdb.org/t/p/w500/w1k0Nw8tZC6WUOlvE51H808qW7M.jpg"
+      },
+      {
+        "name": "Shaun Clarke",
+        "character": "Departing Wickie"
+      },
+      {
+        "name": "Pierre Richard",
+        "character": "Departing Assistant Wickie"
+      },
+      {
+        "name": "Preston Hudson",
+        "character": "Tender Mate"
+      },
+      {
+        "name": "Jeff Cruts",
+        "character": "Tender Mate"
+      },
+      {
+        "name": "Sully Seagull",
+        "character": "Seagull",
+        "photo": "https://image.tmdb.org/t/p/w500/yJPAj45aYpVNJgMYKEPUJ0iHnT4.jpg"
+      }
+    ],
+    "director": [
+      "Robert Eggers"
+    ]
   }
 }

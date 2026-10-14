@@ -17,6 +17,85 @@
           "rating": "4.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Jessica Alba",
+      "Thomas Jane",
+      "Lily Rabe",
+      "Shannon Woodward",
+      "Aleksa Palladino",
+      "Reid Scott",
+      "Lenny Jacobson",
+      "Meegan Warner",
+      "Jack De Sena",
+      "Stacey Turner",
+      "David Sullivan",
+      "Amber Friendly"
+    ],
+    "app_cast": [
+      {
+        "name": "Jessica Alba",
+        "character": "Maggie Price",
+        "photo": "https://image.tmdb.org/t/p/w500/hPoy6FRfiCIxguX3w2CoBbDoaEV.jpg"
+      },
+      {
+        "name": "Thomas Jane",
+        "character": "Jim Jacobs",
+        "photo": "https://image.tmdb.org/t/p/w500/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+      },
+      {
+        "name": "Lily Rabe",
+        "character": "Sarah Hope",
+        "photo": "https://image.tmdb.org/t/p/w500/mXTAWp502qXwolzFJdCG4rpdaZW.jpg"
+      },
+      {
+        "name": "Shannon Woodward",
+        "character": "Jill",
+        "photo": "https://image.tmdb.org/t/p/w500/780nmIy0B0sdhWRinHMwUPxhYgp.jpg"
+      },
+      {
+        "name": "Aleksa Palladino",
+        "character": "Karen Sweetzer",
+        "photo": "https://image.tmdb.org/t/p/w500/dJCeWrRBNKy8tEUQBlrZDvynwcd.jpg"
+      },
+      {
+        "name": "Reid Scott",
+        "character": "Nick",
+        "photo": "https://image.tmdb.org/t/p/w500/kBAeDUDA7XJRXFLGNALlpE5d3lA.jpg"
+      },
+      {
+        "name": "Lenny Jacobson",
+        "character": "Ed",
+        "photo": "https://image.tmdb.org/t/p/w500/ljpRA3yHIhjcsNTemUahpMAfGlS.jpg"
+      },
+      {
+        "name": "Meegan Warner",
+        "character": "Ann",
+        "photo": "https://image.tmdb.org/t/p/w500/snNLIhkkmNPjgz83C4EkWjLpXc7.jpg"
+      },
+      {
+        "name": "Jack De Sena",
+        "character": "Christian",
+        "photo": "https://image.tmdb.org/t/p/w500/i9VlMsPol6XIicnRZRiwmYSyE4P.jpg"
+      },
+      {
+        "name": "Stacey Turner",
+        "character": "Ann Sanders (Female Reporter)",
+        "photo": "https://image.tmdb.org/t/p/w500/9vNOZjmuhhvnrl6ee3UBQA5ZClz.jpg"
+      },
+      {
+        "name": "David Sullivan",
+        "character": "Matt",
+        "photo": "https://image.tmdb.org/t/p/w500/vUdSFwbtQJnmvdXgUKq7O6M1FoU.jpg"
+      },
+      {
+        "name": "Amber Friendly",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/zExIgS8VFoTc3hd45QGPCyd4yeU.jpg"
+      }
+    ],
+    "director": [
+      "Phil Joanou"
+    ]
   }
 }

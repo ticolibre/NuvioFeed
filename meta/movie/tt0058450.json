@@ -18,6 +18,80 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Catherine Deneuve",
+      "Nino Castelnuovo",
+      "Anne Vernon",
+      "Mireille Perrey",
+      "Marc Michel",
+      "Ellen Farner",
+      "Jean Champion",
+      "Jean-Pierre Dorat",
+      "Harald Wolff",
+      "Pierre Caden",
+      "Bernard Fradet",
+      "Michel Benoist"
+    ],
+    "app_cast": [
+      {
+        "name": "Catherine Deneuve",
+        "character": "Geneviève Emery",
+        "photo": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg"
+      },
+      {
+        "name": "Nino Castelnuovo",
+        "character": "Guy Foucher",
+        "photo": "https://image.tmdb.org/t/p/w500/mLrOoJfAYBrGFTuox3SWLHfB19o.jpg"
+      },
+      {
+        "name": "Anne Vernon",
+        "character": "Madame Emery",
+        "photo": "https://image.tmdb.org/t/p/w500/AdcPTUEEf6x8fcFMEvWC5RYn9Oy.jpg"
+      },
+      {
+        "name": "Mireille Perrey",
+        "character": "Tante Élise"
+      },
+      {
+        "name": "Marc Michel",
+        "character": "Roland Cassard",
+        "photo": "https://image.tmdb.org/t/p/w500/b7QbG4DDom3uPv6FMaVgV9HlAAc.jpg"
+      },
+      {
+        "name": "Ellen Farner",
+        "character": "Madeleine",
+        "photo": "https://image.tmdb.org/t/p/w500/dMoLUl6EXwkU2BpMsQtp4ZKOnBf.jpg"
+      },
+      {
+        "name": "Jean Champion",
+        "character": "Aubin",
+        "photo": "https://image.tmdb.org/t/p/w500/kXsJHwaiamlpvsfVFYLUvYGjijd.jpg"
+      },
+      {
+        "name": "Jean-Pierre Dorat",
+        "character": "Jean",
+        "photo": "https://image.tmdb.org/t/p/w500/s0Li0jJbDrLHtOs9wMjUnsqO2mY.jpg"
+      },
+      {
+        "name": "Harald Wolff",
+        "character": "Monsieur Dubourg"
+      },
+      {
+        "name": "Pierre Caden",
+        "character": "Bernard"
+      },
+      {
+        "name": "Bernard Fradet",
+        "character": "Gas Station Apprentice"
+      },
+      {
+        "name": "Michel Benoist",
+        "character": "Umbrella Buyer"
+      }
+    ],
+    "director": [
+      "Jacques Demy"
+    ]
   }
 }

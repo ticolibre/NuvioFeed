@@ -18,6 +18,31 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Mercier",
+      "Noah Lapid Preis",
+      "Naama Preis",
+      "Noa Har-Zion"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Mercier",
+        "photo": "https://image.tmdb.org/t/p/w500/hwU0bQ6bVyzwbOURKKEqmC5wbTJ.jpg"
+      },
+      {
+        "name": "Noah Lapid Preis"
+      },
+      {
+        "name": "Naama Preis",
+        "photo": "https://image.tmdb.org/t/p/w500/a9AxjvPELckTlZeCkk4YCQXHmOY.jpg"
+      },
+      {
+        "name": "Noa Har-Zion"
+      }
+    ],
+    "director": [
+      "Nadav Lapid"
+    ]
   }
 }

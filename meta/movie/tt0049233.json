@@ -18,6 +18,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Gary Cooper",
+      "Dorothy McGuire",
+      "Anthony Perkins",
+      "Richard Eyer",
+      "Robert Middleton",
+      "Phyllis Love",
+      "Peter Mark Richman",
+      "Walter Catlett",
+      "Richard Hale",
+      "Joel Fluellen",
+      "Theodore Newton",
+      "John Smith"
+    ],
+    "app_cast": [
+      {
+        "name": "Gary Cooper",
+        "character": "Jess Birdwell",
+        "photo": "https://image.tmdb.org/t/p/w500/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+      },
+      {
+        "name": "Dorothy McGuire",
+        "character": "Eliza Birdwell",
+        "photo": "https://image.tmdb.org/t/p/w500/v6dOzPAxifN2gpP8hyPrSxzc2LT.jpg"
+      },
+      {
+        "name": "Anthony Perkins",
+        "character": "Josh Birdwell",
+        "photo": "https://image.tmdb.org/t/p/w500/7FipKwmg2woHNvt5ATeXLBirHXs.jpg"
+      },
+      {
+        "name": "Richard Eyer",
+        "character": "Little Jess Birdwell",
+        "photo": "https://image.tmdb.org/t/p/w500/5j8JL93cFHpcSUnZTYMD1fTLlAf.jpg"
+      },
+      {
+        "name": "Robert Middleton",
+        "character": "Sam Jordan",
+        "photo": "https://image.tmdb.org/t/p/w500/4fRmtJXAIOOCcSpfHphmwepxPO2.jpg"
+      },
+      {
+        "name": "Phyllis Love",
+        "character": "Mattie Birdwell",
+        "photo": "https://image.tmdb.org/t/p/w500/rLm34sd2P0vjgIq3rPdwDWWtfJx.jpg"
+      },
+      {
+        "name": "Peter Mark Richman",
+        "character": "Gardner 'Gard' Jordan",
+        "photo": "https://image.tmdb.org/t/p/w500/vfW6hOOrisdCd1YKM9as9SIS9fb.jpg"
+      },
+      {
+        "name": "Walter Catlett",
+        "character": "Professor Quigley",
+        "photo": "https://image.tmdb.org/t/p/w500/c5ldUlcqrUuxpQE9iXqj9GlRZwt.jpg"
+      },
+      {
+        "name": "Richard Hale",
+        "character": "Purdy",
+        "photo": "https://image.tmdb.org/t/p/w500/ulkOrcMzgVrsg2pTevCdilrOlkl.jpg"
+      },
+      {
+        "name": "Joel Fluellen",
+        "character": "Enoch",
+        "photo": "https://image.tmdb.org/t/p/w500/shJfJVyHkz5QnPandT76sYaaYVw.jpg"
+      },
+      {
+        "name": "Theodore Newton",
+        "character": "Major Harvey",
+        "photo": "https://image.tmdb.org/t/p/w500/cwPqkXpCU5d7SEEiYjccDb0yoxZ.jpg"
+      },
+      {
+        "name": "John Smith",
+        "character": "Caleb Cope",
+        "photo": "https://image.tmdb.org/t/p/w500/msXvLTCwh1X7DogTfCJzyO5y2IW.jpg"
+      }
+    ],
+    "director": [
+      "William Wyler"
+    ]
   }
 }

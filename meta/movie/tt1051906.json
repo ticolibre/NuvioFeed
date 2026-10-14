@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Elisabeth Moss",
+      "Aldis Hodge",
+      "Storm Reid",
+      "Michael Dorman",
+      "Harriet Dyer",
+      "Oliver Jackson-Cohen",
+      "Benedict Hardie",
+      "Zara Michales",
+      "Renee Lim",
+      "Sam Smith",
+      "Nick Kici",
+      "Vivienne Greer"
+    ],
+    "app_cast": [
+      {
+        "name": "Elisabeth Moss",
+        "character": "Cecilia Kass",
+        "photo": "https://image.tmdb.org/t/p/w500/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg"
+      },
+      {
+        "name": "Aldis Hodge",
+        "character": "James Lanier",
+        "photo": "https://image.tmdb.org/t/p/w500/enDU0pemco1mFxxdLKUzWakC6sk.jpg"
+      },
+      {
+        "name": "Storm Reid",
+        "character": "Sydney Lanier",
+        "photo": "https://image.tmdb.org/t/p/w500/c5ld0nVHZ2dv25Jhn5DpXwTlXyH.jpg"
+      },
+      {
+        "name": "Michael Dorman",
+        "character": "Tom Griffin",
+        "photo": "https://image.tmdb.org/t/p/w500/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg"
+      },
+      {
+        "name": "Harriet Dyer",
+        "character": "Emily Kass",
+        "photo": "https://image.tmdb.org/t/p/w500/7IPlBqrPRicjvUSix7a2uk0Mf88.jpg"
+      },
+      {
+        "name": "Oliver Jackson-Cohen",
+        "character": "Adrian Griffin",
+        "photo": "https://image.tmdb.org/t/p/w500/dd84B5U7Zd2kAh7is35Yhn1qTZK.jpg"
+      },
+      {
+        "name": "Benedict Hardie",
+        "character": "Marc",
+        "photo": "https://image.tmdb.org/t/p/w500/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
+      },
+      {
+        "name": "Zara Michales",
+        "character": "Nurse",
+        "photo": "https://image.tmdb.org/t/p/w500/dTJopTPVQVv6Hvm839vWJAdMayS.jpg"
+      },
+      {
+        "name": "Renee Lim",
+        "character": "Doctor Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/J0VxJhlQW3PUxuMmlpmMh30DjA.jpg"
+      },
+      {
+        "name": "Sam Smith",
+        "character": "Detective Reckley",
+        "photo": "https://image.tmdb.org/t/p/w500/n0nSMnqTGEmLXfsQcm4vOVln3Ze.jpg"
+      },
+      {
+        "name": "Nick Kici",
+        "character": "Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/9gbWaUZrAo6AD3jD4HWc34DXVkj.jpg"
+      },
+      {
+        "name": "Vivienne Greer",
+        "character": "Screaming Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/aB4RqPCxlvPGzFlRVaQwoMims87.jpg"
+      }
+    ],
+    "director": [
+      "Leigh Whannell"
+    ]
   }
 }

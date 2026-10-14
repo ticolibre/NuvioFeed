@@ -18,6 +18,84 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Hassie Harrison",
+      "Jai Courtney",
+      "Josh Heuston",
+      "Rob Carlton",
+      "Ella Newton",
+      "Liam Greinke",
+      "Ali Basoka",
+      "Mike Goldman",
+      "Carla Haynes",
+      "Dylan Eastland",
+      "Jon Quested",
+      "James Munn"
+    ],
+    "app_cast": [
+      {
+        "name": "Hassie Harrison",
+        "character": "Zephyr",
+        "photo": "https://image.tmdb.org/t/p/w500/f7aN9NZnSSLNu56TLaLpoIOMIOe.jpg"
+      },
+      {
+        "name": "Jai Courtney",
+        "character": "Bruce Tucker",
+        "photo": "https://image.tmdb.org/t/p/w500/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+      },
+      {
+        "name": "Josh Heuston",
+        "character": "Moses Markley",
+        "photo": "https://image.tmdb.org/t/p/w500/31d2Hs4KixBj15CokgKlMaBcRlv.jpg"
+      },
+      {
+        "name": "Rob Carlton",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/8K0E0FaNDiCWvx1u6Xe3MAOHEGu.jpg"
+      },
+      {
+        "name": "Ella Newton",
+        "character": "Heather",
+        "photo": "https://image.tmdb.org/t/p/w500/qu6BQ51nvSYW5gxY6QX1bdtQlzl.jpg"
+      },
+      {
+        "name": "Liam Greinke",
+        "character": "Greg",
+        "photo": "https://image.tmdb.org/t/p/w500/qGbbF24LAPQFbFmpHlSKw0CZA5r.jpg"
+      },
+      {
+        "name": "Ali Basoka",
+        "character": "Little Girl Lexi",
+        "photo": "https://image.tmdb.org/t/p/w500/xWMZviJNwFmsokHThO9HNLlEFjI.jpg"
+      },
+      {
+        "name": "Mike Goldman",
+        "character": "Cop",
+        "photo": "https://image.tmdb.org/t/p/w500/bNsl86sEg125dHQS2aUzME1opKK.jpg"
+      },
+      {
+        "name": "Carla Haynes",
+        "character": "Lexi's Young Mum",
+        "photo": "https://image.tmdb.org/t/p/w500/z8Zeq9hK98al3LQOWuWSL50uMkI.jpg"
+      },
+      {
+        "name": "Dylan Eastland",
+        "character": "Store Cashier"
+      },
+      {
+        "name": "Jon Quested",
+        "character": "Senior Constable Green",
+        "photo": "https://image.tmdb.org/t/p/w500/7tpHhDx4I9ysdcBKa8OXKdxH8Uj.jpg"
+      },
+      {
+        "name": "James Munn",
+        "character": "Surfer 1",
+        "photo": "https://image.tmdb.org/t/p/w500/blosMD8nA6LM7xKhpRSvDhkDSNU.jpg"
+      }
+    ],
+    "director": [
+      "Sean Byrne"
+    ]
   }
 }

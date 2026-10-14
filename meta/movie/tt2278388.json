@@ -18,6 +18,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Tony Revolori",
+      "Adrien Brody",
+      "Willem Dafoe",
+      "Mathieu Amalric",
+      "Jeff Goldblum",
+      "Harvey Keitel",
+      "Jude Law",
+      "Bill Murray",
+      "Edward Norton",
+      "Saoirse Ronan"
+    ],
+    "app_cast": [
+      {
+        "name": "Ralph Fiennes",
+        "character": "M. Gustave",
+        "photo": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+      },
+      {
+        "name": "F. Murray Abraham",
+        "character": "Mr. Moustafa",
+        "photo": "https://image.tmdb.org/t/p/w500/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Zero",
+        "photo": "https://image.tmdb.org/t/p/w500/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+      },
+      {
+        "name": "Adrien Brody",
+        "character": "Dmitri",
+        "photo": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Jopling",
+        "photo": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Mathieu Amalric",
+        "character": "Serge X.",
+        "photo": "https://image.tmdb.org/t/p/w500/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Deputy Kovacs",
+        "photo": "https://image.tmdb.org/t/p/w500/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "Ludwig",
+        "photo": "https://image.tmdb.org/t/p/w500/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Young Author",
+        "photo": "https://image.tmdb.org/t/p/w500/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
+      },
+      {
+        "name": "Bill Murray",
+        "character": "M. Ivan",
+        "photo": "https://image.tmdb.org/t/p/w500/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "Henckels",
+        "photo": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+      },
+      {
+        "name": "Saoirse Ronan",
+        "character": "Agatha",
+        "photo": "https://image.tmdb.org/t/p/w500/tsk3iKGmMgXIGbRjwf2zYkh8Zkb.jpg"
+      }
+    ],
+    "director": [
+      "Wes Anderson"
+    ]
   }
 }

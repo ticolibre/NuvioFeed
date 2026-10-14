@@ -18,6 +18,85 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Dakota Johnson",
+      "Chris Evans",
+      "Pedro Pascal",
+      "Zoë Winters",
+      "Marin Ireland",
+      "Dasha Nekrasova",
+      "Emmy Wheeler",
+      "Louisa Jacobson",
+      "Eddie Cahill",
+      "Sawyer Spielberg",
+      "Joseph Lee",
+      "John Magaro"
+    ],
+    "app_cast": [
+      {
+        "name": "Dakota Johnson",
+        "character": "Lucy",
+        "photo": "https://image.tmdb.org/t/p/w500/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "John",
+        "photo": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "name": "Pedro Pascal",
+        "character": "Harry",
+        "photo": "https://image.tmdb.org/t/p/w500/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+      },
+      {
+        "name": "Zoë Winters",
+        "character": "Sophie",
+        "photo": "https://image.tmdb.org/t/p/w500/3Ej5luqqvdD3hZXAzFZbdRxj7CQ.jpg"
+      },
+      {
+        "name": "Marin Ireland",
+        "character": "Violet",
+        "photo": "https://image.tmdb.org/t/p/w500/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
+      },
+      {
+        "name": "Dasha Nekrasova",
+        "character": "Daisy",
+        "photo": "https://image.tmdb.org/t/p/w500/iEWg6G96sOtzRphRlJCVjw7TQOt.jpg"
+      },
+      {
+        "name": "Emmy Wheeler",
+        "character": "Rose",
+        "photo": "https://image.tmdb.org/t/p/w500/wChh4Xns8E395lXFdXloIq6utZN.jpg"
+      },
+      {
+        "name": "Louisa Jacobson",
+        "character": "Charlotte",
+        "photo": "https://image.tmdb.org/t/p/w500/7SM6mv5zuPr99prZ5jiFEidtW4T.jpg"
+      },
+      {
+        "name": "Eddie Cahill",
+        "character": "Robert",
+        "photo": "https://image.tmdb.org/t/p/w500/duEjKuDs0UAMknHrKzQF2FcWcYC.jpg"
+      },
+      {
+        "name": "Sawyer Spielberg",
+        "character": "Mason",
+        "photo": "https://image.tmdb.org/t/p/w500/lntpmCf2ePFwSYC1qdfI31IFUob.jpg"
+      },
+      {
+        "name": "Joseph Lee",
+        "character": "Trevor",
+        "photo": "https://image.tmdb.org/t/p/w500/77OZFr81qHDJl9JE9xAnsMj7Iuo.jpg"
+      },
+      {
+        "name": "John Magaro",
+        "character": "Mark P. (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+      }
+    ],
+    "director": [
+      "Celine Song"
+    ]
   }
 }

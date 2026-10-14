@@ -18,6 +18,84 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Emily Bader",
+      "Ari Notartomaso",
+      "Alexa Shae Niziak",
+      "Dan Lippert",
+      "Kyli Zion",
+      "Jaye Ayres-Brown",
+      "Wesley Han",
+      "Emerald Rose Sullivan",
+      "Roland Buck III",
+      "Jill Andre",
+      "Tom Nowicki",
+      "Colin Keane"
+    ],
+    "app_cast": [
+      {
+        "name": "Emily Bader",
+        "character": "Margot",
+        "photo": "https://image.tmdb.org/t/p/w500/uLm5JUkWsH1zUJI6tdgOCrQpq0u.jpg"
+      },
+      {
+        "name": "Ari Notartomaso",
+        "character": "Clara",
+        "photo": "https://image.tmdb.org/t/p/w500/b5OEmyhksVH1O0wAXMf9CU178md.jpg"
+      },
+      {
+        "name": "Alexa Shae Niziak",
+        "character": "Mary",
+        "photo": "https://image.tmdb.org/t/p/w500/gk03n5MzWwdNljq1yGL4hv390YP.jpg"
+      },
+      {
+        "name": "Dan Lippert",
+        "character": "Dale",
+        "photo": "https://image.tmdb.org/t/p/w500/1fr9gOBqnoJQwhMdoH1mmDuVFUY.jpg"
+      },
+      {
+        "name": "Kyli Zion",
+        "character": "Asmodeus",
+        "photo": "https://image.tmdb.org/t/p/w500/p9Yt2Zj982NjRbhUsbURpLX8rpo.jpg"
+      },
+      {
+        "name": "Jaye Ayres-Brown",
+        "character": "Samuel",
+        "photo": "https://image.tmdb.org/t/p/w500/upYWK7PhDJ4KTqRolUOqbL8RgD1.jpg"
+      },
+      {
+        "name": "Wesley Han",
+        "character": "Jeremy",
+        "photo": "https://image.tmdb.org/t/p/w500/2Xdn0JtoPFEWHqXGgWjhuqGH0ul.jpg"
+      },
+      {
+        "name": "Emerald Rose Sullivan",
+        "character": "Kendra",
+        "photo": "https://image.tmdb.org/t/p/w500/lklBGsXFae8X1cVGRPHVwdHwVBm.jpg"
+      },
+      {
+        "name": "Roland Buck III",
+        "character": "Chris",
+        "photo": "https://image.tmdb.org/t/p/w500/l9wN7I78oAyndaJ42WEsWGTPeTC.jpg"
+      },
+      {
+        "name": "Jill Andre",
+        "character": "Lavina"
+      },
+      {
+        "name": "Tom Nowicki",
+        "character": "Jacob",
+        "photo": "https://image.tmdb.org/t/p/w500/b823hpQ5FzQeom8Sj6DJ81ezVWQ.jpg"
+      },
+      {
+        "name": "Colin Keane",
+        "character": "Eli",
+        "photo": "https://image.tmdb.org/t/p/w500/1juUo694q9uC5WwNordWx4zeFLY.jpg"
+      }
+    ],
+    "director": [
+      "William Eubank"
+    ]
   }
 }

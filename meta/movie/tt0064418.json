@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Barbra Streisand",
+      "Walter Matthau",
+      "Michael Crawford",
+      "Marianne McAndrew",
+      "Danny Lockin",
+      "E.J. Peaker",
+      "Joyce Ames",
+      "Tommy Tune",
+      "Judy Knaiz",
+      "David Hurst",
+      "Fritz Feld",
+      "Richard Collier"
+    ],
+    "app_cast": [
+      {
+        "name": "Barbra Streisand",
+        "character": "Dolly Levi",
+        "photo": "https://image.tmdb.org/t/p/w500/6YD223jsdZX7VnWSjGjP1S7Xj6X.jpg"
+      },
+      {
+        "name": "Walter Matthau",
+        "character": "Horace Vandergelder",
+        "photo": "https://image.tmdb.org/t/p/w500/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+      },
+      {
+        "name": "Michael Crawford",
+        "character": "Cornelius Hackl",
+        "photo": "https://image.tmdb.org/t/p/w500/pJAKSlgawo9Sr3Ykiljju3QE5Zj.jpg"
+      },
+      {
+        "name": "Marianne McAndrew",
+        "character": "Irene Molloy",
+        "photo": "https://image.tmdb.org/t/p/w500/yn2Ybla5qA7wud4OWXsTqDayZOJ.jpg"
+      },
+      {
+        "name": "Danny Lockin",
+        "character": "Barnaby Tucker",
+        "photo": "https://image.tmdb.org/t/p/w500/yK5ahhGDmh6EX0Sw4mPILF6wH8j.jpg"
+      },
+      {
+        "name": "E.J. Peaker",
+        "character": "Minnie Fay",
+        "photo": "https://image.tmdb.org/t/p/w500/pWjmEkq5DIyOmhWr5J6jFU1fKd1.jpg"
+      },
+      {
+        "name": "Joyce Ames",
+        "character": "Ermengarde",
+        "photo": "https://image.tmdb.org/t/p/w500/pst2BCqJZPbU7KenbzeB62yhtBT.jpg"
+      },
+      {
+        "name": "Tommy Tune",
+        "character": "Ambrose Kemper",
+        "photo": "https://image.tmdb.org/t/p/w500/dXZnfj1Sf5Ktc96i4bgIUvQDsVB.jpg"
+      },
+      {
+        "name": "Judy Knaiz",
+        "character": "Gussie Granger",
+        "photo": "https://image.tmdb.org/t/p/w500/A0p17lI8P3tsWbU4IBlSQcsRG86.jpg"
+      },
+      {
+        "name": "David Hurst",
+        "character": "Rudolph Reisenweber",
+        "photo": "https://image.tmdb.org/t/p/w500/rZf30b5FyfVNUNNVOb8GlGgMjuY.jpg"
+      },
+      {
+        "name": "Fritz Feld",
+        "character": "Rudolph's Assistant",
+        "photo": "https://image.tmdb.org/t/p/w500/yVT0Gv9O4K9UHU8jBx8D01lZjYZ.jpg"
+      },
+      {
+        "name": "Richard Collier",
+        "character": "Vandergelder's Barber",
+        "photo": "https://image.tmdb.org/t/p/w500/jie7QW93nzCsKmzHZabMHu02oPA.jpg"
+      }
+    ],
+    "director": [
+      "Gene Kelly"
+    ]
   }
 }

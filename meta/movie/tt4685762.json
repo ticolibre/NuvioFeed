@@ -19,6 +19,85 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Cailee Spaeny",
+      "Zoey Luna",
+      "Gideon Adlon",
+      "Lovie Simone",
+      "David Duchovny",
+      "Michelle Monaghan",
+      "Nicholas Galitzine",
+      "Julian Grey",
+      "Charles Vandervaart",
+      "Donald MacLean Jr.",
+      "Fairuza Balk",
+      "Hannah Gordon"
+    ],
+    "app_cast": [
+      {
+        "name": "Cailee Spaeny",
+        "character": "Lily",
+        "photo": "https://image.tmdb.org/t/p/w500/6gUzyMnwo7TjZA7E1Amd1GI8JGw.jpg"
+      },
+      {
+        "name": "Zoey Luna",
+        "character": "Lourdes",
+        "photo": "https://image.tmdb.org/t/p/w500/raqPWDnjGn6iipbvMMgGhBjMX4h.jpg"
+      },
+      {
+        "name": "Gideon Adlon",
+        "character": "Frankie",
+        "photo": "https://image.tmdb.org/t/p/w500/2z8IfO0ccm932usPJUEcR1u6Oma.jpg"
+      },
+      {
+        "name": "Lovie Simone",
+        "character": "Tabby",
+        "photo": "https://image.tmdb.org/t/p/w500/8O709kbtGUtffT2eypPpzYZemYR.jpg"
+      },
+      {
+        "name": "David Duchovny",
+        "character": "Adam",
+        "photo": "https://image.tmdb.org/t/p/w500/fD8GuLHOOSSAG98VjwN3NhAmqAJ.jpg"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "character": "Helen",
+        "photo": "https://image.tmdb.org/t/p/w500/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg"
+      },
+      {
+        "name": "Nicholas Galitzine",
+        "character": "Timmy",
+        "photo": "https://image.tmdb.org/t/p/w500/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+      },
+      {
+        "name": "Julian Grey",
+        "character": "Abe",
+        "photo": "https://image.tmdb.org/t/p/w500/zX57GXBu9v75IWupH9Cp9Ju7wMr.jpg"
+      },
+      {
+        "name": "Charles Vandervaart",
+        "character": "Jacob",
+        "photo": "https://image.tmdb.org/t/p/w500/wo18r0IXjPhrybDFXHH6l68BeNW.jpg"
+      },
+      {
+        "name": "Donald MacLean Jr.",
+        "character": "Isaiah",
+        "photo": "https://image.tmdb.org/t/p/w500/jYRYxYOADVOeDGtMHmkJiAXxLMq.jpg"
+      },
+      {
+        "name": "Fairuza Balk",
+        "character": "Nancy Downs",
+        "photo": "https://image.tmdb.org/t/p/w500/jJGfElPOapRPRm99eovc3EUgLxp.jpg"
+      },
+      {
+        "name": "Hannah Gordon",
+        "character": "Ashley",
+        "photo": "https://image.tmdb.org/t/p/w500/gQuLSwlhDHfaamkIkrUk7A92upT.jpg"
+      }
+    ],
+    "director": [
+      "Zoe Lister-Jones"
+    ]
   }
 }

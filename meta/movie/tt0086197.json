@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Sam Shepard",
+      "Scott Glenn",
+      "Ed Harris",
+      "Dennis Quaid",
+      "Fred Ward",
+      "Barbara Hershey",
+      "Kim Stanley",
+      "Veronica Cartwright",
+      "Pamela Reed",
+      "Scott Paulin",
+      "Charles Frank",
+      "Lance Henriksen"
+    ],
+    "app_cast": [
+      {
+        "name": "Sam Shepard",
+        "character": "Chuck Yeager",
+        "photo": "https://image.tmdb.org/t/p/w500/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+      },
+      {
+        "name": "Scott Glenn",
+        "character": "Alan Shepard",
+        "photo": "https://image.tmdb.org/t/p/w500/8DHORod2l6ZFS9KR0gNAAM3WZfI.jpg"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "John Glenn",
+        "photo": "https://image.tmdb.org/t/p/w500/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+      },
+      {
+        "name": "Dennis Quaid",
+        "character": "Gordon Cooper",
+        "photo": "https://image.tmdb.org/t/p/w500/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+      },
+      {
+        "name": "Fred Ward",
+        "character": "Gus Grissom",
+        "photo": "https://image.tmdb.org/t/p/w500/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
+      },
+      {
+        "name": "Barbara Hershey",
+        "character": "Glennis Yeager",
+        "photo": "https://image.tmdb.org/t/p/w500/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+      },
+      {
+        "name": "Kim Stanley",
+        "character": "Pancho Barnes",
+        "photo": "https://image.tmdb.org/t/p/w500/1wiANedJx3tEvPYrVCTe3SW5Oag.jpg"
+      },
+      {
+        "name": "Veronica Cartwright",
+        "character": "Betty Grissom",
+        "photo": "https://image.tmdb.org/t/p/w500/1CiknHO8ssMM4bWPsIMMzCTVHeB.jpg"
+      },
+      {
+        "name": "Pamela Reed",
+        "character": "Trudy Cooper",
+        "photo": "https://image.tmdb.org/t/p/w500/xnl8fp434SpB2e1iPw7NpEcYHNd.jpg"
+      },
+      {
+        "name": "Scott Paulin",
+        "character": "Deke Slayton",
+        "photo": "https://image.tmdb.org/t/p/w500/cGSy2R21wL02JzTbEQl4DxyMDNZ.jpg"
+      },
+      {
+        "name": "Charles Frank",
+        "character": "Scott Carpenter",
+        "photo": "https://image.tmdb.org/t/p/w500/aBnxFzuEMf6IxmyrW49JbL9xO0X.jpg"
+      },
+      {
+        "name": "Lance Henriksen",
+        "character": "Wally Schirra",
+        "photo": "https://image.tmdb.org/t/p/w500/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+      }
+    ],
+    "director": [
+      "Philip Kaufman"
+    ]
   }
 }

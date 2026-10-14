@@ -18,6 +18,87 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Samantha Cochran",
+      "Natalia Montgomery Fernandez",
+      "Elena Musser",
+      "Adam Carr",
+      "Charlotte Mae Curtis",
+      "Charlie Gehrt",
+      "Samuel Charles",
+      "Brayon Cutrer",
+      "Teo Planell",
+      "María Romanillos",
+      "Ismael Martínez",
+      "Sonia Almarcha"
+    ],
+    "app_cast": [
+      {
+        "name": "Samantha Cochran",
+        "character": "Lacie (segment \"Coochie Coochie Coo\")",
+        "photo": "https://image.tmdb.org/t/p/w500/xrdmIo9818mmYBwJds4Sq3L4fCM.jpg"
+      },
+      {
+        "name": "Natalia Montgomery Fernandez",
+        "character": "Kaleigh (segment \"Coochie Coochie Coo\")",
+        "photo": "https://image.tmdb.org/t/p/w500/m2psd0RyGDWbIjTiItNNqoK5JnN.jpg"
+      },
+      {
+        "name": "Elena Musser",
+        "character": "The Mommy (segment \"Coochie Coochie Coo\")",
+        "photo": "https://image.tmdb.org/t/p/w500/5XBLNNHCtcCIFeQbajWJTy4RUuP.jpg"
+      },
+      {
+        "name": "Adam Carr",
+        "character": "Diaper Man (segment \"Coochie Coochie Coo\")",
+        "photo": "https://image.tmdb.org/t/p/w500/zogGffLhN7wNJV65dye1kImRF8q.jpg"
+      },
+      {
+        "name": "Charlotte Mae Curtis",
+        "character": "The Cheerleader (segment \"Coochie Coochie Coo\")"
+      },
+      {
+        "name": "Charlie Gehrt",
+        "character": "Kid #1 (segment \"Coochie Coochie Coo\")"
+      },
+      {
+        "name": "Samuel Charles",
+        "character": "Kid #2 (segment \"Coochie Coochie Coo\")"
+      },
+      {
+        "name": "Brayon Cutrer",
+        "character": "Kid #3 (segment \"Coochie Coochie Coo\")"
+      },
+      {
+        "name": "Teo Planell",
+        "character": "Enric (segment \"Ut Supra Sic Infra\")",
+        "photo": "https://image.tmdb.org/t/p/w500/o8WLv7PDem2PuoS3uqp32l9ZWD4.jpg"
+      },
+      {
+        "name": "María Romanillos",
+        "character": "Vicky (segment \"Ut Supra Sic Infra\")",
+        "photo": "https://image.tmdb.org/t/p/w500/sjFIhCetynIKYorwNWiU5gebsP7.jpg"
+      },
+      {
+        "name": "Ismael Martínez",
+        "character": "Inspector (segment \"Ut Supra Sic Infra\")",
+        "photo": "https://image.tmdb.org/t/p/w500/yCmKNXBSdtBybQrWAIdMfW40fN1.jpg"
+      },
+      {
+        "name": "Sonia Almarcha",
+        "character": "Jueza (segment \"Ut Supra Sic Infra\")",
+        "photo": "https://image.tmdb.org/t/p/w500/3dCeLMVuexRKeCIzjwv3c0JCpm6.jpg"
+      }
+    ],
+    "director": [
+      "Bryan M. Ferguson",
+      "Casper Kelly",
+      "Micheline Pitt-Norman",
+      "R.H. Norman",
+      "Alex Ross Perry",
+      "Paco Plaza",
+      "Anna Zlokovic"
+    ]
   }
 }

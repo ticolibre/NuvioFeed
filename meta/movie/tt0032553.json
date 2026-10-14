@@ -18,6 +18,85 @@
           "rating": "8.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Charlie Chaplin",
+      "Paulette Goddard",
+      "Jack Oakie",
+      "Reginald Gardiner",
+      "Henry Daniell",
+      "Billy Gilbert",
+      "Grace Hayle",
+      "Carter DeHaven",
+      "Maurice Moscovitch",
+      "Emma Dunn",
+      "Bernard Gorcey",
+      "Paul Weigel"
+    ],
+    "app_cast": [
+      {
+        "name": "Charlie Chaplin",
+        "character": "Adenoid Hynkel, Dictator of Tomania / A Jewish Barber",
+        "photo": "https://image.tmdb.org/t/p/w500/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
+      },
+      {
+        "name": "Paulette Goddard",
+        "character": "Hannah",
+        "photo": "https://image.tmdb.org/t/p/w500/7fMtXuVbJMbsFB4U3CsgDdivizP.jpg"
+      },
+      {
+        "name": "Jack Oakie",
+        "character": "Benzino Napaloni, Dictator of Bacteria",
+        "photo": "https://image.tmdb.org/t/p/w500/9oWdEicbTjfpfiCtvvYuxi0UseU.jpg"
+      },
+      {
+        "name": "Reginald Gardiner",
+        "character": "Commander Schultz",
+        "photo": "https://image.tmdb.org/t/p/w500/yufdzor5RheT4FYx1Ywm4mo2TlG.jpg"
+      },
+      {
+        "name": "Henry Daniell",
+        "character": "Garbitsch",
+        "photo": "https://image.tmdb.org/t/p/w500/5g4V2fKBAI5TGjqfItfsnPjqZN9.jpg"
+      },
+      {
+        "name": "Billy Gilbert",
+        "character": "Field Marshal Herring",
+        "photo": "https://image.tmdb.org/t/p/w500/xEqQLDrbtY2TlANNbXwXPG3ZDyK.jpg"
+      },
+      {
+        "name": "Grace Hayle",
+        "character": "Madame Napaloni",
+        "photo": "https://image.tmdb.org/t/p/w500/8wijnbZLJ8t4TBeP0rog0RbQGtY.jpg"
+      },
+      {
+        "name": "Carter DeHaven",
+        "character": "Spook",
+        "photo": "https://image.tmdb.org/t/p/w500/vDJT0nCHrseSXFF9VuDh10fE0BI.jpg"
+      },
+      {
+        "name": "Maurice Moscovitch",
+        "character": "Mr. Jaeckel",
+        "photo": "https://image.tmdb.org/t/p/w500/dMeJFcgwzbDzPKtPPeqisABVbV5.jpg"
+      },
+      {
+        "name": "Emma Dunn",
+        "character": "Mrs. Jaeckel",
+        "photo": "https://image.tmdb.org/t/p/w500/gg8SC7cBPYWzGqjYSJ3qWcpy0vI.jpg"
+      },
+      {
+        "name": "Bernard Gorcey",
+        "character": "Mr. Mann",
+        "photo": "https://image.tmdb.org/t/p/w500/9fZnp4rWvCJS4ZPcDz6QzhtqtxC.jpg"
+      },
+      {
+        "name": "Paul Weigel",
+        "character": "Mr. Agar",
+        "photo": "https://image.tmdb.org/t/p/w500/9NTRs4Hkg1HbEXd2zHINobcfwH8.jpg"
+      }
+    ],
+    "director": [
+      "Charlie Chaplin"
+    ]
   }
 }

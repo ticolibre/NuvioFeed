@@ -18,6 +18,85 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Justice Smith",
+      "Jack Haven",
+      "Ian Foreman",
+      "Helena Howard",
+      "Lindsey Jordan",
+      "Danielle Deadwyler",
+      "Fred Durst",
+      "Conner O'Malley",
+      "Emma Portner",
+      "Madaline Riley",
+      "Amber Benson",
+      "Albert Birney"
+    ],
+    "app_cast": [
+      {
+        "name": "Justice Smith",
+        "character": "Owen",
+        "photo": "https://image.tmdb.org/t/p/w500/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+      },
+      {
+        "name": "Jack Haven",
+        "character": "Maddy",
+        "photo": "https://image.tmdb.org/t/p/w500/g62akOVDYSsRXEj16CeFZx6QcIO.jpg"
+      },
+      {
+        "name": "Ian Foreman",
+        "character": "Young Owen",
+        "photo": "https://image.tmdb.org/t/p/w500/jemjGege3JFSQR38KArIBAC2tap.jpg"
+      },
+      {
+        "name": "Helena Howard",
+        "character": "Isabel",
+        "photo": "https://image.tmdb.org/t/p/w500/xOb2IwfqTCERL3vKZkEItA1Dhme.jpg"
+      },
+      {
+        "name": "Lindsey Jordan",
+        "character": "Tara",
+        "photo": "https://image.tmdb.org/t/p/w500/ppwpbUA6bvpTsZf1ft2viiXgY0A.jpg"
+      },
+      {
+        "name": "Danielle Deadwyler",
+        "character": "Brenda",
+        "photo": "https://image.tmdb.org/t/p/w500/9XIVrT3xzmEnovPiM5ZV7n89c2b.jpg"
+      },
+      {
+        "name": "Fred Durst",
+        "character": "Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/ywWlh7GUBLUcb8fw4sw8NSjHvgW.jpg"
+      },
+      {
+        "name": "Conner O'Malley",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/fawKUZzyxv7MJRA2kcJ2C8Tp2Hk.jpg"
+      },
+      {
+        "name": "Emma Portner",
+        "character": "Amanda / Mr. Melancholy / Marco / Evil Clown",
+        "photo": "https://image.tmdb.org/t/p/w500/tzzreWsPsrvpmCPThYWMsaLgbkS.jpg"
+      },
+      {
+        "name": "Madaline Riley",
+        "character": "Polo",
+        "photo": "https://image.tmdb.org/t/p/w500/uX4spFse3jPQ4w8DvKiAFwPqDWp.jpg"
+      },
+      {
+        "name": "Amber Benson",
+        "character": "Johnny Link's Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/vEBdN1BhSOG2pCZPpCb6dgj6Wer.jpg"
+      },
+      {
+        "name": "Albert Birney",
+        "character": "Mr. Sprinkly",
+        "photo": "https://image.tmdb.org/t/p/w500/7QVFW5DRn8ENAx3ThGSOFWQ24NS.jpg"
+      }
+    ],
+    "director": [
+      "Jane Schoenbrun"
+    ]
   }
 }

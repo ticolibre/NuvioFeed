@@ -17,6 +17,84 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael Moore",
+      "John Conyers",
+      "Abdul Henderson",
+      "Craig Unger",
+      "George W. Bush",
+      "Saddam Hussein",
+      "Osama bin Laden",
+      "Larry King",
+      "George H. W. Bush",
+      "Bill Clinton",
+      "Al Gore",
+      "Donald Rumsfeld"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael Moore",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/m5YViuBUXfKAHNEUObGpzhzQPgE.jpg"
+      },
+      {
+        "name": "John Conyers",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/tljNgv0O09JSvtaFlg1VRFzKgLq.jpg"
+      },
+      {
+        "name": "Abdul Henderson",
+        "character": "Self"
+      },
+      {
+        "name": "Craig Unger",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/45juew3KDN3djeP4R89YfY3jYoD.jpg"
+      },
+      {
+        "name": "George W. Bush",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/6u9fUB5p0ugbMrPoQ5GF7baERiA.jpg"
+      },
+      {
+        "name": "Saddam Hussein",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/36F2KDIda4TzULPlxgkqXx8kyth.jpg"
+      },
+      {
+        "name": "Osama bin Laden",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/hzbPwf6XaPul7eI4N2U4t267uqd.jpg"
+      },
+      {
+        "name": "Larry King",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/afNrrwBSbeFLrh0dVHvlMRRyont.jpg"
+      },
+      {
+        "name": "George H. W. Bush",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/skB35M0jMrXfnY8mshwSh8ShCf0.jpg"
+      },
+      {
+        "name": "Bill Clinton",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/mIgqL0UAEKSl1Ry58wgQYq2sAt6.jpg"
+      },
+      {
+        "name": "Al Gore",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/d94rd5msc0XppeMvhwtONIadYc1.jpg"
+      },
+      {
+        "name": "Donald Rumsfeld",
+        "character": "Self (archive footage)",
+        "photo": "https://image.tmdb.org/t/p/w500/dsyMnhpxGZHzBhPAHiDNBDtOwSb.jpg"
+      }
+    ],
+    "director": [
+      "Michael Moore"
+    ]
   }
 }

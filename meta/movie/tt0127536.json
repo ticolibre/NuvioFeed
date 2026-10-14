@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Cate Blanchett",
+      "Joseph Fiennes",
+      "Geoffrey Rush",
+      "Christopher Eccleston",
+      "John Gielgud",
+      "Richard Attenborough",
+      "Fanny Ardant",
+      "Éric Cantona",
+      "Vincent Cassel",
+      "Kathy Burke",
+      "Edward Hardwicke",
+      "Emily Mortimer"
+    ],
+    "app_cast": [
+      {
+        "name": "Cate Blanchett",
+        "character": "Elizabeth I",
+        "photo": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        "name": "Joseph Fiennes",
+        "character": "Robert Dudley, Earl of Leicester",
+        "photo": "https://image.tmdb.org/t/p/w500/fcqZXeEyL6z5vkidPtsMu99JtpB.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Sir Francis Walsingham",
+        "photo": "https://image.tmdb.org/t/p/w500/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Christopher Eccleston",
+        "character": "Duke of Norfolk",
+        "photo": "https://image.tmdb.org/t/p/w500/v6ezjezzDo6xP2wlONO5ZzBciwl.jpg"
+      },
+      {
+        "name": "John Gielgud",
+        "character": "The Pope",
+        "photo": "https://image.tmdb.org/t/p/w500/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg"
+      },
+      {
+        "name": "Richard Attenborough",
+        "character": "Sir William Cecil",
+        "photo": "https://image.tmdb.org/t/p/w500/mJGvNS69xUqiNRybKzPl2Zuxe9Z.jpg"
+      },
+      {
+        "name": "Fanny Ardant",
+        "character": "Mary of Guise",
+        "photo": "https://image.tmdb.org/t/p/w500/q8Hj88E3ME5z795haGMqVDwFDjp.jpg"
+      },
+      {
+        "name": "Éric Cantona",
+        "character": "Monsieur de Foix",
+        "photo": "https://image.tmdb.org/t/p/w500/lMIXZd1QiHH7Y5emujCKGnRh6np.jpg"
+      },
+      {
+        "name": "Vincent Cassel",
+        "character": "Duc d'Anjou",
+        "photo": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+      },
+      {
+        "name": "Kathy Burke",
+        "character": "Queen Mary Tudor",
+        "photo": "https://image.tmdb.org/t/p/w500/q3z7nP1ryyGuwixShrBmghcmm0F.jpg"
+      },
+      {
+        "name": "Edward Hardwicke",
+        "character": "Earl of Arundel",
+        "photo": "https://image.tmdb.org/t/p/w500/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
+      },
+      {
+        "name": "Emily Mortimer",
+        "character": "Kat Ashley",
+        "photo": "https://image.tmdb.org/t/p/w500/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg"
+      }
+    ],
+    "director": [
+      "Shekhar Kapur"
+    ]
   }
 }

@@ -18,6 +18,83 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Jennifer Lawrence",
+      "John Hawkes",
+      "Kevin Breznahan",
+      "Dale Dickey",
+      "Garret Dillahunt",
+      "Sheryl Lee",
+      "Shelley Waggener",
+      "Isaiah Stone",
+      "Lauren Sweetser",
+      "Ashlee Thompson",
+      "Valerie Richards",
+      "Cinnamon Schultz"
+    ],
+    "app_cast": [
+      {
+        "name": "Jennifer Lawrence",
+        "character": "Ree Dolly",
+        "photo": "https://image.tmdb.org/t/p/w500/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+      },
+      {
+        "name": "John Hawkes",
+        "character": "Teardrop",
+        "photo": "https://image.tmdb.org/t/p/w500/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+      },
+      {
+        "name": "Kevin Breznahan",
+        "character": "Little Arthur",
+        "photo": "https://image.tmdb.org/t/p/w500/jKKkDdDSHptbwUVkfel77p922Ai.jpg"
+      },
+      {
+        "name": "Dale Dickey",
+        "character": "Merab",
+        "photo": "https://image.tmdb.org/t/p/w500/588WXHw17JYi2rAqIVQXzgYENu3.jpg"
+      },
+      {
+        "name": "Garret Dillahunt",
+        "character": "Sheriff Baskin",
+        "photo": "https://image.tmdb.org/t/p/w500/7wHWTkIhre0j9L9CY2t5VVwg630.jpg"
+      },
+      {
+        "name": "Sheryl Lee",
+        "character": "April",
+        "photo": "https://image.tmdb.org/t/p/w500/kqAg6YjwTM1l7Ijffl6W3LCreSF.jpg"
+      },
+      {
+        "name": "Shelley Waggener",
+        "character": "Sonya",
+        "photo": "https://image.tmdb.org/t/p/w500/9GiYzgh1YwwjLbycwuvHYf8FaRB.jpg"
+      },
+      {
+        "name": "Isaiah Stone",
+        "character": "Sonny",
+        "photo": "https://image.tmdb.org/t/p/w500/xoOFTn5wpqxKv6cnPtAv4Xs36G7.jpg"
+      },
+      {
+        "name": "Lauren Sweetser",
+        "character": "Gail",
+        "photo": "https://image.tmdb.org/t/p/w500/zmfl2fRqbgXXac4nz5ZjJH7kk0l.jpg"
+      },
+      {
+        "name": "Ashlee Thompson",
+        "character": "Ashlee"
+      },
+      {
+        "name": "Valerie Richards",
+        "character": "Connie"
+      },
+      {
+        "name": "Cinnamon Schultz",
+        "character": "Victoria",
+        "photo": "https://image.tmdb.org/t/p/w500/6JwAjUXSV0J6GJlQNoBOQuTPjSs.jpg"
+      }
+    ],
+    "director": [
+      "Debra Granik"
+    ]
   }
 }

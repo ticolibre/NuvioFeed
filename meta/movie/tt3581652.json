@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Ansel Elgort",
+      "Rachel Zegler",
+      "Ariana DeBose",
+      "David Alvarez",
+      "Mike Faist",
+      "Brian d'Arcy James",
+      "Corey Stoll",
+      "Rita Moreno",
+      "Josh Rivera",
+      "Ana Isabelle",
+      "Ilda Mason",
+      "iris menas"
+    ],
+    "app_cast": [
+      {
+        "name": "Ansel Elgort",
+        "character": "Tony",
+        "photo": "https://image.tmdb.org/t/p/w500/pbU6qz8eudly20UE6u9T7jUXTgT.jpg"
+      },
+      {
+        "name": "Rachel Zegler",
+        "character": "María",
+        "photo": "https://image.tmdb.org/t/p/w500/2zR0rz3yluyWoFgCL3lGAPoRWlz.jpg"
+      },
+      {
+        "name": "Ariana DeBose",
+        "character": "Anita",
+        "photo": "https://image.tmdb.org/t/p/w500/sPJo4F7NxllcPD1oSi6uh9OpAyj.jpg"
+      },
+      {
+        "name": "David Alvarez",
+        "character": "Bernardo",
+        "photo": "https://image.tmdb.org/t/p/w500/gQ9VIVXq6N11LMhVaEEGmRD5uqA.jpg"
+      },
+      {
+        "name": "Mike Faist",
+        "character": "Riff",
+        "photo": "https://image.tmdb.org/t/p/w500/xRl1Pa8a80L3QUT7LrTtlTZv1l4.jpg"
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Officer Krupke",
+        "photo": "https://image.tmdb.org/t/p/w500/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+      },
+      {
+        "name": "Corey Stoll",
+        "character": "Lieutenant Schrank",
+        "photo": "https://image.tmdb.org/t/p/w500/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+      },
+      {
+        "name": "Rita Moreno",
+        "character": "Valentina",
+        "photo": "https://image.tmdb.org/t/p/w500/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+      },
+      {
+        "name": "Josh Rivera",
+        "character": "Chino",
+        "photo": "https://image.tmdb.org/t/p/w500/YKPq9GKl4ffoEeat7DZmlsOlxx.jpg"
+      },
+      {
+        "name": "Ana Isabelle",
+        "character": "Rosalía",
+        "photo": "https://image.tmdb.org/t/p/w500/7Nxp17PyLleWns6iiKfD1bEk7Ei.jpg"
+      },
+      {
+        "name": "Ilda Mason",
+        "character": "Luz",
+        "photo": "https://image.tmdb.org/t/p/w500/AqtJokCzeoLcRAiR1pKVMtbdba8.jpg"
+      },
+      {
+        "name": "iris menas",
+        "character": "Anybodys",
+        "photo": "https://image.tmdb.org/t/p/w500/2VyxrT7bkXcUyWEzDmbePyHVyUN.jpg"
+      }
+    ],
+    "director": [
+      "Steven Spielberg"
+    ]
   }
 }

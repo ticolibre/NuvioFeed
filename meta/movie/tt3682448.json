@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Hanks",
+      "Mark Rylance",
+      "Amy Ryan",
+      "Alan Alda",
+      "Sebastian Koch",
+      "Austin Stowell",
+      "Billy Magnussen",
+      "Michael Simon Hall",
+      "Edward James Hyland",
+      "Stephen Kunken",
+      "Mike Houston",
+      "James Lorinz"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "James B. Donovan",
+        "photo": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "Rudolf Abel",
+        "photo": "https://image.tmdb.org/t/p/w500/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Amy Ryan",
+        "character": "Mary Donovan",
+        "photo": "https://image.tmdb.org/t/p/w500/rE0YBJr3R6GcKu6Gw4K2lGW0ctC.jpg"
+      },
+      {
+        "name": "Alan Alda",
+        "character": "Thomas Watters Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/a5tOOHdsrKSabKwdzDOYqeTp446.jpg"
+      },
+      {
+        "name": "Sebastian Koch",
+        "character": "Wolfgang Vogel",
+        "photo": "https://image.tmdb.org/t/p/w500/3n3BP3FmuFinFokeGx0cHhM4XBH.jpg"
+      },
+      {
+        "name": "Austin Stowell",
+        "character": "Francis Gary Powers",
+        "photo": "https://image.tmdb.org/t/p/w500/At09XQpVXnChgedNsxu4ceR5W9i.jpg"
+      },
+      {
+        "name": "Billy Magnussen",
+        "character": "Doug Forrester",
+        "photo": "https://image.tmdb.org/t/p/w500/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg"
+      },
+      {
+        "name": "Michael Simon Hall",
+        "character": "Reporter",
+        "photo": "https://image.tmdb.org/t/p/w500/8IOOq3YxYILghwnl0FyQPbVdTtC.jpg"
+      },
+      {
+        "name": "Edward James Hyland",
+        "character": "Chief Justice Earl Warren",
+        "photo": "https://image.tmdb.org/t/p/w500/8B0SKLTuvRgniMpgioW2LibLEcH.jpg"
+      },
+      {
+        "name": "Stephen Kunken",
+        "character": "William Tompkins",
+        "photo": "https://image.tmdb.org/t/p/w500/4WbttnF6FOrx0DjKYoW9atYw21m.jpg"
+      },
+      {
+        "name": "Mike Houston",
+        "character": "Man in Courtroom",
+        "photo": "https://image.tmdb.org/t/p/w500/slFvhF8uFXfnrquxVbcbx3lFSRz.jpg"
+      },
+      {
+        "name": "James Lorinz",
+        "character": "Gentleman on Subway #2",
+        "photo": "https://image.tmdb.org/t/p/w500/w6DdB2hjFjlhK70FTss0eqZWbEd.jpg"
+      }
+    ],
+    "director": [
+      "Steven Spielberg"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Kristen Stewart",
+      "Katy O'Brian",
+      "Ed Harris",
+      "Dave Franco",
+      "Jena Malone",
+      "Anna Baryshnikov",
+      "Orion Carrington",
+      "Matthew Blood-Smyth",
+      "David DeLao",
+      "Hilary Fleming",
+      "Eldon Jones",
+      "Catherine Haun"
+    ],
+    "app_cast": [
+      {
+        "name": "Kristen Stewart",
+        "character": "Lou",
+        "photo": "https://image.tmdb.org/t/p/w500/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+      },
+      {
+        "name": "Katy O'Brian",
+        "character": "Jackie",
+        "photo": "https://image.tmdb.org/t/p/w500/b7i6dQrHhCYu4Z9bgaXO5U2hrgP.jpg"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Lou Sr.",
+        "photo": "https://image.tmdb.org/t/p/w500/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "JJ",
+        "photo": "https://image.tmdb.org/t/p/w500/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+      },
+      {
+        "name": "Jena Malone",
+        "character": "Beth",
+        "photo": "https://image.tmdb.org/t/p/w500/kGwV9iLmfUxJ6a73ehr0QvAnc8C.jpg"
+      },
+      {
+        "name": "Anna Baryshnikov",
+        "character": "Daisy",
+        "photo": "https://image.tmdb.org/t/p/w500/a7zp0wIARHtWR8RokyGo7mzOYxj.jpg"
+      },
+      {
+        "name": "Orion Carrington",
+        "character": "O'Riley",
+        "photo": "https://image.tmdb.org/t/p/w500/992sbzfw3hhwNhXTUDyH19nm9PQ.jpg"
+      },
+      {
+        "name": "Matthew Blood-Smyth",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/xjINRXQu5yWXZ95opQwQiiycxlM.jpg"
+      },
+      {
+        "name": "David DeLao",
+        "character": "Officer Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/bmafS5MhJePWp4Jzbrwg8j0Y8ZA.jpg"
+      },
+      {
+        "name": "Hilary Fleming",
+        "character": "Sharon",
+        "photo": "https://image.tmdb.org/t/p/w500/l8qpCZpPt0CrfIQ5ITsO0WeUuRB.jpg"
+      },
+      {
+        "name": "Eldon Jones",
+        "character": "Billy",
+        "photo": "https://image.tmdb.org/t/p/w500/avTAuqAkH5Cy3hVujutTOLOZ95S.jpg"
+      },
+      {
+        "name": "Catherine Haun",
+        "character": "Gym Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/mxN9RFEdu2octsLkXwu4dS9xxKM.jpg"
+      }
+    ],
+    "director": [
+      "Rose Glass"
+    ]
   }
 }

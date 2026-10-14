@@ -17,6 +17,84 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Ray Milland",
+      "Jane Wyman",
+      "Phillip Terry",
+      "Howard Da Silva",
+      "Doris Dowling",
+      "Frank Faylen",
+      "Mary Young",
+      "Anita Sharp-Bolster",
+      "Lilian Fontaine",
+      "Frank Orth",
+      "Lewis L. Russell",
+      "Andy Andrews"
+    ],
+    "app_cast": [
+      {
+        "name": "Ray Milland",
+        "character": "Don Birnam",
+        "photo": "https://image.tmdb.org/t/p/w500/nqZGSLa9jS92hYlmkacFXxYwB2Y.jpg"
+      },
+      {
+        "name": "Jane Wyman",
+        "character": "Helen St. James",
+        "photo": "https://image.tmdb.org/t/p/w500/A5aHswRznZbCzbU4aD4lJ1r1J62.jpg"
+      },
+      {
+        "name": "Phillip Terry",
+        "character": "Wick Birnam",
+        "photo": "https://image.tmdb.org/t/p/w500/RhQPDgCLUilO8UAtVt62tjH0QY.jpg"
+      },
+      {
+        "name": "Howard Da Silva",
+        "character": "Nat the Bartender",
+        "photo": "https://image.tmdb.org/t/p/w500/pHLybgdBcZcMDtxSM1J4xs8zKh4.jpg"
+      },
+      {
+        "name": "Doris Dowling",
+        "character": "Gloria",
+        "photo": "https://image.tmdb.org/t/p/w500/8sibfhAVgRuADjHocdfcgeUtHop.jpg"
+      },
+      {
+        "name": "Frank Faylen",
+        "character": "'Bim' Nolan",
+        "photo": "https://image.tmdb.org/t/p/w500/zmPkR8mUFDNGYNl3iTLh9uehNTn.jpg"
+      },
+      {
+        "name": "Mary Young",
+        "character": "Mrs. Deveridge",
+        "photo": "https://image.tmdb.org/t/p/w500/tT3BtUEPy7q30RgezivNdx0dCu4.jpg"
+      },
+      {
+        "name": "Anita Sharp-Bolster",
+        "character": "Mrs. Foley",
+        "photo": "https://image.tmdb.org/t/p/w500/5TXokT8kg57VTYciarbCOgN56p.jpg"
+      },
+      {
+        "name": "Lilian Fontaine",
+        "character": "Mrs. Charles St. James",
+        "photo": "https://image.tmdb.org/t/p/w500/kV5oDNotT1S7yPfT2gGOpMm4Ckl.jpg"
+      },
+      {
+        "name": "Frank Orth",
+        "character": "Opera Cloak Room Attendant",
+        "photo": "https://image.tmdb.org/t/p/w500/s8yUbtAu6wueQjDRncuSX6x6ZUt.jpg"
+      },
+      {
+        "name": "Lewis L. Russell",
+        "character": "Charles St. James",
+        "photo": "https://image.tmdb.org/t/p/w500/1W6JN1ey5kxW5VJvL5TpWdqw8yF.jpg"
+      },
+      {
+        "name": "Andy Andrews",
+        "character": "Alcoholic (uncredited)"
+      }
+    ],
+    "director": [
+      "Billy Wilder"
+    ]
   }
 }

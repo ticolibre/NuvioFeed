@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Brad Davis",
+      "Irene Miracle",
+      "Bo Hopkins",
+      "Paolo Bonacelli",
+      "Paul L. Smith",
+      "Randy Quaid",
+      "Norbert Weisser",
+      "John Hurt",
+      "Mike Kellin",
+      "Franco Diogene",
+      "Michael Ensign",
+      "Gigi Ballista"
+    ],
+    "app_cast": [
+      {
+        "name": "Brad Davis",
+        "character": "Billy Hayes",
+        "photo": "https://image.tmdb.org/t/p/w500/2c4tlWIBJcOizIqShTVHDXeuawb.jpg"
+      },
+      {
+        "name": "Irene Miracle",
+        "character": "Susan",
+        "photo": "https://image.tmdb.org/t/p/w500/oZVV5TQ6JTWiNguCzhfMNREU28s.jpg"
+      },
+      {
+        "name": "Bo Hopkins",
+        "character": "Tex",
+        "photo": "https://image.tmdb.org/t/p/w500/6VQ7SucwfDmlvB1h0ZZrfp4H6Au.jpg"
+      },
+      {
+        "name": "Paolo Bonacelli",
+        "character": "Rifki",
+        "photo": "https://image.tmdb.org/t/p/w500/7h2EJQ19m9pZCfyGEoXb8aEFIF2.jpg"
+      },
+      {
+        "name": "Paul L. Smith",
+        "character": "Hamidou",
+        "photo": "https://image.tmdb.org/t/p/w500/1Jxi6QSNn5CEuzDQzGGPgN1kxKq.jpg"
+      },
+      {
+        "name": "Randy Quaid",
+        "character": "Jimmy Booth",
+        "photo": "https://image.tmdb.org/t/p/w500/umanJS5Qg5BNx9t0Xndi4ffI6lm.jpg"
+      },
+      {
+        "name": "Norbert Weisser",
+        "character": "Erich",
+        "photo": "https://image.tmdb.org/t/p/w500/A2QeLaigXmj1dtJHVLl27N8qNFd.jpg"
+      },
+      {
+        "name": "John Hurt",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+      },
+      {
+        "name": "Mike Kellin",
+        "character": "Mr. Hayes",
+        "photo": "https://image.tmdb.org/t/p/w500/p73cZcdM1JNqsKzk3yYv9NN1I2p.jpg"
+      },
+      {
+        "name": "Franco Diogene",
+        "character": "Yesil",
+        "photo": "https://image.tmdb.org/t/p/w500/lBz6WTsolsKtdOMM1rRxW3Bbpve.jpg"
+      },
+      {
+        "name": "Michael Ensign",
+        "character": "Stanley Daniels",
+        "photo": "https://image.tmdb.org/t/p/w500/kCFAgMTp7kHDN1YzrlIi1aBaaoF.jpg"
+      },
+      {
+        "name": "Gigi Ballista",
+        "character": "Chief Judge",
+        "photo": "https://image.tmdb.org/t/p/w500/3WRolZCfz1KUJWiXScHcZakLbjl.jpg"
+      }
+    ],
+    "director": [
+      "Alan Parker"
+    ]
   }
 }

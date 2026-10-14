@@ -18,6 +18,83 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Jamie Foxx",
+      "Kerry Washington",
+      "Regina King",
+      "Harry Lennix",
+      "Clifton Powell",
+      "Bokeem Woodbine",
+      "Sharon Warren",
+      "C.J. Sanders",
+      "Curtis Armstrong",
+      "Richard Schiff",
+      "Larenz Tate",
+      "Terrence Howard"
+    ],
+    "app_cast": [
+      {
+        "name": "Jamie Foxx",
+        "character": "Ray Charles",
+        "photo": "https://image.tmdb.org/t/p/w500/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+      },
+      {
+        "name": "Kerry Washington",
+        "character": "Della Bea Robinson",
+        "photo": "https://image.tmdb.org/t/p/w500/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+      },
+      {
+        "name": "Regina King",
+        "character": "Margie Hendricks",
+        "photo": "https://image.tmdb.org/t/p/w500/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+      },
+      {
+        "name": "Harry Lennix",
+        "character": "Joe Adams",
+        "photo": "https://image.tmdb.org/t/p/w500/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+      },
+      {
+        "name": "Clifton Powell",
+        "character": "Jeff Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/nLErcBpgV79K2an7l57J7FQQxLz.jpg"
+      },
+      {
+        "name": "Bokeem Woodbine",
+        "character": "Fathead Newman",
+        "photo": "https://image.tmdb.org/t/p/w500/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+      },
+      {
+        "name": "Sharon Warren",
+        "character": "Aretha Robinson"
+      },
+      {
+        "name": "C.J. Sanders",
+        "character": "Young Ray Robinson"
+      },
+      {
+        "name": "Curtis Armstrong",
+        "character": "Ahmet Ertegun",
+        "photo": "https://image.tmdb.org/t/p/w500/3ZAX6NoU47Qshk0svFxkEcJ5fhI.jpg"
+      },
+      {
+        "name": "Richard Schiff",
+        "character": "Jerry Wexler",
+        "photo": "https://image.tmdb.org/t/p/w500/1kg1X6OWRuMdBBYqZLQ6UqMlEPC.jpg"
+      },
+      {
+        "name": "Larenz Tate",
+        "character": "Quincy Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+      },
+      {
+        "name": "Terrence Howard",
+        "character": "Gossie McGee",
+        "photo": "https://image.tmdb.org/t/p/w500/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+      }
+    ],
+    "director": [
+      "Taylor Hackford"
+    ]
   }
 }

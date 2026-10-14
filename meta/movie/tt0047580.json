@@ -18,6 +18,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Clifton Webb",
+      "Dorothy McGuire",
+      "Jean Peters",
+      "Louis Jourdan",
+      "Maggie McNamara",
+      "Rossano Brazzi",
+      "Howard St. John",
+      "Kathryn Givney",
+      "Cathleen Nesbitt",
+      "Gino Corrado",
+      "Celia Lovsky",
+      "Luciana Paluzzi"
+    ],
+    "app_cast": [
+      {
+        "name": "Clifton Webb",
+        "character": "John Frederick Shadwell",
+        "photo": "https://image.tmdb.org/t/p/w500/l1QPGO4z93NSfEgcU5c7RQok0dJ.jpg"
+      },
+      {
+        "name": "Dorothy McGuire",
+        "character": "Miss Frances",
+        "photo": "https://image.tmdb.org/t/p/w500/v6dOzPAxifN2gpP8hyPrSxzc2LT.jpg"
+      },
+      {
+        "name": "Jean Peters",
+        "character": "Anita Hutchins",
+        "photo": "https://image.tmdb.org/t/p/w500/mk3xJ6KblAMFPaOSNmUU1MK1N1q.jpg"
+      },
+      {
+        "name": "Louis Jourdan",
+        "character": "Prince Dino di Cessi",
+        "photo": "https://image.tmdb.org/t/p/w500/bk2tjpWGRx1O46QzQ9LSp1SdhoP.jpg"
+      },
+      {
+        "name": "Maggie McNamara",
+        "character": "Maria Williams",
+        "photo": "https://image.tmdb.org/t/p/w500/8fX0OV91rHveFi8yfMuQ0vVRZCM.jpg"
+      },
+      {
+        "name": "Rossano Brazzi",
+        "character": "Georgio Bianchi",
+        "photo": "https://image.tmdb.org/t/p/w500/MC2Dc5QTvuOP3VS7vuWW07EoOE.jpg"
+      },
+      {
+        "name": "Howard St. John",
+        "character": "Burgoyne",
+        "photo": "https://image.tmdb.org/t/p/w500/5HkEPH9C4JTzR0mQjDKzqbmrpQe.jpg"
+      },
+      {
+        "name": "Kathryn Givney",
+        "character": "Mrs. Burgoyne",
+        "photo": "https://image.tmdb.org/t/p/w500/sCAID3HDTETbA4GLUn2OKZFaqMi.jpg"
+      },
+      {
+        "name": "Cathleen Nesbitt",
+        "character": "Principessa",
+        "photo": "https://image.tmdb.org/t/p/w500/bBhNGKtVtZoTfvzQQc9Tuj37UYs.jpg"
+      },
+      {
+        "name": "Gino Corrado",
+        "character": "Principessa's Butler (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/f4FxGEcWMoRcBbArEvYCxy7QSk7.jpg"
+      },
+      {
+        "name": "Celia Lovsky",
+        "character": "Baroness (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/kyxxWyoKXmlNxptefqnjCtY6Sz0.jpg"
+      },
+      {
+        "name": "Luciana Paluzzi",
+        "character": "Angela Bianchi (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/c8cRWe82adjPqKr0kHme36KAe5f.jpg"
+      }
+    ],
+    "director": [
+      "Jean Negulesco"
+    ]
   }
 }

@@ -17,6 +17,84 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Hidetoshi Nishijima",
+      "Toko Miura",
+      "Masaki Okada",
+      "Reika Kirishima",
+      "Park Yu-rim",
+      "Jin Dae-yeon",
+      "Sonia Yuan",
+      "Ahn Hwi-tae",
+      "Perry Dizon",
+      "Satoko Abe",
+      "Hiroko Matsuda",
+      "Toshiaki Inomata"
+    ],
+    "app_cast": [
+      {
+        "name": "Hidetoshi Nishijima",
+        "character": "Yūsuke Kafuku",
+        "photo": "https://image.tmdb.org/t/p/w500/3FBdbeMMWfyKmHS5j8IECwsZWcY.jpg"
+      },
+      {
+        "name": "Toko Miura",
+        "character": "Misaki Watari",
+        "photo": "https://image.tmdb.org/t/p/w500/kaFqvlsnJ7dtW6mvCuvRsirSS4U.jpg"
+      },
+      {
+        "name": "Masaki Okada",
+        "character": "Kōshi Takatsuki",
+        "photo": "https://image.tmdb.org/t/p/w500/5eP3OovRGR229Ney2jUZ39Vr4QW.jpg"
+      },
+      {
+        "name": "Reika Kirishima",
+        "character": "Oto Kafuku",
+        "photo": "https://image.tmdb.org/t/p/w500/htxRwdj2L0SxP18PzNIt21m6qEt.jpg"
+      },
+      {
+        "name": "Park Yu-rim",
+        "character": "Lee Yoo-na",
+        "photo": "https://image.tmdb.org/t/p/w500/1cVKz3v0zY1FTwjR1oFMYgf3Rmx.jpg"
+      },
+      {
+        "name": "Jin Dae-yeon",
+        "character": "Gong Yoon-su",
+        "photo": "https://image.tmdb.org/t/p/w500/yK1gIDCgoM4dE4332h9cpqp5WrP.jpg"
+      },
+      {
+        "name": "Sonia Yuan",
+        "character": "Janice Chang",
+        "photo": "https://image.tmdb.org/t/p/w500/dK6XT08Ss2qOYlu1eRCy9lbgfBb.jpg"
+      },
+      {
+        "name": "Ahn Hwi-tae",
+        "character": "Ryu Jong-ui",
+        "photo": "https://image.tmdb.org/t/p/w500/5Qo9QZss31IDkZW0bcNoWpIylqX.jpg"
+      },
+      {
+        "name": "Perry Dizon",
+        "character": "Roy Rossello",
+        "photo": "https://image.tmdb.org/t/p/w500/qhBA5QxtpnACIJmx9nKzzZYmBII.jpg"
+      },
+      {
+        "name": "Satoko Abe",
+        "character": "Yuzuhara",
+        "photo": "https://image.tmdb.org/t/p/w500/6IIPSfcjTZuNbGhD5Oym4dx1TRR.jpg"
+      },
+      {
+        "name": "Hiroko Matsuda",
+        "character": "Yumi Etô"
+      },
+      {
+        "name": "Toshiaki Inomata",
+        "character": "Takashi Kimura",
+        "photo": "https://image.tmdb.org/t/p/w500/wT2PmWCN8PLEsBr8nuwVNPDU1p1.jpg"
+      }
+    ],
+    "director": [
+      "Ryusuke Hamaguchi"
+    ]
   }
 }

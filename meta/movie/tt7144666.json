@@ -18,6 +18,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Mason Thames",
+      "Madeleine McGraw",
+      "Ethan Hawke",
+      "Jeremy Davies",
+      "E. Roger Mitchell",
+      "Troy Rudeseal",
+      "Miguel Mora",
+      "Tristan Pravong",
+      "Brady Hepner",
+      "James Ransone",
+      "Rebecca Clarke",
+      "J. Gaven Wilde"
+    ],
+    "app_cast": [
+      {
+        "name": "Mason Thames",
+        "character": "Finney",
+        "photo": "https://image.tmdb.org/t/p/w500/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
+      },
+      {
+        "name": "Madeleine McGraw",
+        "character": "Gwen",
+        "photo": "https://image.tmdb.org/t/p/w500/8LXcAdo1TYsbrBnMxh50SzZkMLc.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "character": "The Grabber",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Jeremy Davies",
+        "character": "Terrence",
+        "photo": "https://image.tmdb.org/t/p/w500/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+      },
+      {
+        "name": "E. Roger Mitchell",
+        "character": "Detective Wright",
+        "photo": "https://image.tmdb.org/t/p/w500/tKvwSO725HZ6cHdL2FzYCobPDzu.jpg"
+      },
+      {
+        "name": "Troy Rudeseal",
+        "character": "Detective Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/9WE9pizvYtG0zVGXpYZF5v2gOtV.jpg"
+      },
+      {
+        "name": "Miguel Mora",
+        "character": "Robin",
+        "photo": "https://image.tmdb.org/t/p/w500/yVjtjXQ4WWlN8XiDYsHKdwcBRXU.jpg"
+      },
+      {
+        "name": "Tristan Pravong",
+        "character": "Bruce",
+        "photo": "https://image.tmdb.org/t/p/w500/6ulqG0Ko0B0fYlaYas53NHG7M6R.jpg"
+      },
+      {
+        "name": "Brady Hepner",
+        "character": "Vance",
+        "photo": "https://image.tmdb.org/t/p/w500/gdOm2ynlLWBgSOVdQuKAwFbVVAf.jpg"
+      },
+      {
+        "name": "James Ransone",
+        "character": "Max Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+      },
+      {
+        "name": "Rebecca Clarke",
+        "character": "Donna",
+        "photo": "https://image.tmdb.org/t/p/w500/mfIvT1hO9ELPaHwLURxZgF2eOzD.jpg"
+      },
+      {
+        "name": "J. Gaven Wilde",
+        "character": "Moose",
+        "photo": "https://image.tmdb.org/t/p/w500/ysLRYuM5SZjN8S7aD5eHFRPayW6.jpg"
+      }
+    ],
+    "director": [
+      "Scott Derrickson"
+    ]
   }
 }

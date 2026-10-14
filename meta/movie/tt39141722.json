@@ -11,6 +11,37 @@
     "genres": [
       "Comedia",
       "Drama"
+    ],
+    "cast": [
+      "Lindsey Normington",
+      "Samuel Sylvester",
+      "Nate Kohnen",
+      "Jo Scott"
+    ],
+    "app_cast": [
+      {
+        "name": "Lindsey Normington",
+        "character": "Sydney",
+        "photo": "https://image.tmdb.org/t/p/w500/2sEruLIIjLpyVAYHMSpraMPlFFb.jpg"
+      },
+      {
+        "name": "Samuel Sylvester",
+        "character": "Caleb",
+        "photo": "https://image.tmdb.org/t/p/w500/oaFPtJQ42mZDq6a9Sbb7PSmWPKm.jpg"
+      },
+      {
+        "name": "Nate Kohnen",
+        "character": "DJ",
+        "photo": "https://image.tmdb.org/t/p/w500/6BwiItZUB3pKYlyHoTiYrtLRjfx.jpg"
+      },
+      {
+        "name": "Jo Scott",
+        "character": "Ashtyn",
+        "photo": "https://image.tmdb.org/t/p/w500/t0vU2GvxBBuYsFeRPxfpzKWpdW0.jpg"
+      }
+    ],
+    "director": [
+      "Gregory Barnes"
     ]
   }
 }

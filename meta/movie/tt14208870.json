@@ -17,6 +17,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Michelle Williams",
+      "Paul Dano",
+      "Seth Rogen",
+      "Gabriel LaBelle",
+      "Mateo Zoryan Francis-DeFord",
+      "Keeley Karsten",
+      "Alina Brace",
+      "Julia Butters",
+      "Birdie Borria",
+      "Judd Hirsch",
+      "Sophia Kopera",
+      "Jeannie Berlin"
+    ],
+    "app_cast": [
+      {
+        "name": "Michelle Williams",
+        "character": "Mitzi Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+      },
+      {
+        "name": "Paul Dano",
+        "character": "Burt Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "character": "Benny Loewy",
+        "photo": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+      },
+      {
+        "name": "Gabriel LaBelle",
+        "character": "Sammy Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/rHVSkVovxmmUPVlaJeMAklbamuv.jpg"
+      },
+      {
+        "name": "Mateo Zoryan Francis-DeFord",
+        "character": "Younger Sammy Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/g6pXhdeZiZdPOkrQWBxRBlTj3dP.jpg"
+      },
+      {
+        "name": "Keeley Karsten",
+        "character": "Natalie Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/tlnhUFQbmR4YVi9w4uJfCUopI0Q.jpg"
+      },
+      {
+        "name": "Alina Brace",
+        "character": "Young Natalie Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/fUMCG3hGyLplPvqsdFk2QVaMqzo.jpg"
+      },
+      {
+        "name": "Julia Butters",
+        "character": "Reggie Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/uVlPm7s3J1pLg6pLa5rYg43wd1.jpg"
+      },
+      {
+        "name": "Birdie Borria",
+        "character": "Younger Reggie Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/1e8iouPs7g0kXuvWoSu6S4nqdIo.jpg"
+      },
+      {
+        "name": "Judd Hirsch",
+        "character": "Uncle Boris",
+        "photo": "https://image.tmdb.org/t/p/w500/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      },
+      {
+        "name": "Sophia Kopera",
+        "character": "Lisa Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/l2YAl7SrUlrnuousbhLlyEj83lC.jpg"
+      },
+      {
+        "name": "Jeannie Berlin",
+        "character": "Hadassah Fabelman",
+        "photo": "https://image.tmdb.org/t/p/w500/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
+      }
+    ],
+    "director": [
+      "Steven Spielberg"
+    ]
   }
 }

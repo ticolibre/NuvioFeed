@@ -19,6 +19,85 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Y'lan Noel",
+      "Lex Scott Davis",
+      "Joivan Wade",
+      "Steve Harris",
+      "Mugga",
+      "Patch Darragh",
+      "Marisa Tomei",
+      "Luna Lauren Vélez",
+      "Kristen Solis",
+      "Rotimi Paul",
+      "Mo McRae",
+      "Jermel Howard"
+    ],
+    "app_cast": [
+      {
+        "name": "Y'lan Noel",
+        "character": "Dmitri Cimber",
+        "photo": "https://image.tmdb.org/t/p/w500/1961fJqu7GxvAYDm4Ga9Sg1APsn.jpg"
+      },
+      {
+        "name": "Lex Scott Davis",
+        "character": "Nya Charms",
+        "photo": "https://image.tmdb.org/t/p/w500/wSqPzcGHaAkRWr0pxCffiYarI4o.jpg"
+      },
+      {
+        "name": "Joivan Wade",
+        "character": "Isaiah Charms",
+        "photo": "https://image.tmdb.org/t/p/w500/7tPro9hPR54m3zbLIfypsDDUDCI.jpg"
+      },
+      {
+        "name": "Steve Harris",
+        "character": "Freddy",
+        "photo": "https://image.tmdb.org/t/p/w500/6qD0I3RPe2ivV5GdXgW3tJHSu1e.jpg"
+      },
+      {
+        "name": "Mugga",
+        "character": "Dolores",
+        "photo": "https://image.tmdb.org/t/p/w500/d4VSQrzuet6xILIHyFQsZR59mP4.jpg"
+      },
+      {
+        "name": "Patch Darragh",
+        "character": "Arlo Sabian / Chief of Staff",
+        "photo": "https://image.tmdb.org/t/p/w500/pLYaRnY2l61DphIUYZvLSlZZfGJ.jpg"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "Dr. May Updale / Architect",
+        "photo": "https://image.tmdb.org/t/p/w500/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+      },
+      {
+        "name": "Luna Lauren Vélez",
+        "character": "Luisa",
+        "photo": "https://image.tmdb.org/t/p/w500/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+      },
+      {
+        "name": "Kristen Solis",
+        "character": "Selina",
+        "photo": "https://image.tmdb.org/t/p/w500/tK8H1nB3qhOliSxhHGWBN7ovgsu.jpg"
+      },
+      {
+        "name": "Rotimi Paul",
+        "character": "Skeletor",
+        "photo": "https://image.tmdb.org/t/p/w500/pao1QVNmUEpC1wM8tyOS56MD3TY.jpg"
+      },
+      {
+        "name": "Mo McRae",
+        "character": "7 & 7",
+        "photo": "https://image.tmdb.org/t/p/w500/yU3VD12vMbG94xEvSBASWsFsL1B.jpg"
+      },
+      {
+        "name": "Jermel Howard",
+        "character": "Lorenzo",
+        "photo": "https://image.tmdb.org/t/p/w500/n43YXIixxtmMqEKtuV1LMznr1Tr.jpg"
+      }
+    ],
+    "director": [
+      "Gerard McMurray"
+    ]
   }
 }

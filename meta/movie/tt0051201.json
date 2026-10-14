@@ -19,6 +19,85 @@
           "rating": "8.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Tyrone Power",
+      "Marlene Dietrich",
+      "Charles Laughton",
+      "Elsa Lanchester",
+      "John Williams",
+      "Henry Daniell",
+      "Ian Wolfe",
+      "Torin Thatcher",
+      "Norma Varden",
+      "Una O'Connor",
+      "Francis Compton",
+      "Philip Tonge"
+    ],
+    "app_cast": [
+      {
+        "name": "Tyrone Power",
+        "character": "Leonard Vole",
+        "photo": "https://image.tmdb.org/t/p/w500/iUyYe8JNOegoe0efRja4scocHYq.jpg"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "character": "Christine",
+        "photo": "https://image.tmdb.org/t/p/w500/9AxXKUr9CLfy5Lcg3JaNRbWD6Be.jpg"
+      },
+      {
+        "name": "Charles Laughton",
+        "character": "Sir Wilfrid",
+        "photo": "https://image.tmdb.org/t/p/w500/lhk6flmWDZMOLwq8VILMD6jH71F.jpg"
+      },
+      {
+        "name": "Elsa Lanchester",
+        "character": "Miss Plimsoll",
+        "photo": "https://image.tmdb.org/t/p/w500/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
+      },
+      {
+        "name": "John Williams",
+        "character": "Brogan-Moore",
+        "photo": "https://image.tmdb.org/t/p/w500/gsg1KjcGnZK76LGIYm8lMpSM1Oq.jpg"
+      },
+      {
+        "name": "Henry Daniell",
+        "character": "Mayhew",
+        "photo": "https://image.tmdb.org/t/p/w500/5g4V2fKBAI5TGjqfItfsnPjqZN9.jpg"
+      },
+      {
+        "name": "Ian Wolfe",
+        "character": "Carter",
+        "photo": "https://image.tmdb.org/t/p/w500/8Eum5GDti8Zh9ZyYSvWaoIHt8Wr.jpg"
+      },
+      {
+        "name": "Torin Thatcher",
+        "character": "Mr. Myers",
+        "photo": "https://image.tmdb.org/t/p/w500/d5PZBimAcJjP239mVx98a2Ifv1o.jpg"
+      },
+      {
+        "name": "Norma Varden",
+        "character": "Mrs. French",
+        "photo": "https://image.tmdb.org/t/p/w500/6f52jKhHnQRscajyhIoGNMNo4N7.jpg"
+      },
+      {
+        "name": "Una O'Connor",
+        "character": "Janet",
+        "photo": "https://image.tmdb.org/t/p/w500/8XqwWhajcr80B4rqZD58ZnPCO52.jpg"
+      },
+      {
+        "name": "Francis Compton",
+        "character": "Judge",
+        "photo": "https://image.tmdb.org/t/p/w500/5hhvW4foOwr7khJoZMpNEiPSAiK.jpg"
+      },
+      {
+        "name": "Philip Tonge",
+        "character": "Inspector Hearne",
+        "photo": "https://image.tmdb.org/t/p/w500/a3OIv9vJ03bIqN6adSvLDKDLsy2.jpg"
+      }
+    ],
+    "director": [
+      "Billy Wilder"
+    ]
   }
 }

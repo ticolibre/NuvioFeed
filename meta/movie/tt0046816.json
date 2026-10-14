@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Humphrey Bogart",
+      "Robert Francis",
+      "Van Johnson",
+      "Fred MacMurray",
+      "May Wynn",
+      "Katherine Warren",
+      "Jerry Paris",
+      "José Ferrer",
+      "E.G. Marshall",
+      "Tom Tully",
+      "Arthur Franz",
+      "Lee Marvin"
+    ],
+    "app_cast": [
+      {
+        "name": "Humphrey Bogart",
+        "character": "Lt. Cmdr. Philip Francis Queeg",
+        "photo": "https://image.tmdb.org/t/p/w500/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+      },
+      {
+        "name": "Robert Francis",
+        "character": "Ens. Willis Seward 'Willie' Keith",
+        "photo": "https://image.tmdb.org/t/p/w500/mswR6NyT5GwoDcsAhXKoiy0oNNE.jpg"
+      },
+      {
+        "name": "Van Johnson",
+        "character": "Lt. Stephen Maryk",
+        "photo": "https://image.tmdb.org/t/p/w500/A6vw5kbdmyXDz1ddQOocJmg9TSc.jpg"
+      },
+      {
+        "name": "Fred MacMurray",
+        "character": "Lt. Thomas 'Tom' Keefer",
+        "photo": "https://image.tmdb.org/t/p/w500/lxxixlFMNH0JuA9K0K3mJmigYcc.jpg"
+      },
+      {
+        "name": "May Wynn",
+        "character": "May Wynn",
+        "photo": "https://image.tmdb.org/t/p/w500/qn3ReolYPmKMQPcDrRi5JsBxSOF.jpg"
+      },
+      {
+        "name": "Katherine Warren",
+        "character": "Mrs. Keith",
+        "photo": "https://image.tmdb.org/t/p/w500/72iTx3q7RgfcVwVPyLQvTlIgvOf.jpg"
+      },
+      {
+        "name": "Jerry Paris",
+        "character": "Ens. Barney Harding",
+        "photo": "https://image.tmdb.org/t/p/w500/sVBdp5qEcOZsB77YrWfL5Hw4iv5.jpg"
+      },
+      {
+        "name": "José Ferrer",
+        "character": "Lt. Barney Greenwald",
+        "photo": "https://image.tmdb.org/t/p/w500/mMOxqZz7Te7SHTd7AGqpjyyykb7.jpg"
+      },
+      {
+        "name": "E.G. Marshall",
+        "character": "Lt. Comdr. Challee",
+        "photo": "https://image.tmdb.org/t/p/w500/psimeVoRk64DV7UNm4cLQylRFy2.jpg"
+      },
+      {
+        "name": "Tom Tully",
+        "character": "Comdr. DeVriess",
+        "photo": "https://image.tmdb.org/t/p/w500/qi73NpsUzob7d7J1QedheooTZgE.jpg"
+      },
+      {
+        "name": "Arthur Franz",
+        "character": "Lt. JG H. Paynter Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/fvqixexCQT6y7lF27doLuV7rCwM.jpg"
+      },
+      {
+        "name": "Lee Marvin",
+        "character": "Meatball",
+        "photo": "https://image.tmdb.org/t/p/w500/bXVCrjGbGhPg6mgDi9OIrp5jK9b.jpg"
+      }
+    ],
+    "director": [
+      "Edward Dmytryk"
+    ]
   }
 }

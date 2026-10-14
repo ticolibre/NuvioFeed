@@ -17,6 +17,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Ken Ogata",
+      "Sumiko Sakamoto",
+      "Tonpei Hidari",
+      "Aki Takejo",
+      "Shoichi Ozawa",
+      "Fujio Tokita",
+      "Sanshō Shinsui",
+      "Seiji Kurasaki",
+      "Junko Takada",
+      "Mitsuko Baisho",
+      "Taiji Tonoyama",
+      "Ben Hiura"
+    ],
+    "app_cast": [
+      {
+        "name": "Ken Ogata",
+        "character": "Tatsuhei",
+        "photo": "https://image.tmdb.org/t/p/w500/t3V4ajdDNTNaLnH3xhOEAuOXmB6.jpg"
+      },
+      {
+        "name": "Sumiko Sakamoto",
+        "character": "Orin",
+        "photo": "https://image.tmdb.org/t/p/w500/pwu6LiI8ANtjHumZurwqT81aRhD.jpg"
+      },
+      {
+        "name": "Tonpei Hidari",
+        "character": "Risuke",
+        "photo": "https://image.tmdb.org/t/p/w500/yrb10dXy78VgpTyGPg7n1pafx9j.jpg"
+      },
+      {
+        "name": "Aki Takejo",
+        "character": "Tamayan",
+        "photo": "https://image.tmdb.org/t/p/w500/gEn3HJLhwBvkQwWrR4l6mx8wJcU.jpg"
+      },
+      {
+        "name": "Shoichi Ozawa",
+        "character": "Katsuzô",
+        "photo": "https://image.tmdb.org/t/p/w500/njENutufqpSUdjvOe2zTWy7EJX4.jpg"
+      },
+      {
+        "name": "Fujio Tokita",
+        "character": "Jinsaku",
+        "photo": "https://image.tmdb.org/t/p/w500/2DPIQcwwiv8BtyZIYKAmINUnd5J.jpg"
+      },
+      {
+        "name": "Sanshō Shinsui",
+        "character": "Zeniya Tadayan",
+        "photo": "https://image.tmdb.org/t/p/w500/yYktrYPPxbetHSmqmIIRsgSjscN.jpg"
+      },
+      {
+        "name": "Seiji Kurasaki",
+        "character": "Kesakichi",
+        "photo": "https://image.tmdb.org/t/p/w500/1D9wUM8MCmDoGR9CKPYW8ygOr9U.jpg"
+      },
+      {
+        "name": "Junko Takada",
+        "character": "Matsuyan",
+        "photo": "https://image.tmdb.org/t/p/w500/5k9XMG4dBUbhXI6KViJx9zHU6Fs.jpg"
+      },
+      {
+        "name": "Mitsuko Baisho",
+        "character": "Oei",
+        "photo": "https://image.tmdb.org/t/p/w500/cveQi03gBaZ6vkbGaECQAX1NG5D.jpg"
+      },
+      {
+        "name": "Taiji Tonoyama",
+        "character": "Teruyan",
+        "photo": "https://image.tmdb.org/t/p/w500/k88bvJ91SiL2Nn6QtQf7hB8U4iv.jpg"
+      },
+      {
+        "name": "Ben Hiura",
+        "character": "Yakimatsu",
+        "photo": "https://image.tmdb.org/t/p/w500/mSJZsPtZvKcek4vnejdhdnEmFPx.jpg"
+      }
+    ],
+    "director": [
+      "Shōhei Imamura"
+    ]
   }
 }

@@ -17,6 +17,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Casey Affleck",
+      "Lucas Hedges",
+      "Michelle Williams",
+      "Kyle Chandler",
+      "C.J. Wilson",
+      "Gretchen Mol",
+      "Matthew Broderick",
+      "Anna Baryshnikov",
+      "Heather Burns",
+      "Ivy O'Brien",
+      "Kara Hayward",
+      "Tom Kemp"
+    ],
+    "app_cast": [
+      {
+        "name": "Casey Affleck",
+        "character": "Lee Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+      },
+      {
+        "name": "Lucas Hedges",
+        "character": "Patrick Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/8WP1uXUwm6Z1vzrMaIiKj89M6kX.jpg"
+      },
+      {
+        "name": "Michelle Williams",
+        "character": "Randi Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+      },
+      {
+        "name": "Kyle Chandler",
+        "character": "Joe Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+      },
+      {
+        "name": "C.J. Wilson",
+        "character": "George",
+        "photo": "https://image.tmdb.org/t/p/w500/4qoB1VuVQ7m3MtcL3iRIZiXN39H.jpg"
+      },
+      {
+        "name": "Gretchen Mol",
+        "character": "Elise Henderson",
+        "photo": "https://image.tmdb.org/t/p/w500/e3C1D1I09gtSGy4Ej1ewW2FFoew.jpg"
+      },
+      {
+        "name": "Matthew Broderick",
+        "character": "Jeffrey Garner",
+        "photo": "https://image.tmdb.org/t/p/w500/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+      },
+      {
+        "name": "Anna Baryshnikov",
+        "character": "Sandy",
+        "photo": "https://image.tmdb.org/t/p/w500/a7zp0wIARHtWR8RokyGo7mzOYxj.jpg"
+      },
+      {
+        "name": "Heather Burns",
+        "character": "Jill",
+        "photo": "https://image.tmdb.org/t/p/w500/bfxBZFw7YbkWIywC2FDk96IwXOG.jpg"
+      },
+      {
+        "name": "Ivy O'Brien",
+        "character": "Young Patrick Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/6nX3kmyZ1r8iifmm8h0u89qEL1D.jpg"
+      },
+      {
+        "name": "Kara Hayward",
+        "character": "Silvie McGann",
+        "photo": "https://image.tmdb.org/t/p/w500/p25g942Abuq1c9YPJbE3VeFXbue.jpg"
+      },
+      {
+        "name": "Tom Kemp",
+        "character": "Stan Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/fkR6E0QFoyNoLyVwQb2ykY1ysEa.jpg"
+      }
+    ],
+    "director": [
+      "Kenneth Lonergan"
+    ]
   }
 }

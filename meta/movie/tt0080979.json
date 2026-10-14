@@ -20,6 +20,84 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Tatsuya Nakadai",
+      "Tsutomu Yamazaki",
+      "Kenichi Hagiwara",
+      "Jinpachi Nezu",
+      "Hideji Ōtaki",
+      "Daisuke Ryū",
+      "Masayuki Yui",
+      "Kaori Momoi",
+      "Mitsuko Baisho",
+      "Hideo Murota",
+      "Takayuki Shiho",
+      "Kōji Shimizu"
+    ],
+    "app_cast": [
+      {
+        "name": "Tatsuya Nakadai",
+        "character": "Shingen Takeda / Kagemusha",
+        "photo": "https://image.tmdb.org/t/p/w500/4LygOe0vFQplLIft5IUWI5OewPX.jpg"
+      },
+      {
+        "name": "Tsutomu Yamazaki",
+        "character": "Nobukado Takeda",
+        "photo": "https://image.tmdb.org/t/p/w500/yXU5Du92CSkUAOcPbxTR5buu3w8.jpg"
+      },
+      {
+        "name": "Kenichi Hagiwara",
+        "character": "Katsuyori Takeda",
+        "photo": "https://image.tmdb.org/t/p/w500/2YY2d9n8YlDQhCpdIPObyEQTsj3.jpg"
+      },
+      {
+        "name": "Jinpachi Nezu",
+        "character": "Sohachiro Tsuchiya",
+        "photo": "https://image.tmdb.org/t/p/w500/wMGQ7RgZ1vf6siHhnnqbb63Yks0.jpg"
+      },
+      {
+        "name": "Hideji Ōtaki",
+        "character": "Masakage Yamagata",
+        "photo": "https://image.tmdb.org/t/p/w500/jwJTUJiFy4ddymcHGccEpzEOqpv.jpg"
+      },
+      {
+        "name": "Daisuke Ryū",
+        "character": "Nobunaga Oda",
+        "photo": "https://image.tmdb.org/t/p/w500/dRPberqnxaxmNKAehZT6xXhEsWY.jpg"
+      },
+      {
+        "name": "Masayuki Yui",
+        "character": "Ieyasu Tokugawa",
+        "photo": "https://image.tmdb.org/t/p/w500/s8AJ746M0OkQbyFNx6XwFiwXAy6.jpg"
+      },
+      {
+        "name": "Kaori Momoi",
+        "character": "Otsuyanokata",
+        "photo": "https://image.tmdb.org/t/p/w500/909739lEJUtsUetp6nnyaT7Ez8H.jpg"
+      },
+      {
+        "name": "Mitsuko Baisho",
+        "character": "Oyunokata",
+        "photo": "https://image.tmdb.org/t/p/w500/cveQi03gBaZ6vkbGaECQAX1NG5D.jpg"
+      },
+      {
+        "name": "Hideo Murota",
+        "character": "Nobufusa Baba",
+        "photo": "https://image.tmdb.org/t/p/w500/rNKjeaQY86DZxEKq3nxlQqWdzIM.jpg"
+      },
+      {
+        "name": "Takayuki Shiho",
+        "character": "Masatoyo Naito"
+      },
+      {
+        "name": "Kōji Shimizu",
+        "character": "Katsusuke Atobe",
+        "photo": "https://image.tmdb.org/t/p/w500/668vFgQ8luKtCsmJBcGZEdc5cuQ.jpg"
+      }
+    ],
+    "director": [
+      "Akira Kurosawa"
+    ]
   }
 }

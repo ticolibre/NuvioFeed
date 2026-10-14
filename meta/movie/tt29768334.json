@@ -17,6 +17,84 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Joel Edgerton",
+      "Felicity Jones",
+      "Nathaniel Arcand",
+      "Clifton Collins Jr.",
+      "John Diehl",
+      "Paul Schneider",
+      "Kerry Condon",
+      "William H. Macy",
+      "Will Patton",
+      "Alfred Hsing",
+      "David Paul Olsen",
+      "John Patrick Lowrie"
+    ],
+    "app_cast": [
+      {
+        "name": "Joel Edgerton",
+        "character": "Robert Grainier",
+        "photo": "https://image.tmdb.org/t/p/w500/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
+      },
+      {
+        "name": "Felicity Jones",
+        "character": "Gladys Grainier",
+        "photo": "https://image.tmdb.org/t/p/w500/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg"
+      },
+      {
+        "name": "Nathaniel Arcand",
+        "character": "Ignatius Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/zGi472JSPXlY71ocGh8PQOn5Ag6.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Boomer",
+        "photo": "https://image.tmdb.org/t/p/w500/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+      },
+      {
+        "name": "John Diehl",
+        "character": "Billy",
+        "photo": "https://image.tmdb.org/t/p/w500/fSaOexgc31Xmp4koMu0HvlkJMr4.jpg"
+      },
+      {
+        "name": "Paul Schneider",
+        "character": "Apostle Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/69tLX644rRr1RT9gxajsWlNrf0Y.jpg"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Claire Thompson",
+        "photo": "https://image.tmdb.org/t/p/w500/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+      },
+      {
+        "name": "William H. Macy",
+        "character": "Arn Peeples",
+        "photo": "https://image.tmdb.org/t/p/w500/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+      },
+      {
+        "name": "Will Patton",
+        "character": "Narrator (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+      },
+      {
+        "name": "Alfred Hsing",
+        "character": "Fu Sheng",
+        "photo": "https://image.tmdb.org/t/p/w500/b1cXnVypaxUzj7bq7GpyNAE6rCt.jpg"
+      },
+      {
+        "name": "David Paul Olsen",
+        "character": "Toomis"
+      },
+      {
+        "name": "John Patrick Lowrie",
+        "character": "Mr. Sears",
+        "photo": "https://image.tmdb.org/t/p/w500/hxKoSo2DmrB7DoOkuBJv9AoqdVL.jpg"
+      }
+    ],
+    "director": [
+      "Clint Bentley"
+    ]
   }
 }

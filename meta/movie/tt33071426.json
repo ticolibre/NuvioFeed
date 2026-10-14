@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Zendaya",
+      "Robert Pattinson",
+      "Alana Haim",
+      "Mamoudou Athie",
+      "Hailey Benton Gates",
+      "Sydney Lemmon",
+      "Hannah Gross",
+      "Anna Baryshnikov",
+      "Jordyn Curet",
+      "Michael Abbott Jr.",
+      "Zoë Winters",
+      "Dee Nelson"
+    ],
+    "app_cast": [
+      {
+        "name": "Zendaya",
+        "character": "Emma",
+        "photo": "https://image.tmdb.org/t/p/w500/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg"
+      },
+      {
+        "name": "Robert Pattinson",
+        "character": "Charlie",
+        "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+      },
+      {
+        "name": "Alana Haim",
+        "character": "Rachel",
+        "photo": "https://image.tmdb.org/t/p/w500/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+      },
+      {
+        "name": "Mamoudou Athie",
+        "character": "Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/dUsJ41XjNUEHGQjQcGjBsytrGqo.jpg"
+      },
+      {
+        "name": "Hailey Benton Gates",
+        "character": "Misha",
+        "photo": "https://image.tmdb.org/t/p/w500/q3GFo0wx7e0iz7P22dd9sSXZSwn.jpg"
+      },
+      {
+        "name": "Sydney Lemmon",
+        "character": "Pauline",
+        "photo": "https://image.tmdb.org/t/p/w500/heGyUuth1HInFdywZ6y8gqjf0q6.jpg"
+      },
+      {
+        "name": "Hannah Gross",
+        "character": "Alice",
+        "photo": "https://image.tmdb.org/t/p/w500/p94oyYrrywfSH3vkimTL1cbaWQt.jpg"
+      },
+      {
+        "name": "Anna Baryshnikov",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/a7zp0wIARHtWR8RokyGo7mzOYxj.jpg"
+      },
+      {
+        "name": "Jordyn Curet",
+        "character": "Young Emma",
+        "photo": "https://image.tmdb.org/t/p/w500/sUGk173dPdlR6OXQEape7EW2XT1.jpg"
+      },
+      {
+        "name": "Michael Abbott Jr.",
+        "character": "Blake",
+        "photo": "https://image.tmdb.org/t/p/w500/af4hYV7WwEtL48eND0xDsdobJq9.jpg"
+      },
+      {
+        "name": "Zoë Winters",
+        "character": "Frances",
+        "photo": "https://image.tmdb.org/t/p/w500/3Ej5luqqvdD3hZXAzFZbdRxj7CQ.jpg"
+      },
+      {
+        "name": "Dee Nelson",
+        "character": "Jill",
+        "photo": "https://image.tmdb.org/t/p/w500/kfmANsOBqw6MUsa0ZJj7nkhjpJM.jpg"
+      }
+    ],
+    "director": [
+      "Kristoffer Borgli"
+    ]
   }
 }

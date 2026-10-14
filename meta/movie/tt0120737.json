@@ -19,6 +19,85 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Ian Holm",
+      "Liv Tyler",
+      "Christopher Lee",
+      "Sean Bean",
+      "Billy Boyd",
+      "Dominic Monaghan",
+      "John Rhys-Davies",
+      "Orlando Bloom"
+    ],
+    "app_cast": [
+      {
+        "name": "Elijah Wood",
+        "character": "Frodo",
+        "photo": "https://image.tmdb.org/t/p/w500/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf",
+        "photo": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "character": "Aragorn",
+        "photo": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Sean Astin",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+      },
+      {
+        "name": "Ian Holm",
+        "character": "Bilbo",
+        "photo": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+      },
+      {
+        "name": "Liv Tyler",
+        "character": "Arwen",
+        "photo": "https://image.tmdb.org/t/p/w500/rC6f9NoDN9l2tMgiEocIvnJi2tW.jpg"
+      },
+      {
+        "name": "Christopher Lee",
+        "character": "Saruman",
+        "photo": "https://image.tmdb.org/t/p/w500/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+      },
+      {
+        "name": "Sean Bean",
+        "character": "Boromir",
+        "photo": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+      },
+      {
+        "name": "Billy Boyd",
+        "character": "Pippin",
+        "photo": "https://image.tmdb.org/t/p/w500/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+      },
+      {
+        "name": "Dominic Monaghan",
+        "character": "Merry",
+        "photo": "https://image.tmdb.org/t/p/w500/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "character": "Gimli",
+        "photo": "https://image.tmdb.org/t/p/w500/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+      },
+      {
+        "name": "Orlando Bloom",
+        "character": "Legolas",
+        "photo": "https://image.tmdb.org/t/p/w500/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+      }
+    ],
+    "director": [
+      "Peter Jackson"
+    ]
   }
 }

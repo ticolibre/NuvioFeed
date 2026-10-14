@@ -18,6 +18,84 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Norma Shearer",
+      "Fredric March",
+      "Leslie Howard",
+      "O. P. Heggie",
+      "Ralph Forbes",
+      "Beryl Mercer",
+      "Margaret Seddon",
+      "Forrester Harvey",
+      "Herbert Bunston",
+      "James Bush",
+      "Mary Carlisle",
+      "Cora Sue Collins"
+    ],
+    "app_cast": [
+      {
+        "name": "Norma Shearer",
+        "character": "Kathleen / Moonyeen",
+        "photo": "https://image.tmdb.org/t/p/w500/y9UuVsv4Wif8tqOdrLxSOfLNyW5.jpg"
+      },
+      {
+        "name": "Fredric March",
+        "character": "Kenneth Wayne / Jeremy",
+        "photo": "https://image.tmdb.org/t/p/w500/285cjPToJMXn0ALimtQoqofgM2G.jpg"
+      },
+      {
+        "name": "Leslie Howard",
+        "character": "Sir John Carteret",
+        "photo": "https://image.tmdb.org/t/p/w500/mlD06Vq50FnNvEPI8GcWKZ8C1BG.jpg"
+      },
+      {
+        "name": "O. P. Heggie",
+        "character": "Dr. Owen",
+        "photo": "https://image.tmdb.org/t/p/w500/qQ9GM8gCbkmCs1JqwwDSDNDiOgg.jpg"
+      },
+      {
+        "name": "Ralph Forbes",
+        "character": "Willie Ainley",
+        "photo": "https://image.tmdb.org/t/p/w500/kSZ7qzRsQKLlLrNzvwwfsEWZc8B.jpg"
+      },
+      {
+        "name": "Beryl Mercer",
+        "character": "Mrs. Crouch",
+        "photo": "https://image.tmdb.org/t/p/w500/vsWop0MRGrjHgwjpt7jerSoeiN1.jpg"
+      },
+      {
+        "name": "Margaret Seddon",
+        "character": "Ellen, the Maid",
+        "photo": "https://image.tmdb.org/t/p/w500/w7kN7GewHnIUm8ypxhMDrwsCs0M.jpg"
+      },
+      {
+        "name": "Forrester Harvey",
+        "character": "Orderly"
+      },
+      {
+        "name": "Herbert Bunston",
+        "character": "Minister",
+        "photo": "https://image.tmdb.org/t/p/w500/whHeDLpLArkSgxHzZyVbGEfcJNK.jpg"
+      },
+      {
+        "name": "James Bush",
+        "character": "Young Party Guest",
+        "photo": "https://image.tmdb.org/t/p/w500/q2KTjz8saVaGebPmZS59uDb0DPb.jpg"
+      },
+      {
+        "name": "Mary Carlisle",
+        "character": "Young Party Guest",
+        "photo": "https://image.tmdb.org/t/p/w500/j1zkDAOIo3S4dfrhMKDvXUv0Uld.jpg"
+      },
+      {
+        "name": "Cora Sue Collins",
+        "character": "Young Kathleen",
+        "photo": "https://image.tmdb.org/t/p/w500/g2LJn0bnRdYTnkqLXUk5JghVR1u.jpg"
+      }
+    ],
+    "director": [
+      "Sidney Franklin"
+    ]
   }
 }

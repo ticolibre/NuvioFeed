@@ -19,6 +19,85 @@
           "rating": "5.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Ayo Edebiri",
+      "John Malkovich",
+      "Juliette Lewis",
+      "Murray Bartlett",
+      "Melissa Chambers",
+      "Tony Hale",
+      "Stephanie Suganami",
+      "Mark Sivertsen",
+      "Amber Midthunder",
+      "Tatanka Means",
+      "Aspen Martinez",
+      "Peter Diseth"
+    ],
+    "app_cast": [
+      {
+        "name": "Ayo Edebiri",
+        "character": "Ariel Ecton",
+        "photo": "https://image.tmdb.org/t/p/w500/wrqYWaAmVPM2yueEEQUtMo6kCp2.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Alfred Moretti",
+        "photo": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+      },
+      {
+        "name": "Juliette Lewis",
+        "character": "Clara Armstrong",
+        "photo": "https://image.tmdb.org/t/p/w500/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg"
+      },
+      {
+        "name": "Murray Bartlett",
+        "character": "Stan Sullivan",
+        "photo": "https://image.tmdb.org/t/p/w500/eN20zfcRB2F51bmUbTK9byQCpb9.jpg"
+      },
+      {
+        "name": "Melissa Chambers",
+        "character": "Bianca Tyson",
+        "photo": "https://image.tmdb.org/t/p/w500/1d2rGqa7lDmHDxAIYiVqPPe3mgn.jpg"
+      },
+      {
+        "name": "Tony Hale",
+        "character": "Soledad Yusef",
+        "photo": "https://image.tmdb.org/t/p/w500/3dEyZgTye0Ec17VGKp0mJ3aU6ty.jpg"
+      },
+      {
+        "name": "Stephanie Suganami",
+        "character": "Emily Katz",
+        "photo": "https://image.tmdb.org/t/p/w500/5ekTR5ZNxglymhMiGd8nuYoWZuv.jpg"
+      },
+      {
+        "name": "Mark Sivertsen",
+        "character": "Bill Lotto",
+        "photo": "https://image.tmdb.org/t/p/w500/MXbRFhkhmu1qpAD2vqyPaAfuNt.jpg"
+      },
+      {
+        "name": "Amber Midthunder",
+        "character": "Belle",
+        "photo": "https://image.tmdb.org/t/p/w500/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+      },
+      {
+        "name": "Tatanka Means",
+        "character": "Najee",
+        "photo": "https://image.tmdb.org/t/p/w500/Aq7VrwQeUeDNn0y74m7bxDBOAGj.jpg"
+      },
+      {
+        "name": "Aspen Martinez",
+        "character": "Maude",
+        "photo": "https://image.tmdb.org/t/p/w500/icjXC3waTfVT1wrXugC4Up4POhQ.jpg"
+      },
+      {
+        "name": "Peter Diseth",
+        "character": "Jorg",
+        "photo": "https://image.tmdb.org/t/p/w500/9TtMmiS6UBu8Qjruu6Py1rTjBlV.jpg"
+      }
+    ],
+    "director": [
+      "Mark Anthony Green"
+    ]
   }
 }

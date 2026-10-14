@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Leonardo DiCaprio",
+      "Sean Penn",
+      "Chase Infiniti",
+      "Benicio del Toro",
+      "Regina Hall",
+      "Teyana Taylor",
+      "Wood Harris",
+      "Tony Goldwyn",
+      "D.W. Moffett",
+      "Paul Grimstad",
+      "Dijon",
+      "Kevin Tighe"
+    ],
+    "app_cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Bob",
+        "photo": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Col. Steven J. Lockjaw",
+        "photo": "https://image.tmdb.org/t/p/w500/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Chase Infiniti",
+        "character": "Willa",
+        "photo": "https://image.tmdb.org/t/p/w500/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Sensei Sergio St. Carlos",
+        "photo": "https://image.tmdb.org/t/p/w500/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+      },
+      {
+        "name": "Regina Hall",
+        "character": "Deandra",
+        "photo": "https://image.tmdb.org/t/p/w500/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+      },
+      {
+        "name": "Teyana Taylor",
+        "character": "Perfidia",
+        "photo": "https://image.tmdb.org/t/p/w500/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+      },
+      {
+        "name": "Wood Harris",
+        "character": "Laredo",
+        "photo": "https://image.tmdb.org/t/p/w500/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+      },
+      {
+        "name": "Tony Goldwyn",
+        "character": "Virgil Throckmorton",
+        "photo": "https://image.tmdb.org/t/p/w500/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+      },
+      {
+        "name": "D.W. Moffett",
+        "character": "Bill Desmond",
+        "photo": "https://image.tmdb.org/t/p/w500/7lcIxTqarAgkdLiNlc7Ad57vcP1.jpg"
+      },
+      {
+        "name": "Paul Grimstad",
+        "character": "Sommerville",
+        "photo": "https://image.tmdb.org/t/p/w500/maPuaFdSLnz3br46Ar2GptK4okK.jpg"
+      },
+      {
+        "name": "Dijon",
+        "character": "Talleyrand",
+        "photo": "https://image.tmdb.org/t/p/w500/pcGrPow62Sjkxn6BBZoylcLjOhd.jpg"
+      },
+      {
+        "name": "Kevin Tighe",
+        "character": "Roy More",
+        "photo": "https://image.tmdb.org/t/p/w500/t4LMNB2Rhu9SLbr64gOW5V4sW96.jpg"
+      }
+    ],
+    "director": [
+      "Paul Thomas Anderson"
+    ]
   }
 }

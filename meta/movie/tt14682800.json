@@ -18,6 +18,83 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Julia Louis-Dreyfus",
+      "Lola Petticrew",
+      "Arinzé Kene",
+      "Leah Harvey",
+      "Jay Simpson",
+      "Ellie James",
+      "Ewens Abid",
+      "Nathan Amzi",
+      "Taru Devani",
+      "Nathan Ives-Moiba",
+      "Hugh Futcher",
+      "Dan Shaw"
+    ],
+    "app_cast": [
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Zora",
+        "photo": "https://image.tmdb.org/t/p/w500/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+      },
+      {
+        "name": "Lola Petticrew",
+        "character": "Tuesday",
+        "photo": "https://image.tmdb.org/t/p/w500/a7zjKKuEn72WVMKeHUZhYrLwLmA.jpg"
+      },
+      {
+        "name": "Arinzé Kene",
+        "character": "Death",
+        "photo": "https://image.tmdb.org/t/p/w500/bD8kUAc3ZEkz08dWszWnqcAQify.jpg"
+      },
+      {
+        "name": "Leah Harvey",
+        "character": "Nurse Billie",
+        "photo": "https://image.tmdb.org/t/p/w500/j5bEw0gtE9RGTq2y4WoQ6HUa9di.jpg"
+      },
+      {
+        "name": "Jay Simpson",
+        "character": "Spike",
+        "photo": "https://image.tmdb.org/t/p/w500/4UDQaaRqvMqPwJbUxJVZ7u6P7Wt.jpg"
+      },
+      {
+        "name": "Ellie James",
+        "character": "Willow",
+        "photo": "https://image.tmdb.org/t/p/w500/sfWWp69KlcxuIuymP7jOuW49FS7.jpg"
+      },
+      {
+        "name": "Ewens Abid",
+        "character": "Abel",
+        "photo": "https://image.tmdb.org/t/p/w500/5zGcQkoSsg1AdkcvYuqnLuslMuv.jpg"
+      },
+      {
+        "name": "Nathan Amzi",
+        "character": "Nathan",
+        "photo": "https://image.tmdb.org/t/p/w500/kDezb3Lrk7qQVpyWVQFVog02Pha.jpg"
+      },
+      {
+        "name": "Taru Devani",
+        "character": "Ira",
+        "photo": "https://image.tmdb.org/t/p/w500/6hYvEtcEASjgCvMLnlg4fypFu6N.jpg"
+      },
+      {
+        "name": "Nathan Ives-Moiba",
+        "character": "Victor",
+        "photo": "https://image.tmdb.org/t/p/w500/uj9ktJKlCw0Dh233tsHefMQfNFz.jpg"
+      },
+      {
+        "name": "Hugh Futcher",
+        "character": "Hans"
+      },
+      {
+        "name": "Dan Shaw",
+        "character": "Yuri"
+      }
+    ],
+    "director": [
+      "Daina Oniunas-Pusić"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Allison Williams",
+      "Amie Donald",
+      "Violet McGraw",
+      "Jenna Davis",
+      "Brian Jordan Alvarez",
+      "Jen Van Epps",
+      "Aristotle Athari",
+      "Ivanna Sakhno",
+      "Timm Sharp",
+      "Jemaine Clement",
+      "Mayen Mehta",
+      "Mark Mitchinson"
+    ],
+    "app_cast": [
+      {
+        "name": "Allison Williams",
+        "character": "Gemma",
+        "photo": "https://image.tmdb.org/t/p/w500/5Jy9HELKS1OYg7moRl8870OSfJq.jpg"
+      },
+      {
+        "name": "Amie Donald",
+        "character": "M3GAN",
+        "photo": "https://image.tmdb.org/t/p/w500/dHnCD1oGVFEtnjskNQYO6sB5uSS.jpg"
+      },
+      {
+        "name": "Violet McGraw",
+        "character": "Cady",
+        "photo": "https://image.tmdb.org/t/p/w500/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
+      },
+      {
+        "name": "Jenna Davis",
+        "character": "M3GAN (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/4l5Ac5heS8pVNOtHwyjaYkgp6uF.jpg"
+      },
+      {
+        "name": "Brian Jordan Alvarez",
+        "character": "Cole",
+        "photo": "https://image.tmdb.org/t/p/w500/fKOHVfG2TCmzcRdJhjkUgL2LJcz.jpg"
+      },
+      {
+        "name": "Jen Van Epps",
+        "character": "Tess",
+        "photo": "https://image.tmdb.org/t/p/w500/pI18BVf1c6frUMoXj2bV82NEiLE.jpg"
+      },
+      {
+        "name": "Aristotle Athari",
+        "character": "Christian Bradley",
+        "photo": "https://image.tmdb.org/t/p/w500/cFpP5axhjJ2Y4OhKrzPma9lEliO.jpg"
+      },
+      {
+        "name": "Ivanna Sakhno",
+        "character": "AMELIA",
+        "photo": "https://image.tmdb.org/t/p/w500/vYlE7CUEeIa99NYZZWnnwn95Jo1.jpg"
+      },
+      {
+        "name": "Timm Sharp",
+        "character": "Agent Tim Sattler",
+        "photo": "https://image.tmdb.org/t/p/w500/128ZwAdX38RmPIfouZo5fZrPSqE.jpg"
+      },
+      {
+        "name": "Jemaine Clement",
+        "character": "Alton Appleton",
+        "photo": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+      },
+      {
+        "name": "Mayen Mehta",
+        "character": "Naveen Tripathi",
+        "photo": "https://image.tmdb.org/t/p/w500/zQfC6Hj7HpKhTqAD13azP0LStxH.jpg"
+      },
+      {
+        "name": "Mark Mitchinson",
+        "character": "Niles Keller",
+        "photo": "https://image.tmdb.org/t/p/w500/dBnuglswEEKSQk6kxbSd6D1uS5j.jpg"
+      }
+    ],
+    "director": [
+      "Gerard Johnstone"
+    ]
   }
 }

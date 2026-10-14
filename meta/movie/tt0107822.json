@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Holly Hunter",
+      "Harvey Keitel",
+      "Sam Neill",
+      "Anna Paquin",
+      "Cliff Curtis",
+      "Kerry Walker",
+      "Ian Mune",
+      "Geneviève Lemon",
+      "Pete Smith",
+      "Bruce Allpress",
+      "Rose McIver",
+      "Verity George"
+    ],
+    "app_cast": [
+      {
+        "name": "Holly Hunter",
+        "character": "Ada McGrath",
+        "photo": "https://image.tmdb.org/t/p/w500/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "George Baines",
+        "photo": "https://image.tmdb.org/t/p/w500/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "name": "Sam Neill",
+        "character": "Alisdair Stewart",
+        "photo": "https://image.tmdb.org/t/p/w500/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+      },
+      {
+        "name": "Anna Paquin",
+        "character": "Flora McGrath",
+        "photo": "https://image.tmdb.org/t/p/w500/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+      },
+      {
+        "name": "Cliff Curtis",
+        "character": "Mana",
+        "photo": "https://image.tmdb.org/t/p/w500/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+      },
+      {
+        "name": "Kerry Walker",
+        "character": "Aunt Morag",
+        "photo": "https://image.tmdb.org/t/p/w500/nIvYnyp2Ti2dzqFEhCcrNN4K1uS.jpg"
+      },
+      {
+        "name": "Ian Mune",
+        "character": "Reverend",
+        "photo": "https://image.tmdb.org/t/p/w500/8MO8QjpoKWr2I6gSx5MQJgtP6su.jpg"
+      },
+      {
+        "name": "Geneviève Lemon",
+        "character": "Nessie",
+        "photo": "https://image.tmdb.org/t/p/w500/x3manbCDNOrp0dE3iEbWAu5N3dA.jpg"
+      },
+      {
+        "name": "Pete Smith",
+        "character": "Hone",
+        "photo": "https://image.tmdb.org/t/p/w500/xtDy3uPThZg1twK7Tgw709rtoEt.jpg"
+      },
+      {
+        "name": "Bruce Allpress",
+        "character": "Blind Piano Tuner",
+        "photo": "https://image.tmdb.org/t/p/w500/AnqHoiqH2Wy6iTAK5npcz2BZj7C.jpg"
+      },
+      {
+        "name": "Rose McIver",
+        "character": "Angel",
+        "photo": "https://image.tmdb.org/t/p/w500/7oswXIUIGAZphpZMBhuXoUgOIJi.jpg"
+      },
+      {
+        "name": "Verity George",
+        "character": "Bluebeard's Wife",
+        "photo": "https://image.tmdb.org/t/p/w500/6HeAIoZOzTD2JFvDecHdeuRSj39.jpg"
+      }
+    ],
+    "director": [
+      "Jane Campion"
+    ]
   }
 }

@@ -18,6 +18,84 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Mae West",
+      "Cary Grant",
+      "Owen Moore",
+      "Gilbert Roland",
+      "Noah Beery",
+      "David Landau",
+      "Rafaela Ottiano",
+      "Dewey Robinson",
+      "Rochelle Hudson",
+      "Tammany Young",
+      "Fuzzy Knight",
+      "Grace La Rue"
+    ],
+    "app_cast": [
+      {
+        "name": "Mae West",
+        "character": "Lady Lou",
+        "photo": "https://image.tmdb.org/t/p/w500/xtlUd8VnOor4OuA8dexgDG9JlIP.jpg"
+      },
+      {
+        "name": "Cary Grant",
+        "character": "Captain Cummings",
+        "photo": "https://image.tmdb.org/t/p/w500/lcNAirMFcyM7WIiCmaabjbNZVOJ.jpg"
+      },
+      {
+        "name": "Owen Moore",
+        "character": "Chick Clark",
+        "photo": "https://image.tmdb.org/t/p/w500/6iBzyALpUaf22lKD2kRgzmsHGuC.jpg"
+      },
+      {
+        "name": "Gilbert Roland",
+        "character": "Serge Stanieff",
+        "photo": "https://image.tmdb.org/t/p/w500/mzFPFiCb7fNsGI9gBFHYn0kqg7g.jpg"
+      },
+      {
+        "name": "Noah Beery",
+        "character": "Gus Jordan",
+        "photo": "https://image.tmdb.org/t/p/w500/7VGAfjnR7FkuDk33bzTGZ4rnKg.jpg"
+      },
+      {
+        "name": "David Landau",
+        "character": "Dan Flynn",
+        "photo": "https://image.tmdb.org/t/p/w500/9Fng9ppRiIMDtK5KS82BISa9b5E.jpg"
+      },
+      {
+        "name": "Rafaela Ottiano",
+        "character": "Russian Rita",
+        "photo": "https://image.tmdb.org/t/p/w500/9mmSTWiE27nc9tJhVZ8vwO41jvd.jpg"
+      },
+      {
+        "name": "Dewey Robinson",
+        "character": "Spider Kane",
+        "photo": "https://image.tmdb.org/t/p/w500/zq14YNrOf2yA3G4tEmYXlZDC704.jpg"
+      },
+      {
+        "name": "Rochelle Hudson",
+        "character": "Sally",
+        "photo": "https://image.tmdb.org/t/p/w500/2Mi0CBL9pvzLnCBTnfekH0JizcM.jpg"
+      },
+      {
+        "name": "Tammany Young",
+        "character": "Chuck Connors",
+        "photo": "https://image.tmdb.org/t/p/w500/r0ger3ri1mCYz4UlZvb9fi8gTLl.jpg"
+      },
+      {
+        "name": "Fuzzy Knight",
+        "character": "Rag Time Kelly",
+        "photo": "https://image.tmdb.org/t/p/w500/vv3sXhvCEpZxeG8WucH4p6JdaYl.jpg"
+      },
+      {
+        "name": "Grace La Rue",
+        "character": "Frances"
+      }
+    ],
+    "director": [
+      "Lowell Sherman"
+    ]
   }
 }

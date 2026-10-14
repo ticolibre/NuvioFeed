@@ -18,6 +18,80 @@
           "rating": "4.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Rip Torn",
+      "Dina Korzun",
+      "Darren E. Burrows",
+      "Paprika Steen",
+      "Red West",
+      "Jenny O'Hara",
+      "Andrew Henderson",
+      "Elizabeth Morton",
+      "Joanne Pankow",
+      "Arielle Kight",
+      "J. Blackfoot",
+      "Jerry Chipman"
+    ],
+    "app_cast": [
+      {
+        "name": "Rip Torn",
+        "character": "Alan James",
+        "photo": "https://image.tmdb.org/t/p/w500/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+      },
+      {
+        "name": "Dina Korzun",
+        "character": "Laura",
+        "photo": "https://image.tmdb.org/t/p/w500/5XbahZTLwv3xOrRi5BG1mhyQ5Am.jpg"
+      },
+      {
+        "name": "Darren E. Burrows",
+        "character": "Michael James",
+        "photo": "https://image.tmdb.org/t/p/w500/wEsvPPgvJn1cxB0dBEkewpnIO33.jpg"
+      },
+      {
+        "name": "Paprika Steen",
+        "character": "Lonni",
+        "photo": "https://image.tmdb.org/t/p/w500/c0OSsG2akVhYMOrCd3EYNGY4AuN.jpg"
+      },
+      {
+        "name": "Red West",
+        "character": "Duigan",
+        "photo": "https://image.tmdb.org/t/p/w500/wSJw9XFodrZJEBsMHKM0EsShDjE.jpg"
+      },
+      {
+        "name": "Jenny O'Hara",
+        "character": "Celia",
+        "photo": "https://image.tmdb.org/t/p/w500/cNEu7MMpO2dAtZazIbxjo45oH3j.jpg"
+      },
+      {
+        "name": "Andrew Henderson",
+        "character": "Sam James"
+      },
+      {
+        "name": "Elizabeth Morton",
+        "character": "Cindy",
+        "photo": "https://image.tmdb.org/t/p/w500/gGwIgdJKpF9Ki7dvhqpeRm5ldDr.jpg"
+      },
+      {
+        "name": "Joanne Pankow",
+        "character": "Aunt Betty"
+      },
+      {
+        "name": "Arielle Kight",
+        "character": "Teenage Singer"
+      },
+      {
+        "name": "J. Blackfoot",
+        "character": "Himself"
+      },
+      {
+        "name": "Jerry Chipman",
+        "character": "Shel"
+      }
+    ],
+    "director": [
+      "Ira Sachs"
+    ]
   }
 }

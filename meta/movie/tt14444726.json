@@ -18,6 +18,82 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Cate Blanchett",
+      "Nina Hoss",
+      "Noémie Merlant",
+      "Sophie Kauer",
+      "Julian Glover",
+      "Mark Strong",
+      "Sylvia Flote",
+      "Allan Corduner",
+      "Mila Bogojevic",
+      "Adam Gopnik",
+      "Marc-Martin Straub",
+      "Egon Brandstetter"
+    ],
+    "app_cast": [
+      {
+        "name": "Cate Blanchett",
+        "character": "Lydia Tár",
+        "photo": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        "name": "Nina Hoss",
+        "character": "Sharon Goodnow",
+        "photo": "https://image.tmdb.org/t/p/w500/j4j3eenfrg0XgW0dVReFAdPNPE0.jpg"
+      },
+      {
+        "name": "Noémie Merlant",
+        "character": "Francesca Lentini",
+        "photo": "https://image.tmdb.org/t/p/w500/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
+      },
+      {
+        "name": "Sophie Kauer",
+        "character": "Olga Metkina",
+        "photo": "https://image.tmdb.org/t/p/w500/1WlubE47HNnJ57qi4Ky3vmlDhf3.jpg"
+      },
+      {
+        "name": "Julian Glover",
+        "character": "Andris Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/diwVEgax6O2YwJu2VcW8zC0qhot.jpg"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "Eliot Kaplan",
+        "photo": "https://image.tmdb.org/t/p/w500/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+      },
+      {
+        "name": "Sylvia Flote",
+        "character": "Krista Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/zA9kDpYBmsc36j1ks87rTNSsMhW.jpg"
+      },
+      {
+        "name": "Allan Corduner",
+        "character": "Sebastian Brix",
+        "photo": "https://image.tmdb.org/t/p/w500/9bZTEBUjY02UeooNnghZXxKfiO7.jpg"
+      },
+      {
+        "name": "Mila Bogojevic",
+        "character": "Petra"
+      },
+      {
+        "name": "Adam Gopnik",
+        "character": "Adam Gopnik",
+        "photo": "https://image.tmdb.org/t/p/w500/lR485axKmDSDqy2Fm7CkXkMM4cG.jpg"
+      },
+      {
+        "name": "Marc-Martin Straub",
+        "character": "Tailor #1"
+      },
+      {
+        "name": "Egon Brandstetter",
+        "character": "Tailor #2"
+      }
+    ],
+    "director": [
+      "Todd Field"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "B.J. Novak",
+      "Boyd Holbrook",
+      "J. Smith-Cameron",
+      "Issa Rae",
+      "Ashton Kutcher",
+      "Lio Tipton",
+      "Dove Cameron",
+      "Isabella Amara",
+      "Eli Bickel",
+      "John Mayer",
+      "Louanne Stephens",
+      "Zach Villa"
+    ],
+    "app_cast": [
+      {
+        "name": "B.J. Novak",
+        "character": "Ben Manalowitz",
+        "photo": "https://image.tmdb.org/t/p/w500/o8Xf1khxhKGTz3QAplXD35opRA8.jpg"
+      },
+      {
+        "name": "Boyd Holbrook",
+        "character": "Ty Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/xmkpedcct3ey1d1HGDNsUMQPHcB.jpg"
+      },
+      {
+        "name": "J. Smith-Cameron",
+        "character": "Sharon Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/7MBc2xJA3BpW3SnDQsww87IA0Tr.jpg"
+      },
+      {
+        "name": "Issa Rae",
+        "character": "Eloise",
+        "photo": "https://image.tmdb.org/t/p/w500/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+      },
+      {
+        "name": "Ashton Kutcher",
+        "character": "Quentin Sellers",
+        "photo": "https://image.tmdb.org/t/p/w500/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
+      },
+      {
+        "name": "Lio Tipton",
+        "character": "Abilene Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/jwLTUddwx1vGVcrpEGH87vVJsnY.jpg"
+      },
+      {
+        "name": "Dove Cameron",
+        "character": "Kansas City Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/7sfEvzwUGrqs1qORnXCnLehwHfm.jpg"
+      },
+      {
+        "name": "Isabella Amara",
+        "character": "Paris Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/hz2uP4Qjucj5my9rLc0FO9aWV2E.jpg"
+      },
+      {
+        "name": "Eli Bickel",
+        "character": "El Stupido Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/xw5ogdgWPfIRPeP3wUJ8FopGcwG.jpg"
+      },
+      {
+        "name": "John Mayer",
+        "character": "John",
+        "photo": "https://image.tmdb.org/t/p/w500/j6W5imosdIvPQ2PLZCRMlKiIy4h.jpg"
+      },
+      {
+        "name": "Louanne Stephens",
+        "character": "Granny Carole Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/evbBYzGp7M5BaHwomHfKhwYNP7p.jpg"
+      },
+      {
+        "name": "Zach Villa",
+        "character": "Sancholo",
+        "photo": "https://image.tmdb.org/t/p/w500/oyJ13yWUmMnmpywV0Z2CJCFvzXV.jpg"
+      }
+    ],
+    "director": [
+      "B.J. Novak"
+    ]
   }
 }

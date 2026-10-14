@@ -19,6 +19,83 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Carey Mulligan",
+      "Bradley Cooper",
+      "Matt Bomer",
+      "Vincenzo Amato",
+      "Greg Hildreth",
+      "Michael Urie",
+      "Brian Klugman",
+      "Nick Blaemire",
+      "Mallory Portnoy",
+      "Alexandra Santini",
+      "Jarrod LaBine",
+      "Sarah Silverman"
+    ],
+    "app_cast": [
+      {
+        "name": "Carey Mulligan",
+        "character": "Felicia Montealegre",
+        "photo": "https://image.tmdb.org/t/p/w500/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Leonard Bernstein",
+        "photo": "https://image.tmdb.org/t/p/w500/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+      },
+      {
+        "name": "Matt Bomer",
+        "character": "David Oppenheim",
+        "photo": "https://image.tmdb.org/t/p/w500/oxL27Z3XtjoABaOynKazZeg7qKM.jpg"
+      },
+      {
+        "name": "Vincenzo Amato",
+        "character": "Bruno Zirato",
+        "photo": "https://image.tmdb.org/t/p/w500/6fI2F4puhODCgDVtFBLiSFtkaHL.jpg"
+      },
+      {
+        "name": "Greg Hildreth",
+        "character": "Isaac",
+        "photo": "https://image.tmdb.org/t/p/w500/44phNSzsUDuMujdr0etYrty2JFb.jpg"
+      },
+      {
+        "name": "Michael Urie",
+        "character": "Jerry Robbins",
+        "photo": "https://image.tmdb.org/t/p/w500/jnht4uEQEM9d8YXAKckD1aWamPN.jpg"
+      },
+      {
+        "name": "Brian Klugman",
+        "character": "Aaron Copeland",
+        "photo": "https://image.tmdb.org/t/p/w500/v716uSwY5xiz8reoIuMG7ikWLS5.jpg"
+      },
+      {
+        "name": "Nick Blaemire",
+        "character": "Adolph Green",
+        "photo": "https://image.tmdb.org/t/p/w500/iAlcg79ZyW480c4QVPEiHJUMn6E.jpg"
+      },
+      {
+        "name": "Mallory Portnoy",
+        "character": "Betty Comden",
+        "photo": "https://image.tmdb.org/t/p/w500/cQGxFcrlOhrjRJpg5enEs7DkwME.jpg"
+      },
+      {
+        "name": "Alexandra Santini",
+        "character": "Claudio's Guest #1"
+      },
+      {
+        "name": "Jarrod LaBine",
+        "character": "Claudio's Guest #2"
+      },
+      {
+        "name": "Sarah Silverman",
+        "character": "Shirley Bernstein",
+        "photo": "https://image.tmdb.org/t/p/w500/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+      }
+    ],
+    "director": [
+      "Bradley Cooper"
+    ]
   }
 }

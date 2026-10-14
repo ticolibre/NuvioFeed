@@ -18,6 +18,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Ernest Borgnine",
+      "Betsy Blair",
+      "Esther Minciotti",
+      "Augusta Ciolli",
+      "Joe Mantell",
+      "Karen Steele",
+      "Jerry Paris",
+      "James Bell",
+      "John Beradino",
+      "Charles Cane",
+      "Paddy Chayefsky",
+      "John Dennis"
+    ],
+    "app_cast": [
+      {
+        "name": "Ernest Borgnine",
+        "character": "Marty",
+        "photo": "https://image.tmdb.org/t/p/w500/vlq94UdNfjLnd9DAkKC94vKLfJJ.jpg"
+      },
+      {
+        "name": "Betsy Blair",
+        "character": "Clara",
+        "photo": "https://image.tmdb.org/t/p/w500/yY48dqk7UWxYZZsqiU6SGkrvCeP.jpg"
+      },
+      {
+        "name": "Esther Minciotti",
+        "character": "Mrs. Piletti",
+        "photo": "https://image.tmdb.org/t/p/w500/liqG65mQVONkL7m3q787GRtUQ9X.jpg"
+      },
+      {
+        "name": "Augusta Ciolli",
+        "character": "Aunt Catherine",
+        "photo": "https://image.tmdb.org/t/p/w500/yEzXsvPJp3Gzp808zYRpzVqBQ87.jpg"
+      },
+      {
+        "name": "Joe Mantell",
+        "character": "Angie",
+        "photo": "https://image.tmdb.org/t/p/w500/tBRWb2XDzupDaGQo1J1taMn1Dzn.jpg"
+      },
+      {
+        "name": "Karen Steele",
+        "character": "Virginia",
+        "photo": "https://image.tmdb.org/t/p/w500/t69BnjrccActcUFkDFUev0xfrZv.jpg"
+      },
+      {
+        "name": "Jerry Paris",
+        "character": "Tommy",
+        "photo": "https://image.tmdb.org/t/p/w500/sVBdp5qEcOZsB77YrWfL5Hw4iv5.jpg"
+      },
+      {
+        "name": "James Bell",
+        "character": "Mr. Snyder (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/eu2oR1riKippv4xti7ERynzNCEP.jpg"
+      },
+      {
+        "name": "John Beradino",
+        "character": "Man in Bar (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/zSWYuwXmhsgycFKSStNhMmlLJKe.jpg"
+      },
+      {
+        "name": "Charles Cane",
+        "character": "Lou (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/vc5xFe2MJuK1lzDNBZtsqNxVVJP.jpg"
+      },
+      {
+        "name": "Paddy Chayefsky",
+        "character": "Leo (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/zrbeJrCDlfI4ZNFUxXmW6lnnf5i.jpg"
+      },
+      {
+        "name": "John Dennis",
+        "character": "Andy (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/78XDuxSpAlTxpxMVbFi1EQpmjPW.jpg"
+      }
+    ],
+    "director": [
+      "Delbert Mann"
+    ]
   }
 }

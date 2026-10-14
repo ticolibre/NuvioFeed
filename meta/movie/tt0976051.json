@@ -18,6 +18,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Ralph Fiennes",
+      "Kate Winslet",
+      "David Kross",
+      "Lena Olin",
+      "Bruno Ganz",
+      "Jeanette Hain",
+      "Hannah Herzsprung",
+      "Karoline Herfurth",
+      "Volker Bruch",
+      "Alexandra Maria Lara",
+      "Fabian Busch",
+      "Vijessna Ferkic"
+    ],
+    "app_cast": [
+      {
+        "name": "Ralph Fiennes",
+        "character": "Michael Berg",
+        "photo": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Hanna Schmitz",
+        "photo": "https://image.tmdb.org/t/p/w500/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+      },
+      {
+        "name": "David Kross",
+        "character": "Young Michael Berg",
+        "photo": "https://image.tmdb.org/t/p/w500/9usBpwmmOnHYMdrILeLHiwoio9v.jpg"
+      },
+      {
+        "name": "Lena Olin",
+        "character": "Rose Mather",
+        "photo": "https://image.tmdb.org/t/p/w500/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg"
+      },
+      {
+        "name": "Bruno Ganz",
+        "character": "Professor Rohl",
+        "photo": "https://image.tmdb.org/t/p/w500/8bhS1PObqe8OOVcyIRxV5Rcdufd.jpg"
+      },
+      {
+        "name": "Jeanette Hain",
+        "character": "Brigitte",
+        "photo": "https://image.tmdb.org/t/p/w500/6FkzcacM6wCKovrE7OIvN74KPMZ.jpg"
+      },
+      {
+        "name": "Hannah Herzsprung",
+        "character": "Julia",
+        "photo": "https://image.tmdb.org/t/p/w500/r7HqgdYtosrLnAwJKVnfDr13mdz.jpg"
+      },
+      {
+        "name": "Karoline Herfurth",
+        "character": "Marthe",
+        "photo": "https://image.tmdb.org/t/p/w500/tuG0Jy82jC9ReiD9qXIDBLCYfhi.jpg"
+      },
+      {
+        "name": "Volker Bruch",
+        "character": "Dieter Spenz",
+        "photo": "https://image.tmdb.org/t/p/w500/vRlIMyCSISdh2d2pdOMQlLyV0ce.jpg"
+      },
+      {
+        "name": "Alexandra Maria Lara",
+        "character": "Young Ilana Mather",
+        "photo": "https://image.tmdb.org/t/p/w500/68YNY2TfvsE9T3tcCeHDVXbnzyB.jpg"
+      },
+      {
+        "name": "Fabian Busch",
+        "character": "Hanna's Defense Council",
+        "photo": "https://image.tmdb.org/t/p/w500/lpEs9yDsMQlsbm0RVsvDIleCXcI.jpg"
+      },
+      {
+        "name": "Vijessna Ferkic",
+        "character": "Sophie",
+        "photo": "https://image.tmdb.org/t/p/w500/jBnWXi9chUFV9RejeRon0pM6sus.jpg"
+      }
+    ],
+    "director": [
+      "Stephen Daldry"
+    ]
   }
 }

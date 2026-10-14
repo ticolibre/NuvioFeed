@@ -18,6 +18,85 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano",
+      "Sergio Bini Bustric",
+      "Marisa Paredes",
+      "Horst Buchholz",
+      "Lidia Alfonsi",
+      "Giuliana Lojodice",
+      "Amerigo Fontani",
+      "Pietro De Silva",
+      "Francesco Guzzo"
+    ],
+    "app_cast": [
+      {
+        "name": "Roberto Benigni",
+        "character": "Guido",
+        "photo": "https://image.tmdb.org/t/p/w500/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
+      },
+      {
+        "name": "Nicoletta Braschi",
+        "character": "Dora",
+        "photo": "https://image.tmdb.org/t/p/w500/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
+      },
+      {
+        "name": "Giorgio Cantarini",
+        "character": "Giosué",
+        "photo": "https://image.tmdb.org/t/p/w500/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
+      },
+      {
+        "name": "Giustino Durano",
+        "character": "Zio",
+        "photo": "https://image.tmdb.org/t/p/w500/5VbG50qZNUnpx6UW7594RUlX7SZ.jpg"
+      },
+      {
+        "name": "Sergio Bini Bustric",
+        "character": "Ferruccio",
+        "photo": "https://image.tmdb.org/t/p/w500/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+      },
+      {
+        "name": "Marisa Paredes",
+        "character": "Dora's Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+      },
+      {
+        "name": "Horst Buchholz",
+        "character": "Doctor Lessing",
+        "photo": "https://image.tmdb.org/t/p/w500/9V38Di9T0qsjKBl2dR7sZMN1N0i.jpg"
+      },
+      {
+        "name": "Lidia Alfonsi",
+        "character": "Mrs. Guicciardini",
+        "photo": "https://image.tmdb.org/t/p/w500/85BrcBOeIcfV9XkV523wN0VGNRR.jpg"
+      },
+      {
+        "name": "Giuliana Lojodice",
+        "character": "School Principal",
+        "photo": "https://image.tmdb.org/t/p/w500/cACsY8JyWaR3WeX7w1D09YssXbq.jpg"
+      },
+      {
+        "name": "Amerigo Fontani",
+        "character": "Rodolfo",
+        "photo": "https://image.tmdb.org/t/p/w500/uRQn3gGNPGQzG6XNli1b1TiEu6G.jpg"
+      },
+      {
+        "name": "Pietro De Silva",
+        "character": "Bartolomeo",
+        "photo": "https://image.tmdb.org/t/p/w500/tjP3YLGB3VNtqNgqGmLjZbJENzG.jpg"
+      },
+      {
+        "name": "Francesco Guzzo",
+        "character": "Vittorino",
+        "photo": "https://image.tmdb.org/t/p/w500/8HSTZitD85LIqOOhpTepILHyxW2.jpg"
+      }
+    ],
+    "director": [
+      "Roberto Benigni"
+    ]
   }
 }

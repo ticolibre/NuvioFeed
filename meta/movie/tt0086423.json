@@ -19,6 +19,81 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Duvall",
+      "Tess Harper",
+      "Betty Buckley",
+      "Wilford Brimley",
+      "Ellen Barkin",
+      "Allan Hubbard",
+      "Lenny Von Dohlen",
+      "Paul Gleason",
+      "Michael Crabtree",
+      "Norman Bennett",
+      "Andrew Scott Hollon",
+      "Rick Murray"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Duvall",
+        "character": "Mac Sledge",
+        "photo": "https://image.tmdb.org/t/p/w500/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Tess Harper",
+        "character": "Rosa Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/8Z770Kk13MK1NP7skWmTxvRGx3V.jpg"
+      },
+      {
+        "name": "Betty Buckley",
+        "character": "Dixie",
+        "photo": "https://image.tmdb.org/t/p/w500/vgEah6IHjirZGXjuGhTA1Wp9aQT.jpg"
+      },
+      {
+        "name": "Wilford Brimley",
+        "character": "Harry",
+        "photo": "https://image.tmdb.org/t/p/w500/tB0DdWX6FeNB3tjffJIaC0EOLBB.jpg"
+      },
+      {
+        "name": "Ellen Barkin",
+        "character": "Sue Anne",
+        "photo": "https://image.tmdb.org/t/p/w500/k8L89k5xEk7hN3TUKkEFUcPzSxh.jpg"
+      },
+      {
+        "name": "Allan Hubbard",
+        "character": "Sonny"
+      },
+      {
+        "name": "Lenny Von Dohlen",
+        "character": "Robert",
+        "photo": "https://image.tmdb.org/t/p/w500/7DZcWpMvIDVKClySYlgErSbPWFA.jpg"
+      },
+      {
+        "name": "Paul Gleason",
+        "character": "Reporter",
+        "photo": "https://image.tmdb.org/t/p/w500/a7PJofFcVpDxw2wAak1d56J7L4k.jpg"
+      },
+      {
+        "name": "Michael Crabtree",
+        "character": "Lewis Menefee",
+        "photo": "https://image.tmdb.org/t/p/w500/sLKKuCl3LMIqIblR9fgfaqEMLMZ.jpg"
+      },
+      {
+        "name": "Norman Bennett",
+        "character": "Reverend Hotchkiss"
+      },
+      {
+        "name": "Andrew Scott Hollon",
+        "character": "Larue"
+      },
+      {
+        "name": "Rick Murray",
+        "character": "Jake - Slater Mill Boys Member"
+      }
+    ],
+    "director": [
+      "Bruce Beresford"
+    ]
   }
 }

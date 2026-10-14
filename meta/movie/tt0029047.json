@@ -18,6 +18,84 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Tyrone Power",
+      "Alice Faye",
+      "Don Ameche",
+      "Alice Brady",
+      "Andy Devine",
+      "Brian Donlevy",
+      "Phyllis Brooks",
+      "Tom Brown",
+      "Sidney Blackmer",
+      "Berton Churchill",
+      "June Storey",
+      "Paul Hurst"
+    ],
+    "app_cast": [
+      {
+        "name": "Tyrone Power",
+        "character": "Dion O'Leary",
+        "photo": "https://image.tmdb.org/t/p/w500/iUyYe8JNOegoe0efRja4scocHYq.jpg"
+      },
+      {
+        "name": "Alice Faye",
+        "character": "Belle Fawcett",
+        "photo": "https://image.tmdb.org/t/p/w500/jC15KAoPnRWuuGWP2msKxWZsa3I.jpg"
+      },
+      {
+        "name": "Don Ameche",
+        "character": "Jack O'Leary",
+        "photo": "https://image.tmdb.org/t/p/w500/p2Q0LE3SECDvb5W2yAvvfRtzIyo.jpg"
+      },
+      {
+        "name": "Alice Brady",
+        "character": "Molly O'Leary",
+        "photo": "https://image.tmdb.org/t/p/w500/v9XVx9jV7ntUKog525jrYkSnq3n.jpg"
+      },
+      {
+        "name": "Andy Devine",
+        "character": "Pickle Bixby",
+        "photo": "https://image.tmdb.org/t/p/w500/rBCv7cszfbo2dkQbGxxff9xTppL.jpg"
+      },
+      {
+        "name": "Brian Donlevy",
+        "character": "Gil Warren",
+        "photo": "https://image.tmdb.org/t/p/w500/1ScpU7sf6WGlWhHqc0EYlfA4L1d.jpg"
+      },
+      {
+        "name": "Phyllis Brooks",
+        "character": "Ann Colby",
+        "photo": "https://image.tmdb.org/t/p/w500/vh9zftnknwkiGppOOUhBrosQQvM.jpg"
+      },
+      {
+        "name": "Tom Brown",
+        "character": "Bob O'Leary",
+        "photo": "https://image.tmdb.org/t/p/w500/ehCgDrUhMQA7gBL7fm7kBoK8jQO.jpg"
+      },
+      {
+        "name": "Sidney Blackmer",
+        "character": "General Phil Sheridan",
+        "photo": "https://image.tmdb.org/t/p/w500/2JzR0u8yvrkp3e0GB5cajCqGDjp.jpg"
+      },
+      {
+        "name": "Berton Churchill",
+        "character": "Senator Colby",
+        "photo": "https://image.tmdb.org/t/p/w500/xBJ2nc9DMFRLlyxhRXCymsGj9Y5.jpg"
+      },
+      {
+        "name": "June Storey",
+        "character": "Gretchen",
+        "photo": "https://image.tmdb.org/t/p/w500/nckAZ4ErJHv3LgcPfmxPngoMUi.jpg"
+      },
+      {
+        "name": "Paul Hurst",
+        "character": "Mitch"
+      }
+    ],
+    "director": [
+      "Henry King"
+    ]
   }
 }

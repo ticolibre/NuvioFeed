@@ -18,6 +18,82 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Matthew McConaughey",
+      "America Ferrera",
+      "Yul Vazquez",
+      "Ashlie Atkinson",
+      "Kimberli Flores",
+      "Levi McConaughey",
+      "Kay McConaughey",
+      "John Messina",
+      "Kate Wharton",
+      "Danny McCarthy",
+      "Spencer Watson",
+      "Beth Bowersox"
+    ],
+    "app_cast": [
+      {
+        "name": "Matthew McConaughey",
+        "character": "Kevin McKay",
+        "photo": "https://image.tmdb.org/t/p/w500/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+      },
+      {
+        "name": "America Ferrera",
+        "character": "Mary Ludwig",
+        "photo": "https://image.tmdb.org/t/p/w500/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
+      },
+      {
+        "name": "Yul Vazquez",
+        "character": "Chief Martinez",
+        "photo": "https://image.tmdb.org/t/p/w500/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+      },
+      {
+        "name": "Ashlie Atkinson",
+        "character": "Ruby Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/hM5baaucl7UzeRozzTlTr4fPkw5.jpg"
+      },
+      {
+        "name": "Kimberli Flores",
+        "character": "Linda",
+        "photo": "https://image.tmdb.org/t/p/w500/n7KNFY1Y76mStkNEiT4QilJASsL.jpg"
+      },
+      {
+        "name": "Levi McConaughey",
+        "character": "Shaun"
+      },
+      {
+        "name": "Kay McConaughey",
+        "character": "Sherry",
+        "photo": "https://image.tmdb.org/t/p/w500/hXnLntSlUWk3PhiXe3tFmMssHji.jpg"
+      },
+      {
+        "name": "John Messina",
+        "character": "John Messina"
+      },
+      {
+        "name": "Kate Wharton",
+        "character": "Jen Kissoon",
+        "photo": "https://image.tmdb.org/t/p/w500/huQbdrFJLJ42QNAW1ebwR44Gfau.jpg"
+      },
+      {
+        "name": "Danny McCarthy",
+        "character": "Matt McKenzie",
+        "photo": "https://image.tmdb.org/t/p/w500/jTYHl6SGo6hrHrezVCNHvEr4a5g.jpg"
+      },
+      {
+        "name": "Spencer Watson",
+        "character": "Elliot Hopkins",
+        "photo": "https://image.tmdb.org/t/p/w500/2U5uv5QkG4nAmVdbUTjufwTf51p.jpg"
+      },
+      {
+        "name": "Beth Bowersox",
+        "character": "Beth Bowersox"
+      }
+    ],
+    "director": [
+      "Paul Greengrass"
+    ]
   }
 }

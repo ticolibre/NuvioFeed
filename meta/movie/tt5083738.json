@@ -19,6 +19,82 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Emma Stone",
+      "Olivia Colman",
+      "Rachel Weisz",
+      "Nicholas Hoult",
+      "Joe Alwyn",
+      "Mark Gatiss",
+      "James Smith",
+      "Jenny Rainsford",
+      "Emma Delves",
+      "Faye Daveney",
+      "Paul Swaine",
+      "Jennifer White"
+    ],
+    "app_cast": [
+      {
+        "name": "Emma Stone",
+        "character": "Abigail",
+        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "Olivia Colman",
+        "character": "Queen Anne",
+        "photo": "https://image.tmdb.org/t/p/w500/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+      },
+      {
+        "name": "Rachel Weisz",
+        "character": "Lady Sarah",
+        "photo": "https://image.tmdb.org/t/p/w500/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+      },
+      {
+        "name": "Nicholas Hoult",
+        "character": "Harley",
+        "photo": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+      },
+      {
+        "name": "Joe Alwyn",
+        "character": "Masham",
+        "photo": "https://image.tmdb.org/t/p/w500/jAdaAeaDVYWlU8I5X5p5DuUI8Ii.jpg"
+      },
+      {
+        "name": "Mark Gatiss",
+        "character": "Lord Marlborough",
+        "photo": "https://image.tmdb.org/t/p/w500/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+      },
+      {
+        "name": "James Smith",
+        "character": "Godolphin",
+        "photo": "https://image.tmdb.org/t/p/w500/bt4uBGIuqe1HrEtCvr0EVM85vv2.jpg"
+      },
+      {
+        "name": "Jenny Rainsford",
+        "character": "Mae",
+        "photo": "https://image.tmdb.org/t/p/w500/pVwR9hsEiHzVTo9giCjR3vIfa8W.jpg"
+      },
+      {
+        "name": "Emma Delves",
+        "character": "Queen's Maid"
+      },
+      {
+        "name": "Faye Daveney",
+        "character": "Sarah's Maid",
+        "photo": "https://image.tmdb.org/t/p/w500/xsg6y5QOBZKw6fdp6kXXjDFkPeJ.jpg"
+      },
+      {
+        "name": "Paul Swaine",
+        "character": "Wanking Man"
+      },
+      {
+        "name": "Jennifer White",
+        "character": "Mrs. Meg"
+      }
+    ],
+    "director": [
+      "Yorgos Lanthimos"
+    ]
   }
 }

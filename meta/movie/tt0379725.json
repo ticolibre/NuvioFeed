@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Philip Seymour Hoffman",
+      "Catherine Keener",
+      "Clifton Collins Jr.",
+      "Bruce Greenwood",
+      "Bob Balaban",
+      "Mark Pellegrino",
+      "Marshall Bell",
+      "Amy Ryan",
+      "Bess Meyer",
+      "Chris Cooper",
+      "Allie Mickelson",
+      "Craig Archibald"
+    ],
+    "app_cast": [
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Truman Capote",
+        "photo": "https://image.tmdb.org/t/p/w500/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Catherine Keener",
+        "character": "Harper Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Perry Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+      },
+      {
+        "name": "Bruce Greenwood",
+        "character": "Jack Dunphy",
+        "photo": "https://image.tmdb.org/t/p/w500/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+      },
+      {
+        "name": "Bob Balaban",
+        "character": "William Shawn",
+        "photo": "https://image.tmdb.org/t/p/w500/qceORed11dvRnxQjVGexPvgF5Xu.jpg"
+      },
+      {
+        "name": "Mark Pellegrino",
+        "character": "Dick Hickock",
+        "photo": "https://image.tmdb.org/t/p/w500/r0XnI7sUWzShVwnHw3ncSPxw0Tv.jpg"
+      },
+      {
+        "name": "Marshall Bell",
+        "character": "Warden Marshall Krutch",
+        "photo": "https://image.tmdb.org/t/p/w500/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg"
+      },
+      {
+        "name": "Amy Ryan",
+        "character": "Marie Dewey",
+        "photo": "https://image.tmdb.org/t/p/w500/rE0YBJr3R6GcKu6Gw4K2lGW0ctC.jpg"
+      },
+      {
+        "name": "Bess Meyer",
+        "character": "Linda Murchak",
+        "photo": "https://image.tmdb.org/t/p/w500/3sK6jO36hzl5HDGjMX10XeOQ4JR.jpg"
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Alvin Dewey",
+        "photo": "https://image.tmdb.org/t/p/w500/sJKghcu9wRDIvKM0cI7kqNXYRfS.jpg"
+      },
+      {
+        "name": "Allie Mickelson",
+        "character": "Laura Kinney",
+        "photo": "https://image.tmdb.org/t/p/w500/yqyS3ckq8GbW7ckJYLlLa2Mvf88.jpg"
+      },
+      {
+        "name": "Craig Archibald",
+        "character": "Christopher",
+        "photo": "https://image.tmdb.org/t/p/w500/9UrIEnwRxWSXuPUYCYjrmy3Tm05.jpg"
+      }
+    ],
+    "director": [
+      "Bennett Miller"
+    ]
   }
 }

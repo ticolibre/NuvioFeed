@@ -20,6 +20,86 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Warren Beatty",
+      "Julie Christie",
+      "James Mason",
+      "Jack Warden",
+      "Charles Grodin",
+      "Dyan Cannon",
+      "Buck Henry",
+      "Vincent Gardenia",
+      "Joseph Maher",
+      "Hamilton Camp",
+      "Arthur Malet",
+      "Stephanie Faracy"
+    ],
+    "app_cast": [
+      {
+        "name": "Warren Beatty",
+        "character": "Joe Pendleton",
+        "photo": "https://image.tmdb.org/t/p/w500/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg"
+      },
+      {
+        "name": "Julie Christie",
+        "character": "Betty Logan",
+        "photo": "https://image.tmdb.org/t/p/w500/siAi4XZhDPP8LRgbByzwLqVaLIQ.jpg"
+      },
+      {
+        "name": "James Mason",
+        "character": "Mr. Jordan",
+        "photo": "https://image.tmdb.org/t/p/w500/vCABivuMBCT78sh5G0q8jO5rkT.jpg"
+      },
+      {
+        "name": "Jack Warden",
+        "character": "Max Corkle",
+        "photo": "https://image.tmdb.org/t/p/w500/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+      },
+      {
+        "name": "Charles Grodin",
+        "character": "Tony Abbott",
+        "photo": "https://image.tmdb.org/t/p/w500/wRlpdMoxZ4FhFZ7Ttbs3pb3X0HT.jpg"
+      },
+      {
+        "name": "Dyan Cannon",
+        "character": "Julia Farnsworth",
+        "photo": "https://image.tmdb.org/t/p/w500/gsCs5HMXvfwhv83x7dyblqyrIDy.jpg"
+      },
+      {
+        "name": "Buck Henry",
+        "character": "The Escort",
+        "photo": "https://image.tmdb.org/t/p/w500/iAOjaj5OHMMXno65MwmDtkqHeb6.jpg"
+      },
+      {
+        "name": "Vincent Gardenia",
+        "character": "Krim",
+        "photo": "https://image.tmdb.org/t/p/w500/xoJsXDJTNV4MUCqciN3ThcQrPdP.jpg"
+      },
+      {
+        "name": "Joseph Maher",
+        "character": "Sisk",
+        "photo": "https://image.tmdb.org/t/p/w500/fdwV2XY41qJ7U4aO9xAZkJpJwXe.jpg"
+      },
+      {
+        "name": "Hamilton Camp",
+        "character": "Bentley",
+        "photo": "https://image.tmdb.org/t/p/w500/1ftUhoIOkYzzPW9lmkMYrskxgXT.jpg"
+      },
+      {
+        "name": "Arthur Malet",
+        "character": "Everett",
+        "photo": "https://image.tmdb.org/t/p/w500/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg"
+      },
+      {
+        "name": "Stephanie Faracy",
+        "character": "Corinne",
+        "photo": "https://image.tmdb.org/t/p/w500/aTdtWjGG8p2kXg1NA0ZskN3b1cl.jpg"
+      }
+    ],
+    "director": [
+      "Buck Henry",
+      "Warren Beatty"
+    ]
   }
 }

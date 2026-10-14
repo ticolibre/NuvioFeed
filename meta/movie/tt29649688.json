@@ -17,6 +17,24 @@
           "rating": "4.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Yves Chesselet",
+      "Joëlle Chesselet"
+    ],
+    "app_cast": [
+      {
+        "name": "Yves Chesselet",
+        "character": "Self"
+      },
+      {
+        "name": "Joëlle Chesselet",
+        "character": "Narrator"
+      }
+    ],
+    "director": [
+      "Pippa Ehrlich",
+      "Joëlle Chesselet"
+    ]
   }
 }

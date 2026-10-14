@@ -17,6 +17,37 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Alex Gibney",
+      "Scott Becker",
+      "Taison Bell",
+      "Michael Bowen"
+    ],
+    "app_cast": [
+      {
+        "name": "Alex Gibney",
+        "character": "Narrator (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/i66xSiaYwo9lgjIZwglrc2bYUG7.jpg"
+      },
+      {
+        "name": "Scott Becker",
+        "character": "Self"
+      },
+      {
+        "name": "Taison Bell",
+        "character": "Self"
+      },
+      {
+        "name": "Michael Bowen",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/dYIzQQ4yozTIlpqJbmDkSyDd86C.jpg"
+      }
+    ],
+    "director": [
+      "Alex Gibney",
+      "Ophelia Harutyunyan",
+      "Suzanne Hillinger"
+    ]
   }
 }

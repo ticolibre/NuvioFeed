@@ -19,6 +19,84 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Natalia Solián",
+      "Alfonso Dosal",
+      "Mayra Batalla",
+      "Mercedes Hernández",
+      "Sonia Couoh",
+      "Aida López",
+      "Anahí Allue",
+      "Martha Claudia Moreno",
+      "Emilram Cossío",
+      "Norma Reyna",
+      "Gina Morett",
+      "Rocío Belmont"
+    ],
+    "app_cast": [
+      {
+        "name": "Natalia Solián",
+        "character": "Valeria",
+        "photo": "https://image.tmdb.org/t/p/w500/miG7BYdOLR8DvvqdfhGpukxGZLh.jpg"
+      },
+      {
+        "name": "Alfonso Dosal",
+        "character": "Raúl",
+        "photo": "https://image.tmdb.org/t/p/w500/rU5OxxV1lsJuhUM1n5TSWdZSb8S.jpg"
+      },
+      {
+        "name": "Mayra Batalla",
+        "character": "Octavia",
+        "photo": "https://image.tmdb.org/t/p/w500/2tHR2fCTNfs3bxu53BQZUM3ybFq.jpg"
+      },
+      {
+        "name": "Mercedes Hernández",
+        "character": "Isabel",
+        "photo": "https://image.tmdb.org/t/p/w500/2pC5Lv1eiItvAxeEe8KTbRlM1wY.jpg"
+      },
+      {
+        "name": "Sonia Couoh",
+        "character": "Vero",
+        "photo": "https://image.tmdb.org/t/p/w500/i6K5a1oI8y22Cgc25vuIEDeeWZ9.jpg"
+      },
+      {
+        "name": "Aida López",
+        "character": "Maricarmen",
+        "photo": "https://image.tmdb.org/t/p/w500/ym944K7pVZkPzVJ56gcfXA0eM1K.jpg"
+      },
+      {
+        "name": "Anahí Allue",
+        "character": "Norma",
+        "photo": "https://image.tmdb.org/t/p/w500/mX7yBJx0Uaje6yZey7IU3gWQzC7.jpg"
+      },
+      {
+        "name": "Martha Claudia Moreno",
+        "character": "Ursula",
+        "photo": "https://image.tmdb.org/t/p/w500/eRRRgbYG6Wmnq3GTEfDBIbRbUmp.jpg"
+      },
+      {
+        "name": "Emilram Cossío",
+        "character": "Ginecólogo",
+        "photo": "https://image.tmdb.org/t/p/w500/yhnxjbnmOBxoagTqrGkIONsfx8R.jpg"
+      },
+      {
+        "name": "Norma Reyna",
+        "character": "Sabine Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/wXrgKUxzi0TAeUwOyaZ8cFyq20k.jpg"
+      },
+      {
+        "name": "Gina Morett",
+        "character": "Sabine Woman",
+        "photo": "https://image.tmdb.org/t/p/w500/5jGzBlcP8Gyar5Bgkjpvd72F82b.jpg"
+      },
+      {
+        "name": "Rocío Belmont",
+        "character": "Sabine Woman"
+      }
+    ],
+    "director": [
+      "Michelle Garza Cervera"
+    ]
   }
 }

@@ -17,6 +17,84 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "José Ferrer",
+      "Zsa Zsa Gabor",
+      "Colette Marchand",
+      "Suzanne Flon",
+      "Claude Nollier",
+      "Katherine Kath",
+      "Muriel Smith",
+      "Mary Clare",
+      "Walter Crisham",
+      "Harold Kasket",
+      "Jim Gérald",
+      "Georges Lannes"
+    ],
+    "app_cast": [
+      {
+        "name": "José Ferrer",
+        "character": "Henri de Toulouse-Lautrec",
+        "photo": "https://image.tmdb.org/t/p/w500/mMOxqZz7Te7SHTd7AGqpjyyykb7.jpg"
+      },
+      {
+        "name": "Zsa Zsa Gabor",
+        "character": "Jane Avril",
+        "photo": "https://image.tmdb.org/t/p/w500/fEOaP9mFLHbXMkOPDpzbCYtKieb.jpg"
+      },
+      {
+        "name": "Colette Marchand",
+        "character": "Marie Charlet"
+      },
+      {
+        "name": "Suzanne Flon",
+        "character": "Myriamme Hayam",
+        "photo": "https://image.tmdb.org/t/p/w500/4kpK9sdCTwSETHTv6iKAL28kiVU.jpg"
+      },
+      {
+        "name": "Claude Nollier",
+        "character": "Countess de Toulouse-Lautrec",
+        "photo": "https://image.tmdb.org/t/p/w500/5cb2ixbYwLb4eJ9ySwfDcKPQQSS.jpg"
+      },
+      {
+        "name": "Katherine Kath",
+        "character": "Louise Weber",
+        "photo": "https://image.tmdb.org/t/p/w500/xBpiVvSSl2UOGnfdhotXm3pTOcv.jpg"
+      },
+      {
+        "name": "Muriel Smith",
+        "character": "Aicha",
+        "photo": "https://image.tmdb.org/t/p/w500/c0v1ib58LG9oafYMbETff30WOKV.jpg"
+      },
+      {
+        "name": "Mary Clare",
+        "character": "Madame Loubet",
+        "photo": "https://image.tmdb.org/t/p/w500/uvRGDhYEg7jAOUoh00yiozgWnSw.jpg"
+      },
+      {
+        "name": "Walter Crisham",
+        "character": "Valentin le Desossé",
+        "photo": "https://image.tmdb.org/t/p/w500/Aha4591bBkRXz91NYet2h7jgEvu.jpg"
+      },
+      {
+        "name": "Harold Kasket",
+        "character": "Charles Zidler",
+        "photo": "https://image.tmdb.org/t/p/w500/vh8z2nN0AH25JhujWuBG0aY7hvM.jpg"
+      },
+      {
+        "name": "Jim Gérald",
+        "character": "Le Père Cotelle",
+        "photo": "https://image.tmdb.org/t/p/w500/8MmlV5jrDVmtuq921dejzEpPUYP.jpg"
+      },
+      {
+        "name": "Georges Lannes",
+        "character": "Balthazar Patou",
+        "photo": "https://image.tmdb.org/t/p/w500/2yO7ZtJFmHAsfa4ZNF8SPXw09qS.jpg"
+      }
+    ],
+    "director": [
+      "John Huston"
+    ]
   }
 }

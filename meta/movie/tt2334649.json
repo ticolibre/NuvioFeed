@@ -17,6 +17,83 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael B. Jordan",
+      "Melonie Díaz",
+      "Octavia Spencer",
+      "Kevin Durand",
+      "Chad Michael Murray",
+      "Ahna O'Reilly",
+      "Ariana Neal",
+      "Keenan Coogler",
+      "Trestin George",
+      "Joey Oglesby",
+      "Michael James",
+      "Marjorie Crump-Shears"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael B. Jordan",
+        "character": "Oscar Grant",
+        "photo": "https://image.tmdb.org/t/p/w500/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+      },
+      {
+        "name": "Melonie Díaz",
+        "character": "Sophina",
+        "photo": "https://image.tmdb.org/t/p/w500/bZw2waOzKDE74crNL02L9EsBiH4.jpg"
+      },
+      {
+        "name": "Octavia Spencer",
+        "character": "Wanda",
+        "photo": "https://image.tmdb.org/t/p/w500/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        "name": "Kevin Durand",
+        "character": "Officer Caruso",
+        "photo": "https://image.tmdb.org/t/p/w500/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+      },
+      {
+        "name": "Chad Michael Murray",
+        "character": "Officer Ingram",
+        "photo": "https://image.tmdb.org/t/p/w500/jIkzUQUVLkgn3HFMFRJBDAD0OLj.jpg"
+      },
+      {
+        "name": "Ahna O'Reilly",
+        "character": "Katie",
+        "photo": "https://image.tmdb.org/t/p/w500/9FvuLLjjHUqzbzhjX8ougHBrBjM.jpg"
+      },
+      {
+        "name": "Ariana Neal",
+        "character": "Tatiana",
+        "photo": "https://image.tmdb.org/t/p/w500/ewm9byOrir9ssi7K95Ti3hcTopz.jpg"
+      },
+      {
+        "name": "Keenan Coogler",
+        "character": "Cato",
+        "photo": "https://image.tmdb.org/t/p/w500/rJvmm0owy12kw6UXtmfp8UWmu6o.jpg"
+      },
+      {
+        "name": "Trestin George",
+        "character": "Brandon",
+        "photo": "https://image.tmdb.org/t/p/w500/5z5y9AQo8nNSTej9EFWCGRN4s5S.jpg"
+      },
+      {
+        "name": "Joey Oglesby",
+        "character": "Cale",
+        "photo": "https://image.tmdb.org/t/p/w500/o16OwfPJygq2HVxRlIW87hUWvUr.jpg"
+      },
+      {
+        "name": "Michael James",
+        "character": "Carlos"
+      },
+      {
+        "name": "Marjorie Crump-Shears",
+        "character": "Grandma Bonnie"
+      }
+    ],
+    "director": [
+      "Ryan Coogler"
+    ]
   }
 }

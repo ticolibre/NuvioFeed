@@ -17,6 +17,85 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Glenn Ford",
+      "Maria Schell",
+      "Anne Baxter",
+      "Arthur O'Connell",
+      "Russ Tamblyn",
+      "Mercedes McCambridge",
+      "Vic Morrow",
+      "Robert Keith",
+      "Charles McGraw",
+      "Harry Morgan",
+      "David Opatoshu",
+      "Aline MacMahon"
+    ],
+    "app_cast": [
+      {
+        "name": "Glenn Ford",
+        "character": "Yancey 'Cimarron' Cravat",
+        "photo": "https://image.tmdb.org/t/p/w500/d6Vk69m5NAgMSgo4LmDm748wwm7.jpg"
+      },
+      {
+        "name": "Maria Schell",
+        "character": "Sabra Cravat",
+        "photo": "https://image.tmdb.org/t/p/w500/233wh3jTQq1Mq2OZbcvohV3CTkS.jpg"
+      },
+      {
+        "name": "Anne Baxter",
+        "character": "Dixie Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/mUMKB7ZGzHJ38LpDWnA4VheIGBB.jpg"
+      },
+      {
+        "name": "Arthur O'Connell",
+        "character": "Tom Wyatt",
+        "photo": "https://image.tmdb.org/t/p/w500/jJh2FxbrpIm5GzIMP8uA0cWNQdc.jpg"
+      },
+      {
+        "name": "Russ Tamblyn",
+        "character": "William Hardy, The Cherokee Kid",
+        "photo": "https://image.tmdb.org/t/p/w500/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+      },
+      {
+        "name": "Mercedes McCambridge",
+        "character": "Mrs. Sarah Wyatt",
+        "photo": "https://image.tmdb.org/t/p/w500/tAc5xZvGieKhKuc2AEMoXNAtGFc.jpg"
+      },
+      {
+        "name": "Vic Morrow",
+        "character": "Wes Jennings",
+        "photo": "https://image.tmdb.org/t/p/w500/i9UyJ4ltwwpnqeqbdA1FUPJjdP8.jpg"
+      },
+      {
+        "name": "Robert Keith",
+        "character": "Sam Pegler",
+        "photo": "https://image.tmdb.org/t/p/w500/7nhscSi9oF7B48qYkfDd1OvfKOR.jpg"
+      },
+      {
+        "name": "Charles McGraw",
+        "character": "Bob Yountis",
+        "photo": "https://image.tmdb.org/t/p/w500/ufUi3tG67j3WWWnMvbl2x8cDryU.jpg"
+      },
+      {
+        "name": "Harry Morgan",
+        "character": "Jessie Rickey",
+        "photo": "https://image.tmdb.org/t/p/w500/fD3YDU0P6W02Ee8frvgFx8tUa0B.jpg"
+      },
+      {
+        "name": "David Opatoshu",
+        "character": "Sol Levy",
+        "photo": "https://image.tmdb.org/t/p/w500/4e3yCzPpMnlMhRFDFiP45euMV1v.jpg"
+      },
+      {
+        "name": "Aline MacMahon",
+        "character": "Mrs. Mavis Pegler",
+        "photo": "https://image.tmdb.org/t/p/w500/6qnyQevfxRSSOgIlPiKqemWfO9R.jpg"
+      }
+    ],
+    "director": [
+      "Anthony Mann"
+    ]
   }
 }

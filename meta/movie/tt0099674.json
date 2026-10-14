@@ -19,6 +19,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Al Pacino",
+      "Diane Keaton",
+      "Talia Shire",
+      "Andy Garcia",
+      "Eli Wallach",
+      "Joe Mantegna",
+      "George Hamilton",
+      "Bridget Fonda",
+      "Sofia Coppola",
+      "Raf Vallone",
+      "Franc D'Ambrosio",
+      "Donal Donnelly"
+    ],
+    "app_cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Michael Corleone",
+        "photo": "https://image.tmdb.org/t/p/w500/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+      },
+      {
+        "name": "Diane Keaton",
+        "character": "Kay Adams",
+        "photo": "https://image.tmdb.org/t/p/w500/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+      },
+      {
+        "name": "Talia Shire",
+        "character": "Connie Corleone Rizzi",
+        "photo": "https://image.tmdb.org/t/p/w500/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+      },
+      {
+        "name": "Andy Garcia",
+        "character": "Vincent Mancini",
+        "photo": "https://image.tmdb.org/t/p/w500/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+      },
+      {
+        "name": "Eli Wallach",
+        "character": "Don Altobello",
+        "photo": "https://image.tmdb.org/t/p/w500/tX1kYpW1K8XjEA3i9FXrgFqNAaw.jpg"
+      },
+      {
+        "name": "Joe Mantegna",
+        "character": "Joey Zasa",
+        "photo": "https://image.tmdb.org/t/p/w500/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+      },
+      {
+        "name": "George Hamilton",
+        "character": "B.J. Harrison",
+        "photo": "https://image.tmdb.org/t/p/w500/qWqB7zGHpEryXetnzDyihwl7haY.jpg"
+      },
+      {
+        "name": "Bridget Fonda",
+        "character": "Grace Hamilton",
+        "photo": "https://image.tmdb.org/t/p/w500/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg"
+      },
+      {
+        "name": "Sofia Coppola",
+        "character": "Mary Corleone",
+        "photo": "https://image.tmdb.org/t/p/w500/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg"
+      },
+      {
+        "name": "Raf Vallone",
+        "character": "Cardinal Lamberto",
+        "photo": "https://image.tmdb.org/t/p/w500/hdTagZJtaQ3tELU600rpUP5m6gL.jpg"
+      },
+      {
+        "name": "Franc D'Ambrosio",
+        "character": "Anthony Corleone",
+        "photo": "https://image.tmdb.org/t/p/w500/oinfYFPibeaFCspQn60MTEO89km.jpg"
+      },
+      {
+        "name": "Donal Donnelly",
+        "character": "Archbishop Gilday",
+        "photo": "https://image.tmdb.org/t/p/w500/h1xqf5rpk1I6omgjkD7pzQVUq94.jpg"
+      }
+    ],
+    "director": [
+      "Francis Ford Coppola"
+    ]
   }
 }

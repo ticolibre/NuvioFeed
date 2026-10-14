@@ -17,6 +17,85 @@
           "rating": "4.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Desiree Hall",
+      "Samantha Colburn",
+      "Eddie Ritchard",
+      "Crista Flanagan",
+      "Amin Joseph",
+      "Jenny Lin",
+      "Jena Sims",
+      "Guile Branco",
+      "Ben Goldsmith",
+      "Steve West",
+      "Natalie Padilla",
+      "Lynette DuPree"
+    ],
+    "app_cast": [
+      {
+        "name": "Desiree Hall",
+        "character": "Claire",
+        "photo": "https://image.tmdb.org/t/p/w500/8HVcZ1I3kuovJf2UjBSIrdG9ckB.jpg"
+      },
+      {
+        "name": "Samantha Colburn",
+        "character": "Leslie",
+        "photo": "https://image.tmdb.org/t/p/w500/ng344FKFhzQkwN4kbmpqo3Ctt93.jpg"
+      },
+      {
+        "name": "Eddie Ritchard",
+        "character": "Zoe",
+        "photo": "https://image.tmdb.org/t/p/w500/r02Mr0kECtKhKQQH5lCFbuxTTkd.jpg"
+      },
+      {
+        "name": "Crista Flanagan",
+        "character": "Janet",
+        "photo": "https://image.tmdb.org/t/p/w500/yBCeY7Yxpm9SVtVt3sNWy1I3xp1.jpg"
+      },
+      {
+        "name": "Amin Joseph",
+        "character": "Marcus",
+        "photo": "https://image.tmdb.org/t/p/w500/kTr5Lf7NUullsj0g1klTOScwzRp.jpg"
+      },
+      {
+        "name": "Jenny Lin",
+        "character": "Hooker #1",
+        "photo": "https://image.tmdb.org/t/p/w500/tz82qMIEi9MlrhJNN7TLdy7mLaX.jpg"
+      },
+      {
+        "name": "Jena Sims",
+        "character": "Hooker #2",
+        "photo": "https://image.tmdb.org/t/p/w500/76w7lyOw0U1QfszusAR138xlDHv.jpg"
+      },
+      {
+        "name": "Guile Branco",
+        "character": "Stripper (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/coEVG0JxMfa7KjNBzeOEhz3rz7.jpg"
+      },
+      {
+        "name": "Ben Goldsmith",
+        "character": "Guy in Backseat"
+      },
+      {
+        "name": "Steve West",
+        "character": "Mike The Bachelor",
+        "photo": "https://image.tmdb.org/t/p/w500/dY4UkERCaNsdRNkRuMmnrj5epNd.jpg"
+      },
+      {
+        "name": "Natalie Padilla",
+        "character": "Female Wrestler",
+        "photo": "https://image.tmdb.org/t/p/w500/fhIRdqmjYC4sTZyRGrHwBCwnnqm.jpg"
+      },
+      {
+        "name": "Lynette DuPree",
+        "character": "Linda",
+        "photo": "https://image.tmdb.org/t/p/w500/kZO5nR32qjV6JNoSnfPWGDuONJK.jpg"
+      }
+    ],
+    "director": [
+      "Aaron Seltzer",
+      "Jason Friedberg"
+    ]
   }
 }

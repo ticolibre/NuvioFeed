@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael Douglas",
+      "Glenn Close",
+      "Anne Archer",
+      "Ellen Hamilton Latzen",
+      "Stuart Pankin",
+      "Ellen Foley",
+      "Fred Gwynne",
+      "Tom Brennan",
+      "Lois Smith",
+      "Mike Nussbaum",
+      "J.J. Johnston",
+      "Sam Coppola"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael Douglas",
+        "character": "Dan Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+      },
+      {
+        "name": "Glenn Close",
+        "character": "Alexandra \"Alex\" Forrest",
+        "photo": "https://image.tmdb.org/t/p/w500/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+      },
+      {
+        "name": "Anne Archer",
+        "character": "Beth Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/y1uFANprVvJ9cCqVKSl0umIpIXw.jpg"
+      },
+      {
+        "name": "Ellen Hamilton Latzen",
+        "character": "Ellen Gallagher",
+        "photo": "https://image.tmdb.org/t/p/w500/vy6vtjiFleUTaNoigSBpg8gg0We.jpg"
+      },
+      {
+        "name": "Stuart Pankin",
+        "character": "Jimmy",
+        "photo": "https://image.tmdb.org/t/p/w500/9Zjv5YDfjrBKwCCEslb4Rkrx87V.jpg"
+      },
+      {
+        "name": "Ellen Foley",
+        "character": "Hildy",
+        "photo": "https://image.tmdb.org/t/p/w500/80OuOOR0WjvhnDcz96R8XH2BPmy.jpg"
+      },
+      {
+        "name": "Fred Gwynne",
+        "character": "Arthur",
+        "photo": "https://image.tmdb.org/t/p/w500/nO5ufGwURxJ20zYnSgb6l4nYDQO.jpg"
+      },
+      {
+        "name": "Tom Brennan",
+        "character": "Howard Rogerson",
+        "photo": "https://image.tmdb.org/t/p/w500/mUdNGIskBuM5FJQj7c0E1AXmOAE.jpg"
+      },
+      {
+        "name": "Lois Smith",
+        "character": "Martha",
+        "photo": "https://image.tmdb.org/t/p/w500/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+      },
+      {
+        "name": "Mike Nussbaum",
+        "character": "Bob Drimmer",
+        "photo": "https://image.tmdb.org/t/p/w500/7mg6l8P5Tu8EZysHrfsP8kdScyV.jpg"
+      },
+      {
+        "name": "J.J. Johnston",
+        "character": "O'Rourke",
+        "photo": "https://image.tmdb.org/t/p/w500/5CoCxaxf2EGUOgNem0hKU8sn8X3.jpg"
+      },
+      {
+        "name": "Sam Coppola",
+        "character": "Fuselli",
+        "photo": "https://image.tmdb.org/t/p/w500/wVFzWq1Nq3jdKSpZ2LPdKNMmooi.jpg"
+      }
+    ],
+    "director": [
+      "Adrian Lyne"
+    ]
   }
 }

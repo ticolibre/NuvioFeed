@@ -18,6 +18,83 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Daniel Day-Lewis",
+      "Vicky Krieps",
+      "Lesley Manville",
+      "Camilla Rutherford",
+      "Gina McKee",
+      "Brian Gleeson",
+      "Harriet Sansom Harris",
+      "Lujza Richter",
+      "Julia Davis",
+      "Julie Vollono",
+      "Sue Clark",
+      "Joan Brown"
+    ],
+    "app_cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Reynolds Woodcock",
+        "photo": "https://image.tmdb.org/t/p/w500/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Vicky Krieps",
+        "character": "Alma Elson",
+        "photo": "https://image.tmdb.org/t/p/w500/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+      },
+      {
+        "name": "Lesley Manville",
+        "character": "Cyril Woodcock",
+        "photo": "https://image.tmdb.org/t/p/w500/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+      },
+      {
+        "name": "Camilla Rutherford",
+        "character": "Johanna",
+        "photo": "https://image.tmdb.org/t/p/w500/rVoFC3VLv5JWsBN0mlyTLrF1Zg5.jpg"
+      },
+      {
+        "name": "Gina McKee",
+        "character": "Countess Henrietta Harding",
+        "photo": "https://image.tmdb.org/t/p/w500/rHL7GGeFZ2x9PbFL2P3hVkLfvAS.jpg"
+      },
+      {
+        "name": "Brian Gleeson",
+        "character": "Dr. Robert Hardy",
+        "photo": "https://image.tmdb.org/t/p/w500/x9uykZetcMYmB6UpQY29ApPedth.jpg"
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "character": "Barbara Rose",
+        "photo": "https://image.tmdb.org/t/p/w500/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+      },
+      {
+        "name": "Lujza Richter",
+        "character": "Princess Mona Braganza",
+        "photo": "https://image.tmdb.org/t/p/w500/nhIMC58znoWz3Aq1TeqbSoF0n0y.jpg"
+      },
+      {
+        "name": "Julia Davis",
+        "character": "Lady Baltimore",
+        "photo": "https://image.tmdb.org/t/p/w500/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg"
+      },
+      {
+        "name": "Julie Vollono",
+        "character": "London Housekeeper",
+        "photo": "https://image.tmdb.org/t/p/w500/gJ2iP2DFm5GxaE90bLP7vPVyVSm.jpg"
+      },
+      {
+        "name": "Sue Clark",
+        "character": "Biddy"
+      },
+      {
+        "name": "Joan Brown",
+        "character": "Nana"
+      }
+    ],
+    "director": [
+      "Paul Thomas Anderson"
+    ]
   }
 }

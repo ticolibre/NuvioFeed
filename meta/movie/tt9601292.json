@@ -18,6 +18,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Zachary Levi",
+      "Liam Neeson",
+      "Wes Chatham",
+      "Titus Welliver",
+      "Navid Negahban",
+      "Annet Mahendru",
+      "Grant Harvey",
+      "Augusto Aguilera",
+      "Numan Acar",
+      "Elnaaz Norouzi",
+      "Oliver Trevena",
+      "Quincy Isaiah"
+    ],
+    "app_cast": [
+      {
+        "name": "Zachary Levi",
+        "character": "Tucker",
+        "photo": "https://image.tmdb.org/t/p/w500/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+      },
+      {
+        "name": "Liam Neeson",
+        "character": "Larry",
+        "photo": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+      },
+      {
+        "name": "Wes Chatham",
+        "character": "Alex",
+        "photo": "https://image.tmdb.org/t/p/w500/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg"
+      },
+      {
+        "name": "Titus Welliver",
+        "character": "James",
+        "photo": "https://image.tmdb.org/t/p/w500/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg"
+      },
+      {
+        "name": "Navid Negahban",
+        "character": "Qasim",
+        "photo": "https://image.tmdb.org/t/p/w500/pWi5tINf4mDvTYbNKZDJPODYKra.jpg"
+      },
+      {
+        "name": "Annet Mahendru",
+        "character": "Sophie",
+        "photo": "https://image.tmdb.org/t/p/w500/kEeokLN5vJsOdKSEFaN36qlzCRa.jpg"
+      },
+      {
+        "name": "Grant Harvey",
+        "character": "Matt",
+        "photo": "https://image.tmdb.org/t/p/w500/sThJJbhgjQOZNvCkHVO0g3qy78j.jpg"
+      },
+      {
+        "name": "Augusto Aguilera",
+        "character": "Bruce",
+        "photo": "https://image.tmdb.org/t/p/w500/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg"
+      },
+      {
+        "name": "Numan Acar",
+        "character": "Nadir",
+        "photo": "https://image.tmdb.org/t/p/w500/krAYCiFQGreNOOqtTLX3v6TlHk5.jpg"
+      },
+      {
+        "name": "Elnaaz Norouzi",
+        "character": "Zara",
+        "photo": "https://image.tmdb.org/t/p/w500/gbiXh5zoIKFH1kEPFtuhjfElY5c.jpg"
+      },
+      {
+        "name": "Oliver Trevena",
+        "character": "Colonel Wilkes",
+        "photo": "https://image.tmdb.org/t/p/w500/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg"
+      },
+      {
+        "name": "Quincy Isaiah",
+        "character": "Clay",
+        "photo": "https://image.tmdb.org/t/p/w500/szlTbGRFRTo0Mx9jtwXGqcGrZhP.jpg"
+      }
+    ],
+    "director": [
+      "Guy Moshe"
+    ]
   }
 }

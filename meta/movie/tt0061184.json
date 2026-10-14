@@ -17,6 +17,47 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "George Segal",
+      "Sandy Dennis",
+      "Agnes Flanagan",
+      "Frank Flanagan"
+    ],
+    "app_cast": [
+      {
+        "name": "Elizabeth Taylor",
+        "character": "Martha",
+        "photo": "https://image.tmdb.org/t/p/w500/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Richard Burton",
+        "character": "George",
+        "photo": "https://image.tmdb.org/t/p/w500/j8yRSo6S2bnYubKZTBUvD7fuOyX.jpg"
+      },
+      {
+        "name": "George Segal",
+        "character": "Nick",
+        "photo": "https://image.tmdb.org/t/p/w500/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+      },
+      {
+        "name": "Sandy Dennis",
+        "character": "Honey",
+        "photo": "https://image.tmdb.org/t/p/w500/nqXShfsjjTMR8VwBPu8YHzxtMd2.jpg"
+      },
+      {
+        "name": "Agnes Flanagan",
+        "character": "Roadhouse Waitress (uncredited)"
+      },
+      {
+        "name": "Frank Flanagan",
+        "character": "Roadhouse Manager (uncredited)"
+      }
+    ],
+    "director": [
+      "Mike Nichols"
+    ]
   }
 }

@@ -19,6 +19,83 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Ann Sothern",
+      "Linda Darnell",
+      "Jeanne Crain",
+      "Kirk Douglas",
+      "Paul Douglas",
+      "Jeffrey Lynn",
+      "Barbara Lawrence",
+      "Connie Gilchrist",
+      "Florence Bates",
+      "Hobart Cavanaugh",
+      "James Adamson",
+      "Joe Bautista"
+    ],
+    "app_cast": [
+      {
+        "name": "Ann Sothern",
+        "character": "Rita Phipps",
+        "photo": "https://image.tmdb.org/t/p/w500/oWjtae0NMfkrhuu0TuJCRvLcbre.jpg"
+      },
+      {
+        "name": "Linda Darnell",
+        "character": "Lora Mae Hollingsway",
+        "photo": "https://image.tmdb.org/t/p/w500/lvQqJhW5DvAYWvK5IFyl2gSsWIk.jpg"
+      },
+      {
+        "name": "Jeanne Crain",
+        "character": "Deborah Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/oPBKcsZ0sbPD8JnVI16oekFn0Ce.jpg"
+      },
+      {
+        "name": "Kirk Douglas",
+        "character": "George Phipps",
+        "photo": "https://image.tmdb.org/t/p/w500/t94It9bPI6uBvNuuQlQipyYyURC.jpg"
+      },
+      {
+        "name": "Paul Douglas",
+        "character": "Porter Hollingsway",
+        "photo": "https://image.tmdb.org/t/p/w500/3pFCT3psXxJVvBxQfcQKLGdzLvo.jpg"
+      },
+      {
+        "name": "Jeffrey Lynn",
+        "character": "Bradford 'Brad' Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/jqTdvuCs9XaUddsNbdi1S9h5o3D.jpg"
+      },
+      {
+        "name": "Barbara Lawrence",
+        "character": "Georgiana 'Babe' Finney",
+        "photo": "https://image.tmdb.org/t/p/w500/jFG6sB2T6CwmFPHGfRExI8L5dgJ.jpg"
+      },
+      {
+        "name": "Connie Gilchrist",
+        "character": "Mrs. Ruby Finney",
+        "photo": "https://image.tmdb.org/t/p/w500/dyqG4TCZkqhehorbLKhtbyDvaDk.jpg"
+      },
+      {
+        "name": "Florence Bates",
+        "character": "Mrs. Manleigh",
+        "photo": "https://image.tmdb.org/t/p/w500/uAqYoWW4xICzyMXbpvpMivvmXCH.jpg"
+      },
+      {
+        "name": "Hobart Cavanaugh",
+        "character": "Mr. Manleigh",
+        "photo": "https://image.tmdb.org/t/p/w500/AjyCNH3j3ukDlxhP442kI2CoQkW.jpg"
+      },
+      {
+        "name": "James Adamson",
+        "character": "Porter's Butler (uncredited)"
+      },
+      {
+        "name": "Joe Bautista",
+        "character": "Thomasino (uncredited)"
+      }
+    ],
+    "director": [
+      "Joseph L. Mankiewicz"
+    ]
   }
 }

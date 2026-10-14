@@ -17,6 +17,83 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch",
+      "Robert Duvall",
+      "Wesley Addy",
+      "Ned Beatty",
+      "Arthur Burghardt",
+      "Bill Burrows",
+      "John Carpenter",
+      "Jordan Charney",
+      "Kathy Cronkite",
+      "Ed Crowley"
+    ],
+    "app_cast": [
+      {
+        "name": "Faye Dunaway",
+        "character": "Diana Christensen",
+        "photo": "https://image.tmdb.org/t/p/w500/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      },
+      {
+        "name": "William Holden",
+        "character": "Max Schumacher",
+        "photo": "https://image.tmdb.org/t/p/w500/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Peter Finch",
+        "character": "Howard Beale",
+        "photo": "https://image.tmdb.org/t/p/w500/uwIimbLsEGMkqsEGtYCSKXoWZag.jpg"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Frank Hackett",
+        "photo": "https://image.tmdb.org/t/p/w500/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Wesley Addy",
+        "character": "Nelson Chaney",
+        "photo": "https://image.tmdb.org/t/p/w500/j0DmXhowoVNXR21jQy9QhTD8BOz.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "character": "Arthur Jensen",
+        "photo": "https://image.tmdb.org/t/p/w500/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+      },
+      {
+        "name": "Arthur Burghardt",
+        "character": "Great Ahmed Kahn",
+        "photo": "https://image.tmdb.org/t/p/w500/sE19GnQTvlJw5NxuHnWqxgVvbkY.jpg"
+      },
+      {
+        "name": "Bill Burrows",
+        "character": "TV Director",
+        "photo": "https://image.tmdb.org/t/p/w500/eThhb2bARHIsXmiaCpfwhOKHWHV.jpg"
+      },
+      {
+        "name": "John Carpenter",
+        "character": "George Bosch"
+      },
+      {
+        "name": "Jordan Charney",
+        "character": "Harry Hunter",
+        "photo": "https://image.tmdb.org/t/p/w500/vdEyvpz09laussmoav4VPulgVG0.jpg"
+      },
+      {
+        "name": "Kathy Cronkite",
+        "character": "Mary Ann Gifford",
+        "photo": "https://image.tmdb.org/t/p/w500/kKrSeL88DxqgEuz3x9vrGcwcnz6.jpg"
+      },
+      {
+        "name": "Ed Crowley",
+        "character": "Joe Donnelly"
+      }
+    ],
+    "director": [
+      "Sidney Lumet"
+    ]
   }
 }

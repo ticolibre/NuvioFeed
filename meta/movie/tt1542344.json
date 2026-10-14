@@ -19,6 +19,82 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "James Franco",
+      "Kate Mara",
+      "Amber Tamblyn",
+      "Clémence Poésy",
+      "Lizzy Caplan",
+      "Kate Burton",
+      "Treat Williams",
+      "Sean Bott",
+      "Fenton Quinn",
+      "John Lawrence",
+      "Pieter Jan Brugge",
+      "Rebecca C. Olson"
+    ],
+    "app_cast": [
+      {
+        "name": "James Franco",
+        "character": "Aron Ralston",
+        "photo": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+      },
+      {
+        "name": "Kate Mara",
+        "character": "Kristi Moore",
+        "photo": "https://image.tmdb.org/t/p/w500/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg"
+      },
+      {
+        "name": "Amber Tamblyn",
+        "character": "Megan McBride",
+        "photo": "https://image.tmdb.org/t/p/w500/bzw0lxvtbEnYT7fZ8fn6NeSzMn9.jpg"
+      },
+      {
+        "name": "Clémence Poésy",
+        "character": "Rana",
+        "photo": "https://image.tmdb.org/t/p/w500/slWxRBAGLGmk4c2lLKYH7EfSXZ2.jpg"
+      },
+      {
+        "name": "Lizzy Caplan",
+        "character": "Sonja Ralston",
+        "photo": "https://image.tmdb.org/t/p/w500/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+      },
+      {
+        "name": "Kate Burton",
+        "character": "Aron's Mom",
+        "photo": "https://image.tmdb.org/t/p/w500/rHnt0gTvarr492I1ZIYg8VNBdPn.jpg"
+      },
+      {
+        "name": "Treat Williams",
+        "character": "Aron's Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/jbRMOU2K7ePg7Zs59nfgEYLeD1e.jpg"
+      },
+      {
+        "name": "Sean Bott",
+        "character": "Aron's Friend",
+        "photo": "https://image.tmdb.org/t/p/w500/4J0Yq2l1jYHIoqgo6VfhWcp14p9.jpg"
+      },
+      {
+        "name": "Fenton Quinn",
+        "character": "Blue John"
+      },
+      {
+        "name": "John Lawrence",
+        "character": "Brion"
+      },
+      {
+        "name": "Pieter Jan Brugge",
+        "character": "Eric Meijer",
+        "photo": "https://image.tmdb.org/t/p/w500/jYydRYXoDe1eO2AVHyUiavWQFrP.jpg"
+      },
+      {
+        "name": "Rebecca C. Olson",
+        "character": "Monique Meijer"
+      }
+    ],
+    "director": [
+      "Danny Boyle"
+    ]
   }
 }

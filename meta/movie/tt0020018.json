@@ -17,6 +17,84 @@
           "rating": "5.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Warner Baxter",
+      "Edmund Lowe",
+      "Dorothy Burgess",
+      "Henry Armetta",
+      "James Bradbury Jr.",
+      "Joe Brown",
+      "Frank Campeau",
+      "Alphonse Ethier",
+      "John Webb Dillion",
+      "Jim Farley",
+      "Soledad Jiménez",
+      "Ivan Linow"
+    ],
+    "app_cast": [
+      {
+        "name": "Warner Baxter",
+        "character": "The Cisco Kid",
+        "photo": "https://image.tmdb.org/t/p/w500/vX605wp5rnjezGUnsTSrFse5tPy.jpg"
+      },
+      {
+        "name": "Edmund Lowe",
+        "character": "Sergeant Mickey Dunn",
+        "photo": "https://image.tmdb.org/t/p/w500/8aDjzC5moz2NQZ8aBhBn5bmuFXj.jpg"
+      },
+      {
+        "name": "Dorothy Burgess",
+        "character": "Tonia Maria",
+        "photo": "https://image.tmdb.org/t/p/w500/AdrXFImsV023OE4NRshOhMHtvsN.jpg"
+      },
+      {
+        "name": "Henry Armetta",
+        "character": "Barber (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/9Bvd4g9QaFoMtYm3VYpJeAa9R3I.jpg"
+      },
+      {
+        "name": "James Bradbury Jr.",
+        "character": "Soldier (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/tMUq5bnVES00t27lmfHyI1RYn4r.jpg"
+      },
+      {
+        "name": "Joe Brown",
+        "character": "Bartender (uncredited)"
+      },
+      {
+        "name": "Frank Campeau",
+        "character": "Man Chasing Cisco (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/pi0A4lSUveDrP5exp4sSITTIQs4.jpg"
+      },
+      {
+        "name": "Alphonse Ethier",
+        "character": "Sheriff (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/mzAejIPtHEb7NISo57zTLlYd8JK.jpg"
+      },
+      {
+        "name": "John Webb Dillion",
+        "character": "Second Soldier (uncredited)"
+      },
+      {
+        "name": "Jim Farley",
+        "character": "Townsman (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/155ugk9VWe00T7wWSo3pqb9b80d.jpg"
+      },
+      {
+        "name": "Soledad Jiménez",
+        "character": "Tonita the Cook (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/rak2UHYk6120qJpLxSwnYlMBzKs.jpg"
+      },
+      {
+        "name": "Ivan Linow",
+        "character": "Russian Immigrant (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/v4B4r3BmpWwbJ92ZYOmAI5Hvmnx.jpg"
+      }
+    ],
+    "director": [
+      "Irving Cummings",
+      "Raoul Walsh"
+    ]
   }
 }

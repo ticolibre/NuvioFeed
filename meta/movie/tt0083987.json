@@ -18,6 +18,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Ben Kingsley",
+      "Candice Bergen",
+      "Edward Fox",
+      "John Gielgud",
+      "Trevor Howard",
+      "John Mills",
+      "Rohini Hattangadi",
+      "Martin Sheen",
+      "Ian Charleson",
+      "Harsh Nayyar",
+      "Athol Fugard",
+      "Günther Maria Halmer"
+    ],
+    "app_cast": [
+      {
+        "name": "Ben Kingsley",
+        "character": "Mahatma Gandhi",
+        "photo": "https://image.tmdb.org/t/p/w500/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+      },
+      {
+        "name": "Candice Bergen",
+        "character": "Margaret Bourke-White",
+        "photo": "https://image.tmdb.org/t/p/w500/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg"
+      },
+      {
+        "name": "Edward Fox",
+        "character": "General Dyer",
+        "photo": "https://image.tmdb.org/t/p/w500/pEDs4mSeYRaZ1ky57I06Ek4b3k6.jpg"
+      },
+      {
+        "name": "John Gielgud",
+        "character": "Lord Irwin",
+        "photo": "https://image.tmdb.org/t/p/w500/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg"
+      },
+      {
+        "name": "Trevor Howard",
+        "character": "Judge Broomfield",
+        "photo": "https://image.tmdb.org/t/p/w500/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg"
+      },
+      {
+        "name": "John Mills",
+        "character": "Lord Chelmsford",
+        "photo": "https://image.tmdb.org/t/p/w500/jMqhI1NeTwgdKsrj9vMshk1r5hP.jpg"
+      },
+      {
+        "name": "Rohini Hattangadi",
+        "character": "Kasturba Gandhi",
+        "photo": "https://image.tmdb.org/t/p/w500/ApgSi1vZg0b0tl9ir3fERHhZUIU.jpg"
+      },
+      {
+        "name": "Martin Sheen",
+        "character": "Vince Walker",
+        "photo": "https://image.tmdb.org/t/p/w500/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+      },
+      {
+        "name": "Ian Charleson",
+        "character": "Reverend Charlie Andrews",
+        "photo": "https://image.tmdb.org/t/p/w500/ajjETMq3zGvABN7tmB8AA4nYLOi.jpg"
+      },
+      {
+        "name": "Harsh Nayyar",
+        "character": "Nathuram Godse",
+        "photo": "https://image.tmdb.org/t/p/w500/1ThQ7mfGUC7zpFswuZ5JXA89NnQ.jpg"
+      },
+      {
+        "name": "Athol Fugard",
+        "character": "General Jan Christiaan Smuts",
+        "photo": "https://image.tmdb.org/t/p/w500/vr4iRP4Mvc8QWYUtceVKKEpebbB.jpg"
+      },
+      {
+        "name": "Günther Maria Halmer",
+        "character": "Dr. Herman Kallenbach",
+        "photo": "https://image.tmdb.org/t/p/w500/pEDTTbK3cYAKKk2e22fJP4DltoA.jpg"
+      }
+    ],
+    "director": [
+      "Richard Attenborough"
+    ]
   }
 }

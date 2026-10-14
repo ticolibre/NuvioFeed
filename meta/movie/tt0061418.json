@@ -18,6 +18,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Warren Beatty",
+      "Faye Dunaway",
+      "Michael J. Pollard",
+      "Gene Hackman",
+      "Estelle Parsons",
+      "Denver Pyle",
+      "Dub Taylor",
+      "Evans Evans",
+      "Gene Wilder",
+      "Mabel Cavitt",
+      "Patrick Cranshaw",
+      "Owen Bush"
+    ],
+    "app_cast": [
+      {
+        "name": "Warren Beatty",
+        "character": "Clyde Barrow",
+        "photo": "https://image.tmdb.org/t/p/w500/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg"
+      },
+      {
+        "name": "Faye Dunaway",
+        "character": "Bonnie Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      },
+      {
+        "name": "Michael J. Pollard",
+        "character": "C. W. Moss",
+        "photo": "https://image.tmdb.org/t/p/w500/yFG06LPdiZ2L5sKp4RaiP96t87X.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "character": "Buck Barrow",
+        "photo": "https://image.tmdb.org/t/p/w500/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+      },
+      {
+        "name": "Estelle Parsons",
+        "character": "Blanche",
+        "photo": "https://image.tmdb.org/t/p/w500/e2MNDJy2GqrUiden7DcqZUrCvq.jpg"
+      },
+      {
+        "name": "Denver Pyle",
+        "character": "Frank Hamer",
+        "photo": "https://image.tmdb.org/t/p/w500/eYRwwhl3pWu3oNn1GKerUauooSV.jpg"
+      },
+      {
+        "name": "Dub Taylor",
+        "character": "Ivan Moss",
+        "photo": "https://image.tmdb.org/t/p/w500/a7eVCCqOeWPqJpBXoKse1vZj2sc.jpg"
+      },
+      {
+        "name": "Evans Evans",
+        "character": "Velma Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/bSOherbBnpZ2pqGpvVmcry9O5K8.jpg"
+      },
+      {
+        "name": "Gene Wilder",
+        "character": "Eugene Grizzard",
+        "photo": "https://image.tmdb.org/t/p/w500/mwwOSWS2m8ArpiUKnoxVVyT8fND.jpg"
+      },
+      {
+        "name": "Mabel Cavitt",
+        "character": "Bonnie's mother (uncredited)"
+      },
+      {
+        "name": "Patrick Cranshaw",
+        "character": "Bank Teller (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/aGskRSrg5P336OCPltPOvGMhk65.jpg"
+      },
+      {
+        "name": "Owen Bush",
+        "character": "Policeman (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/8AXb0wlU4gg5ZRDdJvny0AKLWqg.jpg"
+      }
+    ],
+    "director": [
+      "Arthur Penn"
+    ]
   }
 }

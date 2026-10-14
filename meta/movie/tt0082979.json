@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Warren Beatty",
+      "Diane Keaton",
+      "Edward Herrmann",
+      "Jerzy Kosiński",
+      "Jack Nicholson",
+      "Paul Sorvino",
+      "Maureen Stapleton",
+      "Nicolas Coster",
+      "M. Emmet Walsh",
+      "Ian Wolfe",
+      "Bessie Love",
+      "MacIntyre Dixon"
+    ],
+    "app_cast": [
+      {
+        "name": "Warren Beatty",
+        "character": "John Reed",
+        "photo": "https://image.tmdb.org/t/p/w500/zjKCKPNw5PEInsJl7MJ9BIHlR1.jpg"
+      },
+      {
+        "name": "Diane Keaton",
+        "character": "Louise Bryant",
+        "photo": "https://image.tmdb.org/t/p/w500/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+      },
+      {
+        "name": "Edward Herrmann",
+        "character": "Max Eastman",
+        "photo": "https://image.tmdb.org/t/p/w500/ov33sPPuTzw21KYwAkkAB8AmjIV.jpg"
+      },
+      {
+        "name": "Jerzy Kosiński",
+        "character": "Grigory Zinoviev",
+        "photo": "https://image.tmdb.org/t/p/w500/1G5xgf38dDivFz64LWieVwX5K0j.jpg"
+      },
+      {
+        "name": "Jack Nicholson",
+        "character": "Eugene O'Neill",
+        "photo": "https://image.tmdb.org/t/p/w500/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "name": "Paul Sorvino",
+        "character": "Louis Fraina",
+        "photo": "https://image.tmdb.org/t/p/w500/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg"
+      },
+      {
+        "name": "Maureen Stapleton",
+        "character": "Emma Goldman",
+        "photo": "https://image.tmdb.org/t/p/w500/rXwg71O6oU6x3sB5c4erlAu7mhy.jpg"
+      },
+      {
+        "name": "Nicolas Coster",
+        "character": "Paul Trullinger",
+        "photo": "https://image.tmdb.org/t/p/w500/nznEJNYx9uz91nlVglLXhzRFVw5.jpg"
+      },
+      {
+        "name": "M. Emmet Walsh",
+        "character": "Speaker at Liberal Club",
+        "photo": "https://image.tmdb.org/t/p/w500/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+      },
+      {
+        "name": "Ian Wolfe",
+        "character": "Mr. Partlow",
+        "photo": "https://image.tmdb.org/t/p/w500/8Eum5GDti8Zh9ZyYSvWaoIHt8Wr.jpg"
+      },
+      {
+        "name": "Bessie Love",
+        "character": "Mrs. Partlow",
+        "photo": "https://image.tmdb.org/t/p/w500/aOt4c5AoO1Zp8W93JTBnl1eEcFk.jpg"
+      },
+      {
+        "name": "MacIntyre Dixon",
+        "character": "Carl Walters",
+        "photo": "https://image.tmdb.org/t/p/w500/8nCPTLaqh1N1nQHFeg0AxuHS3u2.jpg"
+      }
+    ],
+    "director": [
+      "Warren Beatty"
+    ]
   }
 }

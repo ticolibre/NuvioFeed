@@ -18,6 +18,26 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Whitmer Thomas",
+      "Clay Tatum"
+    ],
+    "app_cast": [
+      {
+        "name": "Whitmer Thomas",
+        "character": "Himself",
+        "photo": "https://image.tmdb.org/t/p/w500/ivz8rehM5WFKsUpDSULUFgPYyze.jpg"
+      },
+      {
+        "name": "Clay Tatum",
+        "character": "Himself",
+        "photo": "https://image.tmdb.org/t/p/w500/e4g67nYrxI8OdMHBECmd4ReyWOR.jpg"
+      }
+    ],
+    "director": [
+      "Whitmer Thomas",
+      "Clay Tatum"
+    ]
   }
 }

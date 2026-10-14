@@ -17,6 +17,51 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Andrew Callaghan",
+      "Alex E. Jones",
+      "Mike Busey",
+      "Edward X. Young",
+      "Forgiato Blow",
+      "Enrique Tarrio",
+      "Dave Todeschini"
+    ],
+    "app_cast": [
+      {
+        "name": "Andrew Callaghan",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/vzmTmYUQX61CcPEGskNf2qDAFVk.jpg"
+      },
+      {
+        "name": "Alex E. Jones",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/ocBpJoXZpQGGeThqB6KRnnUmAdy.jpg"
+      },
+      {
+        "name": "Mike Busey",
+        "character": "Self"
+      },
+      {
+        "name": "Edward X. Young",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/f0PyBzMZlsbDAZQ0ue4t4r856uz.jpg"
+      },
+      {
+        "name": "Forgiato Blow",
+        "character": "Self - MAGA Rapper"
+      },
+      {
+        "name": "Enrique Tarrio",
+        "character": "Self - Proud Boys Leader"
+      },
+      {
+        "name": "Dave Todeschini",
+        "character": "Self  - The Inglorious Patriot"
+      }
+    ],
+    "director": [
+      "Andrew Callaghan"
+    ]
   }
 }

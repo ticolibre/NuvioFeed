@@ -18,6 +18,76 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Ron Marquette",
+      "Leigh Hunt",
+      "John Renshaw",
+      "Jennifer McManus",
+      "Brandon Boyce",
+      "Dina Brooks",
+      "Craig Stovall",
+      "Bruce Germaine",
+      "Margaret Kerry",
+      "Charles Kavanaugh",
+      "Randall Slavin",
+      "Liz Dilts"
+    ],
+    "app_cast": [
+      {
+        "name": "Ron Marquette",
+        "character": "Whiley Pritcher",
+        "photo": "https://image.tmdb.org/t/p/w500/vo9gZ16B4So1ATg4rzxGkzVHRFD.jpg"
+      },
+      {
+        "name": "Leigh Hunt",
+        "character": "Intersect Host"
+      },
+      {
+        "name": "John Renshaw",
+        "character": "Jock Talk Host"
+      },
+      {
+        "name": "Jennifer McManus",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Brandon Boyce",
+        "character": "Kevin Havey",
+        "photo": "https://image.tmdb.org/t/p/w500/p9rqfiGEtcV5sMsNm01dpS1H6Uh.jpg"
+      },
+      {
+        "name": "Dina Brooks",
+        "character": "Rachel"
+      },
+      {
+        "name": "Craig Stovall",
+        "character": "Cameraman #1"
+      },
+      {
+        "name": "Bruce Germaine",
+        "character": "Cameraman #2"
+      },
+      {
+        "name": "Margaret Kerry",
+        "character": "Marge",
+        "photo": "https://image.tmdb.org/t/p/w500/2NjASi90GoetXCQHnAMnbI65uHG.jpg"
+      },
+      {
+        "name": "Charles Kavanaugh",
+        "character": "Mayor Breyer"
+      },
+      {
+        "name": "Randall Slavin",
+        "character": "Pudd"
+      },
+      {
+        "name": "Liz Dilts",
+        "character": "Lisa"
+      }
+    ],
+    "director": [
+      "Bryan Singer"
+    ]
   }
 }

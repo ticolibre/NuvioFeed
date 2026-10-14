@@ -17,6 +17,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Roy Scheider",
+      "Jessica Lange",
+      "Ann Reinking",
+      "Leland Palmer",
+      "Cliff Gorman",
+      "Ben Vereen",
+      "Erzsebet Foldi",
+      "Michael Tolan",
+      "Max Wright",
+      "William LeMassena",
+      "Irene Kane",
+      "Deborah Geffner"
+    ],
+    "app_cast": [
+      {
+        "name": "Roy Scheider",
+        "character": "Joe Gideon",
+        "photo": "https://image.tmdb.org/t/p/w500/yyZ0DwUz3qAelJIUGVoOktGgMIh.jpg"
+      },
+      {
+        "name": "Jessica Lange",
+        "character": "Angelique",
+        "photo": "https://image.tmdb.org/t/p/w500/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+      },
+      {
+        "name": "Ann Reinking",
+        "character": "Kate Jagger",
+        "photo": "https://image.tmdb.org/t/p/w500/7arkhrziMSTt3NJ4DeP2WtdEdsA.jpg"
+      },
+      {
+        "name": "Leland Palmer",
+        "character": "Audrey Paris",
+        "photo": "https://image.tmdb.org/t/p/w500/YJKhptxL9dHdWY7nVKsAA9fe5r.jpg"
+      },
+      {
+        "name": "Cliff Gorman",
+        "character": "Davis Newman",
+        "photo": "https://image.tmdb.org/t/p/w500/sWCUAavM204vykyoVKW3TlRYmWF.jpg"
+      },
+      {
+        "name": "Ben Vereen",
+        "character": "O'Connor Flood",
+        "photo": "https://image.tmdb.org/t/p/w500/krMLkdkj1rtLsU2h2BBPCK0E7HH.jpg"
+      },
+      {
+        "name": "Erzsebet Foldi",
+        "character": "Michelle Gideon",
+        "photo": "https://image.tmdb.org/t/p/w500/quV9INHJ6dtj8VD3LQEDFhPWxhy.jpg"
+      },
+      {
+        "name": "Michael Tolan",
+        "character": "Dr. Ballinger",
+        "photo": "https://image.tmdb.org/t/p/w500/yOSgxl4ol4AbGud0aJrpLjkzlHa.jpg"
+      },
+      {
+        "name": "Max Wright",
+        "character": "Joshua Penn",
+        "photo": "https://image.tmdb.org/t/p/w500/bM0yC42RbFCSUWITFGVdiojn7ba.jpg"
+      },
+      {
+        "name": "William LeMassena",
+        "character": "Jonesy Hecht"
+      },
+      {
+        "name": "Irene Kane",
+        "character": "Leslie Perry",
+        "photo": "https://image.tmdb.org/t/p/w500/5eSFXuoGYLPkPGmyU0xGM9P5Y0w.jpg"
+      },
+      {
+        "name": "Deborah Geffner",
+        "character": "Victoria",
+        "photo": "https://image.tmdb.org/t/p/w500/nTBdg3oeydtn7aB8gNP63GNzNBx.jpg"
+      }
+    ],
+    "director": [
+      "Bob Fosse"
+    ]
   }
 }

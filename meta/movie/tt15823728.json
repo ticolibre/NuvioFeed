@@ -17,6 +17,84 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Andrew McCarthy",
+      "Emilio Estevez",
+      "Ally Sheedy",
+      "Demi Moore",
+      "Rob Lowe",
+      "Timothy Hutton",
+      "Lea Thompson",
+      "Jon Cryer",
+      "David Blum",
+      "Lauren Shuler Donner",
+      "Howard Deutch",
+      "Bret Easton Ellis"
+    ],
+    "app_cast": [
+      {
+        "name": "Andrew McCarthy",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
+      },
+      {
+        "name": "Emilio Estevez",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg"
+      },
+      {
+        "name": "Ally Sheedy",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/dV6eGZm2HNEN2sfa4abTa2QtwOH.jpg"
+      },
+      {
+        "name": "Demi Moore",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+      },
+      {
+        "name": "Rob Lowe",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
+      },
+      {
+        "name": "Timothy Hutton",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/oWVtWGEauBs0zXrk0cWqiqYxJtN.jpg"
+      },
+      {
+        "name": "Lea Thompson",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
+      },
+      {
+        "name": "Jon Cryer",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
+      },
+      {
+        "name": "David Blum",
+        "character": "Self"
+      },
+      {
+        "name": "Lauren Shuler Donner",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/a0oY5BiS6ubJv3Mxh83XH8S4fH7.jpg"
+      },
+      {
+        "name": "Howard Deutch",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/9MOjJAkLZHET0IrKsV6ysUryfs7.jpg"
+      },
+      {
+        "name": "Bret Easton Ellis",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg"
+      }
+    ],
+    "director": [
+      "Andrew McCarthy"
+    ]
   }
 }

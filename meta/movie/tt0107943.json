@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Anthony Hopkins",
+      "Emma Thompson",
+      "James Fox",
+      "Christopher Reeve",
+      "Hugh Grant",
+      "Peter Vaughan",
+      "Ben Chaplin",
+      "Paula Jacobs",
+      "Patrick Godfrey",
+      "Michael Lonsdale",
+      "Rupert Vansittart",
+      "Tim Pigott-Smith"
+    ],
+    "app_cast": [
+      {
+        "name": "Anthony Hopkins",
+        "character": "James Stevens",
+        "photo": "https://image.tmdb.org/t/p/w500/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+      },
+      {
+        "name": "Emma Thompson",
+        "character": "Miss Kenton",
+        "photo": "https://image.tmdb.org/t/p/w500/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+      },
+      {
+        "name": "James Fox",
+        "character": "Lord Darlington",
+        "photo": "https://image.tmdb.org/t/p/w500/fO11c8zUNNgNhYu4aLxgYiBoo6R.jpg"
+      },
+      {
+        "name": "Christopher Reeve",
+        "character": "Jack Lewis",
+        "photo": "https://image.tmdb.org/t/p/w500/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+      },
+      {
+        "name": "Hugh Grant",
+        "character": "Reginald Cardinal",
+        "photo": "https://image.tmdb.org/t/p/w500/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+      },
+      {
+        "name": "Peter Vaughan",
+        "character": "William Stevens",
+        "photo": "https://image.tmdb.org/t/p/w500/pqblKGyukQmyTbMTAhFG1B2mgFq.jpg"
+      },
+      {
+        "name": "Ben Chaplin",
+        "character": "Charlie, Head Footman",
+        "photo": "https://image.tmdb.org/t/p/w500/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+      },
+      {
+        "name": "Paula Jacobs",
+        "character": "Mrs. Mortimer, the cook",
+        "photo": "https://image.tmdb.org/t/p/w500/AeUgQsYY4hlhM9gwiRTMJnzVkdD.jpg"
+      },
+      {
+        "name": "Patrick Godfrey",
+        "character": "Spencer",
+        "photo": "https://image.tmdb.org/t/p/w500/fGZMxe4VpV0rYDYbgXmyJlDO3f7.jpg"
+      },
+      {
+        "name": "Michael Lonsdale",
+        "character": "Dupont D'Ivry",
+        "photo": "https://image.tmdb.org/t/p/w500/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+      },
+      {
+        "name": "Rupert Vansittart",
+        "character": "Sir Geoffrey Wren",
+        "photo": "https://image.tmdb.org/t/p/w500/lNrqLH0ombV0PoF3KilDzX1ujI9.jpg"
+      },
+      {
+        "name": "Tim Pigott-Smith",
+        "character": "Thomas Benn",
+        "photo": "https://image.tmdb.org/t/p/w500/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg"
+      }
+    ],
+    "director": [
+      "James Ivory"
+    ]
   }
 }

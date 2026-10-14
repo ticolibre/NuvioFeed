@@ -18,6 +18,85 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Mitchum",
+      "Lizabeth Scott",
+      "Robert Ryan",
+      "William Talman",
+      "Ray Collins",
+      "Joyce Mackenzie",
+      "Robert Hutton",
+      "Virginia Huston",
+      "William Conrad",
+      "Walter Sande",
+      "Les Tremayne",
+      "Don Porter"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Mitchum",
+        "character": "Thomas McQuigg",
+        "photo": "https://image.tmdb.org/t/p/w500/eXbqoAGBdF3gWqcuS3Zb7zkkqFw.jpg"
+      },
+      {
+        "name": "Lizabeth Scott",
+        "character": "Irene Hayes",
+        "photo": "https://image.tmdb.org/t/p/w500/jOEqWNlan6BECy0qQiE9CLxHrRb.jpg"
+      },
+      {
+        "name": "Robert Ryan",
+        "character": "Nick Scanlon",
+        "photo": "https://image.tmdb.org/t/p/w500/hpWgaPTbBLGCdYXHcEVLIWaA3m0.jpg"
+      },
+      {
+        "name": "William Talman",
+        "character": "Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/bv2gZP5OG01sGz3vdQeG0akpAhO.jpg"
+      },
+      {
+        "name": "Ray Collins",
+        "character": "Mortimer Welsh",
+        "photo": "https://image.tmdb.org/t/p/w500/usQN1n6UMPwYrTuTKdiSxUj8Qwa.jpg"
+      },
+      {
+        "name": "Joyce Mackenzie",
+        "character": "Mary McQuigg",
+        "photo": "https://image.tmdb.org/t/p/w500/oG34PWxwInM8i8f9rLeNWJC7ao9.jpg"
+      },
+      {
+        "name": "Robert Hutton",
+        "character": "Dave Ames",
+        "photo": "https://image.tmdb.org/t/p/w500/aUfMVxfj60iQA1AdVHsS0UKn7Vy.jpg"
+      },
+      {
+        "name": "Virginia Huston",
+        "character": "Lucy Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/kKlPaP5FwBz2jYajr0nkHR43Izt.jpg"
+      },
+      {
+        "name": "William Conrad",
+        "character": "Turk",
+        "photo": "https://image.tmdb.org/t/p/w500/3JgsIutm70SEfGqXTl0Gr3DQzAY.jpg"
+      },
+      {
+        "name": "Walter Sande",
+        "character": "Jim Delaney",
+        "photo": "https://image.tmdb.org/t/p/w500/kyVJTouV9WlfIkcfooLE6whhiyy.jpg"
+      },
+      {
+        "name": "Les Tremayne",
+        "character": "Harry Craig",
+        "photo": "https://image.tmdb.org/t/p/w500/85FK5hDizjXArLjYMv6v1jEpnb0.jpg"
+      },
+      {
+        "name": "Don Porter",
+        "character": "R. G. Connolly",
+        "photo": "https://image.tmdb.org/t/p/w500/99kJqipIP5WldysBO77kaox8Zyg.jpg"
+      }
+    ],
+    "director": [
+      "John Cromwell"
+    ]
   }
 }

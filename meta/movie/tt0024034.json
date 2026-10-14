@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Warner Baxter",
+      "Bebe Daniels",
+      "George Brent",
+      "Ruby Keeler",
+      "Guy Kibbee",
+      "Una Merkel",
+      "Ginger Rogers",
+      "Ned Sparks",
+      "Dick Powell",
+      "Allen Jenkins",
+      "Edward Nugent",
+      "Robert McWade"
+    ],
+    "app_cast": [
+      {
+        "name": "Warner Baxter",
+        "character": "Julian Marsh",
+        "photo": "https://image.tmdb.org/t/p/w500/vX605wp5rnjezGUnsTSrFse5tPy.jpg"
+      },
+      {
+        "name": "Bebe Daniels",
+        "character": "Dorothy Brock",
+        "photo": "https://image.tmdb.org/t/p/w500/3xVPHoyNyhjrRpQpAdGz7Asf2cN.jpg"
+      },
+      {
+        "name": "George Brent",
+        "character": "Pat Denning",
+        "photo": "https://image.tmdb.org/t/p/w500/831vetUvPxlDCd6yJitdnH1YeyX.jpg"
+      },
+      {
+        "name": "Ruby Keeler",
+        "character": "Peggy",
+        "photo": "https://image.tmdb.org/t/p/w500/q9lnp6zQvq7uMvHXFC3jHkfehty.jpg"
+      },
+      {
+        "name": "Guy Kibbee",
+        "character": "Abner Dillon",
+        "photo": "https://image.tmdb.org/t/p/w500/dYPlMilU91vyesTKvsZE6l9dlL1.jpg"
+      },
+      {
+        "name": "Una Merkel",
+        "character": "Lorraine Fleming",
+        "photo": "https://image.tmdb.org/t/p/w500/u4oNB36e1Cjsh3CDwUFA6UAiYf.jpg"
+      },
+      {
+        "name": "Ginger Rogers",
+        "character": "Ann",
+        "photo": "https://image.tmdb.org/t/p/w500/uPnQkn6iqizlbfnlFfPKiIoiS83.jpg"
+      },
+      {
+        "name": "Ned Sparks",
+        "character": "Barry",
+        "photo": "https://image.tmdb.org/t/p/w500/bRduH9CVoOKfD19dKmlxujvEe4Z.jpg"
+      },
+      {
+        "name": "Dick Powell",
+        "character": "Billy Lawler",
+        "photo": "https://image.tmdb.org/t/p/w500/msDrFPoalt7oWWK9S1ELCgSF3R2.jpg"
+      },
+      {
+        "name": "Allen Jenkins",
+        "character": "Mac Elroy",
+        "photo": "https://image.tmdb.org/t/p/w500/5Sx6PnCGo2NIDYqWwP3P2BCejqd.jpg"
+      },
+      {
+        "name": "Edward Nugent",
+        "character": "Terry",
+        "photo": "https://image.tmdb.org/t/p/w500/3U5eThMG4seQQcE3vr77HFikSZN.jpg"
+      },
+      {
+        "name": "Robert McWade",
+        "character": "Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/pWD1NyVwpyG2jKAxRidjfk37xHo.jpg"
+      }
+    ],
+    "director": [
+      "Lloyd Bacon"
+    ]
   }
 }

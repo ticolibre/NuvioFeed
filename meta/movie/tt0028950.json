@@ -19,6 +19,83 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Jean Gabin",
+      "Dita Parlo",
+      "Pierre Fresnay",
+      "Erich von Stroheim",
+      "Julien Carette",
+      "Georges Péclet",
+      "Werner Florian",
+      "Jean Dasté",
+      "Sylvain Itkine",
+      "Gaston Modot",
+      "Marcel Dalio",
+      "Jacques Becker"
+    ],
+    "app_cast": [
+      {
+        "name": "Jean Gabin",
+        "character": "Lieutenant Maréchal",
+        "photo": "https://image.tmdb.org/t/p/w500/pmFuOVTQvYdgmN7cYOuyJHPfMRt.jpg"
+      },
+      {
+        "name": "Dita Parlo",
+        "character": "Elsa",
+        "photo": "https://image.tmdb.org/t/p/w500/kbCBLwzBRgbb91mi5vjnnDWOzlM.jpg"
+      },
+      {
+        "name": "Pierre Fresnay",
+        "character": "Captain de Boëldieu",
+        "photo": "https://image.tmdb.org/t/p/w500/i9tbRMDTM5x2L5d2zTpR0l85SVt.jpg"
+      },
+      {
+        "name": "Erich von Stroheim",
+        "character": "Captain von Rauffenstein",
+        "photo": "https://image.tmdb.org/t/p/w500/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+      },
+      {
+        "name": "Julien Carette",
+        "character": "Cartier, the Vaudeville Performer",
+        "photo": "https://image.tmdb.org/t/p/w500/9QD6WW8DPZDtHEO7d26EXu2C0nM.jpg"
+      },
+      {
+        "name": "Georges Péclet",
+        "character": "Officer",
+        "photo": "https://image.tmdb.org/t/p/w500/8Ll0PBipZo7T4sIzItQSFSnLlnw.jpg"
+      },
+      {
+        "name": "Werner Florian",
+        "character": "Sergeant Arthur"
+      },
+      {
+        "name": "Jean Dasté",
+        "character": "Teacher",
+        "photo": "https://image.tmdb.org/t/p/w500/j85NbYeqdwOqjcJ7uviE19cf1dt.jpg"
+      },
+      {
+        "name": "Sylvain Itkine",
+        "character": "Lieutenant Demolder"
+      },
+      {
+        "name": "Gaston Modot",
+        "character": "Engineer",
+        "photo": "https://image.tmdb.org/t/p/w500/6XEN6LX7stfMhnLi7ng0qkwfHJ6.jpg"
+      },
+      {
+        "name": "Marcel Dalio",
+        "character": "Lieutenant Rosenthal",
+        "photo": "https://image.tmdb.org/t/p/w500/yYZMbAl56e5S7uFbiFbj0YziIDB.jpg"
+      },
+      {
+        "name": "Jacques Becker",
+        "character": "British Officer (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/wamZsli0mJPyWeZ6bwSgdzsvHyi.jpg"
+      }
+    ],
+    "director": [
+      "Jean Renoir"
+    ]
   }
 }

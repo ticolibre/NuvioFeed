@@ -18,6 +18,83 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci",
+      "Frank Vincent",
+      "Nicholas Colasanto",
+      "Theresa Saldana",
+      "Mario Gallo",
+      "Frank Adonis",
+      "Joseph Bono",
+      "Frank Topham",
+      "Lori Anne Flax",
+      "Charles Scorsese"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Jake LaMotta",
+        "photo": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Cathy Moriarty",
+        "character": "Vickie LaMotta",
+        "photo": "https://image.tmdb.org/t/p/w500/5Ja7K0QtvgUnImSSfRqe8hQeoqr.jpg"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Joey LaMotta",
+        "photo": "https://image.tmdb.org/t/p/w500/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+      },
+      {
+        "name": "Frank Vincent",
+        "character": "Salvy Batts",
+        "photo": "https://image.tmdb.org/t/p/w500/fa1gikNsPKvX1roWUo2bBmixnvp.jpg"
+      },
+      {
+        "name": "Nicholas Colasanto",
+        "character": "Tommy Como",
+        "photo": "https://image.tmdb.org/t/p/w500/xxLH9OyleTGlhAqSPavcYoSMpQB.jpg"
+      },
+      {
+        "name": "Theresa Saldana",
+        "character": "Lenore",
+        "photo": "https://image.tmdb.org/t/p/w500/VWTUbbQQX1Sq1b8AIwbXDuT93u.jpg"
+      },
+      {
+        "name": "Mario Gallo",
+        "character": "Mario",
+        "photo": "https://image.tmdb.org/t/p/w500/rogY5uQfrQHI0rr68q3AMmMOvay.jpg"
+      },
+      {
+        "name": "Frank Adonis",
+        "character": "Patsy",
+        "photo": "https://image.tmdb.org/t/p/w500/kp5HFPwnh00HFcrov50dfnTOeIo.jpg"
+      },
+      {
+        "name": "Joseph Bono",
+        "character": "Guido",
+        "photo": "https://image.tmdb.org/t/p/w500/vxgNID1kmRmr3Cxbm31e0cR8BXB.jpg"
+      },
+      {
+        "name": "Frank Topham",
+        "character": "Toppy"
+      },
+      {
+        "name": "Lori Anne Flax",
+        "character": "Irma"
+      },
+      {
+        "name": "Charles Scorsese",
+        "character": "Charlie - Man with Como",
+        "photo": "https://image.tmdb.org/t/p/w500/x0dyaw0UQDH3Pw4TyITux2hphqV.jpg"
+      }
+    ],
+    "director": [
+      "Martin Scorsese"
+    ]
   }
 }

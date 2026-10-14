@@ -19,6 +19,85 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Emma Stone",
+      "Mark Ruffalo",
+      "Willem Dafoe",
+      "Ramy Youssef",
+      "Christopher Abbott",
+      "Suzy Bemba",
+      "Jerrod Carmichael",
+      "Kathryn Hunter",
+      "Vicki Pepperdine",
+      "Hanna Schygulla",
+      "Margaret Qualley",
+      "Jack Barton"
+    ],
+    "app_cast": [
+      {
+        "name": "Emma Stone",
+        "character": "Bella Baxter",
+        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Duncan Wedderburn",
+        "photo": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Godwin Baxter",
+        "photo": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Ramy Youssef",
+        "character": "Max McCandles",
+        "photo": "https://image.tmdb.org/t/p/w500/uLQWOoq11TKqnLfJBu90aKEGj8O.jpg"
+      },
+      {
+        "name": "Christopher Abbott",
+        "character": "Alfie Blessington",
+        "photo": "https://image.tmdb.org/t/p/w500/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
+      },
+      {
+        "name": "Suzy Bemba",
+        "character": "Toinette",
+        "photo": "https://image.tmdb.org/t/p/w500/2dDKt6umajgmpzMwn92Ch9KSQjN.jpg"
+      },
+      {
+        "name": "Jerrod Carmichael",
+        "character": "Harry Astley",
+        "photo": "https://image.tmdb.org/t/p/w500/v1i5xodXbPw3blXYg4v0HmH3PGK.jpg"
+      },
+      {
+        "name": "Kathryn Hunter",
+        "character": "Swiney",
+        "photo": "https://image.tmdb.org/t/p/w500/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
+      },
+      {
+        "name": "Vicki Pepperdine",
+        "character": "Mrs. Prim",
+        "photo": "https://image.tmdb.org/t/p/w500/yjB62bE4jH1KtAKDMjlicd27Em2.jpg"
+      },
+      {
+        "name": "Hanna Schygulla",
+        "character": "Martha Von Kurtzroc",
+        "photo": "https://image.tmdb.org/t/p/w500/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg"
+      },
+      {
+        "name": "Margaret Qualley",
+        "character": "Felicity",
+        "photo": "https://image.tmdb.org/t/p/w500/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+      },
+      {
+        "name": "Jack Barton",
+        "character": "Fop 1",
+        "photo": "https://image.tmdb.org/t/p/w500/fkgNikuTz3pSObRGq9LP64nzxM9.jpg"
+      }
+    ],
+    "director": [
+      "Yorgos Lanthimos"
+    ]
   }
 }

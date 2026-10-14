@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Merle Oberon",
+      "Laurence Olivier",
+      "David Niven",
+      "Flora Robson",
+      "Donald Crisp",
+      "Geraldine Fitzgerald",
+      "Hugh Williams",
+      "Leo G. Carroll",
+      "Miles Mander",
+      "Cecil Kellaway",
+      "Cecil Humphreys",
+      "Sarita Wooton"
+    ],
+    "app_cast": [
+      {
+        "name": "Merle Oberon",
+        "character": "Catherine 'Cathy' Earnshaw Linton",
+        "photo": "https://image.tmdb.org/t/p/w500/uRc4TzGXojrivskCw37609FcK0i.jpg"
+      },
+      {
+        "name": "Laurence Olivier",
+        "character": "Heathcliff",
+        "photo": "https://image.tmdb.org/t/p/w500/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
+      },
+      {
+        "name": "David Niven",
+        "character": "Edgar Linton",
+        "photo": "https://image.tmdb.org/t/p/w500/ioW2DU6T2HPvTdqUSaLLQmGPb38.jpg"
+      },
+      {
+        "name": "Flora Robson",
+        "character": "Ellen Dean",
+        "photo": "https://image.tmdb.org/t/p/w500/8Ptdv8auJVrXEzx0lzkzpcaXNu8.jpg"
+      },
+      {
+        "name": "Donald Crisp",
+        "character": "Dr. Kenneth",
+        "photo": "https://image.tmdb.org/t/p/w500/MEPq09iLEwJVrxw1T97qOILhk6.jpg"
+      },
+      {
+        "name": "Geraldine Fitzgerald",
+        "character": "Isabella Linton",
+        "photo": "https://image.tmdb.org/t/p/w500/jLpd1AxJIAYHE41kIJjXKAK5Vnn.jpg"
+      },
+      {
+        "name": "Hugh Williams",
+        "character": "Hindley Earnshaw",
+        "photo": "https://image.tmdb.org/t/p/w500/wSfmQQLP2HRH3AnWrbUo19uIMwY.jpg"
+      },
+      {
+        "name": "Leo G. Carroll",
+        "character": "Joseph",
+        "photo": "https://image.tmdb.org/t/p/w500/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+      },
+      {
+        "name": "Miles Mander",
+        "character": "Lockwood",
+        "photo": "https://image.tmdb.org/t/p/w500/AnbbuFFGTTAtM2dfi3YAYSfAaXD.jpg"
+      },
+      {
+        "name": "Cecil Kellaway",
+        "character": "Earnshaw",
+        "photo": "https://image.tmdb.org/t/p/w500/rGVj5ODGkAxEllJt2JZTtO7doIj.jpg"
+      },
+      {
+        "name": "Cecil Humphreys",
+        "character": "Judge Linton",
+        "photo": "https://image.tmdb.org/t/p/w500/w0eWAqW7OBIY5cd5xstDdl9q1wa.jpg"
+      },
+      {
+        "name": "Sarita Wooton",
+        "character": "Cathy as a Child",
+        "photo": "https://image.tmdb.org/t/p/w500/6NQsvxcUiHly31mFwXjSX7dSaE1.jpg"
+      }
+    ],
+    "director": [
+      "William Wyler"
+    ]
   }
 }

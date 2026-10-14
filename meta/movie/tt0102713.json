@@ -18,6 +18,83 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Nick Nolte",
+      "Barbra Streisand",
+      "Blythe Danner",
+      "Kate Nelligan",
+      "Jeroen Krabbé",
+      "Melinda Dillon",
+      "George Carlin",
+      "Jason Gould",
+      "Brad Sullivan",
+      "Maggie Collier",
+      "Lindsay Wray",
+      "Brandlyn Whitaker"
+    ],
+    "app_cast": [
+      {
+        "name": "Nick Nolte",
+        "character": "Tom Wingo",
+        "photo": "https://image.tmdb.org/t/p/w500/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+      },
+      {
+        "name": "Barbra Streisand",
+        "character": "Susan Lowenstein",
+        "photo": "https://image.tmdb.org/t/p/w500/6YD223jsdZX7VnWSjGjP1S7Xj6X.jpg"
+      },
+      {
+        "name": "Blythe Danner",
+        "character": "Sally Wingo",
+        "photo": "https://image.tmdb.org/t/p/w500/5fJM6RZXYKAd0ayRwB7osEAQ8YR.jpg"
+      },
+      {
+        "name": "Kate Nelligan",
+        "character": "Lila Wingo Newbury",
+        "photo": "https://image.tmdb.org/t/p/w500/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
+      },
+      {
+        "name": "Jeroen Krabbé",
+        "character": "Herbert Woodruff",
+        "photo": "https://image.tmdb.org/t/p/w500/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+      },
+      {
+        "name": "Melinda Dillon",
+        "character": "Savannah Wingo",
+        "photo": "https://image.tmdb.org/t/p/w500/biM3R6qURBprG9U8tIvpOk8WjOw.jpg"
+      },
+      {
+        "name": "George Carlin",
+        "character": "Eddie Detreville",
+        "photo": "https://image.tmdb.org/t/p/w500/2No6PxJbTGtawVJh0ivUiXfVprH.jpg"
+      },
+      {
+        "name": "Jason Gould",
+        "character": "Bernard Woodruff",
+        "photo": "https://image.tmdb.org/t/p/w500/oaufLBB2GbcF1gnUShD4R0kMSnl.jpg"
+      },
+      {
+        "name": "Brad Sullivan",
+        "character": "Henry Wingo",
+        "photo": "https://image.tmdb.org/t/p/w500/8Ia7FTDLxeOokH7UbR6B4FQBEIK.jpg"
+      },
+      {
+        "name": "Maggie Collier",
+        "character": "Lucy Wingo"
+      },
+      {
+        "name": "Lindsay Wray",
+        "character": "Jennifer Wingo",
+        "photo": "https://image.tmdb.org/t/p/w500/cgqqOB5FlnDqQ7CAxuQOuSl6ak0.jpg"
+      },
+      {
+        "name": "Brandlyn Whitaker",
+        "character": "Chandler Wingo"
+      }
+    ],
+    "director": [
+      "Barbra Streisand"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Jane Fonda",
+      "Vanessa Redgrave",
+      "Jason Robards",
+      "Maximilian Schell",
+      "Hal Holbrook",
+      "Rosemary Murphy",
+      "Meryl Streep",
+      "Dora Doll",
+      "Elisabeth Mortensen",
+      "John Glover",
+      "Lisa Pelikan",
+      "Cathleen Nesbitt"
+    ],
+    "app_cast": [
+      {
+        "name": "Jane Fonda",
+        "character": "Lillian Hellman",
+        "photo": "https://image.tmdb.org/t/p/w500/5Yb3nmRWXXZAxNhfhEuOMdfyVNN.jpg"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "character": "Julia",
+        "photo": "https://image.tmdb.org/t/p/w500/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg"
+      },
+      {
+        "name": "Jason Robards",
+        "character": "Dashiell Hammett",
+        "photo": "https://image.tmdb.org/t/p/w500/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+      },
+      {
+        "name": "Maximilian Schell",
+        "character": "Johann",
+        "photo": "https://image.tmdb.org/t/p/w500/s5UwdDSf3nyW7cye8b4oyXlX0AI.jpg"
+      },
+      {
+        "name": "Hal Holbrook",
+        "character": "Alan",
+        "photo": "https://image.tmdb.org/t/p/w500/rjUwo6mSutAljAHTqGhlnBBd9lO.jpg"
+      },
+      {
+        "name": "Rosemary Murphy",
+        "character": "Dorothy Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/iAL8QVCqlYY3icYqmLBHcg5QJIV.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Anne Marie",
+        "photo": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Dora Doll",
+        "character": "Woman Passenger",
+        "photo": "https://image.tmdb.org/t/p/w500/l8S3Je1v9K8dWTl252e2Lm8AizX.jpg"
+      },
+      {
+        "name": "Elisabeth Mortensen",
+        "character": "Girl Passenger",
+        "photo": "https://image.tmdb.org/t/p/w500/fFwv2W83b0jWBKQTJG150xrOtSK.jpg"
+      },
+      {
+        "name": "John Glover",
+        "character": "Sammy",
+        "photo": "https://image.tmdb.org/t/p/w500/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+      },
+      {
+        "name": "Lisa Pelikan",
+        "character": "Young Julia",
+        "photo": "https://image.tmdb.org/t/p/w500/9pA1C6RTJ9OT2S0J2xeOKxVqvl4.jpg"
+      },
+      {
+        "name": "Cathleen Nesbitt",
+        "character": "Julia's Grandmother",
+        "photo": "https://image.tmdb.org/t/p/w500/bBhNGKtVtZoTfvzQQc9Tuj37UYs.jpg"
+      }
+    ],
+    "director": [
+      "Fred Zinnemann"
+    ]
   }
 }

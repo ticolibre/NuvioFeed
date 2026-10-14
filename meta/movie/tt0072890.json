@@ -19,6 +19,82 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Al Pacino",
+      "John Cazale",
+      "Charles Durning",
+      "Chris Sarandon",
+      "James Broderick",
+      "Penelope Allen",
+      "Sully Boyar",
+      "Beulah Garrick",
+      "Carol Kane",
+      "Sandra Kazan",
+      "Marcia Jean Kurtz",
+      "Amy Levitt"
+    ],
+    "app_cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Sonny",
+        "photo": "https://image.tmdb.org/t/p/w500/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+      },
+      {
+        "name": "John Cazale",
+        "character": "Sal",
+        "photo": "https://image.tmdb.org/t/p/w500/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+      },
+      {
+        "name": "Charles Durning",
+        "character": "Moretti",
+        "photo": "https://image.tmdb.org/t/p/w500/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+      },
+      {
+        "name": "Chris Sarandon",
+        "character": "Leon",
+        "photo": "https://image.tmdb.org/t/p/w500/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+      },
+      {
+        "name": "James Broderick",
+        "character": "Sheldon",
+        "photo": "https://image.tmdb.org/t/p/w500/6beK2bqPlOBLqszQkGOTslcuhkh.jpg"
+      },
+      {
+        "name": "Penelope Allen",
+        "character": "Sylvia",
+        "photo": "https://image.tmdb.org/t/p/w500/bS3BONE2h9hhhoo9VLAlgAxApTd.jpg"
+      },
+      {
+        "name": "Sully Boyar",
+        "character": "Mulvaney",
+        "photo": "https://image.tmdb.org/t/p/w500/oQAiwLBv3rEg4Y2T8VQGyRIiJcz.jpg"
+      },
+      {
+        "name": "Beulah Garrick",
+        "character": "Margaret"
+      },
+      {
+        "name": "Carol Kane",
+        "character": "Jenny",
+        "photo": "https://image.tmdb.org/t/p/w500/dm3Ci8XuVYZBqqlYtaLgth94VUe.jpg"
+      },
+      {
+        "name": "Sandra Kazan",
+        "character": "Deborah"
+      },
+      {
+        "name": "Marcia Jean Kurtz",
+        "character": "Miriam",
+        "photo": "https://image.tmdb.org/t/p/w500/qRZMvp6EllY83RRpKzcBdKklgoU.jpg"
+      },
+      {
+        "name": "Amy Levitt",
+        "character": "Maria"
+      }
+    ],
+    "director": [
+      "Sidney Lumet"
+    ]
   }
 }

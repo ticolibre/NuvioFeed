@@ -18,6 +18,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Gary Cooper",
+      "Franchot Tone",
+      "Richard Cromwell",
+      "Guy Standing",
+      "C. Aubrey Smith",
+      "Kathleen Burke",
+      "Douglass Dumbrille",
+      "Monte Blue",
+      "Colin Tapley",
+      "Akim Tamiroff",
+      "J. Carrol Naish",
+      "Noble Johnson"
+    ],
+    "app_cast": [
+      {
+        "name": "Gary Cooper",
+        "character": "Alan McGregor",
+        "photo": "https://image.tmdb.org/t/p/w500/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+      },
+      {
+        "name": "Franchot Tone",
+        "character": "Forsythe",
+        "photo": "https://image.tmdb.org/t/p/w500/dI6TE8qane88wOkZGG6alMFjpcu.jpg"
+      },
+      {
+        "name": "Richard Cromwell",
+        "character": "Donald Stone",
+        "photo": "https://image.tmdb.org/t/p/w500/i18jVoVaMB2ONwG0AvpdSYfqjuz.jpg"
+      },
+      {
+        "name": "Guy Standing",
+        "character": "Tom Stone",
+        "photo": "https://image.tmdb.org/t/p/w500/jA9NbD7KbWz4nurQenII5Gz5HYA.jpg"
+      },
+      {
+        "name": "C. Aubrey Smith",
+        "character": "Major Hamilton",
+        "photo": "https://image.tmdb.org/t/p/w500/bmkvivg9TJJhbc2ZxQ1xJfq0mWt.jpg"
+      },
+      {
+        "name": "Kathleen Burke",
+        "character": "Tania Volkanskaya",
+        "photo": "https://image.tmdb.org/t/p/w500/tPomu1hmFeE6ffbJCQrSKImA6Kh.jpg"
+      },
+      {
+        "name": "Douglass Dumbrille",
+        "character": "Mohammed Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/quJC1FBvSzwNuFCQhlzXINXa7ZS.jpg"
+      },
+      {
+        "name": "Monte Blue",
+        "character": "Hamzulla Khan",
+        "photo": "https://image.tmdb.org/t/p/w500/f9VVvlkPviIaHfcW8fog8JwYUvP.jpg"
+      },
+      {
+        "name": "Colin Tapley",
+        "character": "Barrett",
+        "photo": "https://image.tmdb.org/t/p/w500/As2xOnFngojUi7v6mdXDVLqsnWT.jpg"
+      },
+      {
+        "name": "Akim Tamiroff",
+        "character": "Otamanu",
+        "photo": "https://image.tmdb.org/t/p/w500/nhdT4BvYkcHhN8cR1fedWNw5a78.jpg"
+      },
+      {
+        "name": "J. Carrol Naish",
+        "character": "Grand Vizier",
+        "photo": "https://image.tmdb.org/t/p/w500/eTQ39RkhwYnLDKQyqjXkliov537.jpg"
+      },
+      {
+        "name": "Noble Johnson",
+        "character": "Ram Singh",
+        "photo": "https://image.tmdb.org/t/p/w500/ktN2dIxPBTdt7RqpFoWD0upCbUp.jpg"
+      }
+    ],
+    "director": [
+      "Henry Hathaway"
+    ]
   }
 }

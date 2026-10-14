@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Bette Davis",
+      "Herbert Marshall",
+      "James Stephenson",
+      "Frieda Inescort",
+      "Gale Sondergaard",
+      "Bruce Lester",
+      "Elizabeth Inglis",
+      "Cecil Kellaway",
+      "Victor Sen Yung",
+      "Doris Lloyd",
+      "Willie Fung",
+      "Tetsu Komai"
+    ],
+    "app_cast": [
+      {
+        "name": "Bette Davis",
+        "character": "Leslie Crosbie",
+        "photo": "https://image.tmdb.org/t/p/w500/dr7UzpC9055ByCdCUHvTP1qsD2X.jpg"
+      },
+      {
+        "name": "Herbert Marshall",
+        "character": "Robert Crosbie",
+        "photo": "https://image.tmdb.org/t/p/w500/r2DrJ6dxBNSjCtP7PRNBsYjbNI2.jpg"
+      },
+      {
+        "name": "James Stephenson",
+        "character": "Howard Joyce",
+        "photo": "https://image.tmdb.org/t/p/w500/zVMYn8Vo2nXK4dPCjpwleGoC970.jpg"
+      },
+      {
+        "name": "Frieda Inescort",
+        "character": "Dorothy Joyce",
+        "photo": "https://image.tmdb.org/t/p/w500/zJmuhnqpClP1IUe2gS0en72UAIF.jpg"
+      },
+      {
+        "name": "Gale Sondergaard",
+        "character": "Mrs. Hammond",
+        "photo": "https://image.tmdb.org/t/p/w500/qIM4YO2sWBzdGOCAZctZjPcUK2c.jpg"
+      },
+      {
+        "name": "Bruce Lester",
+        "character": "John Withers",
+        "photo": "https://image.tmdb.org/t/p/w500/1HEpVg3oiNlwagZRXx9d0i2BcgP.jpg"
+      },
+      {
+        "name": "Elizabeth Inglis",
+        "character": "Adele Ainsworth",
+        "photo": "https://image.tmdb.org/t/p/w500/r3ySNsT02chouZ1NmpX9r4K73ZF.jpg"
+      },
+      {
+        "name": "Cecil Kellaway",
+        "character": "Prescott",
+        "photo": "https://image.tmdb.org/t/p/w500/rGVj5ODGkAxEllJt2JZTtO7doIj.jpg"
+      },
+      {
+        "name": "Victor Sen Yung",
+        "character": "Ong Chi Seng",
+        "photo": "https://image.tmdb.org/t/p/w500/6xFJCYYWmgvVzH6fx1vZXttqt7n.jpg"
+      },
+      {
+        "name": "Doris Lloyd",
+        "character": "Mrs. Cooper",
+        "photo": "https://image.tmdb.org/t/p/w500/fBK3svuhA9YpWRtD6EHMJMd7YC4.jpg"
+      },
+      {
+        "name": "Willie Fung",
+        "character": "Chung Hi",
+        "photo": "https://image.tmdb.org/t/p/w500/ujvPfuXfoWtu7ApVC2iOtFaS2py.jpg"
+      },
+      {
+        "name": "Tetsu Komai",
+        "character": "Head Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/feZSi0PhPi53TtW1J8UmoKxiT5Y.jpg"
+      }
+    ],
+    "director": [
+      "William Wyler"
+    ]
   }
 }

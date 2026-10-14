@@ -17,6 +17,24 @@
           "rating": "4.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Jazmin Jones",
+      "Olivia McKayla Ross"
+    ],
+    "app_cast": [
+      {
+        "name": "Jazmin Jones",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/iuEshbodk4qZshAYZXL3vyU5goI.jpg"
+      },
+      {
+        "name": "Olivia McKayla Ross",
+        "character": "Self"
+      }
+    ],
+    "director": [
+      "Jazmin Jones"
+    ]
   }
 }

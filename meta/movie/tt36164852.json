@@ -19,6 +19,43 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Óscar Barberán",
+      "Michelle Jenner",
+      "Luis Posada",
+      "Joseph Balderrama",
+      "Trevor White"
+    ],
+    "app_cast": [
+      {
+        "name": "Óscar Barberán",
+        "character": "Tadeo Jones (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/3Knf7YGrqS8sfXNPo7k15TIJe92.jpg"
+      },
+      {
+        "name": "Michelle Jenner",
+        "character": "Sara Lavrof (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/g3JyHqwBcV7g1ds3dHtWkDXyXqb.jpg"
+      },
+      {
+        "name": "Luis Posada",
+        "character": "Momia (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/tTqHaQkpTbUDg4hPBHRoR4cJiFN.jpg"
+      },
+      {
+        "name": "Joseph Balderrama",
+        "character": "Mummy / Tupac (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/8BwRFsXzWD25dPih6IePcRD3EjT.jpg"
+      },
+      {
+        "name": "Trevor White",
+        "character": "Tad (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/hqSsJnshRL3rydOrE2coMXRWufP.jpg"
+      }
+    ],
+    "director": [
+      "Enrique Gato"
+    ]
   }
 }

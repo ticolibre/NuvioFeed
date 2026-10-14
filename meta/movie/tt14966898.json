@@ -17,6 +17,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "David Dastmalchian",
+      "Laura Gordon",
+      "Ian Bliss",
+      "Fayssal Bazzi",
+      "Ingrid Torelli",
+      "Rhys Auteri",
+      "Georgina Haig",
+      "Josh Quong Tart",
+      "Steve Mouzakis",
+      "Paula Arundell",
+      "Tamala Shelton",
+      "Christopher Kirby"
+    ],
+    "app_cast": [
+      {
+        "name": "David Dastmalchian",
+        "character": "Jack Delroy",
+        "photo": "https://image.tmdb.org/t/p/w500/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+      },
+      {
+        "name": "Laura Gordon",
+        "character": "June Ross-Mitchell",
+        "photo": "https://image.tmdb.org/t/p/w500/7Gro37r1iqm4Wiyf2QlvMPgSeza.jpg"
+      },
+      {
+        "name": "Ian Bliss",
+        "character": "Carmichael Haig",
+        "photo": "https://image.tmdb.org/t/p/w500/26Ms6gQlbfxAzdrSTKfkcMoJrov.jpg"
+      },
+      {
+        "name": "Fayssal Bazzi",
+        "character": "Christou",
+        "photo": "https://image.tmdb.org/t/p/w500/FdGWperjFqzfGD53TVXLxsjJ7a.jpg"
+      },
+      {
+        "name": "Ingrid Torelli",
+        "character": "Lilly D'Abo",
+        "photo": "https://image.tmdb.org/t/p/w500/qJuNZiALqkbOmVDs4DXLurPQpD2.jpg"
+      },
+      {
+        "name": "Rhys Auteri",
+        "character": "Gus McConnell",
+        "photo": "https://image.tmdb.org/t/p/w500/dpds0ltWHdQthsLoXdGC1uh2kdg.jpg"
+      },
+      {
+        "name": "Georgina Haig",
+        "character": "Madeleine Piper",
+        "photo": "https://image.tmdb.org/t/p/w500/tbPWwYbMsGharJtRh8nej6ROksE.jpg"
+      },
+      {
+        "name": "Josh Quong Tart",
+        "character": "Leo Fiske"
+      },
+      {
+        "name": "Steve Mouzakis",
+        "character": "Szandor D'Abo",
+        "photo": "https://image.tmdb.org/t/p/w500/z28JqHK4lHKd09teJk5emcNEAe1.jpg"
+      },
+      {
+        "name": "Paula Arundell",
+        "character": "Diane",
+        "photo": "https://image.tmdb.org/t/p/w500/6npQiQjcjhBItCqKObvuhS261A6.jpg"
+      },
+      {
+        "name": "Tamala Shelton",
+        "character": "Carol",
+        "photo": "https://image.tmdb.org/t/p/w500/A55OOpNUuut7ZebMQSl4It8O3OT.jpg"
+      },
+      {
+        "name": "Christopher Kirby",
+        "character": "Phil",
+        "photo": "https://image.tmdb.org/t/p/w500/djNk4Q2A79XPhMOtAE2F2fgCIhI.jpg"
+      }
+    ],
+    "director": [
+      "Cameron Cairnes",
+      "Colin Cairnes"
+    ]
   }
 }

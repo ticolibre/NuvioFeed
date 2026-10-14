@@ -18,6 +18,82 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Lupita Nyong'o",
+      "Winston Duke",
+      "Elisabeth Moss",
+      "Tim Heidecker",
+      "Shahadi Wright Joseph",
+      "Evan Alex",
+      "Yahya Abdul-Mateen II",
+      "Anna Diop",
+      "Cali Sheldon",
+      "Noelle Sheldon",
+      "Madison Curry",
+      "Ashley McKoy"
+    ],
+    "app_cast": [
+      {
+        "name": "Lupita Nyong'o",
+        "character": "Adelaide Wilson / Red",
+        "photo": "https://image.tmdb.org/t/p/w500/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+      },
+      {
+        "name": "Winston Duke",
+        "character": "Gabe Wilson / Abraham",
+        "photo": "https://image.tmdb.org/t/p/w500/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+      },
+      {
+        "name": "Elisabeth Moss",
+        "character": "Kitty Tyler / Dahlia",
+        "photo": "https://image.tmdb.org/t/p/w500/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg"
+      },
+      {
+        "name": "Tim Heidecker",
+        "character": "Josh Tyler / Tex",
+        "photo": "https://image.tmdb.org/t/p/w500/cIZhIEZkzScVBPgWwrc2Ta7KGDv.jpg"
+      },
+      {
+        "name": "Shahadi Wright Joseph",
+        "character": "Zora Wilson / Umbrae",
+        "photo": "https://image.tmdb.org/t/p/w500/aOIwpf4CaXxzzBMowzKjJ9ieinu.jpg"
+      },
+      {
+        "name": "Evan Alex",
+        "character": "Jason Wilson / Pluto",
+        "photo": "https://image.tmdb.org/t/p/w500/ejfaMFSkCE9aWMns51ULyJjVXVx.jpg"
+      },
+      {
+        "name": "Yahya Abdul-Mateen II",
+        "character": "Russell Thomas / Weyland",
+        "photo": "https://image.tmdb.org/t/p/w500/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg"
+      },
+      {
+        "name": "Anna Diop",
+        "character": "Rayne Thomas / Eartha",
+        "photo": "https://image.tmdb.org/t/p/w500/1QcuJHVyLXZNnuwmNuqL9Lon4kq.jpg"
+      },
+      {
+        "name": "Cali Sheldon",
+        "character": "Becca Tyler / Io"
+      },
+      {
+        "name": "Noelle Sheldon",
+        "character": "Lindsey Tyler / Nix"
+      },
+      {
+        "name": "Madison Curry",
+        "character": "Young Adelaide Wilson / Young Red",
+        "photo": "https://image.tmdb.org/t/p/w500/z41xUgcy8Ggeyfm3JaFqV3pUBQP.jpg"
+      },
+      {
+        "name": "Ashley McKoy",
+        "character": "Teenage Adelaide Wilson / Teenage Red"
+      }
+    ],
+    "director": [
+      "Jordan Peele"
+    ]
   }
 }

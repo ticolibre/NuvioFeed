@@ -17,6 +17,58 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Homayoun Ershadi",
+      "Abdolrahman Bagheri",
+      "Safar Ali Moradi",
+      "Mir Hossein Noori",
+      "Elham Imani",
+      "Afshin Khorshid Bakhtiari",
+      "Ahmad Ansari",
+      "Abbas Kiarostami"
+    ],
+    "app_cast": [
+      {
+        "name": "Homayoun Ershadi",
+        "character": "Mr. Badii",
+        "photo": "https://image.tmdb.org/t/p/w500/gBoWtYN8Z8UunnCKVQmebWA0Qv4.jpg"
+      },
+      {
+        "name": "Abdolrahman Bagheri",
+        "character": "Mr. Bagheri",
+        "photo": "https://image.tmdb.org/t/p/w500/AtFw5qprLGCcDK95SnBse9vyce5.jpg"
+      },
+      {
+        "name": "Safar Ali Moradi",
+        "character": "Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/t9dTsZ9mctpeol4LgzpnT8lO00a.jpg"
+      },
+      {
+        "name": "Mir Hossein Noori",
+        "character": "Seminarian",
+        "photo": "https://image.tmdb.org/t/p/w500/9mFN25mefcGRWPEIRCOA5SVaMDz.jpg"
+      },
+      {
+        "name": "Elham Imani",
+        "character": "Photographer"
+      },
+      {
+        "name": "Afshin Khorshid Bakhtiari",
+        "character": "Worker"
+      },
+      {
+        "name": "Ahmad Ansari",
+        "character": "Self"
+      },
+      {
+        "name": "Abbas Kiarostami",
+        "character": "Self (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg"
+      }
+    ],
+    "director": [
+      "Abbas Kiarostami"
+    ]
   }
 }

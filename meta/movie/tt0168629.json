@@ -18,6 +18,84 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Björk",
+      "Catherine Deneuve",
+      "David Morse",
+      "Peter Stormare",
+      "Joel Grey",
+      "Cara Seymour",
+      "Vladica Kostic",
+      "Jean-Marc Barr",
+      "Vincent Paterson",
+      "Siobhan Fallon Hogan",
+      "Željko Ivanek",
+      "Udo Kier"
+    ],
+    "app_cast": [
+      {
+        "name": "Björk",
+        "character": "Selma Jezkova",
+        "photo": "https://image.tmdb.org/t/p/w500/Ahc3TWomYakLcbqZRVBDdf3rhMR.jpg"
+      },
+      {
+        "name": "Catherine Deneuve",
+        "character": "Kathy",
+        "photo": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg"
+      },
+      {
+        "name": "David Morse",
+        "character": "Bill Houston",
+        "photo": "https://image.tmdb.org/t/p/w500/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Jeff",
+        "photo": "https://image.tmdb.org/t/p/w500/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+      },
+      {
+        "name": "Joel Grey",
+        "character": "Oldrich Novy",
+        "photo": "https://image.tmdb.org/t/p/w500/JTvL1BdxNErOj0r5HOCiYdEjuc.jpg"
+      },
+      {
+        "name": "Cara Seymour",
+        "character": "Linda Houston",
+        "photo": "https://image.tmdb.org/t/p/w500/dYzhA0tw1OPU50vtXsfgSGKSwpf.jpg"
+      },
+      {
+        "name": "Vladica Kostic",
+        "character": "Gene Jezkova"
+      },
+      {
+        "name": "Jean-Marc Barr",
+        "character": "Norman",
+        "photo": "https://image.tmdb.org/t/p/w500/65aLM2ZvBjJu2JWGSrTGHqXyc8w.jpg"
+      },
+      {
+        "name": "Vincent Paterson",
+        "character": "Samuel",
+        "photo": "https://image.tmdb.org/t/p/w500/vKdb4U54bYBRJGhCrwLtjQfVFP0.jpg"
+      },
+      {
+        "name": "Siobhan Fallon Hogan",
+        "character": "Brenda",
+        "photo": "https://image.tmdb.org/t/p/w500/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+      },
+      {
+        "name": "Željko Ivanek",
+        "character": "District Attorney",
+        "photo": "https://image.tmdb.org/t/p/w500/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+      },
+      {
+        "name": "Udo Kier",
+        "character": "Dr. Porkorny",
+        "photo": "https://image.tmdb.org/t/p/w500/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+      }
+    ],
+    "director": [
+      "Lars von Trier"
+    ]
   }
 }

@@ -17,6 +17,24 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Melanie Hyams",
+      "Carice van Houten"
+    ],
+    "app_cast": [
+      {
+        "name": "Melanie Hyams",
+        "character": "Self - Narrator (voice)"
+      },
+      {
+        "name": "Carice van Houten",
+        "character": "Narrator (2024 version)",
+        "photo": "https://image.tmdb.org/t/p/w500/eVJqjb7D4FPRcZZ4nqtBk1gnkkj.jpg"
+      }
+    ],
+    "director": [
+      "Steve McQueen"
+    ]
   }
 }

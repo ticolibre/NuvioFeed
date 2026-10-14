@@ -19,6 +19,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Omar Sharif",
+      "Julie Christie",
+      "Geraldine Chaplin",
+      "Rod Steiger",
+      "Alec Guinness",
+      "Tom Courtenay",
+      "Siobhán McKenna",
+      "Ralph Richardson",
+      "Rita Tushingham",
+      "Adrienne Corri",
+      "Bernard Kay",
+      "Geoffrey Keen"
+    ],
+    "app_cast": [
+      {
+        "name": "Omar Sharif",
+        "character": "Dr. Yuri Zhivago",
+        "photo": "https://image.tmdb.org/t/p/w500/pnDxqehpEwmJhXdS3SMxKCfDuHD.jpg"
+      },
+      {
+        "name": "Julie Christie",
+        "character": "Lara Antipova",
+        "photo": "https://image.tmdb.org/t/p/w500/siAi4XZhDPP8LRgbByzwLqVaLIQ.jpg"
+      },
+      {
+        "name": "Geraldine Chaplin",
+        "character": "Tonya Gromeko",
+        "photo": "https://image.tmdb.org/t/p/w500/teiPgoY0Fgyw4Xs07IGDsJmcsjL.jpg"
+      },
+      {
+        "name": "Rod Steiger",
+        "character": "Viktor Komarovsky",
+        "photo": "https://image.tmdb.org/t/p/w500/70bE5PZJbRHxG4th6gDvXGgXu4Z.jpg"
+      },
+      {
+        "name": "Alec Guinness",
+        "character": "Gen. Yevgraf Zhivago",
+        "photo": "https://image.tmdb.org/t/p/w500/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
+      },
+      {
+        "name": "Tom Courtenay",
+        "character": "Pasha Antipov / Strelnikov",
+        "photo": "https://image.tmdb.org/t/p/w500/w9spe3jYKs6nqDbIAkNBwa76z7b.jpg"
+      },
+      {
+        "name": "Siobhán McKenna",
+        "character": "Anna",
+        "photo": "https://image.tmdb.org/t/p/w500/hBWTNcFzhvtdBKd54JnlCJWf8HO.jpg"
+      },
+      {
+        "name": "Ralph Richardson",
+        "character": "Alexander Gromeko",
+        "photo": "https://image.tmdb.org/t/p/w500/rPGUnz38kKtFfYmmEqVAjqZPA10.jpg"
+      },
+      {
+        "name": "Rita Tushingham",
+        "character": "The Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/sEI6flS4X82MdzIBTwOXjVXuoFK.jpg"
+      },
+      {
+        "name": "Adrienne Corri",
+        "character": "Amelia",
+        "photo": "https://image.tmdb.org/t/p/w500/jlwXRVJUscG3GnYGfBXT5KDCbss.jpg"
+      },
+      {
+        "name": "Bernard Kay",
+        "character": "The Bolshevik",
+        "photo": "https://image.tmdb.org/t/p/w500/na9D9TSGR06o4ENYngFyxj4O6A2.jpg"
+      },
+      {
+        "name": "Geoffrey Keen",
+        "character": "Medical Professor",
+        "photo": "https://image.tmdb.org/t/p/w500/dvxVrI845NAKGGekU95FNcF5ysv.jpg"
+      }
+    ],
+    "director": [
+      "David Lean"
+    ]
   }
 }

@@ -17,6 +17,79 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "James Ransone",
+      "Shannyn Sossamon",
+      "Robert Daniel Sloan",
+      "Dartanian Sloan",
+      "Tate Ellington",
+      "Lea Coco",
+      "John Beasley",
+      "Lucas Jade Zumann",
+      "Jaden Klein",
+      "Laila Haley",
+      "Caden M. Fritz",
+      "Olivia Rainey"
+    ],
+    "app_cast": [
+      {
+        "name": "James Ransone",
+        "character": "Ex-Deputy So & So",
+        "photo": "https://image.tmdb.org/t/p/w500/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+      },
+      {
+        "name": "Shannyn Sossamon",
+        "character": "Courtney Collins",
+        "photo": "https://image.tmdb.org/t/p/w500/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
+      },
+      {
+        "name": "Robert Daniel Sloan",
+        "character": "Dylan Collins"
+      },
+      {
+        "name": "Dartanian Sloan",
+        "character": "Zach Collins"
+      },
+      {
+        "name": "Tate Ellington",
+        "character": "Dr. Stomberg",
+        "photo": "https://image.tmdb.org/t/p/w500/oEVLDskW1iyC06VAdnNdqKpHosy.jpg"
+      },
+      {
+        "name": "Lea Coco",
+        "character": "Clint Collins",
+        "photo": "https://image.tmdb.org/t/p/w500/3oKT7YA487mGALbFXUqys6bfVqj.jpg"
+      },
+      {
+        "name": "John Beasley",
+        "character": "Father Rodriguez",
+        "photo": "https://image.tmdb.org/t/p/w500/tpZQojv2UfelPHr1eSphcp0iEpJ.jpg"
+      },
+      {
+        "name": "Lucas Jade Zumann",
+        "character": "Milo",
+        "photo": "https://image.tmdb.org/t/p/w500/t0GMKfDanKkkcwCxIL4psFxSVgi.jpg"
+      },
+      {
+        "name": "Jaden Klein",
+        "character": "Ted"
+      },
+      {
+        "name": "Laila Haley",
+        "character": "Emma"
+      },
+      {
+        "name": "Caden M. Fritz",
+        "character": "Peter"
+      },
+      {
+        "name": "Olivia Rainey",
+        "character": "Catherine"
+      }
+    ],
+    "director": [
+      "Ciarán Foy"
+    ]
   }
 }

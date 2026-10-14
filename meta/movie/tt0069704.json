@@ -18,6 +18,84 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Richard Dreyfuss",
+      "Ron Howard",
+      "Paul Le Mat",
+      "Charles Martin Smith",
+      "Cindy Williams",
+      "Candy Clark",
+      "Mackenzie Phillips",
+      "Wolfman Jack",
+      "Bo Hopkins",
+      "Manuel Padilla Jr.",
+      "Beau Gentry",
+      "Harrison Ford"
+    ],
+    "app_cast": [
+      {
+        "name": "Richard Dreyfuss",
+        "character": "Curt Henderson",
+        "photo": "https://image.tmdb.org/t/p/w500/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+      },
+      {
+        "name": "Ron Howard",
+        "character": "Steve Bolander",
+        "photo": "https://image.tmdb.org/t/p/w500/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      },
+      {
+        "name": "Paul Le Mat",
+        "character": "John Milner",
+        "photo": "https://image.tmdb.org/t/p/w500/61rQpTNYhGGWBJQcvfZHomtOzE2.jpg"
+      },
+      {
+        "name": "Charles Martin Smith",
+        "character": "Terry 'The Toad' Fields",
+        "photo": "https://image.tmdb.org/t/p/w500/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg"
+      },
+      {
+        "name": "Cindy Williams",
+        "character": "Laurie Henderson",
+        "photo": "https://image.tmdb.org/t/p/w500/29u61fa8bc3aLVC26READWZbfEm.jpg"
+      },
+      {
+        "name": "Candy Clark",
+        "character": "Debbie Dunham",
+        "photo": "https://image.tmdb.org/t/p/w500/4Q3CmUrOGkdkffmwvq8aUp8dzsK.jpg"
+      },
+      {
+        "name": "Mackenzie Phillips",
+        "character": "Carol",
+        "photo": "https://image.tmdb.org/t/p/w500/lKLvP6CMvwajNPNOApdpyeRx9l2.jpg"
+      },
+      {
+        "name": "Wolfman Jack",
+        "character": "XERB Disc Jockey",
+        "photo": "https://image.tmdb.org/t/p/w500/asVueXXBHk1kERvTzAR551myHI5.jpg"
+      },
+      {
+        "name": "Bo Hopkins",
+        "character": "Joe Young",
+        "photo": "https://image.tmdb.org/t/p/w500/6VQ7SucwfDmlvB1h0ZZrfp4H6Au.jpg"
+      },
+      {
+        "name": "Manuel Padilla Jr.",
+        "character": "Carlos",
+        "photo": "https://image.tmdb.org/t/p/w500/zag3YHVKjrePJroxBoUJgvVKj5s.jpg"
+      },
+      {
+        "name": "Beau Gentry",
+        "character": "Ants"
+      },
+      {
+        "name": "Harrison Ford",
+        "character": "Bob Falfa",
+        "photo": "https://image.tmdb.org/t/p/w500/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+      }
+    ],
+    "director": [
+      "George Lucas"
+    ]
   }
 }

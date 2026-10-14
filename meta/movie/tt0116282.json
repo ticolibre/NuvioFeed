@@ -19,6 +19,85 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Frances McDormand",
+      "William H. Macy",
+      "Steve Buscemi",
+      "Peter Stormare",
+      "Harve Presnell",
+      "John Carroll Lynch",
+      "Kristin Rudrüd",
+      "Bruce Bohne",
+      "Steve Reevis",
+      "Steve Park",
+      "Gary Houston",
+      "Sally Wingert"
+    ],
+    "app_cast": [
+      {
+        "name": "Frances McDormand",
+        "character": "Marge Gunderson",
+        "photo": "https://image.tmdb.org/t/p/w500/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+      },
+      {
+        "name": "William H. Macy",
+        "character": "Jerry Lundegaard",
+        "photo": "https://image.tmdb.org/t/p/w500/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Carl Showalter",
+        "photo": "https://image.tmdb.org/t/p/w500/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Gaear Grimsrud",
+        "photo": "https://image.tmdb.org/t/p/w500/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+      },
+      {
+        "name": "Harve Presnell",
+        "character": "Wade Gustafson",
+        "photo": "https://image.tmdb.org/t/p/w500/rQ59i2F9xMLp5MzuxmNN91iKzcV.jpg"
+      },
+      {
+        "name": "John Carroll Lynch",
+        "character": "Norm Gunderson",
+        "photo": "https://image.tmdb.org/t/p/w500/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+      },
+      {
+        "name": "Kristin Rudrüd",
+        "character": "Jean Lundegaard",
+        "photo": "https://image.tmdb.org/t/p/w500/s8XEWxRHYwLfSfGHGBmCePAq694.jpg"
+      },
+      {
+        "name": "Bruce Bohne",
+        "character": "Lou",
+        "photo": "https://image.tmdb.org/t/p/w500/zBe6eyNHbiEClW4Lwu2o8S7Mi75.jpg"
+      },
+      {
+        "name": "Steve Reevis",
+        "character": "Shep Proudfoot",
+        "photo": "https://image.tmdb.org/t/p/w500/3rwvjFw0NuyvkCeoXeDRH6cIWYH.jpg"
+      },
+      {
+        "name": "Steve Park",
+        "character": "Mike Yanagita",
+        "photo": "https://image.tmdb.org/t/p/w500/wDa3CYi7GPUcFBoi7Fg0fcCCXDc.jpg"
+      },
+      {
+        "name": "Gary Houston",
+        "character": "Irate Customer",
+        "photo": "https://image.tmdb.org/t/p/w500/1je2kKuTFWourCvPGpst84Tn3d1.jpg"
+      },
+      {
+        "name": "Sally Wingert",
+        "character": "Irate Customer's Wife",
+        "photo": "https://image.tmdb.org/t/p/w500/ykag9cTD0asz8odp3tmD3vT4vnk.jpg"
+      }
+    ],
+    "director": [
+      "Joel Coen"
+    ]
   }
 }

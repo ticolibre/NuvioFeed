@@ -17,6 +17,81 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Nicole Kidman",
+      "Julianne Moore",
+      "Meryl Streep",
+      "Stephen Dillane",
+      "Jack Rovello",
+      "Ed Harris",
+      "Miranda Richardson",
+      "John C. Reilly",
+      "Allison Janney",
+      "George Loftus",
+      "Charley Ramm",
+      "Sophie Wyburd"
+    ],
+    "app_cast": [
+      {
+        "name": "Nicole Kidman",
+        "character": "Virginia Woolf",
+        "photo": "https://image.tmdb.org/t/p/w500/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+      },
+      {
+        "name": "Julianne Moore",
+        "character": "Laura Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Clarissa Vaughan",
+        "photo": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Stephen Dillane",
+        "character": "Leonard Woolf",
+        "photo": "https://image.tmdb.org/t/p/w500/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg"
+      },
+      {
+        "name": "Jack Rovello",
+        "character": "Richie"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Richard Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+      },
+      {
+        "name": "Miranda Richardson",
+        "character": "Vanessa Bell",
+        "photo": "https://image.tmdb.org/t/p/w500/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Dan Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Sally Lester",
+        "photo": "https://image.tmdb.org/t/p/w500/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+      },
+      {
+        "name": "George Loftus",
+        "character": "Quentin Bell"
+      },
+      {
+        "name": "Charley Ramm",
+        "character": "Julian Bell"
+      },
+      {
+        "name": "Sophie Wyburd",
+        "character": "Angelica Bell"
+      }
+    ],
+    "director": [
+      "Stephen Daldry"
+    ]
   }
 }

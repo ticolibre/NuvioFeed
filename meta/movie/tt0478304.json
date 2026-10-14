@@ -18,6 +18,80 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Brad Pitt",
+      "Jessica Chastain",
+      "Hunter McCracken",
+      "Sean Penn",
+      "Fiona Shaw",
+      "Tye Sheridan",
+      "Laramie Eppler",
+      "Will Wallace",
+      "Nicolas Gonda",
+      "Jessica Fuselier",
+      "Kelly Koonce",
+      "Bryce Boudoin"
+    ],
+    "app_cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Mr. O'Brien",
+        "photo": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Mrs. O'Brien",
+        "photo": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+      },
+      {
+        "name": "Hunter McCracken",
+        "character": "Young Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/rd0eexIXO4ab2wne1SwSWENAyiv.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Fiona Shaw",
+        "character": "Grandmother",
+        "photo": "https://image.tmdb.org/t/p/w500/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+      },
+      {
+        "name": "Tye Sheridan",
+        "character": "Steve",
+        "photo": "https://image.tmdb.org/t/p/w500/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg"
+      },
+      {
+        "name": "Laramie Eppler",
+        "character": "R.L."
+      },
+      {
+        "name": "Will Wallace",
+        "character": "Architect",
+        "photo": "https://image.tmdb.org/t/p/w500/n6AI0SA91DV2bubLxAtfKuSERRy.jpg"
+      },
+      {
+        "name": "Nicolas Gonda",
+        "character": "Mr. Reynolds"
+      },
+      {
+        "name": "Jessica Fuselier",
+        "character": "Guide"
+      },
+      {
+        "name": "Kelly Koonce",
+        "character": "Father Haynes"
+      },
+      {
+        "name": "Bryce Boudoin",
+        "character": "Robert"
+      }
+    ],
+    "director": [
+      "Terrence Malick"
+    ]
   }
 }

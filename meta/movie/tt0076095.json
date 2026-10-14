@@ -19,6 +19,83 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Richard Dreyfuss",
+      "Marsha Mason",
+      "Quinn Cummings",
+      "Paul Benedict",
+      "Barbara Rhoades",
+      "Theresa Merritt",
+      "Michael Shawn",
+      "Patricia Pearcy",
+      "Gene Castle",
+      "Marilyn Sokol",
+      "Anita Dangler",
+      "Victoria Boothby"
+    ],
+    "app_cast": [
+      {
+        "name": "Richard Dreyfuss",
+        "character": "Elliot Garfield",
+        "photo": "https://image.tmdb.org/t/p/w500/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+      },
+      {
+        "name": "Marsha Mason",
+        "character": "Paula McFadden",
+        "photo": "https://image.tmdb.org/t/p/w500/2IkzpW9eYT0m1jhssQryvmN4gS6.jpg"
+      },
+      {
+        "name": "Quinn Cummings",
+        "character": "Lucy McFadden",
+        "photo": "https://image.tmdb.org/t/p/w500/tA3GZAJRnzzlW5gCnmPUTk60pFB.jpg"
+      },
+      {
+        "name": "Paul Benedict",
+        "character": "Mark",
+        "photo": "https://image.tmdb.org/t/p/w500/3N5vbiVkSvtY0SbWhFmndt9jWTZ.jpg"
+      },
+      {
+        "name": "Barbara Rhoades",
+        "character": "Donna",
+        "photo": "https://image.tmdb.org/t/p/w500/73MpFvk2YELp13jr6F4cPSx4S4B.jpg"
+      },
+      {
+        "name": "Theresa Merritt",
+        "character": "Mrs. Crosby",
+        "photo": "https://image.tmdb.org/t/p/w500/nPr9sAu3x2W4XvitP2cs3bHuyKy.jpg"
+      },
+      {
+        "name": "Michael Shawn",
+        "character": "Ronnie"
+      },
+      {
+        "name": "Patricia Pearcy",
+        "character": "Rhonda",
+        "photo": "https://image.tmdb.org/t/p/w500/fGilDDHHZpsG3prg7PympBYdddX.jpg"
+      },
+      {
+        "name": "Gene Castle",
+        "character": "Assistant Choreographer"
+      },
+      {
+        "name": "Marilyn Sokol",
+        "character": "Linda",
+        "photo": "https://image.tmdb.org/t/p/w500/ajvhG94d6uQ51YESTKRRROeWmTT.jpg"
+      },
+      {
+        "name": "Anita Dangler",
+        "character": "Mrs. Morganweiss",
+        "photo": "https://image.tmdb.org/t/p/w500/uUcg5itKyNuNc7dbtYv4FoOP9z3.jpg"
+      },
+      {
+        "name": "Victoria Boothby",
+        "character": "Mrs. Bodine",
+        "photo": "https://image.tmdb.org/t/p/w500/dDDaQXqbTmL28okBuXrEQSVgcEq.jpg"
+      }
+    ],
+    "director": [
+      "Herbert Ross"
+    ]
   }
 }

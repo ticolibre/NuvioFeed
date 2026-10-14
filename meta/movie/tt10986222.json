@@ -17,6 +17,83 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Joaquin Phoenix",
+      "Gaby Hoffmann",
+      "Woody Norman",
+      "Scoot McNairy",
+      "Molly Webster",
+      "Jaboukie Young-White",
+      "Deborah Strang",
+      "Sunni Patterson",
+      "Jenny Eliscu",
+      "Mary Passeri",
+      "Brandon Rush",
+      "Brey'on Shaw"
+    ],
+    "app_cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Johnny",
+        "photo": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+      },
+      {
+        "name": "Gaby Hoffmann",
+        "character": "Viv",
+        "photo": "https://image.tmdb.org/t/p/w500/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+      },
+      {
+        "name": "Woody Norman",
+        "character": "Jesse",
+        "photo": "https://image.tmdb.org/t/p/w500/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg"
+      },
+      {
+        "name": "Scoot McNairy",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+      },
+      {
+        "name": "Molly Webster",
+        "character": "Roxanne",
+        "photo": "https://image.tmdb.org/t/p/w500/rpeS8Lwo4Tkxi7BNviaTLwlQopN.jpg"
+      },
+      {
+        "name": "Jaboukie Young-White",
+        "character": "Fern",
+        "photo": "https://image.tmdb.org/t/p/w500/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+      },
+      {
+        "name": "Deborah Strang",
+        "character": "Carol",
+        "photo": "https://image.tmdb.org/t/p/w500/vpJd4rXOsM00uidUGA2rSaDjl1J.jpg"
+      },
+      {
+        "name": "Sunni Patterson",
+        "character": "Sunni"
+      },
+      {
+        "name": "Jenny Eliscu",
+        "character": "Waitress",
+        "photo": "https://image.tmdb.org/t/p/w500/6no4A9gxaLWgUX3RHYpCIGeLMOc.jpg"
+      },
+      {
+        "name": "Mary Passeri",
+        "character": "Behavioral Center Nurse",
+        "photo": "https://image.tmdb.org/t/p/w500/2YbNWDTvuKLSECBxJkEz9cissdo.jpg"
+      },
+      {
+        "name": "Brandon Rush",
+        "character": "ER Nurse",
+        "photo": "https://image.tmdb.org/t/p/w500/n8VXf1R9KkmpErgIoQIgACni92N.jpg"
+      },
+      {
+        "name": "Brey'on Shaw",
+        "character": "Brey'on / New Orleans Interviewee"
+      }
+    ],
+    "director": [
+      "Mike Mills"
+    ]
   }
 }

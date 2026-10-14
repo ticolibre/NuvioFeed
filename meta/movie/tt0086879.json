@@ -19,6 +19,83 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge",
+      "Simon Callow",
+      "Roy Dotrice",
+      "Christine Ebersole",
+      "Jeffrey Jones",
+      "Charles Kay",
+      "Kenny Baker",
+      "Lisbeth Bartlett",
+      "Barbara Bryne",
+      "Martin Cavani"
+    ],
+    "app_cast": [
+      {
+        "name": "F. Murray Abraham",
+        "character": "Antonio Salieri",
+        "photo": "https://image.tmdb.org/t/p/w500/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "Tom Hulce",
+        "character": "Wolfgang Amadeus Mozart",
+        "photo": "https://image.tmdb.org/t/p/w500/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+      },
+      {
+        "name": "Elizabeth Berridge",
+        "character": "Constanze Mozart",
+        "photo": "https://image.tmdb.org/t/p/w500/suxET9OQSH3rA9hdoblxMdG1T4L.jpg"
+      },
+      {
+        "name": "Simon Callow",
+        "character": "Emanuel Schikaneder",
+        "photo": "https://image.tmdb.org/t/p/w500/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+      },
+      {
+        "name": "Roy Dotrice",
+        "character": "Leopold Mozart",
+        "photo": "https://image.tmdb.org/t/p/w500/etXS22XFmYmHiQ7RDYf72pPO4fp.jpg"
+      },
+      {
+        "name": "Christine Ebersole",
+        "character": "Katerina Cavalieri",
+        "photo": "https://image.tmdb.org/t/p/w500/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
+      },
+      {
+        "name": "Jeffrey Jones",
+        "character": "Emperor Joseph II",
+        "photo": "https://image.tmdb.org/t/p/w500/2vlQDwmMlAAEKqdFIey0liR0T1E.jpg"
+      },
+      {
+        "name": "Charles Kay",
+        "character": "Count Orsini-Rosenberg",
+        "photo": "https://image.tmdb.org/t/p/w500/itrjpPBP313mCdyk86YPLmBMPqZ.jpg"
+      },
+      {
+        "name": "Kenny Baker",
+        "character": "Parody Commendatore",
+        "photo": "https://image.tmdb.org/t/p/w500/kWwso57V7fr0jWnHfknlxxq7XXy.jpg"
+      },
+      {
+        "name": "Lisbeth Bartlett",
+        "character": "Papagena"
+      },
+      {
+        "name": "Barbara Bryne",
+        "character": "Frau Weber",
+        "photo": "https://image.tmdb.org/t/p/w500/4sjRuLLWfIsn0xctsznV2zteJfO.jpg"
+      },
+      {
+        "name": "Martin Cavani",
+        "character": "Young Salieri"
+      }
+    ],
+    "director": [
+      "Miloš Forman"
+    ]
   }
 }

@@ -18,6 +18,83 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden",
+      "Keenan Wynn",
+      "Slim Pickens",
+      "Peter Bull",
+      "James Earl Jones",
+      "Tracy Reed",
+      "Jack Creley",
+      "Frank Berry",
+      "Robert O'Neil",
+      "Glenn Beck"
+    ],
+    "app_cast": [
+      {
+        "name": "Peter Sellers",
+        "character": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
+        "photo": "https://image.tmdb.org/t/p/w500/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg"
+      },
+      {
+        "name": "George C. Scott",
+        "character": "General 'Buck' Turgidson",
+        "photo": "https://image.tmdb.org/t/p/w500/iZON8v2ExgNzY943W0UDWXeRZrz.jpg"
+      },
+      {
+        "name": "Sterling Hayden",
+        "character": "Brigadier General Jack D. Ripper",
+        "photo": "https://image.tmdb.org/t/p/w500/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg"
+      },
+      {
+        "name": "Keenan Wynn",
+        "character": "Colonel Bat Guano",
+        "photo": "https://image.tmdb.org/t/p/w500/bO88300vMddcIXuRZvMm5QLXdr.jpg"
+      },
+      {
+        "name": "Slim Pickens",
+        "character": "Major \"King\" Kong",
+        "photo": "https://image.tmdb.org/t/p/w500/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg"
+      },
+      {
+        "name": "Peter Bull",
+        "character": "Botschafter De Sadesky",
+        "photo": "https://image.tmdb.org/t/p/w500/187FadUt4kYNbrRfWp1sHynmGWW.jpg"
+      },
+      {
+        "name": "James Earl Jones",
+        "character": "Lt. Lothar Zogg",
+        "photo": "https://image.tmdb.org/t/p/w500/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+      },
+      {
+        "name": "Tracy Reed",
+        "character": "Miss Scott",
+        "photo": "https://image.tmdb.org/t/p/w500/ts9KswPwZfhJQFdp4WBhzPfVJOQ.jpg"
+      },
+      {
+        "name": "Jack Creley",
+        "character": "Mr. Staines"
+      },
+      {
+        "name": "Frank Berry",
+        "character": "Lt. Dietrich"
+      },
+      {
+        "name": "Robert O'Neil",
+        "character": "Adm. Randolph",
+        "photo": "https://image.tmdb.org/t/p/w500/fnDJp50Y1Wd1XareVU5QlgAVsDj.jpg"
+      },
+      {
+        "name": "Glenn Beck",
+        "character": "Lt. Kivel",
+        "photo": "https://image.tmdb.org/t/p/w500/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg"
+      }
+    ],
+    "director": [
+      "Stanley Kubrick"
+    ]
   }
 }

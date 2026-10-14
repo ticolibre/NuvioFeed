@@ -17,6 +17,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Charles Laughton",
+      "Mary Boland",
+      "Charles Ruggles",
+      "Zasu Pitts",
+      "Roland Young",
+      "Leila Hyams",
+      "Maude Eburne",
+      "Lucien Littlefield",
+      "Leota Lorraine",
+      "James Burke",
+      "Dell Henderson",
+      "Clarence Wilson"
+    ],
+    "app_cast": [
+      {
+        "name": "Charles Laughton",
+        "character": "Marmaduke Ruggles",
+        "photo": "https://image.tmdb.org/t/p/w500/lhk6flmWDZMOLwq8VILMD6jH71F.jpg"
+      },
+      {
+        "name": "Mary Boland",
+        "character": "Effie Floud",
+        "photo": "https://image.tmdb.org/t/p/w500/7eB9G2LeQGzocsCNQc6jIsTw9XH.jpg"
+      },
+      {
+        "name": "Charles Ruggles",
+        "character": "Egbert Floud",
+        "photo": "https://image.tmdb.org/t/p/w500/auirQUnJ5kKBTl2p6kHtkJBNeo1.jpg"
+      },
+      {
+        "name": "Zasu Pitts",
+        "character": "Mrs. Judson",
+        "photo": "https://image.tmdb.org/t/p/w500/yzz6JRsLsmciHcsv7lEigYy2cEy.jpg"
+      },
+      {
+        "name": "Roland Young",
+        "character": "Earl of Burnstead",
+        "photo": "https://image.tmdb.org/t/p/w500/hme2CvDcGqdZEsPKcdvhjgEvvDl.jpg"
+      },
+      {
+        "name": "Leila Hyams",
+        "character": "Nell Kenner",
+        "photo": "https://image.tmdb.org/t/p/w500/opmYXK7fBjtP7NWqMMffGQzjw1U.jpg"
+      },
+      {
+        "name": "Maude Eburne",
+        "character": "'Ma' Pettingill",
+        "photo": "https://image.tmdb.org/t/p/w500/ijQRIZzSXnt53lPHUFpjDRLpnEZ.jpg"
+      },
+      {
+        "name": "Lucien Littlefield",
+        "character": "Charles Belknap-Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/65jnSJmU2BC4Jrpg2Nfg6glU6wN.jpg"
+      },
+      {
+        "name": "Leota Lorraine",
+        "character": "Mrs. Belknap-Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/aDUkQFvZayNAM9Q4qkaKJ8PMPdt.jpg"
+      },
+      {
+        "name": "James Burke",
+        "character": "Jeff Tuttle",
+        "photo": "https://image.tmdb.org/t/p/w500/6xXAL2XkRoowVkxtreZjFs5tjLY.jpg"
+      },
+      {
+        "name": "Dell Henderson",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/gA4BPbRHPSvI16n1QcRlAd3gmSo.jpg"
+      },
+      {
+        "name": "Clarence Wilson",
+        "character": "Jake Henshaw",
+        "photo": "https://image.tmdb.org/t/p/w500/zi37Pkxd7IsNFjgdbbkK8apgtmr.jpg"
+      }
+    ],
+    "director": [
+      "Leo McCarey"
+    ]
   }
 }

@@ -19,6 +19,60 @@
           "rating": "5.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Villard",
+      "Susan Dey",
+      "Elaine Giftos",
+      "Elizabeth Gorcey",
+      "David Clennon",
+      "Marianne Muellerleile",
+      "Johnna Johnson",
+      "Jack Carter"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Villard",
+        "character": "Dick Kendred",
+        "photo": "https://image.tmdb.org/t/p/w500/zGuezgaC1YdQhPMpv1oA8VZa1mv.jpg"
+      },
+      {
+        "name": "Susan Dey",
+        "character": "Diane",
+        "photo": "https://image.tmdb.org/t/p/w500/6mKVPfW5rSSI39XORUEP8WuhOUC.jpg"
+      },
+      {
+        "name": "Elaine Giftos",
+        "character": "Sheila Dibble",
+        "photo": "https://image.tmdb.org/t/p/w500/vBLakXjGuxOF94ujs7O4z6YOTjH.jpg"
+      },
+      {
+        "name": "Elizabeth Gorcey",
+        "character": "Haley Dibble",
+        "photo": "https://image.tmdb.org/t/p/w500/dtJfdomvik5F5jUuHER9YeTNyXC.jpg"
+      },
+      {
+        "name": "David Clennon",
+        "character": "Lars",
+        "photo": "https://image.tmdb.org/t/p/w500/jLOf8nYolcb4P8LUDOW7QK5Y9pH.jpg"
+      },
+      {
+        "name": "Marianne Muellerleile",
+        "character": "Betty Ball",
+        "photo": "https://image.tmdb.org/t/p/w500/8mlAV0ChK35WXQrnlKoEzKNNrFR.jpg"
+      },
+      {
+        "name": "Johnna Johnson",
+        "character": "Lottie"
+      },
+      {
+        "name": "Jack Carter",
+        "character": "Samsa",
+        "photo": "https://image.tmdb.org/t/p/w500/pyHTez7ynU1DzNnkOIDGIrP7Dkw.jpg"
+      }
+    ],
+    "director": [
+      "Gary Walkow"
+    ]
   }
 }

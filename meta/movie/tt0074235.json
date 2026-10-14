@@ -18,6 +18,80 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "David Carradine",
+      "Ronny Cox",
+      "Melinda Dillon",
+      "Gail Strickland",
+      "John Lehne",
+      "Ji-Tu Cumbuka",
+      "Randy Quaid",
+      "Elizabeth Macey",
+      "Susan Vaill",
+      "Sarah Vaill",
+      "Alexandra Mock",
+      "Kimberly Mock"
+    ],
+    "app_cast": [
+      {
+        "name": "David Carradine",
+        "character": "Woody Guthrie",
+        "photo": "https://image.tmdb.org/t/p/w500/1X2GlkMKS9FIG1kGou7o6LRqAjz.jpg"
+      },
+      {
+        "name": "Ronny Cox",
+        "character": "Ozark Bule",
+        "photo": "https://image.tmdb.org/t/p/w500/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
+      },
+      {
+        "name": "Melinda Dillon",
+        "character": "Mary / Memphis Sue",
+        "photo": "https://image.tmdb.org/t/p/w500/biM3R6qURBprG9U8tIvpOk8WjOw.jpg"
+      },
+      {
+        "name": "Gail Strickland",
+        "character": "Pauline",
+        "photo": "https://image.tmdb.org/t/p/w500/nvSOOk3P1VQsgxC3FOYki5JIlF8.jpg"
+      },
+      {
+        "name": "John Lehne",
+        "character": "Locke",
+        "photo": "https://image.tmdb.org/t/p/w500/rOg5q8Mn16GcpjqB2WVaLc6oKHt.jpg"
+      },
+      {
+        "name": "Ji-Tu Cumbuka",
+        "character": "Slim Snedeger",
+        "photo": "https://image.tmdb.org/t/p/w500/aPxkduleB0dlJXZRPvTW59kCadD.jpg"
+      },
+      {
+        "name": "Randy Quaid",
+        "character": "Luther Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/umanJS5Qg5BNx9t0Xndi4ffI6lm.jpg"
+      },
+      {
+        "name": "Elizabeth Macey",
+        "character": "Liz"
+      },
+      {
+        "name": "Susan Vaill",
+        "character": "Gwen Guthrie"
+      },
+      {
+        "name": "Sarah Vaill",
+        "character": "Gwen Guthrie"
+      },
+      {
+        "name": "Alexandra Mock",
+        "character": "Sue Guthrie"
+      },
+      {
+        "name": "Kimberly Mock",
+        "character": "Sue Guthrie"
+      }
+    ],
+    "director": [
+      "Hal Ashby"
+    ]
   }
 }

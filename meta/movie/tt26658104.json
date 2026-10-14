@@ -18,6 +18,84 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "DeWanda Wise",
+      "Taegen Burns",
+      "Pyper Braun",
+      "Betty Buckley",
+      "Tom Payne",
+      "Veronica Falcón",
+      "Samuel Salary",
+      "Matthew Sato",
+      "Alix Angelis",
+      "Wanetah Walmsley",
+      "Rhythm Hurd",
+      "Shawn Sanz"
+    ],
+    "app_cast": [
+      {
+        "name": "DeWanda Wise",
+        "character": "Jessica",
+        "photo": "https://image.tmdb.org/t/p/w500/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+      },
+      {
+        "name": "Taegen Burns",
+        "character": "Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/q76Ee8hVgC0jw6vxLMi5gBjOg0x.jpg"
+      },
+      {
+        "name": "Pyper Braun",
+        "character": "Alice",
+        "photo": "https://image.tmdb.org/t/p/w500/i11kLQVkvEM1uEaX5O5rUVJglcG.jpg"
+      },
+      {
+        "name": "Betty Buckley",
+        "character": "Gloria",
+        "photo": "https://image.tmdb.org/t/p/w500/vgEah6IHjirZGXjuGhTA1Wp9aQT.jpg"
+      },
+      {
+        "name": "Tom Payne",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/w500/dvQk9ewR7EuUEVuYANg3AmYsGo2.jpg"
+      },
+      {
+        "name": "Veronica Falcón",
+        "character": "Dr. Alana Soto",
+        "photo": "https://image.tmdb.org/t/p/w500/uanObSCuuyirFuncV7pBrja2qWT.jpg"
+      },
+      {
+        "name": "Samuel Salary",
+        "character": "Ben",
+        "photo": "https://image.tmdb.org/t/p/w500/z4Nn7dAEf98kRAVviQnnkNpQRow.jpg"
+      },
+      {
+        "name": "Matthew Sato",
+        "character": "Liam",
+        "photo": "https://image.tmdb.org/t/p/w500/6yjCwSTsiRHiE7tSQzvxoKOPw1Y.jpg"
+      },
+      {
+        "name": "Alix Angelis",
+        "character": "Samantha",
+        "photo": "https://image.tmdb.org/t/p/w500/a62IbDYDwmGU361QkbgpMpdCgbu.jpg"
+      },
+      {
+        "name": "Wanetah Walmsley",
+        "character": "Barbara",
+        "photo": "https://image.tmdb.org/t/p/w500/rjkTACZM6IBE0FMsjbfJ4iETfRG.jpg"
+      },
+      {
+        "name": "Rhythm Hurd",
+        "character": "Young Jessica"
+      },
+      {
+        "name": "Shawn Sanz",
+        "character": "Officer",
+        "photo": "https://image.tmdb.org/t/p/w500/a089rp09ExJCXwIbRp7aumRR01o.jpg"
+      }
+    ],
+    "director": [
+      "Jeff Wadlow"
+    ]
   }
 }

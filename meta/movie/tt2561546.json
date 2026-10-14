@@ -18,6 +18,84 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Addison Timlin",
+      "Veronica Cartwright",
+      "Travis Tope",
+      "Anthony Anderson",
+      "Joshua Leonard",
+      "Denis O'Hare",
+      "Spencer Treat Clark",
+      "Andy Abele",
+      "Gary Cole",
+      "Edward Herrmann",
+      "Ed Lauter",
+      "Arabella Field"
+    ],
+    "app_cast": [
+      {
+        "name": "Addison Timlin",
+        "character": "Jami",
+        "photo": "https://image.tmdb.org/t/p/w500/ropQg0oZZP0R3xkWxYNdMx8glHi.jpg"
+      },
+      {
+        "name": "Veronica Cartwright",
+        "character": "Lillian",
+        "photo": "https://image.tmdb.org/t/p/w500/1CiknHO8ssMM4bWPsIMMzCTVHeB.jpg"
+      },
+      {
+        "name": "Travis Tope",
+        "character": "Nick",
+        "photo": "https://image.tmdb.org/t/p/w500/e70wistUzfGRVW7hvOZMEaK77ar.jpg"
+      },
+      {
+        "name": "Anthony Anderson",
+        "character": "Lone Wolf Morales",
+        "photo": "https://image.tmdb.org/t/p/w500/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+      },
+      {
+        "name": "Joshua Leonard",
+        "character": "Deputy Foster",
+        "photo": "https://image.tmdb.org/t/p/w500/druE5TIt3eARRwWFDA0punUBGvs.jpg"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "Charles B. Pierce, Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+      },
+      {
+        "name": "Spencer Treat Clark",
+        "character": "Corey",
+        "photo": "https://image.tmdb.org/t/p/w500/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+      },
+      {
+        "name": "Andy Abele",
+        "character": "Sackhead"
+      },
+      {
+        "name": "Gary Cole",
+        "character": "Chief Deputy Tillman",
+        "photo": "https://image.tmdb.org/t/p/w500/uWsqIlfHbyxkmBJLmq2mR93musF.jpg"
+      },
+      {
+        "name": "Edward Herrmann",
+        "character": "Reverend Cartwright",
+        "photo": "https://image.tmdb.org/t/p/w500/ov33sPPuTzw21KYwAkkAB8AmjIV.jpg"
+      },
+      {
+        "name": "Ed Lauter",
+        "character": "Sheriff Underwood",
+        "photo": "https://image.tmdb.org/t/p/w500/3oWs1Di6KipqQgIg97y4emyyRaE.jpg"
+      },
+      {
+        "name": "Arabella Field",
+        "character": "Dr. Kelly",
+        "photo": "https://image.tmdb.org/t/p/w500/mKWXvd31RH0MNZqIiXBBHPyrtkF.jpg"
+      }
+    ],
+    "director": [
+      "Alfonso Gomez-Rejon"
+    ]
   }
 }

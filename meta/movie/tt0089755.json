@@ -19,6 +19,84 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Redford",
+      "Meryl Streep",
+      "Klaus Maria Brandauer",
+      "Michael Kitchen",
+      "Malick Bowens",
+      "Michael Gough",
+      "Suzanna Hamilton",
+      "Rachel Kempson",
+      "Graham Crowden",
+      "Leslie Phillips",
+      "Shane Rimmer",
+      "Joseph Thiaka"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Redford",
+        "character": "Denys Finch Hatton",
+        "photo": "https://image.tmdb.org/t/p/w500/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Karen Blixen",
+        "photo": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Klaus Maria Brandauer",
+        "character": "Bror / Hans von Blixen-Finecke",
+        "photo": "https://image.tmdb.org/t/p/w500/mE4polIdi4QdzDvIuHgfM37n7l9.jpg"
+      },
+      {
+        "name": "Michael Kitchen",
+        "character": "Berkeley Cole",
+        "photo": "https://image.tmdb.org/t/p/w500/gssCZjXmRcRhuOrGOR9cwd6TcXj.jpg"
+      },
+      {
+        "name": "Malick Bowens",
+        "character": "Farah Aden",
+        "photo": "https://image.tmdb.org/t/p/w500/lcib1dnY0bDLfb2VbjDIOauxCrq.jpg"
+      },
+      {
+        "name": "Michael Gough",
+        "character": "Lord Delamere",
+        "photo": "https://image.tmdb.org/t/p/w500/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+      },
+      {
+        "name": "Suzanna Hamilton",
+        "character": "Felicity Spurway",
+        "photo": "https://image.tmdb.org/t/p/w500/uYbzBDUwcGSD2V7QndnxLsAOOp6.jpg"
+      },
+      {
+        "name": "Rachel Kempson",
+        "character": "Lady Belfield",
+        "photo": "https://image.tmdb.org/t/p/w500/eghAORBNMHogskqugKjgF5XFCwM.jpg"
+      },
+      {
+        "name": "Graham Crowden",
+        "character": "Lord Belfield",
+        "photo": "https://image.tmdb.org/t/p/w500/QNv7JeolqotvkcphWnlYH8888n.jpg"
+      },
+      {
+        "name": "Leslie Phillips",
+        "character": "Sir Joseph",
+        "photo": "https://image.tmdb.org/t/p/w500/xD1ud9ud75GRRQz2EDATyE7NhUV.jpg"
+      },
+      {
+        "name": "Shane Rimmer",
+        "character": "Belknap, farm manager",
+        "photo": "https://image.tmdb.org/t/p/w500/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+      },
+      {
+        "name": "Joseph Thiaka",
+        "character": "Kamante"
+      }
+    ],
+    "director": [
+      "Sydney Pollack"
+    ]
   }
 }

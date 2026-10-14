@@ -17,6 +17,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman",
+      "Jaimz Woolvett",
+      "Richard Harris",
+      "Saul Rubinek",
+      "Frances Fisher",
+      "Anna Thomson",
+      "David Mucci",
+      "Rob Campbell",
+      "Anthony James",
+      "Tara Frederick"
+    ],
+    "app_cast": [
+      {
+        "name": "Clint Eastwood",
+        "character": "William Munny",
+        "photo": "https://image.tmdb.org/t/p/w500/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "character": "'Little' Bill Daggett",
+        "photo": "https://image.tmdb.org/t/p/w500/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Ned Logan",
+        "photo": "https://image.tmdb.org/t/p/w500/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+      },
+      {
+        "name": "Jaimz Woolvett",
+        "character": "The Schofield Kid",
+        "photo": "https://image.tmdb.org/t/p/w500/lpK7rD9lM1iIUt5BCV1b6vLo37l.jpg"
+      },
+      {
+        "name": "Richard Harris",
+        "character": "English Bob",
+        "photo": "https://image.tmdb.org/t/p/w500/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+      },
+      {
+        "name": "Saul Rubinek",
+        "character": "W.W. Beauchamp",
+        "photo": "https://image.tmdb.org/t/p/w500/vW4ERsjupcc9u1ipDR7w6h6sphe.jpg"
+      },
+      {
+        "name": "Frances Fisher",
+        "character": "Strawberry Alice",
+        "photo": "https://image.tmdb.org/t/p/w500/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+      },
+      {
+        "name": "Anna Thomson",
+        "character": "Delilah Fitzgerald",
+        "photo": "https://image.tmdb.org/t/p/w500/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+      },
+      {
+        "name": "David Mucci",
+        "character": "Quick Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/ZAjBCrmFlBljs5smPziWW9EstX.jpg"
+      },
+      {
+        "name": "Rob Campbell",
+        "character": "Davey Bunting",
+        "photo": "https://image.tmdb.org/t/p/w500/a4hvp2hUxheCuVGCyo2ewBYMhFE.jpg"
+      },
+      {
+        "name": "Anthony James",
+        "character": "Skinny Dubois",
+        "photo": "https://image.tmdb.org/t/p/w500/8gaLUUDc0JBfIzyOhiJ6sa0JgC2.jpg"
+      },
+      {
+        "name": "Tara Frederick",
+        "character": "Little Sue",
+        "photo": "https://image.tmdb.org/t/p/w500/cJpg809tID64VK7VUA3ZCOTKWv8.jpg"
+      }
+    ],
+    "director": [
+      "Clint Eastwood"
+    ]
   }
 }

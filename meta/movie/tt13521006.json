@@ -19,6 +19,85 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Joaquin Phoenix",
+      "Patti LuPone",
+      "Amy Ryan",
+      "Nathan Lane",
+      "Kylie Rogers",
+      "Denis Ménochet",
+      "Parker Posey",
+      "Zoe Lister-Jones",
+      "Armen Nahapetian",
+      "Julia Antonelli",
+      "Stephen McKinley Henderson",
+      "Richard Kind"
+    ],
+    "app_cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Beau Wassermann",
+        "photo": "https://image.tmdb.org/t/p/w500/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+      },
+      {
+        "name": "Patti LuPone",
+        "character": "Mona Wassermann",
+        "photo": "https://image.tmdb.org/t/p/w500/mbNAKaSYSTGeigxeFwUQfvoUXW0.jpg"
+      },
+      {
+        "name": "Amy Ryan",
+        "character": "Grace",
+        "photo": "https://image.tmdb.org/t/p/w500/rE0YBJr3R6GcKu6Gw4K2lGW0ctC.jpg"
+      },
+      {
+        "name": "Nathan Lane",
+        "character": "Roger",
+        "photo": "https://image.tmdb.org/t/p/w500/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+      },
+      {
+        "name": "Kylie Rogers",
+        "character": "Toni",
+        "photo": "https://image.tmdb.org/t/p/w500/9c9CPWTT8a2GXMab8vuSxCJ0CcW.jpg"
+      },
+      {
+        "name": "Denis Ménochet",
+        "character": "Jeeves",
+        "photo": "https://image.tmdb.org/t/p/w500/qpCPmm12kbzMKniYF6iKmKLZCjY.jpg"
+      },
+      {
+        "name": "Parker Posey",
+        "character": "Elaine Bray",
+        "photo": "https://image.tmdb.org/t/p/w500/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+      },
+      {
+        "name": "Zoe Lister-Jones",
+        "character": "Young Mona",
+        "photo": "https://image.tmdb.org/t/p/w500/hiuMwG45QCg0eUzhO15jyAFzx1i.jpg"
+      },
+      {
+        "name": "Armen Nahapetian",
+        "character": "Teen Beau",
+        "photo": "https://image.tmdb.org/t/p/w500/7zwTvhiDbpX5WGnW3ktRr7HSDrw.jpg"
+      },
+      {
+        "name": "Julia Antonelli",
+        "character": "Teen Elaine",
+        "photo": "https://image.tmdb.org/t/p/w500/pbKAJa081o5pSi9i5syoVObpytJ.jpg"
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "character": "Therapist",
+        "photo": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+      },
+      {
+        "name": "Richard Kind",
+        "character": "Dr. Cohen",
+        "photo": "https://image.tmdb.org/t/p/w500/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+      }
+    ],
+    "director": [
+      "Ari Aster"
+    ]
   }
 }

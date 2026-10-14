@@ -18,6 +18,83 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Alia Shawkat",
+      "Zahra Alzubaidi",
+      "Callum Turner",
+      "Cristian Valle",
+      "Toby Nichols",
+      "Gil Perez-Abraham",
+      "June Carryl",
+      "Shaholly Ayers",
+      "Tim Blake Nelson",
+      "Allius Barnes",
+      "Dash Melrose",
+      "Gilberto Ortiz"
+    ],
+    "app_cast": [
+      {
+        "name": "Alia Shawkat",
+        "character": "Fayruz",
+        "photo": "https://image.tmdb.org/t/p/w500/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg"
+      },
+      {
+        "name": "Zahra Alzubaidi",
+        "character": "Noor",
+        "photo": "https://image.tmdb.org/t/p/w500/aPKpcveUQYLfSzRNYOQw50FJOn5.jpg"
+      },
+      {
+        "name": "Callum Turner",
+        "character": "Abu Dice",
+        "photo": "https://image.tmdb.org/t/p/w500/b9Sz10HU71SQ5wrx7CfWPKQ4vDJ.jpg"
+      },
+      {
+        "name": "Cristian Valle",
+        "character": "Ernesto"
+      },
+      {
+        "name": "Toby Nichols",
+        "character": "Private Pardo",
+        "photo": "https://image.tmdb.org/t/p/w500/3IqdEiAtJGeSKyKx9a5EAF3oWRq.jpg"
+      },
+      {
+        "name": "Gil Perez-Abraham",
+        "character": "Private Wyatt",
+        "photo": "https://image.tmdb.org/t/p/w500/qHSIqXt9uZtrHLv7vhAnQpxcLrw.jpg"
+      },
+      {
+        "name": "June Carryl",
+        "character": "Coco (aka Conrad)",
+        "photo": "https://image.tmdb.org/t/p/w500/7p0lxKz4KGfUPc8r5q5j7N8vy5N.jpg"
+      },
+      {
+        "name": "Shaholly Ayers",
+        "character": "Maria",
+        "photo": "https://image.tmdb.org/t/p/w500/uJByKjhWSCoA8knmm7l5fZl0ZKu.jpg"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "Mr. Speaker (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+      },
+      {
+        "name": "Allius Barnes",
+        "character": "Private Plant"
+      },
+      {
+        "name": "Dash Melrose",
+        "character": "Private Freeburn",
+        "photo": "https://image.tmdb.org/t/p/w500/nDzEpwJSqlHpU0v4fS87jptWOzn.jpg"
+      },
+      {
+        "name": "Gilberto Ortiz",
+        "character": "Private iPod",
+        "photo": "https://image.tmdb.org/t/p/w500/abVrNhEYYUhzMyQzBRTO1xptROf.jpg"
+      }
+    ],
+    "director": [
+      "Hailey Benton Gates"
+    ]
   }
 }

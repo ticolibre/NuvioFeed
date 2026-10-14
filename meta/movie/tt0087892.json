@@ -19,6 +19,84 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Judy Davis",
+      "Victor Banerjee",
+      "Peggy Ashcroft",
+      "James Fox",
+      "Alec Guinness",
+      "Nigel Havers",
+      "Richard Wilson",
+      "Antonia Pemberton",
+      "Michael Culver",
+      "Art Malik",
+      "Saeed Jaffrey",
+      "Clive Swift"
+    ],
+    "app_cast": [
+      {
+        "name": "Judy Davis",
+        "character": "Adela Quested",
+        "photo": "https://image.tmdb.org/t/p/w500/yAwsKkca91QJdsf1suUm637mwUx.jpg"
+      },
+      {
+        "name": "Victor Banerjee",
+        "character": "Dr. Aziz H. Ahmed",
+        "photo": "https://image.tmdb.org/t/p/w500/rCwZMPlHUCnE6y4BRxzkVpx8NCx.jpg"
+      },
+      {
+        "name": "Peggy Ashcroft",
+        "character": "Mrs. Moore",
+        "photo": "https://image.tmdb.org/t/p/w500/bF2GD1brYDKT17j25ANkZQR739R.jpg"
+      },
+      {
+        "name": "James Fox",
+        "character": "Richard Fielding",
+        "photo": "https://image.tmdb.org/t/p/w500/fO11c8zUNNgNhYu4aLxgYiBoo6R.jpg"
+      },
+      {
+        "name": "Alec Guinness",
+        "character": "Professor Godbole",
+        "photo": "https://image.tmdb.org/t/p/w500/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
+      },
+      {
+        "name": "Nigel Havers",
+        "character": "Ronny Heaslop",
+        "photo": "https://image.tmdb.org/t/p/w500/75jjShxtJnsvWu4QwiYPjNPQjsf.jpg"
+      },
+      {
+        "name": "Richard Wilson",
+        "character": "Mr. Turton",
+        "photo": "https://image.tmdb.org/t/p/w500/e0W6gWfmNOTiHPmxGWyjsQTrUHF.jpg"
+      },
+      {
+        "name": "Antonia Pemberton",
+        "character": "Mrs. Turton"
+      },
+      {
+        "name": "Michael Culver",
+        "character": "Major McBryde",
+        "photo": "https://image.tmdb.org/t/p/w500/t5UhbqU3FrfpXHs7UsHzF17CfTB.jpg"
+      },
+      {
+        "name": "Art Malik",
+        "character": "Mahmoud Ali",
+        "photo": "https://image.tmdb.org/t/p/w500/hZmb9wWsteP21QA29PHEk6NlOh3.jpg"
+      },
+      {
+        "name": "Saeed Jaffrey",
+        "character": "Hamidullah",
+        "photo": "https://image.tmdb.org/t/p/w500/vfESx8h4d8xfGfGasqreTdJgYQP.jpg"
+      },
+      {
+        "name": "Clive Swift",
+        "character": "Major Callendar",
+        "photo": "https://image.tmdb.org/t/p/w500/sPd0mGH6NPvlTuRsHre0schakjz.jpg"
+      }
+    ],
+    "director": [
+      "David Lean"
+    ]
   }
 }

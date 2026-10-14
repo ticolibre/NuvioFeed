@@ -18,6 +18,83 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "John Mills",
+      "Valerie Hobson",
+      "Tony Wager",
+      "Jean Simmons",
+      "Bernard Miles",
+      "Francis L. Sullivan",
+      "Finlay Currie",
+      "Martita Hunt",
+      "Alec Guinness",
+      "Ivor Barnard",
+      "Freda Jackson",
+      "Eileen Erskine"
+    ],
+    "app_cast": [
+      {
+        "name": "John Mills",
+        "character": "Pip",
+        "photo": "https://image.tmdb.org/t/p/w500/jMqhI1NeTwgdKsrj9vMshk1r5hP.jpg"
+      },
+      {
+        "name": "Valerie Hobson",
+        "character": "Estella",
+        "photo": "https://image.tmdb.org/t/p/w500/1sfD32ahPZwDIcWUIlx4tFG8fnr.jpg"
+      },
+      {
+        "name": "Tony Wager",
+        "character": "Young Pip",
+        "photo": "https://image.tmdb.org/t/p/w500/u3oKC0HAuKPdTiRyZY0SzdvgotS.jpg"
+      },
+      {
+        "name": "Jean Simmons",
+        "character": "Young Estella",
+        "photo": "https://image.tmdb.org/t/p/w500/scbR91Bl4SbfQqhXaH6OfhjxfYt.jpg"
+      },
+      {
+        "name": "Bernard Miles",
+        "character": "Joe Gargery",
+        "photo": "https://image.tmdb.org/t/p/w500/wcg0mbHJEU7IXK5lihpMXEVy0jn.jpg"
+      },
+      {
+        "name": "Francis L. Sullivan",
+        "character": "Mr. Jaggers"
+      },
+      {
+        "name": "Finlay Currie",
+        "character": "Abel Magwitch",
+        "photo": "https://image.tmdb.org/t/p/w500/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+      },
+      {
+        "name": "Martita Hunt",
+        "character": "Miss Havisham",
+        "photo": "https://image.tmdb.org/t/p/w500/aMndarFsZg4gOfkbnZ51qhmJ57H.jpg"
+      },
+      {
+        "name": "Alec Guinness",
+        "character": "Herbert Pocket",
+        "photo": "https://image.tmdb.org/t/p/w500/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
+      },
+      {
+        "name": "Ivor Barnard",
+        "character": "Mr. Wemmick",
+        "photo": "https://image.tmdb.org/t/p/w500/cgkH1MwlmCIzcLg5K2CVRYT13GY.jpg"
+      },
+      {
+        "name": "Freda Jackson",
+        "character": "Mrs. Joe",
+        "photo": "https://image.tmdb.org/t/p/w500/2h9qUpEYnQvnHgJPoKIfCE3spbZ.jpg"
+      },
+      {
+        "name": "Eileen Erskine",
+        "character": "Biddy"
+      }
+    ],
+    "director": [
+      "David Lean"
+    ]
   }
 }

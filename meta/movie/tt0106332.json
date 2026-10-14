@@ -17,6 +17,84 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Leslie Cheung",
+      "Zhang Fengyi",
+      "Gong Li",
+      "Lü Qi",
+      "Ying Da",
+      "Ge You",
+      "Lei Han",
+      "Tong Di",
+      "Yin Zhi",
+      "Ma Mingwei",
+      "Zhao Hailong",
+      "Fei Zhenxiang"
+    ],
+    "app_cast": [
+      {
+        "name": "Leslie Cheung",
+        "character": "Cheng Dieyi / Xiao Douzi",
+        "photo": "https://image.tmdb.org/t/p/w500/6H8gTq1QCB0bD9CGDhrIJITiGVX.jpg"
+      },
+      {
+        "name": "Zhang Fengyi",
+        "character": "Duan Xiaolou / Xiao Shitou",
+        "photo": "https://image.tmdb.org/t/p/w500/9pRpS8hpu5p5vDNDReni5Pp3x2X.jpg"
+      },
+      {
+        "name": "Gong Li",
+        "character": "Juxian",
+        "photo": "https://image.tmdb.org/t/p/w500/kMdN44dyjTRZvagI5nKwbZYwda9.jpg"
+      },
+      {
+        "name": "Lü Qi",
+        "character": "Master Guan",
+        "photo": "https://image.tmdb.org/t/p/w500/7NDhGtNCzSCMGj8VCPxWN571Xdh.jpg"
+      },
+      {
+        "name": "Ying Da",
+        "character": "Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/sVOdfDuj6DPYwAxtX0i2v3VRqE4.jpg"
+      },
+      {
+        "name": "Ge You",
+        "character": "Master Yuan Shiqing",
+        "photo": "https://image.tmdb.org/t/p/w500/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg"
+      },
+      {
+        "name": "Lei Han",
+        "character": "Xiao Si",
+        "photo": "https://image.tmdb.org/t/p/w500/2DbbN0P4tgcOWlC0CAytJDB7s8J.jpg"
+      },
+      {
+        "name": "Tong Di",
+        "character": "Zhang the Eunuch",
+        "photo": "https://image.tmdb.org/t/p/w500/77Vk71EZhJ7bVS7kDfLtU7XssgU.jpg"
+      },
+      {
+        "name": "Yin Zhi",
+        "character": "Teenage Douzi",
+        "photo": "https://image.tmdb.org/t/p/w500/mXYdFxBqknhpBh04yDYrL9BtN2C.jpg"
+      },
+      {
+        "name": "Ma Mingwei",
+        "character": "Young Douzi",
+        "photo": "https://image.tmdb.org/t/p/w500/93sKE8yKv8KHklbvN6S7hlpzIGp.jpg"
+      },
+      {
+        "name": "Zhao Hailong",
+        "character": "Teenage Shitou"
+      },
+      {
+        "name": "Fei Zhenxiang",
+        "character": "Young Shitou",
+        "photo": "https://image.tmdb.org/t/p/w500/FiUHT5pUwwo36Bf9A25IwDDiI1.jpg"
+      }
+    ],
+    "director": [
+      "Chen Kaige"
+    ]
   }
 }

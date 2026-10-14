@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert Taylor",
+      "Deborah Kerr",
+      "Leo Genn",
+      "Peter Ustinov",
+      "Patricia Laffan",
+      "Finlay Currie",
+      "Abraham Sofaer",
+      "Marina Berti",
+      "Buddy Baer",
+      "Felix Aylmer",
+      "Nora Swinburne",
+      "Ralph Truman"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert Taylor",
+        "character": "Marcus Vinicius",
+        "photo": "https://image.tmdb.org/t/p/w500/1CDILPhiOQztlvZwsU55kKBspIV.jpg"
+      },
+      {
+        "name": "Deborah Kerr",
+        "character": "Lygia",
+        "photo": "https://image.tmdb.org/t/p/w500/dHFhOEhHnn5cQjQN29IGRxzoxBP.jpg"
+      },
+      {
+        "name": "Leo Genn",
+        "character": "Petronius",
+        "photo": "https://image.tmdb.org/t/p/w500/2MxHaZXCgxPmHiK4MWn1a3o7qzk.jpg"
+      },
+      {
+        "name": "Peter Ustinov",
+        "character": "Nero",
+        "photo": "https://image.tmdb.org/t/p/w500/brhFhJxwk0zgSB2P2oqMTDOVbmJ.jpg"
+      },
+      {
+        "name": "Patricia Laffan",
+        "character": "Poppaea",
+        "photo": "https://image.tmdb.org/t/p/w500/6Dav33GFiPFaBMQc3zaaCFar2wF.jpg"
+      },
+      {
+        "name": "Finlay Currie",
+        "character": "Peter",
+        "photo": "https://image.tmdb.org/t/p/w500/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+      },
+      {
+        "name": "Abraham Sofaer",
+        "character": "Paul of Tarsus",
+        "photo": "https://image.tmdb.org/t/p/w500/lL867gVDkl47WXe1wTxHuvRyed0.jpg"
+      },
+      {
+        "name": "Marina Berti",
+        "character": "Eunice",
+        "photo": "https://image.tmdb.org/t/p/w500/tz0P08zjrqQd8XnBE966qFmU2Jg.jpg"
+      },
+      {
+        "name": "Buddy Baer",
+        "character": "Ursus",
+        "photo": "https://image.tmdb.org/t/p/w500/9OPQRwTtj3TQZ9lkSTZNWDElwMR.jpg"
+      },
+      {
+        "name": "Felix Aylmer",
+        "character": "Plautius",
+        "photo": "https://image.tmdb.org/t/p/w500/1aTMXytbbImctXD8k4dNKkkMf2N.jpg"
+      },
+      {
+        "name": "Nora Swinburne",
+        "character": "Pomponia",
+        "photo": "https://image.tmdb.org/t/p/w500/5K8cv6cJAFJfdresPBgI1EkOaLH.jpg"
+      },
+      {
+        "name": "Ralph Truman",
+        "character": "Tigellinus",
+        "photo": "https://image.tmdb.org/t/p/w500/1mt0AckZ2jNmOGYROCUNdqnGNAO.jpg"
+      }
+    ],
+    "director": [
+      "Mervyn LeRoy"
+    ]
   }
 }

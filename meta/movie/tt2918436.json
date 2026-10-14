@@ -19,6 +19,85 @@
           "rating": "5.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Mark Duplass",
+      "Olivia Wilde",
+      "Donald Glover",
+      "Evan Peters",
+      "Sarah Bolger",
+      "Amy Aquino",
+      "Ray Wise",
+      "Sean T. Krishnan",
+      "Bruno Gunn",
+      "Ator Tamras",
+      "Emily Kelavos",
+      "James Earl"
+    ],
+    "app_cast": [
+      {
+        "name": "Mark Duplass",
+        "character": "Frank Walton",
+        "photo": "https://image.tmdb.org/t/p/w500/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+      },
+      {
+        "name": "Olivia Wilde",
+        "character": "Zoe McConnell",
+        "photo": "https://image.tmdb.org/t/p/w500/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+      },
+      {
+        "name": "Donald Glover",
+        "character": "Niko",
+        "photo": "https://image.tmdb.org/t/p/w500/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+      },
+      {
+        "name": "Evan Peters",
+        "character": "Clay",
+        "photo": "https://image.tmdb.org/t/p/w500/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
+      },
+      {
+        "name": "Sarah Bolger",
+        "character": "Eva",
+        "photo": "https://image.tmdb.org/t/p/w500/A3K2l5kkqTMQHtAkctzICqtbZMY.jpg"
+      },
+      {
+        "name": "Amy Aquino",
+        "character": "President Dalley",
+        "photo": "https://image.tmdb.org/t/p/w500/59E061EJyEl2CLcBd12p9Vi7q0B.jpg"
+      },
+      {
+        "name": "Ray Wise",
+        "character": "Mr. Wallace",
+        "photo": "https://image.tmdb.org/t/p/w500/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+      },
+      {
+        "name": "Sean T. Krishnan",
+        "character": "Lawyer",
+        "photo": "https://image.tmdb.org/t/p/w500/41UnzzXQWEe1CX5DuIeJvIoeegL.jpg"
+      },
+      {
+        "name": "Bruno Gunn",
+        "character": "Fireman",
+        "photo": "https://image.tmdb.org/t/p/w500/pS3PRTBYRkBYIwJ80mqcf70vXxm.jpg"
+      },
+      {
+        "name": "Ator Tamras",
+        "character": "Burned Figure",
+        "photo": "https://image.tmdb.org/t/p/w500/iCr8LKWyJoldwQ6VnKL87Gqfh7M.jpg"
+      },
+      {
+        "name": "Emily Kelavos",
+        "character": "Little Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/gHLvxp6lbGVW5UPcDeDPb3vjEol.jpg"
+      },
+      {
+        "name": "James Earl",
+        "character": "Security Guard Terrence",
+        "photo": "https://image.tmdb.org/t/p/w500/i3i9NSUKuu8EKtgLrqKiAaz5slD.jpg"
+      }
+    ],
+    "director": [
+      "David Gelb"
+    ]
   }
 }

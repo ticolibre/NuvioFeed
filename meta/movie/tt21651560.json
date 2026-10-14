@@ -18,6 +18,90 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Jackson Kelly",
+      "Jesse LaTourette",
+      "Keanush Tafreshi",
+      "Dashiell Derrickson",
+      "Tybee Diskin",
+      "Verona Blue",
+      "Aminah Nieves",
+      "Kelley Missal",
+      "Melissa Macedo",
+      "Alexia Ioannides",
+      "Isabelle Hahn",
+      "Breana Raquel"
+    ],
+    "app_cast": [
+      {
+        "name": "Jackson Kelly",
+        "character": "Kaleb (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/97Vi3BPbgwesQcmbkp7yiPTZumP.jpg"
+      },
+      {
+        "name": "Jesse LaTourette",
+        "character": "Rachel (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/1hqgIYDlhbp8DmxoqX6xCLlavqq.jpg"
+      },
+      {
+        "name": "Keanush Tafreshi",
+        "character": "Ankur (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/bKb9GNFiUSx4PFNia3vbEXXbUIh.jpg"
+      },
+      {
+        "name": "Dashiell Derrickson",
+        "character": "Chris Carbonara (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/tVqlKiK5gK1PyBd7GSToT6u8k1A.jpg"
+      },
+      {
+        "name": "Tybee Diskin",
+        "character": "RC (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/xhyOI0FSTEMD9TdtY4bDBYSicen.jpg"
+      },
+      {
+        "name": "Verona Blue",
+        "character": "Deirdre (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/eKk1xbQg5eOFIqkWdwTj4ZQRzgv.jpg"
+      },
+      {
+        "name": "Aminah Nieves",
+        "character": "Charissa (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/46axTLlxsQ1QwlEOhsA2HEE6dSN.jpg"
+      },
+      {
+        "name": "Kelley Missal",
+        "character": "Jessie (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/kFGKM6dOq2PoV0DGed3v9Gsz61C.jpg"
+      },
+      {
+        "name": "Melissa Macedo",
+        "character": "Jessie Deux (segment \"Shredding\")",
+        "photo": "https://image.tmdb.org/t/p/w500/apKFhnWaaTQowFyfDOMsCvxxwq0.jpg"
+      },
+      {
+        "name": "Alexia Ioannides",
+        "character": "Lily (segment \"Suicide Bid\")",
+        "photo": "https://image.tmdb.org/t/p/w500/o649JlCOcyfIQT0HejMut24JWtQ.jpg"
+      },
+      {
+        "name": "Isabelle Hahn",
+        "character": "Annie (segment \"Suicide Bid\")",
+        "photo": "https://image.tmdb.org/t/p/w500/nIUKynsaXUTtBTFVsgEe9lrj1a1.jpg"
+      },
+      {
+        "name": "Breana Raquel",
+        "character": "Helen (segment \"Suicide Bid\")",
+        "photo": "https://image.tmdb.org/t/p/w500/bFOytdqsK34vDHG289BDJUT831O.jpg"
+      }
+    ],
+    "director": [
+      "Joseph Winter",
+      "Vanessa Winter",
+      "Tyler MacIntyre",
+      "Johannes Roberts",
+      "Maggie Levin",
+      "Flying Lotus"
+    ]
   }
 }

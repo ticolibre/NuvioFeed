@@ -18,6 +18,83 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Leslie Howard",
+      "Laurence Olivier",
+      "Raymond Massey",
+      "Anton Walbrook",
+      "Eric Portman",
+      "Raymond Lovell",
+      "Richard George",
+      "Niall MacGinnis",
+      "Peter Moore",
+      "John Chandos",
+      "Finlay Currie",
+      "Glynis Johns"
+    ],
+    "app_cast": [
+      {
+        "name": "Leslie Howard",
+        "character": "Philip Armstrong Scott",
+        "photo": "https://image.tmdb.org/t/p/w500/mlD06Vq50FnNvEPI8GcWKZ8C1BG.jpg"
+      },
+      {
+        "name": "Laurence Olivier",
+        "character": "Johnnie, the Trapper",
+        "photo": "https://image.tmdb.org/t/p/w500/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
+      },
+      {
+        "name": "Raymond Massey",
+        "character": "Andy Brock",
+        "photo": "https://image.tmdb.org/t/p/w500/AaKQ16cGkmHj8YLAVpT5wJlIpk9.jpg"
+      },
+      {
+        "name": "Anton Walbrook",
+        "character": "Peter",
+        "photo": "https://image.tmdb.org/t/p/w500/5KahTmwBvjNAMMgyNUBpM1W722d.jpg"
+      },
+      {
+        "name": "Eric Portman",
+        "character": "Lieutenant Hirth",
+        "photo": "https://image.tmdb.org/t/p/w500/37W0YteueUf1Y6xUlJj0zmftcHB.jpg"
+      },
+      {
+        "name": "Raymond Lovell",
+        "character": "Lieutenant Kuhnecke",
+        "photo": "https://image.tmdb.org/t/p/w500/9FjhATIvvaTJ1eEhR8uDlzrsS5M.jpg"
+      },
+      {
+        "name": "Richard George",
+        "character": "Kommandant Bernsdorff"
+      },
+      {
+        "name": "Niall MacGinnis",
+        "character": "Vogel",
+        "photo": "https://image.tmdb.org/t/p/w500/mUk1X9TYL2dl0uKfB2kwTCmGiDx.jpg"
+      },
+      {
+        "name": "Peter Moore",
+        "character": "Kranz"
+      },
+      {
+        "name": "John Chandos",
+        "character": "Lohrmann",
+        "photo": "https://image.tmdb.org/t/p/w500/zPZb1o3EOLQWtYhLa7Yrpcaqjjz.jpg"
+      },
+      {
+        "name": "Finlay Currie",
+        "character": "The Factor",
+        "photo": "https://image.tmdb.org/t/p/w500/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+      },
+      {
+        "name": "Glynis Johns",
+        "character": "Anna",
+        "photo": "https://image.tmdb.org/t/p/w500/rg5rQdHnZEhevzmkzePr6GcI7Xk.jpg"
+      }
+    ],
+    "director": [
+      "Michael Powell"
+    ]
   }
 }

@@ -17,6 +17,36 @@
           "rating": "4.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Rob Nilsson",
+      "Consuela Faust",
+      "Don Bajema",
+      "Ernie Fosselius"
+    ],
+    "app_cast": [
+      {
+        "name": "Rob Nilsson",
+        "character": "Mel Hurley",
+        "photo": "https://image.tmdb.org/t/p/w500/kqMgOljEdjiXSo8iWuOZ75ccPTr.jpg"
+      },
+      {
+        "name": "Consuela Faust",
+        "character": "Carmen"
+      },
+      {
+        "name": "Don Bajema",
+        "character": "Mitch",
+        "photo": "https://image.tmdb.org/t/p/w500/za6M9GOoJ3JQciO6GQa6HnePHX0.jpg"
+      },
+      {
+        "name": "Ernie Fosselius",
+        "character": "Bobby",
+        "photo": "https://image.tmdb.org/t/p/w500/lL4S5A6r6pZ8mqKQKYIe6SJfFA4.jpg"
+      }
+    ],
+    "director": [
+      "Rob Nilsson"
+    ]
   }
 }

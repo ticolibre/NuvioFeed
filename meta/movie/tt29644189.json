@@ -18,6 +18,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Mason Thames",
+      "Madeleine McGraw",
+      "Ethan Hawke",
+      "Demián Bichir",
+      "Miguel Mora",
+      "Jeremy Davies",
+      "Arianna Rivas",
+      "Maev Beaty",
+      "Graham Abbey",
+      "James Ransone",
+      "Anna Lore",
+      "Simon Webster"
+    ],
+    "app_cast": [
+      {
+        "name": "Mason Thames",
+        "character": "Finn",
+        "photo": "https://image.tmdb.org/t/p/w500/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
+      },
+      {
+        "name": "Madeleine McGraw",
+        "character": "Gwen",
+        "photo": "https://image.tmdb.org/t/p/w500/8LXcAdo1TYsbrBnMxh50SzZkMLc.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "character": "Grabber",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Demián Bichir",
+        "character": "Armando",
+        "photo": "https://image.tmdb.org/t/p/w500/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+      },
+      {
+        "name": "Miguel Mora",
+        "character": "Ernesto",
+        "photo": "https://image.tmdb.org/t/p/w500/yVjtjXQ4WWlN8XiDYsHKdwcBRXU.jpg"
+      },
+      {
+        "name": "Jeremy Davies",
+        "character": "Terrence",
+        "photo": "https://image.tmdb.org/t/p/w500/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+      },
+      {
+        "name": "Arianna Rivas",
+        "character": "Mustang",
+        "photo": "https://image.tmdb.org/t/p/w500/ljQqIBcuX3BwevEANaggqvV4AU2.jpg"
+      },
+      {
+        "name": "Maev Beaty",
+        "character": "Barbara",
+        "photo": "https://image.tmdb.org/t/p/w500/xu1NcOTmT3gNPgjcIu1UJxLaNPD.jpg"
+      },
+      {
+        "name": "Graham Abbey",
+        "character": "Kenneth",
+        "photo": "https://image.tmdb.org/t/p/w500/6xLpD2Ap69mphaqCKPirRLNPf1l.jpg"
+      },
+      {
+        "name": "James Ransone",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/w500/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+      },
+      {
+        "name": "Anna Lore",
+        "character": "Hope",
+        "photo": "https://image.tmdb.org/t/p/w500/zNurGVtAxvVGnpgyG9kvBUG4nVf.jpg"
+      },
+      {
+        "name": "Simon Webster",
+        "character": "Felix",
+        "photo": "https://image.tmdb.org/t/p/w500/8K8D5ZQIb4fDSGxTKL2FVjFloWW.jpg"
+      }
+    ],
+    "director": [
+      "Scott Derrickson"
+    ]
   }
 }

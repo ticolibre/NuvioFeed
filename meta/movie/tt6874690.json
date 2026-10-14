@@ -18,6 +18,85 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "John Lithgow",
+      "Geoffrey Rush",
+      "Nathaniel Lees",
+      "Maaka Pohatu",
+      "Tom Sainsbury",
+      "Ian Mune",
+      "Ginette McDonald",
+      "Holly Shanahan",
+      "Bruce Phillips",
+      "Yvette Parsons",
+      "Irene Wood",
+      "Hannah Lynch"
+    ],
+    "app_cast": [
+      {
+        "name": "John Lithgow",
+        "character": "Dave Crealy",
+        "photo": "https://image.tmdb.org/t/p/w500/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Stefan Mortensen",
+        "photo": "https://image.tmdb.org/t/p/w500/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Nathaniel Lees",
+        "character": "Sonny Ausage",
+        "photo": "https://image.tmdb.org/t/p/w500/l35ATgC4SbzyKGeAZBAQSyYs18P.jpg"
+      },
+      {
+        "name": "Maaka Pohatu",
+        "character": "Dr. Neels",
+        "photo": "https://image.tmdb.org/t/p/w500/3oyyiHYGvzz5v97lgUVYA8ybM0X.jpg"
+      },
+      {
+        "name": "Tom Sainsbury",
+        "character": "Carer Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/akpf3DuJzX5kpxfmiJCTctgYhbL.jpg"
+      },
+      {
+        "name": "Ian Mune",
+        "character": "Howie Wicker",
+        "photo": "https://image.tmdb.org/t/p/w500/8MO8QjpoKWr2I6gSx5MQJgtP6su.jpg"
+      },
+      {
+        "name": "Ginette McDonald",
+        "character": "Sally Pile",
+        "photo": "https://image.tmdb.org/t/p/w500/4QeqsV3POQ9rcV8gOWDvjVfwMqJ.jpg"
+      },
+      {
+        "name": "Holly Shanahan",
+        "character": "Madeline Shepard",
+        "photo": "https://image.tmdb.org/t/p/w500/3T7ZSMRiaNVy3THEmkCkS9B0buf.jpg"
+      },
+      {
+        "name": "Bruce Phillips",
+        "character": "Peter Llewyn",
+        "photo": "https://image.tmdb.org/t/p/w500/lHVBdDMqMkn51PD3RpOxD4H7qyb.jpg"
+      },
+      {
+        "name": "Yvette Parsons",
+        "character": "Carer Tania",
+        "photo": "https://image.tmdb.org/t/p/w500/rviTXu0eq0OJDWQ8hVxLCEyYUPQ.jpg"
+      },
+      {
+        "name": "Irene Wood",
+        "character": "Olive Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/aDueTKC0oaCMP4r2PrNz7QyTFfF.jpg"
+      },
+      {
+        "name": "Hannah Lynch",
+        "character": "Carer Joy",
+        "photo": "https://image.tmdb.org/t/p/w500/gaV7Pg1v4eCDXUqb2Mv5FgqnMWP.jpg"
+      }
+    ],
+    "director": [
+      "James Ashcroft"
+    ]
   }
 }

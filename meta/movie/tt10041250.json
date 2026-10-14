@@ -17,6 +17,37 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "James Baxter",
+      "Michael Fox",
+      "Antonia Kinlay",
+      "Sarah Ovens"
+    ],
+    "app_cast": [
+      {
+        "name": "James Baxter",
+        "character": "James",
+        "photo": "https://image.tmdb.org/t/p/w500/bQSMxIHybbmsenj92glDQpFeJn.jpg"
+      },
+      {
+        "name": "Michael Fox",
+        "character": "Mike",
+        "photo": "https://image.tmdb.org/t/p/w500/rXMf9BWNuIRr5FcFncQz7HPJBOy.jpg"
+      },
+      {
+        "name": "Antonia Kinlay",
+        "character": "Cara",
+        "photo": "https://image.tmdb.org/t/p/w500/6vR2O1rJVYm8yFbHfq5YpbGjWy.jpg"
+      },
+      {
+        "name": "Sarah Ovens",
+        "character": "Tilly",
+        "photo": "https://image.tmdb.org/t/p/w500/skejwY2vLtuBYZ6onGL5p3toZR3.jpg"
+      }
+    ],
+    "director": [
+      "Richard Naylor"
+    ]
   }
 }

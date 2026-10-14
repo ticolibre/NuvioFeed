@@ -19,6 +19,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Gary Cooper",
+      "Jean Arthur",
+      "George Bancroft",
+      "Lionel Stander",
+      "Douglass Dumbrille",
+      "Raymond Walburn",
+      "H.B. Warner",
+      "Ruth Donnelly",
+      "Walter Catlett",
+      "John Wray",
+      "Stanley Andrews",
+      "Irving Bacon"
+    ],
+    "app_cast": [
+      {
+        "name": "Gary Cooper",
+        "character": "Longfellow Deeds",
+        "photo": "https://image.tmdb.org/t/p/w500/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+      },
+      {
+        "name": "Jean Arthur",
+        "character": "Babe Bennett",
+        "photo": "https://image.tmdb.org/t/p/w500/h46KhIQOOMPUMIdGNSN3A4zwcGQ.jpg"
+      },
+      {
+        "name": "George Bancroft",
+        "character": "MacWade",
+        "photo": "https://image.tmdb.org/t/p/w500/4OcexFu2DjuXvyoFe3RvnOESHlE.jpg"
+      },
+      {
+        "name": "Lionel Stander",
+        "character": "Cornelius Cobb",
+        "photo": "https://image.tmdb.org/t/p/w500/AatXdvOQx9BEGSqHqL2eeoTNvCb.jpg"
+      },
+      {
+        "name": "Douglass Dumbrille",
+        "character": "John Cedar",
+        "photo": "https://image.tmdb.org/t/p/w500/quJC1FBvSzwNuFCQhlzXINXa7ZS.jpg"
+      },
+      {
+        "name": "Raymond Walburn",
+        "character": "Walter",
+        "photo": "https://image.tmdb.org/t/p/w500/16ZJm2BU4vrv1Q5OBJLkTfwTDhb.jpg"
+      },
+      {
+        "name": "H.B. Warner",
+        "character": "Judge May",
+        "photo": "https://image.tmdb.org/t/p/w500/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+      },
+      {
+        "name": "Ruth Donnelly",
+        "character": "Mabel Dawson",
+        "photo": "https://image.tmdb.org/t/p/w500/xg5Gq8nBGddGv4n2DQvgxZbtRNK.jpg"
+      },
+      {
+        "name": "Walter Catlett",
+        "character": "Morrow",
+        "photo": "https://image.tmdb.org/t/p/w500/c5ldUlcqrUuxpQE9iXqj9GlRZwt.jpg"
+      },
+      {
+        "name": "John Wray",
+        "character": "Farmer",
+        "photo": "https://image.tmdb.org/t/p/w500/9s4mIx46i6LrWdpDMFwmBXzQr1V.jpg"
+      },
+      {
+        "name": "Stanley Andrews",
+        "character": "James Cedar (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/zAW09eb1f0g4OPtNkJk83ej1os5.jpg"
+      },
+      {
+        "name": "Irving Bacon",
+        "character": "Frank (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/oFczw1DlGJ2p1wr4osdC2flX9qN.jpg"
+      }
+    ],
+    "director": [
+      "Frank Capra"
+    ]
   }
 }

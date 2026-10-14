@@ -18,6 +18,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Amelia Eve",
+      "Island Austin",
+      "Brandon Perea",
+      "Lin Shaye",
+      "Maisie Richardson-Sellers",
+      "Sam Spruell",
+      "Joseph Lopez",
+      "Robina Beard",
+      "Susan Gray",
+      "Laura Gordon",
+      "Charli Penton",
+      "Zahra Newman"
+    ],
+    "app_cast": [
+      {
+        "name": "Amelia Eve",
+        "character": "Gemma Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/Am54f1ys9nqZKuFDEkSwkqhRAuo.jpg"
+      },
+      {
+        "name": "Island Austin",
+        "character": "Maya Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/663fMDrygvPYcV4L567iHVzEfXD.jpg"
+      },
+      {
+        "name": "Brandon Perea",
+        "character": "Nick Mendoza",
+        "photo": "https://image.tmdb.org/t/p/w500/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg"
+      },
+      {
+        "name": "Lin Shaye",
+        "character": "Elise Rainier",
+        "photo": "https://image.tmdb.org/t/p/w500/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+      },
+      {
+        "name": "Maisie Richardson-Sellers",
+        "character": "Clare",
+        "photo": "https://image.tmdb.org/t/p/w500/7Rue8ZtZ8uLb1x0YC9viieunoC0.jpg"
+      },
+      {
+        "name": "Sam Spruell",
+        "character": "Cyrus Lam",
+        "photo": "https://image.tmdb.org/t/p/w500/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg"
+      },
+      {
+        "name": "Joseph Lopez",
+        "character": "Lester",
+        "photo": "https://image.tmdb.org/t/p/w500/tmhwEUByCT6iXlxmJvpTsX97Css.jpg"
+      },
+      {
+        "name": "Robina Beard",
+        "character": "Edna",
+        "photo": "https://image.tmdb.org/t/p/w500/meXi83rata9p6LqRiRhqI8MPLvj.jpg"
+      },
+      {
+        "name": "Susan Gray",
+        "character": "Patsy"
+      },
+      {
+        "name": "Laura Gordon",
+        "character": "Ingrid Lilith Hall",
+        "photo": "https://image.tmdb.org/t/p/w500/7Gro37r1iqm4Wiyf2QlvMPgSeza.jpg"
+      },
+      {
+        "name": "Charli Penton",
+        "character": "Young Gemma",
+        "photo": "https://image.tmdb.org/t/p/w500/1zHWlcfqZ8rwlNAb70k5XbitBUI.jpg"
+      },
+      {
+        "name": "Zahra Newman",
+        "character": "Liz",
+        "photo": "https://image.tmdb.org/t/p/w500/thH6sEYrM0aTkHZnGtirLZAk2nu.jpg"
+      }
+    ],
+    "director": [
+      "Jacob Chase"
+    ]
   }
 }

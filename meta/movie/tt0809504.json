@@ -18,6 +18,85 @@
           "rating": "5.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Uma Thurman",
+      "Jeffrey Dean Morgan",
+      "Colin Firth",
+      "Sam Shepard",
+      "Isabella Rossellini",
+      "Keir Dullea",
+      "Ajay Naidu",
+      "Sarita Choudhury",
+      "Jeffrey Tedmori",
+      "Lindsay Sloane",
+      "Nick Sandow",
+      "Michael Mosley"
+    ],
+    "app_cast": [
+      {
+        "name": "Uma Thurman",
+        "character": "Dr. Emma Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w500/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+      },
+      {
+        "name": "Jeffrey Dean Morgan",
+        "character": "Patrick Sullivan",
+        "photo": "https://image.tmdb.org/t/p/w500/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+      },
+      {
+        "name": "Colin Firth",
+        "character": "Richard Braxton",
+        "photo": "https://image.tmdb.org/t/p/w500/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+      },
+      {
+        "name": "Sam Shepard",
+        "character": "Wilder",
+        "photo": "https://image.tmdb.org/t/p/w500/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+      },
+      {
+        "name": "Isabella Rossellini",
+        "character": "Mrs. Greta Bollenbecker",
+        "photo": "https://image.tmdb.org/t/p/w500/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+      },
+      {
+        "name": "Keir Dullea",
+        "character": "Mr. Carl Bollenbecker",
+        "photo": "https://image.tmdb.org/t/p/w500/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg"
+      },
+      {
+        "name": "Ajay Naidu",
+        "character": "Deep",
+        "photo": "https://image.tmdb.org/t/p/w500/tOvD8yveJ4Aq10LICADK3wS3dwE.jpg"
+      },
+      {
+        "name": "Sarita Choudhury",
+        "character": "Sunny",
+        "photo": "https://image.tmdb.org/t/p/w500/pABEOxQAns54tHpxN2w73b7SiPB.jpg"
+      },
+      {
+        "name": "Jeffrey Tedmori",
+        "character": "Ajay",
+        "photo": "https://image.tmdb.org/t/p/w500/gLx2wOUvVanYBpKMLZ49ZMNdYqC.jpg"
+      },
+      {
+        "name": "Lindsay Sloane",
+        "character": "Marcy",
+        "photo": "https://image.tmdb.org/t/p/w500/sbUraumaXThpJ6ewhLuxWNn0dOf.jpg"
+      },
+      {
+        "name": "Nick Sandow",
+        "character": "Larry",
+        "photo": "https://image.tmdb.org/t/p/w500/LEcXWkqH94UJ0V3E5KlGDONJ3D.jpg"
+      },
+      {
+        "name": "Michael Mosley",
+        "character": "Declin",
+        "photo": "https://image.tmdb.org/t/p/w500/puRHN4OMPBXKiJdW0yyMIN9ju4r.jpg"
+      }
+    ],
+    "director": [
+      "Griffin Dunne"
+    ]
   }
 }

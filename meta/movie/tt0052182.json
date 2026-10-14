@@ -18,6 +18,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Deborah Kerr",
+      "Rita Hayworth",
+      "David Niven",
+      "Wendy Hiller",
+      "Burt Lancaster",
+      "Gladys Cooper",
+      "Cathleen Nesbitt",
+      "Felix Aylmer",
+      "Rod Taylor",
+      "Audrey Dalton",
+      "May Hallatt",
+      "Priscilla Morgan"
+    ],
+    "app_cast": [
+      {
+        "name": "Deborah Kerr",
+        "character": "Sibyl Railton-Bell",
+        "photo": "https://image.tmdb.org/t/p/w500/dHFhOEhHnn5cQjQN29IGRxzoxBP.jpg"
+      },
+      {
+        "name": "Rita Hayworth",
+        "character": "Ann Shankland",
+        "photo": "https://image.tmdb.org/t/p/w500/k92fu0gVAY98kFGXgIZmdquroFQ.jpg"
+      },
+      {
+        "name": "David Niven",
+        "character": "Angus Pollock",
+        "photo": "https://image.tmdb.org/t/p/w500/ioW2DU6T2HPvTdqUSaLLQmGPb38.jpg"
+      },
+      {
+        "name": "Wendy Hiller",
+        "character": "Pat Cooper",
+        "photo": "https://image.tmdb.org/t/p/w500/psF8n2DRp0UCsmUBnRKwu6YmMoA.jpg"
+      },
+      {
+        "name": "Burt Lancaster",
+        "character": "John Malcolm",
+        "photo": "https://image.tmdb.org/t/p/w500/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
+      },
+      {
+        "name": "Gladys Cooper",
+        "character": "Mrs. Railton-Bell",
+        "photo": "https://image.tmdb.org/t/p/w500/8ChGmCj4O9Q7kpkgHDguNNhX2Wk.jpg"
+      },
+      {
+        "name": "Cathleen Nesbitt",
+        "character": "Gladys Matheson",
+        "photo": "https://image.tmdb.org/t/p/w500/bBhNGKtVtZoTfvzQQc9Tuj37UYs.jpg"
+      },
+      {
+        "name": "Felix Aylmer",
+        "character": "Mr. Fowler",
+        "photo": "https://image.tmdb.org/t/p/w500/1aTMXytbbImctXD8k4dNKkkMf2N.jpg"
+      },
+      {
+        "name": "Rod Taylor",
+        "character": "Charles",
+        "photo": "https://image.tmdb.org/t/p/w500/nSpfs8lXHxWcksZW3qC9ArMLAqZ.jpg"
+      },
+      {
+        "name": "Audrey Dalton",
+        "character": "Jean",
+        "photo": "https://image.tmdb.org/t/p/w500/3C8ysXImywLJwRmDJ2NJ2TwzmY7.jpg"
+      },
+      {
+        "name": "May Hallatt",
+        "character": "Miss Meacham",
+        "photo": "https://image.tmdb.org/t/p/w500/iytNGPYOHzbYJQOO12AzWdBnQad.jpg"
+      },
+      {
+        "name": "Priscilla Morgan",
+        "character": "Doreen",
+        "photo": "https://image.tmdb.org/t/p/w500/fAkesMBpIkAKTDJfU9qcOPnqvu6.jpg"
+      }
+    ],
+    "director": [
+      "Delbert Mann"
+    ]
   }
 }

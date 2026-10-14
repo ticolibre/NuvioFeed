@@ -19,6 +19,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Ethan Hawke",
+      "Juliet Rylance",
+      "Vincent D'Onofrio",
+      "James Ransone",
+      "Fred Thompson",
+      "Clare Foley",
+      "Michael Hall D'Addario",
+      "Victoria Leigh",
+      "Blake Mizrahi",
+      "Cameron Ocasio",
+      "Danielle Kotch",
+      "Ethan Haberfield"
+    ],
+    "app_cast": [
+      {
+        "name": "Ethan Hawke",
+        "character": "Ellison Oswalt",
+        "photo": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "name": "Juliet Rylance",
+        "character": "Tracy Oswalt",
+        "photo": "https://image.tmdb.org/t/p/w500/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Professor Jonas",
+        "photo": "https://image.tmdb.org/t/p/w500/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+      },
+      {
+        "name": "James Ransone",
+        "character": "Deputy",
+        "photo": "https://image.tmdb.org/t/p/w500/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+      },
+      {
+        "name": "Fred Thompson",
+        "character": "Sheriff",
+        "photo": "https://image.tmdb.org/t/p/w500/d3x9crhTbzHaVA2OEsRu1YxirBG.jpg"
+      },
+      {
+        "name": "Clare Foley",
+        "character": "Ashley Oswalt",
+        "photo": "https://image.tmdb.org/t/p/w500/za7jevEWhZ0lah7GBfBfBlssY2D.jpg"
+      },
+      {
+        "name": "Michael Hall D'Addario",
+        "character": "Trevor Oswalt",
+        "photo": "https://image.tmdb.org/t/p/w500/nHVeGD2VSPoqek74R6yE4vmBqII.jpg"
+      },
+      {
+        "name": "Victoria Leigh",
+        "character": "Stephanie Stevenson",
+        "photo": "https://image.tmdb.org/t/p/w500/s99sLHiV7FPANKaarV0Q4kUTaeT.jpg"
+      },
+      {
+        "name": "Blake Mizrahi",
+        "character": "Christopher Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/GAd6IyrE7bPaHTTmqz2y1SHWRh.jpg"
+      },
+      {
+        "name": "Cameron Ocasio",
+        "character": "BBQ Son / Killer",
+        "photo": "https://image.tmdb.org/t/p/w500/no1BGD4MYAV6z273VaEI5jm3Fb.jpg"
+      },
+      {
+        "name": "Danielle Kotch",
+        "character": "Lawn Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/qQBZHRwqNvgEiUnKfgUs6XFYrTt.jpg"
+      },
+      {
+        "name": "Ethan Haberfield",
+        "character": "Pool Party Boy",
+        "photo": "https://image.tmdb.org/t/p/w500/t7GJhfzEoN2hVdPfBi7yu7JG7Hg.jpg"
+      }
+    ],
+    "director": [
+      "Scott Derrickson"
+    ]
   }
 }

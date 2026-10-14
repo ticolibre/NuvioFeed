@@ -19,6 +19,85 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Frank Sinatra",
+      "Kathryn Grayson",
+      "Gene Kelly",
+      "José Iturbi",
+      "Dean Stockwell",
+      "Pamela Britton",
+      "Rags Ragland",
+      "Billy Gilbert",
+      "Henry O'Neill",
+      "Carlos Ramírez",
+      "Edgar Kennedy",
+      "Grady Sutton"
+    ],
+    "app_cast": [
+      {
+        "name": "Frank Sinatra",
+        "character": "Clarence Doolittle",
+        "photo": "https://image.tmdb.org/t/p/w500/dafKPsivu50RdChBSrgGmMRenYt.jpg"
+      },
+      {
+        "name": "Kathryn Grayson",
+        "character": "Susan Abbott",
+        "photo": "https://image.tmdb.org/t/p/w500/p97me6XCxzm0qQ5wlqTcoC9q5Up.jpg"
+      },
+      {
+        "name": "Gene Kelly",
+        "character": "Joseph Brady",
+        "photo": "https://image.tmdb.org/t/p/w500/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+      },
+      {
+        "name": "José Iturbi",
+        "character": "José Iturbi",
+        "photo": "https://image.tmdb.org/t/p/w500/99XbGMEsCzBxStYwRepZrWDPo3O.jpg"
+      },
+      {
+        "name": "Dean Stockwell",
+        "character": "Donald Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg"
+      },
+      {
+        "name": "Pamela Britton",
+        "character": "Girl from Brooklyn",
+        "photo": "https://image.tmdb.org/t/p/w500/dRDBaqZRfyKFSiBf5ZgbM6sVFuY.jpg"
+      },
+      {
+        "name": "Rags Ragland",
+        "character": "Police Sergeant",
+        "photo": "https://image.tmdb.org/t/p/w500/3K9KfFnXkczjCgidZpmTpdbt7rJ.jpg"
+      },
+      {
+        "name": "Billy Gilbert",
+        "character": "Cafe Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/xEqQLDrbtY2TlANNbXwXPG3ZDyK.jpg"
+      },
+      {
+        "name": "Henry O'Neill",
+        "character": "Admiral Hammond",
+        "photo": "https://image.tmdb.org/t/p/w500/2jrV5PWrFNtnecl0Ls6zOJOp1EI.jpg"
+      },
+      {
+        "name": "Carlos Ramírez",
+        "character": "Carlos",
+        "photo": "https://image.tmdb.org/t/p/w500/xxUA9DVjoIajpvrb9sYaJOVsP8w.jpg"
+      },
+      {
+        "name": "Edgar Kennedy",
+        "character": "Police Captain",
+        "photo": "https://image.tmdb.org/t/p/w500/oA8h7AdAUZYg5uO0xzFMQOkc9DQ.jpg"
+      },
+      {
+        "name": "Grady Sutton",
+        "character": "Bertram Kraler",
+        "photo": "https://image.tmdb.org/t/p/w500/tNvIf1ATZiZJCrO7lkI056yK1zp.jpg"
+      }
+    ],
+    "director": [
+      "George Sidney"
+    ]
   }
 }

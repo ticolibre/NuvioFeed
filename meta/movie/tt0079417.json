@@ -17,6 +17,83 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Dustin Hoffman",
+      "Meryl Streep",
+      "Jane Alexander",
+      "Justin Henry",
+      "Howard Duff",
+      "George Coe",
+      "JoBeth Williams",
+      "Bill Moor",
+      "Howland Chamberlain",
+      "Jack Ramage",
+      "Jess Osuna",
+      "Nicholas Hormann"
+    ],
+    "app_cast": [
+      {
+        "name": "Dustin Hoffman",
+        "character": "Ted Kramer",
+        "photo": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Joanna Kramer",
+        "photo": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "Jane Alexander",
+        "character": "Margaret Phelps",
+        "photo": "https://image.tmdb.org/t/p/w500/5nWLBhNH6tQGVskI89J45C7LU2o.jpg"
+      },
+      {
+        "name": "Justin Henry",
+        "character": "Billy Kramer",
+        "photo": "https://image.tmdb.org/t/p/w500/9wp0WZZSbXzYqmQVwsFfnfDpAT6.jpg"
+      },
+      {
+        "name": "Howard Duff",
+        "character": "John Shaunessy",
+        "photo": "https://image.tmdb.org/t/p/w500/7LFu95tQM8IRLbSIcsgvfOBwnf2.jpg"
+      },
+      {
+        "name": "George Coe",
+        "character": "Jim O'Connor",
+        "photo": "https://image.tmdb.org/t/p/w500/3VkamwMlEhr9rFe3o6zcoGkHqJw.jpg"
+      },
+      {
+        "name": "JoBeth Williams",
+        "character": "Phyllis Bernard",
+        "photo": "https://image.tmdb.org/t/p/w500/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
+      },
+      {
+        "name": "Bill Moor",
+        "character": "Gressen",
+        "photo": "https://image.tmdb.org/t/p/w500/xzGgYlmVuntUMJ5uLjHdSu5g332.jpg"
+      },
+      {
+        "name": "Howland Chamberlain",
+        "character": "Judge Atkins",
+        "photo": "https://image.tmdb.org/t/p/w500/ceIpblKuZ0jGPLZv1MkZK3qVv31.jpg"
+      },
+      {
+        "name": "Jack Ramage",
+        "character": "Spencer"
+      },
+      {
+        "name": "Jess Osuna",
+        "character": "Ackerman"
+      },
+      {
+        "name": "Nicholas Hormann",
+        "character": "Interviewer",
+        "photo": "https://image.tmdb.org/t/p/w500/848yxKuL6S9ulnlpqLd7pAbgBR5.jpg"
+      }
+    ],
+    "director": [
+      "Robert Benton"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Saoirse Ronan",
+      "Domhnall Gleeson",
+      "Emory Cohen",
+      "Jim Broadbent",
+      "Julie Walters",
+      "Jessica Paré",
+      "Eve Macklin",
+      "Brid Brennan",
+      "Fiona Glascott",
+      "Jane Brennan",
+      "Nora-Jane Noone",
+      "Jenn Murray"
+    ],
+    "app_cast": [
+      {
+        "name": "Saoirse Ronan",
+        "character": "Eilis Lacey",
+        "photo": "https://image.tmdb.org/t/p/w500/tsk3iKGmMgXIGbRjwf2zYkh8Zkb.jpg"
+      },
+      {
+        "name": "Domhnall Gleeson",
+        "character": "Jim Farrell",
+        "photo": "https://image.tmdb.org/t/p/w500/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg"
+      },
+      {
+        "name": "Emory Cohen",
+        "character": "Tony Fiorello",
+        "photo": "https://image.tmdb.org/t/p/w500/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Father Flood",
+        "photo": "https://image.tmdb.org/t/p/w500/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Madge Kehoe",
+        "photo": "https://image.tmdb.org/t/p/w500/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "Jessica Paré",
+        "character": "Miss Fortini",
+        "photo": "https://image.tmdb.org/t/p/w500/udvHIbFPW646vDkbnipb82wPUxs.jpg"
+      },
+      {
+        "name": "Eve Macklin",
+        "character": "Diana Montini",
+        "photo": "https://image.tmdb.org/t/p/w500/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg"
+      },
+      {
+        "name": "Brid Brennan",
+        "character": "Miss Kelly",
+        "photo": "https://image.tmdb.org/t/p/w500/RgdIPIWoPeG9HIDibE5P1aif4M.jpg"
+      },
+      {
+        "name": "Fiona Glascott",
+        "character": "Rose Lacey",
+        "photo": "https://image.tmdb.org/t/p/w500/ycQDw5inFim750oXlmzix0RVoYt.jpg"
+      },
+      {
+        "name": "Jane Brennan",
+        "character": "Mary Lacey",
+        "photo": "https://image.tmdb.org/t/p/w500/kZegb3HkatgdYsOb8EChsLvJ31z.jpg"
+      },
+      {
+        "name": "Nora-Jane Noone",
+        "character": "Sheila Heffernan",
+        "photo": "https://image.tmdb.org/t/p/w500/vfnsODHKvZ9j8KnbCmkEyxuJWS8.jpg"
+      },
+      {
+        "name": "Jenn Murray",
+        "character": "Dolores Grace",
+        "photo": "https://image.tmdb.org/t/p/w500/mqo8X8YNPhVoNBcQgVImoHMyQWc.jpg"
+      }
+    ],
+    "director": [
+      "John Crowley"
+    ]
   }
 }

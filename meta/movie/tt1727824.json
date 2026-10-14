@@ -18,6 +18,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Rami Malek",
+      "Gwilym Lee",
+      "Ben Hardy",
+      "Joseph Mazzello",
+      "Lucy Boynton",
+      "Aidan Gillen",
+      "Allen Leech",
+      "Tom Hollander",
+      "Mike Myers",
+      "Aaron McCusker",
+      "Meneka Das",
+      "Ace Bhatti"
+    ],
+    "app_cast": [
+      {
+        "name": "Rami Malek",
+        "character": "Freddie Mercury",
+        "photo": "https://image.tmdb.org/t/p/w500/drLMI978uj3Rpc1TcIJarKf3Jfi.jpg"
+      },
+      {
+        "name": "Gwilym Lee",
+        "character": "Brian May",
+        "photo": "https://image.tmdb.org/t/p/w500/bHSmjJLJyrg5Q0tC0W2FFreuOnO.jpg"
+      },
+      {
+        "name": "Ben Hardy",
+        "character": "Roger Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/qCV3G1OHTJgPHX9kbWEBbS9RwVJ.jpg"
+      },
+      {
+        "name": "Joseph Mazzello",
+        "character": "John Deacon",
+        "photo": "https://image.tmdb.org/t/p/w500/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+      },
+      {
+        "name": "Lucy Boynton",
+        "character": "Mary Austin",
+        "photo": "https://image.tmdb.org/t/p/w500/fs7aYUYzzNdilz4JY6wxvIedDIc.jpg"
+      },
+      {
+        "name": "Aidan Gillen",
+        "character": "John Reid",
+        "photo": "https://image.tmdb.org/t/p/w500/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+      },
+      {
+        "name": "Allen Leech",
+        "character": "Paul Prenter",
+        "photo": "https://image.tmdb.org/t/p/w500/cJZSyKNUKwdNPEgkt2ocXohtUBH.jpg"
+      },
+      {
+        "name": "Tom Hollander",
+        "character": "Jim Beach",
+        "photo": "https://image.tmdb.org/t/p/w500/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+      },
+      {
+        "name": "Mike Myers",
+        "character": "Ray Foster",
+        "photo": "https://image.tmdb.org/t/p/w500/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+      },
+      {
+        "name": "Aaron McCusker",
+        "character": "Jim Hutton",
+        "photo": "https://image.tmdb.org/t/p/w500/34n0otWafAvVLIF2BqqOD0kl2Z2.jpg"
+      },
+      {
+        "name": "Meneka Das",
+        "character": "Jer Bulsara",
+        "photo": "https://image.tmdb.org/t/p/w500/i8ZpPePcnQHPco0TIHVSOOBwuI.jpg"
+      },
+      {
+        "name": "Ace Bhatti",
+        "character": "Bomi Bulsara",
+        "photo": "https://image.tmdb.org/t/p/w500/skLkh06rTHk1yWGI2eIYBjsHQtx.jpg"
+      }
+    ],
+    "director": [
+      "Bryan Singer"
+    ]
   }
 }

@@ -18,6 +18,83 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Vivien Leigh",
+      "Marlon Brando",
+      "Kim Hunter",
+      "Karl Malden",
+      "Rudy Bond",
+      "Nick Dennis",
+      "Peg Hillias",
+      "Wright King",
+      "Richard Garrick",
+      "Ann Dere",
+      "Edna Thomas",
+      "Mickey Kuhn"
+    ],
+    "app_cast": [
+      {
+        "name": "Vivien Leigh",
+        "character": "Blanche DuBois",
+        "photo": "https://image.tmdb.org/t/p/w500/h1hS5o0cKXF2g9Wjej0RtibMPT0.jpg"
+      },
+      {
+        "name": "Marlon Brando",
+        "character": "Stanley Kowalski",
+        "photo": "https://image.tmdb.org/t/p/w500/yIvLpf9U9NfAvC7fuAgOQ8tu51T.jpg"
+      },
+      {
+        "name": "Kim Hunter",
+        "character": "Stella Kowalski",
+        "photo": "https://image.tmdb.org/t/p/w500/knu87rUxQVZ65Plp6BgoyasAHOT.jpg"
+      },
+      {
+        "name": "Karl Malden",
+        "character": "Harold Mitchell",
+        "photo": "https://image.tmdb.org/t/p/w500/njDua2jZ1X1f5SYLzpxDt0hIhYu.jpg"
+      },
+      {
+        "name": "Rudy Bond",
+        "character": "Steve",
+        "photo": "https://image.tmdb.org/t/p/w500/bd3YONpGsvQrpz6MkhsqsiPSaOD.jpg"
+      },
+      {
+        "name": "Nick Dennis",
+        "character": "Pablo Gonzales",
+        "photo": "https://image.tmdb.org/t/p/w500/mcNrNUkrdqQWjPR5pXIZknDekR9.jpg"
+      },
+      {
+        "name": "Peg Hillias",
+        "character": "Eunice",
+        "photo": "https://image.tmdb.org/t/p/w500/zw36KGkIiS4ZgndBfGXZoCPVQeN.jpg"
+      },
+      {
+        "name": "Wright King",
+        "character": "A Collector",
+        "photo": "https://image.tmdb.org/t/p/w500/wGITHVDcMWtnAi6JsxZ7diyI5fk.jpg"
+      },
+      {
+        "name": "Richard Garrick",
+        "character": "A Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/keB4byxTcLJpJQ3lqpbcSZC1ogY.jpg"
+      },
+      {
+        "name": "Ann Dere",
+        "character": "The Matron"
+      },
+      {
+        "name": "Edna Thomas",
+        "character": "The Mexican Woman"
+      },
+      {
+        "name": "Mickey Kuhn",
+        "character": "A Sailor",
+        "photo": "https://image.tmdb.org/t/p/w500/p1K50ZdOssoPCwde2cnQ8aFb7Ph.jpg"
+      }
+    ],
+    "director": [
+      "Elia Kazan"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "David Arkin",
+      "Barbara Baxley",
+      "Ned Beatty",
+      "Karen Black",
+      "Ronee Blakley",
+      "Timothy Brown",
+      "Keith Carradine",
+      "Geraldine Chaplin",
+      "Robert DoQui",
+      "Shelley Duvall",
+      "Allen Garfield",
+      "Henry Gibson"
+    ],
+    "app_cast": [
+      {
+        "name": "David Arkin",
+        "character": "Norman",
+        "photo": "https://image.tmdb.org/t/p/w500/mz1AcRQkarakA3OdOeYVgnqVsh5.jpg"
+      },
+      {
+        "name": "Barbara Baxley",
+        "character": "Lady Pearl",
+        "photo": "https://image.tmdb.org/t/p/w500/w7QQLcsWtWdxwmXtUAHoDCn5Ra5.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "character": "Delbert Reese",
+        "photo": "https://image.tmdb.org/t/p/w500/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+      },
+      {
+        "name": "Karen Black",
+        "character": "Connie White",
+        "photo": "https://image.tmdb.org/t/p/w500/2FUHvpCZ8A3we7yaEvIK8r06fCL.jpg"
+      },
+      {
+        "name": "Ronee Blakley",
+        "character": "Barbara Jean",
+        "photo": "https://image.tmdb.org/t/p/w500/fLdnGFUv9bpT0Tk1iqKBV1k1TH0.jpg"
+      },
+      {
+        "name": "Timothy Brown",
+        "character": "Tommy Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/fdaoOv2KnoWCbiqK900KJ0tYB7Y.jpg"
+      },
+      {
+        "name": "Keith Carradine",
+        "character": "Tom Frank",
+        "photo": "https://image.tmdb.org/t/p/w500/pFChLHGcQrw0pSseRYQofQ3FN4N.jpg"
+      },
+      {
+        "name": "Geraldine Chaplin",
+        "character": "Opal",
+        "photo": "https://image.tmdb.org/t/p/w500/teiPgoY0Fgyw4Xs07IGDsJmcsjL.jpg"
+      },
+      {
+        "name": "Robert DoQui",
+        "character": "Wade Cooley",
+        "photo": "https://image.tmdb.org/t/p/w500/uLQsWehFSYRn2LNfzT9fUjSRpkF.jpg"
+      },
+      {
+        "name": "Shelley Duvall",
+        "character": "L.A. Joan",
+        "photo": "https://image.tmdb.org/t/p/w500/zwscEWl7QLiOsfsvzGXFjAQCVp3.jpg"
+      },
+      {
+        "name": "Allen Garfield",
+        "character": "Barnett",
+        "photo": "https://image.tmdb.org/t/p/w500/v4S64Kcmgg7THvrFElzAeJiscy6.jpg"
+      },
+      {
+        "name": "Henry Gibson",
+        "character": "Haven Hamilton",
+        "photo": "https://image.tmdb.org/t/p/w500/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg"
+      }
+    ],
+    "director": [
+      "Robert Altman"
+    ]
   }
 }

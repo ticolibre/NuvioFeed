@@ -18,6 +18,84 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Clancy Brown",
+      "Caitlin Custer",
+      "Sarah Hay",
+      "Mike C. Nelson",
+      "Jacob Elordi",
+      "Barak Hardley",
+      "Christine Kilmer",
+      "Ben Hethcoat",
+      "Jennifer Irwin",
+      "James Bachman",
+      "Alison Gallaher",
+      "Phyllis Applegate"
+    ],
+    "app_cast": [
+      {
+        "name": "Clancy Brown",
+        "character": "Montgomery Dark",
+        "photo": "https://image.tmdb.org/t/p/w500/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+      },
+      {
+        "name": "Caitlin Custer",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/1uiBZdG9s6Mr8Fcf78sTyqB2LWC.jpg"
+      },
+      {
+        "name": "Sarah Hay",
+        "character": "Carol",
+        "photo": "https://image.tmdb.org/t/p/w500/cLQS8DvoqjN8JDHmJ20yCy1vlby.jpg"
+      },
+      {
+        "name": "Mike C. Nelson",
+        "character": "Dr Harold Kubler",
+        "photo": "https://image.tmdb.org/t/p/w500/bz11gDGb4GzgwovJTHxHQy1xdDt.jpg"
+      },
+      {
+        "name": "Jacob Elordi",
+        "character": "Jake",
+        "photo": "https://image.tmdb.org/t/p/w500/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+      },
+      {
+        "name": "Barak Hardley",
+        "character": "Wendell Owens/Deputy Barns",
+        "photo": "https://image.tmdb.org/t/p/w500/w4UmfGZBkta6zx5l0Hbghr7VL35.jpg"
+      },
+      {
+        "name": "Christine Kilmer",
+        "character": "Emma",
+        "photo": "https://image.tmdb.org/t/p/w500/jH8grwUmsSk9qM8jYiVotYJwzgp.jpg"
+      },
+      {
+        "name": "Ben Hethcoat",
+        "character": "The Killer",
+        "photo": "https://image.tmdb.org/t/p/w500/wkbnomW4HAVu4fklb6n4QKvAnrp.jpg"
+      },
+      {
+        "name": "Jennifer Irwin",
+        "character": "Margaret",
+        "photo": "https://image.tmdb.org/t/p/w500/cNRJQMBa6So6xVAhgAmCpMJOCc7.jpg"
+      },
+      {
+        "name": "James Bachman",
+        "character": "Ralph Wilkes",
+        "photo": "https://image.tmdb.org/t/p/w500/1Fme06hFfa3H3tTMcyGVXqYaCBL.jpg"
+      },
+      {
+        "name": "Alison Gallaher",
+        "character": "Mrs. Debra Kubler"
+      },
+      {
+        "name": "Phyllis Applegate",
+        "character": "Mrs. Avery",
+        "photo": "https://image.tmdb.org/t/p/w500/bDhG2vzoFMlwefe6tVCt7XuHBGK.jpg"
+      }
+    ],
+    "director": [
+      "Ryan Spindell"
+    ]
   }
 }

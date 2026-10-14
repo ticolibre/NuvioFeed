@@ -19,6 +19,86 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan",
+      "James Hong",
+      "Jamie Lee Curtis",
+      "Tallie Medel",
+      "Jenny Slate",
+      "Harry Shum Jr.",
+      "Biff Wiff",
+      "Sunita Mani",
+      "Aaron Lazar",
+      "Brian Le"
+    ],
+    "app_cast": [
+      {
+        "name": "Michelle Yeoh",
+        "character": "Evelyn Wang",
+        "photo": "https://image.tmdb.org/t/p/w500/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
+      },
+      {
+        "name": "Stephanie Hsu",
+        "character": "Joy Wang / Jobu Tupaki",
+        "photo": "https://image.tmdb.org/t/p/w500/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "character": "Waymond Wang",
+        "photo": "https://image.tmdb.org/t/p/w500/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+      },
+      {
+        "name": "James Hong",
+        "character": "Gong Gong",
+        "photo": "https://image.tmdb.org/t/p/w500/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+      },
+      {
+        "name": "Jamie Lee Curtis",
+        "character": "Deirdre Beaubeirdre",
+        "photo": "https://image.tmdb.org/t/p/w500/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+      },
+      {
+        "name": "Tallie Medel",
+        "character": "Becky Sregor",
+        "photo": "https://image.tmdb.org/t/p/w500/uPpO4A56hRcJZRZYXrUxNdBZxUc.jpg"
+      },
+      {
+        "name": "Jenny Slate",
+        "character": "Big Nose",
+        "photo": "https://image.tmdb.org/t/p/w500/mMxsNO6r966ut0sordYzj2iDOb6.jpg"
+      },
+      {
+        "name": "Harry Shum Jr.",
+        "character": "Chad",
+        "photo": "https://image.tmdb.org/t/p/w500/xFQsThmdyuOk9jt3zgZL08ixf2b.jpg"
+      },
+      {
+        "name": "Biff Wiff",
+        "character": "Rick",
+        "photo": "https://image.tmdb.org/t/p/w500/hfXXxpwugRUHX4sxEP7njAnYXTy.jpg"
+      },
+      {
+        "name": "Sunita Mani",
+        "character": "TV Musical - Queen",
+        "photo": "https://image.tmdb.org/t/p/w500/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+      },
+      {
+        "name": "Aaron Lazar",
+        "character": "TV Musical - Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/87xfF3QmQtYtlENybOvFL3bfMcr.jpg"
+      },
+      {
+        "name": "Brian Le",
+        "character": "Alpha Jumper - Trophy",
+        "photo": "https://image.tmdb.org/t/p/w500/cdtKmPpmBrnVAiqFQVE4urxu0ko.jpg"
+      }
+    ],
+    "director": [
+      "Daniel Scheinert",
+      "Daniel Kwan"
+    ]
   }
 }

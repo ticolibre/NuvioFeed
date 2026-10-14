@@ -19,6 +19,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston",
+      "Perry Lopez",
+      "Burt Young",
+      "John Hillerman",
+      "Darrell Zwerling",
+      "Roman Polanski",
+      "Diane Ladd",
+      "Richard Bakalyan",
+      "Joe Mantell",
+      "Roy Jenson"
+    ],
+    "app_cast": [
+      {
+        "name": "Jack Nicholson",
+        "character": "J.J. 'Jake' Gittes",
+        "photo": "https://image.tmdb.org/t/p/w500/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "name": "Faye Dunaway",
+        "character": "Evelyn Cross Mulwray",
+        "photo": "https://image.tmdb.org/t/p/w500/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      },
+      {
+        "name": "John Huston",
+        "character": "Noah Cross",
+        "photo": "https://image.tmdb.org/t/p/w500/saIbkr0jPzscRBKNG1suhgd3Yxb.jpg"
+      },
+      {
+        "name": "Perry Lopez",
+        "character": "Lieutenant Lou Escobar",
+        "photo": "https://image.tmdb.org/t/p/w500/rQXvA13yB182uYVZ1ziHDe6ECV0.jpg"
+      },
+      {
+        "name": "Burt Young",
+        "character": "Curly",
+        "photo": "https://image.tmdb.org/t/p/w500/6QWnsSbjYog0D6hkPhg7Frty54D.jpg"
+      },
+      {
+        "name": "John Hillerman",
+        "character": "Russ Yelburton",
+        "photo": "https://image.tmdb.org/t/p/w500/zRuuhcWG1jjzZaQaeUEV76guU7D.jpg"
+      },
+      {
+        "name": "Darrell Zwerling",
+        "character": "Hollis I. Mulwray",
+        "photo": "https://image.tmdb.org/t/p/w500/9cDpeKlLaBsLCcZ5NaoyOz29yno.jpg"
+      },
+      {
+        "name": "Roman Polanski",
+        "character": "Man with Knife",
+        "photo": "https://image.tmdb.org/t/p/w500/60UYC6apdoC8VBh62WCkZ2LPGPk.jpg"
+      },
+      {
+        "name": "Diane Ladd",
+        "character": "Ida Sessions",
+        "photo": "https://image.tmdb.org/t/p/w500/l09hDywACsXFkmSy7d8V2YJiRNW.jpg"
+      },
+      {
+        "name": "Richard Bakalyan",
+        "character": "Detective Loach",
+        "photo": "https://image.tmdb.org/t/p/w500/a9dYf0sOQ2Eh3WydfkDxW3e2Tl4.jpg"
+      },
+      {
+        "name": "Joe Mantell",
+        "character": "Lawrence Walsh",
+        "photo": "https://image.tmdb.org/t/p/w500/tBRWb2XDzupDaGQo1J1taMn1Dzn.jpg"
+      },
+      {
+        "name": "Roy Jenson",
+        "character": "Claude Mulvihill",
+        "photo": "https://image.tmdb.org/t/p/w500/c0e49ddO1igeztMSrGPDmx4EyTo.jpg"
+      }
+    ],
+    "director": [
+      "Roman Polanski"
+    ]
   }
 }

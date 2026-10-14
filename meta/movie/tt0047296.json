@@ -19,6 +19,84 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Marlon Brando",
+      "Eva Marie Saint",
+      "Karl Malden",
+      "Lee J. Cobb",
+      "Rod Steiger",
+      "Pat Henning",
+      "Leif Erickson",
+      "James Westerfield",
+      "Tony Galento",
+      "Tami Mauriello",
+      "John F. Hamilton",
+      "John Heldabrand"
+    ],
+    "app_cast": [
+      {
+        "name": "Marlon Brando",
+        "character": "Terry Malloy",
+        "photo": "https://image.tmdb.org/t/p/w500/yIvLpf9U9NfAvC7fuAgOQ8tu51T.jpg"
+      },
+      {
+        "name": "Eva Marie Saint",
+        "character": "Edie Doyle",
+        "photo": "https://image.tmdb.org/t/p/w500/nJgTHDaCA3yl8vDu3nP8S6qjhIx.jpg"
+      },
+      {
+        "name": "Karl Malden",
+        "character": "Father Barry",
+        "photo": "https://image.tmdb.org/t/p/w500/njDua2jZ1X1f5SYLzpxDt0hIhYu.jpg"
+      },
+      {
+        "name": "Lee J. Cobb",
+        "character": "Johnny Friendly",
+        "photo": "https://image.tmdb.org/t/p/w500/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg"
+      },
+      {
+        "name": "Rod Steiger",
+        "character": "Charley Malloy",
+        "photo": "https://image.tmdb.org/t/p/w500/70bE5PZJbRHxG4th6gDvXGgXu4Z.jpg"
+      },
+      {
+        "name": "Pat Henning",
+        "character": "Kayo Dugan",
+        "photo": "https://image.tmdb.org/t/p/w500/owC4QL8ofk3hWsDVpA1oOTHP2Wc.jpg"
+      },
+      {
+        "name": "Leif Erickson",
+        "character": "Glover",
+        "photo": "https://image.tmdb.org/t/p/w500/nu85lcj5KYc1CZkvmsciw2SGM1V.jpg"
+      },
+      {
+        "name": "James Westerfield",
+        "character": "Big Mac",
+        "photo": "https://image.tmdb.org/t/p/w500/r4YlHYDrJiGUhd61kkkiv3WNEmc.jpg"
+      },
+      {
+        "name": "Tony Galento",
+        "character": "Truck",
+        "photo": "https://image.tmdb.org/t/p/w500/83OGOWAHSVwi4iixWztZUIbJ0GI.jpg"
+      },
+      {
+        "name": "Tami Mauriello",
+        "character": "Tillio"
+      },
+      {
+        "name": "John F. Hamilton",
+        "character": "'Pop' Doyle",
+        "photo": "https://image.tmdb.org/t/p/w500/3zbsvnJMYjGtKx0sCj4yKm7AZjL.jpg"
+      },
+      {
+        "name": "John Heldabrand",
+        "character": "Mott",
+        "photo": "https://image.tmdb.org/t/p/w500/e49YouXz3NoZ88GMIZh4NzOpHza.jpg"
+      }
+    ],
+    "director": [
+      "Elia Kazan"
+    ]
   }
 }

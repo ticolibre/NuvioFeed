@@ -19,6 +19,83 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Liza Minnelli",
+      "Michael York",
+      "Helmut Griem",
+      "Joel Grey",
+      "Fritz Wepper",
+      "Marisa Berenson",
+      "Elisabeth Neumann-Viertel",
+      "Helen Vita",
+      "Sigrid von Richthofen",
+      "Gerd Vespermann",
+      "Ralf Wolter",
+      "Georg Hartmann"
+    ],
+    "app_cast": [
+      {
+        "name": "Liza Minnelli",
+        "character": "Sally Bowles",
+        "photo": "https://image.tmdb.org/t/p/w500/1oGwXBirjCwPOfi2Qib9ZLFCTM4.jpg"
+      },
+      {
+        "name": "Michael York",
+        "character": "Brian Roberts",
+        "photo": "https://image.tmdb.org/t/p/w500/ha9Nh8We778sUg8QyDE1IRATzDY.jpg"
+      },
+      {
+        "name": "Helmut Griem",
+        "character": "Maximilian von Heune",
+        "photo": "https://image.tmdb.org/t/p/w500/hWZ4VvejLSQzl3xJb5IqAGZxXKQ.jpg"
+      },
+      {
+        "name": "Joel Grey",
+        "character": "Master of Ceremonies",
+        "photo": "https://image.tmdb.org/t/p/w500/JTvL1BdxNErOj0r5HOCiYdEjuc.jpg"
+      },
+      {
+        "name": "Fritz Wepper",
+        "character": "Fritz Wendel",
+        "photo": "https://image.tmdb.org/t/p/w500/iMhiHb4mlncocQw1PNFZiDwpmDN.jpg"
+      },
+      {
+        "name": "Marisa Berenson",
+        "character": "Natalia Landauer",
+        "photo": "https://image.tmdb.org/t/p/w500/uFrN8ve0nlBnHLrZmRpqPqcEBSR.jpg"
+      },
+      {
+        "name": "Elisabeth Neumann-Viertel",
+        "character": "Fräulein Schneider",
+        "photo": "https://image.tmdb.org/t/p/w500/pFichTVeyK1ZKnAGvMkI3c4QN0T.jpg"
+      },
+      {
+        "name": "Helen Vita",
+        "character": "Fräulein Kost",
+        "photo": "https://image.tmdb.org/t/p/w500/vkY8Y2CvNVpz7U4Nz9wHOFdIm1n.jpg"
+      },
+      {
+        "name": "Sigrid von Richthofen",
+        "character": "Fräulein Mayr",
+        "photo": "https://image.tmdb.org/t/p/w500/cLmOMdy2gyFZZmybaQhH1u3TZLM.jpg"
+      },
+      {
+        "name": "Gerd Vespermann",
+        "character": "Bobby"
+      },
+      {
+        "name": "Ralf Wolter",
+        "character": "Herr Ludwig",
+        "photo": "https://image.tmdb.org/t/p/w500/ndE1KW9QE4xeGGibQJtUjqqD4ih.jpg"
+      },
+      {
+        "name": "Georg Hartmann",
+        "character": "Willi"
+      }
+    ],
+    "director": [
+      "Bob Fosse"
+    ]
   }
 }

@@ -17,6 +17,84 @@
           "rating": "4.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Annie Hardy",
+      "Amar Chadha-Patel",
+      "Angela Enahoro",
+      "Seylan Baxter",
+      "James Swanton",
+      "Caroline Ward",
+      "Jemma Moore",
+      "Mogali Masuku",
+      "Haley Bishop",
+      "Emma Louise Webb",
+      "Radina Drandova",
+      "Faith Kiggundu"
+    ],
+    "app_cast": [
+      {
+        "name": "Annie Hardy",
+        "character": "Annie Hardy",
+        "photo": "https://image.tmdb.org/t/p/w500/wrkq84Y1KxBa4AJhuSJ2ebVpZUO.jpg"
+      },
+      {
+        "name": "Amar Chadha-Patel",
+        "character": "Stretch",
+        "photo": "https://image.tmdb.org/t/p/w500/6SZXUfn5A2IzwrWhpBDw99gC4uQ.jpg"
+      },
+      {
+        "name": "Angela Enahoro",
+        "character": "Angela"
+      },
+      {
+        "name": "Seylan Baxter",
+        "character": "Seylan",
+        "photo": "https://image.tmdb.org/t/p/w500/4DeuZiNsaYIN3VztxIyYorUCTKh.jpg"
+      },
+      {
+        "name": "James Swanton",
+        "character": "The Parasite",
+        "photo": "https://image.tmdb.org/t/p/w500/n7FXBEY2B56wiCR9IgqGOSNZjn1.jpg"
+      },
+      {
+        "name": "Caroline Ward",
+        "character": "The Bride",
+        "photo": "https://image.tmdb.org/t/p/w500/bHknMPDSpiymkkGJiOCpf0QcmPA.jpg"
+      },
+      {
+        "name": "Jemma Moore",
+        "character": "Gemma",
+        "photo": "https://image.tmdb.org/t/p/w500/8yaYuI0oors3S1FtMzwTLX50JzK.jpg"
+      },
+      {
+        "name": "Mogali Masuku",
+        "character": "Angela's Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/BjSoqfeLaI9zky5GwCo2ZgiuQB.jpg"
+      },
+      {
+        "name": "Haley Bishop",
+        "character": "Airport Announcer (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/fTEvA8Nw3c22bo6fLl1o9ADkeVi.jpg"
+      },
+      {
+        "name": "Emma Louise Webb",
+        "character": "Flight Attendant",
+        "photo": "https://image.tmdb.org/t/p/w500/z1xL9Ox8fdHHupLtzuzqMXvWTBR.jpg"
+      },
+      {
+        "name": "Radina Drandova",
+        "character": "Emergency Responder",
+        "photo": "https://image.tmdb.org/t/p/w500/lgq2TlQu10lqRINSHg4HmKE69gf.jpg"
+      },
+      {
+        "name": "Faith Kiggundu",
+        "character": "Young Angela",
+        "photo": "https://image.tmdb.org/t/p/w500/yaDBpb1bq3vUyYraxRUxLFWjuOE.jpg"
+      }
+    ],
+    "director": [
+      "Rob Savage"
+    ]
   }
 }

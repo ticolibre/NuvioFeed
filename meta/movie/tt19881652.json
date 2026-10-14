@@ -17,6 +17,39 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Claire Waldron",
+      "Rosie Glover",
+      "Finn McCauley",
+      "Bronwyn Thurson",
+      "Jeff Kingsford-Brown"
+    ],
+    "app_cast": [
+      {
+        "name": "Claire Waldron",
+        "character": "Carla",
+        "photo": "https://image.tmdb.org/t/p/w500/sIIbtuwWcoYVXInUBk7sTntFI0p.jpg"
+      },
+      {
+        "name": "Rosie Glover",
+        "character": "Lucy"
+      },
+      {
+        "name": "Finn McCauley",
+        "character": "Sam"
+      },
+      {
+        "name": "Bronwyn Thurson",
+        "character": "Little Lucy"
+      },
+      {
+        "name": "Jeff Kingsford-Brown",
+        "character": "Robert"
+      }
+    ],
+    "director": [
+      "Nikolai Puharich"
+    ]
   }
 }

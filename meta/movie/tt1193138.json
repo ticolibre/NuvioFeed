@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "George Clooney",
+      "Vera Farmiga",
+      "Anna Kendrick",
+      "Sam Elliott",
+      "Amy Morton",
+      "Jason Bateman",
+      "Melanie Lynskey",
+      "J.K. Simmons",
+      "Danny McBride",
+      "Zach Galifianakis",
+      "Tamala Jones",
+      "Adhir Kalyan"
+    ],
+    "app_cast": [
+      {
+        "name": "George Clooney",
+        "character": "Ryan Bingham",
+        "photo": "https://image.tmdb.org/t/p/w500/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+      },
+      {
+        "name": "Vera Farmiga",
+        "character": "Alex Goran",
+        "photo": "https://image.tmdb.org/t/p/w500/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+      },
+      {
+        "name": "Anna Kendrick",
+        "character": "Natalie Keener",
+        "photo": "https://image.tmdb.org/t/p/w500/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+      },
+      {
+        "name": "Sam Elliott",
+        "character": "Maynard Finch",
+        "photo": "https://image.tmdb.org/t/p/w500/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg"
+      },
+      {
+        "name": "Amy Morton",
+        "character": "Kara Bingham",
+        "photo": "https://image.tmdb.org/t/p/w500/2qLHQpxvFMlMKf7qeBKGRTsJF4S.jpg"
+      },
+      {
+        "name": "Jason Bateman",
+        "character": "Craig Gregory",
+        "photo": "https://image.tmdb.org/t/p/w500/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+      },
+      {
+        "name": "Melanie Lynskey",
+        "character": "Julie Bingham",
+        "photo": "https://image.tmdb.org/t/p/w500/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Bob",
+        "photo": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Danny McBride",
+        "character": "Jim Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+      },
+      {
+        "name": "Zach Galifianakis",
+        "character": "Steve",
+        "photo": "https://image.tmdb.org/t/p/w500/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg"
+      },
+      {
+        "name": "Tamala Jones",
+        "character": "Karen Barnes",
+        "photo": "https://image.tmdb.org/t/p/w500/8QjSyrB8mk21dcZxrfsODMxFulS.jpg"
+      },
+      {
+        "name": "Adhir Kalyan",
+        "character": "Fired IT worker",
+        "photo": "https://image.tmdb.org/t/p/w500/4AY2qSCB9EtzKwDOPEHS3E1lA8t.jpg"
+      }
+    ],
+    "director": [
+      "Jason Reitman"
+    ]
   }
 }

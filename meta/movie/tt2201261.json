@@ -19,6 +19,85 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Grace Kaufman",
+      "Jacques Colimon",
+      "Cherry Jones",
+      "Jason Segel",
+      "Pico Alexander",
+      "Ji-young Yoo",
+      "Havana Rose Liu",
+      "Julia Schlaepfer",
+      "Tyler Lofton",
+      "Solomon Shiv",
+      "Augie Isaac",
+      "Destiny Ekwueme"
+    ],
+    "app_cast": [
+      {
+        "name": "Grace Kaufman",
+        "character": "Lennie",
+        "photo": "https://image.tmdb.org/t/p/w500/rcHnvXc79Lv2PO2IjSd0O7tJKYG.jpg"
+      },
+      {
+        "name": "Jacques Colimon",
+        "character": "Joe Fontaine",
+        "photo": "https://image.tmdb.org/t/p/w500/uZchGUV6IcM7HI0sYmTbJMqbLnx.jpg"
+      },
+      {
+        "name": "Cherry Jones",
+        "character": "Fiona",
+        "photo": "https://image.tmdb.org/t/p/w500/cc9h2Tc17gzBw5wGJqC93FEYH0L.jpg"
+      },
+      {
+        "name": "Jason Segel",
+        "character": "Big",
+        "photo": "https://image.tmdb.org/t/p/w500/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg"
+      },
+      {
+        "name": "Pico Alexander",
+        "character": "Toby Shaw",
+        "photo": "https://image.tmdb.org/t/p/w500/jhh38xor4lGRYEz29KVbMUEZw3c.jpg"
+      },
+      {
+        "name": "Ji-young Yoo",
+        "character": "Sarah",
+        "photo": "https://image.tmdb.org/t/p/w500/4jgtqpNWhMx8XOKQ9qQJvDdzbxG.jpg"
+      },
+      {
+        "name": "Havana Rose Liu",
+        "character": "Bailey",
+        "photo": "https://image.tmdb.org/t/p/w500/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+      },
+      {
+        "name": "Julia Schlaepfer",
+        "character": "Rachel Brazile",
+        "photo": "https://image.tmdb.org/t/p/w500/5Vl088wkXT6y71X3TRkedA7I69i.jpg"
+      },
+      {
+        "name": "Tyler Lofton",
+        "character": "Marcus",
+        "photo": "https://image.tmdb.org/t/p/w500/nr7vWn2SL1l7n2tc0yaXPMD7KMX.jpg"
+      },
+      {
+        "name": "Solomon Shiv",
+        "character": "Mr. James",
+        "photo": "https://image.tmdb.org/t/p/w500/xOsgnUiPBjRGIeMw9nAb4k5IJJd.jpg"
+      },
+      {
+        "name": "Augie Isaac",
+        "character": "Luke Jacobus",
+        "photo": "https://image.tmdb.org/t/p/w500/xALU7khBY0MUyTWG5vxyrJrDQKC.jpg"
+      },
+      {
+        "name": "Destiny Ekwueme",
+        "character": "Preppy Student (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/tdFATUyBipzNAHPLHkdxVo6lPrO.jpg"
+      }
+    ],
+    "director": [
+      "Josephine Decker"
+    ]
   }
 }

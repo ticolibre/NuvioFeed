@@ -18,6 +18,85 @@
           "rating": "5.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Rhianne Barreto",
+      "Charlie Plummer",
+      "Poorna Jagannathan",
+      "Lovie Simone",
+      "Milcania Diaz-Rojas",
+      "J.C. MacKenzie",
+      "Nicholas Galitzine",
+      "Danny Mastrogiorgio",
+      "Jhaleil Swaby",
+      "Christian Corrao",
+      "Ivan Wanis-Ruiz",
+      "Emily Debowski"
+    ],
+    "app_cast": [
+      {
+        "name": "Rhianne Barreto",
+        "character": "Mandy",
+        "photo": "https://image.tmdb.org/t/p/w500/wUvSKB0LZ8lSaz8RGsiQsS1vkSz.jpg"
+      },
+      {
+        "name": "Charlie Plummer",
+        "character": "Dylan",
+        "photo": "https://image.tmdb.org/t/p/w500/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg"
+      },
+      {
+        "name": "Poorna Jagannathan",
+        "character": "Kerri",
+        "photo": "https://image.tmdb.org/t/p/w500/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
+      },
+      {
+        "name": "Lovie Simone",
+        "character": "Jenna",
+        "photo": "https://image.tmdb.org/t/p/w500/8O709kbtGUtffT2eypPpzYZemYR.jpg"
+      },
+      {
+        "name": "Milcania Diaz-Rojas",
+        "character": "Mia",
+        "photo": "https://image.tmdb.org/t/p/w500/qTdpQsJCD6p62DgtKvoaRHQ7gzd.jpg"
+      },
+      {
+        "name": "J.C. MacKenzie",
+        "character": "Mickey",
+        "photo": "https://image.tmdb.org/t/p/w500/jSd52pywztAKnC16eTJrOvEKabU.jpg"
+      },
+      {
+        "name": "Nicholas Galitzine",
+        "character": "A.J.",
+        "photo": "https://image.tmdb.org/t/p/w500/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+      },
+      {
+        "name": "Danny Mastrogiorgio",
+        "character": "Tony",
+        "photo": "https://image.tmdb.org/t/p/w500/aSbYZbk7TMgMN0Ec3LpOmEDzQBa.jpg"
+      },
+      {
+        "name": "Jhaleil Swaby",
+        "character": "Mason",
+        "photo": "https://image.tmdb.org/t/p/w500/bc1W48Ed875s0UqejA6XaRK9XZZ.jpg"
+      },
+      {
+        "name": "Christian Corrao",
+        "character": "Tyler",
+        "photo": "https://image.tmdb.org/t/p/w500/2ry9fdm6KVVx0Cao9wNM9AZ1sOY.jpg"
+      },
+      {
+        "name": "Ivan Wanis-Ruiz",
+        "character": "Officer Gregg",
+        "photo": "https://image.tmdb.org/t/p/w500/zeOLU4SSJZYuiM7UvSGariAbZHr.jpg"
+      },
+      {
+        "name": "Emily Debowski",
+        "character": "Pretty Girl",
+        "photo": "https://image.tmdb.org/t/p/w500/gKzM55Jg17T4sDBopuHrHTNwByN.jpg"
+      }
+    ],
+    "director": [
+      "Pippa Bianco"
+    ]
   }
 }

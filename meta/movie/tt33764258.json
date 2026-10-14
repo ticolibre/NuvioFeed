@@ -19,6 +19,85 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Matt Damon",
+      "Tom Holland",
+      "Anne Hathaway",
+      "Robert Pattinson",
+      "Himesh Patel",
+      "Charlize Theron",
+      "John Leguizamo",
+      "Travis Scott",
+      "Corey Hawkins",
+      "Jarreth J. Merz",
+      "Niko Nicotera",
+      "Elliot Page"
+    ],
+    "app_cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Odysseus",
+        "photo": "https://image.tmdb.org/t/p/w500/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+      },
+      {
+        "name": "Tom Holland",
+        "character": "Telemachus",
+        "photo": "https://image.tmdb.org/t/p/w500/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Penelope",
+        "photo": "https://image.tmdb.org/t/p/w500/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+      },
+      {
+        "name": "Robert Pattinson",
+        "character": "Antinous",
+        "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+      },
+      {
+        "name": "Himesh Patel",
+        "character": "Eurylochus",
+        "photo": "https://image.tmdb.org/t/p/w500/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+      },
+      {
+        "name": "Charlize Theron",
+        "character": "Calypso",
+        "photo": "https://image.tmdb.org/t/p/w500/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Eumaeus",
+        "photo": "https://image.tmdb.org/t/p/w500/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      },
+      {
+        "name": "Travis Scott",
+        "character": "Bard",
+        "photo": "https://image.tmdb.org/t/p/w500/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+      },
+      {
+        "name": "Corey Hawkins",
+        "character": "Polybus",
+        "photo": "https://image.tmdb.org/t/p/w500/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+      },
+      {
+        "name": "Jarreth J. Merz",
+        "character": "Leodes",
+        "photo": "https://image.tmdb.org/t/p/w500/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+      },
+      {
+        "name": "Niko Nicotera",
+        "character": "Peisander",
+        "photo": "https://image.tmdb.org/t/p/w500/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
+      },
+      {
+        "name": "Elliot Page",
+        "character": "Sinon",
+        "photo": "https://image.tmdb.org/t/p/w500/wSdlM4Qyoi5AGj5eIIp8Bm0Sfkz.jpg"
+      }
+    ],
+    "director": [
+      "Christopher Nolan"
+    ]
   }
 }

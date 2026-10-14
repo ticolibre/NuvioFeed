@@ -18,6 +18,85 @@
           "rating": "4.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Vinessa Shaw",
+      "James Ransone",
+      "Colin Ford",
+      "Eloise Lushina",
+      "Ajiona Alexus",
+      "Carson Meyer",
+      "France Jean-Baptiste",
+      "Ciaran Brown",
+      "Davis Aguila",
+      "Denise Santos",
+      "Bishop Stevens",
+      "Louis Robert Thompson"
+    ],
+    "app_cast": [
+      {
+        "name": "Vinessa Shaw",
+        "character": "Ellie",
+        "photo": "https://image.tmdb.org/t/p/w500/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg"
+      },
+      {
+        "name": "James Ransone",
+        "character": "Christopher",
+        "photo": "https://image.tmdb.org/t/p/w500/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+      },
+      {
+        "name": "Colin Ford",
+        "character": "Kyle",
+        "photo": "https://image.tmdb.org/t/p/w500/1mFmDWlJVcN1i9aRkzLasNnpdeo.jpg"
+      },
+      {
+        "name": "Eloise Lushina",
+        "character": "Amy",
+        "photo": "https://image.tmdb.org/t/p/w500/nnaGire1zcCZDI9H59q31URwsPH.jpg"
+      },
+      {
+        "name": "Ajiona Alexus",
+        "character": "Meegan",
+        "photo": "https://image.tmdb.org/t/p/w500/5zJwaRMkyKgT2PbABsnKAsIEQrs.jpg"
+      },
+      {
+        "name": "Carson Meyer",
+        "character": "Kristen",
+        "photo": "https://image.tmdb.org/t/p/w500/8KLwlVhrGOQp3T35e2W894HTCkN.jpg"
+      },
+      {
+        "name": "France Jean-Baptiste",
+        "character": "Ms. Jensen",
+        "photo": "https://image.tmdb.org/t/p/w500/rzhXz0z1EW7DsElPpGkyz96eaD8.jpg"
+      },
+      {
+        "name": "Ciaran Brown",
+        "character": "Eddie",
+        "photo": "https://image.tmdb.org/t/p/w500/uuNHvUNWDFqF5QEMAUvR0zdsE8w.jpg"
+      },
+      {
+        "name": "Davis Aguila",
+        "character": "Police Officer",
+        "photo": "https://image.tmdb.org/t/p/w500/hQjeVR7EygYXvqk2H7QI5Awu0RC.jpg"
+      },
+      {
+        "name": "Denise Santos",
+        "character": "Amy's Teacher",
+        "photo": "https://image.tmdb.org/t/p/w500/zdamF9sqQeAW4J3r9LRcP2mTXsa.jpg"
+      },
+      {
+        "name": "Bishop Stevens",
+        "character": "Pawn Salesman",
+        "photo": "https://image.tmdb.org/t/p/w500/e7sPcKUdzeakGHllbNRKXFpWpmO.jpg"
+      },
+      {
+        "name": "Louis Robert Thompson",
+        "character": "Stephen Fuller",
+        "photo": "https://image.tmdb.org/t/p/w500/2TCtfLfExfWWJrKkzzdHN5tlyO9.jpg"
+      }
+    ],
+    "director": [
+      "Sonny Mallhi"
+    ]
   }
 }

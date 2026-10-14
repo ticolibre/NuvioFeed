@@ -19,6 +19,84 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Elizabeth Mitchell",
+      "Frank Grillo",
+      "Mykelti Williamson",
+      "Betty Gabriel",
+      "J. J. Soria",
+      "Raymond J. Barry",
+      "Edwin Hodge",
+      "Kyle Secor",
+      "Ethan Phillips",
+      "Terry Serpico",
+      "David Aaron Baker",
+      "Kimberly Howe"
+    ],
+    "app_cast": [
+      {
+        "name": "Elizabeth Mitchell",
+        "character": "Senator Charlie Roan",
+        "photo": "https://image.tmdb.org/t/p/w500/tpagVmiCbOQ8CPiRxF5MuZGfZGV.jpg"
+      },
+      {
+        "name": "Frank Grillo",
+        "character": "Leo Barnes",
+        "photo": "https://image.tmdb.org/t/p/w500/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Joe Dixon",
+        "photo": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "name": "Betty Gabriel",
+        "character": "Laney Rucker",
+        "photo": "https://image.tmdb.org/t/p/w500/n67i3H3VM5quDQfcS591EbotPby.jpg"
+      },
+      {
+        "name": "J. J. Soria",
+        "character": "Marcos",
+        "photo": "https://image.tmdb.org/t/p/w500/vcBpEeJLPtOuSnrSuV7oUJKSuY7.jpg"
+      },
+      {
+        "name": "Raymond J. Barry",
+        "character": "Leader Caleb Warrens",
+        "photo": "https://image.tmdb.org/t/p/w500/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+      },
+      {
+        "name": "Edwin Hodge",
+        "character": "Dante Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/lkouUtGzfgUPUj1LP8cEk8yvKXo.jpg"
+      },
+      {
+        "name": "Kyle Secor",
+        "character": "Minister Edwidge Owens",
+        "photo": "https://image.tmdb.org/t/p/w500/8hdk4SVuSWX8fcLQfOqbFCMMA9W.jpg"
+      },
+      {
+        "name": "Ethan Phillips",
+        "character": "Chief Couper",
+        "photo": "https://image.tmdb.org/t/p/w500/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg"
+      },
+      {
+        "name": "Terry Serpico",
+        "character": "Earl Danzinger",
+        "photo": "https://image.tmdb.org/t/p/w500/5UfDA4ySgYUhle7iXqOuhzAgghn.jpg"
+      },
+      {
+        "name": "David Aaron Baker",
+        "character": "Tommy Roseland",
+        "photo": "https://image.tmdb.org/t/p/w500/8wAIPBB1F0u04PmYLZVd2t8r9bf.jpg"
+      },
+      {
+        "name": "Kimberly Howe",
+        "character": "School Girl #4"
+      }
+    ],
+    "director": [
+      "James DeMonaco"
+    ]
   }
 }

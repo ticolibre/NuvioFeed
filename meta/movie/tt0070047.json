@@ -17,6 +17,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Ellen Burstyn",
+      "Linda Blair",
+      "Jason Miller",
+      "Max von Sydow",
+      "Lee J. Cobb",
+      "William O'Malley",
+      "Kitty Winn",
+      "Barton Heyman",
+      "Peter Masterson",
+      "Jack MacGowran",
+      "Rudolf Schündler",
+      "Gina Petrushka"
+    ],
+    "app_cast": [
+      {
+        "name": "Ellen Burstyn",
+        "character": "Chris MacNeil",
+        "photo": "https://image.tmdb.org/t/p/w500/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
+      },
+      {
+        "name": "Linda Blair",
+        "character": "Regan MacNeil",
+        "photo": "https://image.tmdb.org/t/p/w500/diMBw4RF5HIFnBak6C2Obq3n2Dt.jpg"
+      },
+      {
+        "name": "Jason Miller",
+        "character": "Father Damien Karras",
+        "photo": "https://image.tmdb.org/t/p/w500/hYC0SWjPQy4BGJo7fPleifPpcuC.jpg"
+      },
+      {
+        "name": "Max von Sydow",
+        "character": "Father Lankester Merrin",
+        "photo": "https://image.tmdb.org/t/p/w500/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
+      },
+      {
+        "name": "Lee J. Cobb",
+        "character": "Lt. Bill Kinderman",
+        "photo": "https://image.tmdb.org/t/p/w500/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg"
+      },
+      {
+        "name": "William O'Malley",
+        "character": "Father Joseph Kevin Dyer",
+        "photo": "https://image.tmdb.org/t/p/w500/ukGO7hUgIzCZn29ORLKoicyfuM7.jpg"
+      },
+      {
+        "name": "Kitty Winn",
+        "character": "Sharon Spencer",
+        "photo": "https://image.tmdb.org/t/p/w500/9qO3EfnwYkiuol2z8jzetCIR92f.jpg"
+      },
+      {
+        "name": "Barton Heyman",
+        "character": "Dr. Klein",
+        "photo": "https://image.tmdb.org/t/p/w500/6oyn9WMxi8GjzHAFm3weJBUejkI.jpg"
+      },
+      {
+        "name": "Peter Masterson",
+        "character": "Dr. Barringer",
+        "photo": "https://image.tmdb.org/t/p/w500/xNIV2DrSMBsxs1XRt0YBBKVnBul.jpg"
+      },
+      {
+        "name": "Jack MacGowran",
+        "character": "Burke Dennings",
+        "photo": "https://image.tmdb.org/t/p/w500/rpQ8woHjo3ZzsJNT3RJSfJGDNIQ.jpg"
+      },
+      {
+        "name": "Rudolf Schündler",
+        "character": "Karl",
+        "photo": "https://image.tmdb.org/t/p/w500/pCMgzBPLU4CpAVckCiTkAjEM8ca.jpg"
+      },
+      {
+        "name": "Gina Petrushka",
+        "character": "Willi"
+      }
+    ],
+    "director": [
+      "William Friedkin"
+    ]
   }
 }

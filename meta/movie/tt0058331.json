@@ -19,6 +19,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Julie Andrews",
+      "Dick Van Dyke",
+      "David Tomlinson",
+      "Glynis Johns",
+      "Hermione Baddeley",
+      "Karen Dotrice",
+      "Matthew Garber",
+      "Elsa Lanchester",
+      "Arthur Treacher",
+      "Reginald Owen",
+      "Ed Wynn",
+      "Reta Shaw"
+    ],
+    "app_cast": [
+      {
+        "name": "Julie Andrews",
+        "character": "Mary Poppins",
+        "photo": "https://image.tmdb.org/t/p/w500/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg"
+      },
+      {
+        "name": "Dick Van Dyke",
+        "character": "Bert / Mr. Dawes Sr.",
+        "photo": "https://image.tmdb.org/t/p/w500/jXAeNx7mYdirzMHcqPyj5VXxcXi.jpg"
+      },
+      {
+        "name": "David Tomlinson",
+        "character": "Mr. Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/lKhZSgrvhArJcB9uowtxto8ACt2.jpg"
+      },
+      {
+        "name": "Glynis Johns",
+        "character": "Mrs. Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/rg5rQdHnZEhevzmkzePr6GcI7Xk.jpg"
+      },
+      {
+        "name": "Hermione Baddeley",
+        "character": "Ellen",
+        "photo": "https://image.tmdb.org/t/p/w500/6HMJoP13gHI4MdPcApyYirfUNDl.jpg"
+      },
+      {
+        "name": "Karen Dotrice",
+        "character": "Jane Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/wieIGhDHMVsfGVZuVhctjN9kzXd.jpg"
+      },
+      {
+        "name": "Matthew Garber",
+        "character": "Michael Banks",
+        "photo": "https://image.tmdb.org/t/p/w500/x78xIImLQWfPFbDnhWTmRhe8vg2.jpg"
+      },
+      {
+        "name": "Elsa Lanchester",
+        "character": "Katie Nanna",
+        "photo": "https://image.tmdb.org/t/p/w500/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
+      },
+      {
+        "name": "Arthur Treacher",
+        "character": "Constable",
+        "photo": "https://image.tmdb.org/t/p/w500/oPhvOmBTJxFqRQfkEyyPuKJM5Bu.jpg"
+      },
+      {
+        "name": "Reginald Owen",
+        "character": "Admiral Boom",
+        "photo": "https://image.tmdb.org/t/p/w500/a7PEC3JPysPo4OoOqOIagDFZmNB.jpg"
+      },
+      {
+        "name": "Ed Wynn",
+        "character": "Uncle Albert",
+        "photo": "https://image.tmdb.org/t/p/w500/ephGLfQWundnRnvMR0JdK2NhJBQ.jpg"
+      },
+      {
+        "name": "Reta Shaw",
+        "character": "Mrs. Brill",
+        "photo": "https://image.tmdb.org/t/p/w500/gy1L3rVUPFRvoztcHc5GOT2ABhz.jpg"
+      }
+    ],
+    "director": [
+      "Robert Stevenson"
+    ]
   }
 }

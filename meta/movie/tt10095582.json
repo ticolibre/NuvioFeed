@@ -17,6 +17,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Denzel Washington",
+      "Frances McDormand",
+      "Alex Hassell",
+      "Bertie Carvel",
+      "Brendan Gleeson",
+      "Corey Hawkins",
+      "Harry Melling",
+      "Miles Anderson",
+      "Kathryn Hunter",
+      "Matt Helm",
+      "Moses Ingram",
+      "Scott Subiono"
+    ],
+    "app_cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "Macbeth",
+        "photo": "https://image.tmdb.org/t/p/w500/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Frances McDormand",
+        "character": "Lady Macbeth",
+        "photo": "https://image.tmdb.org/t/p/w500/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+      },
+      {
+        "name": "Alex Hassell",
+        "character": "Ross",
+        "photo": "https://image.tmdb.org/t/p/w500/ssL09IDQBkw1BtRcvvZnm6OJMSm.jpg"
+      },
+      {
+        "name": "Bertie Carvel",
+        "character": "Banquo",
+        "photo": "https://image.tmdb.org/t/p/w500/mubZZIs58TGlEeOG9foMPQAPxOa.jpg"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Duncan",
+        "photo": "https://image.tmdb.org/t/p/w500/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+      },
+      {
+        "name": "Corey Hawkins",
+        "character": "Macduff",
+        "photo": "https://image.tmdb.org/t/p/w500/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+      },
+      {
+        "name": "Harry Melling",
+        "character": "Malcolm",
+        "photo": "https://image.tmdb.org/t/p/w500/pecqrci8S0yROqyd80K5s8LTaAR.jpg"
+      },
+      {
+        "name": "Miles Anderson",
+        "character": "Lennox",
+        "photo": "https://image.tmdb.org/t/p/w500/i4VFdmtrRrQoagTlHHlC1klwJAE.jpg"
+      },
+      {
+        "name": "Kathryn Hunter",
+        "character": "Witches / Old Man",
+        "photo": "https://image.tmdb.org/t/p/w500/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
+      },
+      {
+        "name": "Matt Helm",
+        "character": "Donalbain",
+        "photo": "https://image.tmdb.org/t/p/w500/aUTzIyqTRs0BSpsnIQF6f5OkoBD.jpg"
+      },
+      {
+        "name": "Moses Ingram",
+        "character": "Lady Macduff",
+        "photo": "https://image.tmdb.org/t/p/w500/u7I5f4Bgz7CI8G7fUOJDbFtd0qf.jpg"
+      },
+      {
+        "name": "Scott Subiono",
+        "character": "Murderer",
+        "photo": "https://image.tmdb.org/t/p/w500/r0xy019yATZzwPqm8tcKuFNInnh.jpg"
+      }
+    ],
+    "director": [
+      "Joel Coen"
+    ]
   }
 }

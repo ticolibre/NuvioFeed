@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Emma Thompson",
+      "Kate Winslet",
+      "Alan Rickman",
+      "Hugh Grant",
+      "Gemma Jones",
+      "Greg Wise",
+      "Elizabeth Spriggs",
+      "Imogen Stubbs",
+      "Harriet Walter",
+      "James Fleet",
+      "Imelda Staunton",
+      "Hugh Laurie"
+    ],
+    "app_cast": [
+      {
+        "name": "Emma Thompson",
+        "character": "Elinor Dashwood",
+        "photo": "https://image.tmdb.org/t/p/w500/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Marianne Dashwood",
+        "photo": "https://image.tmdb.org/t/p/w500/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Colonel Christopher Brandon",
+        "photo": "https://image.tmdb.org/t/p/w500/1EearzPgXkmYFKvECfWNrctIFT9.jpg"
+      },
+      {
+        "name": "Hugh Grant",
+        "character": "Edward Ferrars",
+        "photo": "https://image.tmdb.org/t/p/w500/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+      },
+      {
+        "name": "Gemma Jones",
+        "character": "Mrs. Dashwood",
+        "photo": "https://image.tmdb.org/t/p/w500/hFApnOEWXyE55ONGGXis6a0PPHM.jpg"
+      },
+      {
+        "name": "Greg Wise",
+        "character": "John Willoughby",
+        "photo": "https://image.tmdb.org/t/p/w500/3yjzOyFVc8TpPW0Q8svr4ykD2kW.jpg"
+      },
+      {
+        "name": "Elizabeth Spriggs",
+        "character": "Mrs. Jennings",
+        "photo": "https://image.tmdb.org/t/p/w500/aXyhNX3nqrtrwtIHTwU8brmbdrq.jpg"
+      },
+      {
+        "name": "Imogen Stubbs",
+        "character": "Lucy Steele",
+        "photo": "https://image.tmdb.org/t/p/w500/gdhBQfUMZbEs1XH3qozHLXoYhzM.jpg"
+      },
+      {
+        "name": "Harriet Walter",
+        "character": "Fanny Ferrars Dashwood",
+        "photo": "https://image.tmdb.org/t/p/w500/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+      },
+      {
+        "name": "James Fleet",
+        "character": "John Dashwood",
+        "photo": "https://image.tmdb.org/t/p/w500/wCXNHgrmOk57NIdLfY7ve1ghxjJ.jpg"
+      },
+      {
+        "name": "Imelda Staunton",
+        "character": "Charlotte Jennings Palmer",
+        "photo": "https://image.tmdb.org/t/p/w500/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg"
+      },
+      {
+        "name": "Hugh Laurie",
+        "character": "Mr. Palmer",
+        "photo": "https://image.tmdb.org/t/p/w500/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+      }
+    ],
+    "director": [
+      "Ang Lee"
+    ]
   }
 }

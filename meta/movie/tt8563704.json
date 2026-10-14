@@ -18,6 +18,25 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Drew Michael",
+      "Suki Waterhouse"
+    ],
+    "app_cast": [
+      {
+        "name": "Drew Michael",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/c7F7l8whdJR00zaRYTQ22ciT6hr.jpg"
+      },
+      {
+        "name": "Suki Waterhouse",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/bpGRoG2DRsySQBICMzCuvfFDg0e.jpg"
+      }
+    ],
+    "director": [
+      "Jerrod Carmichael"
+    ]
   }
 }

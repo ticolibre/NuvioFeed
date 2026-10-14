@@ -18,6 +18,85 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Frank Grillo",
+      "Carmen Ejogo",
+      "Zach Gilford",
+      "Michael Kenneth Williams",
+      "Kiele Sanchez",
+      "Zoë Soul",
+      "Edwin Hodge",
+      "Justina Machado",
+      "John Beasley",
+      "Jack Conley",
+      "Noel Gugliemi",
+      "Castulo Guerra"
+    ],
+    "app_cast": [
+      {
+        "name": "Frank Grillo",
+        "character": "Sergeant",
+        "photo": "https://image.tmdb.org/t/p/w500/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+      },
+      {
+        "name": "Carmen Ejogo",
+        "character": "Eva Sanchez",
+        "photo": "https://image.tmdb.org/t/p/w500/b2qi5NxOwoxK67LPz0MjVwjRcFp.jpg"
+      },
+      {
+        "name": "Zach Gilford",
+        "character": "Shane",
+        "photo": "https://image.tmdb.org/t/p/w500/z7PA2poYtjl9KSy4S0IgW6d5Y9.jpg"
+      },
+      {
+        "name": "Michael Kenneth Williams",
+        "character": "Carmelo",
+        "photo": "https://image.tmdb.org/t/p/w500/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+      },
+      {
+        "name": "Kiele Sanchez",
+        "character": "Liz",
+        "photo": "https://image.tmdb.org/t/p/w500/klmeWImg34TiEia6c6ZkwHhaVoB.jpg"
+      },
+      {
+        "name": "Zoë Soul",
+        "character": "Cali",
+        "photo": "https://image.tmdb.org/t/p/w500/6gOYJPZevqSYP5MKxUl2f0B0zZY.jpg"
+      },
+      {
+        "name": "Edwin Hodge",
+        "character": "The Stranger",
+        "photo": "https://image.tmdb.org/t/p/w500/lkouUtGzfgUPUj1LP8cEk8yvKXo.jpg"
+      },
+      {
+        "name": "Justina Machado",
+        "character": "Tanya",
+        "photo": "https://image.tmdb.org/t/p/w500/j5FaJXoyhMHlqv1l6TBdt1CH1oO.jpg"
+      },
+      {
+        "name": "John Beasley",
+        "character": "Papa Rico",
+        "photo": "https://image.tmdb.org/t/p/w500/tpZQojv2UfelPHr1eSphcp0iEpJ.jpg"
+      },
+      {
+        "name": "Jack Conley",
+        "character": "Big Daddy",
+        "photo": "https://image.tmdb.org/t/p/w500/78bceHx2BdTJLhhomIbpQKm15TR.jpg"
+      },
+      {
+        "name": "Noel Gugliemi",
+        "character": "Diego",
+        "photo": "https://image.tmdb.org/t/p/w500/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+      },
+      {
+        "name": "Castulo Guerra",
+        "character": "Barney",
+        "photo": "https://image.tmdb.org/t/p/w500/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+      }
+    ],
+    "director": [
+      "James DeMonaco"
+    ]
   }
 }

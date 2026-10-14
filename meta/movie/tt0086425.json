@@ -18,6 +18,82 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Shirley MacLaine",
+      "Debra Winger",
+      "Jack Nicholson",
+      "Danny DeVito",
+      "Jeff Daniels",
+      "John Lithgow",
+      "Lisa Hart Carroll",
+      "Betty King",
+      "Huckleberry Fox",
+      "Troy Bishop",
+      "Shane Serwin",
+      "Megan Morris"
+    ],
+    "app_cast": [
+      {
+        "name": "Shirley MacLaine",
+        "character": "Aurora Greenway",
+        "photo": "https://image.tmdb.org/t/p/w500/vU4QsP3GRj03S8Z92vrZfkdb7rO.jpg"
+      },
+      {
+        "name": "Debra Winger",
+        "character": "Emma Greenway Horton",
+        "photo": "https://image.tmdb.org/t/p/w500/iHZ2mZHEaNYFhEpnSguk043SKVE.jpg"
+      },
+      {
+        "name": "Jack Nicholson",
+        "character": "Garrett Breedlove",
+        "photo": "https://image.tmdb.org/t/p/w500/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Vernon Dahlart",
+        "photo": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+      },
+      {
+        "name": "Jeff Daniels",
+        "character": "Flap Horton",
+        "photo": "https://image.tmdb.org/t/p/w500/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+      },
+      {
+        "name": "John Lithgow",
+        "character": "Sam Burns",
+        "photo": "https://image.tmdb.org/t/p/w500/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+      },
+      {
+        "name": "Lisa Hart Carroll",
+        "character": "Patsy Clark",
+        "photo": "https://image.tmdb.org/t/p/w500/thw4gxTUh5kfQnAdlpcobossFIZ.jpg"
+      },
+      {
+        "name": "Betty King",
+        "character": "Rosie Dunlop"
+      },
+      {
+        "name": "Huckleberry Fox",
+        "character": "Teddy Horton",
+        "photo": "https://image.tmdb.org/t/p/w500/ytzaXNqT5hzGpF8hbhwXL1bcfiL.jpg"
+      },
+      {
+        "name": "Troy Bishop",
+        "character": "Tommy Horton",
+        "photo": "https://image.tmdb.org/t/p/w500/mDGMe2JETRWqhryN3oQzJG1ltSp.jpg"
+      },
+      {
+        "name": "Shane Serwin",
+        "character": "Younger Tommy Horton"
+      },
+      {
+        "name": "Megan Morris",
+        "character": "Melanie Horton"
+      }
+    ],
+    "director": [
+      "James L. Brooks"
+    ]
   }
 }

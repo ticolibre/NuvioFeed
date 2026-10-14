@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Rex Harrison",
+      "Pamela Brown",
+      "George Cole",
+      "Hume Cronyn",
+      "Cesare Danova",
+      "Kenneth Haigh",
+      "Andrew Keir",
+      "Martin Landau",
+      "Roddy McDowall",
+      "Robert Stephens"
+    ],
+    "app_cast": [
+      {
+        "name": "Elizabeth Taylor",
+        "character": "Cleopatra",
+        "photo": "https://image.tmdb.org/t/p/w500/eMUUN7yGSSH4G4dcqnKAZTquZP.jpg"
+      },
+      {
+        "name": "Richard Burton",
+        "character": "Marcus Antonius",
+        "photo": "https://image.tmdb.org/t/p/w500/j8yRSo6S2bnYubKZTBUvD7fuOyX.jpg"
+      },
+      {
+        "name": "Rex Harrison",
+        "character": "Julius Caesar",
+        "photo": "https://image.tmdb.org/t/p/w500/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+      },
+      {
+        "name": "Pamela Brown",
+        "character": "High Priestess",
+        "photo": "https://image.tmdb.org/t/p/w500/mDEDRlKcI7OnB3jbfD6FcNct3wk.jpg"
+      },
+      {
+        "name": "George Cole",
+        "character": "Flavius",
+        "photo": "https://image.tmdb.org/t/p/w500/qRQlXtz9l3Sbe9OzpIQMvb6v3E3.jpg"
+      },
+      {
+        "name": "Hume Cronyn",
+        "character": "Sosigenes",
+        "photo": "https://image.tmdb.org/t/p/w500/2Tdh3cbagprrV0wN6q96u8wTTNJ.jpg"
+      },
+      {
+        "name": "Cesare Danova",
+        "character": "Apollodorus",
+        "photo": "https://image.tmdb.org/t/p/w500/fJVMpl25lXnd6gwiLxMV1thVFsh.jpg"
+      },
+      {
+        "name": "Kenneth Haigh",
+        "character": "Brutus",
+        "photo": "https://image.tmdb.org/t/p/w500/4rriFzrXqErXWXUzNtHxdYz0AcE.jpg"
+      },
+      {
+        "name": "Andrew Keir",
+        "character": "Agrippa",
+        "photo": "https://image.tmdb.org/t/p/w500/4FeHARcXJTu2TpUxy1eAoPR3Eim.jpg"
+      },
+      {
+        "name": "Martin Landau",
+        "character": "Rufio",
+        "photo": "https://image.tmdb.org/t/p/w500/dznOAZPpAyXu7PfCz5obbJ2YzsJ.jpg"
+      },
+      {
+        "name": "Roddy McDowall",
+        "character": "Octavian - Caesar Augustus",
+        "photo": "https://image.tmdb.org/t/p/w500/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+      },
+      {
+        "name": "Robert Stephens",
+        "character": "Germanicus",
+        "photo": "https://image.tmdb.org/t/p/w500/u363weCaBlDQbvMW7a2ef2unuWC.jpg"
+      }
+    ],
+    "director": [
+      "Joseph L. Mankiewicz"
+    ]
   }
 }

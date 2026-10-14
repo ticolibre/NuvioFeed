@@ -18,6 +18,20 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Jacques-Yves Cousteau"
+    ],
+    "app_cast": [
+      {
+        "name": "Jacques-Yves Cousteau",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/vpsua5AW1EVEmsCRFPabjaUY7Zx.jpg"
+      }
+    ],
+    "director": [
+      "Jacques-Yves Cousteau",
+      "Louis Malle"
+    ]
   }
 }

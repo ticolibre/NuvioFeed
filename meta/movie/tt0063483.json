@@ -18,6 +18,83 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Joanne Woodward",
+      "James Olson",
+      "Kate Harrington",
+      "Estelle Parsons",
+      "Donald Moffat",
+      "Terry Kiser",
+      "Frank Corsaro",
+      "Bernard Barrow",
+      "Geraldine Fitzgerald",
+      "Nell Newman",
+      "Shawn Campbell",
+      "Violet Dunn"
+    ],
+    "app_cast": [
+      {
+        "name": "Joanne Woodward",
+        "character": "Rachel Cameron",
+        "photo": "https://image.tmdb.org/t/p/w500/exxVnvJM9oTT1zEjFhcEHidpQ6P.jpg"
+      },
+      {
+        "name": "James Olson",
+        "character": "Nick Kazlik",
+        "photo": "https://image.tmdb.org/t/p/w500/poeGcRZH9GXvNCfqQn66STpMqhz.jpg"
+      },
+      {
+        "name": "Kate Harrington",
+        "character": "Mrs. Cameron",
+        "photo": "https://image.tmdb.org/t/p/w500/xrVWFw1qzBgjHC3n6AQUDpThHhP.jpg"
+      },
+      {
+        "name": "Estelle Parsons",
+        "character": "Calla Mackie",
+        "photo": "https://image.tmdb.org/t/p/w500/e2MNDJy2GqrUiden7DcqZUrCvq.jpg"
+      },
+      {
+        "name": "Donald Moffat",
+        "character": "Niall Cameron",
+        "photo": "https://image.tmdb.org/t/p/w500/8kZ2Ow3cPtTmDwTxL7jFEsQi4ia.jpg"
+      },
+      {
+        "name": "Terry Kiser",
+        "character": "Preacher",
+        "photo": "https://image.tmdb.org/t/p/w500/2d4ZN6NuQvv7j11Ouf0xcvRamGu.jpg"
+      },
+      {
+        "name": "Frank Corsaro",
+        "character": "Hector Jonas",
+        "photo": "https://image.tmdb.org/t/p/w500/93G5VUMiYcRMYEmg0VdJkKItNXq.jpg"
+      },
+      {
+        "name": "Bernard Barrow",
+        "character": "Leighton Siddley",
+        "photo": "https://image.tmdb.org/t/p/w500/konb8cSk0AopchAxAIOx7nL9o45.jpg"
+      },
+      {
+        "name": "Geraldine Fitzgerald",
+        "character": "Rev. Wood",
+        "photo": "https://image.tmdb.org/t/p/w500/jLpd1AxJIAYHE41kIJjXKAK5Vnn.jpg"
+      },
+      {
+        "name": "Nell Newman",
+        "character": "Rachel as a child",
+        "photo": "https://image.tmdb.org/t/p/w500/j8UIgCP6eVP0vPEVZSEljIlc8xK.jpg"
+      },
+      {
+        "name": "Shawn Campbell",
+        "character": "James"
+      },
+      {
+        "name": "Violet Dunn",
+        "character": "Verla"
+      }
+    ],
+    "director": [
+      "Paul Newman"
+    ]
   }
 }

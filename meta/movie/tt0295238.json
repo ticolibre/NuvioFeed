@@ -17,6 +17,85 @@
           "rating": "5.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Kyra Sedgwick",
+      "Parker Posey",
+      "Fairuza Balk",
+      "John Ventimiglia",
+      "Ron Leibman",
+      "Wallace Shawn",
+      "David Warshofsky",
+      "Leo Fitzpatrick",
+      "Tim Guinee",
+      "Patti D'Arbanville",
+      "Ben Shenkman",
+      "Joel de la Fuente"
+    ],
+    "app_cast": [
+      {
+        "name": "Kyra Sedgwick",
+        "character": "Delia Shunt",
+        "photo": "https://image.tmdb.org/t/p/w500/cfpLVZWChElvkKegZopC0xDjEWk.jpg"
+      },
+      {
+        "name": "Parker Posey",
+        "character": "Greta Herskowitz",
+        "photo": "https://image.tmdb.org/t/p/w500/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+      },
+      {
+        "name": "Fairuza Balk",
+        "character": "Paula",
+        "photo": "https://image.tmdb.org/t/p/w500/jJGfElPOapRPRm99eovc3EUgLxp.jpg"
+      },
+      {
+        "name": "John Ventimiglia",
+        "character": "Narrator (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/1KSrI47Q3mdb3XXoEpiNaZoWsGp.jpg"
+      },
+      {
+        "name": "Ron Leibman",
+        "character": "Avram Herskowitz",
+        "photo": "https://image.tmdb.org/t/p/w500/9jlCMwql67sAKSzDiADlRYveCRN.jpg"
+      },
+      {
+        "name": "Wallace Shawn",
+        "character": "Mr. Gelb",
+        "photo": "https://image.tmdb.org/t/p/w500/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        "name": "David Warshofsky",
+        "character": "Kurt Wurtzle",
+        "photo": "https://image.tmdb.org/t/p/w500/pLABX1wyaVE4CcEZVmoM2Y5XbQU.jpg"
+      },
+      {
+        "name": "Leo Fitzpatrick",
+        "character": "Mylert",
+        "photo": "https://image.tmdb.org/t/p/w500/iZG9G5DstChbwlL9mAQ727heZX.jpg"
+      },
+      {
+        "name": "Tim Guinee",
+        "character": "Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/4ceLJK0hD8DhRBARGxfodluK8Bh.jpg"
+      },
+      {
+        "name": "Patti D'Arbanville",
+        "character": "Celia",
+        "photo": "https://image.tmdb.org/t/p/w500/gBv2vxPFPLpnqbIYw8Xu0xkVtFF.jpg"
+      },
+      {
+        "name": "Ben Shenkman",
+        "character": "Max",
+        "photo": "https://image.tmdb.org/t/p/w500/AcIhNToOtxVc44GOP8IhcuOPqb3.jpg"
+      },
+      {
+        "name": "Joel de la Fuente",
+        "character": "Thavi Matola",
+        "photo": "https://image.tmdb.org/t/p/w500/xRDyGJpIYG0IFEv1nLD3C23WSeA.jpg"
+      }
+    ],
+    "director": [
+      "Rebecca Miller"
+    ]
   }
 }

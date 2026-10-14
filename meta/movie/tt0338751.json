@@ -17,6 +17,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Leonardo DiCaprio",
+      "Cate Blanchett",
+      "Kate Beckinsale",
+      "John C. Reilly",
+      "Alec Baldwin",
+      "Alan Alda",
+      "Ian Holm",
+      "Danny Huston",
+      "Gwen Stefani",
+      "Jude Law",
+      "Adam Scott",
+      "Matt Ross"
+    ],
+    "app_cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Howard Hughes",
+        "photo": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Katharine Hepburn",
+        "photo": "https://image.tmdb.org/t/p/w500/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        "name": "Kate Beckinsale",
+        "character": "Ava Gardner",
+        "photo": "https://image.tmdb.org/t/p/w500/aoIQJzrWRtq9mOeaPadzpUCAaVd.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Noah Dietrich",
+        "photo": "https://image.tmdb.org/t/p/w500/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Alec Baldwin",
+        "character": "Juan Trippe",
+        "photo": "https://image.tmdb.org/t/p/w500/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+      },
+      {
+        "name": "Alan Alda",
+        "character": "Senator Ralph Owen Brewster",
+        "photo": "https://image.tmdb.org/t/p/w500/a5tOOHdsrKSabKwdzDOYqeTp446.jpg"
+      },
+      {
+        "name": "Ian Holm",
+        "character": "Professor Fitz",
+        "photo": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Jack Frye",
+        "photo": "https://image.tmdb.org/t/p/w500/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+      },
+      {
+        "name": "Gwen Stefani",
+        "character": "Jean Harlow",
+        "photo": "https://image.tmdb.org/t/p/w500/pZDg9B0SFPCzfPCgYDKfROFzsBP.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Errol Flynn",
+        "photo": "https://image.tmdb.org/t/p/w500/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
+      },
+      {
+        "name": "Adam Scott",
+        "character": "Johnny Meyer",
+        "photo": "https://image.tmdb.org/t/p/w500/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "Matt Ross",
+        "character": "Glenn Odekirk",
+        "photo": "https://image.tmdb.org/t/p/w500/qqPMm2lrjajJ1EpJ1jXEayz5oqP.jpg"
+      }
+    ],
+    "director": [
+      "Martin Scorsese"
+    ]
   }
 }

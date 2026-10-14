@@ -19,6 +19,85 @@
           "rating": "6.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Viggo Mortensen",
+      "Léa Seydoux",
+      "Scott Speedman",
+      "Kristen Stewart",
+      "Welket Bungué",
+      "Don McKellar",
+      "Tanaya Beatty",
+      "Nadia Litz",
+      "Lihi Kornowski",
+      "Denise Capezza",
+      "Efi Kantza",
+      "Jason Bitter"
+    ],
+    "app_cast": [
+      {
+        "name": "Viggo Mortensen",
+        "character": "Saul Tenser",
+        "photo": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Léa Seydoux",
+        "character": "Caprice",
+        "photo": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+      },
+      {
+        "name": "Scott Speedman",
+        "character": "Lang Dotrice",
+        "photo": "https://image.tmdb.org/t/p/w500/tGgD96WOhmuQU4e6ZTU5IEx4W9E.jpg"
+      },
+      {
+        "name": "Kristen Stewart",
+        "character": "Timlin",
+        "photo": "https://image.tmdb.org/t/p/w500/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+      },
+      {
+        "name": "Welket Bungué",
+        "character": "Cope",
+        "photo": "https://image.tmdb.org/t/p/w500/91GlmzrJyhaBscr4IqVUrnRueGS.jpg"
+      },
+      {
+        "name": "Don McKellar",
+        "character": "Wippet",
+        "photo": "https://image.tmdb.org/t/p/w500/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+      },
+      {
+        "name": "Tanaya Beatty",
+        "character": "Berst",
+        "photo": "https://image.tmdb.org/t/p/w500/nQQd9rpMxYM2MshYlOSV0PfffPP.jpg"
+      },
+      {
+        "name": "Nadia Litz",
+        "character": "Router",
+        "photo": "https://image.tmdb.org/t/p/w500/xGQMMQbK4PvoK6cYJcRF8Iqe26.jpg"
+      },
+      {
+        "name": "Lihi Kornowski",
+        "character": "Djuna",
+        "photo": "https://image.tmdb.org/t/p/w500/eoGX371lNeoxRPL7d4mBi5bMVYR.jpg"
+      },
+      {
+        "name": "Denise Capezza",
+        "character": "Odile",
+        "photo": "https://image.tmdb.org/t/p/w500/9QZ6QFglu6UNBQTalK83Cp5vocA.jpg"
+      },
+      {
+        "name": "Efi Kantza",
+        "character": "Adrienne Berceau",
+        "photo": "https://image.tmdb.org/t/p/w500/uc2GdkLOPaSwydNAtk2G9ethi5f.jpg"
+      },
+      {
+        "name": "Jason Bitter",
+        "character": "Tarr",
+        "photo": "https://image.tmdb.org/t/p/w500/ldxEvLzNYx7q49hi04qGLfuGU0l.jpg"
+      }
+    ],
+    "director": [
+      "David Cronenberg"
+    ]
   }
 }

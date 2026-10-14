@@ -19,6 +19,86 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Jeff Bridges",
+      "Hailee Steinfeld",
+      "Matt Damon",
+      "Josh Brolin",
+      "Barry Pepper",
+      "Dakin Matthews",
+      "Jarlath Conroy",
+      "Paul Rae",
+      "Domhnall Gleeson",
+      "Elizabeth Marvel",
+      "Roy Lee Jones",
+      "Ed Corbin"
+    ],
+    "app_cast": [
+      {
+        "name": "Jeff Bridges",
+        "character": "Rooster Cogburn",
+        "photo": "https://image.tmdb.org/t/p/w500/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Mattie Ross",
+        "photo": "https://image.tmdb.org/t/p/w500/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "LaBoeuf",
+        "photo": "https://image.tmdb.org/t/p/w500/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Tom Chaney",
+        "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Barry Pepper",
+        "character": "Lucky Ned Pepper",
+        "photo": "https://image.tmdb.org/t/p/w500/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+      },
+      {
+        "name": "Dakin Matthews",
+        "character": "Col. Stonehill",
+        "photo": "https://image.tmdb.org/t/p/w500/y0r9HdW9RFzQWoeciOFq9eFr92.jpg"
+      },
+      {
+        "name": "Jarlath Conroy",
+        "character": "Undertaker",
+        "photo": "https://image.tmdb.org/t/p/w500/h1dpCoYDlAEKzovLavTvoVI4jFV.jpg"
+      },
+      {
+        "name": "Paul Rae",
+        "character": "Emmett Quincy",
+        "photo": "https://image.tmdb.org/t/p/w500/b5XZK3hUrio96loH4RWoBLlxGvL.jpg"
+      },
+      {
+        "name": "Domhnall Gleeson",
+        "character": "Moon (The Kid)",
+        "photo": "https://image.tmdb.org/t/p/w500/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg"
+      },
+      {
+        "name": "Elizabeth Marvel",
+        "character": "40-Year-Old Mattie",
+        "photo": "https://image.tmdb.org/t/p/w500/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+      },
+      {
+        "name": "Roy Lee Jones",
+        "character": "Yarnell",
+        "photo": "https://image.tmdb.org/t/p/w500/guCJT6ReRyQq83sFCMjNijYZQXX.jpg"
+      },
+      {
+        "name": "Ed Corbin",
+        "character": "Bear Man",
+        "photo": "https://image.tmdb.org/t/p/w500/7dswZ5M0e9ECVbhoZiDFmMdviwi.jpg"
+      }
+    ],
+    "director": [
+      "Joel Coen",
+      "Ethan Coen"
+    ]
   }
 }

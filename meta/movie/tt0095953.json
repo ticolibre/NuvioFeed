@@ -17,6 +17,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Dustin Hoffman",
+      "Tom Cruise",
+      "Valeria Golino",
+      "Gerald R. Molen",
+      "Jack Murdock",
+      "Michael D. Roberts",
+      "Ralph Seymour",
+      "Lucinda Jenney",
+      "Bonnie Hunt",
+      "Kim Robillard",
+      "Beth Grant",
+      "Dolan Dougherty"
+    ],
+    "app_cast": [
+      {
+        "name": "Dustin Hoffman",
+        "character": "Raymond Babbitt",
+        "photo": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+      },
+      {
+        "name": "Tom Cruise",
+        "character": "Charlie Babbitt",
+        "photo": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+      },
+      {
+        "name": "Valeria Golino",
+        "character": "Susanna",
+        "photo": "https://image.tmdb.org/t/p/w500/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+      },
+      {
+        "name": "Gerald R. Molen",
+        "character": "Dr. Bruner",
+        "photo": "https://image.tmdb.org/t/p/w500/m1C2E9MWClm3ITzxQzUxmE1qphL.jpg"
+      },
+      {
+        "name": "Jack Murdock",
+        "character": "John Mooney",
+        "photo": "https://image.tmdb.org/t/p/w500/1NJNRsutn8djjkvNOtk0HYq24lQ.jpg"
+      },
+      {
+        "name": "Michael D. Roberts",
+        "character": "Vern",
+        "photo": "https://image.tmdb.org/t/p/w500/eIa9PbE2nC6yhlmEPjkuEiWge6g.jpg"
+      },
+      {
+        "name": "Ralph Seymour",
+        "character": "Lenny",
+        "photo": "https://image.tmdb.org/t/p/w500/p7mAxGF0n94491Rsc49M70OxIaE.jpg"
+      },
+      {
+        "name": "Lucinda Jenney",
+        "character": "Iris",
+        "photo": "https://image.tmdb.org/t/p/w500/ahR0bNUJRi9Phpd7RZWx4ILiMEb.jpg"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Sally Dibbs",
+        "photo": "https://image.tmdb.org/t/p/w500/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      },
+      {
+        "name": "Kim Robillard",
+        "character": "Small Town Doctor",
+        "photo": "https://image.tmdb.org/t/p/w500/rUrWO5Eo4dSYsVNgK6I8bm87OCG.jpg"
+      },
+      {
+        "name": "Beth Grant",
+        "character": "Mother at Farm House",
+        "photo": "https://image.tmdb.org/t/p/w500/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+      },
+      {
+        "name": "Dolan Dougherty",
+        "character": "Farm House Kid"
+      }
+    ],
+    "director": [
+      "Barry Levinson"
+    ]
   }
 }

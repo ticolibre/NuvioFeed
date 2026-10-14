@@ -18,6 +18,78 @@
           "rating": "7.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Susan Chardy",
+      "Elizabeth Chisela",
+      "Esther Singini",
+      "Blessings Bhamjee",
+      "Doris Naulapwa",
+      "Henry B.J. Phiri",
+      "Roy Chisha",
+      "Benson Mumba",
+      "Chungu Bwalya",
+      "Margaret Mulubwa",
+      "Mary Mulabo",
+      "Norah Mwansa"
+    ],
+    "app_cast": [
+      {
+        "name": "Susan Chardy",
+        "character": "Shula",
+        "photo": "https://image.tmdb.org/t/p/w500/1IAWjFG17nBE92IywWgJdfMYLCB.jpg"
+      },
+      {
+        "name": "Elizabeth Chisela",
+        "character": "Nsansa",
+        "photo": "https://image.tmdb.org/t/p/w500/nMsiZtOC7HgMdiAXNdbb55gxUnz.jpg"
+      },
+      {
+        "name": "Esther Singini",
+        "character": "Bupe",
+        "photo": "https://image.tmdb.org/t/p/w500/ur2eykmnuyTcRhevTqz7edrXjOc.jpg"
+      },
+      {
+        "name": "Blessings Bhamjee",
+        "character": "Young Shula"
+      },
+      {
+        "name": "Doris Naulapwa",
+        "character": "Shula's Mother"
+      },
+      {
+        "name": "Henry B.J. Phiri",
+        "character": "Shula's Father",
+        "photo": "https://image.tmdb.org/t/p/w500/4DSHAkXFQncc0bXHBYEeaVrttp1.jpg"
+      },
+      {
+        "name": "Roy Chisha",
+        "character": "Uncle Fred",
+        "photo": "https://image.tmdb.org/t/p/w500/kbVm1n29cD7t6U35kIaAFHOUt2F.jpg"
+      },
+      {
+        "name": "Benson Mumba",
+        "character": "Joseph"
+      },
+      {
+        "name": "Chungu Bwalya",
+        "character": "Farm Club Presenter 1"
+      },
+      {
+        "name": "Margaret Mulubwa",
+        "character": "Farm Club Presenter 2"
+      },
+      {
+        "name": "Mary Mulabo",
+        "character": "Beatrice"
+      },
+      {
+        "name": "Norah Mwansa",
+        "character": "Widow / Chichi"
+      }
+    ],
+    "director": [
+      "Rungano Nyoni"
+    ]
   }
 }

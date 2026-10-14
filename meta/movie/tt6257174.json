@@ -17,6 +17,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Chloë Grace Moretz",
+      "Sasha Lane",
+      "Forrest Goodluck",
+      "John Gallagher Jr.",
+      "Jennifer Ehle",
+      "Marin Ireland",
+      "Owen Campbell",
+      "Kerry Butler",
+      "Quinn Shephard",
+      "Emily Skeggs",
+      "Melanie Ehrlich",
+      "Isaac Jin Solstein"
+    ],
+    "app_cast": [
+      {
+        "name": "Chloë Grace Moretz",
+        "character": "Cameron",
+        "photo": "https://image.tmdb.org/t/p/w500/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
+      },
+      {
+        "name": "Sasha Lane",
+        "character": "Jane",
+        "photo": "https://image.tmdb.org/t/p/w500/iALlJMFPAH5xwfAzWHrZDNmHOSi.jpg"
+      },
+      {
+        "name": "Forrest Goodluck",
+        "character": "Adam",
+        "photo": "https://image.tmdb.org/t/p/w500/4xjRFmyJqYZRtLODw22baOla2Ub.jpg"
+      },
+      {
+        "name": "John Gallagher Jr.",
+        "character": "Reverend Rick",
+        "photo": "https://image.tmdb.org/t/p/w500/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg"
+      },
+      {
+        "name": "Jennifer Ehle",
+        "character": "Dr. Lydia Marsh",
+        "photo": "https://image.tmdb.org/t/p/w500/kMddVKineLFpxsUoGrb3E6edkOv.jpg"
+      },
+      {
+        "name": "Marin Ireland",
+        "character": "Bethany",
+        "photo": "https://image.tmdb.org/t/p/w500/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
+      },
+      {
+        "name": "Owen Campbell",
+        "character": "Mark",
+        "photo": "https://image.tmdb.org/t/p/w500/qP1NpcKcLi7fQzD4GPW2J74emib.jpg"
+      },
+      {
+        "name": "Kerry Butler",
+        "character": "Ruth",
+        "photo": "https://image.tmdb.org/t/p/w500/kfheePlwJZAZWW0AaF5b98LX0S4.jpg"
+      },
+      {
+        "name": "Quinn Shephard",
+        "character": "Coley",
+        "photo": "https://image.tmdb.org/t/p/w500/jkpRJC7IDQnY0WVhjhMaSTBWunj.jpg"
+      },
+      {
+        "name": "Emily Skeggs",
+        "character": "Erin",
+        "photo": "https://image.tmdb.org/t/p/w500/96LI0AHM4Pmbbl77L2bnCvFTRng.jpg"
+      },
+      {
+        "name": "Melanie Ehrlich",
+        "character": "Helen",
+        "photo": "https://image.tmdb.org/t/p/w500/uy0WpY1qbepUhv8CzKHi5pS8Axp.jpg"
+      },
+      {
+        "name": "Isaac Jin Solstein",
+        "character": "Steve",
+        "photo": "https://image.tmdb.org/t/p/w500/ldIhbBkhEFM3sC5vPCnB3lYU80u.jpg"
+      }
+    ],
+    "director": [
+      "Desiree Akhavan"
+    ]
   }
 }

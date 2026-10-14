@@ -18,6 +18,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Renate Reinsve",
+      "Stellan Skarsgård",
+      "Inga Ibsdotter Lilleaas",
+      "Elle Fanning",
+      "Anders Danielsen Lie",
+      "Jesper Christensen",
+      "Lena Endre",
+      "Cory Michael Smith",
+      "Catherine Cohen",
+      "Andreas Stoltenberg Granerud",
+      "Øyvind Hesjedal Loven",
+      "Lars Väringer"
+    ],
+    "app_cast": [
+      {
+        "name": "Renate Reinsve",
+        "character": "Nora Borg",
+        "photo": "https://image.tmdb.org/t/p/w500/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Gustav Borg",
+        "photo": "https://image.tmdb.org/t/p/w500/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+      },
+      {
+        "name": "Inga Ibsdotter Lilleaas",
+        "character": "Agnes Borg Pettersen",
+        "photo": "https://image.tmdb.org/t/p/w500/wlZPIgnXMpK3Nvvhg0bZzmWxZDH.jpg"
+      },
+      {
+        "name": "Elle Fanning",
+        "character": "Rachel Kemp",
+        "photo": "https://image.tmdb.org/t/p/w500/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+      },
+      {
+        "name": "Anders Danielsen Lie",
+        "character": "Jakob",
+        "photo": "https://image.tmdb.org/t/p/w500/7qdJdzFFXhoSVvBCi53ryF1wkCn.jpg"
+      },
+      {
+        "name": "Jesper Christensen",
+        "character": "Michael",
+        "photo": "https://image.tmdb.org/t/p/w500/w7ekkX2nzBKZQEp0JVTh8WdGs5U.jpg"
+      },
+      {
+        "name": "Lena Endre",
+        "character": "Ingrid Berger",
+        "photo": "https://image.tmdb.org/t/p/w500/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg"
+      },
+      {
+        "name": "Cory Michael Smith",
+        "character": "Sam",
+        "photo": "https://image.tmdb.org/t/p/w500/g9mXErE0CiFN8TTWaTCnurpcAeS.jpg"
+      },
+      {
+        "name": "Catherine Cohen",
+        "character": "Nicky",
+        "photo": "https://image.tmdb.org/t/p/w500/mTHOZ6MJCHKUgN1eqF0VDU6ajQF.jpg"
+      },
+      {
+        "name": "Andreas Stoltenberg Granerud",
+        "character": "Even",
+        "photo": "https://image.tmdb.org/t/p/w500/x5rhaE7isiCFagbNt3sdTOAfncj.jpg"
+      },
+      {
+        "name": "Øyvind Hesjedal Loven",
+        "character": "Erik",
+        "photo": "https://image.tmdb.org/t/p/w500/gUjHuBrHc7Vi0iLPOg6j2Px0Bq3.jpg"
+      },
+      {
+        "name": "Lars Väringer",
+        "character": "Peter",
+        "photo": "https://image.tmdb.org/t/p/w500/6o6i4dU4QagWfYJYQxVRjoKGtTu.jpg"
+      }
+    ],
+    "director": [
+      "Joachim Trier"
+    ]
   }
 }

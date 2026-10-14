@@ -19,6 +19,37 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Olivia Wilde",
+      "Seth Rogen",
+      "Penélope Cruz",
+      "Edward Norton"
+    ],
+    "app_cast": [
+      {
+        "name": "Olivia Wilde",
+        "character": "Angela",
+        "photo": "https://image.tmdb.org/t/p/w500/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "character": "Joe",
+        "photo": "https://image.tmdb.org/t/p/w500/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+      },
+      {
+        "name": "Penélope Cruz",
+        "character": "Piña",
+        "photo": "https://image.tmdb.org/t/p/w500/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "Hawk",
+        "photo": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+      }
+    ],
+    "director": [
+      "Olivia Wilde"
+    ]
   }
 }

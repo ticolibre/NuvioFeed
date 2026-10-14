@@ -20,6 +20,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Julie Andrews",
+      "Christopher Plummer",
+      "Eleanor Parker",
+      "Charmian Carr",
+      "Nicholas Hammond",
+      "Heather Menzies",
+      "Angela Cartwright",
+      "Debbie Turner",
+      "Kym Karath",
+      "Duane Chase",
+      "Richard Haydn",
+      "Anna Lee"
+    ],
+    "app_cast": [
+      {
+        "name": "Julie Andrews",
+        "character": "Maria",
+        "photo": "https://image.tmdb.org/t/p/w500/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg"
+      },
+      {
+        "name": "Christopher Plummer",
+        "character": "Captain Georg von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg"
+      },
+      {
+        "name": "Eleanor Parker",
+        "character": "The Baroness",
+        "photo": "https://image.tmdb.org/t/p/w500/fOzLJeXoHryUyPFmJWIkdLvfX3G.jpg"
+      },
+      {
+        "name": "Charmian Carr",
+        "character": "Liesl von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/uoIfWlkybxxgCeozoucvsnWlx0i.jpg"
+      },
+      {
+        "name": "Nicholas Hammond",
+        "character": "Friedrich von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/H1OuDU9pbRxgdrfXtXPZvQX8KU.jpg"
+      },
+      {
+        "name": "Heather Menzies",
+        "character": "Louisa von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/dqvVyBGvfelVSSHR6azFAUn4Xfu.jpg"
+      },
+      {
+        "name": "Angela Cartwright",
+        "character": "Brigitta von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/oX8UNl0V2MA2j6QVwHaV9h5wEGa.jpg"
+      },
+      {
+        "name": "Debbie Turner",
+        "character": "Marta von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/5nfrnP7SY66bvRxHqWZYBomWgno.jpg"
+      },
+      {
+        "name": "Kym Karath",
+        "character": "Gretl von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/7ddTJIXbXJbbiabz7FDYYZwqMPk.jpg"
+      },
+      {
+        "name": "Duane Chase",
+        "character": "Kurt von Trapp",
+        "photo": "https://image.tmdb.org/t/p/w500/xVBn1oWbABUIgUKwxbc2NzNJDkl.jpg"
+      },
+      {
+        "name": "Richard Haydn",
+        "character": "Max Detweiler",
+        "photo": "https://image.tmdb.org/t/p/w500/zPaYFZhis7PKycFBMnguWiSXgVy.jpg"
+      },
+      {
+        "name": "Anna Lee",
+        "character": "Sister Margaretta",
+        "photo": "https://image.tmdb.org/t/p/w500/xAwrTwcbxTpOcZhcrdCtdfRzDys.jpg"
+      }
+    ],
+    "director": [
+      "Robert Wise"
+    ]
   }
 }

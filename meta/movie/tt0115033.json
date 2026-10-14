@@ -19,6 +19,83 @@
           "rating": "6.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Hugh O'Conor",
+      "Antony Sher",
+      "Ruth Sheen",
+      "Roger Lloyd Pack",
+      "Charlotte Coleman",
+      "Paul Stacey",
+      "John Thomson",
+      "Jack Deam",
+      "Charlie Creed-Miles",
+      "Robert Demeger",
+      "Tobias Arnold",
+      "Norman Caro"
+    ],
+    "app_cast": [
+      {
+        "name": "Hugh O'Conor",
+        "character": "Graham Young",
+        "photo": "https://image.tmdb.org/t/p/w500/1vQKnH0H98PaJJeu8xR0rtM7lze.jpg"
+      },
+      {
+        "name": "Antony Sher",
+        "character": "Dr. Ernest Zeigler",
+        "photo": "https://image.tmdb.org/t/p/w500/e0V4i0avYfcfZORkt1tuORrIkGS.jpg"
+      },
+      {
+        "name": "Ruth Sheen",
+        "character": "Molly",
+        "photo": "https://image.tmdb.org/t/p/w500/tchnF80OCEiq3JXpGI4z7eMla8W.jpg"
+      },
+      {
+        "name": "Roger Lloyd Pack",
+        "character": "Fred",
+        "photo": "https://image.tmdb.org/t/p/w500/iF9b0wRykPT5nFOImS1A5w8HJ3c.jpg"
+      },
+      {
+        "name": "Charlotte Coleman",
+        "character": "Winnie",
+        "photo": "https://image.tmdb.org/t/p/w500/zAC3654KQPw1AXytQhjVNgf3tHT.jpg"
+      },
+      {
+        "name": "Paul Stacey",
+        "character": "Dennis",
+        "photo": "https://image.tmdb.org/t/p/w500/eVubpNOxffk6XkhnoEzRxJpPxRt.jpg"
+      },
+      {
+        "name": "John Thomson",
+        "character": "Nathan",
+        "photo": "https://image.tmdb.org/t/p/w500/p7oShR4yImaPszUh3ywnJEu5a5.jpg"
+      },
+      {
+        "name": "Jack Deam",
+        "character": "Mick",
+        "photo": "https://image.tmdb.org/t/p/w500/4EYUpMI6V3iZ91z3pHuw6KqisXF.jpg"
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "character": "Berridge",
+        "photo": "https://image.tmdb.org/t/p/w500/aVPpJs7X03oNmbxFtHNaQdsnNod.jpg"
+      },
+      {
+        "name": "Robert Demeger",
+        "character": "Mr. Dexter",
+        "photo": "https://image.tmdb.org/t/p/w500/u6yDTJIaLbv4m60shP3TvVWa4kN.jpg"
+      },
+      {
+        "name": "Tobias Arnold",
+        "character": "Young Graham"
+      },
+      {
+        "name": "Norman Caro",
+        "character": "Mr. Goez"
+      }
+    ],
+    "director": [
+      "Benjamin Ross"
+    ]
   }
 }

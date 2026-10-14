@@ -18,6 +18,85 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams",
+      "Liev Schreiber",
+      "John Slattery",
+      "Brian d'Arcy James",
+      "Stanley Tucci",
+      "Elena Wohl",
+      "Gene Amoroso",
+      "Doug Murray",
+      "Sharon McFarlane",
+      "Jamey Sheridan"
+    ],
+    "app_cast": [
+      {
+        "name": "Mark Ruffalo",
+        "character": "Michael Rezendes",
+        "photo": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Michael Keaton",
+        "character": "Walter 'Robby' Robinson",
+        "photo": "https://image.tmdb.org/t/p/w500/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+      },
+      {
+        "name": "Rachel McAdams",
+        "character": "Sacha Pfeiffer",
+        "photo": "https://image.tmdb.org/t/p/w500/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Marty Baron",
+        "photo": "https://image.tmdb.org/t/p/w500/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Ben Bradlee, Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Matt Carroll",
+        "photo": "https://image.tmdb.org/t/p/w500/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Mitchell Garabedian",
+        "photo": "https://image.tmdb.org/t/p/w500/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+      },
+      {
+        "name": "Elena Wohl",
+        "character": "Barbara",
+        "photo": "https://image.tmdb.org/t/p/w500/iIBfzGKcsjUmIQ0Zz1iwIuHrHLS.jpg"
+      },
+      {
+        "name": "Gene Amoroso",
+        "character": "Steve Kurkjian",
+        "photo": "https://image.tmdb.org/t/p/w500/8bturWwA7MXczmz0UofnZnfvKOI.jpg"
+      },
+      {
+        "name": "Doug Murray",
+        "character": "Peter Canellos",
+        "photo": "https://image.tmdb.org/t/p/w500/A3QlblmHduyIcMyzNTelkTiIPtw.jpg"
+      },
+      {
+        "name": "Sharon McFarlane",
+        "character": "Helen Donovan",
+        "photo": "https://image.tmdb.org/t/p/w500/umNxMk48KMMfCFLk1TvA5uQsFm5.jpg"
+      },
+      {
+        "name": "Jamey Sheridan",
+        "character": "Jim Sullivan",
+        "photo": "https://image.tmdb.org/t/p/w500/qLyAVsxSWgLwvVRDtvTednO6a75.jpg"
+      }
+    ],
+    "director": [
+      "Tom McCarthy"
+    ]
   }
 }

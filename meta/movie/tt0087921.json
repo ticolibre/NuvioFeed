@@ -17,6 +17,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Sally Field",
+      "Lindsay Crouse",
+      "John Malkovich",
+      "Danny Glover",
+      "Ed Harris",
+      "Ray Baker",
+      "Amy Madigan",
+      "Terry O'Quinn",
+      "Bert Remsen",
+      "Jay Patterson",
+      "Toni Hudson",
+      "De'voreaux White"
+    ],
+    "app_cast": [
+      {
+        "name": "Sally Field",
+        "character": "Edna Spalding",
+        "photo": "https://image.tmdb.org/t/p/w500/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+      },
+      {
+        "name": "Lindsay Crouse",
+        "character": "Margaret Lomax",
+        "photo": "https://image.tmdb.org/t/p/w500/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Mr. Will",
+        "photo": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+      },
+      {
+        "name": "Danny Glover",
+        "character": "Moze",
+        "photo": "https://image.tmdb.org/t/p/w500/7ZyztVlG7OpqD0EhzG8iwYNcd1s.jpg"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Wayne Lomax",
+        "photo": "https://image.tmdb.org/t/p/w500/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+      },
+      {
+        "name": "Ray Baker",
+        "character": "Sheriff Royce Spalding",
+        "photo": "https://image.tmdb.org/t/p/w500/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg"
+      },
+      {
+        "name": "Amy Madigan",
+        "character": "Viola Kelsey",
+        "photo": "https://image.tmdb.org/t/p/w500/h2jErDWMDFFJth4Y9GiVNmwZf65.jpg"
+      },
+      {
+        "name": "Terry O'Quinn",
+        "character": "Buddy Kelsey",
+        "photo": "https://image.tmdb.org/t/p/w500/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+      },
+      {
+        "name": "Bert Remsen",
+        "character": "Tee Tot Hightower",
+        "photo": "https://image.tmdb.org/t/p/w500/uyT2DdACalGEfIRzubxZZqvEm2g.jpg"
+      },
+      {
+        "name": "Jay Patterson",
+        "character": "W.E. Simmons",
+        "photo": "https://image.tmdb.org/t/p/w500/6P358wW8datGSbqA6DfhvMSAAuD.jpg"
+      },
+      {
+        "name": "Toni Hudson",
+        "character": "Ermine",
+        "photo": "https://image.tmdb.org/t/p/w500/cyt98xAepqJFb26K4JFFAFbvchv.jpg"
+      },
+      {
+        "name": "De'voreaux White",
+        "character": "Wylie",
+        "photo": "https://image.tmdb.org/t/p/w500/g6B4hHY69xN3mpAORwVi307vfR0.jpg"
+      }
+    ],
+    "director": [
+      "Robert Benton"
+    ]
   }
 }

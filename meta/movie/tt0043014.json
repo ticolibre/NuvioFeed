@@ -17,6 +17,84 @@
           "rating": "8.3"
         }
       }
-    }
+    },
+    "cast": [
+      "William Holden",
+      "Gloria Swanson",
+      "Erich von Stroheim",
+      "Nancy Olson",
+      "Fred Clark",
+      "Lloyd Gough",
+      "Jack Webb",
+      "Franklyn Farnum",
+      "Larry J. Blake",
+      "Charles Dayton",
+      "Cecil B. DeMille",
+      "Hedda Hopper"
+    ],
+    "app_cast": [
+      {
+        "name": "William Holden",
+        "character": "Joe Gillis",
+        "photo": "https://image.tmdb.org/t/p/w500/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Gloria Swanson",
+        "character": "Norma Desmond",
+        "photo": "https://image.tmdb.org/t/p/w500/rpRersiDZ1TYjqhKvFALzXflZH8.jpg"
+      },
+      {
+        "name": "Erich von Stroheim",
+        "character": "Max von Mayerling",
+        "photo": "https://image.tmdb.org/t/p/w500/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+      },
+      {
+        "name": "Nancy Olson",
+        "character": "Betty Schaefer",
+        "photo": "https://image.tmdb.org/t/p/w500/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
+      },
+      {
+        "name": "Fred Clark",
+        "character": "Sheldrake",
+        "photo": "https://image.tmdb.org/t/p/w500/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+      },
+      {
+        "name": "Lloyd Gough",
+        "character": "Morino",
+        "photo": "https://image.tmdb.org/t/p/w500/hWyEWTVQ0dy8RE9l2fEkOaKTQwX.jpg"
+      },
+      {
+        "name": "Jack Webb",
+        "character": "Artie Green",
+        "photo": "https://image.tmdb.org/t/p/w500/4X6wbZ9wDqVrpDP3WvIJZBLPsLh.jpg"
+      },
+      {
+        "name": "Franklyn Farnum",
+        "character": "Undertaker",
+        "photo": "https://image.tmdb.org/t/p/w500/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg"
+      },
+      {
+        "name": "Larry J. Blake",
+        "character": "Finance Man #1",
+        "photo": "https://image.tmdb.org/t/p/w500/b4dfz0xLUHJJJEPmAmAI2jrzXBj.jpg"
+      },
+      {
+        "name": "Charles Dayton",
+        "character": "Finance Man #2"
+      },
+      {
+        "name": "Cecil B. DeMille",
+        "character": "Cecil B. DeMille",
+        "photo": "https://image.tmdb.org/t/p/w500/lxY61cx23rcCenlTvcwn8Cmpnrp.jpg"
+      },
+      {
+        "name": "Hedda Hopper",
+        "character": "Hedda Hopper",
+        "photo": "https://image.tmdb.org/t/p/w500/kfXPY1cSrOmjJ3TYrGF4giT6EPI.jpg"
+      }
+    ],
+    "director": [
+      "Billy Wilder"
+    ]
   }
 }

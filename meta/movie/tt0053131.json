@@ -17,6 +17,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Audrey Hepburn",
+      "Peter Finch",
+      "Edith Evans",
+      "Peggy Ashcroft",
+      "Dean Jagger",
+      "Mildred Dunnock",
+      "Beatrice Straight",
+      "Patricia Collinge",
+      "Rosalie Crutchley",
+      "Ruth White",
+      "Barbara O'Neil",
+      "Margaret Phillips"
+    ],
+    "app_cast": [
+      {
+        "name": "Audrey Hepburn",
+        "character": "Sister Luke",
+        "photo": "https://image.tmdb.org/t/p/w500/wg3RRHA5jV755dV0ksQ9g0Nc2xE.jpg"
+      },
+      {
+        "name": "Peter Finch",
+        "character": "Dr. Fortunati",
+        "photo": "https://image.tmdb.org/t/p/w500/uwIimbLsEGMkqsEGtYCSKXoWZag.jpg"
+      },
+      {
+        "name": "Edith Evans",
+        "character": "Rev. Mother Emmanuel",
+        "photo": "https://image.tmdb.org/t/p/w500/huC59QKyC6icoedwZc3yXBzNubc.jpg"
+      },
+      {
+        "name": "Peggy Ashcroft",
+        "character": "Mother Mathilde",
+        "photo": "https://image.tmdb.org/t/p/w500/bF2GD1brYDKT17j25ANkZQR739R.jpg"
+      },
+      {
+        "name": "Dean Jagger",
+        "character": "Dr. Hubert Van Der Mal",
+        "photo": "https://image.tmdb.org/t/p/w500/fgAzRigYun0yXqIdAYPUA4GViFq.jpg"
+      },
+      {
+        "name": "Mildred Dunnock",
+        "character": "Sister Margharita",
+        "photo": "https://image.tmdb.org/t/p/w500/7Uz07I2HyDPlJPqq1A0q0Kabq5D.jpg"
+      },
+      {
+        "name": "Beatrice Straight",
+        "character": "Mother Christophe",
+        "photo": "https://image.tmdb.org/t/p/w500/iCNm0pSNFStUBKpvY6Ou5F7Nap6.jpg"
+      },
+      {
+        "name": "Patricia Collinge",
+        "character": "Sister William",
+        "photo": "https://image.tmdb.org/t/p/w500/25U9CEzagRoC12pJvBpoW5DHl1y.jpg"
+      },
+      {
+        "name": "Rosalie Crutchley",
+        "character": "Sister Eleanor",
+        "photo": "https://image.tmdb.org/t/p/w500/tED225NxITxnQUVdhRvenRsayzt.jpg"
+      },
+      {
+        "name": "Ruth White",
+        "character": "Mother Marcella",
+        "photo": "https://image.tmdb.org/t/p/w500/bsAHZQuh9XtWQoBalne2yTia7gt.jpg"
+      },
+      {
+        "name": "Barbara O'Neil",
+        "character": "Mother Didyma",
+        "photo": "https://image.tmdb.org/t/p/w500/jQpkaGd7GTcsT6tXtbPYozin0le.jpg"
+      },
+      {
+        "name": "Margaret Phillips",
+        "character": "Sister Pauline",
+        "photo": "https://image.tmdb.org/t/p/w500/tmyTWh9okmGwQmXxbM2rlsYOxyC.jpg"
+      }
+    ],
+    "director": [
+      "Fred Zinnemann"
+    ]
   }
 }

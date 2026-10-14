@@ -17,6 +17,80 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Đơn Dương",
+      "Nguyễn Thị Ngọc Hiệp",
+      "Diep Bui",
+      "Huu Duoc Nguyen",
+      "Diễm Kiều",
+      "Harvey Keitel",
+      "Lola Guimond",
+      "Phát Triệu",
+      "Hong Son Le",
+      "Mạnh Cường",
+      "Hồ Kiểng",
+      "Ngo Quang Hai"
+    ],
+    "app_cast": [
+      {
+        "name": "Đơn Dương",
+        "character": "Hai",
+        "photo": "https://image.tmdb.org/t/p/w500/8J7ekjASe85or26TyFRyUS5Bwad.jpg"
+      },
+      {
+        "name": "Nguyễn Thị Ngọc Hiệp",
+        "character": "Kien An",
+        "photo": "https://image.tmdb.org/t/p/w500/9e81jbhJ7cZkFaHPO71jb0t0Hka.jpg"
+      },
+      {
+        "name": "Diep Bui",
+        "character": "Lan",
+        "photo": "https://image.tmdb.org/t/p/w500/712ZvuzM7ESmSy54GG1AkWx1qM4.jpg"
+      },
+      {
+        "name": "Huu Duoc Nguyen",
+        "character": "Woody"
+      },
+      {
+        "name": "Diễm Kiều",
+        "character": "Singing Lotus Woman"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "James Hager",
+        "photo": "https://image.tmdb.org/t/p/w500/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "name": "Lola Guimond",
+        "character": "Hager's Daughter"
+      },
+      {
+        "name": "Phát Triệu",
+        "character": "Huy, Dao's Headman"
+      },
+      {
+        "name": "Hong Son Le",
+        "character": "Binh, Cyclo Driver"
+      },
+      {
+        "name": "Mạnh Cường",
+        "character": "Teacher Dao",
+        "photo": "https://image.tmdb.org/t/p/w500/294m2PFquJQEUnhFpjPFA8fjmH5.jpg"
+      },
+      {
+        "name": "Hồ Kiểng",
+        "character": "Restaurant Owner",
+        "photo": "https://image.tmdb.org/t/p/w500/A1ejcoSblAr4uaiwfIgG4Bwp0rd.jpg"
+      },
+      {
+        "name": "Ngo Quang Hai",
+        "character": "Man in Taxi with Lan",
+        "photo": "https://image.tmdb.org/t/p/w500/jbtp59jD9xaZnBNZbKyX3wYvtI3.jpg"
+      }
+    ],
+    "director": [
+      "Tony Bui"
+    ]
   }
 }

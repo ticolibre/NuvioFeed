@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Sean Penn",
+      "Emile Hirsch",
+      "Josh Brolin",
+      "Diego Luna",
+      "James Franco",
+      "Alison Pill",
+      "Victor Garber",
+      "Denis O'Hare",
+      "Joseph Cross",
+      "Stephen Spinella",
+      "Boyd Holbrook",
+      "Lucas Grabeel"
+    ],
+    "app_cast": [
+      {
+        "name": "Sean Penn",
+        "character": "Harvey Milk",
+        "photo": "https://image.tmdb.org/t/p/w500/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Emile Hirsch",
+        "character": "Cleve Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/NQjX6KjtDDyLnvbxhrU9xQWaYJ.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Dan White",
+        "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Diego Luna",
+        "character": "Jack Lira",
+        "photo": "https://image.tmdb.org/t/p/w500/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+      },
+      {
+        "name": "James Franco",
+        "character": "Scott Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+      },
+      {
+        "name": "Alison Pill",
+        "character": "Anne Kronenberg",
+        "photo": "https://image.tmdb.org/t/p/w500/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
+      },
+      {
+        "name": "Victor Garber",
+        "character": "Mayor Moscone",
+        "photo": "https://image.tmdb.org/t/p/w500/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "John Briggs",
+        "photo": "https://image.tmdb.org/t/p/w500/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+      },
+      {
+        "name": "Joseph Cross",
+        "character": "Dick Pabich",
+        "photo": "https://image.tmdb.org/t/p/w500/gQoRzWwHTTI614l0DETXeeVf4kD.jpg"
+      },
+      {
+        "name": "Stephen Spinella",
+        "character": "Rick Stokes",
+        "photo": "https://image.tmdb.org/t/p/w500/lJahZcmWjggljySaqnPyGIuOeXs.jpg"
+      },
+      {
+        "name": "Boyd Holbrook",
+        "character": "Denton Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/xmkpedcct3ey1d1HGDNsUMQPHcB.jpg"
+      },
+      {
+        "name": "Lucas Grabeel",
+        "character": "Danny Nicoletta",
+        "photo": "https://image.tmdb.org/t/p/w500/tyhpSWU7YDKntONxqC83Ifat2w6.jpg"
+      }
+    ],
+    "director": [
+      "Gus Van Sant"
+    ]
   }
 }

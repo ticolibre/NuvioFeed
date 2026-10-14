@@ -18,6 +18,85 @@
           "rating": "8.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Carl Duering",
+      "Michael Bates",
+      "Warren Clarke",
+      "James Marcus",
+      "Michael Tarn",
+      "Miriam Karlin",
+      "Adrienne Corri",
+      "Sheila Raynor",
+      "Philip Stone",
+      "Aubrey Morris"
+    ],
+    "app_cast": [
+      {
+        "name": "Malcolm McDowell",
+        "character": "Alex",
+        "photo": "https://image.tmdb.org/t/p/w500/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+      },
+      {
+        "name": "Patrick Magee",
+        "character": "Mr. Alexander",
+        "photo": "https://image.tmdb.org/t/p/w500/99xStF5zQy6qkDxLnIVaKD3urzI.jpg"
+      },
+      {
+        "name": "Carl Duering",
+        "character": "Dr. Brodsky",
+        "photo": "https://image.tmdb.org/t/p/w500/idrRJuQErZ2cj8F8II1LikeTgb1.jpg"
+      },
+      {
+        "name": "Michael Bates",
+        "character": "Chief Guard",
+        "photo": "https://image.tmdb.org/t/p/w500/53ciikCHIcr1thlDFvQtzNNbFAd.jpg"
+      },
+      {
+        "name": "Warren Clarke",
+        "character": "Dim",
+        "photo": "https://image.tmdb.org/t/p/w500/gqIPFhAaTvFZVmNiXnPtV3k4JBV.jpg"
+      },
+      {
+        "name": "James Marcus",
+        "character": "Georgie",
+        "photo": "https://image.tmdb.org/t/p/w500/keW0TRtGZ15oA12jsEYfqeLEq8v.jpg"
+      },
+      {
+        "name": "Michael Tarn",
+        "character": "Pete",
+        "photo": "https://image.tmdb.org/t/p/w500/34dqPwJtsB3CrXShZA8zhm7pq0c.jpg"
+      },
+      {
+        "name": "Miriam Karlin",
+        "character": "Catlady",
+        "photo": "https://image.tmdb.org/t/p/w500/3VbYzKcHJdVYGkrBcqMgcKRmICE.jpg"
+      },
+      {
+        "name": "Adrienne Corri",
+        "character": "Mrs. Alexander",
+        "photo": "https://image.tmdb.org/t/p/w500/jlwXRVJUscG3GnYGfBXT5KDCbss.jpg"
+      },
+      {
+        "name": "Sheila Raynor",
+        "character": "Mum",
+        "photo": "https://image.tmdb.org/t/p/w500/ixB326sr3OGS6YzqR87T776aqbW.jpg"
+      },
+      {
+        "name": "Philip Stone",
+        "character": "Dad",
+        "photo": "https://image.tmdb.org/t/p/w500/l9riEGDgSK1NkVDUN6fn1TaXdpy.jpg"
+      },
+      {
+        "name": "Aubrey Morris",
+        "character": "Deltoid",
+        "photo": "https://image.tmdb.org/t/p/w500/xuiSnXTy96VqANZq2x59pCEKb7z.jpg"
+      }
+    ],
+    "director": [
+      "Stanley Kubrick"
+    ]
   }
 }

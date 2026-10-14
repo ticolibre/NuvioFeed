@@ -19,6 +19,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Marlon Brando",
+      "Trevor Howard",
+      "Richard Harris",
+      "Hugh Griffith",
+      "Richard Haydn",
+      "Percy Herbert",
+      "Gordon Jackson",
+      "Chips Rafferty",
+      "Noel Purcell",
+      "Eddie Byrne",
+      "Tim Seely",
+      "Tarita"
+    ],
+    "app_cast": [
+      {
+        "name": "Marlon Brando",
+        "character": "First Lieutnant Fletcher Christian",
+        "photo": "https://image.tmdb.org/t/p/w500/yIvLpf9U9NfAvC7fuAgOQ8tu51T.jpg"
+      },
+      {
+        "name": "Trevor Howard",
+        "character": "Capt. William Bligh",
+        "photo": "https://image.tmdb.org/t/p/w500/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg"
+      },
+      {
+        "name": "Richard Harris",
+        "character": "Seaman John Mills",
+        "photo": "https://image.tmdb.org/t/p/w500/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+      },
+      {
+        "name": "Hugh Griffith",
+        "character": "Alexander Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/lPIIJDevyALBfQYqMBXiYmnDckw.jpg"
+      },
+      {
+        "name": "Richard Haydn",
+        "character": "William Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/zPaYFZhis7PKycFBMnguWiSXgVy.jpg"
+      },
+      {
+        "name": "Percy Herbert",
+        "character": "Matthew Quintal",
+        "photo": "https://image.tmdb.org/t/p/w500/wfyliApDtqvOxLh35Ijj5yyg8Uf.jpg"
+      },
+      {
+        "name": "Gordon Jackson",
+        "character": "Seaman Edward Birkett",
+        "photo": "https://image.tmdb.org/t/p/w500/3A43DIaGD5C3mc2xi8XCcBV6hkJ.jpg"
+      },
+      {
+        "name": "Chips Rafferty",
+        "character": "Michael Byrne",
+        "photo": "https://image.tmdb.org/t/p/w500/hq6naXG2a97hm3Z4jH6WiA4bOFW.jpg"
+      },
+      {
+        "name": "Noel Purcell",
+        "character": "Seaman William McCoy",
+        "photo": "https://image.tmdb.org/t/p/w500/xEwDYgylNazYQXzJfBeQFmJQ1Zt.jpg"
+      },
+      {
+        "name": "Eddie Byrne",
+        "character": "John Fryer",
+        "photo": "https://image.tmdb.org/t/p/w500/mWivEyJoTjfhOZ1m4EQJGn9lCZh.jpg"
+      },
+      {
+        "name": "Tim Seely",
+        "character": "Midshipman Edward Young",
+        "photo": "https://image.tmdb.org/t/p/w500/zPa0OArgXDtjm7kK3fZ5fBbZJwE.jpg"
+      },
+      {
+        "name": "Tarita",
+        "character": "Maimiti",
+        "photo": "https://image.tmdb.org/t/p/w500/zCe8ttnq5MwujA6LmHWf8uCGk7f.jpg"
+      }
+    ],
+    "director": [
+      "Lewis Milestone"
+    ]
   }
 }

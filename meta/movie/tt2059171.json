@@ -18,6 +18,84 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Mark Webber",
+      "Devon Graye",
+      "Tom Bower",
+      "Ron Perlman",
+      "Rutina Wesley",
+      "Pruitt Taylor Vince",
+      "Clyde Jones",
+      "Deneen Tyler",
+      "Tom Lawson Jr.",
+      "Sharon Smith",
+      "Christopher Berry",
+      "Ritchie Montgomery"
+    ],
+    "app_cast": [
+      {
+        "name": "Mark Webber",
+        "character": "Elliot Brindle",
+        "photo": "https://image.tmdb.org/t/p/w500/y30VskmtlxNLz1HIMEIxjknUBQ4.jpg"
+      },
+      {
+        "name": "Devon Graye",
+        "character": "Michael Brindle",
+        "photo": "https://image.tmdb.org/t/p/w500/kVqBgzkjWNaNFmXSJ7MLI3jOMOT.jpg"
+      },
+      {
+        "name": "Tom Bower",
+        "character": "Father",
+        "photo": "https://image.tmdb.org/t/p/w500/q26z6T3QZfpirZV3Ex885zUgUR4.jpg"
+      },
+      {
+        "name": "Ron Perlman",
+        "character": "Det. Chilcoat",
+        "photo": "https://image.tmdb.org/t/p/w500/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+      },
+      {
+        "name": "Rutina Wesley",
+        "character": "Shelby",
+        "photo": "https://image.tmdb.org/t/p/w500/ujpdNAKxlv6TRI2mm0k3eSSZJkB.jpg"
+      },
+      {
+        "name": "Pruitt Taylor Vince",
+        "character": "Vogler",
+        "photo": "https://image.tmdb.org/t/p/w500/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+      },
+      {
+        "name": "Clyde Jones",
+        "character": "Gerry",
+        "photo": "https://image.tmdb.org/t/p/w500/2cBB2KLk9C5IBPfEleYOLDpPukK.jpg"
+      },
+      {
+        "name": "Deneen Tyler",
+        "character": "Joyce",
+        "photo": "https://image.tmdb.org/t/p/w500/bNe71eFG8nfyH4ip1tvHd3cd5L3.jpg"
+      },
+      {
+        "name": "Tom Lawson Jr.",
+        "character": "Prof. Edgar Solomon",
+        "photo": "https://image.tmdb.org/t/p/w500/7IU5qo8P5PmRTXi7NFaUawwbntz.jpg"
+      },
+      {
+        "name": "Sharon Smith",
+        "character": "Hostess"
+      },
+      {
+        "name": "Christopher Berry",
+        "character": "Detective Vance",
+        "photo": "https://image.tmdb.org/t/p/w500/8y2HybPVLxUabwnMPjdBREbitKZ.jpg"
+      },
+      {
+        "name": "Ritchie Montgomery",
+        "character": "Apartment Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/5uAXhfX10ImQYl47I04yrL3zQAk.jpg"
+      }
+    ],
+    "director": [
+      "Daniel Stamm"
+    ]
   }
 }

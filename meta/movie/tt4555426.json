@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Gary Oldman",
+      "Stephen Dillane",
+      "Lily James",
+      "Ronald Pickup",
+      "Ben Mendelsohn",
+      "Kristin Scott Thomas",
+      "Nicholas Jones",
+      "Samuel West",
+      "David Schofield",
+      "Richard Lumsden",
+      "Malcolm Storry",
+      "Hilton McRae"
+    ],
+    "app_cast": [
+      {
+        "name": "Gary Oldman",
+        "character": "Winston Churchill",
+        "photo": "https://image.tmdb.org/t/p/w500/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+      },
+      {
+        "name": "Stephen Dillane",
+        "character": "Viscount Halifax",
+        "photo": "https://image.tmdb.org/t/p/w500/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg"
+      },
+      {
+        "name": "Lily James",
+        "character": "Elizabeth Layton",
+        "photo": "https://image.tmdb.org/t/p/w500/2w8tMEdCxBXB44X05RQDC2Kvbap.jpg"
+      },
+      {
+        "name": "Ronald Pickup",
+        "character": "Neville Chamberlain",
+        "photo": "https://image.tmdb.org/t/p/w500/9wJtlqBNPPa87UJDfLNnSNQRhEn.jpg"
+      },
+      {
+        "name": "Ben Mendelsohn",
+        "character": "King George VI",
+        "photo": "https://image.tmdb.org/t/p/w500/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+      },
+      {
+        "name": "Kristin Scott Thomas",
+        "character": "Clemmie",
+        "photo": "https://image.tmdb.org/t/p/w500/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+      },
+      {
+        "name": "Nicholas Jones",
+        "character": "Sir John Simon",
+        "photo": "https://image.tmdb.org/t/p/w500/oB1RspuzdhuDqbwZtG6oAmzoX2E.jpg"
+      },
+      {
+        "name": "Samuel West",
+        "character": "Sir Anthony Eden",
+        "photo": "https://image.tmdb.org/t/p/w500/bn1nd5zERi5wyHcA1YMGvrHAD5L.jpg"
+      },
+      {
+        "name": "David Schofield",
+        "character": "Clement Atlee",
+        "photo": "https://image.tmdb.org/t/p/w500/2Dlxu9pqbjKA0dbfy4yMUFjiqeW.jpg"
+      },
+      {
+        "name": "Richard Lumsden",
+        "character": "General Ismay",
+        "photo": "https://image.tmdb.org/t/p/w500/vFdmJQgFiybrDy88iMvYwv8uI6x.jpg"
+      },
+      {
+        "name": "Malcolm Storry",
+        "character": "General Ironside",
+        "photo": "https://image.tmdb.org/t/p/w500/kKsHG62k9Lzu7qGLl9glCmHI5qo.jpg"
+      },
+      {
+        "name": "Hilton McRae",
+        "character": "Arthur Greenwood",
+        "photo": "https://image.tmdb.org/t/p/w500/3MxRMfjiox5xcYtirhbylfIVKKZ.jpg"
+      }
+    ],
+    "director": [
+      "Joe Wright"
+    ]
   }
 }

@@ -19,6 +19,85 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Patrick Wilson",
+      "Kevin Bigley",
+      "Chris Pine",
+      "Jessica Alba",
+      "Ray Liotta",
+      "Brooklyn Decker",
+      "James Badge Dale",
+      "Ed Helms",
+      "Mindy Robinson",
+      "Randy Couture",
+      "David Hasselhoff",
+      "Erika Jordan"
+    ],
+    "app_cast": [
+      {
+        "name": "Patrick Wilson",
+        "character": "Stretch",
+        "photo": "https://image.tmdb.org/t/p/w500/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+      },
+      {
+        "name": "Kevin Bigley",
+        "character": "Faux Hawk",
+        "photo": "https://image.tmdb.org/t/p/w500/AwG0kWnJ4rbPapAEq2OLqnBGVr3.jpg"
+      },
+      {
+        "name": "Chris Pine",
+        "character": "Roger Karos",
+        "photo": "https://image.tmdb.org/t/p/w500/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg"
+      },
+      {
+        "name": "Jessica Alba",
+        "character": "Charlie",
+        "photo": "https://image.tmdb.org/t/p/w500/hPoy6FRfiCIxguX3w2CoBbDoaEV.jpg"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+      },
+      {
+        "name": "Brooklyn Decker",
+        "character": "Candace",
+        "photo": "https://image.tmdb.org/t/p/w500/x3JWepaXTopE9k0g87Q9diRM5Nc.jpg"
+      },
+      {
+        "name": "James Badge Dale",
+        "character": "Laurent",
+        "photo": "https://image.tmdb.org/t/p/w500/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+      },
+      {
+        "name": "Ed Helms",
+        "character": "Karl",
+        "photo": "https://image.tmdb.org/t/p/w500/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+      },
+      {
+        "name": "Mindy Robinson",
+        "character": "Russian Hooker",
+        "photo": "https://image.tmdb.org/t/p/w500/wRStB9kFS531TAtjP3UoR8ODd9S.jpg"
+      },
+      {
+        "name": "Randy Couture",
+        "character": "The Jovi",
+        "photo": "https://image.tmdb.org/t/p/w500/pmdPaQBWufFVwVxJYofLcERZr1l.jpg"
+      },
+      {
+        "name": "David Hasselhoff",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
+      },
+      {
+        "name": "Erika Jordan",
+        "character": "Hooker 3",
+        "photo": "https://image.tmdb.org/t/p/w500/nSQ4C4xlcW0itf1EjYc21oJVq8S.jpg"
+      }
+    ],
+    "director": [
+      "Joe Carnahan"
+    ]
   }
 }

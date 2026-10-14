@@ -19,6 +19,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Jim Caviezel",
+      "Nick Nolte",
+      "Sean Penn",
+      "Ben Chaplin",
+      "Elias Koteas",
+      "John Cusack",
+      "Dash Mihok",
+      "John C. Reilly",
+      "Woody Harrelson",
+      "Miranda Otto",
+      "Arie Verveen",
+      "Kirk Acevedo"
+    ],
+    "app_cast": [
+      {
+        "name": "Jim Caviezel",
+        "character": "Pvt. Robert Witt",
+        "photo": "https://image.tmdb.org/t/p/w500/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+      },
+      {
+        "name": "Nick Nolte",
+        "character": "Lt. Col. Gordon Tall",
+        "photo": "https://image.tmdb.org/t/p/w500/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "1st Sgt. Edward Welsh",
+        "photo": "https://image.tmdb.org/t/p/w500/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Ben Chaplin",
+        "character": "Pvt. Jack Bell",
+        "photo": "https://image.tmdb.org/t/p/w500/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+      },
+      {
+        "name": "Elias Koteas",
+        "character": "Capt. James Staros",
+        "photo": "https://image.tmdb.org/t/p/w500/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+      },
+      {
+        "name": "John Cusack",
+        "character": "Capt. John Gaff",
+        "photo": "https://image.tmdb.org/t/p/w500/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      {
+        "name": "Dash Mihok",
+        "character": "Pfc. Don Doll",
+        "photo": "https://image.tmdb.org/t/p/w500/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Sgt. Maynard Storm",
+        "photo": "https://image.tmdb.org/t/p/w500/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Sgt. William Keck",
+        "photo": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Miranda Otto",
+        "character": "Marty Bell",
+        "photo": "https://image.tmdb.org/t/p/w500/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+      },
+      {
+        "name": "Arie Verveen",
+        "character": "Pfc. Charlie Dale",
+        "photo": "https://image.tmdb.org/t/p/w500/ghYFpRtdYO7vY8FLTN9HAhrCxoO.jpg"
+      },
+      {
+        "name": "Kirk Acevedo",
+        "character": "Pvt. Alfredo Tella",
+        "photo": "https://image.tmdb.org/t/p/w500/jFUHECwo7L3KOZ0HxCQytl90qed.jpg"
+      }
+    ],
+    "director": [
+      "Terrence Malick"
+    ]
   }
 }

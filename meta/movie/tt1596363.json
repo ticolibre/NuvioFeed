@@ -18,6 +18,85 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Steve Carell",
+      "Christian Bale",
+      "Ryan Gosling",
+      "Brad Pitt",
+      "Marisa Tomei",
+      "Melissa Leo",
+      "Hamish Linklater",
+      "John Magaro",
+      "Rafe Spall",
+      "Jeremy Strong",
+      "Finn Wittrock",
+      "Tracy Letts"
+    ],
+    "app_cast": [
+      {
+        "name": "Steve Carell",
+        "character": "Mark Baum",
+        "photo": "https://image.tmdb.org/t/p/w500/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
+      },
+      {
+        "name": "Christian Bale",
+        "character": "Michael Burry",
+        "photo": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Jared Vennett",
+        "photo": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Ben Rickert",
+        "photo": "https://image.tmdb.org/t/p/w500/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "Cynthia Baum",
+        "photo": "https://image.tmdb.org/t/p/w500/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+      },
+      {
+        "name": "Melissa Leo",
+        "character": "Georgia Hale",
+        "photo": "https://image.tmdb.org/t/p/w500/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+      },
+      {
+        "name": "Hamish Linklater",
+        "character": "Porter Collins",
+        "photo": "https://image.tmdb.org/t/p/w500/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+      },
+      {
+        "name": "John Magaro",
+        "character": "Charlie Geller",
+        "photo": "https://image.tmdb.org/t/p/w500/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+      },
+      {
+        "name": "Rafe Spall",
+        "character": "Danny Moses",
+        "photo": "https://image.tmdb.org/t/p/w500/zcqUqAvO7RQnitcCNNfTVPaiQtS.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "character": "Vinny Daniel",
+        "photo": "https://image.tmdb.org/t/p/w500/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Jamie Shipley",
+        "photo": "https://image.tmdb.org/t/p/w500/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg"
+      },
+      {
+        "name": "Tracy Letts",
+        "character": "Lawrence Fields",
+        "photo": "https://image.tmdb.org/t/p/w500/x318yEddF10ASORC5U958C2kowf.jpg"
+      }
+    ],
+    "director": [
+      "Adam McKay"
+    ]
   }
 }

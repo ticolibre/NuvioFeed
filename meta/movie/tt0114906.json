@@ -18,6 +18,83 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Heather Matarazzo",
+      "Brendan Sexton III",
+      "Eric Mabius",
+      "Matthew Faber",
+      "Daria Kalinina",
+      "Angela Pietropinto",
+      "Bill Buell",
+      "Will Lyman",
+      "Rica Martens",
+      "Stacey Moseley",
+      "Christina Brucato",
+      "Dimitri Iervolino"
+    ],
+    "app_cast": [
+      {
+        "name": "Heather Matarazzo",
+        "character": "Dawn Wiener",
+        "photo": "https://image.tmdb.org/t/p/w500/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg"
+      },
+      {
+        "name": "Brendan Sexton III",
+        "character": "Brandon McCarthy",
+        "photo": "https://image.tmdb.org/t/p/w500/kfvO3Mdk5yqzuaN8aIeaFfVl4T5.jpg"
+      },
+      {
+        "name": "Eric Mabius",
+        "character": "Steve Rodgers",
+        "photo": "https://image.tmdb.org/t/p/w500/gfTyV38S5BzV9pZnIducUgo68hK.jpg"
+      },
+      {
+        "name": "Matthew Faber",
+        "character": "Mark Wiener",
+        "photo": "https://image.tmdb.org/t/p/w500/7AN24bHosFTglFqsqSyCRioLLUf.jpg"
+      },
+      {
+        "name": "Daria Kalinina",
+        "character": "Missy Wiener"
+      },
+      {
+        "name": "Angela Pietropinto",
+        "character": "Mrs. Weiner",
+        "photo": "https://image.tmdb.org/t/p/w500/1gUgveREGrACTsuvRdJreH68b8Y.jpg"
+      },
+      {
+        "name": "Bill Buell",
+        "character": "Mr. Wiener",
+        "photo": "https://image.tmdb.org/t/p/w500/8T8pAu23bHye22XLodDrCDxSWuv.jpg"
+      },
+      {
+        "name": "Will Lyman",
+        "character": "Mr. Edwards",
+        "photo": "https://image.tmdb.org/t/p/w500/ymifKdrtMFEZVYTvOmYoshPg7HR.jpg"
+      },
+      {
+        "name": "Rica Martens",
+        "character": "Mrs. Grissom",
+        "photo": "https://image.tmdb.org/t/p/w500/xMFDzkp92lIl4pZt9Hcbnqbkhag.jpg"
+      },
+      {
+        "name": "Stacey Moseley",
+        "character": "Mary Ellen Moriarty",
+        "photo": "https://image.tmdb.org/t/p/w500/awX1jJOdCPgS0KiEDu6E242zMFD.jpg"
+      },
+      {
+        "name": "Christina Brucato",
+        "character": "Cookie",
+        "photo": "https://image.tmdb.org/t/p/w500/5yNLxKg9o3791d72j8XhalawFyE.jpg"
+      },
+      {
+        "name": "Dimitri Iervolino",
+        "character": "Ralphy"
+      }
+    ],
+    "director": [
+      "Todd Solondz"
+    ]
   }
 }

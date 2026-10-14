@@ -19,6 +19,85 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce",
+      "James Cromwell",
+      "Kim Basinger",
+      "Danny DeVito",
+      "David Strathairn",
+      "Ron Rifkin",
+      "Graham Beckel",
+      "Amber Smith",
+      "John Mahon",
+      "Paul Guilfoyle"
+    ],
+    "app_cast": [
+      {
+        "name": "Kevin Spacey",
+        "character": "Jack Vincennes",
+        "photo": "https://image.tmdb.org/t/p/w500/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+      },
+      {
+        "name": "Russell Crowe",
+        "character": "Wendell 'Bud' White",
+        "photo": "https://image.tmdb.org/t/p/w500/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Edmund 'Ed' Exley",
+        "photo": "https://image.tmdb.org/t/p/w500/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Dudley Smith",
+        "photo": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+      },
+      {
+        "name": "Kim Basinger",
+        "character": "Lynn Bracken",
+        "photo": "https://image.tmdb.org/t/p/w500/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Sid Hudgens",
+        "photo": "https://image.tmdb.org/t/p/w500/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+      },
+      {
+        "name": "David Strathairn",
+        "character": "Pierce Patchett",
+        "photo": "https://image.tmdb.org/t/p/w500/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+      },
+      {
+        "name": "Ron Rifkin",
+        "character": "D.A. Ellis Loew",
+        "photo": "https://image.tmdb.org/t/p/w500/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+      },
+      {
+        "name": "Graham Beckel",
+        "character": "Dick Stensland",
+        "photo": "https://image.tmdb.org/t/p/w500/duFny0c11zVA37XG1bHFTNOCvRG.jpg"
+      },
+      {
+        "name": "Amber Smith",
+        "character": "Susan Lefferts",
+        "photo": "https://image.tmdb.org/t/p/w500/6zUCOaxoRvIZLzDWbWWLOgeZMrf.jpg"
+      },
+      {
+        "name": "John Mahon",
+        "character": "Police Chief",
+        "photo": "https://image.tmdb.org/t/p/w500/HQ5v471RZCcWhl9qY4cImUf5tP.jpg"
+      },
+      {
+        "name": "Paul Guilfoyle",
+        "character": "Mickey Cohen",
+        "photo": "https://image.tmdb.org/t/p/w500/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+      }
+    ],
+    "director": [
+      "Curtis Hanson"
+    ]
   }
 }

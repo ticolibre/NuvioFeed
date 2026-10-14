@@ -19,6 +19,82 @@
           "rating": "4.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Linda Hunt",
+      "Linda Bassett",
+      "Jacques Boudet",
+      "Andrew McCarthy",
+      "Bernadette Lafont",
+      "Adolfo Vargas",
+      "Pierre-Alain Chapuis",
+      "Daniel Langlet",
+      "Michèle Gleizer",
+      "Bruce McGill",
+      "K.C. Schulberg",
+      "Pascal Cambon"
+    ],
+    "app_cast": [
+      {
+        "name": "Linda Hunt",
+        "character": "Alice B. Toklas",
+        "photo": "https://image.tmdb.org/t/p/w500/leiVNArKBQTmE5ROovNJWiW9kfk.jpg"
+      },
+      {
+        "name": "Linda Bassett",
+        "character": "Gertrude Stein",
+        "photo": "https://image.tmdb.org/t/p/w500/pE6Zoig9kbEn1te1MRtfjchDMeC.jpg"
+      },
+      {
+        "name": "Jacques Boudet",
+        "character": "Guillaume Apollinaire",
+        "photo": "https://image.tmdb.org/t/p/w500/7VCe37uzQDl4T6GmHL5eaTL4dxZ.jpg"
+      },
+      {
+        "name": "Andrew McCarthy",
+        "character": "Henry Hopper",
+        "photo": "https://image.tmdb.org/t/p/w500/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
+      },
+      {
+        "name": "Bernadette Lafont",
+        "character": "Fernande Olivier",
+        "photo": "https://image.tmdb.org/t/p/w500/l7puvU6QPP2effZDEdXjGJdRHfK.jpg"
+      },
+      {
+        "name": "Adolfo Vargas",
+        "character": "Pablo Picasso (voice)"
+      },
+      {
+        "name": "Pierre-Alain Chapuis",
+        "character": "Priest",
+        "photo": "https://image.tmdb.org/t/p/w500/b3yPnxuvtd818WmUlOUL8AHMiNB.jpg"
+      },
+      {
+        "name": "Daniel Langlet",
+        "character": "Monsieur Thiele",
+        "photo": "https://image.tmdb.org/t/p/w500/h5HhLC9RAKnaiC7qFG9qQCWSiUu.jpg"
+      },
+      {
+        "name": "Michèle Gleizer",
+        "character": "Madame Thiele",
+        "photo": "https://image.tmdb.org/t/p/w500/rZBI3nT3L6WPUqGeeKaEK1GZ9J1.jpg"
+      },
+      {
+        "name": "Bruce McGill",
+        "character": "Ernest Hemingway",
+        "photo": "https://image.tmdb.org/t/p/w500/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+      },
+      {
+        "name": "K.C. Schulberg",
+        "character": "Stage Manager"
+      },
+      {
+        "name": "Pascal Cambon",
+        "character": "Sound Effects Man"
+      }
+    ],
+    "director": [
+      "Jill Godmilow"
+    ]
   }
 }

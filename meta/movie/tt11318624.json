@@ -19,6 +19,83 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "John Mulaney",
+      "Jake Gyllenhaal",
+      "Annaleigh Ashford",
+      "Natasha Lyonne",
+      "David Byrne",
+      "Richard Kind",
+      "André De Shields",
+      "Alexander Bello",
+      "Tyler Bourke",
+      "Ava Briglia",
+      "Cordelia Comando",
+      "Camille De La Cruz"
+    ],
+    "app_cast": [
+      {
+        "name": "John Mulaney",
+        "character": "John Mulaney",
+        "photo": "https://image.tmdb.org/t/p/w500/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Mr. Music",
+        "photo": "https://image.tmdb.org/t/p/w500/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+      },
+      {
+        "name": "Annaleigh Ashford",
+        "character": "Crying Lady",
+        "photo": "https://image.tmdb.org/t/p/w500/AaMsrGdvvNeOzNUMUYOQlcejbfO.jpg"
+      },
+      {
+        "name": "Natasha Lyonne",
+        "character": "Natasha Lyonne",
+        "photo": "https://image.tmdb.org/t/p/w500/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
+      },
+      {
+        "name": "David Byrne",
+        "character": "David Byrne",
+        "photo": "https://image.tmdb.org/t/p/w500/iyD9S1hvyWjtiAedZAACDcWKuaf.jpg"
+      },
+      {
+        "name": "Richard Kind",
+        "character": "Richard Kind",
+        "photo": "https://image.tmdb.org/t/p/w500/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+      },
+      {
+        "name": "André De Shields",
+        "character": "The Tutor",
+        "photo": "https://image.tmdb.org/t/p/w500/xpDTjfThQvT4aUW3SSnYM1u1MBs.jpg"
+      },
+      {
+        "name": "Alexander Bello",
+        "character": "Alex",
+        "photo": "https://image.tmdb.org/t/p/w500/jDcdsfP7r6oqWNGPZumFwITtKpu.jpg"
+      },
+      {
+        "name": "Tyler Bourke",
+        "character": "Tyler",
+        "photo": "https://image.tmdb.org/t/p/w500/rSDIQZl4BZlrzzjOGUoSNWIT6Xx.jpg"
+      },
+      {
+        "name": "Ava Briglia",
+        "character": "Ava",
+        "photo": "https://image.tmdb.org/t/p/w500/1a9NboLCjHaqzMmcnyE7hJL7ez2.jpg"
+      },
+      {
+        "name": "Cordelia Comando",
+        "character": "Cordelia"
+      },
+      {
+        "name": "Camille De La Cruz",
+        "character": "Camille"
+      }
+    ],
+    "director": [
+      "Rhys Thomas"
+    ]
   }
 }

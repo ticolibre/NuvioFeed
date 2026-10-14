@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Steve McQueen",
+      "Paul Newman",
+      "William Holden",
+      "Faye Dunaway",
+      "Fred Astaire",
+      "Susan Blakely",
+      "Richard Chamberlain",
+      "Jennifer Jones",
+      "O. J. Simpson",
+      "Robert Vaughn",
+      "Robert Wagner",
+      "Susan Flannery"
+    ],
+    "app_cast": [
+      {
+        "name": "Steve McQueen",
+        "character": "Chief O'Hallorhan",
+        "photo": "https://image.tmdb.org/t/p/w500/xUxg7SAM17eEc0rF90gz59Ap0w1.jpg"
+      },
+      {
+        "name": "Paul Newman",
+        "character": "Doug Roberts",
+        "photo": "https://image.tmdb.org/t/p/w500/5K9gQEzuQ0DeNO6KKEb5xK8iOVD.jpg"
+      },
+      {
+        "name": "William Holden",
+        "character": "Jim Duncan",
+        "photo": "https://image.tmdb.org/t/p/w500/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Faye Dunaway",
+        "character": "Susan",
+        "photo": "https://image.tmdb.org/t/p/w500/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+      },
+      {
+        "name": "Fred Astaire",
+        "character": "Harlee Claiborne",
+        "photo": "https://image.tmdb.org/t/p/w500/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+      },
+      {
+        "name": "Susan Blakely",
+        "character": "Patty",
+        "photo": "https://image.tmdb.org/t/p/w500/xfl66Wa4LYdcRwoXd9ojn8V55eF.jpg"
+      },
+      {
+        "name": "Richard Chamberlain",
+        "character": "Simmons",
+        "photo": "https://image.tmdb.org/t/p/w500/cfMMR8EZrqMzjGExZ4Hb0fCFuLw.jpg"
+      },
+      {
+        "name": "Jennifer Jones",
+        "character": "Lisolette",
+        "photo": "https://image.tmdb.org/t/p/w500/kPWuP9WGAkVnwdmT1KCif4KOMwz.jpg"
+      },
+      {
+        "name": "O. J. Simpson",
+        "character": "Jernigan",
+        "photo": "https://image.tmdb.org/t/p/w500/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg"
+      },
+      {
+        "name": "Robert Vaughn",
+        "character": "Senator Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg"
+      },
+      {
+        "name": "Robert Wagner",
+        "character": "Bigelow",
+        "photo": "https://image.tmdb.org/t/p/w500/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg"
+      },
+      {
+        "name": "Susan Flannery",
+        "character": "Lorrie",
+        "photo": "https://image.tmdb.org/t/p/w500/rjymY3MoYbzlfSmOydDPDaZahZH.jpg"
+      }
+    ],
+    "director": [
+      "John Guillermin"
+    ]
   }
 }

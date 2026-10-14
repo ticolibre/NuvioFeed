@@ -19,6 +19,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Natalie Portman",
+      "Mila Kunis",
+      "Vincent Cassel",
+      "Barbara Hershey",
+      "Winona Ryder",
+      "Benjamin Millepied",
+      "Ksenia Solo",
+      "Kristina Anapau",
+      "Janet Montgomery",
+      "Sebastian Stan",
+      "Toby Hemingway",
+      "Sergio Torrado"
+    ],
+    "app_cast": [
+      {
+        "name": "Natalie Portman",
+        "character": "Nina Sayers / The Swan Queen",
+        "photo": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+      },
+      {
+        "name": "Mila Kunis",
+        "character": "Lily / The Black Swan",
+        "photo": "https://image.tmdb.org/t/p/w500/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg"
+      },
+      {
+        "name": "Vincent Cassel",
+        "character": "Thomas Leroy / The Gentleman",
+        "photo": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+      },
+      {
+        "name": "Barbara Hershey",
+        "character": "Erica Sayers / The Queen",
+        "photo": "https://image.tmdb.org/t/p/w500/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Beth Macintyre / The Dying Swan",
+        "photo": "https://image.tmdb.org/t/p/w500/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg"
+      },
+      {
+        "name": "Benjamin Millepied",
+        "character": "David Moreau / The Prince",
+        "photo": "https://image.tmdb.org/t/p/w500/dUolMP3dmuks23usx3sRfB8qKqx.jpg"
+      },
+      {
+        "name": "Ksenia Solo",
+        "character": "Veronica / Little Swan",
+        "photo": "https://image.tmdb.org/t/p/w500/wILJwOPBqvxxYkWX0k8XmehMD8k.jpg"
+      },
+      {
+        "name": "Kristina Anapau",
+        "character": "Galina / Little Swan",
+        "photo": "https://image.tmdb.org/t/p/w500/70yrpNKrjCNYCYADKWVsr9XbtyV.jpg"
+      },
+      {
+        "name": "Janet Montgomery",
+        "character": "Madeline / Little Swan",
+        "photo": "https://image.tmdb.org/t/p/w500/jn9tU6mAAkdtjgw2JPlS2vFG1jM.jpg"
+      },
+      {
+        "name": "Sebastian Stan",
+        "character": "Andrew / Suitor",
+        "photo": "https://image.tmdb.org/t/p/w500/v20RLWst39klatsqUgSrwHxhwee.jpg"
+      },
+      {
+        "name": "Toby Hemingway",
+        "character": "Tom / Suitor",
+        "photo": "https://image.tmdb.org/t/p/w500/h4q4JcxfO3kXUFrqLdNfOLOJYaI.jpg"
+      },
+      {
+        "name": "Sergio Torrado",
+        "character": "Sergio / Rothbart",
+        "photo": "https://image.tmdb.org/t/p/w500/8iGS8TbEC6Inmq738JAzQ5OE5Ns.jpg"
+      }
+    ],
+    "director": [
+      "Darren Aronofsky"
+    ]
   }
 }

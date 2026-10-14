@@ -20,6 +20,84 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Catherine Lagaʻaia",
+      "Dwayne Johnson",
+      "Rena Owen",
+      "John Tui",
+      "Frankie Adams",
+      "Jemaine Clement",
+      "Emma Puahi-Shapazian",
+      "Amaya Masoli",
+      "Sam Puefua",
+      "Sione Milford",
+      "Kapeneta Te'o-Tafiti",
+      "Eric Scanlan"
+    ],
+    "app_cast": [
+      {
+        "name": "Catherine Lagaʻaia",
+        "character": "Moana",
+        "photo": "https://image.tmdb.org/t/p/w500/tUyT2VfVuRJPqeAbLhFFOtZa4fH.jpg"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "character": "Maui",
+        "photo": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+      },
+      {
+        "name": "Rena Owen",
+        "character": "Gramma Tala",
+        "photo": "https://image.tmdb.org/t/p/w500/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+      },
+      {
+        "name": "John Tui",
+        "character": "Chief Tui",
+        "photo": "https://image.tmdb.org/t/p/w500/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+      },
+      {
+        "name": "Frankie Adams",
+        "character": "Sina",
+        "photo": "https://image.tmdb.org/t/p/w500/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+      },
+      {
+        "name": "Jemaine Clement",
+        "character": "Tamatoa (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+      },
+      {
+        "name": "Emma Puahi-Shapazian",
+        "character": "Moana (4 years old)",
+        "photo": "https://image.tmdb.org/t/p/w500/iFHiH7MAJja89Grgu47AdvsPhEU.jpg"
+      },
+      {
+        "name": "Amaya Masoli",
+        "character": "Moana (8 years old)",
+        "photo": "https://image.tmdb.org/t/p/w500/fDqCryVbJGSb6CPLCIxmfbN8wsV.jpg"
+      },
+      {
+        "name": "Sam Puefua",
+        "character": "Village Fisherman",
+        "photo": "https://image.tmdb.org/t/p/w500/iDcFUBYJMMPf2TIynGHu6U23cWI.jpg"
+      },
+      {
+        "name": "Sione Milford",
+        "character": "Coconut Farmer"
+      },
+      {
+        "name": "Kapeneta Te'o-Tafiti",
+        "character": "Coconut Farmer",
+        "photo": "https://image.tmdb.org/t/p/w500/bLR7ydoZq6l7FAaUoXrm0LenyuV.jpg"
+      },
+      {
+        "name": "Eric Scanlan",
+        "character": "Tulafale",
+        "photo": "https://image.tmdb.org/t/p/w500/aNPlEfrnBZUP33clsQgLtupXXjU.jpg"
+      }
+    ],
+    "director": [
+      "Thomas Kail"
+    ]
   }
 }

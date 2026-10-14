@@ -19,6 +19,82 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Sam Waterston",
+      "Haing S. Ngor",
+      "John Malkovich",
+      "Julian Sands",
+      "Craig T. Nelson",
+      "Spalding Gray",
+      "Bill Paterson",
+      "Athol Fugard",
+      "Graham Kennedy",
+      "Katherine Krapum Chey",
+      "Oliver Pierpaoli",
+      "Edward Entero Chey"
+    ],
+    "app_cast": [
+      {
+        "name": "Sam Waterston",
+        "character": "Sydney Schanberg",
+        "photo": "https://image.tmdb.org/t/p/w500/cSCy9Ng1QJSbEi440342bL71ceF.jpg"
+      },
+      {
+        "name": "Haing S. Ngor",
+        "character": "Dith Pran",
+        "photo": "https://image.tmdb.org/t/p/w500/60QdTuxnCtOKjrU6yz4od7JeKvh.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Al Rockoff",
+        "photo": "https://image.tmdb.org/t/p/w500/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+      },
+      {
+        "name": "Julian Sands",
+        "character": "Jon Swain",
+        "photo": "https://image.tmdb.org/t/p/w500/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+      },
+      {
+        "name": "Craig T. Nelson",
+        "character": "Military Attaché",
+        "photo": "https://image.tmdb.org/t/p/w500/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+      },
+      {
+        "name": "Spalding Gray",
+        "character": "U.S. Consul",
+        "photo": "https://image.tmdb.org/t/p/w500/qmEBNepXpBuDnW3gdkY2sHeoGkq.jpg"
+      },
+      {
+        "name": "Bill Paterson",
+        "character": "Dr. MacEntire",
+        "photo": "https://image.tmdb.org/t/p/w500/mk5vpYLmER7asqOhEwVKXD3P3YE.jpg"
+      },
+      {
+        "name": "Athol Fugard",
+        "character": "Dr. Sundesval",
+        "photo": "https://image.tmdb.org/t/p/w500/vr4iRP4Mvc8QWYUtceVKKEpebbB.jpg"
+      },
+      {
+        "name": "Graham Kennedy",
+        "character": "Dougal",
+        "photo": "https://image.tmdb.org/t/p/w500/180xhHA37hjsgFSmLGSvaY15VpL.jpg"
+      },
+      {
+        "name": "Katherine Krapum Chey",
+        "character": "Ser Moeum (Pran's Wife)"
+      },
+      {
+        "name": "Oliver Pierpaoli",
+        "character": "Titony (Pran's Son)"
+      },
+      {
+        "name": "Edward Entero Chey",
+        "character": "Sarun"
+      }
+    ],
+    "director": [
+      "Roland Joffé"
+    ]
   }
 }

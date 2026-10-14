@@ -18,6 +18,66 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Dennis Quaid",
+      "Jean Reno",
+      "Sky Katz",
+      "Jim Klock",
+      "Leonidas Gulaptis",
+      "Elsa Mollien",
+      "Gabriel 'G-Rod' Rodriguez",
+      "Dominick LaRuffa Jr.",
+      "Anna Schafer"
+    ],
+    "app_cast": [
+      {
+        "name": "Dennis Quaid",
+        "character": "Carl Rikker",
+        "photo": "https://image.tmdb.org/t/p/w500/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+      },
+      {
+        "name": "Jean Reno",
+        "character": "Charlie",
+        "photo": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+      },
+      {
+        "name": "Sky Katz",
+        "character": "Layla",
+        "photo": "https://image.tmdb.org/t/p/w500/xhvma0NjQh8rD5sLfkWIeYt8dAl.jpg"
+      },
+      {
+        "name": "Jim Klock",
+        "character": "Deckard",
+        "photo": "https://image.tmdb.org/t/p/w500/uP9BqJHWhtLmJ2UEmwSiRp4jpp6.jpg"
+      },
+      {
+        "name": "Leonidas Gulaptis",
+        "character": "Woodrock",
+        "photo": "https://image.tmdb.org/t/p/w500/lj1wkVrWnGRaRjuBaRiHFuKAwQr.jpg"
+      },
+      {
+        "name": "Elsa Mollien",
+        "character": "Rebecca",
+        "photo": "https://image.tmdb.org/t/p/w500/bocp1Bcf3wZLNJezr086ahKehZF.jpg"
+      },
+      {
+        "name": "Gabriel 'G-Rod' Rodriguez",
+        "character": "Jason",
+        "photo": "https://image.tmdb.org/t/p/w500/t7GOyMDDMYWRwnQveCEUFDSapk7.jpg"
+      },
+      {
+        "name": "Dominick LaRuffa Jr.",
+        "character": "Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w500/jT7p3USLXvuQexPvEBfGJSTlJ0T.jpg"
+      },
+      {
+        "name": "Anna Schafer",
+        "photo": "https://image.tmdb.org/t/p/w500/AtpZOzp7t6ybvB1bJrSwTJfWTyZ.jpg"
+      }
+    ],
+    "director": [
+      "Babak Najafi"
+    ]
   }
 }

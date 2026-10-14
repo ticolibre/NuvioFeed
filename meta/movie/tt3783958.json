@@ -19,6 +19,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt",
+      "Finn Wittrock",
+      "Callie Hernandez",
+      "Sonoya Mizuno",
+      "Jessica Rothe",
+      "Tom Everett Scott",
+      "Josh Pence",
+      "J.K. Simmons",
+      "Amiée Conn"
+    ],
+    "app_cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Sebastian",
+        "photo": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Mia",
+        "photo": "https://image.tmdb.org/t/p/w500/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+      },
+      {
+        "name": "John Legend",
+        "character": "Keith",
+        "photo": "https://image.tmdb.org/t/p/w500/cCv0YBy2YFFWp9h3kvNPmwWwrCD.jpg"
+      },
+      {
+        "name": "Rosemarie DeWitt",
+        "character": "Laura",
+        "photo": "https://image.tmdb.org/t/p/w500/44sxIdGtYN24R14OmnZbCpcd8J8.jpg"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Greg",
+        "photo": "https://image.tmdb.org/t/p/w500/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg"
+      },
+      {
+        "name": "Callie Hernandez",
+        "character": "Tracy",
+        "photo": "https://image.tmdb.org/t/p/w500/doMXlhTAYCy8gH43yYA6m9ymxhd.jpg"
+      },
+      {
+        "name": "Sonoya Mizuno",
+        "character": "Caitlin",
+        "photo": "https://image.tmdb.org/t/p/w500/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+      },
+      {
+        "name": "Jessica Rothe",
+        "character": "Alexis",
+        "photo": "https://image.tmdb.org/t/p/w500/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+      },
+      {
+        "name": "Tom Everett Scott",
+        "character": "David",
+        "photo": "https://image.tmdb.org/t/p/w500/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg"
+      },
+      {
+        "name": "Josh Pence",
+        "character": "Josh",
+        "photo": "https://image.tmdb.org/t/p/w500/tkDFl0BEVCUcwKR30ICeG3yCTbr.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Bill",
+        "photo": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Amiée Conn",
+        "character": "Famous Actress",
+        "photo": "https://image.tmdb.org/t/p/w500/wAcmKIkZOfuS3gKnUTUW9Epu6Yy.jpg"
+      }
+    ],
+    "director": [
+      "Damien Chazelle"
+    ]
   }
 }

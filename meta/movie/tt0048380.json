@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Henry Fonda",
+      "James Cagney",
+      "William Powell",
+      "Jack Lemmon",
+      "Betsy Palmer",
+      "Ward Bond",
+      "Philip Carey",
+      "Nick Adams",
+      "Perry Lopez",
+      "Ken Curtis",
+      "Robert Roark",
+      "Harry Carey Jr."
+    ],
+    "app_cast": [
+      {
+        "name": "Henry Fonda",
+        "character": "Lieutenant Roberts",
+        "photo": "https://image.tmdb.org/t/p/w500/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+      },
+      {
+        "name": "James Cagney",
+        "character": "Captain Morton",
+        "photo": "https://image.tmdb.org/t/p/w500/haDKecHGGb1qh8gAoR3ExiJlujn.jpg"
+      },
+      {
+        "name": "William Powell",
+        "character": "Doc",
+        "photo": "https://image.tmdb.org/t/p/w500/8DTWs389THkVCTiDFu0x8ekNmUC.jpg"
+      },
+      {
+        "name": "Jack Lemmon",
+        "character": "Frank Pulver",
+        "photo": "https://image.tmdb.org/t/p/w500/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+      },
+      {
+        "name": "Betsy Palmer",
+        "character": "Ann Girard",
+        "photo": "https://image.tmdb.org/t/p/w500/isZD80T79h8xptSI91sQM69lZVi.jpg"
+      },
+      {
+        "name": "Ward Bond",
+        "character": "Dowdy",
+        "photo": "https://image.tmdb.org/t/p/w500/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+      },
+      {
+        "name": "Philip Carey",
+        "character": "Mannion",
+        "photo": "https://image.tmdb.org/t/p/w500/7EWVzdsFfKONuIxxL0PMeCemjhu.jpg"
+      },
+      {
+        "name": "Nick Adams",
+        "character": "Reber",
+        "photo": "https://image.tmdb.org/t/p/w500/yrXQ3DlthU5vks3L7Wan2r39AHF.jpg"
+      },
+      {
+        "name": "Perry Lopez",
+        "character": "Rodrigues",
+        "photo": "https://image.tmdb.org/t/p/w500/rQXvA13yB182uYVZ1ziHDe6ECV0.jpg"
+      },
+      {
+        "name": "Ken Curtis",
+        "character": "Dolan",
+        "photo": "https://image.tmdb.org/t/p/w500/nL4aCX6RJuuw1ML3FGWELXNiCdD.jpg"
+      },
+      {
+        "name": "Robert Roark",
+        "character": "Insigna"
+      },
+      {
+        "name": "Harry Carey Jr.",
+        "character": "Stefanowski",
+        "photo": "https://image.tmdb.org/t/p/w500/7O61xbnqAMDOKVCh9ZH8deW6M30.jpg"
+      }
+    ],
+    "director": [
+      "John Ford",
+      "Mervyn LeRoy"
+    ]
   }
 }

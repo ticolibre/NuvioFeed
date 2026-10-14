@@ -19,6 +19,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Joel McCrea",
+      "Laraine Day",
+      "Herbert Marshall",
+      "George Sanders",
+      "Albert Bassermann",
+      "Robert Benchley",
+      "Edmund Gwenn",
+      "Eduardo Ciannelli",
+      "Harry Davenport",
+      "Martin Kosleck",
+      "Frances Carson",
+      "Ian Wolfe"
+    ],
+    "app_cast": [
+      {
+        "name": "Joel McCrea",
+        "character": "John Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/k2DhZdrEKtauhnauAuivYO84Vee.jpg"
+      },
+      {
+        "name": "Laraine Day",
+        "character": "Carol Fisher",
+        "photo": "https://image.tmdb.org/t/p/w500/kN7n62Q51eza6r4EjccjuBCi1fN.jpg"
+      },
+      {
+        "name": "Herbert Marshall",
+        "character": "Stephen Fisher",
+        "photo": "https://image.tmdb.org/t/p/w500/r2DrJ6dxBNSjCtP7PRNBsYjbNI2.jpg"
+      },
+      {
+        "name": "George Sanders",
+        "character": "Scott ffolliott",
+        "photo": "https://image.tmdb.org/t/p/w500/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+      },
+      {
+        "name": "Albert Bassermann",
+        "character": "Van Meer",
+        "photo": "https://image.tmdb.org/t/p/w500/uigX73KXCG55UXxM7dkg3Mg35VB.jpg"
+      },
+      {
+        "name": "Robert Benchley",
+        "character": "Stebbins",
+        "photo": "https://image.tmdb.org/t/p/w500/qXJtEUZW459w8hKEcvo4FauhOBy.jpg"
+      },
+      {
+        "name": "Edmund Gwenn",
+        "character": "Rowley",
+        "photo": "https://image.tmdb.org/t/p/w500/9xUiHCycn0WsxqiqFjq2fI40FpQ.jpg"
+      },
+      {
+        "name": "Eduardo Ciannelli",
+        "character": "Mr. Krug",
+        "photo": "https://image.tmdb.org/t/p/w500/eiDBc4v8xrRhkaIpXEu9ZNViAiB.jpg"
+      },
+      {
+        "name": "Harry Davenport",
+        "character": "Mr. Powers",
+        "photo": "https://image.tmdb.org/t/p/w500/7W2oWsYrSUroKuTom0cz9qAOAfD.jpg"
+      },
+      {
+        "name": "Martin Kosleck",
+        "character": "Tramp",
+        "photo": "https://image.tmdb.org/t/p/w500/qhOKenjM9mCj5L2x2rJxubNlhE.jpg"
+      },
+      {
+        "name": "Frances Carson",
+        "character": "Mrs. Sprague",
+        "photo": "https://image.tmdb.org/t/p/w500/9SdirTOaS5Onu1o9fbB3Ha2O122.jpg"
+      },
+      {
+        "name": "Ian Wolfe",
+        "character": "Stiles",
+        "photo": "https://image.tmdb.org/t/p/w500/8Eum5GDti8Zh9ZyYSvWaoIHt8Wr.jpg"
+      }
+    ],
+    "director": [
+      "Alfred Hitchcock"
+    ]
   }
 }

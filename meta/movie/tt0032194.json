@@ -18,6 +18,85 @@
           "rating": "7.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Bette Davis",
+      "Charles Boyer",
+      "Jeffrey Lynn",
+      "Barbara O'Neil",
+      "Virginia Weidler",
+      "Helen Westley",
+      "Walter Hampden",
+      "Henry Daniell",
+      "Harry Davenport",
+      "George Coulouris",
+      "Montagu Love",
+      "Janet Beecher"
+    ],
+    "app_cast": [
+      {
+        "name": "Bette Davis",
+        "character": "Henriette Deluzy-Desportes",
+        "photo": "https://image.tmdb.org/t/p/w500/dr7UzpC9055ByCdCUHvTP1qsD2X.jpg"
+      },
+      {
+        "name": "Charles Boyer",
+        "character": "Duc de Praslin",
+        "photo": "https://image.tmdb.org/t/p/w500/uVV5HiMl0xP1haPwqcJNweGizZ1.jpg"
+      },
+      {
+        "name": "Jeffrey Lynn",
+        "character": "Henry Martyn Field",
+        "photo": "https://image.tmdb.org/t/p/w500/jqTdvuCs9XaUddsNbdi1S9h5o3D.jpg"
+      },
+      {
+        "name": "Barbara O'Neil",
+        "character": "Duchesse de Praslin",
+        "photo": "https://image.tmdb.org/t/p/w500/jQpkaGd7GTcsT6tXtbPYozin0le.jpg"
+      },
+      {
+        "name": "Virginia Weidler",
+        "character": "Louise",
+        "photo": "https://image.tmdb.org/t/p/w500/w5qTSGFl3UBZnL2hs0N0pmydXEb.jpg"
+      },
+      {
+        "name": "Helen Westley",
+        "character": "Madame LeMaire",
+        "photo": "https://image.tmdb.org/t/p/w500/7cqZn76oOLV5IbgLCHL2I36pSH.jpg"
+      },
+      {
+        "name": "Walter Hampden",
+        "character": "Pasquier",
+        "photo": "https://image.tmdb.org/t/p/w500/wgkxdLPLCcqfSvjGCaFTqVeE7c4.jpg"
+      },
+      {
+        "name": "Henry Daniell",
+        "character": "Broussais",
+        "photo": "https://image.tmdb.org/t/p/w500/5g4V2fKBAI5TGjqfItfsnPjqZN9.jpg"
+      },
+      {
+        "name": "Harry Davenport",
+        "character": "Pierre",
+        "photo": "https://image.tmdb.org/t/p/w500/7W2oWsYrSUroKuTom0cz9qAOAfD.jpg"
+      },
+      {
+        "name": "George Coulouris",
+        "character": "Charpentier",
+        "photo": "https://image.tmdb.org/t/p/w500/cB87rJWOsstpwhBXk6nqqZ9SEJg.jpg"
+      },
+      {
+        "name": "Montagu Love",
+        "character": "Marechal Sebastiani",
+        "photo": "https://image.tmdb.org/t/p/w500/aCOahFpYdCKMOg8RO9jMsFOA5xx.jpg"
+      },
+      {
+        "name": "Janet Beecher",
+        "character": "Miss Haines",
+        "photo": "https://image.tmdb.org/t/p/w500/rggAkzwZhZp2zf4g51dUsR1Ef6k.jpg"
+      }
+    ],
+    "director": [
+      "Anatole Litvak"
+    ]
   }
 }

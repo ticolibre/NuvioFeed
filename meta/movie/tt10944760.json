@@ -19,6 +19,85 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Vincent Lindon",
+      "Agathe Rousselle",
+      "Garance Marillier",
+      "Laïs Salameh",
+      "Mara Cissé",
+      "Marin Judas",
+      "Diong-Kéba Tacu",
+      "Myriem Akheddiou",
+      "Bertrand Bonello",
+      "Céline Carrère",
+      "Adèle Guigue",
+      "Thibault Cathalifaud"
+    ],
+    "app_cast": [
+      {
+        "name": "Vincent Lindon",
+        "character": "Vincent",
+        "photo": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
+      },
+      {
+        "name": "Agathe Rousselle",
+        "character": "Alexia / Adrien",
+        "photo": "https://image.tmdb.org/t/p/w500/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg"
+      },
+      {
+        "name": "Garance Marillier",
+        "character": "Justine",
+        "photo": "https://image.tmdb.org/t/p/w500/gPIOhXZDUYE8wDbL5s12H7i6uzK.jpg"
+      },
+      {
+        "name": "Laïs Salameh",
+        "character": "Rayane",
+        "photo": "https://image.tmdb.org/t/p/w500/gUUjgXlteMX1KC1nYsktcUn58fc.jpg"
+      },
+      {
+        "name": "Mara Cissé",
+        "character": "Jeantet",
+        "photo": "https://image.tmdb.org/t/p/w500/lZpu07faTNHfTebDvpNv3aSTZsn.jpg"
+      },
+      {
+        "name": "Marin Judas",
+        "character": "Charrier",
+        "photo": "https://image.tmdb.org/t/p/w500/inqEGcHaZbF5mlrTgsuo38pr7Ks.jpg"
+      },
+      {
+        "name": "Diong-Kéba Tacu",
+        "character": "Sissoko",
+        "photo": "https://image.tmdb.org/t/p/w500/16OU03uOXlv4a5p3toH6rqrCNZs.jpg"
+      },
+      {
+        "name": "Myriem Akheddiou",
+        "character": "Adrien's Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/9Xw3XoQSAuUcArgyDjV9erC8W3C.jpg"
+      },
+      {
+        "name": "Bertrand Bonello",
+        "character": "Alexia's Father",
+        "photo": "https://image.tmdb.org/t/p/w500/2sHTU4YOb7buNcU8MZ3JKpGlF6R.jpg"
+      },
+      {
+        "name": "Céline Carrère",
+        "character": "Alexia's Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/pCT5T8zxyCUVnqYLWoD6tVDhXfn.jpg"
+      },
+      {
+        "name": "Adèle Guigue",
+        "character": "Alexia Aged 7",
+        "photo": "https://image.tmdb.org/t/p/w500/sCjtamQHxaEbYLIGKg0Ec5jJP9F.jpg"
+      },
+      {
+        "name": "Thibault Cathalifaud",
+        "character": "Fan at Tuning Show",
+        "photo": "https://image.tmdb.org/t/p/w500/jlu8gzXOlQpoqf5XHDXMrSGvyRJ.jpg"
+      }
+    ],
+    "director": [
+      "Julia Ducournau"
+    ]
   }
 }

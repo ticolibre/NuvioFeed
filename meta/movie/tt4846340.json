@@ -18,6 +18,85 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Taraji P. Henson",
+      "Octavia Spencer",
+      "Janelle Monáe",
+      "Kevin Costner",
+      "Kirsten Dunst",
+      "Jim Parsons",
+      "Mahershala Ali",
+      "Glen Powell",
+      "Ariana Neal",
+      "Saniyya Sidney",
+      "Zani Jones Mbayise",
+      "Donna Biscoe"
+    ],
+    "app_cast": [
+      {
+        "name": "Taraji P. Henson",
+        "character": "Katherine G. Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+      },
+      {
+        "name": "Octavia Spencer",
+        "character": "Dorothy Vaughan",
+        "photo": "https://image.tmdb.org/t/p/w500/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        "name": "Janelle Monáe",
+        "character": "Mary Jackson",
+        "photo": "https://image.tmdb.org/t/p/w500/eTYG6eBH1LzLWcdQJaH72Wzxemm.jpg"
+      },
+      {
+        "name": "Kevin Costner",
+        "character": "Al Harrison",
+        "photo": "https://image.tmdb.org/t/p/w500/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "character": "Vivian Mitchell",
+        "photo": "https://image.tmdb.org/t/p/w500/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+      },
+      {
+        "name": "Jim Parsons",
+        "character": "Paul Stafford",
+        "photo": "https://image.tmdb.org/t/p/w500/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+      },
+      {
+        "name": "Mahershala Ali",
+        "character": "Jim Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+      },
+      {
+        "name": "Glen Powell",
+        "character": "John Glenn",
+        "photo": "https://image.tmdb.org/t/p/w500/7eG0GB1GY3RXI7Tg3GoKrLO9mPW.jpg"
+      },
+      {
+        "name": "Ariana Neal",
+        "character": "Joylette Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/ewm9byOrir9ssi7K95Ti3hcTopz.jpg"
+      },
+      {
+        "name": "Saniyya Sidney",
+        "character": "Constance Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/3GO94ImDSWeFiBIkKpghkcjz0Fk.jpg"
+      },
+      {
+        "name": "Zani Jones Mbayise",
+        "character": "Kathy Johnson",
+        "photo": "https://image.tmdb.org/t/p/w500/9PvBryAAbVDV9EbFugwF4hSp6FH.jpg"
+      },
+      {
+        "name": "Donna Biscoe",
+        "character": "Joylette Coleman",
+        "photo": "https://image.tmdb.org/t/p/w500/97GlC40sehUgcIkbtDbrcCerlw.jpg"
+      }
+    ],
+    "director": [
+      "Theodore Melfi"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Frank Langella",
+      "Michael Sheen",
+      "Kevin Bacon",
+      "Rebecca Hall",
+      "Toby Jones",
+      "Matthew Macfadyen",
+      "Oliver Platt",
+      "Sam Rockwell",
+      "Clint Howard",
+      "Patty McCormack",
+      "Andy Milder",
+      "Kate Jennings Grant"
+    ],
+    "app_cast": [
+      {
+        "name": "Frank Langella",
+        "character": "Richard Nixon",
+        "photo": "https://image.tmdb.org/t/p/w500/86DEo3sBguyc1l46606yVKD28T4.jpg"
+      },
+      {
+        "name": "Michael Sheen",
+        "character": "David Frost",
+        "photo": "https://image.tmdb.org/t/p/w500/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+      },
+      {
+        "name": "Kevin Bacon",
+        "character": "Jack Brennan",
+        "photo": "https://image.tmdb.org/t/p/w500/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+      },
+      {
+        "name": "Rebecca Hall",
+        "character": "Caroline Cushing",
+        "photo": "https://image.tmdb.org/t/p/w500/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+      },
+      {
+        "name": "Toby Jones",
+        "character": "Swifty Lazar",
+        "photo": "https://image.tmdb.org/t/p/w500/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+      },
+      {
+        "name": "Matthew Macfadyen",
+        "character": "John Birt",
+        "photo": "https://image.tmdb.org/t/p/w500/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
+      },
+      {
+        "name": "Oliver Platt",
+        "character": "Bob Zelnick",
+        "photo": "https://image.tmdb.org/t/p/w500/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+      },
+      {
+        "name": "Sam Rockwell",
+        "character": "James Reston Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Lloyd Davis",
+        "photo": "https://image.tmdb.org/t/p/w500/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
+      },
+      {
+        "name": "Patty McCormack",
+        "character": "Pat Nixon",
+        "photo": "https://image.tmdb.org/t/p/w500/4SSGsdbBFwrFxJ16WntOaBqu1fC.jpg"
+      },
+      {
+        "name": "Andy Milder",
+        "character": "Frank Gannon",
+        "photo": "https://image.tmdb.org/t/p/w500/z7sCgA9TiyVuBosmgBJbAxgm05K.jpg"
+      },
+      {
+        "name": "Kate Jennings Grant",
+        "character": "Diane Sawyer",
+        "photo": "https://image.tmdb.org/t/p/w500/5uAN3gTBDRWaYx345svylihKY5J.jpg"
+      }
+    ],
+    "director": [
+      "Ron Howard"
+    ]
   }
 }

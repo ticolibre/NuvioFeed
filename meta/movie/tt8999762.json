@@ -17,6 +17,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Adrien Brody",
+      "Felicity Jones",
+      "Guy Pearce",
+      "Joe Alwyn",
+      "Raffey Cassidy",
+      "Stacy Martin",
+      "Isaach de Bankolé",
+      "Alessandro Nivola",
+      "Ariane Labed",
+      "Michael Epp",
+      "Emma Laird",
+      "Jonathan Hyde"
+    ],
+    "app_cast": [
+      {
+        "name": "Adrien Brody",
+        "character": "László Tóth",
+        "photo": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+      },
+      {
+        "name": "Felicity Jones",
+        "character": "Erzsébet Tóth",
+        "photo": "https://image.tmdb.org/t/p/w500/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Harrison Lee Van Buren Sr",
+        "photo": "https://image.tmdb.org/t/p/w500/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+      },
+      {
+        "name": "Joe Alwyn",
+        "character": "Harry Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/jAdaAeaDVYWlU8I5X5p5DuUI8Ii.jpg"
+      },
+      {
+        "name": "Raffey Cassidy",
+        "character": "Zsófia",
+        "photo": "https://image.tmdb.org/t/p/w500/5BJCaQHaNDWL9y6Mfa3NHQf3lno.jpg"
+      },
+      {
+        "name": "Stacy Martin",
+        "character": "Maggie Lee",
+        "photo": "https://image.tmdb.org/t/p/w500/wLPh456xduwDkGgPpaf1KGH9EWz.jpg"
+      },
+      {
+        "name": "Isaach de Bankolé",
+        "character": "Gordon",
+        "photo": "https://image.tmdb.org/t/p/w500/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+      },
+      {
+        "name": "Alessandro Nivola",
+        "character": "Attila",
+        "photo": "https://image.tmdb.org/t/p/w500/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+      },
+      {
+        "name": "Ariane Labed",
+        "character": "Older Zsófia",
+        "photo": "https://image.tmdb.org/t/p/w500/78QyAml6N1HMuHudmrVlKnJfSQY.jpg"
+      },
+      {
+        "name": "Michael Epp",
+        "character": "Jim Simpson",
+        "photo": "https://image.tmdb.org/t/p/w500/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
+      },
+      {
+        "name": "Emma Laird",
+        "character": "Audrey",
+        "photo": "https://image.tmdb.org/t/p/w500/aBhm7z7fn0d1O7ed3vP0nZzCSSj.jpg"
+      },
+      {
+        "name": "Jonathan Hyde",
+        "character": "Leslie Woodrow",
+        "photo": "https://image.tmdb.org/t/p/w500/1uhT5uzPkBRCb57RtR6C9MvgteC.jpg"
+      }
+    ],
+    "director": [
+      "Brady Corbet"
+    ]
   }
 }

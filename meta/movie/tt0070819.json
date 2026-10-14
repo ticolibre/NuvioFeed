@@ -18,6 +18,82 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "George Segal",
+      "Glenda Jackson",
+      "Paul Sorvino",
+      "K Callan",
+      "Cec Linder",
+      "Michael Elwyn",
+      "Mary Barclay",
+      "Nadim Sawalha",
+      "Ian Thompson",
+      "Eve Karpf",
+      "David de Keyser",
+      "Gaye Brown"
+    ],
+    "app_cast": [
+      {
+        "name": "George Segal",
+        "character": "Steve Blackburn",
+        "photo": "https://image.tmdb.org/t/p/w500/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+      },
+      {
+        "name": "Glenda Jackson",
+        "character": "Vicki Allessio",
+        "photo": "https://image.tmdb.org/t/p/w500/hRkDjkUKuZEJQOkjPPNQEsxsGRi.jpg"
+      },
+      {
+        "name": "Paul Sorvino",
+        "character": "Walter Menkes",
+        "photo": "https://image.tmdb.org/t/p/w500/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg"
+      },
+      {
+        "name": "K Callan",
+        "character": "Patty Menkes",
+        "photo": "https://image.tmdb.org/t/p/w500/iaoZ23x9IBHA7xBsC28F1SW2PPm.jpg"
+      },
+      {
+        "name": "Cec Linder",
+        "character": "Wendell Thompson",
+        "photo": "https://image.tmdb.org/t/p/w500/hU70Y4nyqRtt6KpBlIi1fmUVtKc.jpg"
+      },
+      {
+        "name": "Michael Elwyn",
+        "character": "Cecil",
+        "photo": "https://image.tmdb.org/t/p/w500/lu6uKapr38u2MKuSlEIgKC6J53B.jpg"
+      },
+      {
+        "name": "Mary Barclay",
+        "character": "Martha Thompson"
+      },
+      {
+        "name": "Nadim Sawalha",
+        "character": "Night Hotel Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/7nFlNb4YTw6dQOxfPu7HRSX4c0o.jpg"
+      },
+      {
+        "name": "Ian Thompson",
+        "character": "Derek"
+      },
+      {
+        "name": "Eve Karpf",
+        "character": "Miss Ramos"
+      },
+      {
+        "name": "David de Keyser",
+        "character": "Doctor Alvarez",
+        "photo": "https://image.tmdb.org/t/p/w500/AaAZsz9uuSldZ9QMUlMbmooc7bh.jpg"
+      },
+      {
+        "name": "Gaye Brown",
+        "character": "Dora French",
+        "photo": "https://image.tmdb.org/t/p/w500/t9kuvUmCbBYlZd2V8KPPNYSica6.jpg"
+      }
+    ],
+    "director": [
+      "Melvin Frank"
+    ]
   }
 }

@@ -18,6 +18,85 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Dev Patel",
+      "Freida Pinto",
+      "Madhur Mittal",
+      "Anil Kapoor",
+      "Mahesh Manjrekar",
+      "Saurabh Shukla",
+      "Irrfan Khan",
+      "Ankur Vikal",
+      "Tanay Chheda",
+      "Ayush Mahesh Khedekar",
+      "Ashutosh Lobo Gajiwala",
+      "Azharuddin Mohammed Ismail"
+    ],
+    "app_cast": [
+      {
+        "name": "Dev Patel",
+        "character": "Older Jamal",
+        "photo": "https://image.tmdb.org/t/p/w500/byAo6xoleVSG5O9YpGrQ5YuCRX7.jpg"
+      },
+      {
+        "name": "Freida Pinto",
+        "character": "Older Latika",
+        "photo": "https://image.tmdb.org/t/p/w500/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+      },
+      {
+        "name": "Madhur Mittal",
+        "character": "Older Salim",
+        "photo": "https://image.tmdb.org/t/p/w500/zUAMHowKCKkmx1rM9il5t8B7fxt.jpg"
+      },
+      {
+        "name": "Anil Kapoor",
+        "character": "Prem",
+        "photo": "https://image.tmdb.org/t/p/w500/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+      },
+      {
+        "name": "Mahesh Manjrekar",
+        "character": "Javed",
+        "photo": "https://image.tmdb.org/t/p/w500/4lFytre6m4SruIUpUIoyNjsMo7F.jpg"
+      },
+      {
+        "name": "Saurabh Shukla",
+        "character": "Sergeant Srinivas",
+        "photo": "https://image.tmdb.org/t/p/w500/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+      },
+      {
+        "name": "Irrfan Khan",
+        "character": "Police Inspector",
+        "photo": "https://image.tmdb.org/t/p/w500/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+      },
+      {
+        "name": "Ankur Vikal",
+        "character": "Maman",
+        "photo": "https://image.tmdb.org/t/p/w500/bV4EkfFSyvDm2oYxjaZVcGdGV9C.jpg"
+      },
+      {
+        "name": "Tanay Chheda",
+        "character": "Middle Jamal",
+        "photo": "https://image.tmdb.org/t/p/w500/lZ0tjKg0FQ869tP80eBHobb3ouH.jpg"
+      },
+      {
+        "name": "Ayush Mahesh Khedekar",
+        "character": "Youngest Jamal",
+        "photo": "https://image.tmdb.org/t/p/w500/qnKpBjMJckVvxq3o9pw0DpWdqqs.jpg"
+      },
+      {
+        "name": "Ashutosh Lobo Gajiwala",
+        "character": "Middle Salim",
+        "photo": "https://image.tmdb.org/t/p/w500/arxX9K0sBQhpBBhHA2WYPN1jmIp.jpg"
+      },
+      {
+        "name": "Azharuddin Mohammed Ismail",
+        "character": "Youngest Salim",
+        "photo": "https://image.tmdb.org/t/p/w500/hWGjNlab2CZtMa9OkRh7TxkpG3W.jpg"
+      }
+    ],
+    "director": [
+      "Danny Boyle"
+    ]
   }
 }

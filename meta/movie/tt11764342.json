@@ -18,6 +18,19 @@
           "rating": "6.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Jerry Lee Lewis"
+    ],
+    "app_cast": [
+      {
+        "name": "Jerry Lee Lewis",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/wA6PXzJP3jPhWzZPOyiT9eoY1y.jpg"
+      }
+    ],
+    "director": [
+      "Ethan Coen"
+    ]
   }
 }

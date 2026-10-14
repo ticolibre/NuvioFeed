@@ -18,6 +18,85 @@
           "rating": "7.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Matthew McConaughey",
+      "Jennifer Garner",
+      "Jared Leto",
+      "Denis O'Hare",
+      "Steve Zahn",
+      "Michael O'Neill",
+      "Dallas Roberts",
+      "Griffin Dunne",
+      "Kevin Rankin",
+      "Donna DuPlantier",
+      "Deneen Tyler",
+      "J.D. Evermore"
+    ],
+    "app_cast": [
+      {
+        "name": "Matthew McConaughey",
+        "character": "Ron Woodroof",
+        "photo": "https://image.tmdb.org/t/p/w500/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+      },
+      {
+        "name": "Jennifer Garner",
+        "character": "Eve",
+        "photo": "https://image.tmdb.org/t/p/w500/eiX083VOa0RCGSgwENZgVi5MgDi.jpg"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "Rayon",
+        "photo": "https://image.tmdb.org/t/p/w500/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "Dr. Sevard",
+        "photo": "https://image.tmdb.org/t/p/w500/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+      },
+      {
+        "name": "Steve Zahn",
+        "character": "Tucker",
+        "photo": "https://image.tmdb.org/t/p/w500/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+      },
+      {
+        "name": "Michael O'Neill",
+        "character": "Richard Barkley",
+        "photo": "https://image.tmdb.org/t/p/w500/u9Ejl9iS4ZJ36Y653UCe8huLaOn.jpg"
+      },
+      {
+        "name": "Dallas Roberts",
+        "character": "David Wayne",
+        "photo": "https://image.tmdb.org/t/p/w500/b7jMTaNJ9aBTXXy7gdwqn9jb6EF.jpg"
+      },
+      {
+        "name": "Griffin Dunne",
+        "character": "Dr. Vass",
+        "photo": "https://image.tmdb.org/t/p/w500/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+      },
+      {
+        "name": "Kevin Rankin",
+        "character": "T.J.",
+        "photo": "https://image.tmdb.org/t/p/w500/fOW5R6BSgRvMrt2R7KAxSk7L4H2.jpg"
+      },
+      {
+        "name": "Donna DuPlantier",
+        "character": "Nurse Frazin",
+        "photo": "https://image.tmdb.org/t/p/w500/zZrD0lrmifjtHxOjPX0jQxG7w4o.jpg"
+      },
+      {
+        "name": "Deneen Tyler",
+        "character": "Denise",
+        "photo": "https://image.tmdb.org/t/p/w500/bNe71eFG8nfyH4ip1tvHd3cd5L3.jpg"
+      },
+      {
+        "name": "J.D. Evermore",
+        "character": "Clint",
+        "photo": "https://image.tmdb.org/t/p/w500/bTLrDTIj9DNnYP8afZXPTo31CJA.jpg"
+      }
+    ],
+    "director": [
+      "Jean-Marc Vallée"
+    ]
   }
 }

@@ -17,6 +17,84 @@
           "rating": "7.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Al Pacino",
+      "Chris O'Donnell",
+      "James Rebhorn",
+      "Gabrielle Anwar",
+      "Philip Seymour Hoffman",
+      "Richard Venture",
+      "Bradley Whitford",
+      "Ron Eldard",
+      "Rochelle Oliver",
+      "Margaret Eginton",
+      "Tom Riis Farrell",
+      "Nicholas Sadler"
+    ],
+    "app_cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Lt. Col. Frank Slade",
+        "photo": "https://image.tmdb.org/t/p/w500/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+      },
+      {
+        "name": "Chris O'Donnell",
+        "character": "Charlie Simms",
+        "photo": "https://image.tmdb.org/t/p/w500/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+      },
+      {
+        "name": "James Rebhorn",
+        "character": "Mr. Trask",
+        "photo": "https://image.tmdb.org/t/p/w500/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+      },
+      {
+        "name": "Gabrielle Anwar",
+        "character": "Donna",
+        "photo": "https://image.tmdb.org/t/p/w500/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "George Willis, Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Richard Venture",
+        "character": "W.R. Slade",
+        "photo": "https://image.tmdb.org/t/p/w500/nbzvaA5m43DRpDhObWp2vX3H9Hg.jpg"
+      },
+      {
+        "name": "Bradley Whitford",
+        "character": "Randy",
+        "photo": "https://image.tmdb.org/t/p/w500/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+      },
+      {
+        "name": "Ron Eldard",
+        "character": "Officer Gore",
+        "photo": "https://image.tmdb.org/t/p/w500/5Ww9aaJZjg1N2S6zpJkrZmQVMEI.jpg"
+      },
+      {
+        "name": "Rochelle Oliver",
+        "character": "Gretchen",
+        "photo": "https://image.tmdb.org/t/p/w500/kvYtgajBJeiab6MNBLAynNCuhOo.jpg"
+      },
+      {
+        "name": "Margaret Eginton",
+        "character": "Gail"
+      },
+      {
+        "name": "Tom Riis Farrell",
+        "character": "Garry",
+        "photo": "https://image.tmdb.org/t/p/w500/ec0Wgs4Zq4bsOANTau5UpMXo53a.jpg"
+      },
+      {
+        "name": "Nicholas Sadler",
+        "character": "Harry Havemeyer",
+        "photo": "https://image.tmdb.org/t/p/w500/mbIXwkcpmv3PBAjTvkCzHRe0hUy.jpg"
+      }
+    ],
+    "director": [
+      "Martin Brest"
+    ]
   }
 }

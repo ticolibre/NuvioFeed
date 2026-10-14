@@ -18,6 +18,85 @@
           "rating": "6.9"
         }
       }
-    }
+    },
+    "cast": [
+      "Helen Mirren",
+      "Michael Sheen",
+      "James Cromwell",
+      "Helen McCrory",
+      "Alex Jennings",
+      "Roger Allam",
+      "Sylvia Syms",
+      "Paul Barrett",
+      "Tim McMullan",
+      "Douglas Reith",
+      "Mark Bazeley",
+      "Robin Soans"
+    ],
+    "app_cast": [
+      {
+        "name": "Helen Mirren",
+        "character": "The Queen",
+        "photo": "https://image.tmdb.org/t/p/w500/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+      },
+      {
+        "name": "Michael Sheen",
+        "character": "Tony Blair",
+        "photo": "https://image.tmdb.org/t/p/w500/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Prince Philip",
+        "photo": "https://image.tmdb.org/t/p/w500/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+      },
+      {
+        "name": "Helen McCrory",
+        "character": "Cherie Blair",
+        "photo": "https://image.tmdb.org/t/p/w500/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg"
+      },
+      {
+        "name": "Alex Jennings",
+        "character": "Prince Charles",
+        "photo": "https://image.tmdb.org/t/p/w500/4nbbUmAwoOCarkR5FHJjzw2STPE.jpg"
+      },
+      {
+        "name": "Roger Allam",
+        "character": "Robin Janvrin",
+        "photo": "https://image.tmdb.org/t/p/w500/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
+      },
+      {
+        "name": "Sylvia Syms",
+        "character": "Queen Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/95sHeqn4byxznmXRA6yosL9VE3h.jpg"
+      },
+      {
+        "name": "Paul Barrett",
+        "character": "Trevor Rees-Jones",
+        "photo": "https://image.tmdb.org/t/p/w500/rHwotJE3Em5o0VX8T9SQ0I4pWyt.jpg"
+      },
+      {
+        "name": "Tim McMullan",
+        "character": "Stephen Lamport",
+        "photo": "https://image.tmdb.org/t/p/w500/7RaL5N5riQlgdjEvgK4hWJie4mc.jpg"
+      },
+      {
+        "name": "Douglas Reith",
+        "character": "Lord Airlie",
+        "photo": "https://image.tmdb.org/t/p/w500/48dfosYTTfngOeX00ngo0uF2tgt.jpg"
+      },
+      {
+        "name": "Mark Bazeley",
+        "character": "Alastair Campbell",
+        "photo": "https://image.tmdb.org/t/p/w500/odZ7QyXz8vzoiBPPoqPRMs7y4e4.jpg"
+      },
+      {
+        "name": "Robin Soans",
+        "character": "Equerry",
+        "photo": "https://image.tmdb.org/t/p/w500/dfeZv8ovjBdbJlNeyk4g9Ovy3BQ.jpg"
+      }
+    ],
+    "director": [
+      "Stephen Frears"
+    ]
   }
 }

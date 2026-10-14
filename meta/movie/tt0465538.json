@@ -19,6 +19,84 @@
           "rating": "6.8"
         }
       }
-    }
+    },
+    "cast": [
+      "George Clooney",
+      "Tom Wilkinson",
+      "Tilda Swinton",
+      "Sydney Pollack",
+      "Michael O'Keefe",
+      "Ken Howard",
+      "Sean Cullen",
+      "Merritt Wever",
+      "Austin Williams",
+      "Robert Prescott",
+      "Terry Serpico",
+      "David Lansbury"
+    ],
+    "app_cast": [
+      {
+        "name": "George Clooney",
+        "character": "Michael Clayton",
+        "photo": "https://image.tmdb.org/t/p/w500/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "character": "Arthur Edens",
+        "photo": "https://image.tmdb.org/t/p/w500/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "Karen Crowder",
+        "photo": "https://image.tmdb.org/t/p/w500/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+      },
+      {
+        "name": "Sydney Pollack",
+        "character": "Marty Bach",
+        "photo": "https://image.tmdb.org/t/p/w500/l6Sq7iEakN4eCeMXyZuloc5VIJO.jpg"
+      },
+      {
+        "name": "Michael O'Keefe",
+        "character": "Barry Grissom",
+        "photo": "https://image.tmdb.org/t/p/w500/wQsTL887RWvAJljzLhiPP52kjec.jpg"
+      },
+      {
+        "name": "Ken Howard",
+        "character": "Don Jeffries",
+        "photo": "https://image.tmdb.org/t/p/w500/YYMWMAqp6dpd18PIbo0aLiIabg.jpg"
+      },
+      {
+        "name": "Sean Cullen",
+        "character": "Gene Clayton",
+        "photo": "https://image.tmdb.org/t/p/w500/nsEjNZisXs9rT5dCMpNDkQ69n2m.jpg"
+      },
+      {
+        "name": "Merritt Wever",
+        "character": "Anna",
+        "photo": "https://image.tmdb.org/t/p/w500/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+      },
+      {
+        "name": "Austin Williams",
+        "character": "Henry Clayton"
+      },
+      {
+        "name": "Robert Prescott",
+        "character": "Mr. Verne",
+        "photo": "https://image.tmdb.org/t/p/w500/h9M837CeeYCqXOJTjrFutXKNQoZ.jpg"
+      },
+      {
+        "name": "Terry Serpico",
+        "character": "Mr. Iker",
+        "photo": "https://image.tmdb.org/t/p/w500/5UfDA4ySgYUhle7iXqOuhzAgghn.jpg"
+      },
+      {
+        "name": "David Lansbury",
+        "character": "Timmy Clayton",
+        "photo": "https://image.tmdb.org/t/p/w500/9c9qxuY45ZnHbdrKBOYCTEEtuzE.jpg"
+      }
+    ],
+    "director": [
+      "Tony Gilroy"
+    ]
   }
 }

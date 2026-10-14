@@ -18,6 +18,84 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Joan Allen",
+      "Sean Bridgers",
+      "Tom McCamus",
+      "William H. Macy",
+      "Cas Anvar",
+      "Amanda Brugel",
+      "Wendy Crewson",
+      "Joe Pingue",
+      "Sandy McMaster",
+      "Matt Gordon"
+    ],
+    "app_cast": [
+      {
+        "name": "Brie Larson",
+        "character": "Ma",
+        "photo": "https://image.tmdb.org/t/p/w500/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg"
+      },
+      {
+        "name": "Jacob Tremblay",
+        "character": "Jack",
+        "photo": "https://image.tmdb.org/t/p/w500/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+      },
+      {
+        "name": "Joan Allen",
+        "character": "Nancy",
+        "photo": "https://image.tmdb.org/t/p/w500/aLYQFv11lb8hyBuP7ewkuxWbK8q.jpg"
+      },
+      {
+        "name": "Sean Bridgers",
+        "character": "Old Nick",
+        "photo": "https://image.tmdb.org/t/p/w500/iUxN34HqjjUMgtETexAvrocY0e1.jpg"
+      },
+      {
+        "name": "Tom McCamus",
+        "character": "Leo",
+        "photo": "https://image.tmdb.org/t/p/w500/t9OjLyV9i0LilORn3kBp1YXwMYD.jpg"
+      },
+      {
+        "name": "William H. Macy",
+        "character": "Robert",
+        "photo": "https://image.tmdb.org/t/p/w500/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+      },
+      {
+        "name": "Cas Anvar",
+        "character": "Dr. Mittal",
+        "photo": "https://image.tmdb.org/t/p/w500/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+      },
+      {
+        "name": "Amanda Brugel",
+        "character": "Officer Parker",
+        "photo": "https://image.tmdb.org/t/p/w500/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg"
+      },
+      {
+        "name": "Wendy Crewson",
+        "character": "Talk Show Hostess",
+        "photo": "https://image.tmdb.org/t/p/w500/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
+      },
+      {
+        "name": "Joe Pingue",
+        "character": "Officer Grabowski",
+        "photo": "https://image.tmdb.org/t/p/w500/9z9eaG900YmEaW11oHRMENbJhqa.jpg"
+      },
+      {
+        "name": "Sandy McMaster",
+        "character": "Veteran"
+      },
+      {
+        "name": "Matt Gordon",
+        "character": "Doug",
+        "photo": "https://image.tmdb.org/t/p/w500/fPoMX7JeftDNXI9szI2Or9K1qpw.jpg"
+      }
+    ],
+    "director": [
+      "Lenny Abrahamson"
+    ]
   }
 }

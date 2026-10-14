@@ -17,6 +17,84 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Lionel Atwill",
+      "Basil Rathbone",
+      "Ross Alexander",
+      "Guy Kibbee",
+      "Henry Stephenson",
+      "Robert Barrat",
+      "Hobart Cavanaugh",
+      "Donald Meek",
+      "Jessie Ralph",
+      "Forrester Harvey"
+    ],
+    "app_cast": [
+      {
+        "name": "Errol Flynn",
+        "character": "Dr. Peter Blood",
+        "photo": "https://image.tmdb.org/t/p/w500/x7yOzNMVCQzt7UQYy8Po3GNrR0I.jpg"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "character": "Arabella Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/9pIjSCaOSIp9IbMVUaZhQ4dWc9F.jpg"
+      },
+      {
+        "name": "Lionel Atwill",
+        "character": "Colonel Bishop",
+        "photo": "https://image.tmdb.org/t/p/w500/2KFwXY3fsMWWyeTFxeU9GNnAIMc.jpg"
+      },
+      {
+        "name": "Basil Rathbone",
+        "character": "Levasseur",
+        "photo": "https://image.tmdb.org/t/p/w500/kwDz2jfV06m2ljpTHfaC509FAmJ.jpg"
+      },
+      {
+        "name": "Ross Alexander",
+        "character": "Jeremy Pitt",
+        "photo": "https://image.tmdb.org/t/p/w500/oCEqXAmejL5cfLcteqFnLbS5DDu.jpg"
+      },
+      {
+        "name": "Guy Kibbee",
+        "character": "Hagthorpe",
+        "photo": "https://image.tmdb.org/t/p/w500/dYPlMilU91vyesTKvsZE6l9dlL1.jpg"
+      },
+      {
+        "name": "Henry Stephenson",
+        "character": "Lord Willoughby",
+        "photo": "https://image.tmdb.org/t/p/w500/mZGKdbb7v92kIED67aePhTmcY40.jpg"
+      },
+      {
+        "name": "Robert Barrat",
+        "character": "Wolverstone",
+        "photo": "https://image.tmdb.org/t/p/w500/beNgSV6zWEfGV1ikiPGz94uMbOS.jpg"
+      },
+      {
+        "name": "Hobart Cavanaugh",
+        "character": "Dr. Bronson",
+        "photo": "https://image.tmdb.org/t/p/w500/AjyCNH3j3ukDlxhP442kI2CoQkW.jpg"
+      },
+      {
+        "name": "Donald Meek",
+        "character": "Dr. Whacker",
+        "photo": "https://image.tmdb.org/t/p/w500/6TTBTlpHK6QG2i8T596LZbwvmJN.jpg"
+      },
+      {
+        "name": "Jessie Ralph",
+        "character": "Mrs. Barlow",
+        "photo": "https://image.tmdb.org/t/p/w500/gy4W2M3Jpi4kb7NTc6MPHUhHgc0.jpg"
+      },
+      {
+        "name": "Forrester Harvey",
+        "character": "Honesty Nutall"
+      }
+    ],
+    "director": [
+      "Michael Curtiz"
+    ]
   }
 }

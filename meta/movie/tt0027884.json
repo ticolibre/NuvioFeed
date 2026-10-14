@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Jean Harlow",
+      "William Powell",
+      "Myrna Loy",
+      "Spencer Tracy",
+      "Walter Connolly",
+      "Charley Grapewin",
+      "Cora Witherspoon",
+      "E. E. Clive",
+      "Bunny Beatty",
+      "Otto Yamaoka",
+      "Charles Trowbridge",
+      "Spencer Charters"
+    ],
+    "app_cast": [
+      {
+        "name": "Jean Harlow",
+        "character": "Gladys",
+        "photo": "https://image.tmdb.org/t/p/w500/b24q0sPGmSvZFIvz1mbCzWu11sq.jpg"
+      },
+      {
+        "name": "William Powell",
+        "character": "Bill Chandler",
+        "photo": "https://image.tmdb.org/t/p/w500/8DTWs389THkVCTiDFu0x8ekNmUC.jpg"
+      },
+      {
+        "name": "Myrna Loy",
+        "character": "Connie Allenbury",
+        "photo": "https://image.tmdb.org/t/p/w500/rNzjcOeTmJkyE8LMHdF3iYUCkPz.jpg"
+      },
+      {
+        "name": "Spencer Tracy",
+        "character": "Haggerty",
+        "photo": "https://image.tmdb.org/t/p/w500/aUZUlQjiWvl23stKXzxycb31sen.jpg"
+      },
+      {
+        "name": "Walter Connolly",
+        "character": "Mr. Allenbury",
+        "photo": "https://image.tmdb.org/t/p/w500/mJB6tVqIlr5zhiSqCx2Vl0Kr6Nw.jpg"
+      },
+      {
+        "name": "Charley Grapewin",
+        "character": "Mr. Bane",
+        "photo": "https://image.tmdb.org/t/p/w500/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+      },
+      {
+        "name": "Cora Witherspoon",
+        "character": "Mrs. Burns-Norvell",
+        "photo": "https://image.tmdb.org/t/p/w500/dptHFjTA3CDg7d4cpjXqvkthm3S.jpg"
+      },
+      {
+        "name": "E. E. Clive",
+        "character": "Fishing Instructor",
+        "photo": "https://image.tmdb.org/t/p/w500/5jN00ac4hKNMRh4xpVVSNI89Blu.jpg"
+      },
+      {
+        "name": "Bunny Beatty",
+        "character": "Babs",
+        "photo": "https://image.tmdb.org/t/p/w500/4Z4LH0qGuIxeZP7hi5UA0GWstgT.jpg"
+      },
+      {
+        "name": "Otto Yamaoka",
+        "character": "Ching",
+        "photo": "https://image.tmdb.org/t/p/w500/fVPq6NDadDwNeEW1AnRPLZqzifp.jpg"
+      },
+      {
+        "name": "Charles Trowbridge",
+        "character": "Graham",
+        "photo": "https://image.tmdb.org/t/p/w500/l0pMZJiTfkxBOESbOAkAAedUzuJ.jpg"
+      },
+      {
+        "name": "Spencer Charters",
+        "character": "Magistrate",
+        "photo": "https://image.tmdb.org/t/p/w500/mIx8iHZIGcGbB1hP80RV4vxBcrd.jpg"
+      }
+    ],
+    "director": [
+      "Jack Conway"
+    ]
   }
 }

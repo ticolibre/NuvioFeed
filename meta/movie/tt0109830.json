@@ -19,6 +19,83 @@
           "rating": "8.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field",
+      "Mykelti Williamson",
+      "Michael Conner Humphreys",
+      "Hanna Hall",
+      "Haley Joel Osment",
+      "Siobhan Fallon Hogan",
+      "Rebecca Williams",
+      "Bob Penny",
+      "Harold G. Herthum"
+    ],
+    "app_cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Forrest Gump",
+        "photo": "https://image.tmdb.org/t/p/w500/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Jenny Curran",
+        "photo": "https://image.tmdb.org/t/p/w500/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Lieutenant Dan Taylor",
+        "photo": "https://image.tmdb.org/t/p/w500/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+      },
+      {
+        "name": "Sally Field",
+        "character": "Mrs. Gump",
+        "photo": "https://image.tmdb.org/t/p/w500/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Bubba Blue",
+        "photo": "https://image.tmdb.org/t/p/w500/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "name": "Michael Conner Humphreys",
+        "character": "Young Forrest Gump",
+        "photo": "https://image.tmdb.org/t/p/w500/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+      },
+      {
+        "name": "Hanna Hall",
+        "character": "Young Jenny Curran",
+        "photo": "https://image.tmdb.org/t/p/w500/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Forrest Junior",
+        "photo": "https://image.tmdb.org/t/p/w500/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+      },
+      {
+        "name": "Siobhan Fallon Hogan",
+        "character": "School Bus Driver",
+        "photo": "https://image.tmdb.org/t/p/w500/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+      },
+      {
+        "name": "Rebecca Williams",
+        "character": "Nurse at Park Bench"
+      },
+      {
+        "name": "Bob Penny",
+        "character": "Crony",
+        "photo": "https://image.tmdb.org/t/p/w500/28JAyf5kFHLSxI8Ny6HXMyU84nO.jpg"
+      },
+      {
+        "name": "Harold G. Herthum",
+        "character": "Doctor"
+      }
+    ],
+    "director": [
+      "Robert Zemeckis"
+    ]
   }
 }

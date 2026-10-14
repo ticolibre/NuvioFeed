@@ -18,6 +18,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Gary Cooper",
+      "Teresa Wright",
+      "Babe Ruth",
+      "Walter Brennan",
+      "Dan Duryea",
+      "Elsa Janssen",
+      "Ludwig Stössel",
+      "Virginia Gilmore",
+      "Bill Dickey",
+      "Ernie Adams",
+      "Pierre Watkin",
+      "Harry Harvey"
+    ],
+    "app_cast": [
+      {
+        "name": "Gary Cooper",
+        "character": "Henry Louis 'Lou' Gehrig",
+        "photo": "https://image.tmdb.org/t/p/w500/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+      },
+      {
+        "name": "Teresa Wright",
+        "character": "Eleanor Twitchell",
+        "photo": "https://image.tmdb.org/t/p/w500/zKMNRKXNlisGov6FfJZpXHsrk66.jpg"
+      },
+      {
+        "name": "Babe Ruth",
+        "character": "Babe Ruth",
+        "photo": "https://image.tmdb.org/t/p/w500/fdbzzwlIneXrtxMyz27VKLkOhn6.jpg"
+      },
+      {
+        "name": "Walter Brennan",
+        "character": "Sam Blake",
+        "photo": "https://image.tmdb.org/t/p/w500/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg"
+      },
+      {
+        "name": "Dan Duryea",
+        "character": "Hank Hanneman",
+        "photo": "https://image.tmdb.org/t/p/w500/tfX2o7EBXRbJhCrVKnSfvfPSG0K.jpg"
+      },
+      {
+        "name": "Elsa Janssen",
+        "character": "Christina 'Mom' Gehrig",
+        "photo": "https://image.tmdb.org/t/p/w500/vSdoZ7oQjHL9mY4zFhm7H1tR76K.jpg"
+      },
+      {
+        "name": "Ludwig Stössel",
+        "character": "Henry 'Pop' Gehrig",
+        "photo": "https://image.tmdb.org/t/p/w500/st035b09200wGgmyerIntffPzjB.jpg"
+      },
+      {
+        "name": "Virginia Gilmore",
+        "character": "Myra Tinsley",
+        "photo": "https://image.tmdb.org/t/p/w500/6TI8GM6vnIHLhMSLb5mGKBonQVC.jpg"
+      },
+      {
+        "name": "Bill Dickey",
+        "character": "Bill Dickey",
+        "photo": "https://image.tmdb.org/t/p/w500/641OabSr2waTEmu3OW3VVuChN4y.jpg"
+      },
+      {
+        "name": "Ernie Adams",
+        "character": "Miller Huggins",
+        "photo": "https://image.tmdb.org/t/p/w500/zpKSSdsuDVofN1GAAbKnkn2GjrL.jpg"
+      },
+      {
+        "name": "Pierre Watkin",
+        "character": "Mr. Twitchell",
+        "photo": "https://image.tmdb.org/t/p/w500/w36vNJFvQDiDyuC9zvT8nNZajhA.jpg"
+      },
+      {
+        "name": "Harry Harvey",
+        "character": "Joe McCarthy",
+        "photo": "https://image.tmdb.org/t/p/w500/gfBTGsPJGlbQ7ThZKPdwb0pYC5w.jpg"
+      }
+    ],
+    "director": [
+      "Sam Wood"
+    ]
   }
 }

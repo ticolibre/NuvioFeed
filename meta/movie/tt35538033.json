@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Austin Abrams",
+      "Paul Walter Hauser",
+      "Kali Reis",
+      "Zach Cherry",
+      "Johnno Wilson",
+      "Shaun W. Loeser",
+      "Zach Cregger",
+      "Emily Piggford",
+      "Will Merrick",
+      "Zoé Bellas",
+      "Chris Lew Kum Hoi",
+      "Griffin Newman"
+    ],
+    "app_cast": [
+      {
+        "name": "Austin Abrams",
+        "character": "Bryan",
+        "photo": "https://image.tmdb.org/t/p/w500/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+      },
+      {
+        "name": "Paul Walter Hauser",
+        "character": "Paul",
+        "photo": "https://image.tmdb.org/t/p/w500/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+      },
+      {
+        "name": "Kali Reis",
+        "character": "Maxine",
+        "photo": "https://image.tmdb.org/t/p/w500/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+      },
+      {
+        "name": "Zach Cherry",
+        "character": "Carl",
+        "photo": "https://image.tmdb.org/t/p/w500/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+      },
+      {
+        "name": "Johnno Wilson",
+        "character": "Officer Wilson",
+        "photo": "https://image.tmdb.org/t/p/w500/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+      },
+      {
+        "name": "Shaun W. Loeser",
+        "character": "Puker",
+        "photo": "https://image.tmdb.org/t/p/w500/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+      },
+      {
+        "name": "Zach Cregger",
+        "character": "Intercom (voice)",
+        "photo": "https://image.tmdb.org/t/p/w500/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+      },
+      {
+        "name": "Emily Piggford",
+        "character": "Dr. Maria Stokes",
+        "photo": "https://image.tmdb.org/t/p/w500/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+      },
+      {
+        "name": "Will Merrick",
+        "character": "Dave",
+        "photo": "https://image.tmdb.org/t/p/w500/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+      },
+      {
+        "name": "Zoé Bellas",
+        "character": "Birdie",
+        "photo": "https://image.tmdb.org/t/p/w500/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg"
+      },
+      {
+        "name": "Chris Lew Kum Hoi",
+        "character": "Stanley",
+        "photo": "https://image.tmdb.org/t/p/w500/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg"
+      },
+      {
+        "name": "Griffin Newman",
+        "character": "Wade",
+        "photo": "https://image.tmdb.org/t/p/w500/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg"
+      }
+    ],
+    "director": [
+      "Zach Cregger"
+    ]
   }
 }

@@ -18,6 +18,84 @@
           "rating": "5.8"
         }
       }
-    }
+    },
+    "cast": [
+      "Julianne Moore",
+      "Finn Wolfhard",
+      "Billy Bryk",
+      "Alisha Boe",
+      "Jack Justice",
+      "Jay O. Sanders",
+      "Eléonore Hendricks",
+      "Catherine Haun",
+      "Annacheska Brown",
+      "Sara Anne",
+      "Marika Rose Sayers",
+      "Felipe Jeantete"
+    ],
+    "app_cast": [
+      {
+        "name": "Julianne Moore",
+        "character": "Evelyn",
+        "photo": "https://image.tmdb.org/t/p/w500/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        "name": "Finn Wolfhard",
+        "character": "Ziggy",
+        "photo": "https://image.tmdb.org/t/p/w500/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+      },
+      {
+        "name": "Billy Bryk",
+        "character": "Kyle",
+        "photo": "https://image.tmdb.org/t/p/w500/aMJx13CGtBxfAaHE8G2BqY15sou.jpg"
+      },
+      {
+        "name": "Alisha Boe",
+        "character": "Lila",
+        "photo": "https://image.tmdb.org/t/p/w500/d97PBeHPYIJ4hshqoe2ahRJ2NIq.jpg"
+      },
+      {
+        "name": "Jack Justice",
+        "character": "Jackie",
+        "photo": "https://image.tmdb.org/t/p/w500/jDryubh0KOehgdtXnxCflaBnCAY.jpg"
+      },
+      {
+        "name": "Jay O. Sanders",
+        "character": "Roger",
+        "photo": "https://image.tmdb.org/t/p/w500/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+      },
+      {
+        "name": "Eléonore Hendricks",
+        "character": "Angie",
+        "photo": "https://image.tmdb.org/t/p/w500/TR81u29o3jXuaKOd3cAhuCfQM7.jpg"
+      },
+      {
+        "name": "Catherine Haun",
+        "character": "Cath",
+        "photo": "https://image.tmdb.org/t/p/w500/mxN9RFEdu2octsLkXwu4dS9xxKM.jpg"
+      },
+      {
+        "name": "Annacheska Brown",
+        "character": "Cyril",
+        "photo": "https://image.tmdb.org/t/p/w500/4oMR9Mi1tiw86Gy8bGofX8mkWZO.jpg"
+      },
+      {
+        "name": "Sara Anne",
+        "character": "Becky",
+        "photo": "https://image.tmdb.org/t/p/w500/AnaA9dd3gXKiaCkY5ZzKRkWZ2oK.jpg"
+      },
+      {
+        "name": "Marika Rose Sayers",
+        "character": "Politician",
+        "photo": "https://image.tmdb.org/t/p/w500/7B9NP8pvGHru2835cT5Jvr0FOAg.jpg"
+      },
+      {
+        "name": "Felipe Jeantete",
+        "character": "Corporate America"
+      }
+    ],
+    "director": [
+      "Jesse Eisenberg"
+    ]
   }
 }

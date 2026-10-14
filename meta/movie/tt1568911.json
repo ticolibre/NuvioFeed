@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Jeremy Irvine",
+      "Peter Mullan",
+      "Emily Watson",
+      "Niels Arestrup",
+      "David Thewlis",
+      "Tom Hiddleston",
+      "Benedict Cumberbatch",
+      "Céline Buckens",
+      "Toby Kebbell",
+      "Patrick Kennedy",
+      "Leonard Carow",
+      "David Kross"
+    ],
+    "app_cast": [
+      {
+        "name": "Jeremy Irvine",
+        "character": "Albert Narracott",
+        "photo": "https://image.tmdb.org/t/p/w500/wnyLs0r9j1IB4zK2QBkgg2TyAzZ.jpg"
+      },
+      {
+        "name": "Peter Mullan",
+        "character": "Ted Narracott",
+        "photo": "https://image.tmdb.org/t/p/w500/dvu5PWJK6Vv4xnYyMzdMvH73Laj.jpg"
+      },
+      {
+        "name": "Emily Watson",
+        "character": "Rose Narracott",
+        "photo": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Niels Arestrup",
+        "character": "Grandfather",
+        "photo": "https://image.tmdb.org/t/p/w500/cGBSXuGCgXNMdXJAQhhLCf4hxAn.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Lyons",
+        "photo": "https://image.tmdb.org/t/p/w500/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+      },
+      {
+        "name": "Tom Hiddleston",
+        "character": "Capt. James Nicholls",
+        "photo": "https://image.tmdb.org/t/p/w500/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Maj. Jamie Stewart",
+        "photo": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        "name": "Céline Buckens",
+        "character": "Emilie",
+        "photo": "https://image.tmdb.org/t/p/w500/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+      },
+      {
+        "name": "Toby Kebbell",
+        "character": "Geordie Soldier",
+        "photo": "https://image.tmdb.org/t/p/w500/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+      },
+      {
+        "name": "Patrick Kennedy",
+        "character": "Lt. Charlie Waverly",
+        "photo": "https://image.tmdb.org/t/p/w500/Aj7lwhi4rYfzP5OZJiem5w72re8.jpg"
+      },
+      {
+        "name": "Leonard Carow",
+        "character": "Michael",
+        "photo": "https://image.tmdb.org/t/p/w500/zv2HPNiBlkEQsZZILiJ6DPewLKy.jpg"
+      },
+      {
+        "name": "David Kross",
+        "character": "Gunther",
+        "photo": "https://image.tmdb.org/t/p/w500/9usBpwmmOnHYMdrILeLHiwoio9v.jpg"
+      }
+    ],
+    "director": [
+      "Steven Spielberg"
+    ]
   }
 }

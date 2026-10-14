@@ -19,6 +19,85 @@
           "rating": "6.3"
         }
       }
-    }
+    },
+    "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Luise Rainer",
+      "Frank Morgan",
+      "Fanny Brice",
+      "Virginia Bruce",
+      "Reginald Owen",
+      "Ray Bolger",
+      "Ernest Cossart",
+      "Joseph Cawthorn",
+      "Nat Pendleton",
+      "Dennis Morgan"
+    ],
+    "app_cast": [
+      {
+        "name": "William Powell",
+        "character": "Florenz 'Flo' Ziegfeld Jr.",
+        "photo": "https://image.tmdb.org/t/p/w500/8DTWs389THkVCTiDFu0x8ekNmUC.jpg"
+      },
+      {
+        "name": "Myrna Loy",
+        "character": "Billie Burke",
+        "photo": "https://image.tmdb.org/t/p/w500/rNzjcOeTmJkyE8LMHdF3iYUCkPz.jpg"
+      },
+      {
+        "name": "Luise Rainer",
+        "character": "Anna Held",
+        "photo": "https://image.tmdb.org/t/p/w500/nSIKTFgYwlhYFRM8JqAEdLnL4oB.jpg"
+      },
+      {
+        "name": "Frank Morgan",
+        "character": "Billings",
+        "photo": "https://image.tmdb.org/t/p/w500/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg"
+      },
+      {
+        "name": "Fanny Brice",
+        "character": "Fannie Brice",
+        "photo": "https://image.tmdb.org/t/p/w500/uC7vTo7R7K6YiAOE3Zerm7hId3t.jpg"
+      },
+      {
+        "name": "Virginia Bruce",
+        "character": "Audrey Dane",
+        "photo": "https://image.tmdb.org/t/p/w500/9yUigFNOmafzbPHTU2WMvlRRHG3.jpg"
+      },
+      {
+        "name": "Reginald Owen",
+        "character": "Sampston",
+        "photo": "https://image.tmdb.org/t/p/w500/a7PEC3JPysPo4OoOqOIagDFZmNB.jpg"
+      },
+      {
+        "name": "Ray Bolger",
+        "character": "Ray Bolger",
+        "photo": "https://image.tmdb.org/t/p/w500/43GZ1i6m905Q0r0qe99lgUUPX5O.jpg"
+      },
+      {
+        "name": "Ernest Cossart",
+        "character": "Sidney",
+        "photo": "https://image.tmdb.org/t/p/w500/A3ZU9hvKmT26MdLb8VS2PxGacLo.jpg"
+      },
+      {
+        "name": "Joseph Cawthorn",
+        "character": "Dr. Ziegfeld",
+        "photo": "https://image.tmdb.org/t/p/w500/7qZSva6ZbWenUPli0knUphbRKpZ.jpg"
+      },
+      {
+        "name": "Nat Pendleton",
+        "character": "Sandow",
+        "photo": "https://image.tmdb.org/t/p/w500/9rZC8qMgJTJ7QYgg6ckXIv8uYRd.jpg"
+      },
+      {
+        "name": "Dennis Morgan",
+        "character": "Stage Singer in \"Pretty Girl\" Number",
+        "photo": "https://image.tmdb.org/t/p/w500/5yfGLf697VUrsDIhrVnAtVP7ftx.jpg"
+      }
+    ],
+    "director": [
+      "Robert Z. Leonard"
+    ]
   }
 }

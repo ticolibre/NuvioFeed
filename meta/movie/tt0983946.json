@@ -20,6 +20,85 @@
           "rating": "5.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael Peña",
+      "Maggie Q",
+      "Lucy Hale",
+      "Michael Rooker",
+      "Austin Stowell",
+      "Jimmy O. Yang",
+      "Portia Doubleday",
+      "Charlotte McKinney",
+      "Ryan Hansen",
+      "Mike Vogel",
+      "Parisa Fitz-Henley",
+      "Kim Coates"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael Peña",
+        "character": "Mr. Roarke",
+        "photo": "https://image.tmdb.org/t/p/w500/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Maggie Q",
+        "character": "Gwen Olsen",
+        "photo": "https://image.tmdb.org/t/p/w500/1Z0A8axunWqZrskGkfANv6W5qCl.jpg"
+      },
+      {
+        "name": "Lucy Hale",
+        "character": "Melanie Cole",
+        "photo": "https://image.tmdb.org/t/p/w500/9meaYbWrMOpyIn3sWGTQXKGLiea.jpg"
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Damon",
+        "photo": "https://image.tmdb.org/t/p/w500/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+      },
+      {
+        "name": "Austin Stowell",
+        "character": "Patrick Sullivan",
+        "photo": "https://image.tmdb.org/t/p/w500/At09XQpVXnChgedNsxu4ceR5W9i.jpg"
+      },
+      {
+        "name": "Jimmy O. Yang",
+        "character": "Brax Weaver",
+        "photo": "https://image.tmdb.org/t/p/w500/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg"
+      },
+      {
+        "name": "Portia Doubleday",
+        "character": "Sloane Maddison",
+        "photo": "https://image.tmdb.org/t/p/w500/6lPDPTlxnFcTJF5dzmmPHVmH8ey.jpg"
+      },
+      {
+        "name": "Charlotte McKinney",
+        "character": "Chastity",
+        "photo": "https://image.tmdb.org/t/p/w500/kKus50JDqKtrWLqururLUArHhxo.jpg"
+      },
+      {
+        "name": "Ryan Hansen",
+        "character": "J. D. Weaver",
+        "photo": "https://image.tmdb.org/t/p/w500/n4d1DiK3KyrQNN3G2QKt4Tos53Q.jpg"
+      },
+      {
+        "name": "Mike Vogel",
+        "character": "Lieutenant Sullivan",
+        "photo": "https://image.tmdb.org/t/p/w500/5pOkcl3D9JnGMR50gSDaAY2TIry.jpg"
+      },
+      {
+        "name": "Parisa Fitz-Henley",
+        "character": "Julia",
+        "photo": "https://image.tmdb.org/t/p/w500/dM1DAi2IzBgq1Qb7o8JcrRa89dY.jpg"
+      },
+      {
+        "name": "Kim Coates",
+        "character": "Devil Face",
+        "photo": "https://image.tmdb.org/t/p/w500/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+      }
+    ],
+    "director": [
+      "Jeff Wadlow"
+    ]
   }
 }

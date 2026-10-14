@@ -18,6 +18,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Riz Ahmed",
+      "Olivia Cooke",
+      "Paul Raci",
+      "Lauren Ridloff",
+      "Mathieu Amalric",
+      "Domenico Toledo",
+      "Chelsea Lee",
+      "Shaheem Sanchez",
+      "Chris Perfetti",
+      "Bill Thorpe",
+      "Michael Tow",
+      "William Xifaras"
+    ],
+    "app_cast": [
+      {
+        "name": "Riz Ahmed",
+        "character": "Ruben Stone",
+        "photo": "https://image.tmdb.org/t/p/w500/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+      },
+      {
+        "name": "Olivia Cooke",
+        "character": "Lou",
+        "photo": "https://image.tmdb.org/t/p/w500/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+      },
+      {
+        "name": "Paul Raci",
+        "character": "Joe",
+        "photo": "https://image.tmdb.org/t/p/w500/7ky9dBmNAMwkQuM4pMZkprtSN1Z.jpg"
+      },
+      {
+        "name": "Lauren Ridloff",
+        "character": "Diane",
+        "photo": "https://image.tmdb.org/t/p/w500/eyMriacYFsWtdgzedVPfXmT0TFa.jpg"
+      },
+      {
+        "name": "Mathieu Amalric",
+        "character": "Richard Berger",
+        "photo": "https://image.tmdb.org/t/p/w500/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+      },
+      {
+        "name": "Domenico Toledo",
+        "character": "Michael"
+      },
+      {
+        "name": "Chelsea Lee",
+        "character": "Jenn",
+        "photo": "https://image.tmdb.org/t/p/w500/ad2I2ND8ef9WhKNBQRl0XjjYhxR.jpg"
+      },
+      {
+        "name": "Shaheem Sanchez",
+        "character": "Shaheem",
+        "photo": "https://image.tmdb.org/t/p/w500/xVCCk1rs7UGbCjxsPXwZANtIrLY.jpg"
+      },
+      {
+        "name": "Chris Perfetti",
+        "character": "Harlan",
+        "photo": "https://image.tmdb.org/t/p/w500/qBTVPc07f3lxqCnM9ou4SOHt9js.jpg"
+      },
+      {
+        "name": "Bill Thorpe",
+        "character": "The Man",
+        "photo": "https://image.tmdb.org/t/p/w500/eLEqH3Xn1GcUWbGWCdn8XVELoFG.jpg"
+      },
+      {
+        "name": "Michael Tow",
+        "character": "Pharmacist",
+        "photo": "https://image.tmdb.org/t/p/w500/hVmzpptzAmeUNpenl2FB0qjxuXk.jpg"
+      },
+      {
+        "name": "William Xifaras",
+        "character": "Michael's Father",
+        "photo": "https://image.tmdb.org/t/p/w500/laxmuLJVUl0vUPt2sQdWFSEk7ut.jpg"
+      }
+    ],
+    "director": [
+      "Darius Marder"
+    ]
   }
 }

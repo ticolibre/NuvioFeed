@@ -18,6 +18,90 @@
           "rating": "6.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Anna Hopkins",
+      "Christian Potenza",
+      "Brian Paul",
+      "Tim Campbell",
+      "Gina Louise Phillips",
+      "Thiago Dos Santos",
+      "Kyle Durack",
+      "Demetri Kellesis",
+      "Conor Sweeney",
+      "Kyal Legend",
+      "Devin Chin-Cheong",
+      "Daniel Matmor"
+    ],
+    "app_cast": [
+      {
+        "name": "Anna Hopkins",
+        "character": "Holly Marciano (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/nESCHSNZCFdvrCifzTl9xxAxtMf.jpg"
+      },
+      {
+        "name": "Christian Potenza",
+        "character": "Jeff (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/5i8BeVv8RKyFVMdo24kcxNjSae9.jpg"
+      },
+      {
+        "name": "Brian Paul",
+        "character": "Pastor (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/cnWximgnI7cgrskYHioSlOpt0hJ.jpg"
+      },
+      {
+        "name": "Tim Campbell",
+        "character": "Mark (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/pmwqfeUIQCSVmrHzRIXSyGIzCoY.jpg"
+      },
+      {
+        "name": "Gina Louise Phillips",
+        "character": "Camille (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/8YOqGnvwltpJ5Y00Dsh7tdHje9Z.jpg"
+      },
+      {
+        "name": "Thiago Dos Santos",
+        "character": "Raatma (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/6xD8zdtwMgmlR4OCH35oWm7pJcT.jpg"
+      },
+      {
+        "name": "Kyle Durack",
+        "character": "Storm Dweller (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/kBlnyx2jsVaWcw0blckhPOJtko8.jpg"
+      },
+      {
+        "name": "Demetri Kellesis",
+        "character": "Storm Dweller (segment \"Storm Drain\")",
+        "photo": "https://image.tmdb.org/t/p/w500/2cf3JXlq8pn5Mr6A6lwOFiMcpLj.jpg"
+      },
+      {
+        "name": "Conor Sweeney",
+        "character": "Veggie Masher Pitch Man (segment \"Veggie Masher\")",
+        "photo": "https://image.tmdb.org/t/p/w500/qnE2R4Bu5VLmBeKDcAwlVNaHozT.jpg"
+      },
+      {
+        "name": "Kyal Legend",
+        "character": "Hayley (segment \"The Empty Wake\")",
+        "photo": "https://image.tmdb.org/t/p/w500/yczCfZE3pjodc6uk0Sogha80bAc.jpg"
+      },
+      {
+        "name": "Devin Chin-Cheong",
+        "character": "Andrew Edwards (segment \"The Empty Wake\")",
+        "photo": "https://image.tmdb.org/t/p/w500/aj6hM2T32jGRpGD3NgQW2NGtwDY.jpg"
+      },
+      {
+        "name": "Daniel Matmor",
+        "character": "Gustav (segment \"The Empty Wake\")",
+        "photo": "https://image.tmdb.org/t/p/w500/p1tgkf0pPMHiATEpDUME9TjzBzb.jpg"
+      }
+    ],
+    "director": [
+      "Jennifer Reeder",
+      "Ryan Prows",
+      "Steven Kostanski",
+      "Simon Barrett",
+      "Chloe Okuno",
+      "Timo Tjahjanto"
+    ]
   }
 }

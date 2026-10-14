@@ -19,6 +19,84 @@
           "rating": "6.6"
         }
       }
-    }
+    },
+    "cast": [
+      "Dev Patel",
+      "Alicia Vikander",
+      "Joel Edgerton",
+      "Sarita Choudhury",
+      "Sean Harris",
+      "Kate Dickie",
+      "Barry Keoghan",
+      "Erin Kellyman",
+      "Ralph Ineson",
+      "Emilie Hetland",
+      "Anthony Morris",
+      "Megan Tiernan"
+    ],
+    "app_cast": [
+      {
+        "name": "Dev Patel",
+        "character": "Gawain",
+        "photo": "https://image.tmdb.org/t/p/w500/byAo6xoleVSG5O9YpGrQ5YuCRX7.jpg"
+      },
+      {
+        "name": "Alicia Vikander",
+        "character": "Lady / Essel",
+        "photo": "https://image.tmdb.org/t/p/w500/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg"
+      },
+      {
+        "name": "Joel Edgerton",
+        "character": "Lord",
+        "photo": "https://image.tmdb.org/t/p/w500/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
+      },
+      {
+        "name": "Sarita Choudhury",
+        "character": "Mother",
+        "photo": "https://image.tmdb.org/t/p/w500/pABEOxQAns54tHpxN2w73b7SiPB.jpg"
+      },
+      {
+        "name": "Sean Harris",
+        "character": "King",
+        "photo": "https://image.tmdb.org/t/p/w500/jouyaTu0UuZMNBrADRRkCQX1VX1.jpg"
+      },
+      {
+        "name": "Kate Dickie",
+        "character": "Queen",
+        "photo": "https://image.tmdb.org/t/p/w500/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+      },
+      {
+        "name": "Barry Keoghan",
+        "character": "Scavenger",
+        "photo": "https://image.tmdb.org/t/p/w500/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+      },
+      {
+        "name": "Erin Kellyman",
+        "character": "Winifred",
+        "photo": "https://image.tmdb.org/t/p/w500/ngTdJIcwZ9YsyvXIR5PUzv9plwV.jpg"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "Green Knight",
+        "photo": "https://image.tmdb.org/t/p/w500/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+      },
+      {
+        "name": "Emilie Hetland",
+        "character": "First Thief"
+      },
+      {
+        "name": "Anthony Morris",
+        "character": "Second Thief",
+        "photo": "https://image.tmdb.org/t/p/w500/gGmX2C6B6L6bsYLKynar4Y3ahEC.jpg"
+      },
+      {
+        "name": "Megan Tiernan",
+        "character": "The Young Queen",
+        "photo": "https://image.tmdb.org/t/p/w500/nXNIOlqovNA19sM5pvfd0u8UdI0.jpg"
+      }
+    ],
+    "director": [
+      "David Lowery"
+    ]
   }
 }

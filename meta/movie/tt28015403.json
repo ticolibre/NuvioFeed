@@ -18,6 +18,85 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Hugh Grant",
+      "Sophie Thatcher",
+      "Chloe East",
+      "Topher Grace",
+      "Elle Young",
+      "Julie Lynn-Mortensen",
+      "Haylie Hansen",
+      "Elle McKinnon",
+      "Hanna Huffman",
+      "Anesha Bailey",
+      "Miguel Castillo",
+      "Stephanie Lavigne"
+    ],
+    "app_cast": [
+      {
+        "name": "Hugh Grant",
+        "character": "Mr. Reed",
+        "photo": "https://image.tmdb.org/t/p/w500/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+      },
+      {
+        "name": "Sophie Thatcher",
+        "character": "Sister Barnes",
+        "photo": "https://image.tmdb.org/t/p/w500/s7wB4ORCwPPz7H3dWVCNSAKQz9P.jpg"
+      },
+      {
+        "name": "Chloe East",
+        "character": "Sister Paxton",
+        "photo": "https://image.tmdb.org/t/p/w500/dttzTZRYI84kW98NH16Z101czCe.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Elder Kennedy",
+        "photo": "https://image.tmdb.org/t/p/w500/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+      },
+      {
+        "name": "Elle Young",
+        "character": "Prophet",
+        "photo": "https://image.tmdb.org/t/p/w500/rEcGyAm06RMBgR8T7xPOjZNMElO.jpg"
+      },
+      {
+        "name": "Julie Lynn-Mortensen",
+        "character": "Pedestrian",
+        "photo": "https://image.tmdb.org/t/p/w500/47bJBypW6YVBeQuTaaQQuusGRMm.jpg"
+      },
+      {
+        "name": "Haylie Hansen",
+        "character": "Teenager",
+        "photo": "https://image.tmdb.org/t/p/w500/gWsrbcsRQYoyxZp7LdUZ8kissc6.jpg"
+      },
+      {
+        "name": "Elle McKinnon",
+        "character": "Teenager",
+        "photo": "https://image.tmdb.org/t/p/w500/qBrsyaF4EM6cdBQfU7XnyFmx7Ym.jpg"
+      },
+      {
+        "name": "Hanna Huffman",
+        "character": "Teenager"
+      },
+      {
+        "name": "Anesha Bailey",
+        "character": "Neighbor",
+        "photo": "https://image.tmdb.org/t/p/w500/kMuEZEvppyRzsNV8uxpqfmOXdMY.jpg"
+      },
+      {
+        "name": "Miguel Castillo",
+        "character": "Neighbor",
+        "photo": "https://image.tmdb.org/t/p/w500/369PZgmVmiMMzlqfrxrjg1zb0xl.jpg"
+      },
+      {
+        "name": "Stephanie Lavigne",
+        "character": "Believer",
+        "photo": "https://image.tmdb.org/t/p/w500/5hzt5EAtXZfZatJCFctVpLyOJ3A.jpg"
+      }
+    ],
+    "director": [
+      "Scott Beck",
+      "Bryan Woods"
+    ]
   }
 }

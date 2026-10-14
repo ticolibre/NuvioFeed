@@ -20,6 +20,83 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert De Niro",
+      "Jeremy Irons",
+      "Ray McAnally",
+      "Aidan Quinn",
+      "Liam Neeson",
+      "Cherie Lunghi",
+      "Ronald Pickup",
+      "Chuck Low",
+      "Bercelio Moya",
+      "Sigifredo Ismare",
+      "Daniel Berrigan",
+      "Carlos Duplat Sanjuan"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Rodrigo Mendoza",
+        "photo": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Jeremy Irons",
+        "character": "Father Gabriel",
+        "photo": "https://image.tmdb.org/t/p/w500/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+      },
+      {
+        "name": "Ray McAnally",
+        "character": "Cardinal Altamirano",
+        "photo": "https://image.tmdb.org/t/p/w500/xE7PkzhDmJ1Kdpa4IUYfFVqXMuE.jpg"
+      },
+      {
+        "name": "Aidan Quinn",
+        "character": "Felipe Mendoza",
+        "photo": "https://image.tmdb.org/t/p/w500/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+      },
+      {
+        "name": "Liam Neeson",
+        "character": "Father John Fielding",
+        "photo": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+      },
+      {
+        "name": "Cherie Lunghi",
+        "character": "Carlotta",
+        "photo": "https://image.tmdb.org/t/p/w500/LoIGKqUw3d58MrVsLpw22goYCK.jpg"
+      },
+      {
+        "name": "Ronald Pickup",
+        "character": "Hontar",
+        "photo": "https://image.tmdb.org/t/p/w500/9wJtlqBNPPa87UJDfLNnSNQRhEn.jpg"
+      },
+      {
+        "name": "Chuck Low",
+        "character": "Don Cabeza",
+        "photo": "https://image.tmdb.org/t/p/w500/zaw5Tyk2K6aawV13fQ4tSPdbEUp.jpg"
+      },
+      {
+        "name": "Bercelio Moya",
+        "character": "Indian Boy"
+      },
+      {
+        "name": "Sigifredo Ismare",
+        "character": "Witch Doctor"
+      },
+      {
+        "name": "Daniel Berrigan",
+        "character": "Sebastian",
+        "photo": "https://image.tmdb.org/t/p/w500/9bpZ0qUZiQftofUg42wMAtDuy0S.jpg"
+      },
+      {
+        "name": "Carlos Duplat Sanjuan",
+        "character": "Portuguese Commander",
+        "photo": "https://image.tmdb.org/t/p/w500/l5kcRUtbNQXxyCMQ8b3bLMxonnJ.jpg"
+      }
+    ],
+    "director": [
+      "Roland Joffé"
+    ]
   }
 }

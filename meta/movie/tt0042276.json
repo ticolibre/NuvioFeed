@@ -18,6 +18,82 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Judy Holliday",
+      "Broderick Crawford",
+      "William Holden",
+      "Howard St. John",
+      "Frank Otto",
+      "Larry Oliver",
+      "Barbara Brown",
+      "Grandon Rhodes",
+      "Claire Carleton",
+      "Chet Brandenburg",
+      "Charles Cane",
+      "Helen Eby-Rock"
+    ],
+    "app_cast": [
+      {
+        "name": "Judy Holliday",
+        "character": "Billie Dawn",
+        "photo": "https://image.tmdb.org/t/p/w500/uN5hfyBlQtWSlVzQusUtcecjukZ.jpg"
+      },
+      {
+        "name": "Broderick Crawford",
+        "character": "Harry Brock",
+        "photo": "https://image.tmdb.org/t/p/w500/p7Afi6SPUywhigbFCx1GIJJXNIP.jpg"
+      },
+      {
+        "name": "William Holden",
+        "character": "Paul Verrall",
+        "photo": "https://image.tmdb.org/t/p/w500/eMdXRtJVvescfdxHAINVf7dcpAV.jpg"
+      },
+      {
+        "name": "Howard St. John",
+        "character": "Jim Devery",
+        "photo": "https://image.tmdb.org/t/p/w500/5HkEPH9C4JTzR0mQjDKzqbmrpQe.jpg"
+      },
+      {
+        "name": "Frank Otto",
+        "character": "Eddie"
+      },
+      {
+        "name": "Larry Oliver",
+        "character": "Congressman Norval Hedges"
+      },
+      {
+        "name": "Barbara Brown",
+        "character": "Mrs. Hedges",
+        "photo": "https://image.tmdb.org/t/p/w500/yCIBuZeVXywvWbFnc1aYjI4BCQq.jpg"
+      },
+      {
+        "name": "Grandon Rhodes",
+        "character": "Sanborn"
+      },
+      {
+        "name": "Claire Carleton",
+        "character": "Helen",
+        "photo": "https://image.tmdb.org/t/p/w500/flBJkYz97lG0EYa31FUNBlNiB6q.jpg"
+      },
+      {
+        "name": "Chet Brandenburg",
+        "character": "Hotel Worker (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/esSHYoGgb52Y6P87Z9VpnysiPBm.jpg"
+      },
+      {
+        "name": "Charles Cane",
+        "character": "Policeman (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/vc5xFe2MJuK1lzDNBZtsqNxVVJP.jpg"
+      },
+      {
+        "name": "Helen Eby-Rock",
+        "character": "Manicurist (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/7V8lhYam3bMSzYoCPi0n3bq7AGC.jpg"
+      }
+    ],
+    "director": [
+      "George Cukor"
+    ]
   }
 }

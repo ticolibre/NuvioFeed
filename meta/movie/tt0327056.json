@@ -20,6 +20,84 @@
           "rating": "7.7"
         }
       }
-    }
+    },
+    "cast": [
+      "Sean Penn",
+      "Tim Robbins",
+      "Kevin Bacon",
+      "Laurence Fishburne",
+      "Marcia Gay Harden",
+      "Laura Linney",
+      "Kevin Chapman",
+      "Tom Guiry",
+      "Emmy Rossum",
+      "Spencer Treat Clark",
+      "Andrew Mackin",
+      "Adam Nelson"
+    ],
+    "app_cast": [
+      {
+        "name": "Sean Penn",
+        "character": "Jimmy Markum",
+        "photo": "https://image.tmdb.org/t/p/w500/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Tim Robbins",
+        "character": "Dave Boyle",
+        "photo": "https://image.tmdb.org/t/p/w500/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+      },
+      {
+        "name": "Kevin Bacon",
+        "character": "Sean Devine",
+        "photo": "https://image.tmdb.org/t/p/w500/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Whitey Powers",
+        "photo": "https://image.tmdb.org/t/p/w500/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+      },
+      {
+        "name": "Marcia Gay Harden",
+        "character": "Celeste Boyle",
+        "photo": "https://image.tmdb.org/t/p/w500/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+      },
+      {
+        "name": "Laura Linney",
+        "character": "Annabeth Markum",
+        "photo": "https://image.tmdb.org/t/p/w500/6I31xZxo9Hq6T0OhSwCUjHd8jkB.jpg"
+      },
+      {
+        "name": "Kevin Chapman",
+        "character": "Val Savage",
+        "photo": "https://image.tmdb.org/t/p/w500/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg"
+      },
+      {
+        "name": "Tom Guiry",
+        "character": "Brendan Harris",
+        "photo": "https://image.tmdb.org/t/p/w500/j8M7rA6JUqjavIRz8ZhYkniBOjj.jpg"
+      },
+      {
+        "name": "Emmy Rossum",
+        "character": "Katie Markum",
+        "photo": "https://image.tmdb.org/t/p/w500/wq9ALe33ZGg38Yf1JsKnEcbhZQo.jpg"
+      },
+      {
+        "name": "Spencer Treat Clark",
+        "character": "Silent Ray Harris",
+        "photo": "https://image.tmdb.org/t/p/w500/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+      },
+      {
+        "name": "Andrew Mackin",
+        "character": "John O'Shea"
+      },
+      {
+        "name": "Adam Nelson",
+        "character": "Nick Savage",
+        "photo": "https://image.tmdb.org/t/p/w500/j6NLNkyr4qLEfBYpPMt7ojFgoXQ.jpg"
+      }
+    ],
+    "director": [
+      "Clint Eastwood"
+    ]
   }
 }

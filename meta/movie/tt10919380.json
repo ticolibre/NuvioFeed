@@ -18,6 +18,85 @@
           "rating": "6.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Kathryn Newton",
+      "Vince Vaughn",
+      "Celeste O'Connor",
+      "Misha Osherovich",
+      "Uriah Shelton",
+      "Mitchell Hoog",
+      "Dana Drori",
+      "Carter Glade",
+      "Katie Finneran",
+      "Alan Ruck",
+      "Melissa Collazo",
+      "Magnus Diehl"
+    ],
+    "app_cast": [
+      {
+        "name": "Kathryn Newton",
+        "character": "Millie Kessler",
+        "photo": "https://image.tmdb.org/t/p/w500/3mos4oK6bps0uhQzW1L7nj5O0Gd.jpg"
+      },
+      {
+        "name": "Vince Vaughn",
+        "character": "The Butcher",
+        "photo": "https://image.tmdb.org/t/p/w500/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+      },
+      {
+        "name": "Celeste O'Connor",
+        "character": "Nyla Chones",
+        "photo": "https://image.tmdb.org/t/p/w500/jI3pNOhj9Gr7ym9cUcv8vsI0lCF.jpg"
+      },
+      {
+        "name": "Misha Osherovich",
+        "character": "Josh Detmer",
+        "photo": "https://image.tmdb.org/t/p/w500/ytcRmANPXkdDSJcs20wVMHci0L0.jpg"
+      },
+      {
+        "name": "Uriah Shelton",
+        "character": "Booker Strode",
+        "photo": "https://image.tmdb.org/t/p/w500/rplEsJ5Ch5lOMji6VBysa3mDM2O.jpg"
+      },
+      {
+        "name": "Mitchell Hoog",
+        "character": "Evan",
+        "photo": "https://image.tmdb.org/t/p/w500/wHNRhGrYnVBH8ZSY6m0VRiT6zTm.jpg"
+      },
+      {
+        "name": "Dana Drori",
+        "character": "Charlene Kessler",
+        "photo": "https://image.tmdb.org/t/p/w500/47tPm1Rvr428YPiCgRCnJzLKLeW.jpg"
+      },
+      {
+        "name": "Carter Glade",
+        "character": "Tobin",
+        "photo": "https://image.tmdb.org/t/p/w500/t1icgIMmFaEFFCYjUuFSHhahEu.jpg"
+      },
+      {
+        "name": "Katie Finneran",
+        "character": "Coral Kessler",
+        "photo": "https://image.tmdb.org/t/p/w500/eHuNKnIXIHzwDrl85jCZrvLibap.jpg"
+      },
+      {
+        "name": "Alan Ruck",
+        "character": "Mr. Bernardi",
+        "photo": "https://image.tmdb.org/t/p/w500/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg"
+      },
+      {
+        "name": "Melissa Collazo",
+        "character": "Ryler",
+        "photo": "https://image.tmdb.org/t/p/w500/xpmN26NHUEahwvGq3SX3wZZ2Qe7.jpg"
+      },
+      {
+        "name": "Magnus Diehl",
+        "character": "Phil",
+        "photo": "https://image.tmdb.org/t/p/w500/mGhqZl5MCQuLoZCgkWnrKGBIH9R.jpg"
+      }
+    ],
+    "director": [
+      "Christopher Landon"
+    ]
   }
 }

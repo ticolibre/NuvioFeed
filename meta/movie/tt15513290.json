@@ -10,6 +10,19 @@
     "releaseInfo": "2021",
     "genres": [
       "Comedia"
+    ],
+    "cast": [
+      "Phoebe Robinson"
+    ],
+    "app_cast": [
+      {
+        "name": "Phoebe Robinson",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/56G9cQ8azq1Gnss97F9BO95uho.jpg"
+      }
+    ],
+    "director": [
+      "Kristian Mercado Figueroa"
     ]
   }
 }

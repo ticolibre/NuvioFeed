@@ -18,6 +18,85 @@
           "rating": "7.5"
         }
       }
-    }
+    },
+    "cast": [
+      "Greta Garbo",
+      "Melvyn Douglas",
+      "Ina Claire",
+      "Bela Lugosi",
+      "Sig Ruman",
+      "Felix Bressart",
+      "Alexander Granach",
+      "Gregory Gaye",
+      "Rolfe Sedan",
+      "Edwin Maxwell",
+      "Richard Carle",
+      "George Davis"
+    ],
+    "app_cast": [
+      {
+        "name": "Greta Garbo",
+        "character": "Nina \"Ninotchka\" Ivanovna Yakushova",
+        "photo": "https://image.tmdb.org/t/p/w500/ioUELyA9cn8eK6w71Pk7lduq5hr.jpg"
+      },
+      {
+        "name": "Melvyn Douglas",
+        "character": "Count Leon d'Algout",
+        "photo": "https://image.tmdb.org/t/p/w500/4WuaoFCSdffenrKeCJAIX0MmyJt.jpg"
+      },
+      {
+        "name": "Ina Claire",
+        "character": "Grand Duchess Swana",
+        "photo": "https://image.tmdb.org/t/p/w500/uQXZ0Blms7JDX1HqGlqsGEXxi0d.jpg"
+      },
+      {
+        "name": "Bela Lugosi",
+        "character": "Commissar Razinin",
+        "photo": "https://image.tmdb.org/t/p/w500/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg"
+      },
+      {
+        "name": "Sig Ruman",
+        "character": "Comrade Iranoff",
+        "photo": "https://image.tmdb.org/t/p/w500/r2iCgnjgF4dEyeRBWrqGL8qOQpd.jpg"
+      },
+      {
+        "name": "Felix Bressart",
+        "character": "Comrade Buljanoff",
+        "photo": "https://image.tmdb.org/t/p/w500/h8Ac7m2toKeDCt2VjNV7s9ytgo7.jpg"
+      },
+      {
+        "name": "Alexander Granach",
+        "character": "Comrade Kopalski",
+        "photo": "https://image.tmdb.org/t/p/w500/6oeYojEL9uLSJezeChUNFiRJohs.jpg"
+      },
+      {
+        "name": "Gregory Gaye",
+        "character": "Count Alexis Rakonin",
+        "photo": "https://image.tmdb.org/t/p/w500/wJ6IzGvnmahSKDcT1TcMC1WhgL7.jpg"
+      },
+      {
+        "name": "Rolfe Sedan",
+        "character": "Hotel Manager",
+        "photo": "https://image.tmdb.org/t/p/w500/1dQdX1rmnCc93ZmUV7QPKMQJ0WJ.jpg"
+      },
+      {
+        "name": "Edwin Maxwell",
+        "character": "Mercier",
+        "photo": "https://image.tmdb.org/t/p/w500/k31nSbkIkSqWelDQyWvn5zF1g9q.jpg"
+      },
+      {
+        "name": "Richard Carle",
+        "character": "Gaston",
+        "photo": "https://image.tmdb.org/t/p/w500/y7TVekUSJtf8y8V1UrRlPG71xjq.jpg"
+      },
+      {
+        "name": "George Davis",
+        "character": "Porter at Railroad Station (uncredited)",
+        "photo": "https://image.tmdb.org/t/p/w500/jZX35AsIZnuQX7crHu6QqOAH182.jpg"
+      }
+    ],
+    "director": [
+      "Ernst Lubitsch"
+    ]
   }
 }

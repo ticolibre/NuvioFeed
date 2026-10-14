@@ -18,6 +18,85 @@
           "rating": "5.4"
         }
       }
-    }
+    },
+    "cast": [
+      "Ryan Kiera Armstrong",
+      "Zac Efron",
+      "Sydney Lemmon",
+      "Kurtwood Smith",
+      "Michael Greyeyes",
+      "Gloria Reuben",
+      "John Beasley",
+      "Tina Jung",
+      "Hannan Younis",
+      "Gavin MacIver-Wright",
+      "Jeremy Ferdman",
+      "Jamillah Ross"
+    ],
+    "app_cast": [
+      {
+        "name": "Ryan Kiera Armstrong",
+        "character": "Charlie McGee",
+        "photo": "https://image.tmdb.org/t/p/w500/fBToPwwvEWHw9MhRzZP1packFDi.jpg"
+      },
+      {
+        "name": "Zac Efron",
+        "character": "Andy McGee",
+        "photo": "https://image.tmdb.org/t/p/w500/pdWXP7XG6qqOoxoLid1DWYwmaMY.jpg"
+      },
+      {
+        "name": "Sydney Lemmon",
+        "character": "Vicky McGee",
+        "photo": "https://image.tmdb.org/t/p/w500/heGyUuth1HInFdywZ6y8gqjf0q6.jpg"
+      },
+      {
+        "name": "Kurtwood Smith",
+        "character": "Dr. Joseph Wanless",
+        "photo": "https://image.tmdb.org/t/p/w500/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+      },
+      {
+        "name": "Michael Greyeyes",
+        "character": "Rainbird",
+        "photo": "https://image.tmdb.org/t/p/w500/jy45vhkNT0s7gtf1dRIfFL77YWg.jpg"
+      },
+      {
+        "name": "Gloria Reuben",
+        "character": "Captain Hollister",
+        "photo": "https://image.tmdb.org/t/p/w500/7Ttd3nj1M9P8YE9LzCvGZcvPUQR.jpg"
+      },
+      {
+        "name": "John Beasley",
+        "character": "Irv Manders",
+        "photo": "https://image.tmdb.org/t/p/w500/tpZQojv2UfelPHr1eSphcp0iEpJ.jpg"
+      },
+      {
+        "name": "Tina Jung",
+        "character": "Ms. Gardner",
+        "photo": "https://image.tmdb.org/t/p/w500/eQG7U6ZMys4wJ0RhPGq72t3VcpC.jpg"
+      },
+      {
+        "name": "Hannan Younis",
+        "character": "Darla Gurney",
+        "photo": "https://image.tmdb.org/t/p/w500/usa4mQaSgiBbTH4gXt1qYgWU3Mv.jpg"
+      },
+      {
+        "name": "Gavin MacIver-Wright",
+        "character": "Gavin",
+        "photo": "https://image.tmdb.org/t/p/w500/k6ydwtVKdnwr9jndf6pyWqHmFUo.jpg"
+      },
+      {
+        "name": "Jeremy Ferdman",
+        "character": "Eyes Man",
+        "photo": "https://image.tmdb.org/t/p/w500/AeGS3SOpsyzYi7p6lGr5ctilyrU.jpg"
+      },
+      {
+        "name": "Jamillah Ross",
+        "character": "Officer Pierce",
+        "photo": "https://image.tmdb.org/t/p/w500/h82NrZnDKpzCfAaHyCfs8ODsyhb.jpg"
+      }
+    ],
+    "director": [
+      "Keith Thomas"
+    ]
   }
 }

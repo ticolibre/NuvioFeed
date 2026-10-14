@@ -18,6 +18,83 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "John Cazale",
+      "John Savage",
+      "Meryl Streep",
+      "George Dzundza",
+      "Rutanya Alda",
+      "Pierre Segui",
+      "Amy Wright",
+      "Richard Kuss",
+      "Joe Grifasi",
+      "Dennis Watlington"
+    ],
+    "app_cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Michael Vronsky",
+        "photo": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Nikanor \"Nick\" Chevotarevich",
+        "photo": "https://image.tmdb.org/t/p/w500/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "name": "John Cazale",
+        "character": "Stan",
+        "photo": "https://image.tmdb.org/t/p/w500/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+      },
+      {
+        "name": "John Savage",
+        "character": "Steven Pushkov",
+        "photo": "https://image.tmdb.org/t/p/w500/exzL5D7RSnIepF9FsFlzCs248he.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Linda",
+        "photo": "https://image.tmdb.org/t/p/w500/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+      },
+      {
+        "name": "George Dzundza",
+        "character": "John",
+        "photo": "https://image.tmdb.org/t/p/w500/wmnQQn0dFygl90M2N8tlWlpGHzV.jpg"
+      },
+      {
+        "name": "Rutanya Alda",
+        "character": "Angela",
+        "photo": "https://image.tmdb.org/t/p/w500/qSNz7ZRKkHCdwyShapgm8aqibx.jpg"
+      },
+      {
+        "name": "Pierre Segui",
+        "character": "Julien"
+      },
+      {
+        "name": "Amy Wright",
+        "character": "Bridesmaid",
+        "photo": "https://image.tmdb.org/t/p/w500/wejr7718NPsCjTF2mvyOOIukRsc.jpg"
+      },
+      {
+        "name": "Richard Kuss",
+        "character": "Linda's Father",
+        "photo": "https://image.tmdb.org/t/p/w500/8rMMPn7CDlPFayKKZoqsI756TfW.jpg"
+      },
+      {
+        "name": "Joe Grifasi",
+        "character": "Bandleader",
+        "photo": "https://image.tmdb.org/t/p/w500/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+      },
+      {
+        "name": "Dennis Watlington",
+        "character": "Cab Driver"
+      }
+    ],
+    "director": [
+      "Michael Cimino"
+    ]
   }
 }

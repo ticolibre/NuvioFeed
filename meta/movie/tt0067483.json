@@ -19,6 +19,84 @@
           "rating": "7.0"
         }
       }
-    }
+    },
+    "cast": [
+      "Michael Jayston",
+      "Janet Suzman",
+      "Roderic Noble",
+      "Ania Marson",
+      "Lynne Frederick",
+      "Candace Glendenning",
+      "Fiona Fullerton",
+      "Harry Andrews",
+      "Irene Worth",
+      "Tom Baker",
+      "Jack Hawkins",
+      "Timothy West"
+    ],
+    "app_cast": [
+      {
+        "name": "Michael Jayston",
+        "character": "Nicholas",
+        "photo": "https://image.tmdb.org/t/p/w500/vPCW3hK9iGsL3NCWyhC5P3f9fgH.jpg"
+      },
+      {
+        "name": "Janet Suzman",
+        "character": "Alexandra",
+        "photo": "https://image.tmdb.org/t/p/w500/5H1cxIbRuIlpqOxU1rsGAetrsyi.jpg"
+      },
+      {
+        "name": "Roderic Noble",
+        "character": "Alexis",
+        "photo": "https://image.tmdb.org/t/p/w500/k14xhQhH1cbjavbpXUt9Wa8urGk.jpg"
+      },
+      {
+        "name": "Ania Marson",
+        "character": "Olga",
+        "photo": "https://image.tmdb.org/t/p/w500/mqHopPpXsCkwbxq7A2oDPcs80CR.jpg"
+      },
+      {
+        "name": "Lynne Frederick",
+        "character": "Tatiana",
+        "photo": "https://image.tmdb.org/t/p/w500/hEuGAO2YdYfBtbStNr2rAF9zMVa.jpg"
+      },
+      {
+        "name": "Candace Glendenning",
+        "character": "Marie",
+        "photo": "https://image.tmdb.org/t/p/w500/eycu8d9DObRsDAFZ2KRiumBpzoC.jpg"
+      },
+      {
+        "name": "Fiona Fullerton",
+        "character": "Anastasia"
+      },
+      {
+        "name": "Harry Andrews",
+        "character": "Grand Duke Nicholas (Nikolasha)",
+        "photo": "https://image.tmdb.org/t/p/w500/bKuzFkPNvvuqlxnJD06WT0r9WK4.jpg"
+      },
+      {
+        "name": "Irene Worth",
+        "character": "The Queen Mother Marie Fedorovna",
+        "photo": "https://image.tmdb.org/t/p/w500/8uSteohDNeJH4OQTzB6AVxBkfmV.jpg"
+      },
+      {
+        "name": "Tom Baker",
+        "character": "Rasputin",
+        "photo": "https://image.tmdb.org/t/p/w500/ql8lv7SdpjRLQ3gahIAmEqTyu6g.jpg"
+      },
+      {
+        "name": "Jack Hawkins",
+        "character": "Count Fredericks",
+        "photo": "https://image.tmdb.org/t/p/w500/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg"
+      },
+      {
+        "name": "Timothy West",
+        "character": "Dr. Botkin",
+        "photo": "https://image.tmdb.org/t/p/w500/33jpCMYzJoQ9RXQzzzNhocfIAez.jpg"
+      }
+    ],
+    "director": [
+      "Franklin J. Schaffner"
+    ]
   }
 }

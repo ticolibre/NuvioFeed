@@ -19,6 +19,85 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "cast": [
+      "Gregory Peck",
+      "David Niven",
+      "Anthony Quinn",
+      "Stanley Baker",
+      "Anthony Quayle",
+      "James Darren",
+      "Irene Papas",
+      "Gia Scala",
+      "James Robertson Justice",
+      "Richard Harris",
+      "Bryan Forbes",
+      "Allan Cuthbertson"
+    ],
+    "app_cast": [
+      {
+        "name": "Gregory Peck",
+        "character": "Capt. Keith Mallory",
+        "photo": "https://image.tmdb.org/t/p/w500/8EkjKu6OJPpEwpARpxVh6yd1f9k.jpg"
+      },
+      {
+        "name": "David Niven",
+        "character": "Cpl. John Anthony Miller",
+        "photo": "https://image.tmdb.org/t/p/w500/ioW2DU6T2HPvTdqUSaLLQmGPb38.jpg"
+      },
+      {
+        "name": "Anthony Quinn",
+        "character": "Col. Andrea Stavros",
+        "photo": "https://image.tmdb.org/t/p/w500/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg"
+      },
+      {
+        "name": "Stanley Baker",
+        "character": "Pvt. 'Butcher' Brown",
+        "photo": "https://image.tmdb.org/t/p/w500/gpQD0tetGSWWTQvr3xphHs5H6Xs.jpg"
+      },
+      {
+        "name": "Anthony Quayle",
+        "character": "Maj. Roy Franklin",
+        "photo": "https://image.tmdb.org/t/p/w500/fiH7Bb3NzerwiFZizveR2BTLVK8.jpg"
+      },
+      {
+        "name": "James Darren",
+        "character": "Pvt. Spyros Pappadimos",
+        "photo": "https://image.tmdb.org/t/p/w500/4ljvnQc75JVmyUHrSZsU7mBm4PT.jpg"
+      },
+      {
+        "name": "Irene Papas",
+        "character": "Maria Pappadimos",
+        "photo": "https://image.tmdb.org/t/p/w500/5L9s3RdHpHnexq5tskFwqEQyMIf.jpg"
+      },
+      {
+        "name": "Gia Scala",
+        "character": "Anna",
+        "photo": "https://image.tmdb.org/t/p/w500/prMCtveRRK4pWRmDeOifYFK7Ugr.jpg"
+      },
+      {
+        "name": "James Robertson Justice",
+        "character": "Commodore Jensen / Prologue Narrator",
+        "photo": "https://image.tmdb.org/t/p/w500/u0fYhKndmqr99KGV6SOhjXuMOnX.jpg"
+      },
+      {
+        "name": "Richard Harris",
+        "character": "Squadron Leader Howard Barnsby RAAF",
+        "photo": "https://image.tmdb.org/t/p/w500/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+      },
+      {
+        "name": "Bryan Forbes",
+        "character": "Cohn",
+        "photo": "https://image.tmdb.org/t/p/w500/5kKn0ZjsMDSirRUqPJn5qwCXtZX.jpg"
+      },
+      {
+        "name": "Allan Cuthbertson",
+        "character": "Maj. Baker",
+        "photo": "https://image.tmdb.org/t/p/w500/11PN4o3Y1fe3x9f4lcjs5UBH6Vw.jpg"
+      }
+    ],
+    "director": [
+      "J. Lee Thompson"
+    ]
   }
 }

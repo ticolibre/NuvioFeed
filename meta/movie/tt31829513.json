@@ -17,6 +17,76 @@
           "rating": "6.2"
         }
       }
-    }
+    },
+    "cast": [
+      "Liv McNeil",
+      "Sofia Coppola",
+      "Cailee Spaeny",
+      "Jacob Elordi",
+      "Priscilla Presley",
+      "Youree Henley",
+      "Andrew M. Robinson",
+      "Thomas Mars",
+      "Philippe Le Sourd",
+      "Jordan Fifield",
+      "Romy Mars"
+    ],
+    "app_cast": [
+      {
+        "name": "Liv McNeil",
+        "character": "Self"
+      },
+      {
+        "name": "Sofia Coppola",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg"
+      },
+      {
+        "name": "Cailee Spaeny",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/6gUzyMnwo7TjZA7E1Amd1GI8JGw.jpg"
+      },
+      {
+        "name": "Jacob Elordi",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+      },
+      {
+        "name": "Priscilla Presley",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/AkHLzziAPK1NVI5lfELYt6u0kRP.jpg"
+      },
+      {
+        "name": "Youree Henley",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/52zM2y1aTd6YlFAOwW5qDhJBY1O.jpg"
+      },
+      {
+        "name": "Andrew M. Robinson",
+        "character": "Self"
+      },
+      {
+        "name": "Thomas Mars",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/3FX7yRkhqFhb1A38qFwq6p0HgI4.jpg"
+      },
+      {
+        "name": "Philippe Le Sourd",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/7x8cgCSxlEQjJma5eoZM6mWsNN4.jpg"
+      },
+      {
+        "name": "Jordan Fifield",
+        "character": "Self (as Jordan Smith)"
+      },
+      {
+        "name": "Romy Mars",
+        "character": "Self",
+        "photo": "https://image.tmdb.org/t/p/w500/2u71l6tUaWzIt4nCXGLFXcEaQfn.jpg"
+      }
+    ],
+    "director": [
+      "Liv McNeil"
+    ]
   }
 }

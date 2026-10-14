@@ -18,6 +18,85 @@
           "rating": "7.1"
         }
       }
-    }
+    },
+    "cast": [
+      "Warren William",
+      "May Robson",
+      "Guy Kibbee",
+      "Glenda Farrell",
+      "Ned Sparks",
+      "Walter Connolly",
+      "Jean Parker",
+      "Nat Pendleton",
+      "Barry Norton",
+      "Halliwell Hobbes",
+      "Hobart Bosworth",
+      "Robert Emmett O'Connor"
+    ],
+    "app_cast": [
+      {
+        "name": "Warren William",
+        "character": "Dave the Dude",
+        "photo": "https://image.tmdb.org/t/p/w500/w2M7yW9iUSTric3qppRadXzbf7W.jpg"
+      },
+      {
+        "name": "May Robson",
+        "character": "Apple Annie",
+        "photo": "https://image.tmdb.org/t/p/w500/h4o6NoaGRoFvY8vo7YfbZtZvRtg.jpg"
+      },
+      {
+        "name": "Guy Kibbee",
+        "character": "Judge Henry G. Blake",
+        "photo": "https://image.tmdb.org/t/p/w500/dYPlMilU91vyesTKvsZE6l9dlL1.jpg"
+      },
+      {
+        "name": "Glenda Farrell",
+        "character": "Missouri Martin",
+        "photo": "https://image.tmdb.org/t/p/w500/xBaAWMgCzVpzMzK2bmA8bkmSGm2.jpg"
+      },
+      {
+        "name": "Ned Sparks",
+        "character": "Happy McGuire",
+        "photo": "https://image.tmdb.org/t/p/w500/bRduH9CVoOKfD19dKmlxujvEe4Z.jpg"
+      },
+      {
+        "name": "Walter Connolly",
+        "character": "Count Romero",
+        "photo": "https://image.tmdb.org/t/p/w500/mJB6tVqIlr5zhiSqCx2Vl0Kr6Nw.jpg"
+      },
+      {
+        "name": "Jean Parker",
+        "character": "Louise",
+        "photo": "https://image.tmdb.org/t/p/w500/ksj01GbanOhoZD5rXk99IVRx9QB.jpg"
+      },
+      {
+        "name": "Nat Pendleton",
+        "character": "Shakespeare",
+        "photo": "https://image.tmdb.org/t/p/w500/9rZC8qMgJTJ7QYgg6ckXIv8uYRd.jpg"
+      },
+      {
+        "name": "Barry Norton",
+        "character": "Carlos",
+        "photo": "https://image.tmdb.org/t/p/w500/nguhCb1NDANgok4uFmv4gjw1X0c.jpg"
+      },
+      {
+        "name": "Halliwell Hobbes",
+        "character": "Butler",
+        "photo": "https://image.tmdb.org/t/p/w500/ewmAwP5TBvqRlvFEgnXsMB7U6H0.jpg"
+      },
+      {
+        "name": "Hobart Bosworth",
+        "character": "Governor",
+        "photo": "https://image.tmdb.org/t/p/w500/embweEOzbEdv3FgNikIgv6ZoTS1.jpg"
+      },
+      {
+        "name": "Robert Emmett O'Connor",
+        "character": "Inspector MacCreary",
+        "photo": "https://image.tmdb.org/t/p/w500/ke4oL0BoC4TonjZCza8Tpimslu5.jpg"
+      }
+    ],
+    "director": [
+      "Frank Capra"
+    ]
   }
 }
