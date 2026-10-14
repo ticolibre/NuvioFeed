@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/catalog/movie/global-search/:extra",
+      "destination": "/api/search?extra=:extra"
+    },
+    {
+      "source": "/catalog/movie/global-search.json",
+      "destination": "/api/search"
+    }
+  ]
+}

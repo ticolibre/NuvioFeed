@@ -154,6 +154,21 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "movie",
+      "id": "global-search",
+      "name": "Global Search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "config": [
