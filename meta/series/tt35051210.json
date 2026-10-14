@@ -10,6 +10,40 @@
     "genres": [
       "Documental"
     ],
-    "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg"
+    "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+    "videos": [
+      {
+        "id": "tt35051210:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j7vbkGnomlYGv94ovQ6ry3khNB7.jpg"
+      },
+      {
+        "id": "tt35051210:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cgTi6kLPU2rvKzPIpo3qWqe3Ppp.jpg"
+      },
+      {
+        "id": "tt35051210:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oKs5bDnuC3sLr5XgUie9WuZ0gGq.jpg"
+      },
+      {
+        "id": "tt35051210:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/thlahessR1egBUhru7q4VvZFnRz.jpg"
+      }
+    ]
   }
 }

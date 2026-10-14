@@ -19,6 +19,80 @@
           "rating": "8.5"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt11540908:1:1",
+        "title": "PRIMER PERIODO",
+        "season": 1,
+        "episode": 1,
+        "overview": "Comienza un nuevo día.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q6K86iDYMr8G0xQC5OxDHi34OWo.jpg"
+      },
+      {
+        "id": "tt11540908:1:2",
+        "title": "LENGUA EXTRANJERA",
+        "season": 1,
+        "episode": 2,
+        "overview": "Nuevas habilidades de comunicación de una cultura desconocida.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2BAJUukstdRp5JdJL4KgB1oFXEj.jpg"
+      },
+      {
+        "id": "tt11540908:1:3",
+        "title": "CIENCIAS SOCIALES",
+        "season": 1,
+        "episode": 3,
+        "overview": "Cómo interactúan las personas, las comunidades y las sociedades.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rCayKt9PSctLY3Oo85nBvm1ibnq.jpg"
+      },
+      {
+        "id": "tt11540908:1:4",
+        "title": "ARTES DRAMÁTICAS",
+        "season": 1,
+        "episode": 4,
+        "overview": "Voz, movimiento e improvisación.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/br1jADm12G7gdN9rSlj3dn0VB4i.jpg"
+      },
+      {
+        "id": "tt11540908:1:5",
+        "title": "EDUCACIÓN PSÍQUICA",
+        "season": 1,
+        "episode": 5,
+        "overview": "Salud, ejercicio y condición física.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aosEmangiVoqjUIgCcTz8pEUFuS.jpg"
+      },
+      {
+        "id": "tt11540908:1:6",
+        "title": "ECONOMÍA DOMÉSTICA",
+        "season": 1,
+        "episode": 6,
+        "overview": "Habilidades prácticas para ser independiente.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggtBh6ZtP3LQL6iHAt3FpT2y0j2.jpg"
+      },
+      {
+        "id": "tt11540908:1:7",
+        "title": "LITERATURA ROMÁNTICA",
+        "season": 1,
+        "episode": 7,
+        "overview": "El poder de las emociones y las experiencias personales.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eQRCwK89aL7C0qEfEGrpkqfB2as.jpg"
+      },
+      {
+        "id": "tt11540908:1:8",
+        "title": "PSÍQUICA AVANZADA",
+        "season": 1,
+        "episode": 8,
+        "overview": "A toda acción corresponde una reacción igual y opuesta.",
+        "released": "2026-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wcCBQrz9zvQkaxlfFyClGGJGFEO.jpg"
+      }
+    ]
   }
 }

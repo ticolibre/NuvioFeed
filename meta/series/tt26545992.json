@@ -19,6 +19,80 @@
           "rating": "8.3"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt26545992:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Tras un tiroteo fatal, el Linterna Verde Hal Jordan y el nuevo recluta John Stewart deben demostrar que se trató de un suceso extraterrestre.",
+        "released": "2026-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eamjkYDnuDcvS1MyynI4B9nE6KL.jpg"
+      },
+      {
+        "id": "tt26545992:1:2",
+        "title": "Salto de Fe",
+        "season": 1,
+        "episode": 2,
+        "overview": "Mientras la misión insignificante de John resulta ser trascendental, Hal causa revuelo en Rushville, lo que lo lleva a indagar más a fondo.",
+        "released": "2026-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kccUM3MF6AmqdcsgPMKoBfcl54a.jpg"
+      },
+      {
+        "id": "tt26545992:1:3",
+        "title": "Marginado",
+        "season": 1,
+        "episode": 3,
+        "overview": "Tras toda una vida de preparación, John finalmente tiene la oportunidad de entrevistarse con los Guardianes.",
+        "released": "2026-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1SH9BxLQa0jyxWSe0qgDZXVzPR8.jpg"
+      },
+      {
+        "id": "tt26545992:1:4",
+        "title": "El Señuelo",
+        "season": 1,
+        "episode": 4,
+        "overview": "Con el plazo de 48 horas a punto de vencer, John desarrolla una nueva teoría sobre el paradero del Cazador, lo que lo lleva, junto con Hal, a presentar su próximo plan a la sheriff Kane. Mientras tanto, la visita de Hal a Sinestro trae consecuencias.",
+        "released": "2026-09-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i6Wz0LHsnqke3Bw0ZKmVjFfd1du.jpg"
+      },
+      {
+        "id": "tt26545992:1:5",
+        "title": "Fuera Luces",
+        "season": 1,
+        "episode": 5,
+        "overview": "A medida que se devela la historia de la familia Macon sale a la luz, Rushville se prepara para la amenaza. Mientras John se ve obligado a enfrentar una situación imposible, Hal lo arriesga todo en un último intento por acabar con el Cazador.",
+        "released": "2026-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gl01bQzjDH93bbMtYeHiHIuQg3r.jpg"
+      },
+      {
+        "id": "tt26545992:1:6",
+        "title": "Mala Imagen",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mientras John intenta seguir adelante, los misterios de Rushville se niegan a dejarlo ir.",
+        "released": "2026-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lnaPnNgtufzsNjX1V9MbcwlCIqd.jpg"
+      },
+      {
+        "id": "tt26545992:1:7",
+        "title": "El Legado de los Jordan",
+        "season": 1,
+        "episode": 7,
+        "overview": "En otro planeta, Hal y John deben dejar de lado su pasado conflictivo para resolver un asesinato. A lo largo de su viaje, ambos se ven obligados a enfrentarse a los fantasmas de su pasado... y a la manera en que su infancia moldeó quiénes son hoy.",
+        "released": "2026-09-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sZNpNcHcTSd9qRD1ig7EmO6SsZ8.jpg"
+      },
+      {
+        "id": "tt26545992:1:8",
+        "title": "Polvo y Estrellas",
+        "season": 1,
+        "episode": 8,
+        "overview": "Mientras John continúa su búsqueda del asesino, un nuevo y escalofriante descubrimiento sale a la luz.",
+        "released": "2026-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wlAMmhDH2MjHpt6d3d4ymEvO3Hd.jpg"
+      }
+    ]
   }
 }

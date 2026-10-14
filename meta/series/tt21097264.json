@@ -17,6 +17,71 @@
           "rating": "8.0"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt21097264:1:1",
+        "title": "Hermanos",
+        "season": 1,
+        "episode": 1,
+        "overview": "Separados por un padre dominante, los hermanos Adam y Charles Trask se ven obligados a emprender caminos distintos: uno crece muy lejos de casa; y otro, en el seno del hogar.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b55U7j1STpQ2bs6eMfkB4G8nqKO.jpg"
+      },
+      {
+        "id": "tt21097264:1:2",
+        "title": "Cathy",
+        "season": 1,
+        "episode": 2,
+        "overview": "Cathy reflexiona sobre su oscuro pasado, mientras su presencia en la casa de los hermanos siembra la discordia en el presente.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hSVbTcx7UQ2XjdVRAPcOqQNpuSx.jpg"
+      },
+      {
+        "id": "tt21097264:1:3",
+        "title": "En el valle",
+        "season": 1,
+        "episode": 3,
+        "overview": "Adam va tras su sueño de tener un hogar y una familia en California. Cathy tiene sus propios planes para el futuro.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3jsqqN7ONmrd6TNIhr5kVJd4VJP.jpg"
+      },
+      {
+        "id": "tt21097264:1:4",
+        "title": "Kate",
+        "season": 1,
+        "episode": 4,
+        "overview": "Con un nuevo nombre, una nueva vida y un plan implacable para lograr su independencia económica, Cathy vuelve a comenzar.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/muzn0Ho2ngbRpu5Sn7VCg6QUEBz.jpg"
+      },
+      {
+        "id": "tt21097264:1:5",
+        "title": "Partida",
+        "season": 1,
+        "episode": 5,
+        "overview": "Diez años después, un encuentro con Cathy cambia la perspectiva de Adam, quien choca con Lee a la hora de decidir si los niños deben conocer la verdad sobre su madre.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t76ZTo1gYaREvtDxl0WcBnL3PPM.jpg"
+      },
+      {
+        "id": "tt21097264:1:6",
+        "title": "El gran intento",
+        "season": 1,
+        "episode": 6,
+        "overview": "Adam emprende un innovador y audaz negocio. Mientras Cal empieza a sentir curiosidad por su pasado familiar, Cathy comienza a cargar con el peso de la culpa.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rmUq2ZSIQoMmxn4JJAo2hj6YTeC.jpg"
+      },
+      {
+        "id": "tt21097264:1:7",
+        "title": "Timshel",
+        "season": 1,
+        "episode": 7,
+        "overview": "La Primera Guerra Mundial enrarece el ambiente, y la familia se pregunta si podrán borrarse los pecados del pasado... o si la nueva generación estará condenada a repetirlos.",
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z58idHHuxM5UfLqeZxC9XVE9tGZ.jpg"
+      }
+    ]
   }
 }

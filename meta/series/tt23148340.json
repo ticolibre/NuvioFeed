@@ -18,6 +18,72 @@
           "rating": "5.5"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt23148340:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8D16PWUuii2inATYzCupPESBsDx.jpg"
+      },
+      {
+        "id": "tt23148340:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yJ2aIjFDJwmMf3GxeyLWJQzxjEB.jpg"
+      },
+      {
+        "id": "tt23148340:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2R3R2C0kPpGGZ5JQ9MPTMONdBXU.jpg"
+      },
+      {
+        "id": "tt23148340:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yUrbMfMUZCYeMKEatYlPNMCu4KG.jpg"
+      },
+      {
+        "id": "tt23148340:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sumztJveOnbNKzG6mJO8lkHrnyy.jpg"
+      },
+      {
+        "id": "tt23148340:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n3A742u9dKkQtAo15AjsC2AhgxV.jpg"
+      },
+      {
+        "id": "tt23148340:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u4kmVY7u64a1Ok0CEATAM6Yjf0e.jpg"
+      },
+      {
+        "id": "tt23148340:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ntGdwgBYIgP4iPa1QcramUvns1v.jpg"
+      }
+    ]
   }
 }

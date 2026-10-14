@@ -20,6 +20,352 @@
           "rating": "8.1"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt14976292:1:1",
+        "title": "Emma",
+        "season": 1,
+        "episode": 1,
+        "overview": "Cheng Xiaoshi entra en el mundo de las fotos de Emma, una empleada de Quede Games, bajo el mando de Lu Guang con el fin de obtener pruebas sobre unos informes financieros falsificados.",
+        "released": "2021-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/icUfSdcAqVPZq2Tmh4kg5z6CXYt.jpg"
+      },
+      {
+        "id": "tt14976292:1:2",
+        "title": "Receta secreta",
+        "season": 1,
+        "episode": 2,
+        "overview": "Yuxia, la propietaria de una cadena de restaurantes, busca a la pareja de viajeros del tiempo para obtener la receta de una sopa que solo conoce su socia Lin Zhen.",
+        "released": "2021-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Z6zB98wuoWlp7ravt86LoKYZO2.jpg"
+      },
+      {
+        "id": "tt14976292:1:3",
+        "title": "Solo puede perder, no debe ganar",
+        "season": 1,
+        "episode": 3,
+        "overview": "Cheng Xiaoshi entra en la foto de juventud de un nuevo cliente arrepentido para jugar un partido de básquet muy especial.",
+        "released": "2021-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q010fF2hxZ1CDq26cYfBNXS66C6.jpg"
+      },
+      {
+        "id": "tt14976292:1:4",
+        "title": "Declaración",
+        "season": 1,
+        "episode": 4,
+        "overview": "El encargo marchaba bien, pero Cheng Xiaoshi se da cuenta de que la misión se dirige hacia un recuerdo inolvidable.",
+        "released": "2021-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5tsBmkQawTch8yFLFAegQ2qKVUI.jpg"
+      },
+      {
+        "id": "tt14976292:1:5",
+        "title": "Adiós",
+        "season": 1,
+        "episode": 5,
+        "overview": "Enfrentándose a un pasado irreversible, Cheng Xiaoshi quiere cambiar el futuro.",
+        "released": "2021-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cmJtccseY6GU5ozR0nt6Mp5j0y6.jpg"
+      },
+      {
+        "id": "tt14976292:1:6",
+        "title": "Buscar a un hijo",
+        "season": 1,
+        "episode": 6,
+        "overview": "El policía Xiao Li entra al estudio para encargarles una misión, con la esperanza de que Cheng Xiaoshi y Lu Guang le ayuden a investigar un caso de secuestro infantil.",
+        "released": "2021-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bpahkhKvkfDFNuglHjX5LIsYBi0.jpg"
+      },
+      {
+        "id": "tt14976292:1:7",
+        "title": "Tía Mei",
+        "season": 1,
+        "episode": 7,
+        "overview": "Nadie sabe dónde está Doudou, pero la persistencia de Cheng Xiaoshi arroja nueva luz sobre el caso.",
+        "released": "2021-06-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7HyEa5AJyxxbKUPrY9Ey8pkHWgY.jpg"
+      },
+      {
+        "id": "tt14976292:1:8",
+        "title": "Sin señal",
+        "season": 1,
+        "episode": 8,
+        "overview": "Además de resolver los problemas sentimentales de Xu Shanshan, la amiga de Qiao Ling, el Estudio Fotográfico El Tiempo recibirá una \"alegría\" inesperada.",
+        "released": "2021-06-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8bwB55PbKq8A8MInwrtHIrpljXN.jpg"
+      },
+      {
+        "id": "tt14976292:1:9",
+        "title": "Consecuencia de buenas intenciones",
+        "season": 1,
+        "episode": 9,
+        "overview": "La desaparición de Xu Shanshan no es tan sencilla como parece. Además, Lu Guang descubre pistas inesperadas en las fotos.",
+        "released": "2021-06-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jLntnHS1996YZNGIwmxVFwO7ANd.jpg"
+      },
+      {
+        "id": "tt14976292:1:10",
+        "title": "Trampa",
+        "season": 1,
+        "episode": 10,
+        "overview": "Para garantizar la seguridad de Xu Shanshan, Cheng Xiaoshi hace un trato con el asesino.",
+        "released": "2021-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5WIoYAfp8sMRTmKovORRsYLilk9.jpg"
+      },
+      {
+        "id": "tt14976292:1:11",
+        "title": "Personas de luz",
+        "season": 1,
+        "episode": 11,
+        "overview": "Aunque consiguen arrestar al asesino, la batalla para Cheng Xiaoshi y Lu Guang aún no ha terminado.",
+        "released": "2021-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iW4c0cYeVqorCOML4vkjqIoV4cM.jpg"
+      },
+      {
+        "id": "tt14976292:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4rxBp7FIeVsTrpaZtHpqY0HmPCP.jpg"
+      },
+      {
+        "id": "tt14976292:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/66B9Cv26z2LEvmYGKDI4JGYKOJ5.jpg"
+      },
+      {
+        "id": "tt14976292:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8tn2Pb6YLRWYBp9S7bSMMHZsmn7.jpg"
+      },
+      {
+        "id": "tt14976292:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c48ubAVVz95acOUhcAhN5FRkHEA.jpg"
+      },
+      {
+        "id": "tt14976292:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9AnhxkKaG9VyIMaf8Pv4WAMBNel.jpg"
+      },
+      {
+        "id": "tt14976292:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dxThjNSyzNF4YF3EsEl2xuMEyOq.jpg"
+      },
+      {
+        "id": "tt14976292:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yhWxQxSeAKFsWW6q37a6CMfT3Rt.jpg"
+      },
+      {
+        "id": "tt14976292:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sgEvvNcoa2Ka7IojNE3ly4PX2Le.jpg"
+      },
+      {
+        "id": "tt14976292:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z0WppFstDULXvJmKIGZTuby8Mxu.jpg"
+      },
+      {
+        "id": "tt14976292:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g3HHkdQtfvVyIdVMSj5HXusRyWB.jpg"
+      },
+      {
+        "id": "tt14976292:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ttlj0MoImzXwtyz09xgOobgep6h.jpg"
+      },
+      {
+        "id": "tt14976292:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2023-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4MiM5MFcssIaa2FyoCWFY96U7nS.jpg"
+      },
+      {
+        "id": "tt14976292:3:1",
+        "title": "Y, así, el tiempo fluye de nuevo",
+        "season": 3,
+        "episode": 1,
+        "overview": "Lu Guang regresa al pasado, al comienzo de su amistad con Cheng Xiaoshi y Qiao Ling, en un improbable intento de cambiar sus destinos, a pesar de romper su regla de oro sobre los viajes en el tiempo.",
+        "released": "2024-12-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5GOTfVNbkf2LvntZFo0ZyPei7z3.jpg"
+      },
+      {
+        "id": "tt14976292:3:2",
+        "title": "Preludio",
+        "season": 3,
+        "episode": 2,
+        "overview": "Cheng Xiaoshi encuentra una fotografía de la ciudad de Bridon, aparentemente enviada por su padre. Al mismo tiempo, una serie de estafas que tienen lugar en la misma localidad se hacen eco en las noticias. Conociéndolo, no dudará en acudir a Lu Guang para desvelar el misterio.",
+        "released": "2025-01-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i3xaHbChxgW5P9GBtYwR6o016Oq.jpg"
+      },
+      {
+        "id": "tt14976292:3:3",
+        "title": "Ellos",
+        "season": 3,
+        "episode": 3,
+        "overview": "Cheng Xiaoshi y Lu Guang llegan a Bridon en busca de pistas para resolver el misterio del padre de Cheng Xiaoshi. Nada más llegar al aeropuerto, ya les surgen problemas…",
+        "released": "2025-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jEDO11g26w2bfcdyBRj9oEpClhU.jpg"
+      },
+      {
+        "id": "tt14976292:3:4",
+        "title": "Y no quedó ninguno",
+        "season": 3,
+        "episode": 4,
+        "overview": "El misterioso jefe de Xia Fei acude al rescate de los chicos, pero, tras el primer intercambio de palabras, Lu Guang nota que no es trigo limpio.",
+        "released": "2025-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oND1N936VhQSIxxyVKwMc3sStBl.jpg"
+      },
+      {
+        "id": "tt14976292:3:5",
+        "title": "Reunión",
+        "season": 3,
+        "episode": 5,
+        "overview": "Tras presenciar el incendio de la academia, Cheng Xiaoshi comprende, gracias a Lu Guang, su poder, e intentan averiguar quién sobrevivió al desastre.",
+        "released": "2025-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7h5tBm4MfcPLFyJjowuQHD7GnIY.jpg"
+      },
+      {
+        "id": "tt14976292:3:6",
+        "title": "Rompecabezas",
+        "season": 3,
+        "episode": 6,
+        "overview": "Cheng Xiaoshi por fin consigue hablar con Vein, pero, para ayudarlo, Vein le exige que él y Lu Guang lo ayuden a sustituir a un modelo despedido.",
+        "released": "2025-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/djrOYPY0JBsQWbKEwpHJi06EPVv.jpg"
+      },
+      {
+        "id": "tt14976292:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2026-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gzQltbIGuFky0dtbRuo65NnB2S9.jpg"
+      },
+      {
+        "id": "tt14976292:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2026-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ztn9KkOqvJTxg3An4OhIFRg6LqH.jpg"
+      },
+      {
+        "id": "tt14976292:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ydqjgjBiQCn5dugS4OOejmzod2.jpg"
+      },
+      {
+        "id": "tt14976292:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2026-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wK6kGZVeW8pPUKJwK6b4u66n7Or.jpg"
+      },
+      {
+        "id": "tt14976292:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2026-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g482XWqVr1v2MwwBuCyaA9B2tWi.jpg"
+      },
+      {
+        "id": "tt14976292:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2026-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9FBJFX3B2uYZmp8CQ6cJOIFU2wM.jpg"
+      },
+      {
+        "id": "tt14976292:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "2026-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iE5bPKIbeHHS03VuJa13sOGrZTi.jpg"
+      },
+      {
+        "id": "tt14976292:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "2026-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xvU1ppMafRuAI6HRMSmW80wB2yn.jpg"
+      },
+      {
+        "id": "tt14976292:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dK8v4BM3Avad1l8DYPqKWl0dFER.jpg"
+      },
+      {
+        "id": "tt14976292:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/glADhEgRWLmbHMMdSqX4lbCc1Cy.jpg"
+      },
+      {
+        "id": "tt14976292:4:11",
+        "title": "Episodio 11",
+        "season": 4,
+        "episode": 11,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1kiZ6bDrLlIXOsTcARjrUmLhcjk.jpg"
+      },
+      {
+        "id": "tt14976292:4:12",
+        "title": "Episodio 12",
+        "season": 4,
+        "episode": 12,
+        "released": "2026-10-22"
+      }
+    ]
   }
 }

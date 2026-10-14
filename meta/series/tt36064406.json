@@ -19,6 +19,88 @@
           "rating": "7.4"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt36064406:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kM6xjNJcswdBqpAO6ctQaSiflZk.jpg"
+      },
+      {
+        "id": "tt36064406:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/33U6TWpVIuGIpR8gLAf0R8QTe2M.jpg"
+      },
+      {
+        "id": "tt36064406:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xzvgK3pOYtsOaw5NW03XsePQG7k.jpg"
+      },
+      {
+        "id": "tt36064406:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9XJJVrpWXw90NnsYP6T7Z4G5OJO.jpg"
+      },
+      {
+        "id": "tt36064406:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rUrncNdrN1iKtDpv9jLg24Ccy4O.jpg"
+      },
+      {
+        "id": "tt36064406:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hc51kOwtiFCHapbSSOIdoCBngzn.jpg"
+      },
+      {
+        "id": "tt36064406:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fvSjWShUG1PlkvzkiaVVB1CDwRd.jpg"
+      },
+      {
+        "id": "tt36064406:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5aGip82ZXopdkey959Ay10n16gn.jpg"
+      },
+      {
+        "id": "tt36064406:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b4UGvHIPPwGOZloUyfMtXNvtqc1.jpg"
+      },
+      {
+        "id": "tt36064406:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jIT8wp28ysLdOLlsymkjNSecUwF.jpg"
+      }
+    ]
   }
 }

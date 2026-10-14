@@ -19,6 +19,526 @@
           "rating": "8.7"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt26743760:1:1",
+        "title": "Maomao",
+        "season": 1,
+        "episode": 1,
+        "overview": "Maomao es hija de un boticario con un don para la medicina a la que un día venden al palacio como sirvienta. Aunque ella está decidida a marcharse de ese lugar, cuando aparece una emergencia médica, decide intervenir.",
+        "released": "2023-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggj0UKd4j5uwYPEuuS9KmO76Lcn.jpg"
+      },
+      {
+        "id": "tt26743760:1:2",
+        "title": "La boticaria distante",
+        "season": 1,
+        "episode": 2,
+        "overview": "Maomao ha llamado la atención de Jinshi, a quien le sorprende que esta no se deje cautivar por sus encantos como el resto de mujeres del palacio. Mientras, Maomao se acostumbra a su nueva vida como una de las damas de compañía de la concubina Hongniang, quien parece ser una buena persona.",
+        "released": "2023-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pYC0kEvnKtVm50uD2rBmtrZZnix.jpg"
+      },
+      {
+        "id": "tt26743760:1:3",
+        "title": "La inquietante cuestión del espíritu",
+        "season": 1,
+        "episode": 3,
+        "overview": "Por el palacio corren rumores de un espíritu que recorre los muros. Una hermosa dama de blanco que baila sin descanso. ¿Quién es esa mujer? ¿Es realmente un espíritu?",
+        "released": "2023-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nfrCtoX4yRh7WyF9unECvML4dyG.jpg"
+      },
+      {
+        "id": "tt26743760:1:4",
+        "title": "La amenaza",
+        "season": 1,
+        "episode": 4,
+        "overview": "El emperador hace llamar a Maomao para encargarle una misión directamente: cuidar de la concubina Lihua, o dicho de otro modo: salvarla o sufrir las consecuencias.",
+        "released": "2023-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/56uZXOtpTuUvyuYGEpSLNJtJOBO.jpg"
+      },
+      {
+        "id": "tt26743760:1:5",
+        "title": "Operaciones encubiertas",
+        "season": 1,
+        "episode": 5,
+        "overview": "El doctor recibe la visita de un eunuco aterrorizado por una maldición. Maomao, que estaba presente en ese momento, hizo un rápido diagnóstico, pero lo que había causado el sufrimiento del desafortunado hombre suscitó algunas preguntas.",
+        "released": "2023-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/45h60UAouIJHiKRCI8zx6Vb38Nh.jpg"
+      },
+      {
+        "id": "tt26743760:1:6",
+        "title": "La fiesta del jardín",
+        "season": 1,
+        "episode": 6,
+        "overview": "Una gran fiesta requerirá de los servicios de Maomao como catadora gracias a su experiencia con los venenos.",
+        "released": "2023-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lk1dC3AFErQwPjaKlHHc6f7g7rz.jpg"
+      },
+      {
+        "id": "tt26743760:1:7",
+        "title": "Vuelta a casa",
+        "season": 1,
+        "episode": 7,
+        "overview": "Maomao investiga la sopa que causó furor en la fiesta del jardín. Luego tiene la oportunidad de volver a casa por poco tiempo.",
+        "released": "2023-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5wBAUmOAlu9z2chOoqke2wwI6G9.jpg"
+      },
+      {
+        "id": "tt26743760:1:8",
+        "title": "Tallos de trigo",
+        "season": 1,
+        "episode": 8,
+        "overview": "Maomao está de vacaciones en casa, pero ni siquiera allí se libra de los (casi) desastres. Una prostituta y su cliente aparecen envenenados. ¿Descubrirá Maomao la verdad?",
+        "released": "2023-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j9m1E9HOJVl4pjnJRhjH445EYmx.jpg"
+      },
+      {
+        "id": "tt26743760:1:9",
+        "title": "¿Suicidio o asesinato?",
+        "season": 1,
+        "episode": 9,
+        "overview": "Dos nuevas muertes ponen a prueba los conocimientos y la capacidad de deducción de la joven boticaria.",
+        "released": "2023-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u9rreY8RcnIsmx8kvCDhEy1BvXz.jpg"
+      },
+      {
+        "id": "tt26743760:1:10",
+        "title": "Miel",
+        "season": 1,
+        "episode": 10,
+        "overview": "Maomao tiene un nuevo encargo en el pabellón granate, nuevamente relacionado con las intrigas palaciegas.",
+        "released": "2023-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/brTsGje2MKuCHQuj8UVF1VjTSUv.jpg"
+      },
+      {
+        "id": "tt26743760:1:11",
+        "title": "De dos a uno",
+        "season": 1,
+        "episode": 11,
+        "overview": "Maomao visita a Fonmin porque tiene algo que hablar con ella. La verdad sale a la luz poco a poco, pero ¿con qué consecuencias?",
+        "released": "2023-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9K1ZNqTYK8ty1Olj2jGJAZ3l4y3.jpg"
+      },
+      {
+        "id": "tt26743760:1:12",
+        "title": "El eunuco y la cortesana",
+        "season": 1,
+        "episode": 12,
+        "overview": "Circunstancias adversas provocan el despido de Maomao del palacio interior. Ahora tiene que trabajar como prostituta. ¿Aquí acaba la historia de la boticaria?",
+        "released": "2023-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xa9CovqvQIgYENhpHdqun3JTn4A.jpg"
+      },
+      {
+        "id": "tt26743760:1:13",
+        "title": "Trabajando en el palacio exterior",
+        "season": 1,
+        "episode": 13,
+        "overview": "Jinshi le ha devuelto a Maomao su antiguo trabajo, o eso es lo que ella cree. Todo es muy distinto a como Maomao pensaba, así que tendrá que hacerse hueco en un nuevo lugar.",
+        "released": "2024-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wIIuz0ZkiKKdBSUyZfAIH25uPNF.jpg"
+      },
+      {
+        "id": "tt26743760:1:14",
+        "title": "La nueva concubina pura",
+        "season": 1,
+        "episode": 14,
+        "overview": "Maomao se convierte en instructora y da a las consortes de alto rango una importante lección. Pero también se plantean nuevos misterios.",
+        "released": "2024-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l3lUDpsjugdQFEn5X44CrLgisx.jpg"
+      },
+      {
+        "id": "tt26743760:1:15",
+        "title": "Pescado crudo",
+        "season": 1,
+        "episode": 15,
+        "overview": "Maomao recibe el encargo de resolver un misterioso caso de envenenamiento. Mientras tanto, Jinshi tiene que lidiar con un excéntrico conocido en todo el palacio que tiene una petición sorprendente.",
+        "released": "2024-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ghhWjMzXRuJ8q4sUFydIzLI1QkH.jpg"
+      },
+      {
+        "id": "tt26743760:1:16",
+        "title": "Plomo",
+        "season": 1,
+        "episode": 16,
+        "overview": "Maomao se ve involucrada en un misterio relacionado con tres hermanos herreros.",
+        "released": "2024-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hpzqYrNAhG9sLiAp1pm0oSWDGxf.jpg"
+      },
+      {
+        "id": "tt26743760:1:17",
+        "title": "Un paseo por la ciudad",
+        "season": 1,
+        "episode": 17,
+        "overview": "Maomao y Jinshi se disfrazan para investigar. Maomao se viste como una señorita de buena familia y Jinshi la acompaña disfrazado como su fiel sirviente.",
+        "released": "2024-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wahEWKAq9HFzMLVxBCexHFWLlWd.jpg"
+      },
+      {
+        "id": "tt26743760:1:18",
+        "title": "Lakan",
+        "season": 1,
+        "episode": 18,
+        "overview": "Maomao cuida de una antigua prostituta, y aunque a la joven boticaria le gustaría concentrarse en su trabajo, tiene muchas cosas en la cabeza.",
+        "released": "2024-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3nVPYisofFOJuLJHf4zx3RvMdMf.jpg"
+      },
+      {
+        "id": "tt26743760:1:19",
+        "title": "¿Son solo coincidencias?",
+        "season": 1,
+        "episode": 19,
+        "overview": "El círculo se cierra. O mejor dicho: los círculos. ¿Podrá Maomao intervenir a tiempo?",
+        "released": "2024-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5Y1BHMhhCHwWwxAqNoQYGyZvMWk.jpg"
+      },
+      {
+        "id": "tt26743760:1:20",
+        "title": "Estramonio",
+        "season": 1,
+        "episode": 20,
+        "overview": "Maomao explica a Jinshi el trasfondo del incidente en la sala de ceremonias. Pronto queda claro quién está detrás, pero hay un problema...",
+        "released": "2024-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kFOrOTXNY7jhLRpe9PzX7bdPtxA.jpg"
+      },
+      {
+        "id": "tt26743760:1:21",
+        "title": "Al rescate",
+        "season": 1,
+        "episode": 21,
+        "overview": "Maomao se encuentra con un nuevo problema.",
+        "released": "2024-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u1C8TsL5XhXNdZOJrat2q7coqvX.jpg"
+      },
+      {
+        "id": "tt26743760:1:22",
+        "title": "Rosas azules",
+        "season": 1,
+        "episode": 22,
+        "overview": "Jinshi tiene que conseguir rosas azules para la fiesta del jardín. ¿Podrá ayudarle Maomao...?",
+        "released": "2024-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2g0c1GFAnj6MJkOpnRgcfh5emAP.jpg"
+      },
+      {
+        "id": "tt26743760:1:23",
+        "title": "Bálsamo y acederilla",
+        "season": 1,
+        "episode": 23,
+        "overview": "Maomao reta a Rakan a una partida de ajedrez chino. ¿Podrá ganar? ¿Y por qué le gusta tanto el ajedrez a Rakan?",
+        "released": "2024-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gPYAVIMNiBLLfNlF1VVVi9SiECT.jpg"
+      },
+      {
+        "id": "tt26743760:1:24",
+        "title": "Jinshi y Maomao",
+        "season": 1,
+        "episode": 24,
+        "overview": "Lakan cumple su promesa y compra a una cortesana. Maomao celebra la compra bailando bajo las estrellas y bajo la atenta mirada de Jinshi.",
+        "released": "2024-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7eVCn6wFG1RFqxj0IMpaJFtelKr.jpg"
+      },
+      {
+        "id": "tt26743760:1:25",
+        "title": "Maomao y Maomao",
+        "season": 1,
+        "episode": 25,
+        "overview": "Maomao encarga libros nuevos para instruir a las concubinas, pero llegan en un mal momento. Sin embargo, en el palacio interior hay un libro que está en boca de todas y la gente querrá aprender a leer y a escribir. La princesa Lingli saldrá a dar un paseo con Maomao y conocerá a un nuevo amigo.",
+        "released": "2025-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h4tYrFlKXhemuE0YF0ar0EUvroO.jpg"
+      },
+      {
+        "id": "tt26743760:1:26",
+        "title": "Caravana",
+        "season": 1,
+        "episode": 26,
+        "overview": "La caravana desata la emoción en el palacio interior. Los mercaderes traen todo tipo de mercancía. Sin embargo, a Maomao algo le da mala espina.",
+        "released": "2025-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nCapHwoHz6V8VrWCEGiHssz49h0.jpg"
+      },
+      {
+        "id": "tt26743760:1:27",
+        "title": "Hongos saprófitos",
+        "season": 1,
+        "episode": 27,
+        "overview": "Mao Mao investiga la trágica muerte de la concubina Jin por orden de Jinshi. Durante su investigación, una seta en concreto llama su atención.",
+        "released": "2025-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tFPBXCR1Jo9A7ZoUwvPF6HAmCaZ.jpg"
+      },
+      {
+        "id": "tt26743760:1:28",
+        "title": "Espejos",
+        "season": 1,
+        "episode": 28,
+        "overview": "El enviado especial regala espejos a las concubinas de alto rango y tal vez sea la clave para resolver un enigma que preocupa a Gaoshun.",
+        "released": "2025-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z2OTLkElbiOhfsE6IsPMoi00v51.jpg"
+      },
+      {
+        "id": "tt26743760:1:29",
+        "title": "Hada de la luna",
+        "season": 1,
+        "episode": 29,
+        "overview": "Todo está preparado para celebrar el banquete para las enviadas especiales. ¿Podrán ver el hada de la luna que vio su abuelo hace 50 años?",
+        "released": "2025-02-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/143mDiJ8ULLPhoxNUA0hzo1HLGC.jpg"
+      },
+      {
+        "id": "tt26743760:1:30",
+        "title": "Tercera vez en el pabellón de cristal",
+        "season": 1,
+        "episode": 30,
+        "overview": "La mujer de la clínica descubre que Maomao sabe hacer medicinas y le pide ayuda para una sirvienta del pabellón de cristal que ha desaparecido.",
+        "released": "2025-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/whLAWqw9p1j00Kg1SPpkoLBS84N.jpg"
+      },
+      {
+        "id": "tt26743760:1:31",
+        "title": "El templo de la elección",
+        "season": 1,
+        "episode": 31,
+        "overview": "Debido a la petición del emperador, Maomao lo acompaña al templo de la elección. ¿Resolverá el misterio que se enconde detrás de las puertas?",
+        "released": "2025-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7TM4gXLGfSsOcwGI9jNFJou9OpO.jpg"
+      },
+      {
+        "id": "tt26743760:1:32",
+        "title": "La emperatriz viuda",
+        "season": 1,
+        "episode": 32,
+        "overview": "La reputación de Maomao para resolver conflictos llega a los oídos de la emperatriz viuda, que solicitará su ayuda para desentrañar un misterio que no se puede quitar de la cabeza. ¿Tendrá ella algo que ver con la muerte del anterior emperador?",
+        "released": "2025-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jaqu3IEYCdb7a81Ds8alAZzbdci.jpg"
+      },
+      {
+        "id": "tt26743760:1:33",
+        "title": "El anterior emperador",
+        "season": 1,
+        "episode": 33,
+        "overview": "Maomao accede a la habitación del anterior emperador para encontrar una explicación a la supuesta maldición de la emperatriz viuda, pero acaba descubriendo un secreto bien guardado. La emperatriz viuda recuerda su vida en el palacio interior.",
+        "released": "2025-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9ktpNrO00JSCCnJKsQVwJRg3JDA.jpg"
+      },
+      {
+        "id": "tt26743760:1:34",
+        "title": "Una historia de fantasmas",
+        "season": 1,
+        "episode": 34,
+        "overview": "En una calurosa noche de verano, Maomao, Yingua y Shisui se unen a una reunión de historias escalofriantes. Doce mujeres con velas sentadas en círculo en una habitación pequeña y con las ventanas cerradas, comparten sus historias de miedo a las demás.",
+        "released": "2025-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/UcVVBCuaDYl0wYvqc4zpDQGsPt.jpg"
+      },
+      {
+        "id": "tt26743760:1:35",
+        "title": "La cacería",
+        "season": 1,
+        "episode": 35,
+        "overview": "Jinshi quiere que Maomao le acompañe a la cacería porque tiene algo que decirle durante el viaje.",
+        "released": "2025-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t4GzrtK8d5gnYZSDbL6KyWge5UM.jpg"
+      },
+      {
+        "id": "tt26743760:1:36",
+        "title": "Ka Zuigetsu",
+        "season": 1,
+        "episode": 36,
+        "overview": "A Maomao se le ocurre una forma de averiguar quién les ha disparado, pero eso no es lo único que descubrirá.",
+        "released": "2025-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zgjUkqozVrok2N2Psx1mnImB293.jpg"
+      },
+      {
+        "id": "tt26743760:1:37",
+        "title": "Los baños",
+        "season": 1,
+        "episode": 37,
+        "overview": "Xiaolan, preocupada por su futuro, acompaña a Shisui y Maomao a los baños para hacer contactos.",
+        "released": "2025-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kI2zOM5V6GCIIIogL18813FVFws.jpg"
+      },
+      {
+        "id": "tt26743760:1:38",
+        "title": "El fantasma bailarín",
+        "season": 1,
+        "episode": 38,
+        "overview": "Lishu, asustada por la aparición de un fantasma en su baño, recurre a la ayuda de Maomao.",
+        "released": "2025-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bHOorPq5DchhLMjazBlCh2z6JEM.jpg"
+      },
+      {
+        "id": "tt26743760:1:39",
+        "title": "Hielo",
+        "season": 1,
+        "episode": 39,
+        "overview": "Xiaolan se ha metido en un lío y Maomao deberá ayudarla. Por otro lado, Gyokuyou está a punto de dar a luz.",
+        "released": "2025-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Lj3paEEJfyj7p5px9bRYFQ5w8q.jpg"
+      },
+      {
+        "id": "tt26743760:1:40",
+        "title": "Resentimiento acumulado",
+        "season": 1,
+        "episode": 40,
+        "overview": "Gracias a una nota de Luomen, Maomao empieza a atar cabos sin saber lo que le depara el destino.",
+        "released": "2025-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vdCTCYwTYjp0kwXnvKuW9AFD2rw.jpg"
+      },
+      {
+        "id": "tt26743760:1:41",
+        "title": "La aldea del zorro",
+        "season": 1,
+        "episode": 41,
+        "overview": "La concubina Gyokuyou, preocupada por la repentina desaparición de Maomao, recurre a Jinshi.",
+        "released": "2025-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8xfyqGYZZYYRuWELOXRG6iRKxvH.jpg"
+      },
+      {
+        "id": "tt26743760:1:42",
+        "title": "Alquequenje",
+        "season": 1,
+        "episode": 42,
+        "overview": "Mientras Gyokuyou se prepara para dar a luz, Jinshi descubre que Maomao no es la única que ha desaparecido.",
+        "released": "2025-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zqMohdhn3Gktsb3iJuHAFmVFife.jpg"
+      },
+      {
+        "id": "tt26743760:1:43",
+        "title": "Festival",
+        "season": 1,
+        "episode": 43,
+        "overview": "Maomao y Shisui pintan sus máscaras de zorro para honrar al dios de la buena cosecha.",
+        "released": "2025-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wzS7Z2pCm8pb7FRB1RmDRwAM3P9.jpg"
+      },
+      {
+        "id": "tt26743760:1:44",
+        "title": "La fortaleza",
+        "season": 1,
+        "episode": 44,
+        "overview": "Tras el encuentro con la señora Shenmei, llevan a Maomao a la fortaleza para que sea la boticaria del lugar.",
+        "released": "2025-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d5AryVUWdepadXAWQ9HsgxxDI6c.jpg"
+      },
+      {
+        "id": "tt26743760:1:45",
+        "title": "Taibon",
+        "season": 1,
+        "episode": 45,
+        "overview": "Acusan a Maomao de intentar escapar y la arrojan a un antiguo método de tortura y ejecución.",
+        "released": "2025-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oZRwFAUC4l1LkCm8iuiynYiRSqH.jpg"
+      },
+      {
+        "id": "tt26743760:1:46",
+        "title": "La Guardia Real",
+        "season": 1,
+        "episode": 46,
+        "overview": "La guardia real, liderada por Jinshi, llega al lugar, sellando el destino del clan Shi. Maomao quiere salvar a su amiga, Shisui.",
+        "released": "2025-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pR4p2bbc2IX5MIJfHIdmVDTZuxI.jpg"
+      },
+      {
+        "id": "tt26743760:1:47",
+        "title": "El Clan Shi",
+        "season": 1,
+        "episode": 47,
+        "overview": "Shishou y Loulan ejecutan su actuación final, pero antes, Loulan le pedirá dos favores a Jinshi.",
+        "released": "2025-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d6bh5ReV4bruLInJZlGoUXy1Qcp.jpg"
+      },
+      {
+        "id": "tt26743760:1:48",
+        "title": "Un nuevo inicio",
+        "season": 1,
+        "episode": 48,
+        "overview": "Tras la guerra, a Jinshi se le acumula el trabajo y Maomao vuelve al barrio del placer.",
+        "released": "2025-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5QU9GNW9UlLGJUFWGRc1DJXa2KU.jpg"
+      },
+      {
+        "id": "tt26743760:1:49",
+        "title": "Episodio 49",
+        "season": 1,
+        "episode": 49,
+        "released": "2026-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v2k4Nj11mnVwyUhqktOmYr3E4yV.jpg"
+      },
+      {
+        "id": "tt26743760:1:50",
+        "title": "Episodio 50",
+        "season": 1,
+        "episode": 50,
+        "released": "2026-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7DRz65EauLk7RL1MD5x2fhMLG2V.jpg"
+      },
+      {
+        "id": "tt26743760:1:51",
+        "title": "Episodio 51",
+        "season": 1,
+        "episode": 51,
+        "released": "2026-10-16"
+      },
+      {
+        "id": "tt26743760:1:52",
+        "title": "Episodio 52",
+        "season": 1,
+        "episode": 52,
+        "released": "2026-10-23"
+      },
+      {
+        "id": "tt26743760:1:53",
+        "title": "Episodio 53",
+        "season": 1,
+        "episode": 53,
+        "released": "2026-10-30"
+      },
+      {
+        "id": "tt26743760:1:54",
+        "title": "Episodio 54",
+        "season": 1,
+        "episode": 54,
+        "released": "2026-11-06"
+      },
+      {
+        "id": "tt26743760:1:55",
+        "title": "Episodio 55",
+        "season": 1,
+        "episode": 55,
+        "released": "2026-11-13"
+      },
+      {
+        "id": "tt26743760:1:56",
+        "title": "Episodio 56",
+        "season": 1,
+        "episode": 56,
+        "released": "2026-11-20"
+      },
+      {
+        "id": "tt26743760:1:57",
+        "title": "Episodio 57",
+        "season": 1,
+        "episode": 57,
+        "released": "2026-11-27"
+      },
+      {
+        "id": "tt26743760:1:58",
+        "title": "Episodio 58",
+        "season": 1,
+        "episode": 58,
+        "released": "2026-12-04"
+      },
+      {
+        "id": "tt26743760:1:59",
+        "title": "Episodio 59",
+        "season": 1,
+        "episode": 59,
+        "released": "2026-12-11"
+      },
+      {
+        "id": "tt26743760:1:60",
+        "title": "Episodio 60",
+        "season": 1,
+        "episode": 60,
+        "released": "2026-12-18"
+      }
+    ]
   }
 }

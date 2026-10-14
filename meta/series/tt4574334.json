@@ -19,6 +19,386 @@
           "rating": "8.5"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt4574334:1:1",
+        "title": "Capítulo uno: La desaparición de Will Byers",
+        "season": 1,
+        "episode": 1,
+        "overview": "Will es testigo de algo horroroso cuando regresa a casa. Cerca de ahí, un laboratorio gubernamental esconde un terrible secreto en sus profundidades.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg"
+      },
+      {
+        "id": "tt4574334:1:2",
+        "title": "Capítulo dos: La loca de la calle Maple",
+        "season": 1,
+        "episode": 2,
+        "overview": "Lucas, Mike y Dustin intentan hablar con la niña que encontraron. Joyce, muy ansiosa, es interrogada por Hopper sobre una llamada telefónica.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg"
+      },
+      {
+        "id": "tt4574334:1:3",
+        "title": "Capítulo tres: Todo está bien",
+        "season": 1,
+        "episode": 3,
+        "overview": "Nancy, cada vez más preocupada, busca a Barb y descubre lo que Jonathan está tramando. Joyce está segura de que Will intenta comunicarse con ella.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5snULpWQWp7aqFto7UbRcEkEyyS.jpg"
+      },
+      {
+        "id": "tt4574334:1:4",
+        "title": "Capítulo cuatro: El cuerpo",
+        "season": 1,
+        "episode": 4,
+        "overview": "Joyce se rehusa a aceptar que Will está muerto e intenta comunicarse con él, y los chicos ayudan a Once a cambiar de imagen. Nancy y Jonathan forman una alianza.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/60wmC1e20HV8gu688GAhsWxqxPx.jpg"
+      },
+      {
+        "id": "tt4574334:1:5",
+        "title": "Capítulo cinco: La pulga y el acróbata",
+        "season": 1,
+        "episode": 5,
+        "overview": "Hopper entra al laboratorio. Nancy y Jonathan enfrentan a lo que se llevó a Will, y los chicos le preguntan al señor Clarke cómo viajar a otra dimensión.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/exT4NW9EdXG1qLZHKJnRpq3gh1H.jpg"
+      },
+      {
+        "id": "tt4574334:1:6",
+        "title": "Capítulo seis: El monstruo",
+        "season": 1,
+        "episode": 6,
+        "overview": "Jonathan busca a Nancy en la oscuridad y Steve hace lo mismo. Hopper y Joyce descubren la verdad sobre los experimentos del laboratorio.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lNS6qycyucewz3duTr1tf1LU688.jpg"
+      },
+      {
+        "id": "tt4574334:1:7",
+        "title": "Capítulo siete: La bañera",
+        "season": 1,
+        "episode": 7,
+        "overview": "Once intenta llegar hasta Will, y Lucas advierte sobre algo terrible que se avecina. Nancy y Jonathan le muestran a la policía lo que captó con su cámara.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/arjP5c4qHLznbujCrrBVz4Z8Ykl.jpg"
+      },
+      {
+        "id": "tt4574334:1:8",
+        "title": "Capítulo ocho: El otro lado",
+        "season": 1,
+        "episode": 8,
+        "overview": "El doctor Brenner detiene a Hopper y Joyce para un interrogatorio. Los chicos esperan con Once en el gimnasio, mientras que Nancy y Jonathan se preparan para luchar.",
+        "released": "2016-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg"
+      },
+      {
+        "id": "tt4574334:2:1",
+        "title": "Capítulo uno: MADMAX",
+        "season": 2,
+        "episode": 1,
+        "overview": "A unos días de Halloween, los chicos descubren que alguien superó su puntaje en las maquinitas, y Hopper investiga un suceso inusual en un huerto de calabazas.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg"
+      },
+      {
+        "id": "tt4574334:2:2",
+        "title": "Capítulo dos: Dulce o truco, bicho raro",
+        "season": 2,
+        "episode": 2,
+        "overview": "Will ve algo terrible en la noche de Halloween. Por su lado, Mike no pierde la esperanza de que Once esté cerca, y Nancy no supera lo que le sucedió a Barb.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3gzPnRilyASmcoSyUKXhaD5ofhr.jpg"
+      },
+      {
+        "id": "tt4574334:2:3",
+        "title": "Capítulo tres: El renacuajo",
+        "season": 2,
+        "episode": 3,
+        "overview": "Dustin adopta una mascota muy peculiar. Once se siente cada vez más impaciente con su situación, y Bob conversa con Will para ayudarlo a enfrentar sus miedos.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/792NQjFydcr5ucb1sga55LS6Vt3.jpg"
+      },
+      {
+        "id": "tt4574334:2:4",
+        "title": "Capítulo cuatro: Will, el Sabio",
+        "season": 2,
+        "episode": 4,
+        "overview": "La salud de Will empeora y Joyce se percata de la severidad del problema. Hopper intenta llegar hasta la raíz de la verdad, y Once se topa con algo inesperado.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j4FVUW27sMiqk2OTPMtlZ8W4bZS.jpg"
+      },
+      {
+        "id": "tt4574334:2:5",
+        "title": "Capítulo cinco: Dig Dug",
+        "season": 2,
+        "episode": 5,
+        "overview": "Nancy y Jonathan se acercan a un nuevo aliado que tiene su propia teoría sobre los eventos. Once indaga en su pasado, y Bob es clave en un momento crítico.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oshY3LAwQRzhcjmEEr7EbOnypuU.jpg"
+      },
+      {
+        "id": "tt4574334:2:6",
+        "title": "Capítulo seis: El espía",
+        "season": 2,
+        "episode": 6,
+        "overview": "El vínculo entre Will y el monstruo sombra se intensifica mientras todos se preguntan cómo detenerlo. En otro lado, Dustin y Steve forman una alianza inesperada.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y3Npi32SQZ6hGM0LnSQ9ONJyNJY.jpg"
+      },
+      {
+        "id": "tt4574334:2:7",
+        "title": "Capítulo siete: La hermana perdida",
+        "season": 2,
+        "episode": 7,
+        "overview": "Tras una serie de visiones, Once se embarca en una búsqueda que termina lejos de Hawkins, donde conoce a un clan liderado por una chica con un triste pasado.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg"
+      },
+      {
+        "id": "tt4574334:2:8",
+        "title": "Capítulo ocho: El azotamentes",
+        "season": 2,
+        "episode": 8,
+        "overview": "La situación en el Laboratorio Hawkins activa un protocolo de seguridad donde nadie puede salir del lugar, hasta que alguien toma una heroica decisión.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vuLea0DA9rYc9Y4M2Ic28CXL4Al.jpg"
+      },
+      {
+        "id": "tt4574334:2:9",
+        "title": "Capítulo nueve: El portal",
+        "season": 2,
+        "episode": 9,
+        "overview": "Once sabe que la solución está en sus manos y debe terminar lo que inició, mientras los demás se arriesgan con un plan para sofocar a la sombra que posee a Will.",
+        "released": "2017-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cxCf7O5WPHfyXb7PLSJCG6EvXc3.jpg"
+      },
+      {
+        "id": "tt4574334:3:1",
+        "title": "Capítulo uno: ¿Me copias, Suzie?",
+        "season": 3,
+        "episode": 1,
+        "overview": "Con el verano llegan nuevos trabajos y un amor incipiente. Pero todo cambia cuando la radio de Dustin capta una emisión en ruso y Will presiente que algo va mal.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg"
+      },
+      {
+        "id": "tt4574334:3:2",
+        "title": "Capítulo dos: Ratas de centro comercial",
+        "season": 3,
+        "episode": 2,
+        "overview": "Nancy y Jonathan van tras la noticia, Steve y Robin se apuntan a una misión secreta, Maxine y Once se van de compras, y Billy tiene visiones inquietantes.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1XgtGAnheGKfrYtV3mLSFf13AJi.jpg"
+      },
+      {
+        "id": "tt4574334:3:3",
+        "title": "Capítulo tres: El caso de la socorrista desaparecida",
+        "season": 3,
+        "episode": 3,
+        "overview": "Once y Maxine van en busca de Billy, Will declara un día sin chicas, Steve y Dustin emprenden una misión, y Joyce y Hopper vuelven al laboratorio de Hawkins.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oaYdVvYwnvoQ7SLelKUcaAt0HKJ.jpg"
+      },
+      {
+        "id": "tt4574334:3:4",
+        "title": "Capítulo cuatro: La prueba de la sauna",
+        "season": 3,
+        "episode": 4,
+        "overview": "Un código rojo reúne a la pandilla, que se enfrenta a un peligro familiar y aterrador. Karen anima a Nancy a que siga investigando y Robin descubre un mapa muy útil.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tEgd6fXKngAG8eC92dH7ey6Y4eA.jpg"
+      },
+      {
+        "id": "tt4574334:3:5",
+        "title": "Capítulo cinco: El ejército del Azotamentes",
+        "season": 3,
+        "episode": 5,
+        "overview": "Extrañas sorpresas acechan en una vieja casa y en las profundidades del centro comercial Starcourt. Y el Azotamentes cada vez es más fuerte.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg"
+      },
+      {
+        "id": "tt4574334:3:6",
+        "title": "Capítulo seis: E pluribus unum",
+        "season": 3,
+        "episode": 6,
+        "overview": "El doctor Alexei revela lo que construyen los rusos y Once descubre dónde ha estado Billy. Dustin y Erica montan una operación de rescate muy audaz.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg"
+      },
+      {
+        "id": "tt4574334:3:7",
+        "title": "Capítulo siete: La mordedura",
+        "season": 3,
+        "episode": 7,
+        "overview": "Con el tiempo a punto de agotarse y un asesino al acecho, el equipo de Hopper vuelve a toda prisa a Hawkins, donde Ce y la pandilla se preparan para la batalla.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg"
+      },
+      {
+        "id": "tt4574334:3:8",
+        "title": "Capítulo ocho: La batalla de Starcourt",
+        "season": 3,
+        "episode": 8,
+        "overview": "El terror se apodera de la zona de restaurantes cuando aparece el Azotamentes, pero, en el subsuelo, el futuro del mundo está en juego.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5YcjTWas07RteM9lssOzL9UhmJh.jpg"
+      },
+      {
+        "id": "tt4574334:4:1",
+        "title": "El club Fuego Infernal",
+        "season": 4,
+        "episode": 1,
+        "overview": "Ce no puede defenderse de los abusones de su nuevo instituto. Joyce abre un paquete muy misterioso. En Hawkins, alguien inesperado arrasa en el club Fuego Infernal.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xeNKubDmPiMraW4hXqzEBrN6f4A.jpg"
+      },
+      {
+        "id": "tt4574334:4:2",
+        "title": "La maldición de Vecna",
+        "season": 4,
+        "episode": 2,
+        "overview": "Mientras Mike pone rumbo a California, la aparición de un cadáver sacude Hawkins. Nancy sale a buscar pistas. Eddie, muy afectado, le cuenta a la pandilla lo que vio.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lSSWqv7XrO51uY2uc4lql9Hub3f.jpg"
+      },
+      {
+        "id": "tt4574334:4:3",
+        "title": "El monstruo y la superheroína",
+        "season": 4,
+        "episode": 3,
+        "overview": "Murray y Joyce vuelan a Alaska. Ce se enfrenta a graves consecuencias. Robin y Nancy investigan el lado oscuro de Hawkins. El Dr. Owens tiene una noticia inquietante.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6q1UM63T5tiQcWrbsJvY3bunkyZ.jpg"
+      },
+      {
+        "id": "tt4574334:4:4",
+        "title": "Querido Billy",
+        "season": 4,
+        "episode": 4,
+        "overview": "Max corre un grave peligro... y se está quedando sin tiempo. Un paciente del psiquiátrico Pennhurst recibe una visita. En Rusia, Hopper sigue buscando la forma de huir.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u3LeFRR7AhyPp4y0Ii7hpkD488b.jpg"
+      },
+      {
+        "id": "tt4574334:4:5",
+        "title": "El proyecto Nina",
+        "season": 4,
+        "episode": 5,
+        "overview": "Owens lleva a Ce a Nevada, donde se ve forzada a afrontar su pasado. Los chicos de Hawkins registran una casa derruida en busca de pistas. Vecna se cobra otra víctima.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yvXXeBv4zfDgwcZyxqH5LJAe4oV.jpg"
+      },
+      {
+        "id": "tt4574334:4:6",
+        "title": "La inmersión",
+        "season": 4,
+        "episode": 6,
+        "overview": "Tras el Telón de Acero, una peligrosa misión de rescate empieza a tomar forma. La pandilla de California le pide ayuda a una hacker. Steve se sacrifica por el equipo.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9EbhReDcbfmqLhDBg0Rn97z4lT.jpg"
+      },
+      {
+        "id": "tt4574334:4:7",
+        "title": "La masacre en el Laboratorio de Hawkins",
+        "season": 4,
+        "episode": 7,
+        "overview": "Hopper se prepara para enfrentarse a un monstruo. Dustin investiga las intenciones de Vecna y descifra un mensaje del otro mundo. Ce encuentra fuerzas en un recuerdo.",
+        "released": "2022-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n64hMYFaVunT8jqSVgYq5qt0Vbn.jpg"
+      },
+      {
+        "id": "tt4574334:4:8",
+        "title": "Papá",
+        "season": 4,
+        "episode": 8,
+        "overview": "Nancy tiene visiones aleccionadoras y El pasa una prueba importante. De vuelta en Hawkins, la pandilla reúne suministros y se prepara para la batalla.",
+        "released": "2022-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/XhpquP7GFEDzKIHTAPX6vI8Phd.jpg"
+      },
+      {
+        "id": "tt4574334:4:9",
+        "title": "El huésped",
+        "season": 4,
+        "episode": 9,
+        "overview": "Con corazones desinteresados ​​y un choque de metales, los héroes luchan desde todos los rincones del campo de batalla para salvar a Hawkins, y al mundo mismo.",
+        "released": "2022-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fvoa0Hosu4yK7TUiHglV8TvjMUB.jpg"
+      },
+      {
+        "id": "tt4574334:5:1",
+        "title": "Capítulo uno: La misión",
+        "season": 5,
+        "episode": 1,
+        "overview": "Noviembre de 1987. El grupo evade al ejército para entrar al Otro Lado y encontrar a Vecna. Pero lo que no sabe es que la amenaza se encuentra más cerca de lo que creen.",
+        "released": "2025-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aOOOdhkmhncbikMVqXfVxwQ6lQw.jpg"
+      },
+      {
+        "id": "tt4574334:5:2",
+        "title": "Capítulo dos: La desaparición de...",
+        "season": 5,
+        "episode": 2,
+        "overview": "Ante el brutal ataque ocurrido en casa de los Wheeler, Mike y Nancy empiezan a sentir el costo de su ocultamiento, y Once y Hopper emprenden una misión de rescate.",
+        "released": "2025-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/loM7T7Mwd849wFaWj9KPlNNSHZr.jpg"
+      },
+      {
+        "id": "tt4574334:5:3",
+        "title": "Capítulo tres: La trampa de Turnbow",
+        "season": 5,
+        "episode": 3,
+        "overview": "Will percibe el siguiente paso de Vecna, lo que le da al grupo la oportunidad de tenderle una trampa. Holly explora su nuevo entorno.",
+        "released": "2025-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iCsM4oeBM9PIESD6PJw7mWO1xbl.jpg"
+      },
+      {
+        "id": "tt4574334:5:4",
+        "title": "Capítulo cuatro: Hechicero",
+        "season": 5,
+        "episode": 4,
+        "overview": "El ejército arrecia su control sobre Hawkins. Mike, Lucas y Robin idean un arriesgado plan de escape. Once se encuentra cara a cara con su rival.",
+        "released": "2025-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r0uVKBsPj74lQGNRdC9IM2P5roW.jpg"
+      },
+      {
+        "id": "tt4574334:5:5",
+        "title": "Capítulo cinco: Electrochoque",
+        "season": 5,
+        "episode": 5,
+        "overview": "El grupo idea un plan electrizante para reconectar a Will con la mente colmena. Surgen tensiones durante la búsqueda del Laboratorio Hawkins en el Otro Lado.",
+        "released": "2025-12-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A9gML0mmuyE2m3hGK0eZZA2tRPg.jpg"
+      },
+      {
+        "id": "tt4574334:5:6",
+        "title": "Capítulo seis: La huida de Camazotz",
+        "season": 5,
+        "episode": 6,
+        "overview": "Mientras Holly y Max luchan por escapar de la mente de Vecna, Once debe hallar la forma de llegar a Will. Joyce lidia con la culpa. Jonathan y Nancy enfrentan un momento decisivo.",
+        "released": "2025-12-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zwJuStMjSOT1jaPUkX3dweIciRs.jpg"
+      },
+      {
+        "id": "tt4574334:5:7",
+        "title": "Capítulo siete: El puente",
+        "season": 5,
+        "episode": 7,
+        "overview": "En el aniversario de la desaparición de Will, el grupo se prepara para una batalla que podría cambiar el mundo.",
+        "released": "2025-12-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xJv3oJoVQqITux8N9isJfb1Ao6g.jpg"
+      },
+      {
+        "id": "tt4574334:5:8",
+        "title": "Capítulo ocho: Este Lado",
+        "season": 5,
+        "episode": 8,
+        "overview": "Mientras Vecna se prepara para destruir el mundo, el grupo deberá arriesgarlo todo para derrotarlo de una vez por todas.",
+        "released": "2025-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kP23RWbUWM6vGhT9PxFyP5VT3y4.jpg"
+      }
+    ]
   }
 }

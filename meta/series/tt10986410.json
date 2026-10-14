@@ -18,6 +18,404 @@
           "rating": "8.4"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt10986410:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "El entrenador de futbol americano Ted Lasso es contratado, por una divorciada rica, para entrenar al equipo de fútbol soccer inglés, AFC Richmond.",
+        "released": "2020-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8YJqx02JNMu9gNX7Ok7qgaNJJgl.jpg"
+      },
+      {
+        "id": "tt10986410:1:2",
+        "title": "Bollos",
+        "season": 1,
+        "episode": 2,
+        "overview": "Es el primer día de Ted como entrenador, y los fanáticos no están contentos. Logra poco progreso, pero eso no lo inmuta. El equipo juega su primer partido.",
+        "released": "2020-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2pNZYWhkY0DdUyVU8FEaYDSSfTW.jpg"
+      },
+      {
+        "id": "tt10986410:1:3",
+        "title": "Trent Crimm: The Independent",
+        "season": 1,
+        "episode": 3,
+        "overview": "Para organizar un artículo de perfil, Rebecca junta al cínico periodista, Trent Crimm, con Ted por un día. Ted y Roy se aventuran en la comunidad.",
+        "released": "2020-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/N280y3IWDEEimlOVxmvRljkKIN.jpg"
+      },
+      {
+        "id": "tt10986410:1:4",
+        "title": "Por los niños",
+        "season": 1,
+        "episode": 4,
+        "overview": "Rebecca conduce la gala benéfica anual del equipo, donde Ted organiza una reconciliación entre Roy y Jamie.",
+        "released": "2020-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fbWzpmQlFENbnS6GbvHZhzywozo.jpg"
+      },
+      {
+        "id": "tt10986410:1:5",
+        "title": "Líneas de bronceado",
+        "season": 1,
+        "episode": 5,
+        "overview": "Su esposa e hijo lo visitan desde Estados Unidos y Ted realiza cambios drásticos en la alineación durante un partido crítico.",
+        "released": "2020-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p4KDV9hxszklNHdkRm564qWfq9R.jpg"
+      },
+      {
+        "id": "tt10986410:1:6",
+        "title": "Dos ases",
+        "season": 1,
+        "episode": 6,
+        "overview": "Cuando Jamie se niega a entrenar, Ted recurre a Dani Rojas, un fichaje nuevo con grandes dotes. El equipo se enfrenta a una antigua maldición.",
+        "released": "2020-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o9g5v73OPWNA0lP4R0QrOgTrH0k.jpg"
+      },
+      {
+        "id": "tt10986410:1:7",
+        "title": "El resurgir de Rebecca",
+        "season": 1,
+        "episode": 7,
+        "overview": "Rebecca celebra su primer año de divorciada durante un partido del equipo en Liverpool.",
+        "released": "2020-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iHc295TFzpmAMstLQvJe00oiF6G.jpg"
+      },
+      {
+        "id": "tt10986410:1:8",
+        "title": "Los perros maravilla",
+        "season": 1,
+        "episode": 8,
+        "overview": "Tanto Ted como Roy tienen problemas de relación. Ted consulta a los Perros Maravilla y Roy habla con Keeley.",
+        "released": "2020-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bEs22idG5SWG1qObfyMnCGavjMN.jpg"
+      },
+      {
+        "id": "tt10986410:1:9",
+        "title": "Las disculpas",
+        "season": 1,
+        "episode": 9,
+        "overview": "Después de una serie de errores en la cancha, la presión para sacar a Roy aumenta. Rebecca suelta una bomba.",
+        "released": "2020-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rmNyV9dUPi7VeluqxYq0OFFCKNs.jpg"
+      },
+      {
+        "id": "tt10986410:1:10",
+        "title": "La esperanza mata",
+        "season": 1,
+        "episode": 10,
+        "overview": "Richmond juega un partido culminante que determinará el destino de Ted y su club.",
+        "released": "2020-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i6AD9UGfac5wyP2wADG5cWS7EIZ.jpg"
+      },
+      {
+        "id": "tt10986410:2:1",
+        "title": "Adiós, Earl",
+        "season": 2,
+        "episode": 1,
+        "overview": "El AFC Richmond trae a una psicóloga deportiva para ayudar al equipo a superar la racha de siete empates nunca antes vista.",
+        "released": "2021-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aF1iNdd5TPohcgju8Rp2bd1Xw2j.jpg"
+      },
+      {
+        "id": "tt10986410:2:2",
+        "title": "Lavanda",
+        "season": 2,
+        "episode": 2,
+        "overview": "Ted se sorprende por la reaparición de una cara familiar. Roy prueba un nuevo trabajo.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/87k8iaXYpfzpCkHpZ80naE4K6z4.jpg"
+      },
+      {
+        "id": "tt10986410:2:3",
+        "title": "Haz lo correcto",
+        "season": 2,
+        "episode": 3,
+        "overview": "Rebecca recibe una visita especial que la acompaña en el trabajo. El equipo no recibe con gusto el regreso de un jugador.",
+        "released": "2021-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jkCAUGWBTXC1WCN8qtEV1XXGAIb.jpg"
+      },
+      {
+        "id": "tt10986410:2:4",
+        "title": "Carol of the Bells",
+        "season": 2,
+        "episode": 4,
+        "overview": "La Navidad llegó a Richmond. Rebecca recluta a Ted para una misión secreta, Roy y Keeley buscan un milagro y la familia Higgins recibe a todos en su casa.",
+        "released": "2021-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4QqNRZm2znQqRUR4yfzvhWZTvk6.jpg"
+      },
+      {
+        "id": "tt10986410:2:5",
+        "title": "Arcoíris",
+        "season": 2,
+        "episode": 5,
+        "overview": "Nate aprende a ser asertivo gracias a Keeley y Rebecca. Ted le pide un favor a Roy.",
+        "released": "2021-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kgeoLHpUoMu3d51b15HHGGERkol.jpg"
+      },
+      {
+        "id": "tt10986410:2:6",
+        "title": "La señal",
+        "season": 2,
+        "episode": 6,
+        "overview": "Ted está emocionado porque la nueva dinámica del equipo parece funcionar. ¿Pero tendrán una oportunidad en los cuartos de final?",
+        "released": "2021-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9ZTUnRqBUid0GDZXZI5PAS0kcNt.jpg"
+      },
+      {
+        "id": "tt10986410:2:7",
+        "title": "Estado mental",
+        "season": 2,
+        "episode": 7,
+        "overview": "Ahora que las cosas cambian para Richmond, es hora de que todos trabajen en sus problemas, como el disgusto de Ted, la confianza de Nate y la atención de Roy.",
+        "released": "2021-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dc4tFi28QBr88Ceg5gr3a6Hv52k.jpg"
+      },
+      {
+        "id": "tt10986410:2:8",
+        "title": "Man City",
+        "season": 2,
+        "episode": 8,
+        "overview": "Ted y la doctora Sharon se dan cuenta de que quizás tengan que ceder y hacer un compromiso. Las tensiones se elevan mientras el equipo se prepara para la semifinal.",
+        "released": "2021-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dj17acHQ9wz6uaADDzBL1D1mmCp.jpg"
+      },
+      {
+        "id": "tt10986410:2:9",
+        "title": "Beard después de hora",
+        "season": 2,
+        "episode": 9,
+        "overview": "Después de la semifinal, Beard emprende una odisea nocturna por Londres en un esfuerzo por aclarar sus pensamientos.",
+        "released": "2021-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2cofiHu8S96oZry9ovOJhIpO8gN.jpg"
+      },
+      {
+        "id": "tt10986410:2:10",
+        "title": "Cero bodas y un funeral",
+        "season": 2,
+        "episode": 10,
+        "overview": "Rebecca queda atónita por una pérdida repentina. El equipo se reúne para mostrar su apoyo, pero Ted debe de lidiar con una parte de su pasado.",
+        "released": "2021-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ViXiMxiKH7WYYB6OfQzkoegdK9.jpg"
+      },
+      {
+        "id": "tt10986410:2:11",
+        "title": "Tren de medianoche a Royston",
+        "season": 2,
+        "episode": 11,
+        "overview": "Mientras que un multimillonario de Ghana, entusiasta del fútbol, le hace una oferta increíble a Sam, Ted planea algo especial para el último día de la doctora Sharon con el equipo.",
+        "released": "2021-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/clp0O56bsvz707xQAI44KfSMOft.jpg"
+      },
+      {
+        "id": "tt10986410:2:12",
+        "title": "Pirámide del éxito invertida",
+        "season": 2,
+        "episode": 12,
+        "overview": "En el final de la temporada, Richmond tiene la oportunidad de ganar el ascenso, mientras que Ted lidia con las consecuencias del artículo dolorosamente honesto de Trent Crimm.",
+        "released": "2021-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rc1YAVoHcTexCtVL8RGqdorzVUP.jpg"
+      },
+      {
+        "id": "tt10986410:3:1",
+        "title": "El espíritu de la burla",
+        "season": 3,
+        "episode": 1,
+        "overview": "El recién ascendido AFC Richmond se enfrenta a las burlas de los expertos, que predicen que acabará último esta temporada.",
+        "released": "2023-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hXSVyhVjhSbhGJFHB4rBP7bgqrB.jpg"
+      },
+      {
+        "id": "tt10986410:3:2",
+        "title": "(No quiero ir a) Chelsea",
+        "season": 3,
+        "episode": 2,
+        "overview": "La noticia de que uno de los mejores jugadores quiere mudarse a Londres desata el frenesí en los clubes ingleses. Richmond juega su primer partido de vuelta en la Premier League.",
+        "released": "2023-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wpcIswewy5vpcyLQokIUSlVZZaf.jpg"
+      },
+      {
+        "id": "tt10986410:3:3",
+        "title": "4-5-1",
+        "season": 3,
+        "episode": 3,
+        "overview": "Richmond se adapta a un cambio emocionante, pero Jamie tiene sus dudas. Ted se entera de que también hay algo nuevo en Kansas.",
+        "released": "2023-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AtfVkDAULlQs7paOg29l8GdyOJx.jpg"
+      },
+      {
+        "id": "tt10986410:3:4",
+        "title": "Semana importante",
+        "season": 3,
+        "episode": 4,
+        "overview": "Todos sienten la presión mientras Richmond se prepara para jugar contra West Ham. Ted se reencuentra con un viejo amigo.",
+        "released": "2023-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3D4PRphUaWTkMm6sBDSLcYdTpX2.jpg"
+      },
+      {
+        "id": "tt10986410:3:5",
+        "title": "Señales",
+        "season": 3,
+        "episode": 5,
+        "overview": "Con la temporada en picada, Richmond intenta enderezar el rumbo contra el poderoso Manchester City. Fuera del campo, cada uno se enfrenta a sus propios contratiempos",
+        "released": "2023-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vpeqM8IlIUfujtCARPyn06dBrBn.jpg"
+      },
+      {
+        "id": "tt10986410:3:6",
+        "title": "Girasoles",
+        "season": 3,
+        "episode": 6,
+        "overview": "Un partido amistoso lleva al equipo a Ámsterdam, donde una noche de fiesta revela verdades para muchos.",
+        "released": "2023-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dCzd2x3CLkuQHjfBUH0cPlUS1ok.jpg"
+      },
+      {
+        "id": "tt10986410:3:7",
+        "title": "Las cuerdas que nos atan",
+        "season": 3,
+        "episode": 7,
+        "overview": "Los Galgos prueban una nueva estrategia que hace que todos piensen diferente. Sam se prepara para recibir a un invitado muy especial en Ola's.",
+        "released": "2023-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sgQ3LVQIpUIGdbmh6cCLpKaLu9i.jpg"
+      },
+      {
+        "id": "tt10986410:3:8",
+        "title": "Jamás tendremos París",
+        "season": 3,
+        "episode": 8,
+        "overview": "Henry está de visita y Ted lucha contra el impulso de enloquecer cuando Michelle y el Dr. Jacob se van a un viaje romántico. Una filtración tiene repercuciones graves para Keeley.",
+        "released": "2023-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6adMLW7wE4BoQl88QZ1VAhtgzI4.jpg"
+      },
+      {
+        "id": "tt10986410:3:9",
+        "title": "El vestidor aux folles",
+        "season": 3,
+        "episode": 9,
+        "overview": "La amistad de Colin e Isaac se pone a prueba. Piden que Roy haga una rueda de prensa.",
+        "released": "2023-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q7XTLOBtk7NN8f98LPDJzobyPVZ.jpg"
+      },
+      {
+        "id": "tt10986410:3:10",
+        "title": "Internacionales",
+        "season": 3,
+        "episode": 10,
+        "overview": "Mientras algunos Galgos van a casa para jugar con sus equipos en partidos internacionales, Edwin Akufo le propone un negocio a Rebecca.",
+        "released": "2023-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nwwJ7vefKslxMRnpKImalnaa3Hy.jpg"
+      },
+      {
+        "id": "tt10986410:3:11",
+        "title": "Mamanchester City",
+        "season": 3,
+        "episode": 11,
+        "overview": "Una visita inesperada pone nervioso a Ted. Cuando Richmond viaja a Manchester para el gran partido, Roy y Keeley se preocupan por Jamie.",
+        "released": "2023-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nAWyJ1tTL8pngx8fNva3yGrwMTI.jpg"
+      },
+      {
+        "id": "tt10986410:3:12",
+        "title": "Adiós, nos vemos",
+        "season": 3,
+        "episode": 12,
+        "overview": "Richmond juega su último partido de la temporada.",
+        "released": "2023-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mzXyUzK6sZbvpnZB3qVv4jcCFv0.jpg"
+      },
+      {
+        "id": "tt10986410:4:1",
+        "title": "Hogar",
+        "season": 4,
+        "episode": 1,
+        "overview": "Años tras que Ted dejara al Richmond, unos rostros conocidos lo visitan en Kansas... ¿o era Misuri?",
+        "released": "2026-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xKnpiILK8q0FR1DgNvsYBdKuFDN.jpg"
+      },
+      {
+        "id": "tt10986410:4:2",
+        "title": "Curioso y más curioso",
+        "season": 4,
+        "episode": 2,
+        "overview": "Ted regresa a Richmond para conocer a las Chicas Galgo, pero no todos se alegran de verlo.",
+        "released": "2026-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pZyxQIKZ5on9XKi5Z2AazEOQtAK.jpg"
+      },
+      {
+        "id": "tt10986410:4:3",
+        "title": "Jugando por un sueño",
+        "season": 4,
+        "episode": 3,
+        "overview": "Los accionistas del Richmond dudan del equipo femenil. Los coaches hacen audiciones para llenar la plantilla.",
+        "released": "2026-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s0wKqFThue5D6pHAmifyavh0F6G.jpg"
+      },
+      {
+        "id": "tt10986410:4:4",
+        "title": "Galgos expertas en diversión",
+        "season": 4,
+        "episode": 4,
+        "overview": "Los coaches deben averiguar cómo deshacer los grupitos. Ted se ajusta a su vida afuera de los vestidores.",
+        "released": "2026-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gtiRKXc236bBIsRGt70MFtZBxNf.jpg"
+      },
+      {
+        "id": "tt10986410:4:5",
+        "title": "La riqueza en la vergüenza",
+        "season": 4,
+        "episode": 5,
+        "overview": "Las chicas se enfrentan al Chelsea. Alice siente la presión. Rebecca navega una dinámica complicada.",
+        "released": "2026-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cS29Dq8ybdHYfW80E7VkTcWYvCZ.jpg"
+      },
+      {
+        "id": "tt10986410:4:6",
+        "title": "Ya no saltes mucho",
+        "season": 4,
+        "episode": 6,
+        "overview": "¡Es Año Nuevo! El equipo celebra a lo grande. Rebecca, Roy y Keeley festejan con un viejo amigo.",
+        "released": "2026-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jlPiWkgBJfeKRc7Nrv8qDrjfKyS.jpg"
+      },
+      {
+        "id": "tt10986410:4:7",
+        "title": "Sí, y nena",
+        "season": 4,
+        "episode": 7,
+        "overview": "Alice y Ted intentan salir de sus zonas de confort. Zelda ayuda al Richmond con un problema nuevo.",
+        "released": "2026-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qhJLxwCUww1G9Mf4s2GbhRahIG0.jpg"
+      },
+      {
+        "id": "tt10986410:4:8",
+        "title": "Sigue el enojo",
+        "season": 4,
+        "episode": 8,
+        "overview": "Las Chicas Galgo enfrentan un contratiempo difícil. Roy y Keeley se preparan para el Muro de Leyendas.",
+        "released": "2026-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/joWTEQMXshE2ZB0zHijPqCwMhLa.jpg"
+      },
+      {
+        "id": "tt10986410:4:9",
+        "title": "Mae va en el autobús",
+        "season": 4,
+        "episode": 9,
+        "overview": "Los ánimos están bajos, pero hay más en juego que nunca. Mae viaja con el equipo. Keeley tiene noticias.",
+        "released": "2026-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sjwYxuNhvkxourHGtazQ7zoL0Qt.jpg"
+      },
+      {
+        "id": "tt10986410:4:10",
+        "title": "Vivir la vida",
+        "season": 4,
+        "episode": 10,
+        "overview": "Grandes cambios por doquier.",
+        "released": "2026-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5xHtC62mNKDRnNA7aMXeM1zwhzc.jpg"
+      }
+    ]
   }
 }

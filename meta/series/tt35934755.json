@@ -18,6 +18,62 @@
           "rating": "7.3"
         }
       }
-    }
+    },
+    "videos": [
+      {
+        "id": "tt35934755:1:1",
+        "title": "El Año de Regreso a Casa",
+        "season": 1,
+        "episode": 1,
+        "overview": "Justo cuando Calvin Penney recibe a su familia en casa para una postergada reunión, una aparición inesperada comienza a hacer olas por todo el pueblo de Snooks Arm.",
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s7jZsND51grOCtkXMiLvyNR1Ue6.jpg"
+      },
+      {
+        "id": "tt35934755:1:2",
+        "title": "Corona y Ancla",
+        "season": 1,
+        "episode": 2,
+        "overview": "Calvin hace equipo con una científica marina, la Dra. Fonda Howander, para investigar algunos sucesos extraños. Su hijo Wade intenta encontrarles sentido a sus inquietantes sueños.",
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8OakXwrVcz9EfA9O0wSW6BGjf83.jpg"
+      },
+      {
+        "id": "tt35934755:1:3",
+        "title": "Sir John Franklin",
+        "season": 1,
+        "episode": 3,
+        "overview": "Wade y Calvin se encuentran con unos misteriosos recién llegados. Fonda advierte al pueblo sobre una amenaza marina..., mientras el miedo se propaga por toda la comunidad.",
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5yMl70GufDi19y69fEdYKfKo7wN.jpg"
+      },
+      {
+        "id": "tt35934755:1:4",
+        "title": "El océano nos matará a todos",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mientras los forasteros arrastran a Calvin a la arriesgada caza de la criatura, un peligro imprevisto comienza a cercar a su familia y al resto del pueblo...",
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7NPEWtVHa0YqdFL8rFt75RKZQm1.jpg"
+      },
+      {
+        "id": "tt35934755:1:5",
+        "title": "Little Pot Rock",
+        "season": 1,
+        "episode": 5,
+        "overview": "Calvin descubre una verdad perturbadora sobre su pasado. Fonda encuentra algo desconcertante, y llega una visita inesperada.",
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7eoSmnHUiEkConnsbimZPbfhGba.jpg"
+      },
+      {
+        "id": "tt35934755:1:6",
+        "title": "Las profundidades de no ser padre",
+        "season": 1,
+        "episode": 6,
+        "overview": "Cuando se revelan los verdaderos motivos detrás de la crisis y empieza la evacuación, Calvin, su familia y Fonda idean un arriesgado plan para salvar al pueblo.",
+        "released": "2026-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hTwvypom5WQB6yKO9DbJkz2rs0N.jpg"
+      }
+    ]
   }
 }
