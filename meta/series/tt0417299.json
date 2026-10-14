@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "id": "tt0417299",
+    "type": "series",
+    "name": "Avatar: La leyenda de Aang",
+    "poster": "https://image.tmdb.org/t/p/w500/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+    "posterShape": "poster",
+    "description": "El mundo está dividido en cuatro naciones, correspondientes a los cuatro elementos: La Tribu del Agua, El Reino de la Tierra, la Nación del Fuego y los Nómadas del Aire. En cada nación hay una notable orden llamada de los \"Maestros\" que aprenden a potenciar su talento nato y manipular su elemento nativo, combinando artes marciales y magia elemental. En cada generación, sólo un Maestro es capaz de controlar los cuatro elementos, y recibe el nombre de Avatar, el espíritu del mundo manifestado en forma humana, capaz de mantener la armonía de las cuatro naciones.",
+    "releaseInfo": "2005",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0417299:1:1",
+        "title": "El niño en el iceberg",
+        "season": 1,
+        "episode": 1,
+        "overview": "Dos jóvenes hermanos (Sokka y Katara) que viven en el Polo Sur descubren un niño muy extraño junto con su bisonte volador y mascota Appa, en un iceberg. Pero, ¿pueden ellos confiar en él cuando él accidentalmente atrae la guerra a la puerta de su casa?.",
+        "released": "2005-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8aw8amxBvWCLWas1UhPESOiysow.jpg"
+      },
+      {
+        "id": "tt0417299:1:2",
+        "title": "El Regreso del Avatar",
+        "season": 1,
+        "episode": 2,
+        "overview": "Zuko, el príncipe desterrado de la Nación del Fuego, ataca la Tribu Agua del Sur en busca del Avatar, forzando a Aang a revelar su verdadera identidad a la tribu, que hasta el momento era desconocía.",
+        "released": "2005-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zGktHJTiPypAqJd0yG3EVoznxqE.jpg"
+      },
+      {
+        "id": "tt0417299:1:3",
+        "title": "El Templo del Aire del Sur",
+        "season": 1,
+        "episode": 3,
+        "overview": "Aang, Sokka y Katara exploran el Templo del Aire del Sur, el hogar de Aang. Mientras tanto, Zuko y su tío, Iroh, llevan su barco a reparar a un puerto de la Nación del Fuego, comandado por uno de los rivales de Zuko: el Comandante Zhao. El mundo entero conoce del regreso del avatar.",
+        "released": "2005-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bFBUv2VDtyBuilulFynsNGPINnw.jpg"
+      },
+      {
+        "id": "tt0417299:1:4",
+        "title": "Las Guerreras de Kyoshi",
+        "season": 1,
+        "episode": 4,
+        "overview": "Mientras Aang y sus amigos comienzan a cruzar el inmenso Reino Tierra, son capturados por las guerreras de la Isla Kyoshi. Sokka es entrenado por estas guerreras del Reino Tierra mientras que la reverencia y admiración del pueblo hacia Aang por el hecho de ser el avatar comienza a provocar arrogancia en él. Mientras tanto, el Príncipe Zuko encuentra su localización y continúa la persecución.",
+        "released": "2005-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4VNx9JspNnWZibkkr7XydYPHh2m.jpg"
+      },
+      {
+        "id": "tt0417299:1:5",
+        "title": "El Rey de Omashu",
+        "season": 1,
+        "episode": 5,
+        "overview": "Aang, Sokka y Katara llegan a la segunda ciudad más grande del reino tierra, la ciudad de Omashu. Cuando son detenidos por destrucción de coles son llevados en donde esta el rey de Omashu, es entonces cuando el rey descubre la verdadera identidad de Aang. Es entonces cuando el rey desafía a Aang a tres difíciles pruebas, las cuales requieren un pensamiento creativo, a cambio de salvar a sus amigos.",
+        "released": "2005-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6p6CR7ITrtaYEo0IewpFfMVowB8.jpg"
+      },
+      {
+        "id": "tt0417299:1:6",
+        "title": "Prisionera",
+        "season": 1,
+        "episode": 6,
+        "overview": "Aang, Katara y Sokka llegan a una pequeña villa del Reino Tierra donde descubren que está siendo controlada por la Nación del Fuego, y todos los maestros tierra fueron capturados y tomados prisioneros. Cuando Katara accidentalmente causa que un joven maestro tierra llamado Haru sea arrestado por los guardias, ella planea cómo salvarlo.",
+        "released": "2005-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hVnpU1sh2vf5yG5CqpNTga8JsIz.jpg"
+      },
+      {
+        "id": "tt0417299:1:7",
+        "title": "Solsticio de Invierno (1): El Mundo Espíritu",
+        "season": 1,
+        "episode": 7,
+        "overview": "Aang se encuentra en el Mundo de los Espíritus, y nota que el Avatar Roku tiene un mensaje para él. Mientras tanto, cuando Iroh es capturado por soldados del Reino Tierra, Zuko es obligado a escoger entre encontrar al Avatar y salvar a su tio.",
+        "released": "2005-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/84v2Ct07JEyvb4taXwO3RQp36xV.jpg"
+      },
+      {
+        "id": "tt0417299:1:8",
+        "title": "Solsticio de Invierno (2): El Avatar Roku",
+        "season": 1,
+        "episode": 8,
+        "overview": "Para hablar con el Avatar Roku, Aang primero debe luchar contra Zuko y el Almirante Zhao para llegar a uno de los Templos del Avatar - localizado dentro de los límites de la Nación del Fuego.",
+        "released": "2005-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sldutF2OxhxhgLQM6Yc4NhYdmz9.jpg"
+      },
+      {
+        "id": "tt0417299:1:9",
+        "title": "El Pergamino de los Maestros Agua",
+        "season": 1,
+        "episode": 9,
+        "overview": "Aang y sus amigos encuentran problemas cuando Katara roba un pergamino maestro agua de unos piratas. Mientras tanto, Zuko cree que el viaje de su tío al mercado es sólo una pérdida de tiempo, pero encuentra a algunos poderosos aliados.",
+        "released": "2005-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c4xpfkn2iRVr50hal2NPu7mbZSC.jpg"
+      },
+      {
+        "id": "tt0417299:1:10",
+        "title": "Jet",
+        "season": 1,
+        "episode": 10,
+        "overview": "Sokka se encuentra en extrañas situaciones frente a Jet, un luchador por la libertad del Reino Tierra, de quien Aang se hace rápidamente amigo y Katara se interesa románticamente en él.",
+        "released": "2005-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nLZWMGaeTLM4gWTcq9G4iFQoCI4.jpg"
+      },
+      {
+        "id": "tt0417299:1:11",
+        "title": "La Gran División",
+        "season": 1,
+        "episode": 11,
+        "overview": "Dos tribus rivales del Reino Tierra deben cruzar el mismo cañón al mismo tiempo y Aang, Katara y Sokka quedan en el medio de esta disputa.",
+        "released": "2005-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jEOJm6lrvO0zkv6hR9t1Zh6hn6y.jpg"
+      },
+      {
+        "id": "tt0417299:1:12",
+        "title": "La Tormenta",
+        "season": 1,
+        "episode": 12,
+        "overview": "Una poderosa e inesperada tormenta hace que Aang y Iroh tengan malos recuerdos: Iroh explica a su tripulación sobre el destierro de Zuko, mientras Aang le cuenta a Katara cómo terminó en el iceberg en el cual quedó atrapado durante 100 años.",
+        "released": "2005-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iozJW3tvjJYkAG9NbVCfhUbN5jW.jpg"
+      },
+      {
+        "id": "tt0417299:1:13",
+        "title": "El Espíritu Azul",
+        "season": 1,
+        "episode": 13,
+        "overview": "Katara y Sokka enferman, pero cuando Aang busca la medicina es capturado por la Nación del Fuego. Mientras es prisionero en el fuerte de la Nación del Fuego por Zhao (ahora ascendido a Almirante), Aang conoce al misterioso Espíritu Azul quien acude a su rescate.",
+        "released": "2005-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cyD4FCLS0vaxLmHantYqMkqACh5.jpg"
+      },
+      {
+        "id": "tt0417299:1:14",
+        "title": "La Adivina",
+        "season": 1,
+        "episode": 14,
+        "overview": "Cuando Aang, Katara y Sokka llegan a una villa, conocen a una adivina capaz de predecir el futuro. Cada año la adivina pronostica si el volcán junto a la villa hará erupción o seguirá dormido un año más. Todo se complica cuando Aang va a la cima del volcán y ve en él una erupción inminente, contrario a las predicciones que la adivina había hecho ese mismo día.",
+        "released": "2005-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u2vDfQYYjAoYoie7e8oThtqvzj6.jpg"
+      },
+      {
+        "id": "tt0417299:1:15",
+        "title": "Bato de la Tribu Agua",
+        "season": 1,
+        "episode": 15,
+        "overview": "Katara y Sokka se encuentran con Bato, un viejo amigo de su padre, mientras Zuko busca la ayuda de una caza recompensas llamada June para encontrar a Aang.",
+        "released": "2005-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sBSdSLVgW6JxpYKhEQiWGbVl1Q3.jpg"
+      },
+      {
+        "id": "tt0417299:1:16",
+        "title": "El Desertor",
+        "season": 1,
+        "episode": 16,
+        "overview": "Luego de un desastre en un festival de la Nación del fuego, Aang, Sokka y Katara se encuentran con un grupo de desertores liderados por el Maestro Fuego, y ex general de la Nación del Fuego, Jeong Jeong. Aang, desesperado por aprender Fuego Control, no atiende a su maestro hasta el momento en el que descubre que los maestros fuego viven entre la humanidad y el salvajismo. Cuando Zhao encuentra el escondite de los desertores, se revela que Jeong Jeong era su maestro.",
+        "released": "2005-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jweqJKhZCiqZhG3OcOlpPWRCase.jpg"
+      },
+      {
+        "id": "tt0417299:1:17",
+        "title": "El Templo del Aire del Norte",
+        "season": 1,
+        "episode": 17,
+        "overview": "Luego de rumores de \"hombres voladores\", Aang y sus amigos viajan al Templo del Aire del Norte con la esperanza de encontrar Nómadas Aire sobrevivientes. Pero lo que encuentran es que una aldea del Reino Tierra que se ha mudado ahí y vive bajo la vigilancia de un mecánico loco y sus invenciones -pero hay más de lo que los ojos ven.",
+        "released": "2005-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4UuuPRrSOp8ghGSFvuKrDIFQHBK.jpg"
+      },
+      {
+        "id": "tt0417299:1:18",
+        "title": "El Maestro del Agua Control",
+        "season": 1,
+        "episode": 18,
+        "overview": "Llegando al final al Polo Norte, Aang y Katara buscan a un Maestro del Agua Control para enseñarles. Mientras tanto, Sokka empieza una relación romántica con la princesa de la Tribu Agua del Norte, Yue. También, Zuko descubre la verdadera intención de Zhao para detenerlo en su búsqueda del Avatar.",
+        "released": "2005-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/893WeVweLZ8FqvP9T5ZLhfcLHDr.jpg"
+      },
+      {
+        "id": "tt0417299:1:19",
+        "title": "El Trono del Norte, Parte I",
+        "season": 1,
+        "episode": 19,
+        "overview": "Una flota de la Nación del Fuego comandada por el Almirante Zhao y el General Iroh atacan la Tribu Agua del Norte con la esperanza de destruir la Tribu del Agua, al mismo tiempo de capturar al Avatar. El Príncipe Zuko se escabulle solo en el Polo Norte durante la batalla, buscando al Avatar por él mismo; Aang debe encontrar a los espíritus de la Luna y el Océano para ayudar.",
+        "released": "2005-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9jGillcXki194qzZm1LYfXNlVhz.jpg"
+      },
+      {
+        "id": "tt0417299:1:20",
+        "title": "El Trono del Norte, Parte II",
+        "season": 1,
+        "episode": 20,
+        "overview": "Sokka, Katara y Yue deben encontrar a Zuko y rescatar a Aang, quien al regresar debe proteger las formas mortales del espíritu de la Luna de Zhao mientras la Tribu del Agua del Norte lucha desesperadamente lo mejor que pueden para sacar a la flota de la Nación del Fuego del Polo Norte.",
+        "released": "2005-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d0FwXroUWMU4WZO079p5XkAekB0.jpg"
+      },
+      {
+        "id": "tt0417299:2:1",
+        "title": "El Estado Avatar",
+        "season": 2,
+        "episode": 1,
+        "overview": "Aang, Katara y Sokka llegan a una base del Reino Tierra donde el General Fong convence a Aang en inducirle el Estado Avatar con las esperanzas de destruir la Nación del Fuego de una vez por todas. Mientras tanto, Zuko y Iroh están visitando una ciudad el Reino Tierra donde reciben una visita de la hermana de Zuko, Azula.",
+        "released": "2006-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jFbvEs78FCbqRRDlZ6CP6esDkfF.jpg"
+      },
+      {
+        "id": "tt0417299:2:2",
+        "title": "La Cueva de los Dos Enamorados",
+        "season": 2,
+        "episode": 2,
+        "overview": "En el camino a Omashu, Aang, Katara y Sokka conocen a un grupo de nómadas quienes les enseñan un atajo a través de la peligrosa \"Cueva de los Dos Enamorados\".",
+        "released": "2006-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nnXvDDSFUylD6SS7bpm1PXaNUbe.jpg"
+      },
+      {
+        "id": "tt0417299:2:3",
+        "title": "El Regreso a Omashu",
+        "season": 2,
+        "episode": 3,
+        "overview": "Aang, Katara y Sokka regresan a Omashu sólo para descubrir que está bajo el control de la Nación del Fuego. Determinado a encontrar al Rey Bumi, el grupo entra a la ciudad. Mientras tanto, Azula forma un pequeño grupo de guerreras para seguir, encontrar y capturar a Zuko y a Iroh.",
+        "released": "2006-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ryrXflY4MEKwvow1Kww607gVfzO.jpg"
+      },
+      {
+        "id": "tt0417299:2:4",
+        "title": "El Pantano",
+        "season": 2,
+        "episode": 4,
+        "overview": "Cuando un tornado aparece, Aang, Katara y Sokka son lanzados a un misterioso pantano que parece tener mente propia.",
+        "released": "2006-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8iSkwakA54mqxcBUZtZsISnvkco.jpg"
+      },
+      {
+        "id": "tt0417299:2:5",
+        "title": "El Día del Avatar",
+        "season": 2,
+        "episode": 5,
+        "overview": "Aang, Katara y Sokka van a la villa de Chin, donde celebran una fiesta llamada \"Día del Avatar\", pero descubren que es en realidad una ceremonia en contra del Avatar. Mientras tanto, Iroh sospecha de Zuko, quien como su alter ego el Espíritu Azul está robando dinero para hacer su viaje más fácil.",
+        "released": "2006-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rCttnlrBm4A8e8Vt7strjXYkCPS.jpg"
+      },
+      {
+        "id": "tt0417299:2:6",
+        "title": "La Bandida Ciega",
+        "season": 2,
+        "episode": 6,
+        "overview": "En la búsqueda de un Maestro Tierra para que le enseñe a Aang, el grupo entra a un torneo subterráneo de Tierra Control donde encuentran a Toph, una Maestra Tierra ciega, pero poderosa.",
+        "released": "2006-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ouMgUBM6duJ4cS3jXm2rUomz5X.jpg"
+      },
+      {
+        "id": "tt0417299:2:7",
+        "title": "Zuko solitario",
+        "season": 2,
+        "episode": 7,
+        "overview": "Habiéndose separado de Iroh, Zuko llega a una villa en el Reino Tierra donde se encuentra con un niño de la región. Durante su estadía, Zuko recuerda sobre sus días antes del duelo de fuego contra su padre, que cambió su vida para siempre.",
+        "released": "2006-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k3HjOEyEDVHQgQi1WxVKuYQfrrL.jpg"
+      },
+      {
+        "id": "tt0417299:2:8",
+        "title": "La Persecución",
+        "season": 2,
+        "episode": 8,
+        "overview": "Aang, Katara, Sokka y Toph son perseguidos por una extraña máquina. Luego descubren que los persiguen Azula, Mai y Ty Lee, librando una gran batalla.",
+        "released": "2006-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jM4D3ngfBqV1VzQeHKOadjT4qxG.jpg"
+      },
+      {
+        "id": "tt0417299:2:9",
+        "title": "Trabajo Duro",
+        "season": 2,
+        "episode": 9,
+        "overview": "Luego que Aang descubre que no puede aprender rápidamente Tierra Control, empieza a pensar si su problema no ha sido, Iroh trata de enseñarle a Zuko una técnica avanzada de Fuego Control: la habilidad de controlar rayos.",
+        "released": "2006-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fHYk0C2OSmExMqqp87CaDNF0AKP.jpg"
+      },
+      {
+        "id": "tt0417299:2:10",
+        "title": "La Biblioteca",
+        "season": 2,
+        "episode": 10,
+        "overview": "Un profesor lleva a los chicos a la biblioteca de un espíritu en la mitad del desierto, donde Sokka espera encontrar algún secreto para usar contra la Nación del Fuego.",
+        "released": "2006-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fvAu7bhOFyI9HEt1Msp0WutlILb.jpg"
+      },
+      {
+        "id": "tt0417299:2:11",
+        "title": "El Desierto",
+        "season": 2,
+        "episode": 11,
+        "overview": "Aang busca a Appa, mientras Katara intenta mantener al resto del grupo unido mientras atraviesan el vasto desierto. También, Iroh y Zuko buscan la ayuda de una sociedad secreta para escapar de dos sujetos que los persiguen.",
+        "released": "2006-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vY2OzzltMzkXqE19IByczYJdbDP.jpg"
+      },
+      {
+        "id": "tt0417299:2:12",
+        "title": "El Paso de la Serpiente",
+        "season": 2,
+        "episode": 12,
+        "overview": "Aang y sus amigos toman la ruta más difícil hacia Ba Sing Se cuando acceden ayudar a una familia pobre a pasar el Paso de la Serpiente. También, Jet le pide a Zuko unírsele para ayudar a los refugiados de Ba Sing Se.",
+        "released": "2006-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1OmMINcc4KaNBJmuswLq2ee3VXF.jpg"
+      },
+      {
+        "id": "tt0417299:2:13",
+        "title": "El Taladro",
+        "season": 2,
+        "episode": 13,
+        "overview": "Llegando al muro de Ba Sing Se, Aang va en busca de Appa, pero se encuentra con la sorpresa de que un Taladro gigante de la Nación del Fuego comienza a atravesar el muro.",
+        "released": "2006-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oinuOajlGzfwvcpmXyPE15IwfTL.jpg"
+      },
+      {
+        "id": "tt0417299:2:14",
+        "title": "La Ciudad de Muros y Secretos",
+        "season": 2,
+        "episode": 14,
+        "overview": "Dentro de Ba Sing Se, Aang, Katara, Sokka y Toph piden hablar con el Rey de la Tierra sobre el secreto de la Nación del Fuego, son recibidos por Joo Dee, una mujer que sonríe todo el tiempo. Dentro de Ba Sing Se descubren que en la ciudad no saben que la guerra existe. Por otro lado Jet pelea con Zuko, ya que descubre que es un Maestro Fuego.",
+        "released": "2006-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ewTBqdyYruMREGkKbMZysZ0QgoG.jpg"
+      },
+      {
+        "id": "tt0417299:2:15",
+        "title": "Los Cuentos de Ba Sing Se",
+        "season": 2,
+        "episode": 15,
+        "overview": "Una serie de cuentos suceden dentro de la gran ciudad de Ba Sing Se. Cuentos de Katara y Toph, Iroh, Sokka, Aang, Zuko, y Momo.",
+        "released": "2006-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aJIcdw8ZYTwfvBZrca2VVTGHWEG.jpg"
+      },
+      {
+        "id": "tt0417299:2:16",
+        "title": "Los días perdidos de Appa",
+        "season": 2,
+        "episode": 16,
+        "overview": "Los días perdidos de Appa vistos desde su punto de vista.",
+        "released": "2006-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hem0BVH2mXx71Xf79RolSFLzeJV.jpg"
+      },
+      {
+        "id": "tt0417299:2:17",
+        "title": "El Lago Laogai",
+        "season": 2,
+        "episode": 17,
+        "overview": "Mientras buscan a Appa, los chicos se topan con Jet, pero no saben si confiar en él o no. Mientras tanto, Zuko también busca a Appa.",
+        "released": "2006-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cdrc7Caz9VabYfBl9bH9R93wk4j.jpg"
+      },
+      {
+        "id": "tt0417299:2:18",
+        "title": "El Rey de la Tierra",
+        "season": 2,
+        "episode": 18,
+        "overview": "Los chicos luchan contra Long Feng y los Dai Li cuando tratan de enseñarle al Rey del Reino Tierra la gran conspiración que está teniendo lugar en la ciudad. Zuko enferma gravemente y tiene sueños en los que enfrenta una crisis espiritual.",
+        "released": "2006-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y4UHFyv67j6sf1wxvGljl5kpoKU.jpg"
+      },
+      {
+        "id": "tt0417299:2:19",
+        "title": "El Gurú",
+        "season": 2,
+        "episode": 19,
+        "overview": "Aang recibe ayuda del Guru Pathik en el Templo del Aire del Este; Sokka se reúne con su padre luego de dos años; la Princesa Azula tiene algo diabólico bajo la manga para sus enemigos; Iroh y Zuko trabajan en su propia tienda de té.",
+        "released": "2006-12-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/49ED3hLwNq6sibzazGv656CrLEW.jpg"
+      },
+      {
+        "id": "tt0417299:2:20",
+        "title": "La Encrucijada del Destino",
+        "season": 2,
+        "episode": 20,
+        "overview": "Todos corren contra el tiempo para detener la siniestra conquista de Ba Sing Se a cargo de Azula. El destino de Aang está en juego - y también el de Zuko, así como Iroh le dice.",
+        "released": "2006-12-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5Ix70WNv3rqYv0AVWPifE7euOq4.jpg"
+      },
+      {
+        "id": "tt0417299:3:1",
+        "title": "El Despertar",
+        "season": 3,
+        "episode": 1,
+        "overview": "Aang despierta en un barco de la Nación del Fuego y descubre que ese barco está secuestrado por Hakoda, el padre de Katara y Sokka, los luchadores libertadores (menos Jet, Smellerbee y Longshot), Sokka, Toph y Katara. Zuko vuelve a la nación del fuego, donde por primera vez en la serie conocemos el rostro del señor del fuego.",
+        "released": "2007-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4bucff7ht2AkY6mAVgYMsJPVxo7.jpg"
+      },
+      {
+        "id": "tt0417299:3:2",
+        "title": "El Pañuelo en la Cabeza",
+        "season": 3,
+        "episode": 2,
+        "overview": "Katara, Aang, Sokka y Toph se hacen pasar por habitantes de la Nación del Fuego. Aang por error se enlista en una escuela de la nación del fuego, donde decide que tiene que ayudar a los alumnos de ese duro sistema educacional.",
+        "released": "2007-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2b5qDWFIxJDlv2d7FLPd9IDwdnk.jpg"
+      },
+      {
+        "id": "tt0417299:3:3",
+        "title": "La Dama Pintada",
+        "season": 3,
+        "episode": 3,
+        "overview": "Katara, Aang, Sokka y Toph llegan a una aldea contaminada por una fábrica de la Nación del Fuego. En esta aldea creen en un espíritu en el río, \"La Dama Pintada\", la cual empieza a aparecerse en la noche y ayuda a los aldeanos de los problemas que le acarrea la contaminación del rió.",
+        "released": "2007-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jIOrXmDp5YcCwPoeaw6MGLU1rfd.jpg"
+      },
+      {
+        "id": "tt0417299:3:4",
+        "title": "El Maestro de Sokka",
+        "season": 3,
+        "episode": 4,
+        "overview": "Sokka busca a un maestro de espada para entrenarlo. Mientras tanto, Iroh comienza a entrenar su cuerpo para hacerse más fuerte.",
+        "released": "2007-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2cjFSKxFHOqj0TpAnd4SqHjQ5G2.jpg"
+      },
+      {
+        "id": "tt0417299:3:5",
+        "title": "La Playa",
+        "season": 3,
+        "episode": 5,
+        "overview": "Zuko, Azula, Mai y Ty Lee visitan una playa de la Nación del Fuego para conocerse mejor entre ellos y a ellos mismos. En tanto, Aang tiene problemas para ocultarse entre la nación del fuego.",
+        "released": "2007-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8OKDuNidwMMMgakf67c8tCX3I2C.jpg"
+      },
+      {
+        "id": "tt0417299:3:6",
+        "title": "El Avatar y el Señor del Fuego",
+        "season": 3,
+        "episode": 6,
+        "overview": "Aang y Zuko conocen el inicio de la guerra, lo cual los hace refexionar sobre sus destinos.",
+        "released": "2007-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sFZ1uE6Kl50PRt2yGaGdKTay4gA.jpg"
+      },
+      {
+        "id": "tt0417299:3:7",
+        "title": "La Fugitiva",
+        "season": 3,
+        "episode": 7,
+        "overview": "Katara expresa su desaprobación cuando Toph descubre una manera rápida de conseguir dinero, estafando a la gente del pueblo donde están acampando, resultando en un desacuerdo que deja al grupo vulnerable y produce un segundo encuentro con el asesino que Zuko pago para asesinar a Aang, el ahora llamado \"hombre combustión\".",
+        "released": "2007-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8gymKiOEJNYZPVScLRVUhNuYgCj.jpg"
+      },
+      {
+        "id": "tt0417299:3:8",
+        "title": "La Titiritera",
+        "season": 3,
+        "episode": 8,
+        "overview": "El equipo Avatar investiga las extrañas desapariciones que ocurren en un tétrico pueblo; allí Katara conoce a una extraña mujer que resulta ser una maestra agua amiga de su madre. Ella le enseña una técnica contra su voluntad; \"la sangre control\"",
+        "released": "2007-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d1ECriFq8qpttMnHwrAVewSq6IF.jpg"
+      },
+      {
+        "id": "tt0417299:3:9",
+        "title": "Pesadillas y Fantasías",
+        "season": 3,
+        "episode": 9,
+        "overview": "A cuatro días para la invasión, Aang no puede dormir por los nervios, teniendo \"sueños y pesadillas\" acerca del Señor del Fuego.",
+        "released": "2007-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wiMuXVUPqSJFmny7Z6eqgZeRicn.jpg"
+      },
+      {
+        "id": "tt0417299:3:10",
+        "title": "El Día del Sol Negro, Primera Parte: La Invasión",
+        "season": 3,
+        "episode": 10,
+        "overview": "Con la llegada del día del eclipse, los chicos junto con las fuerzas de viejos amigos llevan a cabo la invasión de la Nación del Fuego. Mientras las fuerzas de la invasión luchan para llegar a la capital de la Nación del Fuego, los chicos ayudan a Aang a encontrar al Señor del Fuego a tiempo para el eclipse.",
+        "released": "2007-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/njLvVlI4HzQtxFYNG5G2LPpZJqF.jpg"
+      },
+      {
+        "id": "tt0417299:3:11",
+        "title": "El Día del Sol Negro, Segunda Parte: El Eclipse",
+        "season": 3,
+        "episode": 11,
+        "overview": "La nación del fuego estaba preparada para la invasión. Zuko confronta a su padre haciéndole saber su destino junto con el avatar.",
+        "released": "2007-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8IyCdPVbGeS6bO8Ij2EVd8oiUwm.jpg"
+      },
+      {
+        "id": "tt0417299:3:12",
+        "title": "El Templo del Aire del Oeste",
+        "season": 3,
+        "episode": 12,
+        "overview": "Aang y el resto del equipo van al Templo Aire del Oeste, mientras, Zuko tiene que ganarse un lugar para ser aceptado en su nuevo grupo.",
+        "released": "2008-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k6BAVhHNN5JEvbvwK35wXUhxcFv.jpg"
+      },
+      {
+        "id": "tt0417299:3:13",
+        "title": "Los Maestros del Fuego-control",
+        "season": 3,
+        "episode": 13,
+        "overview": "Las clases de Aang para ser una maestro fuego comienzan, pero Zuko tiene problemas mayores al creer que ha perdido su habilidad. Ambos parten en busca de una civilización antigua para aprender los origenes del Fuego-control y entender el verdadero significado del fuego.",
+        "released": "2008-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2xpOq1usmWDX9ia7cfBFmgqp8KO.jpg"
+      },
+      {
+        "id": "tt0417299:3:14",
+        "title": "La Roca Hirviente, Primera Parte",
+        "season": 3,
+        "episode": 14,
+        "overview": "Sokka busca respuestas con Zuko sobre donde podria estar su padre como prisionero, Zuko responde que existe un lugar donde ponen a los prisioneros mas peligrosos y debido a su condicion hostil es dificil escapar de ahi. Asi Sokka y Zuko van a la prision en busca del padre de Sokka. En su intento también se encuentran con que Suki, lider de las guerreras kyoshi, estaba allí. Nota: en este capitulo no participan Aang, Katara, ni Toph, solo aparecen al principio de este episodio.",
+        "released": "2008-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/keivJ7wk45aLbg03AqEb9WgrYSz.jpg"
+      },
+      {
+        "id": "tt0417299:3:15",
+        "title": "La Roca Hirviente, Segunda Parte",
+        "season": 3,
+        "episode": 15,
+        "overview": "Despues de fallar el primer intento por escapar, Sokka y su padre idean un nuevo plan de escape, pero los problemas aparecen cuando Azula y Ty Lee llegan al lugar. Por otro lado Mai le cuestiona a Zuko sobre su huida y el que la haya abandonado. Al final Sokka y Zuko logran sacar a sus amigos de ahi con la ayuda de Mai y Ty Lee que traicionan a Azula y está ordena que las encierren en la prisión. Sokka y Zuko junto con los demás prisioneros, llegan al templo del aire del oeste, donde se reúnen con Aang y los demas.",
+        "released": "2008-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zPQ44AtLyDOvGXzKECQ3zmpEQun.jpg"
+      },
+      {
+        "id": "tt0417299:3:16",
+        "title": "Los Invasores del Sur",
+        "season": 3,
+        "episode": 16,
+        "overview": "Katara junto con Zuko decide enfrentar a los soldados de la nación del fuego responsables de la muerte de su madre",
+        "released": "2008-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uizw41KRd4OMaLur4SMHCciI0n3.jpg"
+      },
+      {
+        "id": "tt0417299:3:17",
+        "title": "Los Actores de la Isla Ember",
+        "season": 3,
+        "episode": 17,
+        "overview": "Una obra teatral que recuenta todas las aventuras del equipo avatar no tiene un buen efecto en Aang y sus amigos.",
+        "released": "2008-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/szTOmTjEyMel1VivJ1pQImTUST0.jpg"
+      },
+      {
+        "id": "tt0417299:3:18",
+        "title": "El Cometa de Sozin, Parte 1: El Rey Fénix",
+        "season": 3,
+        "episode": 18,
+        "overview": "Aang esta nervioso por tener que enfrentarse a Ozai antes de lo planeado y ademas por su educacion con los monjes del aire no lo quiere matar. A su vez Ozai tiene un plan para acabar con los maestros tierra al igual que su abuelo el señor del fuego Sozin lo hizo con los maestros aire cuando inicio la guerra.",
+        "released": "2008-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nvM2L5RuezyQKhMCltrhkEekIXe.jpg"
+      },
+      {
+        "id": "tt0417299:3:19",
+        "title": "El Cometa de Sozin, Parte 2: Los Antiguos Maestros",
+        "season": 3,
+        "episode": 19,
+        "overview": "Aang desaparecio repentinamente. Todos intentan encontrarlo, pero al no tener exito deciden buscar a Iroh y ver si él puede derrotar al Señor del Fuego si Aang no aparece. Aang recibe los consejos de cada uno de los anteriores avatar acerca de matar o no a Ozai. Luego, encuentra el mejor consejo de una forma inesperada.",
+        "released": "2008-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2pjDkaJBTO8c6CbglQLDSXBt5hK.jpg"
+      },
+      {
+        "id": "tt0417299:3:20",
+        "title": "El Cometa de Sozin, Parte 3: Hacia el Infierno",
+        "season": 3,
+        "episode": 20,
+        "overview": "Aang debe encontrar al Señor del Fuego antes de que este comience su ataque al Reino Tierra. Katara y Zuko vuelven a la Nacion del Fuego para parar a Azula antes de que se convierta en la siguiente Señor de Fuego. Toph, Suki y sokka deben encontrar las aeronaves y impedirles que comiencen su ataque.",
+        "released": "2008-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jM6NzBbk5P22j3dWnIpOb7oTXeS.jpg"
+      },
+      {
+        "id": "tt0417299:3:21",
+        "title": "El Cometa de Sozin, Parte 4: Avatar Aang",
+        "season": 3,
+        "episode": 21,
+        "overview": "Aang derrota a Ozai sacandole su Fuego Control mediante Espiritu Control. Sokka, Toph y Suki destruyen todos las aeronaves mientras Zuko y Katara encadenan a Azula. Zuko se convierte en Señor de Fuego y se reconcilia con Mai. A su vez Aang se convierte en el avatar y protector de la tierra y al final, Katara y Aang se besan terminando la historia.",
+        "released": "2008-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4a93Ud89t51LcvyiDTtWFRscUhE.jpg"
+      }
+    ]
+  }
+}

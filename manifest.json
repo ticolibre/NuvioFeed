@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): A24, NEON, Blumhouse, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture winners & nominees. Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): Trending, Top Rated, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture winners & nominees. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -136,6 +136,39 @@
       "type": "movie",
       "id": "best-picture-nominees",
       "name": "Oscars: Best Picture Nominees",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-rated-movies",
+      "name": "Top Rated Movies",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-rated-series",
+      "name": "Top Rated Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "ghibli",
+      "name": "Studio Ghibli",
       "extra": [
         {
           "name": "skip",

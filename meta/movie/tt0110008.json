@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0110008",
+    "type": "movie",
+    "name": "La Guerra de los Mapaches",
+    "poster": "https://image.tmdb.org/t/p/w500/jjOzBFm4IVBsfKzuGlxJpZ0EuLH.jpg",
+    "posterShape": "poster",
+    "description": "Ante la inminente destrucción de un frondoso bosque cercano a una ciudad, cuyos dirigentes quieren construir en su lugar una urbanización, los mapaches que viven en el bosque intentarán sabotear la operación para así conservar sus hogares.",
+    "releaseInfo": "1994",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Fantasía"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/2uv0VEoyWxb3KgsiF5FInWP18wQ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

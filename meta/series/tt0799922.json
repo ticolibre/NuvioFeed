@@ -1,0 +1,979 @@
+{
+  "meta": {
+    "id": "tt0799922",
+    "type": "series",
+    "name": "Los Hechiceros de Waverly Place",
+    "poster": "https://image.tmdb.org/t/p/w500/qYb6uCZOaGv3HAiVB1R40ZiHBd3.jpg",
+    "posterShape": "poster",
+    "description": "Se trata de una familia ítalo-mexicana de apellido Russo: Alexandra \"Alex\" Margarita Russo, su hermano mayor Justin Vizenzo Peppe Russo, su hermano menor Maximiliano \"Max\" Russo. Los tres hermanos Russo son magos en entrenamiento, que viven junto a su padre italoamericano Jerry, un exmago, y su madre mexicana-estadounidense, Theresa, una mortal. La mejor amiga de Alex es Harper Finkle. Normalmente Justin discute con Alex y, a veces hasta terminan compitiendo. Max es un poco distraído, pero en uno de los capítulos se supo defender, lo cual dice que no es tan torpe. Alex es la que siempre quiere ganar, pero a veces se excede. Justin es considerado el \"listo\" de la familia, pero en varios capítulos se prueba lo contrario. Harper se considera la mejor amiga de Alex, aunque en algunos episodios se exhiben una que otra discusión entre ellas.",
+    "releaseInfo": "2007",
+    "genres": [
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7CVy5uTj3JNF8wqb2VnfQdjL07V.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0799922:1:1",
+        "title": "Una venta de locura en 10 minutos",
+        "season": 1,
+        "episode": 1,
+        "overview": "Alex usa un hechizo para duplicarse.",
+        "released": "2007-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sL8hl4AwYNDNfXDRmIT2ou7rnWN.jpg"
+      },
+      {
+        "id": "tt0799922:1:2",
+        "title": "El primer beso",
+        "season": 1,
+        "episode": 2,
+        "overview": "Alex usa la magia para regresar en el tiempo.",
+        "released": "2007-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nH439ojH67Qf5bJNdObY6J92cvB.jpg"
+      },
+      {
+        "id": "tt0799922:1:3",
+        "title": "Casi me ahogo en una fuente de chocolate",
+        "season": 1,
+        "episode": 3,
+        "overview": "Alex usa un elfo de bolsillo para pasar un examen de español.",
+        "released": "2007-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/un9Qoemn7MXkizsJjvFG54OHbnD.jpg"
+      },
+      {
+        "id": "tt0799922:1:4",
+        "title": "La nueva empleada",
+        "season": 1,
+        "episode": 4,
+        "overview": "El hechizo de Alex para ayudar a Harper en su trabajo falla.",
+        "released": "2007-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/18UogyauSh1aOD85Svjb4UEQ18q.jpg"
+      },
+      {
+        "id": "tt0799922:1:5",
+        "title": "Una noche decepcionante",
+        "season": 1,
+        "episode": 5,
+        "overview": "Los papás de Alex conocen a los padres de otro joven mago.",
+        "released": "2007-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h3i8bMrb7xQMgpXTJk5wUAwxW1i.jpg"
+      },
+      {
+        "id": "tt0799922:1:6",
+        "title": "No siempre obtienes lo que alfombras",
+        "season": 1,
+        "episode": 6,
+        "overview": "Jerry enseña a Alex a volar una alfombra mágica y pelean.",
+        "released": "2007-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vqxeYv2cNfJg2SYMubzRcI3k9xA.jpg"
+      },
+      {
+        "id": "tt0799922:1:7",
+        "title": "La elección de Alex",
+        "season": 1,
+        "episode": 7,
+        "overview": "Gigi invita a Harper a su fiesta anual del té.",
+        "released": "2007-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zMvPP9cwQn06xHpzowLEYWRZvVs.jpg"
+      },
+      {
+        "id": "tt0799922:1:8",
+        "title": "Controla a tu dragón",
+        "season": 1,
+        "episode": 8,
+        "overview": "Alex regala a Justin un beagle que resulta ser un dragón mágico.",
+        "released": "2007-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2DIahX8LIgpZngImdksUfIg7rm7.jpg"
+      },
+      {
+        "id": "tt0799922:1:9",
+        "title": "El cine",
+        "season": 1,
+        "episode": 9,
+        "overview": "Justin no permite a Alex ver una película para mayores.",
+        "released": "2007-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ecjaBL7Y9knejAIOOSJfJsFocBY.jpg"
+      },
+      {
+        "id": "tt0799922:1:10",
+        "title": "Si me exprimes, los dos nos hundimos",
+        "season": 1,
+        "episode": 10,
+        "overview": "¡Un conjuro da vida a un grano de Justin!",
+        "released": "2008-01-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rr0SpPusw510R9lRJdJ5gdC3z0r.jpg"
+      },
+      {
+        "id": "tt0799922:1:11",
+        "title": "Conmoción por la poción",
+        "season": 1,
+        "episode": 11,
+        "overview": "Justin y Brad buscan un lugar en la Cumbre Anual de Escuelas.",
+        "released": "2008-02-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6fhq17Qkibo3fAPY8a5H4eLFPS9.jpg"
+      },
+      {
+        "id": "tt0799922:1:12",
+        "title": "La hermana menor de Justin",
+        "season": 1,
+        "episode": 12,
+        "overview": "Cuando falla el hechizo de Alex, nadie recuerda a Justin.",
+        "released": "2008-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dKqQb09CaMs7OTfwqxnV8xj1LfF.jpg"
+      },
+      {
+        "id": "tt0799922:1:13",
+        "title": "Escuela de hechiceros - Parte 1",
+        "season": 1,
+        "episode": 13,
+        "overview": "Por limpiar con magia, Alex debe ir a la escuela de verano.",
+        "released": "2008-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fbbqVtWgAxGmDYu0WoomahB1du.jpg"
+      },
+      {
+        "id": "tt0799922:1:14",
+        "title": "Escuela de hechiceros - Parte 2",
+        "season": 1,
+        "episode": 14,
+        "overview": "Alex descubre un plan malvado y debe salvar a Justin.",
+        "released": "2008-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kpTqZd2Ra755AG4flhkna2okiNO.jpg"
+      },
+      {
+        "id": "tt0799922:1:15",
+        "title": "Sobrenatural",
+        "season": 1,
+        "episode": 15,
+        "overview": "Justin quiere impresionar a una chica usando un conjuro.",
+        "released": "2008-05-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dNO2EGPFxyWw0rRcKksl4Uq6yLA.jpg"
+      },
+      {
+        "id": "tt0799922:1:16",
+        "title": "Alex, la de en medio",
+        "season": 1,
+        "episode": 16,
+        "overview": "Visita del hermano hechicero de Jerry, un amante de la diversión.",
+        "released": "2008-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AhiIGBfOB9wZva8zJaVH2HEYgT.jpg"
+      },
+      {
+        "id": "tt0799922:1:17",
+        "title": "Boleta de calificaciones",
+        "season": 1,
+        "episode": 17,
+        "overview": "Alex entra en pánico y convierte a sus padres en cuyos.",
+        "released": "2008-06-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cz7VmeQZ1dYWYIkCIBDX5e96la1.jpg"
+      },
+      {
+        "id": "tt0799922:1:18",
+        "title": "Quiero más crédito",
+        "season": 1,
+        "episode": 18,
+        "overview": "Alex entra a hacer prácticas en una gran revista de modas.",
+        "released": "2008-07-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pwLzSseLWd48TqkjLOTGY966mCx.jpg"
+      },
+      {
+        "id": "tt0799922:1:19",
+        "title": "Me enamoré de un maniquí",
+        "season": 1,
+        "episode": 19,
+        "overview": "Alex da vida a un maniquí para darle celos a Riley.",
+        "released": "2008-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yh8IpvDxqfkRbvhmpJwBbVV4G9l.jpg"
+      },
+      {
+        "id": "tt0799922:1:20",
+        "title": "Quinceañera",
+        "season": 1,
+        "episode": 20,
+        "overview": "Toda la familia se prepara para una fiesta de quinceañera.",
+        "released": "2008-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z075dvIWraiLLXD56mbLtFvG2Mf.jpg"
+      },
+      {
+        "id": "tt0799922:1:21",
+        "title": "Las obras del museo de arte",
+        "season": 1,
+        "episode": 21,
+        "overview": "Alex hace trampa para acabar su tarea de Historia del Arte.",
+        "released": "2008-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1H7QjATWRRHHXuOxE5KSPvJ00Uy.jpg"
+      },
+      {
+        "id": "tt0799922:2:1",
+        "title": "Pantalones sabelotodo",
+        "season": 2,
+        "episode": 1,
+        "overview": "Alex y Harper van al concurso de preguntas de Tribeca.",
+        "released": "2008-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m0KddhldoqGcVcrzDrGQv6xFG3Z.jpg"
+      },
+      {
+        "id": "tt0799922:2:2",
+        "title": "Cuidado con la mujer lobo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Justin se enamora de Isabella, una chica que acaba de conocer.",
+        "released": "2008-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dt4rYLslKQTq39AQGHThSCjudOu.jpg"
+      },
+      {
+        "id": "tt0799922:2:3",
+        "title": "Una novela ilustrada",
+        "season": 2,
+        "episode": 3,
+        "overview": "Justin y Max llevan el diario secreto de Alex a la escuela.",
+        "released": "2008-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dczgnimVPlInFeYiXk4VSg9fUAN.jpg"
+      },
+      {
+        "id": "tt0799922:2:4",
+        "title": "La carrera",
+        "season": 2,
+        "episode": 4,
+        "overview": "Alex se enamora de Dean, un chico fanático de la mecánica.",
+        "released": "2008-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iKcv6mBQxzqUOKZil67dAFuH5PW.jpg"
+      },
+      {
+        "id": "tt0799922:2:5",
+        "title": "Maximan, el hermano de Alex",
+        "season": 2,
+        "episode": 5,
+        "overview": "Jerry se decepciona porque sus hijos no trabajan en equipo.",
+        "released": "2008-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/osVCXoTyu7ZLJNWdpfdfdTUB1zN.jpg"
+      },
+      {
+        "id": "tt0799922:2:6",
+        "title": "Salvando el Tec de Magia - Parte 1",
+        "season": 2,
+        "episode": 6,
+        "overview": "El Tec de Magia cierra. Los alumnos viven en el mundo real.",
+        "released": "2008-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3ACaoFleSDZ3b8zAgU80IZFoolu.jpg"
+      },
+      {
+        "id": "tt0799922:2:7",
+        "title": "Salvando el Tec de Magia - Parte 2",
+        "season": 2,
+        "episode": 7,
+        "overview": "Max se une al profesor Crumbs en el Tec de Magia.",
+        "released": "2008-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/buMl3txS7lOWbUisNqJU3hSdor0.jpg"
+      },
+      {
+        "id": "tt0799922:2:8",
+        "title": "Harper sabe",
+        "season": 2,
+        "episode": 8,
+        "overview": "Alex evita toparse con Harper en la convención anual.",
+        "released": "2008-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dTqB7z8QGk7rvUMIsitfraPCcLv.jpg"
+      },
+      {
+        "id": "tt0799922:2:9",
+        "title": "El baile del taxi",
+        "season": 2,
+        "episode": 9,
+        "overview": "Alex trae a la vida el taxi en el que nació.",
+        "released": "2008-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wgFsDYpTrcG5C35Du7xJanDk1DK.jpg"
+      },
+      {
+        "id": "tt0799922:2:10",
+        "title": "Bebé Cupido",
+        "season": 2,
+        "episode": 10,
+        "overview": "El aniversario de los Russo se arruina por una pelea.",
+        "released": "2008-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/axDHSrWk96Cs2X2pvFmhd9PywDc.jpg"
+      },
+      {
+        "id": "tt0799922:2:11",
+        "title": "Haz que pase",
+        "season": 2,
+        "episode": 11,
+        "overview": "Jerry aconseja a los chicos Russo pensar en un plan B.",
+        "released": "2009-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mAn36GelIhan9XVWrCBm5uU7UWA.jpg"
+      },
+      {
+        "id": "tt0799922:2:12",
+        "title": "Un cuento de hadas",
+        "season": 2,
+        "episode": 12,
+        "overview": "Justin hace una prueba a Harper para una obra escolar.",
+        "released": "2009-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mzr38snqb6VY4KZgqarmtdVlCn5.jpg"
+      },
+      {
+        "id": "tt0799922:2:13",
+        "title": "La Semana de la Moda",
+        "season": 2,
+        "episode": 13,
+        "overview": "Harper y Alex ayudan al Sr. Frenchy en la Semana de la Moda.",
+        "released": "2009-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ziVkhpXd3wJsQGaphZtwjdkINeH.jpg"
+      },
+      {
+        "id": "tt0799922:2:14",
+        "title": "La mano que ayuda",
+        "season": 2,
+        "episode": 14,
+        "overview": "Alex utiliza un invento de Justin para que le haga todas las tareas.",
+        "released": "2009-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pJkwBsiS3t6AGM6qrK3pcecIofo.jpg"
+      },
+      {
+        "id": "tt0799922:2:15",
+        "title": "La maestra de arte",
+        "season": 2,
+        "episode": 15,
+        "overview": "Alex se identifica con su nueva maestra de arte.",
+        "released": "2009-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3dvUq0i2eCVR88V1RI1MFG77FhV.jpg"
+      },
+      {
+        "id": "tt0799922:2:16",
+        "title": "La Harper del futuro",
+        "season": 2,
+        "episode": 16,
+        "overview": "Alex, Justin y Max viajan al futuro.",
+        "released": "2009-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/twnu9VKlGq80pR5SkK7pGzrLpzA.jpg"
+      },
+      {
+        "id": "tt0799922:2:17",
+        "title": "Alex hace el bien",
+        "season": 2,
+        "episode": 17,
+        "overview": "Por ayudar a un amigo mayor, Alex llega siempre tarde a la escuela.",
+        "released": "2009-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vd1caPUZnA9bYVJRMiKfzmqhjdD.jpg"
+      },
+      {
+        "id": "tt0799922:2:18",
+        "title": "Hugh no es enorme",
+        "season": 2,
+        "episode": 18,
+        "overview": "Hugh Normous escapa de casa al descubrir que es adoptado.",
+        "released": "2009-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/88pUxfBVNc8AIRKJEC0xBf1xeC6.jpg"
+      },
+      {
+        "id": "tt0799922:2:19",
+        "title": "Que no llueva en el desfile de Justin: Tierra",
+        "season": 2,
+        "episode": 19,
+        "overview": "Justin intenta salvar el empleo de su meteorólogo favorito.",
+        "released": "2009-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qpHeTX1ZH2ULVfyRcjbGQkviORU.jpg"
+      },
+      {
+        "id": "tt0799922:2:20",
+        "title": "La noche familiar de juegos",
+        "season": 2,
+        "episode": 20,
+        "overview": "Alex intercambia cerebro con Harper para aprobar un examen.",
+        "released": "2009-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iLGQn6lHLIAOho74XgMbP8nZeCz.jpg"
+      },
+      {
+        "id": "tt0799922:2:21",
+        "title": "La nueva novia de Justin",
+        "season": 2,
+        "episode": 21,
+        "overview": "A Alex le da celos la naciente amistad entre Justin y Harper.",
+        "released": "2009-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e4LY7LDTBq8bkR9PuMzPht2dVTD.jpg"
+      },
+      {
+        "id": "tt0799922:2:22",
+        "title": "Mi tutora Tutora",
+        "season": 2,
+        "episode": 22,
+        "overview": "Una tutora ayuda a Max a aprobar un examen.",
+        "released": "2009-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2rXSW8vML2zmR2fAjA8AN03HeQD.jpg"
+      },
+      {
+        "id": "tt0799922:2:23",
+        "title": "Pintado por el comité",
+        "season": 2,
+        "episode": 23,
+        "overview": "A Alex le encargan pintar el mural de la escuela.",
+        "released": "2009-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/btvDayUKW0mbT9NQhtF8P8TH8K8.jpg"
+      },
+      {
+        "id": "tt0799922:2:24",
+        "title": "Hechicero por un día",
+        "season": 2,
+        "episode": 24,
+        "overview": "Alex le da a Jerry un gorro de Merlín con deseos ilimitados.",
+        "released": "2009-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jxz7HZGkEix1ysEYjJ2NUrWkB8p.jpg"
+      },
+      {
+        "id": "tt0799922:2:25",
+        "title": "Naufragando (a otro programa)",
+        "season": 2,
+        "episode": 25,
+        "overview": "A Justin le emociona conocer a London Tipton.",
+        "released": "2009-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5ZUkJbJsfFlngl9bC1zi135Yraj.jpg"
+      },
+      {
+        "id": "tt0799922:2:26",
+        "title": "Hechiceros vs. Vampiros en Waverly Place",
+        "season": 2,
+        "episode": 26,
+        "overview": "Los Russo deben acabar con un restaurante rival.",
+        "released": "2009-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5Or81DrhHAss4JLK1cIfWSmccy8.jpg"
+      },
+      {
+        "id": "tt0799922:2:27",
+        "title": "Hechiceros vs. Vampiros - Mordidas deliciosas",
+        "season": 2,
+        "episode": 27,
+        "overview": "La novia de Justin cambia el estilo de vida de los Russo.",
+        "released": "2009-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ocG4SEwVheg3pdAeOpMZLLWNf9L.jpg"
+      },
+      {
+        "id": "tt0799922:2:28",
+        "title": "Hechiceros vs. Vampiros - Una cita de ensueño",
+        "season": 2,
+        "episode": 28,
+        "overview": "Alex sigue saliendo con Dean al entrar en sus sueños con magia.",
+        "released": "2009-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5YjVQ9t8o0NsSg5LK3IT6yCi8aM.jpg"
+      },
+      {
+        "id": "tt0799922:2:29",
+        "title": "Hechiceros y Vampiros vs. Zombis",
+        "season": 2,
+        "episode": 29,
+        "overview": "Justin convence a Juliet de tener un baile memorable.",
+        "released": "2009-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z0J9lqFs5Hz2cAqGnjTrFU9zgP6.jpg"
+      },
+      {
+        "id": "tt0799922:2:30",
+        "title": "A repetir la prueba",
+        "season": 2,
+        "episode": 30,
+        "overview": "Jerry y sus hermanos, Kelbo y Megan, hacen la prueba de magia.",
+        "released": "2009-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mOkDaCKTdRuYKwZWAYuo4EOTrCD.jpg"
+      },
+      {
+        "id": "tt0799922:3:1",
+        "title": "Frankenchica",
+        "season": 3,
+        "episode": 1,
+        "overview": "Justin crea un monstruo para proteger su habitación de Alex.",
+        "released": "2009-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/prwo0aNlhomajpWeEEpjXKqfYOj.jpg"
+      },
+      {
+        "id": "tt0799922:3:2",
+        "title": "Halloween",
+        "season": 3,
+        "episode": 2,
+        "overview": "Los Russo intentan crear la casa encantada más aterradora.",
+        "released": "2009-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u5uY17aJ4RFY8Z5uq6nN7h73T1v.jpg"
+      },
+      {
+        "id": "tt0799922:3:3",
+        "title": "El cazador de monstruos",
+        "season": 3,
+        "episode": 3,
+        "overview": "Justin se inscribe en la clase de Caza de Monstruos.",
+        "released": "2009-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/avvyQ43yhh806sSo86HIWX4XNC.jpg"
+      },
+      {
+        "id": "tt0799922:3:4",
+        "title": "Los tres monstruos",
+        "season": 3,
+        "episode": 4,
+        "released": "2009-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iw3eq3c1jkQCK9zWhyU7qak7X44.jpg"
+      },
+      {
+        "id": "tt0799922:3:5",
+        "title": "Una noche en el Lazerama",
+        "season": 3,
+        "episode": 5,
+        "overview": "Como parte de su tarea escolar, Justin debe buscar una momia.",
+        "released": "2009-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gmAantLkhzDXwROGaKngKJlfE5w.jpg"
+      },
+      {
+        "id": "tt0799922:3:6",
+        "title": "La casa de muñecas",
+        "season": 3,
+        "episode": 6,
+        "overview": "Alex se encoge para entrar en su vieja casa de muñecas.",
+        "released": "2009-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/II6I49hVfHwXAD84V5vuQ5GmUB.jpg"
+      },
+      {
+        "id": "tt0799922:3:7",
+        "title": "Auxiliar de maratonista",
+        "season": 3,
+        "episode": 7,
+        "overview": "Harper descubre que Alex la ayudó a ganar muchas competencias.",
+        "released": "2009-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oyD3lSZdvzsDEwMBgoFt5GgKU0w.jpg"
+      },
+      {
+        "id": "tt0799922:3:8",
+        "title": "Alex hechiza a un chico",
+        "season": 3,
+        "episode": 8,
+        "overview": "Alex usa un hechizo con su nuevo novio.",
+        "released": "2010-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/puIcfE0crnHrjPsM918qhRIauTZ.jpg"
+      },
+      {
+        "id": "tt0799922:3:9",
+        "title": "Hechiceros vs. Hombres Lobo",
+        "season": 3,
+        "episode": 9,
+        "overview": "Alex se enamora de Mason, pero lo que hace parece sospechoso.",
+        "released": "2010-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4i5bCa0Kvxtgq1ry2DNxwAPLdvV.jpg"
+      },
+      {
+        "id": "tt0799922:3:10",
+        "title": "Alex positiva",
+        "season": 3,
+        "episode": 10,
+        "overview": "Alex quiere ir al baile con el líder de la banda de música.",
+        "released": "2010-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1CVdkNkcf5xz0spfe1Sjxj08bl7.jpg"
+      },
+      {
+        "id": "tt0799922:3:11",
+        "title": "Elección con detención",
+        "season": 3,
+        "episode": 11,
+        "overview": "Le ponen una trampa a Justin. Alex hace una amiga rebelde.",
+        "released": "2010-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9H0qOegAgcvakTLWdWYcZAGd5P5.jpg"
+      },
+      {
+        "id": "tt0799922:3:12",
+        "title": "Este tipo se parece a Shakira",
+        "season": 3,
+        "episode": 12,
+        "overview": "El tío Kelbo se convierte en Shakira por no seguir las reglas.",
+        "released": "2010-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1TXDzwdZmVbvR3YvtDIn3fuFnCJ.jpg"
+      },
+      {
+        "id": "tt0799922:3:13",
+        "title": "Comer con ritmo",
+        "season": 3,
+        "episode": 13,
+        "overview": "Alex y Justin solicitan conciertos a la hora del almuerzo.",
+        "released": "2010-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Ao1pA0KjcNApkfck4bB6xOhbhzM.jpg"
+      },
+      {
+        "id": "tt0799922:3:14",
+        "title": "La tercera rueda",
+        "season": 3,
+        "episode": 14,
+        "overview": "Alex descubre que su nueva amiga es una hechicera.",
+        "released": "2010-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pwAIXXuzCzX7NxVegZ3JEKxnDT6.jpg"
+      },
+      {
+        "id": "tt0799922:3:15",
+        "title": "El bueno, el malo y Alex",
+        "season": 3,
+        "episode": 15,
+        "overview": "Stevie lidera una revolución de hechiceros.",
+        "released": "2010-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7vBpVoXWxjer4BUlmNjIgeAPVdU.jpg"
+      },
+      {
+        "id": "tt0799922:3:16",
+        "title": "El show del Oeste",
+        "season": 3,
+        "episode": 16,
+        "overview": "¡El señor Laritate es transportado al Viejo Oeste!",
+        "released": "2010-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/srOlcFoWsOrZEeMeEZ8ggxCckCz.jpg"
+      },
+      {
+        "id": "tt0799922:3:17",
+        "title": "El logo de Alex",
+        "season": 3,
+        "episode": 17,
+        "overview": "Alex causa controversia cuando gana un premio.",
+        "released": "2010-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/po4yr5oOIc7a7iIAV6DtzwMOli6.jpg"
+      },
+      {
+        "id": "tt0799922:3:18",
+        "title": "Papá es un insecto",
+        "season": 3,
+        "episode": 18,
+        "overview": "Jerry es transformado en un insecto gigante.",
+        "released": "2010-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9z4uXCTxEZClV8sgijKCrL4qDs.jpg"
+      },
+      {
+        "id": "tt0799922:3:19",
+        "title": "La novia secreta de Max",
+        "season": 3,
+        "episode": 19,
+        "overview": "Max miente sobre su novia.",
+        "released": "2010-06-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iNX3f7Ax3ZZxdigM0BnKxpwr8jI.jpg"
+      },
+      {
+        "id": "tt0799922:3:20",
+        "title": "Alex Russo, ¿casamentera?",
+        "season": 3,
+        "episode": 20,
+        "overview": "¡Alex usa magia con Harper y Zeke para crear chispas!",
+        "released": "2010-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/479nFVUdF4T3GO476ZLSIflKfJk.jpg"
+      },
+      {
+        "id": "tt0799922:3:21",
+        "title": "Justin delincuente",
+        "season": 3,
+        "episode": 21,
+        "overview": "Alex revela que hizo un clon de Justin.",
+        "released": "2010-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zxp4iv1tY4qTmVYrGMkgL7Cbnsp.jpg"
+      },
+      {
+        "id": "tt0799922:3:22",
+        "title": "Capitán Jim Bob Sherwood",
+        "season": 3,
+        "episode": 22,
+        "overview": "Justin y Alex deben colaborar para hacer un cómic.",
+        "released": "2010-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qE9aMYHzZGow56zd2DbSLXINmSm.jpg"
+      },
+      {
+        "id": "tt0799922:3:23",
+        "title": "Hechiceros contra Finkles",
+        "season": 3,
+        "episode": 23,
+        "overview": "¡Alex intenta escapar del acto de los padres de Harper!",
+        "released": "2010-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lOLH6HkDgZxOZdt9qMT9n5zWPZM.jpg"
+      },
+      {
+        "id": "tt0799922:3:24",
+        "title": "Todo sobre tu-niverso",
+        "season": 3,
+        "episode": 24,
+        "overview": "Por un espejo, Alex pasa a un universo individual.",
+        "released": "2010-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v5lD6CBfxDNfomhBFf3macIN9kK.jpg"
+      },
+      {
+        "id": "tt0799922:3:25",
+        "title": "El tío Ernesto",
+        "season": 3,
+        "episode": 25,
+        "overview": "¡Los Russo deben ocultar sus poderes del tío de Theresa!",
+        "released": "2010-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oZnYLDESSwFtiL67wDDrKsXUDa5.jpg"
+      },
+      {
+        "id": "tt0799922:3:26",
+        "title": "Superándolo",
+        "season": 3,
+        "episode": 26,
+        "overview": "Harper quiere ayudar a Justin a superar a Juliet.",
+        "released": "2010-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zW8kGMBiIskl6ZpBimxZdbo2xbM.jpg"
+      },
+      {
+        "id": "tt0799922:3:27",
+        "title": "Hechiceros desatados",
+        "season": 3,
+        "episode": 27,
+        "overview": "Los chicos descubren que Mason es retenido por magos malvados.",
+        "released": "2010-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p5pRnplLUFfhaFz7j95TlOrt0ip.jpg"
+      },
+      {
+        "id": "tt0799922:3:28",
+        "title": "Hechiceros expuestos",
+        "season": 3,
+        "episode": 28,
+        "overview": "Una agencia secreta del gobierno pone en custodia a los Russo.",
+        "released": "2010-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6w3iiXUk0raMRe7XPgsZjNb0wOv.jpg"
+      },
+      {
+        "id": "tt0799922:4:1",
+        "title": "Alex le dice al mundo",
+        "season": 4,
+        "episode": 1,
+        "overview": "Los Russo vuelven a casa escapando de una agencia de gobierno.",
+        "released": "2010-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p9sS2DmX989HKoo7CvOZ1qZ2Fm8.jpg"
+      },
+      {
+        "id": "tt0799922:4:2",
+        "title": "Alex se da por vencida",
+        "season": 4,
+        "episode": 2,
+        "overview": "Alex renuncia a su entrenamiento como hechicera.",
+        "released": "2010-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kBIFmcTmH2hbubzQW57OmRU3kRQ.jpg"
+      },
+      {
+        "id": "tt0799922:4:3",
+        "title": "Suerte hechizada",
+        "season": 4,
+        "episode": 3,
+        "overview": "Harper convence a Alex de que la vida sin magia no es mala.",
+        "released": "2010-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ll0SPi4PRjw1Pe0YrMwjizZUNtn.jpg"
+      },
+      {
+        "id": "tt0799922:4:4",
+        "title": "Viaje al centro de Mason",
+        "season": 4,
+        "episode": 4,
+        "overview": "Alex debe romper con Mason después de volverse mortal.",
+        "released": "2010-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gRCWyUeYI6dMYr051Z7vPiuQ7uh.jpg"
+      },
+      {
+        "id": "tt0799922:4:5",
+        "title": "Tres Maxes y una pequeña dama",
+        "season": 4,
+        "episode": 5,
+        "overview": "Jerry convence a Max de unirse a los Hechiceros Sofisticados.",
+        "released": "2011-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e6cpGYAk1RRS3uGmXgBlCPEIq1o.jpg"
+      },
+      {
+        "id": "tt0799922:4:6",
+        "title": "La niña de papá",
+        "season": 4,
+        "episode": 6,
+        "overview": "¡A Alex le da celos que Jerry le ponga tanta atención a Maxine!",
+        "released": "2011-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vP5oWLT8CMhiyUIGzsH48FJS8ik.jpg"
+      },
+      {
+        "id": "tt0799922:4:7",
+        "title": "Todo es Rosie para Justin",
+        "season": 4,
+        "episode": 7,
+        "overview": "Una nueva estudiante, Rosie, llega al salón de Justin.",
+        "released": "2011-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dIc7JXZEFWtNtBNKFHbm1HwEzw4.jpg"
+      },
+      {
+        "id": "tt0799922:4:8",
+        "title": "Bailando con ángeles",
+        "season": 4,
+        "episode": 8,
+        "overview": "Alex y Harper acompañan a Rosie a su cita con Justin.",
+        "released": "2011-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/laSZlIontvNv6PbRCoMgoWDtlwr.jpg"
+      },
+      {
+        "id": "tt0799922:4:9",
+        "title": "Hechiceros contra ángeles",
+        "season": 4,
+        "episode": 9,
+        "overview": "Tina revela que Rosie no es quien dice ser.",
+        "released": "2011-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dzSzahzjwMqEO8xXl3kwtgVAZca.jpg"
+      },
+      {
+        "id": "tt0799922:4:10",
+        "title": "Volver a Max",
+        "season": 4,
+        "episode": 10,
+        "overview": "Harper actúa en la obra “Espíritu de Estados Unidos”.",
+        "released": "2011-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ijcr4SAkCSwmPV0ioe0xwnq4ZPW.jpg"
+      },
+      {
+        "id": "tt0799922:4:11",
+        "title": "Zeke se entera",
+        "season": 4,
+        "episode": 11,
+        "overview": "Alex usa sus poderes para ayudar a Zeke con un truco de magia.",
+        "released": "2011-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gbjaGS3GbX5IRjVWkvaSB8U9InV.jpg"
+      },
+      {
+        "id": "tt0799922:4:12",
+        "title": "Magia enmascarada",
+        "season": 4,
+        "episode": 12,
+        "overview": "Alex descubre que su luchador favorito se retiró por ella.",
+        "released": "2011-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/JHnaLkU4A3xy14LgPpp1FlYRvc.jpg"
+      },
+      {
+        "id": "tt0799922:4:13",
+        "title": "Los padres de Mason",
+        "season": 4,
+        "episode": 13,
+        "overview": "Mason les dice a sus padres que Alex es un hombre lobo.",
+        "released": "2011-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q80nY8lgaS7I2Ghf86te3rBmaY3.jpg"
+      },
+      {
+        "id": "tt0799922:4:14",
+        "title": "Domador de bestias",
+        "season": 4,
+        "episode": 14,
+        "overview": "¡Los chicos ganan boletos para un evento de domar bestias!",
+        "released": "2011-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n77M76Ic3HsAUJOD1bqNy5Zsak4.jpg"
+      },
+      {
+        "id": "tt0799922:4:15",
+        "title": "La hechicera del año",
+        "season": 4,
+        "episode": 15,
+        "overview": "A Alex le toman una foto donde su examor la felicita.",
+        "released": "2011-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wBmFMHeia8t6YCwNacHA6hUXPSf.jpg"
+      },
+      {
+        "id": "tt0799922:4:16",
+        "title": "Desgracia en la playa",
+        "season": 4,
+        "episode": 16,
+        "overview": "Alex acepta probar su fortuna en un día en la playa.",
+        "released": "2011-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9B090UJPLiEmme9rPuopHtrzfoS.jpg"
+      },
+      {
+        "id": "tt0799922:4:17",
+        "title": "Hechiceros contra asteroides",
+        "season": 4,
+        "episode": 17,
+        "overview": "Alex, Justin y Max usan su magia para repeler un asteroide.",
+        "released": "2011-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zdO3JikfH5qYnlkNzgydglMDh13.jpg"
+      },
+      {
+        "id": "tt0799922:4:18",
+        "title": "Justin vuelve a la competencia",
+        "season": 4,
+        "episode": 18,
+        "overview": "Alex ayuda a Justin a preparar a sus estudiantes.",
+        "released": "2011-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5QUtMjpot3jhF6yH42iGHaX8UQe.jpg"
+      },
+      {
+        "id": "tt0799922:4:19",
+        "title": "Alex la titiritera",
+        "season": 4,
+        "episode": 19,
+        "overview": "Alex y Harper deciden rentar un apartamento.",
+        "released": "2011-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n7HePj0AX111R1aVWoXtF5ttzca.jpg"
+      },
+      {
+        "id": "tt0799922:4:20",
+        "title": "Mis dos Harpers",
+        "season": 4,
+        "episode": 20,
+        "overview": "Alex usa magia para crear al clon de Harper y salir con ella.",
+        "released": "2011-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s8Di56XYH2zbWdiDMg94n0cFuBU.jpg"
+      },
+      {
+        "id": "tt0799922:4:21",
+        "title": "Hechiceros del apartamento 13B",
+        "season": 4,
+        "episode": 21,
+        "overview": "Alex y Harper se mudan a un apartamento con un piso secreto.",
+        "released": "2011-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t8hiKp28jLDtOxBp9ZRAbwTDCWS.jpg"
+      },
+      {
+        "id": "tt0799922:4:22",
+        "title": "Compañera fantasma",
+        "season": 4,
+        "episode": 22,
+        "overview": "Alex y Harper aceptan a una fantasma para compartir la renta.",
+        "released": "2011-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j2mOxYYDMPAY9nNhMmafaQCWEsm.jpg"
+      },
+      {
+        "id": "tt0799922:4:23",
+        "title": "Convivir con un zombi",
+        "season": 4,
+        "episode": 23,
+        "overview": "El Sr. Laritate se topa con el piso secreto 13.",
+        "released": "2011-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kya2cHh4v9kUukHUu2wFApyznrb.jpg"
+      },
+      {
+        "id": "tt0799922:4:24",
+        "title": "Hechiceros contra todo",
+        "season": 4,
+        "episode": 24,
+        "overview": "Alex, Justin y Max deben usar sus poderes para vencer a Gorog.",
+        "released": "2011-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vwnUeTvn0iLYeWO1r9dLEeUyfuw.jpg"
+      },
+      {
+        "id": "tt0799922:4:25",
+        "title": "Rock alrededor del tiempo",
+        "season": 4,
+        "episode": 25,
+        "overview": "Los Russo podrían perder la subestación.",
+        "released": "2011-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h9MdatckRa28qWV8tYuwhMwKoTO.jpg"
+      },
+      {
+        "id": "tt0799922:4:26",
+        "title": "Harpercienta",
+        "season": 4,
+        "episode": 26,
+        "overview": "Harper es transportada a un mundo semejante al de Cenicienta.",
+        "released": "2011-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dOajrn2ToNPK78U6e9BJ6MjT8nA.jpg"
+      },
+      {
+        "id": "tt0799922:4:27",
+        "title": "¿Quién será el hechicero de la familia?",
+        "season": 4,
+        "episode": 27,
+        "overview": "Alex, Justin y Max compiten en un show familiar de juegos para saber quien sera el hechicero de la familia.",
+        "released": "2012-01-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rFxCsTdolHHqOcZFjuO9xEFmR2P.jpg"
+      }
+    ]
+  }
+}

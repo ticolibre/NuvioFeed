@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "id": "tt9335498",
+    "type": "series",
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "poster": "https://image.tmdb.org/t/p/w500/inXU5hvbDbitrYOgLrq2QjYqiJD.jpg",
+    "posterShape": "poster",
+    "description": "En la era Taisho de Japón, Tanjiro, un joven vendedor de carbón, descubre que su familia ha sido asesinada por un demonio. Su hermana Nezuko, la única superviviente, se ha convertido en demonio. Tanjiro decide convertirse en cazador de demonios para devolver a su hermana a la normalidad y vengar a su familia",
+    "releaseInfo": "2019",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt9335498:1:1",
+        "title": "Crueldad",
+        "season": 1,
+        "episode": 1,
+        "overview": "Después de vender carbón en el pueblo, Tanjiro regresa a su casa y encuentra muerta a su familia. Una única persona queda viva: su hermana Nezuko, pero no es la misma...",
+        "released": "2019-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l2C38X6RsbD5gom4iGvFe6yuPEy.jpg"
+      },
+      {
+        "id": "tt9335498:1:2",
+        "title": "Entrenador Sakonji Urokodaki",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tanjiro parte al monte Sagiri acompañado por Nezuko. En el camino, huele sangre proveniente de un templo. Una vez dentro, se topa con una espantosa escena.",
+        "released": "2019-04-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r2MZH3snLABIpqUPj8YOF9HIaBf.jpg"
+      },
+      {
+        "id": "tt9335498:1:3",
+        "title": "Sabito y Makomo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Supervisado por Sakonji, Tanjiro se entrena para sumarse a la Cofradía de Matademonios. Pero primero deberá sobrevivir al proceso de selección final.",
+        "released": "2019-04-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m9sWQLtoU1G5jdHOYUnykin0xxw.jpg"
+      },
+      {
+        "id": "tt9335498:1:4",
+        "title": "Selección final",
+        "season": 1,
+        "episode": 4,
+        "overview": "Comienza la selección final. Durante siete días, Tanjiro y otros aprendices deben enfrentar a demonios que fueron capturados con vida por espadachines matademonios.",
+        "released": "2019-04-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kH6Ir9EWGoqkTMoiQnx5fJmwY2I.jpg"
+      },
+      {
+        "id": "tt9335498:1:5",
+        "title": "Tu acero",
+        "season": 1,
+        "episode": 5,
+        "overview": "Tanjiro es uno de los cuatro sobrevivientes de la selección final. Luego de elegir una nueva espada, recibe órdenes para su primera misión como matademonios.",
+        "released": "2019-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fWsUsEVYaOHh6bPkgH7HeQxotmP.jpg"
+      },
+      {
+        "id": "tt9335498:1:6",
+        "title": "Un cazador acompañado por un demonio",
+        "season": 1,
+        "episode": 6,
+        "overview": "Para su primer encargo, Tanjiro se dirige a un pueblo del noroeste, donde conoce a Kazumi, cuya enamorada ha desaparecido sin dejar rastro.",
+        "released": "2019-05-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4GeXmmkzRBduK2KXMGMrLlKYg44.jpg"
+      },
+      {
+        "id": "tt9335498:1:7",
+        "title": "Muzan Kibutsuji",
+        "season": 1,
+        "episode": 7,
+        "overview": "Tanjiro se zambulle en un pantano para enfrentar a un demonio dividido en tres. Pero la endemoniada criatura se niega a dar información sobre Muzan Kibutsuji.",
+        "released": "2019-05-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aR1bB3ltg1FjGc6N3xBpiYz7Huo.jpg"
+      },
+      {
+        "id": "tt9335498:1:8",
+        "title": "El encantador olor a sangre",
+        "season": 1,
+        "episode": 8,
+        "overview": "Para su siguiente misión, Tanjiro se dirige a la bulliciosa zona de Asakusa, en Tokio, para buscar a un demonio que se esconde entre las multitudes.",
+        "released": "2019-05-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hnvD3jFov03BLjvGrqTueXZfvwL.jpg"
+      },
+      {
+        "id": "tt9335498:1:9",
+        "title": "Demonios de temari y de flechas",
+        "season": 1,
+        "episode": 9,
+        "overview": "Mientras se refugia en una casa oculta gracias a un hechizo de Yushiro, Tanjiro protege a los que están dentro contra los demonios enviados por Muzan Kibutsuji.",
+        "released": "2019-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pMST9IQizKO4EE6P54yFFMBz7vE.jpg"
+      },
+      {
+        "id": "tt9335498:1:10",
+        "title": "Juntos para siempre",
+        "season": 1,
+        "episode": 10,
+        "overview": "Nezuko se enfrenta a Susamaru y a su letal ataque de bolas temari, pero Tamayo interviene con su propio hechizo antes de que la batalla se intensifique.",
+        "released": "2019-06-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nDbVix8vunXKj6zLcVEaxwF7YTq.jpg"
+      },
+      {
+        "id": "tt9335498:1:11",
+        "title": "Mansión de los tambores",
+        "season": 1,
+        "episode": 11,
+        "overview": "Tanjiro viaja al sudsudeste para su siguiente misión. En camino a su destino, se encuentra con Zenitsu Agatsuma, otro espadachín y sobreviviente de la selección final.",
+        "released": "2019-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xKOewshyBZcisLUWrOQjEGe650L.jpg"
+      },
+      {
+        "id": "tt9335498:1:12",
+        "title": "El jabalí muestra sus colmillos mientras Zenitsu duerme",
+        "season": 1,
+        "episode": 12,
+        "overview": "Mientras Zenitsu se deja poseer por el miedo dentro de una misteriosa casa giratoria, Tanjiro pelea contra un demonio con tambores y una figura enmascarada.",
+        "released": "2019-06-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qrPsA5eNGH4sPwMImUhOvlShd7U.jpg"
+      },
+      {
+        "id": "tt9335498:1:13",
+        "title": "Algo más importante que la vida",
+        "season": 1,
+        "episode": 13,
+        "overview": "Con los giros que da la casa con cada golpe de tambor, Tanjiro lucha por sobrevivir ante el aplastante ataque de Kyogai.",
+        "released": "2019-06-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5ixd8rC1tTDHf5kSo5o7hbghpOi.jpg"
+      },
+      {
+        "id": "tt9335498:1:14",
+        "title": "La casa con el blasón familiar de glicinias",
+        "season": 1,
+        "episode": 14,
+        "overview": "Ya fuera de la casa maldita, Tanjiro encuentra a Zenitsu golpeado y ensangrentado, y se ve obligado a pelear contra un combativo chico con máscara de jabalí.",
+        "released": "2019-07-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AgDZ0yW2Me7pB7ZLVb4ynbBxRZp.jpg"
+      },
+      {
+        "id": "tt9335498:1:15",
+        "title": "Montaña Natagumo",
+        "season": 1,
+        "episode": 15,
+        "overview": "Tanjiro se dirige al nornordeste con Inosuke y Zenitsu para cumplir con su siguiente asignación. Llegan al monte Natagumo, donde habita una horda de arañas.",
+        "released": "2019-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8CNCZfubtFYzvuo4GgIDCSXBYvj.jpg"
+      },
+      {
+        "id": "tt9335498:1:16",
+        "title": "Deja que otro vaya primero",
+        "season": 1,
+        "episode": 16,
+        "overview": "Con su colega de la Cofradía bajo el control del demonio araña, Inosuke y Tanjiro deben encontrar la manera de someter a sus camaradas sin lastimarlos.",
+        "released": "2019-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5onw1Gg17048SoUZIuoT7FsO90a.jpg"
+      },
+      {
+        "id": "tt9335498:1:17",
+        "title": "Debes dominar una sola cosa",
+        "season": 1,
+        "episode": 17,
+        "overview": "Después de enfrentar a la araña madre, Tanjiro se entera de que un demonio que vive en el bosque podría ser la clave para que Nezuko vuelva a ser humana.",
+        "released": "2019-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oKOrMhozP1BX6gWiJAcuZVSm6Zd.jpg"
+      },
+      {
+        "id": "tt9335498:1:18",
+        "title": "Un lazo forjado",
+        "season": 1,
+        "episode": 18,
+        "overview": "Un poderoso ataque del padre de la familia de demonios arácnidos arroja a Tanjiro por los aires. Una vez en tierra, debe pelear con otro aterrador demonio: Rui.",
+        "released": "2019-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ra7dCRS9E39fnhHieFKF47ldESl.jpg"
+      },
+      {
+        "id": "tt9335498:1:19",
+        "title": "Dios del fuego",
+        "season": 1,
+        "episode": 19,
+        "overview": "Asombrado con su destreza y su clase, Inosuke desafía a duelo a Giyu Tomioka, un espadachín de alto rango de la Cofradía de Matademonios.",
+        "released": "2019-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b4o8DMgM61MJymZMFyR2nRnOifl.jpg"
+      },
+      {
+        "id": "tt9335498:1:20",
+        "title": "Una familia formada por la fuerza",
+        "season": 1,
+        "episode": 20,
+        "overview": "Tanjiro se prepara para lo peor cuando le toca enfrentar el hechizo de Rui. Pero luego, un recuerdo de su padre lo inspira a desplegar un nuevo movimiento.",
+        "released": "2019-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jfdqvWLwsYiFcpR4mGlk2lzIT8g.jpg"
+      },
+      {
+        "id": "tt9335498:1:21",
+        "title": "Contra las reglas del cuerpo",
+        "season": 1,
+        "episode": 21,
+        "overview": "Al ver a Tanjiro gravemente herido y decidido a defender a su hermana, Rui recuerda lo único que anhela y no tiene: un verdadero lazo familiar.",
+        "released": "2019-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2EX3WZVmtELyqdcDtGLf5KJjZ6.jpg"
+      },
+      {
+        "id": "tt9335498:1:22",
+        "title": "El patrón de la mansión",
+        "season": 1,
+        "episode": 22,
+        "overview": "Llevan a rastras a Tanjiro ante una asamblea de los Hashira, los espadachines más poderosos de la Cofradía de Matademonios, para someterlo a juicio.",
+        "released": "2019-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2bo6M1fLHXz47b3NoW3Y5zesTKB.jpg"
+      },
+      {
+        "id": "tt9335498:1:23",
+        "title": "Reunión de pilares",
+        "season": 1,
+        "episode": 23,
+        "overview": "A pesar de la decisión de Ubuyashiki de aceptar a Tanjiro y a Nezuko en la Cofradía, Sanemi trata de tentar a Nezuko con su propia sangre.",
+        "released": "2019-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gdlEXQbUuVtIzKxuOMWd2BhT4n8.jpg"
+      },
+      {
+        "id": "tt9335498:1:24",
+        "title": "Entrenamiento de rehabilitación",
+        "season": 1,
+        "episode": 24,
+        "overview": "Tanjiro y otros miembros de la Cofradía reciben tratamiento en la residencia de Shinobu. Dos semanas después, Inosuke y él comienzan a entrenar para recuperar su fuerza.",
+        "released": "2019-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hhZsnP34Tjx568RJwSTN9nkkCcX.jpg"
+      },
+      {
+        "id": "tt9335498:1:25",
+        "title": "Tsuguko, Kanao Tsuyuri",
+        "season": 1,
+        "episode": 25,
+        "overview": "Tanjiro entrena para mantener la Respiración de Total Concentración durante todo el día. Por miedo a quedar atrás, Inosuke y Zenitsu también reanudan el entrenamiento.",
+        "released": "2019-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4VmgnTSJvOPbfy7k51t94T4q88e.jpg"
+      },
+      {
+        "id": "tt9335498:1:26",
+        "title": "Una nueva misión",
+        "season": 1,
+        "episode": 26,
+        "overview": "Muzan Kibutsuji convoca a los demonios de rangos inferiores. Después de una purga, alguien recibe una tarea. El cuervo de Tanjiro aparece con su nueva misión.",
+        "released": "2019-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oa3rVcE4H6PkbwJ8IWbDZ4EMHP0.jpg"
+      },
+      {
+        "id": "tt9335498:2:1",
+        "title": "El Pilar del Fuego, Kyojuro Rengoku",
+        "season": 2,
+        "episode": 1,
+        "overview": "El Pilar del Fuego, Kyojuro Rengoku recibe nuevas órdenes: viajar a bordo del Tren Infinito, donde ya han desaparecido 40 personas, e investigar el asunto. Tras abandonar la sede de los Cazadores de Demonios, parte a su nueva misión.",
+        "released": "2021-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s25sv0IoUYWL24MhoYbYU5idlZ5.jpg"
+      },
+      {
+        "id": "tt9335498:2:2",
+        "title": "Un sueño profundo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Kyojuro Rengoku se dirige al Tren Infinito para investigar la desaparición de más de cuarenta pasajeros y de camino se encuentra con un demonio. Tras salvar a las personas del demonio, por fin llega al Tren Infinito. ¿Qué le aguardará?",
+        "released": "2021-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3D1Ke4O5eRcKr255ddlDTnwmoa6.jpg"
+      },
+      {
+        "id": "tt9335498:2:3",
+        "title": "Si fuera verdad…",
+        "season": 2,
+        "episode": 3,
+        "overview": "Tanjiro, Nezuko, Zenitsu e Inosuke se unen a Rengoku en el Tren Infinito. Habiendo escuchado que puede haber demonios en el tren, están en alerta, pero pronto se encuentran sumergidos en un sueño. Dentro de este sueño Tanjiro se reúne con la familia que perdió tiempo atrás. Sin embargo, pronto descubrirá que es una trampa de Enmu (Primera Menguante).",
+        "released": "2021-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bsjdWN0H0t9Pe7nPYoxXTHd8KpP.jpg"
+      },
+      {
+        "id": "tt9335498:2:4",
+        "title": "Agravio",
+        "season": 2,
+        "episode": 4,
+        "overview": "Tanjiro, Zenitsu, Inosuke y Rengoku han caído en un sueño profundo mientras estaban bajo el control del Blood Demon Art de Enmu. Mientras Enmu intenta usar a sus cómplices para destruir los núcleos espirituales de Tanjiro y sus compañeros con el fin de derrotarlos.",
+        "released": "2021-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eECM3oquq3G8jFOGWTnxaFql3vM.jpg"
+      },
+      {
+        "id": "tt9335498:2:5",
+        "title": "Hacia delante",
+        "season": 2,
+        "episode": 5,
+        "overview": "Tras despertarse de su sueño cortándose su propia cabeza, Tanjiro enfrenta a Enmu, el causante de todo el alboroto en el tren. Enmu parece disfrutar lastimando a los pasajeros, lo que hace que Tanjiro se enfurezca más. Tanjiro logra cortar la cabeza a Enmu, pero descubre que este ha fusionado su cuerpo con el propio Tren Infinito. Tanjiro está contra las cuerdas, pero un recién despertado Inosuke aparece para ayudarle...",
+        "released": "2021-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wiyxLpsQtpG6tMO3HjaTwD98SD.jpg"
+      },
+      {
+        "id": "tt9335498:2:6",
+        "title": "Akaza",
+        "season": 2,
+        "episode": 6,
+        "overview": "Nezuko, Zenitsu y Rengoku luchan contra Emmu para proteger a los pasajeros. Mientras tanto, Tanji e Inosuke descubren dónde está el cuello de Emmu. Trabajan juntos para combatir el Arte Demoníaca de Sangra de Emmu y cortan el cuello a Emmu. El Tren Infinito se sacude de dolor y descarrila. ¿Cuál será el destino de los cerca de 200 pasajeros y de Tanjiro y sus amigos?",
+        "released": "2021-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9ceXZlhB2SLg6XvWKKjLYjHkETQ.jpg"
+      },
+      {
+        "id": "tt9335498:2:7",
+        "title": "Haz arder tu corazón",
+        "season": 2,
+        "episode": 7,
+        "overview": "El demonio que apareció ante Tanjiro y Rengoku tras derrotar a Enmu era la tercera Luna Superior, Akaza. Estando herido y en el suelo, Tanjiro está a punto de ser atacado por Akaza y consigue burlar a la muerte gracias a la rápida reacción de Rengoku. Durante la intensa batalla entre Rengoku y Akaza, Akaza le propone a Rengoku que se convierta en demonio. Rengoku rechaza sin dudar la oferta de Akaza, pero su cuerpo ya ha superado sus límites debido a sus heridas y el agotamiento acumulado.",
+        "released": "2021-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bSKs2NzkXd8n0f2bIT8lhEuR7DH.jpg"
+      },
+      {
+        "id": "tt9335498:3:1",
+        "title": "Tengen Uzui, Pilar del Sonido",
+        "season": 3,
+        "episode": 1,
+        "overview": "Tras el incidente del Tren Infinito, Akaza visita a Muzan Kibutsuji. Guiado por un cuervo, Tanjiro Kamado se dirige hacia la casa Rengoku para transmitirles las últimas palabras de Kyojuro Rengoku a su padre y su hermano menor. El grupo de Tanjiro regresa a la mansión mariposa.",
+        "released": "2021-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yHvD7Yhaxcn0Mc3BSI0yAFVrYT8.jpg"
+      },
+      {
+        "id": "tt9335498:3:2",
+        "title": "Entrada al distrito rojo",
+        "season": 3,
+        "episode": 2,
+        "overview": "Tras visitar Tanjiro la residencia Rengoku y conocer al hermano menor de Kyojuro, Senjuro, al cual le transmitió las últimas palabras de su hermano, Tanjiro pasa los días entrenando y cumpliendo misiones. Un día, al regresar a la Finca Mariposa, se encuentra con el Pilar del Sonido, Tengen Uzui, intentando llevarse a Aoi y a Naho en contra de su voluntad para una misión. Tanjiro, Zenitsu e Inosuke se ofrecen a ir a la misión en lugar de las chicas y así parten hacia su próximo destino: el Distrito Rojo.",
+        "released": "2021-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mTtIdiS9ntOjlBFaZxGRu5qkZdF.jpg"
+      },
+      {
+        "id": "tt9335498:3:3",
+        "title": "¿Qué eres?",
+        "season": 3,
+        "episode": 3,
+        "overview": "Después de llegar al distrito rojo, Tanjiro y sus compañeros se infiltran en cada Casa donde trabajan las esposas de Uzui, Suma, Makio e Hinatsuru. Mientras trabajan como aprendices y buscan en sus paraderos, Inosuke se entera de que Makio se ha estado apartando de todos en su habitación.",
+        "released": "2021-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1pEUWW6ynwjeCthb7NqQlSMtxso.jpg"
+      },
+      {
+        "id": "tt9335498:3:4",
+        "title": "Esta noche",
+        "season": 3,
+        "episode": 4,
+        "overview": "Inosuke entra en la habitación de Makio, y aunque está vacía, detecta la presencia de un demonio. Dándole caza, el demonio se le escapa por muy poco. Mientras tanto, en la Casa Kyogoku, Zenitsu escucha llorar a una joven y decide investigar, pero se encuentra con la Oiran, de quien está convencido que es un demonio. El demonio que habita la noche del Distrito Rojo como la Oiran Warabihime es en realidad la Sexta Creciente, Daki.",
+        "released": "2021-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oyZd3BMT8pH83PLLG07njxhKfkO.jpg"
+      },
+      {
+        "id": "tt9335498:3:5",
+        "title": "¡Llamemos la atención!",
+        "season": 3,
+        "episode": 5,
+        "overview": "Tras decirles Uzui que Zenitsu ha desaparecido y que se vayan del Distrito Rojo, Tanjiro e Inosuke deciden que van a rescatar a Zenitsu. Esa misma noche Tanjiro percibe el aroma de un demonio y, al seguirlo, encuentra a la oiran Koinatsu atrapada en la faja de Daki. Sin tener a Uzui cerca, Tanjiro deberá enfrentarse a la sexta Luna Creciente en solitario.",
+        "released": "2022-01-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xHobu2pJtnRePBxrvxafUHXKJNr.jpg"
+      },
+      {
+        "id": "tt9335498:3:6",
+        "title": "Recuerdos superpuestos",
+        "season": 3,
+        "episode": 6,
+        "overview": "Durante la fiera batalla con Daji, Tanjiro usa de forma continuada la Danza del Fuego Sagrado, lo cual supone una gran carga para su cuerpo. Mientras tanto, Inosuke llega al nido del obi del demonio y salva a las personas que había capturado. Makio, Suma y Zenitsu, a quienes han liberado del obi, se unen al combate. Cuando el techo del nido se abre, Uzui aparece empuñando sus espadas.",
+        "released": "2022-01-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9jSSKfsWXEPwiSz8eCMQK8St5gc.jpg"
+      },
+      {
+        "id": "tt9335498:3:7",
+        "title": "Transformación",
+        "season": 3,
+        "episode": 7,
+        "overview": "Enfurecido por el desprecio de Daki por la vida humana, Tanjiro la ataca con más intensidad y poco a poco acorrala al demonio. Pero ya ha superado su límite físico. Cuando Tanjiro se derrumba y todo parece perdido de nuevo, aparece Nezuko. Se desata una feroz batalla y Nezuko comienza a transformarse en algo más demoníaco...",
+        "released": "2022-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6IVxJBaIAOboW9HXzx0Kr0DevAZ.jpg"
+      },
+      {
+        "id": "tt9335498:3:8",
+        "title": "Reunión",
+        "season": 3,
+        "episode": 8,
+        "overview": "Cuando Nezuko intenta atacar a los transeúntes inocentes debido al estado avanzado de su forma demoníaca, Tanjiro por fin logra dormirla usando una canción de cuna. Mientras tanto, otro demonio emerge del cuerpo de Daki cuando Uzui la decapita: Gyutaro, el hermano mayor de Daki y la otra forma de la Sexta Creciente. Uzui ahora debe enfrentarse a ambos demonios, Daki y Gyutaro.",
+        "released": "2022-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5UvxFzLy40MGDue1fvTDFmz2WNj.jpg"
+      },
+      {
+        "id": "tt9335498:3:9",
+        "title": "Si derrotamos a una Luna Superior",
+        "season": 3,
+        "episode": 9,
+        "overview": "Tanjiro, Zenitsu e Inosuke se han unido a Uzui en la batalla. Mientras Zenitsu e Inosuke se enfrentan a Daki, Tanjiro y Uzui se ocupan de Gyutaro; sin embargo, tienen dificultades, ya que los demonios llevan ventaja con sus ataques coordinados. Pero gracias a la ayuda de Hinatsuru y al trabajo en equipo de Uzui, la espada de Tanjiro encuentra el camino hacia el cuello de Gyutaro...",
+        "released": "2022-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8qmQglGIAYFk3cPGONQrr3EpxQ7.jpg"
+      },
+      {
+        "id": "tt9335498:3:10",
+        "title": "¡No me rendiré!",
+        "season": 3,
+        "episode": 10,
+        "overview": "Tanjiro y Uzui se han separado debido al Arte Demoníaca de Gyutaro. Cuando Tanjiro se une al combate de Zenitsu e Inosuke, logran decapitar a Daki gracias a sus ataques combinados con sus espadas. Sin embargo, cuando Inosuke intenta huir con la cabeza de Daki, Gyutaro lo atraviesa con su guadaña. Uzui también está inconsciente, dejando a Tanjiro y al resto contra la pared.",
+        "released": "2022-02-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sn1028m8SPhF9OkfvXpnD11xar7.jpg"
+      },
+      {
+        "id": "tt9335498:3:11",
+        "title": "Aunque nos reencarnemos",
+        "season": 3,
+        "episode": 11,
+        "overview": "Uzui rechaza todos los ataques del arte demoníaca de sangre de Gyutaro, y pese a que Tanjiro tiene la mandíbula perforada, logra cortar la cabeza a Gyutaro. Aunque están gravemente heridos, Zenitsu e Inosuke también logran decapitar a Daki, de modo que han cortado la cabeza a ambos demonios a la vez. Justo cuando parecía que habían logrado vencer a la Sexta Creciente tras una dura batalla, Gyutaro utiliza su arte demoníaca de sangre...",
+        "released": "2022-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rO0yt4BIcSZRuIwPlK0QsyhjPZ3.jpg"
+      },
+      {
+        "id": "tt9335498:4:1",
+        "title": "El sueño de alguien",
+        "season": 4,
+        "episode": 1,
+        "overview": "Un demonio de rango superior ha sido derrotado por primera vez en cien años por el esfuerzo de Uzui, Tanjiro y sus camaradas. Esta noticia causa un efecto dominó no solo entre los miembros del Demon Slayer Corps, sino también entre los Demonios de Rango Superior, que han sido convocados por Muzan Kibutsuji. Mientras tanto, Tanjiro se está recuperando en la Mansión Mariposa cuando descubre que ha molestado a su forjador Haganezuka después de astillar su espada y decide dirigirse a la aldea donde viven los forjadores de espadas para hablar con él en persona.",
+        "released": "2023-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cqDCLZ050JmmumJyTA9FbuQe6a3.jpg"
+      },
+      {
+        "id": "tt9335498:4:2",
+        "title": "Yoriichi tipo cero",
+        "season": 4,
+        "episode": 2,
+        "overview": "Tanjiro se encuentra con el pilar Muichiro Tokito y Kotetsu, un chico de la aldea, discutiendo. Muichiro está exigiendo que Kotetsu le entregue una \"llave\". Al no poder mirar en silencio, Tanjiro interviene para hablar en nombre de Kotetsu, sin embargo, Muichiro se niega a escuchar. Según Kotetsu, la llave se usa para operar una muñeca mecánica de tipo batalla, Yoriichi Type Zero, que imita el movimiento de cierto espadachín de la vida real ...",
+        "released": "2023-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uvT1yTTx3rfAIP8AtqxtSM0ZxRB.jpg"
+      },
+      {
+        "id": "tt9335498:4:3",
+        "title": "Una espada de 300 años",
+        "season": 4,
+        "episode": 3,
+        "overview": "Tanjiro comienza su entrenamiento con Yoriichi Type Zero y es llevado al límite por el entrenamiento implacable y extremo de Kotetsu. A través de esta experiencia, Tanjiro domina una nueva habilidad para predecir dónde golpeará el próximo movimiento del oponente usando su sentido del olfato. Durante su entrenamiento, Tanjiro le da un golpe a Yoriichi Type Zero y termina destruyéndolo, pero una espada de hace más de 300 años aparece desde dentro...",
+        "released": "2023-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wquxWyBwsXG3lWrDjg7TQKSRfew.jpg"
+      },
+      {
+        "id": "tt9335498:4:4",
+        "title": "Gracias, Tokito",
+        "season": 4,
+        "episode": 4,
+        "overview": "La cabeza de Hantengu es cortada por Muichiro y se divide en dos clones. Muichiro queda impresionado por Karaku. Tanjiro, Nezuko y Genya se sorprenden cuando los clones se dividen en más clones. Muichiro rescata a Kotetsu de un demonio pez dorado.",
+        "released": "2023-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7CJiq7TcX6V6OcY9SnhMQMs0exV.jpg"
+      },
+      {
+        "id": "tt9335498:4:5",
+        "title": "Espada rojo brillante",
+        "season": 4,
+        "episode": 5,
+        "overview": "Después de estar inconciente por el ataque de los clones de la cuarta luna superior, Tanjiro junto con Nezuko logran volver su espada de un rojo brillante al mismo tiempo que los recuerdos heredados le muestran más información sobre el espadachín Yoriichi, mientras tanto Mitsuri llega a defender a la aldea que era atacada por el arte de sangre demoníaca de Gyokko. Por su parte Muichiro va a salvar a Kanamori junto con Kotetsu, sin embargo se detiene porque siente la precencia de una luna demoniaca que se esconde dentro de unos jarrones.",
+        "released": "2023-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7DvvdeA0bY3VIhicNYRuD19W28N.jpg"
+      },
+      {
+        "id": "tt9335498:4:6",
+        "title": "¿No querías ser un pilar?",
+        "season": 4,
+        "episode": 6,
+        "overview": "Genya y Tanjiro colaboran para poder deshacerse de los cuatro demonios que conforman la Creciente Cuatro, pero es entonces cuando Tanjiro, frustrado ante la idea de perder, descubre que tal vez haya algo más.",
+        "released": "2023-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg"
+      },
+      {
+        "id": "tt9335498:4:7",
+        "title": "Los villanos más detestables",
+        "season": 4,
+        "episode": 7,
+        "overview": "Tanjiro tiene que hacer frente a un nuevo enemigo, aunque no comprende la razón por la que ha aparecido de pronto.",
+        "released": "2023-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7jOdHvdpD5oKGsRgixuMCJ5P5vJ.jpg"
+      },
+      {
+        "id": "tt9335498:4:8",
+        "title": "El Mu de Muichiro",
+        "season": 4,
+        "episode": 8,
+        "overview": "Tokito recuerda su duro pasado y sacará fuerzas de flaqueza para hacer frente a su enemigo y salvar a Kotetsu.",
+        "released": "2023-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/twKgIalhN0PeahBx8mwk8UaMhvh.jpg"
+      },
+      {
+        "id": "tt9335498:4:9",
+        "title": "Muichiro Tokito, el Pilar de la Neblina",
+        "season": 4,
+        "episode": 9,
+        "overview": "Seremos testigos del final del combate entre Muichiro y Gyokko. ¿Quién saldrá vencedor de este duelo a muerte?",
+        "released": "2023-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg"
+      },
+      {
+        "id": "tt9335498:4:10",
+        "title": "Mitsuri Kanroji, el Pilar del Amor",
+        "season": 4,
+        "episode": 10,
+        "overview": "Conoceremos con más detalle el pasado de Mitsuri y todo el rechazo que sufrió de joven debido a su gran fuerza y sus particulares rasgos físicos.",
+        "released": "2023-06-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg"
+      },
+      {
+        "id": "tt9335498:4:11",
+        "title": "Nuestros lazos y la luz del alba",
+        "season": 4,
+        "episode": 11,
+        "released": "2023-06-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kFvPNnB8215j0xudEtFXa7oJ8F6.jpg"
+      },
+      {
+        "id": "tt9335498:5:1",
+        "title": "Para vencer a Muzan Kibutsuji",
+        "season": 5,
+        "episode": 1,
+        "overview": "Tras lo sucedido en la aldea de los herreros, especialmente con Nezuko, los Pilares se reúnen para decidir cómo proceder a continuación.",
+        "released": "2024-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rgDvHS8LHTHuU4Xx64sSVvA39gZ.jpg"
+      },
+      {
+        "id": "tt9335498:5:2",
+        "title": "El dolor de Giyu Tomioka, el Pilar del Agua",
+        "season": 5,
+        "episode": 2,
+        "overview": "El patrón remite una carta a Tanjiro para encargarle que hable con Giyu Tomioka, el actual Pilar del Agua, y lo convenza de que ya no está solo y se una al entrenamiento con el resto. Pero ¿qué es lo que hace que Giyu sea como es? Tanjiro apenas sabe nada de él, pero, aunque no sabe qué decirle, tiene una gran voluntad.",
+        "released": "2024-05-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wJPkCpsVFmMS6lAgBbLW5zs8Q3f.jpg"
+      },
+      {
+        "id": "tt9335498:5:3",
+        "title": "¡Tanjiro se recupera y se une al entrenamiento!",
+        "season": 5,
+        "episode": 3,
+        "overview": "Tanjiro por fin tiene permiso para unirse al entrenamiento de los Pilares. Con renovadas energías se dirige a reforzar su cuerpo con Uzui.",
+        "released": "2024-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mNiT7VrfYxQXbgVqEEWtyM2EgRu.jpg"
+      },
+      {
+        "id": "tt9335498:5:4",
+        "title": "Me trae una sonrisa",
+        "season": 5,
+        "episode": 4,
+        "released": "2024-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bQQ0uQ5AJ7sYDbirDIzB33J7FgF.jpg"
+      },
+      {
+        "id": "tt9335498:5:5",
+        "title": "Hasta he devorado demonios",
+        "season": 5,
+        "episode": 5,
+        "overview": "Tanjiro entrena con Kanroji e Iguro antes de llegar con el Pilar del Viento. No obstante, una riña entre este y Genya acabará forzando a Tanjiro a ir con el siguiente Pilar.",
+        "released": "2024-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iiKJxsJOT69R86Y5QFtUUQmeha.jpg"
+      },
+      {
+        "id": "tt9335498:5:6",
+        "title": "El más fuerte del Cuerpo de Matademonios",
+        "season": 5,
+        "episode": 6,
+        "overview": "Tanjiro sigue su entrenamiento con el Pilar Roca, aunque sus pruebas son tan terribles que pocos las soportan. Inosuke y Tanjiro coinciden en algo: el Pilar Roca es el más fuerte de todos los Pilares.",
+        "released": "2024-06-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jwAiNnEDDgGathvC8VDTmfXqybH.jpg"
+      },
+      {
+        "id": "tt9335498:5:7",
+        "title": "Gyomei Himejima, el Pilar de las Rocas",
+        "season": 5,
+        "episode": 7,
+        "overview": "Tanjiro termina el entrenamiento de la roca y se separa de Zenitsu, que está muy callado desde que recibió una carta. Shinazugawa, por su parte, descubre algo extraño que no presagia nada bueno.",
+        "released": "2024-06-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1rw2hmzC7yJwtDfXuP9MIYQvJWQ.jpg"
+      },
+      {
+        "id": "tt9335498:5:8",
+        "title": "Los Pilares se reúnen",
+        "season": 5,
+        "episode": 8,
+        "overview": "Ubuyashiki recibe la visita de Muzan Kibutsuji y habla pausadamente con el demonio con el que ha estado enemistado tanto tiempo mientras los Pilares acuden a la mansión.",
+        "released": "2024-06-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a8QEWBNIfRzXN7g5WOdrPS3QeKy.jpg"
+      }
+    ]
+  }
+}

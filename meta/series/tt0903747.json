@@ -1,0 +1,583 @@
+{
+  "meta": {
+    "id": "tt0903747",
+    "type": "series",
+    "name": "Breaking Bad",
+    "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "posterShape": "poster",
+    "description": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+    "releaseInfo": "2008",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "9.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0903747:1:1",
+        "title": "Principio del fin",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un profesor de química de escuela secundaria recurre a la venta de drogas para mantener a su familia.",
+        "released": "2008-01-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg"
+      },
+      {
+        "id": "tt0903747:1:2",
+        "title": "El gato en la bolsa",
+        "season": 1,
+        "episode": 2,
+        "overview": "Luego del fracaso de su primer negocio de drogas, Walt y Jesse deben deshacerse de dos cadáveres. Skyler sospecha que su marido no está involucrado en nada bueno.",
+        "released": "2008-01-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg"
+      },
+      {
+        "id": "tt0903747:1:3",
+        "title": "Y la bolsa en el río",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras Walt limpia el desorden que quedó tras su primer negocio de drogas, piensa en decirle a Skyler la verdad sobre su enfermedad.",
+        "released": "2008-02-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg"
+      },
+      {
+        "id": "tt0903747:1:4",
+        "title": "Cáncer",
+        "season": 1,
+        "episode": 4,
+        "overview": "Al ser forzado a contar la verdad acerca de su enfermedad, Walt enfrenta el problema de cómo pagar una serie de caros tratamientos contra el cáncer.",
+        "released": "2008-02-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2UbRgW6apE4XPzhHPA726wUFyaR.jpg"
+      },
+      {
+        "id": "tt0903747:1:5",
+        "title": "Materia gris",
+        "season": 1,
+        "episode": 5,
+        "overview": "Skyler organiza una intervención para convencer a Walt de que acepte la generosa oferta de su excompañero de investigaciones de pagar el tratamiento contra el cáncer.",
+        "released": "2008-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/82G3wZgEvZLKcte6yoZJahUWBtx.jpg"
+      },
+      {
+        "id": "tt0903747:1:6",
+        "title": "Un loco puñado de nada",
+        "season": 1,
+        "episode": 6,
+        "overview": "Los efectos secundarios y el costo del tratamiento crecen, y Walt exige que Jesse encuentre un revendedor para sus drogas; Jesse termina en problemas con un exconvicto.",
+        "released": "2008-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rCCLuycNPL30W3BtuB8HafxEMYz.jpg"
+      },
+      {
+        "id": "tt0903747:1:7",
+        "title": "Acuerdo no violento",
+        "season": 1,
+        "episode": 7,
+        "overview": "Tras el encuentro cercano de Jesse con la muerte, Walt acepta producir más drogas para Tuco, mientras Skyler sospecha que su hermana robó un costoso regalo para bebés.",
+        "released": "2008-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg"
+      },
+      {
+        "id": "tt0903747:2:1",
+        "title": "Siete con treinta y siete",
+        "season": 2,
+        "episode": 1,
+        "overview": "Cuando preparan los planes para su gran negocio final de drogas, a Walt y Jesse les preocupa que a Tuco se le ocurra matarlos cuando quiera",
+        "released": "2009-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Uo1z56uKnX60JXvYYFWACHR31u.jpg"
+      },
+      {
+        "id": "tt0903747:2:2",
+        "title": "A las brasas",
+        "season": 2,
+        "episode": 2,
+        "overview": "Mientras la DEA pone en marcha la búsqueda de Tuco, Skyler recurre a Hank para que la ayude a encontrar a Walt.",
+        "released": "2009-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/th3SNe0gNgRguv8VveLd4f2JcaH.jpg"
+      },
+      {
+        "id": "tt0903747:2:3",
+        "title": "Picadura de una abeja muerta",
+        "season": 2,
+        "episode": 3,
+        "overview": "Walt intenta volver a acercarse a Skyler, y Jesse se encuentra sin hogar después de que sus padres lo echan de su casa.",
+        "released": "2009-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/abgJTOWYPdZGxAWhsg6lmtM8qcU.jpg"
+      },
+      {
+        "id": "tt0903747:2:4",
+        "title": "Abajo",
+        "season": 2,
+        "episode": 4,
+        "overview": "Walt lucha por intentar salvar su relación con Skyler, y Jesse se queda sin hogar cuando sus padres lo desalojan.",
+        "released": "2009-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gMXeL0qcQZi5Tfd4UhnkRJeI9oa.jpg"
+      },
+      {
+        "id": "tt0903747:2:5",
+        "title": "Rotura",
+        "season": 2,
+        "episode": 5,
+        "overview": "Hank trata de recobrar la compostura tras su encuentro con Tuco. Mientras, Jesse forma una pandilla para distribuir más producto por la ciudad.",
+        "released": "2009-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bPQxF63jhfT5eNYjhzuGEO7oMQg.jpg"
+      },
+      {
+        "id": "tt0903747:2:6",
+        "title": "Cucú",
+        "season": 2,
+        "episode": 6,
+        "overview": "Jesse busca a los adictos que robaron las drogas a Skinny Pete, y Walt lucha por sostener su coartada para explicar cómo ha pagado el tratamiento de cáncer.",
+        "released": "2009-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tfCuh20gNHGGF6A1te3NmiqML6D.jpg"
+      },
+      {
+        "id": "tt0903747:2:7",
+        "title": "Negro y azul",
+        "season": 2,
+        "episode": 7,
+        "overview": "La reputación de narco implacable de Jesse lleva a Walt a ampliar sus actividades; la incursión de Hank en el mundo de la oficina de la DEA en El Paso lo estremece.",
+        "released": "2009-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg"
+      },
+      {
+        "id": "tt0903747:2:8",
+        "title": "¡Llama a Saul!",
+        "season": 2,
+        "episode": 8,
+        "overview": "El arresto de Badger obliga a Walt y Jesse a contratar a un abogado de mala reputación.",
+        "released": "2009-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/KmFdF23FtbPwwz3FJF2T885r2Z.jpg"
+      },
+      {
+        "id": "tt0903747:2:9",
+        "title": "Cuatro días afuera",
+        "season": 2,
+        "episode": 9,
+        "overview": "Preocupado porque no le queda mucha vida, Walt intenta cubrir las necesidades de su familia en una maratónica sesión de preparación de metanfetamina con Jesse.",
+        "released": "2009-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg"
+      },
+      {
+        "id": "tt0903747:2:10",
+        "title": "Terminado",
+        "season": 2,
+        "episode": 10,
+        "overview": "Al recibir buenas noticias sobre el tratamiento de cáncer, Walt acude a su cuñado, Hank, antes de centrar su atención en hacer las cosas bien en su hogar.",
+        "released": "2009-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wGobAJ0h54788xCMkRKaJTQMMtq.jpg"
+      },
+      {
+        "id": "tt0903747:2:11",
+        "title": "Mandala",
+        "season": 2,
+        "episode": 11,
+        "overview": "Skyler tiene conflictos por sus sentimientos hacia su jefe. La muerte de un vendedor callejero fuerza a Walt a buscar otro lugar para vender la metanfetamina.",
+        "released": "2009-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg"
+      },
+      {
+        "id": "tt0903747:2:12",
+        "title": "Phoenix",
+        "season": 2,
+        "episode": 12,
+        "overview": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirugía y pretende esconder la procedencia de su dinero a Skyler y Walt Jr.",
+        "released": "2009-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zxFfozd55eJ6Aa4J0pd3SRqJl5l.jpg"
+      },
+      {
+        "id": "tt0903747:2:13",
+        "title": "ABQ",
+        "season": 2,
+        "episode": 13,
+        "overview": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirugía y pretende esconder la procedencia de su dinero a Skyler y Walt Jr.",
+        "released": "2009-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nNAYdHo3v3c043XKgn3wrVnjoXr.jpg"
+      },
+      {
+        "id": "tt0903747:3:1",
+        "title": "No más",
+        "season": 3,
+        "episode": 1,
+        "overview": "Tras el desastre aéreo de Albuquerque, Skyler obliga a Walt a mudarse, mientras la estadía de Jesse en rehabilitación lo ayuda a aceptar su rol en el fatal choque aéreo.",
+        "released": "2010-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g4taqxGFx9z8ovHhiaa2jvQFd0Z.jpg"
+      },
+      {
+        "id": "tt0903747:3:2",
+        "title": "Caballo sin nombre",
+        "season": 3,
+        "episode": 2,
+        "overview": "Skyler está decidida a divorciarse, y Walt acaba en la mira de dos asesinos de un cártel mexicano que buscan venganza.",
+        "released": "2010-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eQYTr6cH834QyF3cE1VQymwolE1.jpg"
+      },
+      {
+        "id": "tt0903747:3:3",
+        "title": "T. S. T.",
+        "season": 3,
+        "episode": 3,
+        "overview": "Jesse se cuestiona volver al negocio de las drogas ya que una organización de narcotraficantes espera con ansias vengar la muerte de uno de sus miembros.",
+        "released": "2010-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg"
+      },
+      {
+        "id": "tt0903747:3:4",
+        "title": "Luz verde",
+        "season": 3,
+        "episode": 4,
+        "overview": "Mientras el romance de Skyler con su jefe crea caos en su matrimonio, un lote de metanfetamina que devuelve a Jesse al negocio involucra inadvertidamente a Walt.",
+        "released": "2010-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg"
+      },
+      {
+        "id": "tt0903747:3:5",
+        "title": "Más",
+        "season": 3,
+        "episode": 5,
+        "overview": "Walt considera una oferta para regresar al narcotráfico; la obsesión de Hank por atrapar a \"Heisenberg\" trae problemas para Jesse.",
+        "released": "2010-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg"
+      },
+      {
+        "id": "tt0903747:3:6",
+        "title": "Atardecer",
+        "season": 3,
+        "episode": 6,
+        "overview": "Walt vuelve al narcotráfico en el laboratorio de Gus, pero el descubrimiento de su vieja casa rodante lo fuerza a él y a Jesse a actuar para que Hank no los descubra.",
+        "released": "2010-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg"
+      },
+      {
+        "id": "tt0903747:3:7",
+        "title": "Un minuto",
+        "season": 3,
+        "episode": 7,
+        "overview": "Hank, enojado, arriesga su carrera al atacar a Jesse; Walt, preocupado de que Jesse hable, le da un lugar en su laboratorio.",
+        "released": "2010-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg"
+      },
+      {
+        "id": "tt0903747:3:8",
+        "title": "Te veo",
+        "season": 3,
+        "episode": 8,
+        "overview": "Mientras Hank se aferra a la vida, Walt descubre que los matones pueden estar tras él y busca alejarse de los problemas tomando a Jesse como compañero.",
+        "released": "2010-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vTP1Z3Ysmj7BCudHKOh4zHiSyPf.jpg"
+      },
+      {
+        "id": "tt0903747:3:9",
+        "title": "Kafkiano",
+        "season": 3,
+        "episode": 9,
+        "overview": "Al retomar la producción junto a Walt, Jesse piensa cómo aumentar las ganancias; la recuperación de Hank pone a Marie en una situación difícil con la compañía de seguros.",
+        "released": "2010-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg"
+      },
+      {
+        "id": "tt0903747:3:10",
+        "title": "Vuelo",
+        "season": 3,
+        "episode": 10,
+        "overview": "Walt y Jesse se enfrentan a una larga noche en el laboratorio... y a una fastidiosa mosca.",
+        "released": "2010-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3ns0vN3bEl7elFWoodHJ9nDBogC.jpg"
+      },
+      {
+        "id": "tt0903747:3:11",
+        "title": "Abiquiú",
+        "season": 3,
+        "episode": 11,
+        "overview": "Hank no está contento con su recuperación; Skyler cuestiona el negocio de lavado de dinero de Saul, y Jesse se enamora de una compañera de rehabilitación.",
+        "released": "2010-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg"
+      },
+      {
+        "id": "tt0903747:3:12",
+        "title": "Medias medidas",
+        "season": 3,
+        "episode": 12,
+        "overview": "Jesse va tras los narcos que mataron a Combo, Hank se niega a dejar el hospital y Skyler presiona a Walt para que acepte el negocio de lavado de dinero.",
+        "released": "2010-06-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mOvMekI0YKm20I42XK93mPCQ4ru.jpg"
+      },
+      {
+        "id": "tt0903747:3:13",
+        "title": "Medidas totales",
+        "season": 3,
+        "episode": 13,
+        "overview": "Luego de liquidar a dos traficantes de su jefe, Walt se da cuenta de que Gus planea matarlo y reemplazarlo con su anterior asistente.",
+        "released": "2010-06-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mDUs18asTVVfqd56scRQ7W9r781.jpg"
+      },
+      {
+        "id": "tt0903747:4:1",
+        "title": "Navaja",
+        "season": 4,
+        "episode": 1,
+        "overview": "Después de luchar por sus vidas en una turbulenta situación, Walt y Jesse esperan con ansiedad la próxima jugada de Gus.",
+        "released": "2011-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1voCxDEPeYXcKAaoDvdGUMyAjps.jpg"
+      },
+      {
+        "id": "tt0903747:4:2",
+        "title": "Revólver calibre 38",
+        "season": 4,
+        "episode": 2,
+        "overview": "Mientras Walt prepara su defensa contra Gus, Jesse hace frente a la presión renovando su amistad con Badger y Skinny Pete.",
+        "released": "2011-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ra0R3q9jEOObo6gspjYcbqPmIM.jpg"
+      },
+      {
+        "id": "tt0903747:4:3",
+        "title": "Casa abierta",
+        "season": 4,
+        "episode": 3,
+        "overview": "Mientras Walt se preocupa acerca de la intromisión de Gus y la salud mental de Jesse, cada vez más frágil, Skyler aumenta la presión para obtener lo que quiere.",
+        "released": "2011-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Ac0wu93r4LaZk07wa7PiWpNOOru.jpg"
+      },
+      {
+        "id": "tt0903747:4:4",
+        "title": "Puntos clave",
+        "season": 4,
+        "episode": 4,
+        "overview": "Mientras Skyler arma una historia elaborada para explicar las finanzas de los White, Walt, preocupado, descubre que Hank ha comenzado una nueva investigación.",
+        "released": "2011-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg"
+      },
+      {
+        "id": "tt0903747:4:5",
+        "title": "Copiloto",
+        "season": 4,
+        "episode": 5,
+        "overview": "Jesse acompaña como copiloto a Mike en una riesgosa serie de picadas, lo que hace que Walt se preocupe por la posible muerte de su socio",
+        "released": "2011-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbCdpu4qlciRQMyKmcstoadcFak.jpg"
+      },
+      {
+        "id": "tt0903747:4:6",
+        "title": "Arrinconados",
+        "season": 4,
+        "episode": 6,
+        "overview": "Skyler adopta un enfoque reservado cuando sospecha que Walt no le está diciendo la verdad. Mientras tanto, Jesse prueba su valía ante Mike y Gus.",
+        "released": "2011-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg"
+      },
+      {
+        "id": "tt0903747:4:7",
+        "title": "Perro problemático",
+        "season": 4,
+        "episode": 7,
+        "overview": "Obligado a devolver el auto que compró para su hijo, Walt responde poniendo en aprietos a Skyler con su nueva operación de lavado de dinero.",
+        "released": "2011-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg"
+      },
+      {
+        "id": "tt0903747:4:8",
+        "title": "Hermanos",
+        "season": 4,
+        "episode": 8,
+        "overview": "Cuando Hank presenta evidencia de que Gus es el narcotraficante de metanfetamina de Albuquerque, a Walt le preocupa que los maten a él y a Jesse por proteger a su jefe.",
+        "released": "2011-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vf9uFwIaZRLKv8npuz3eJJnjd99.jpg"
+      },
+      {
+        "id": "tt0903747:4:9",
+        "title": "Micrófono",
+        "season": 4,
+        "episode": 9,
+        "overview": "Mientras Walt intenta subvertir la investigación de Hank sobre la escena de Albuquerque, una advertencia mortal fuerza a Gus a considerar un trato con el cártel mexicano.",
+        "released": "2011-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg"
+      },
+      {
+        "id": "tt0903747:4:10",
+        "title": "Salud",
+        "season": 4,
+        "episode": 10,
+        "overview": "Mientras Walt, maltratado, aún se recupera de la pelea, Gus se lleva a Jesse con él a México para cerrar un trato con el cártel.",
+        "released": "2011-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dBrs0Npmn76g81yel2mjK7mTaOj.jpg"
+      },
+      {
+        "id": "tt0903747:4:11",
+        "title": "Entrepiso",
+        "season": 4,
+        "episode": 11,
+        "overview": "Mientras Skyler presiona a Ted para que acepte su dinero y pueda pagar los impuestos, Gus sostiene que Jesse debería reanudar su trabajo en el laboratorio él solo.",
+        "released": "2011-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mySdUn0ab1rrWUuoribRZilCqAF.jpg"
+      },
+      {
+        "id": "tt0903747:4:12",
+        "title": "Fin de los tiempos",
+        "season": 4,
+        "episode": 12,
+        "overview": "Mientras le ordena a su familia que aproveche la protección que la DEA le ofrece a Hank, Walt espera el destino que le toque.",
+        "released": "2011-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg"
+      },
+      {
+        "id": "tt0903747:4:13",
+        "title": "Cara a cara",
+        "season": 4,
+        "episode": 13,
+        "overview": "Cuando su plan de matar a Gus fracasa, Walt y Jesse deben actuar rápido para cubrir sus rastros y evitar la muerte",
+        "released": "2011-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Apl61kYZF2zQlUMh13t8zmUD7Vr.jpg"
+      },
+      {
+        "id": "tt0903747:5:1",
+        "title": "Vive libre o muere",
+        "season": 5,
+        "episode": 1,
+        "overview": "Walt visita a su familia, que aún está en custodia, mientras debe lidiar con las secuelas de la explosión en Casa Tranquila.",
+        "released": "2012-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg"
+      },
+      {
+        "id": "tt0903747:5:2",
+        "title": "Madrigal",
+        "season": 5,
+        "episode": 2,
+        "overview": "Walt y Jesse deciden buscar un nuevo compañero para que los ayude en su último proyecto, y la DEA investiga varias pistas con la esperanza de encontrar algo certero.",
+        "released": "2012-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9WIzJqqUthdASBRE1Ts8ymrDhIv.jpg"
+      },
+      {
+        "id": "tt0903747:5:3",
+        "title": "Peligro",
+        "season": 5,
+        "episode": 3,
+        "overview": "Para consternación de Skyler, Walter vuelve a vivir a la casa. Walter, Mike y Jesse se reúnen con Saul para pedirle que les encuentre un nuevo lugar para cocinar.",
+        "released": "2012-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l84H1dZVkQGgFVomKHc67RKaEC2.jpg"
+      },
+      {
+        "id": "tt0903747:5:4",
+        "title": "51 (Cincuenta y uno)",
+        "season": 5,
+        "episode": 4,
+        "overview": "Lydia se ve forzada a entregar a su propio empleado a la DEA, y Mike le ofrece un reemplazante: Jesse. Walt y Skyler discuten sobre si la familia corre peligro.",
+        "released": "2012-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg"
+      },
+      {
+        "id": "tt0903747:5:5",
+        "title": "Carga de muerte",
+        "season": 5,
+        "episode": 5,
+        "overview": "Mike y Lydia trabajan para transportar la metilamina necesaria para la operación. Walt y Jesse intentan elaborar un plan que no arruine su tapadera.",
+        "released": "2012-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ay9uj9CMQJezaB407JCPMDYSptK.jpg"
+      },
+      {
+        "id": "tt0903747:5:6",
+        "title": "Adquisición",
+        "season": 5,
+        "episode": 6,
+        "overview": "Walt, Mike y Jesse lidian con las repercusiones del robo de la metilamina. Mike y Jesse quieren salirse del negocio, pero Walt está decidido a construir su imperio.",
+        "released": "2012-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6SHawaVRg4Iw3Ry2adH29TjHYhK.jpg"
+      },
+      {
+        "id": "tt0903747:5:7",
+        "title": "Di mi nombre",
+        "season": 5,
+        "episode": 7,
+        "overview": "Walter intenta iniciar un trato con Declan, y Hank —quien tuvo que dejar ir a Mike— ahora tiene en la mira al abogado que ha estado pagando a los hombres de Mike.",
+        "released": "2012-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg"
+      },
+      {
+        "id": "tt0903747:5:8",
+        "title": "Planeando sobre todos",
+        "season": 5,
+        "episode": 8,
+        "overview": "Walt se encuentra con Lydia para conseguir los nombres de la gente de Mike que está en la cárcel. Skyler hace otro intento por convencer a Walt de que deje de cocinar.",
+        "released": "2012-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg"
+      },
+      {
+        "id": "tt0903747:5:9",
+        "title": "Dinero sangriento",
+        "season": 5,
+        "episode": 9,
+        "overview": "A medida que Walt y Jesse se adaptan a la vida fuera del negocio, Hank se aferra a una inquietante pista.",
+        "released": "2013-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uvxl7TMG4dZG9D5bzzQzKqfUdnD.jpg"
+      },
+      {
+        "id": "tt0903747:5:10",
+        "title": "Enterrado",
+        "season": 5,
+        "episode": 10,
+        "overview": "Mientras el pasado atormenta a Skyler, Walt cubre sus huellas, y Jesse continúa luchando con la culpa.",
+        "released": "2013-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg"
+      },
+      {
+        "id": "tt0903747:5:11",
+        "title": "Confesiones",
+        "season": 5,
+        "episode": 11,
+        "overview": "Jesse decide hacer un cambio, y Walt y Skyler intentan lidiar con una exigencia inesperada.",
+        "released": "2013-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/75lrTEzbUh4iZlMs0aN4mKisD4C.jpg"
+      },
+      {
+        "id": "tt0903747:5:12",
+        "title": "Perro rabioso",
+        "season": 5,
+        "episode": 12,
+        "overview": "Una extraña estrategia comienza a dar frutos, mientras se ponen en marcha planes que podrían darle un giro completo a la situación.",
+        "released": "2013-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5VkI8lm7Xcmlxk92pWRyW341d70.jpg"
+      },
+      {
+        "id": "tt0903747:5:13",
+        "title": "Tohajiilee",
+        "season": 5,
+        "episode": 13,
+        "overview": "La presión aumenta para Walt, de un modo que nunca habría esperado",
+        "released": "2013-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lunoCRprYl0jEJEkGTS8v6eFq1n.jpg"
+      },
+      {
+        "id": "tt0903747:5:14",
+        "title": "Ozymandias",
+        "season": 5,
+        "episode": 14,
+        "overview": "Todos deben enfrentar circunstancias radicalmente distintas. Todos, sin excepción.",
+        "released": "2013-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k80r5JYO4LLrPJbWDXmlg7IxRMI.jpg"
+      },
+      {
+        "id": "tt0903747:5:15",
+        "title": "Pizarra de granito",
+        "season": 5,
+        "episode": 15,
+        "overview": "Los sucesos que se iniciaron hace mucho tiempo marchan hacia una conclusión.",
+        "released": "2013-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pkAdPUHvRlvTnz2uA0gAQiGXpos.jpg"
+      },
+      {
+        "id": "tt0903747:5:16",
+        "title": "Felina",
+        "season": 5,
+        "episode": 16,
+        "overview": "El final de la serie.",
+        "released": "2013-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg"
+      }
+    ]
+  }
+}

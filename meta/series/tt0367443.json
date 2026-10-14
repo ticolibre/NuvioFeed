@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "id": "tt0367443",
+    "type": "series",
+    "name": "Zoids: Chaotic Century",
+    "poster": "https://image.tmdb.org/t/p/w500/hoN0MKeFeE6toiKIu16PwB8cUSJ.jpg",
+    "posterShape": "poster",
+    "description": "En el planeta Zi, los humanos utilizan enormes máquinas de combate llamadas Zoids. Las tensiones entre la República de Helic y el Imperio de Guylos amenazan con desencadenar una nueva guerra, mientras antiguas tecnologías vuelven a salir a la luz.\n\nEn medio de este conflicto, el joven piloto **Bang** encuentra a un misterioso organoide llamado **Sieg** y a una chica llamada **Fine**, quien ha perdido sus recuerdos. Junto a ellos emprende un viaje para descubrir el pasado de Fine y el secreto de los Zoids. En el camino, conocerán nuevos amigos y terminarán involucrados en los acontecimientos que amenazan con sumir nuevamente a Zi en la guerra.",
+    "releaseInfo": "1999",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zCJkiqMFoxcpYPKqhIhStEeVF2c.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0367443:1:1",
+        "title": "El joven del Planeta Zi",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mientras es perseguido por unos bandidos del desierto, un joven busca refugio en unas antiguas ruinas, donde encuentra un organoide al que llama Sieg y a una misteriosa chica llamada Fine. Al intentar escapar de las ruinas, Sieg revive un Shield Liger abandonado y ayuda a Bang y Fine a escapar.",
+        "released": "1999-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uDn3RVO8EaqROqsMi22pyF0idtL.jpg"
+      },
+      {
+        "id": "tt0367443:1:2",
+        "title": "La misteriosa y linda joven Fine",
+        "season": 1,
+        "episode": 2,
+        "overview": "Después de escapar de los bandidos del desierto, Bang regresa a su aldea acompañado de Sieg y Fine. Desafortunadamente, los bandidos los siguen, atacan la aldea y secuestran a la hermana de Bang. Fine y Sieg ayudan a Bang a enfrentarse a los bandidos, y Fine demuestra tener un poder misterioso.",
+        "released": "1999-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6FBEU0cTWzeN47sa5s5bm3wbsPF.jpg"
+      },
+      {
+        "id": "tt0367443:1:3",
+        "title": "Memoria",
+        "season": 1,
+        "episode": 3,
+        "overview": "Separados de Sieg y del Shield Liger, Bang y Fine son rescatados por Irvine, un piloto de Command Wolf que les ofrece refugio, pero que en secreto pretende capturar a Sieg. Bang y Fine descubren una antigua tablilla que despierta un recuerdo de Fine sobre algo llamado \"Zoid Eve\", lo que los impulsa a buscar su significado.",
+        "released": "1999-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m8tW58IGr5UR5e0IYi7KH7hoddg.jpg"
+      },
+      {
+        "id": "tt0367443:1:4",
+        "title": "Los 2 guardaespaldas",
+        "season": 1,
+        "episode": 4,
+        "overview": "Bang y Fine se encuentran nuevamente con Irvine, quien esta vez ha sido contratado para proteger una aldea de los bandidos. Cuando descubren que los bandidos son la Banda Alcabaleno del Desierto, el mismo grupo que anteriormente había causado problemas a Bang, deciden ayudar.",
+        "released": "1999-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gqvDp6k8JWFPu3hLJkF2G4Kw8IZ.jpg"
+      },
+      {
+        "id": "tt0367443:1:5",
+        "title": "Sleeper",
+        "season": 1,
+        "episode": 5,
+        "overview": "Bang y Fine conocen a Moonbay, quien conduce un Gustav cargado de mercancía a través del desierto. El grupo se ve obligado a huir cuando son atacados por Zoids dormidos y deben unir fuerzas a regañadientes con Irvine para derrotarlos.",
+        "released": "1999-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yX8uTjz3ze20puGjQRmNaMSTbnr.jpg"
+      },
+      {
+        "id": "tt0367443:1:6",
+        "title": "¡Vuela Sieg!",
+        "season": 1,
+        "episode": 6,
+        "overview": "Bang y sus amigos son confundidos con soldados del Imperio por una patrulla de la República de Helic y son capturados, mientras sus Zoids son confiscados. Irvine los ayuda a escapar en secreto y Bang se apresura a recuperar sus Zoids.",
+        "released": "1999-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/96IExovmowngHwGeSXhM4L3tTId.jpg"
+      },
+      {
+        "id": "tt0367443:1:7",
+        "title": "La batalla del Río Rojo",
+        "season": 1,
+        "episode": 7,
+        "overview": "Fine y Moonbay son reclutadas por el ejército de la República para transportar un cargamento de explosivos destinado a ser detonado en el Puente de Fuego. Mientras tanto, se produce un enfrentamiento en el Río Rojo entre la República y el Imperio, una situación que solo Bang e Irvine pueden ayudar a resolver.",
+        "released": "1999-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o7pyj3fPUpAjP01rvF8o3Rh4xCe.jpg"
+      },
+      {
+        "id": "tt0367443:1:8",
+        "title": "El camino hacia la República",
+        "season": 1,
+        "episode": 8,
+        "overview": "El capitán Herman le da a Bang y a sus amigos una pista sobre la búsqueda de Zoid Eve, por lo que se dirigen hacia la capital de la República. Mientras tanto, la Banda Alcabaleno del Desierto planea capturar a Sieg para recuperar el favor del ejército imperial.",
+        "released": "1999-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cWDJYBiPQ3mXMARgRLVkJEtBq8k.jpg"
+      },
+      {
+        "id": "tt0367443:1:9",
+        "title": "El valle del espíritu maligno",
+        "season": 1,
+        "episode": 9,
+        "overview": "Bang y sus amigos se adentran en un misterioso valle donde todos sus Zoids, incluido Sieg, comienzan a comportarse de manera extraña. Los Zoids han sido afectados por un Rarehertz, un extraño pulso que ha vuelto loco a Sieg.",
+        "released": "1999-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nFbZuMwnu3z6ks4AeKAOOvkIDhg.jpg"
+      },
+      {
+        "id": "tt0367443:1:10",
+        "title": "La montaña donde los sueños se hacen realidad",
+        "season": 1,
+        "episode": 10,
+        "overview": "Bang encuentra a un anciano congelado en el hielo dentro de una cabaña mientras busca al legendario Dr. D. Resulta que el hombre congelado es el propio Dr. D, quien sabe acerca de \"Zoid Eve\", pero solo se lo contará a Bang si lo ayuda a construir una máquina para fabricar nieve.",
+        "released": "1999-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tDtF9Y6WCuo8vlgzr82VGzqzu2i.jpg"
+      },
+      {
+        "id": "tt0367443:1:11",
+        "title": "En las nieblas de Iselina",
+        "season": 1,
+        "episode": 11,
+        "overview": "Para llegar a la capital, Bang y sus amigos deben atravesar las brumosas montañas de Iselina. Mientras se hospedan en una aldea, son atacados por la Banda Alcabaleno del Desierto, liderada por Leola, quien solía vivir en la misma aldea que ahora está atacando.",
+        "released": "1999-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aMf0sxoUseGQj7N7yRlui4oboNX.jpg"
+      },
+      {
+        "id": "tt0367443:1:12",
+        "title": "El organoide negro",
+        "season": 1,
+        "episode": 12,
+        "overview": "Bang y Sieg son buscados por el ejército de la República después de que un batallón entero fuera destruido por un joven llamado Raven y otro organoide llamado Shadow. Bang se encuentra con Raven e intenta evitar que destruya más Zoids.",
+        "released": "1999-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mOsrLtTaB1YYWPq176oygz6FKKn.jpg"
+      },
+      {
+        "id": "tt0367443:1:13",
+        "title": "Feroz combate en Fuerte Cronos",
+        "season": 1,
+        "episode": 13,
+        "overview": "Las fuerzas del Imperio atacan el Fuerte Cronos, pero quedan atrapadas por el ejército de la República. El fuerte, junto con la mitad de las fuerzas imperiales, es destruido por una explosión. Durante el ataque, Bang desafía a Raven a otra batalla.",
+        "released": "1999-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5laMZxKQ9C3DeohmsZVScI01vrD.jpg"
+      },
+      {
+        "id": "tt0367443:1:14",
+        "title": "¡Despierta Sieg!",
+        "season": 1,
+        "episode": 14,
+        "overview": "Bang y Moonbay viajan al cráter de un volcán en busca de Magnita, un mineral que puede ayudar a curar a Sieg después de la derrota de Bang ante Raven. Irvine vuelve a equipar su Command Wolf y desafía a Raven a una batalla.",
+        "released": "1999-12-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ntdmpT7yMboA1vBaNkvBE0rdIow.jpg"
+      },
+      {
+        "id": "tt0367443:1:15",
+        "title": "¡Huye ZG!",
+        "season": 1,
+        "episode": 15,
+        "overview": "El mayor Schubaltz ataca la base de la República, Mountossa, pero se ve obligado a retirarse ante el imparable Gojulas del capitán Herman.",
+        "released": "1999-12-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dICnu5TRyvQc9C799GRlpyidk5Y.jpg"
+      },
+      {
+        "id": "tt0367443:1:16",
+        "title": "La ciudad de Nueva Helic",
+        "season": 1,
+        "episode": 16,
+        "overview": "Bang y sus amigos llegan a Nueva Helic, la capital de la República. Durante un desfile de la victoria, Bang ayuda a un soldado imperial a escapar de una multitud, solo para descubrir que el soldado ataca la ciudad utilizando un Command Wolf experimental.",
+        "released": "1999-12-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ixFY5DKP2yJcp2v646saFVInNOj.jpg"
+      },
+      {
+        "id": "tt0367443:1:17",
+        "title": "La noche más larga de la nación republicana",
+        "season": 1,
+        "episode": 17,
+        "overview": "El capitán Herman desaparece mientras inspecciona un iceberg sospechoso, que en realidad es una fuerza imperial disfrazada que planea atacar desde el mar en lugar de hacerlo por tierra. Durante el ataque, Raven aparece y desafía a Bang a una batalla.",
+        "released": "2000-01-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mCk5vU9hDxjM18WhMjvCFKUC6oH.jpg"
+      },
+      {
+        "id": "tt0367443:1:18",
+        "title": "Ataque y defensa de la capital",
+        "season": 1,
+        "episode": 18,
+        "overview": "Justo cuando Nueva Helic está a punto de ser tomada por el ejército imperial, el emperador muere y su sobrino Rudolph exige un alto al fuego. Mientras tanto, Raven y Bang continúan su lucha a muerte.",
+        "released": "2000-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rdPCNmEW9FXtRKUozREpZvQLnch.jpg"
+      },
+      {
+        "id": "tt0367443:1:19",
+        "title": "La conspiración de Proitzen",
+        "season": 1,
+        "episode": 19,
+        "overview": "Proitzen planea secuestrar al nuevo emperador Rudolph y reemplazarlo en el trono, pero Rosso se adelanta, lo secuestra y escapa. Mientras tanto, Bang y sus amigos continúan buscando \"Zoid Eve\".",
+        "released": "2000-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3XUWOPVSUfMyiEu8tm9OHRK1Qx3.jpg"
+      },
+      {
+        "id": "tt0367443:1:20",
+        "title": "El monstruo que resucita",
+        "season": 1,
+        "episode": 20,
+        "overview": "Al llegar a las ruinas de Gurill, Bang y sus amigos son atacados por Rev Raptors dormidos que Proitzen colocó allí después de extraer los secretos que se encontraban dentro de los edificios.",
+        "released": "2000-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5HXmsnyRj2xWDadhJlfcpijD58b.jpg"
+      },
+      {
+        "id": "tt0367443:1:21",
+        "title": "Cañón de partículas eléctricas",
+        "season": 1,
+        "episode": 21,
+        "overview": "Rudolph conoce a Bang y sus amigos después de alejarse de Rosso y Leola en busca de comida. Desafortunadamente, Proitzen ha enviado a Raven y su Geno Saurer para secuestrar a Rudolph. Rosso y Leola, a bordo de su Iron Kong, atacan a Raven para que Rudolph pueda escapar junto con los demás.",
+        "released": "2000-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8gce6WWNRVxph4gOAwL5DlUZLpn.jpg"
+      },
+      {
+        "id": "tt0367443:1:22",
+        "title": "¿¡La muerte del compañero!?",
+        "season": 1,
+        "episode": 22,
+        "overview": "Rudolph le pide a Bang que lo lleve a la capital y que, durante el viaje, lo entrene para convertirse en guerrero. Raven ataca a Bang y, durante la feroz batalla, el Geno Saurer golpea gravemente al Shield Liger con su cañón de partículas eléctricas.",
+        "released": "2000-02-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1V7Zoq4bxsVmsEoI5a7SwPBOldA.jpg"
+      },
+      {
+        "id": "tt0367443:1:23",
+        "title": "El anillo del emperador",
+        "season": 1,
+        "episode": 23,
+        "overview": "Con el Shield Liger aparentemente destruido, Bang e Irvine deben luchar juntos para rescatar a Rudolph, quien fue capturado por Raven y entregado a Mettlenich.",
+        "released": "2000-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tfzIgl66uwmQBDQ5cjAWjQJNZWe.jpg"
+      },
+      {
+        "id": "tt0367443:1:24",
+        "title": "Una voz del más allá",
+        "season": 1,
+        "episode": 24,
+        "overview": "Fine se une a Sieg y ambos entran en el Shield Liger, provocando que un capullo de luz rodee al Zoid caído. Mientras Bang está ausente, aparece un malvado cazarrecompensas que busca a Rudolph y droga a Irvine, Moonbay y Rudolph.",
+        "released": "2000-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hpu1WUzTlM9OZzz4VSTIbbFdBvn.jpg"
+      },
+      {
+        "id": "tt0367443:1:25",
+        "title": "El nuevo Liger",
+        "season": 1,
+        "episode": 25,
+        "overview": "Stinger ha capturado a Moonbay, Irvine y Rudolph utilizando su droga paralizante y planea matarlos. Bang llega con un Red Guysack que ha capturado, pero es derrotado por Stinger y su Zaber Fang. Justo entonces, el capullo que rodea al Shield Liger se rompe y nace el Blade Liger.",
+        "released": "2000-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xJRTNXUqhP9aOwKVuLyqk75HJv9.jpg"
+      },
+      {
+        "id": "tt0367443:1:26",
+        "title": "La memoria de Zi",
+        "season": 1,
+        "episode": 26,
+        "overview": "Parte de la memoria de Fine regresa y descubre que es una antigua Zoidian, pero todavía no puede decírselo a Bang. De camino a la capital, Bang y sus amigos son atacados por unos cazarrecompensas que utilizan Hel Digunners y que buscan a Sieg.",
+        "released": "2000-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Sr1BFaGglJhVgdZJxeYG0Oc5sz.jpg"
+      },
+      {
+        "id": "tt0367443:1:27",
+        "title": "El hombre que Bang salvó",
+        "season": 1,
+        "episode": 27,
+        "overview": "Al entrar en una ciudad, Bang y sus amigos descubren que Proitzen ha ordenado arrestar a Rudolph, afirmando que es un impostor. Bang, Irvine y Rudolph son capturados, pero un conocido guardia imperial los ayuda a escapar.",
+        "released": "2000-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qUWG7Tj1wu2RqXzfEfwlP6h3rzj.jpg"
+      },
+      {
+        "id": "tt0367443:1:28",
+        "title": "¡Deprisa Comando Wolf!",
+        "season": 1,
+        "episode": 28,
+        "overview": "Bang y sus amigos se detienen en una ciudad desierta y son confundidos con los bandidos que están robando medicinas destinadas a niños enfermos. Irvine moviliza su Command Wolf junto con Bang y el Blade Liger para recuperar las medicinas.",
+        "released": "2000-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/igtmLqYTgEsCtFf4dD366PHJ4gk.jpg"
+      },
+      {
+        "id": "tt0367443:1:29",
+        "title": "El héroe del cielo",
+        "season": 1,
+        "episode": 29,
+        "overview": "Bang y sus amigos llegan a una base imperial donde se encuentra la unidad Eisanback Black Redler. Creyendo que el Rudolph que acompaña a Bang es un impostor, los soldados atacan a pesar de que el mayor Schubaltz lo reconoce como el verdadero príncipe. Superados en número, son salvados por dos misteriosos Storm Sworders.",
+        "released": "2000-04-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gpKnlNEioj3Va8OjQW9QdguWxvZ.jpg"
+      },
+      {
+        "id": "tt0367443:1:30",
+        "title": "El vals de Moonbay",
+        "season": 1,
+        "episode": 30,
+        "overview": "Bang y sus amigos son salvados del ejército imperial por McMann, el antiguo amante de Moonbay. Al parecer, Moonbay todavía siente algo por él, así que Bang, Irvine, Fine y Sieg intentan marcharse a escondidas y dejarla allí, pero Moonbay descubre el plan.",
+        "released": "2000-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8sz04vdiAfE3mfq7hTgTOb9Bink.jpg"
+      },
+      {
+        "id": "tt0367443:1:31",
+        "title": "Los tres caballeros",
+        "season": 1,
+        "episode": 31,
+        "overview": "La Ciudad del Viento es destruida por las fuerzas del Imperio. Los legendarios Tres Caballeros, antiguos guerreros imperiales que ahora viven apartados, observan con indignación la destrucción. Proitzen ordena a los Tres Caballeros que derroten a Bang y sus compañeros, quienes avanzan hacia Guygalos llevando a Rudolph. Los tres guerreros desafían a Bang e Irvine utilizando sus antiguos Saber Fangs. Irvine consigue derrotar a uno de ellos, mientras Bang se enfrenta a los otros dos en combates sucesivos. Cuando Bang está a punto de ser derrotado, uno de los caballeros reconoce a Rudolph y su distracción permite que Bang consiga la victoria.",
+        "released": "2000-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qH2eJDnAKz2Qer1sq5FbnUc5f7Y.jpg"
+      },
+      {
+        "id": "tt0367443:1:32",
+        "title": "El demonio de la destrucción",
+        "season": 1,
+        "episode": 32,
+        "overview": "Bang y sus amigos llegan a Guygalos y son llevados ante el primer ministro Homalap, uno de los aliados de Rudolph contra Proitzen, quien ha estado investigando los núcleos de los Zoids. Bang y Fine investigan y el Death Saurer despierta como si percibiera la presencia de Fine.",
+        "released": "2000-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1to5srvX05PlOv6DP9kdlAixkiD.jpg"
+      },
+      {
+        "id": "tt0367443:1:33",
+        "title": "Confrontación fatal",
+        "season": 1,
+        "episode": 33,
+        "overview": "Mientras Bang regresa para ayudar a sus amigos, Raven lo intercepta con su Geno Saurer y comienza una feroz batalla. El Blade Liger queda gravemente dañado, pero Bang consigue continuar luchando. Cuando Raven utiliza su cañón de partículas eléctricas, Fine y Sieg se fusionan nuevamente con el Blade Liger, restaurándolo por completo. Bang utiliza las cuchillas del Blade Liger para neutralizar el disparo del cañón de partículas y finalmente derrota a Raven. Mientras tanto, Rudolph, Irvine y Moonbay intentan llegar a la capital para impedir la coronación de Proitzen.",
+        "released": "2000-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bZCyLnecZZsWU6aZq2YaqY8echz.jpg"
+      },
+      {
+        "id": "tt0367443:1:34",
+        "title": "La capital arde en llamas",
+        "season": 1,
+        "episode": 34,
+        "overview": "Proitzen libera al Death Saurer, que rápidamente comienza a destruir todo a su paso, incluyendo a las fuerzas combinadas de los ejércitos Imperial y Republicano. Depende de Bang destruir al Death Saurer y salvar al mundo.",
+        "released": "2000-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPE5w48Ep639khEJIsQgL6M8AD0.jpg"
+      },
+      {
+        "id": "tt0367443:1:35",
+        "title": "Misión altamente secreta",
+        "season": 1,
+        "episode": 35,
+        "overview": "Han pasado dos años desde la derrota del Death Saurer. Bang ahora forma parte de la Guardian Force y se encuentra entrenando bajo las órdenes del coronel Krueger. Mientras tanto, Fine viaja a la Colonia del Viento, el hogar de Bang, acompañada por el Dr. D para investigar unas ruinas antiguas. Sin embargo, su investigación es interrumpida cuando son atacados por un Venomous Viper.",
+        "released": "2000-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2epVXPdenHxwrwFDFfk7XKghPiF.jpg"
+      },
+      {
+        "id": "tt0367443:1:36",
+        "title": "Sniper",
+        "season": 1,
+        "episode": 36,
+        "overview": "Mientras viaja, Bang se encuentra con un escuadrón de desactivación de bombas de la República disfrazado de bandidos. Bang los sigue con la ayuda del investigador Dorset, un experto piloto del Gun Sniper, pero Dorset no es quien parece ser.",
+        "released": "2000-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bUrIYoKOYZyK3LfqVNHiob7NNhA.jpg"
+      },
+      {
+        "id": "tt0367443:1:37",
+        "title": "El demonio azul",
+        "season": 1,
+        "episode": 37,
+        "overview": "Bang y Fine investigan unas ruinas recién descubiertas y descubren que todos los habitantes de la ciudad han desaparecido. Los habitantes están siendo retenidos por Lise y su organoide Specula en su Double Sworder.",
+        "released": "2000-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6bCVAvWNnm0V9UyKV6xl0whv1cr.jpg"
+      },
+      {
+        "id": "tt0367443:1:38",
+        "title": "El bisonte de acero",
+        "season": 1,
+        "episode": 38,
+        "overview": "Mientras investigan unos misteriosos Zoids, Bang y el teniente Thomas Schubaltz se encuentran con un Dibison. Thomas inmediatamente toma el mando de la operación, pero termina causando más problemas que soluciones.",
+        "released": "2000-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bsjPIryK52fEMirPHm5t58qlv2v.jpg"
+      },
+      {
+        "id": "tt0367443:1:39",
+        "title": "Enemigo invisible",
+        "season": 1,
+        "episode": 39,
+        "overview": "Thomas y Bang investigan a un grupo de bandidos que en realidad están excavando unas ruinas para un hombre llamado Hiltz y su organoide rojo Ambient. Mientras intentan detenerlos, Bang y Thomas son atacados por Stealth Kats.",
+        "released": "2000-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yVxgOBaTVIuG7BjdtiEhvYvm6Um.jpg"
+      },
+      {
+        "id": "tt0367443:1:40",
+        "title": "Cazadores de zoids",
+        "season": 1,
+        "episode": 40,
+        "overview": "Unos Zoids dormidos están siendo robados y despojados de sus núcleos a bordo de un Whale King. Mientras se encuentra a bordo del Whale King, Bang se reúne con Irvine, quien rápidamente cambia de bando para ayudarlo a capturar a los ladrones.",
+        "released": "2000-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zTv7YhBz1Zx6qlLZg0xCFRMtUd.jpg"
+      },
+      {
+        "id": "tt0367443:1:41",
+        "title": "El laberinto del demonio",
+        "season": 1,
+        "episode": 41,
+        "overview": "El coronel Schubaltz y sus tropas llegan a una base imperial que ha quedado bajo el control de Lise. Ella utiliza sus poderes para manipular a los soldados y planea provocar una enorme explosión. Lise también controla el Iron Kong de Karl Schubaltz, obligándolo a enfrentarse al Dibison de Thomas. Mientras Bang intenta rescatar a Fine y detener la explosión, Thomas se ve obligado a combatir contra su propio hermano. Finalmente, Fine consigue romper el control de Lise sobre los soldados y Karl recupera parcialmente la conciencia, pero su Iron Kong continúa atacando. Karl ordena a Thomas que destruya su propio Zoid para poder continuar con la misión. Bang consigue restablecer el sistema de refrigeración y evitar la explosión.",
+        "released": "2000-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uCM7TaphhiED2X9DOwPi8cZlZr5.jpg"
+      },
+      {
+        "id": "tt0367443:1:42",
+        "title": "Raven",
+        "season": 1,
+        "episode": 42,
+        "overview": "Llegan noticias de que las bases de la República y del Imperio han sido destruidas por Raven y Shadow, quienes se creían muertos. Bang se enfrenta a Raven cuando está a punto de atacar su base y comienza una feroz batalla.",
+        "released": "2000-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1IUgptILWVNgSxYwGAgWz4iC8M6.jpg"
+      },
+      {
+        "id": "tt0367443:1:43",
+        "title": "El día de descanso del emperador",
+        "season": 1,
+        "episode": 43,
+        "overview": "Rudolph y su prometida, Mary-Anne, se toman un breve descanso de sus obligaciones para visitar a Bang, Fine y Thomas, pero sus vacaciones son interrumpidas por Stinger, quien intenta secuestrar a Rudolph.",
+        "released": "2000-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jEIurqDAdD0cVrrAj5iClvULuaU.jpg"
+      },
+      {
+        "id": "tt0367443:1:44",
+        "title": "Violento combate con el monstruo",
+        "season": 1,
+        "episode": 44,
+        "overview": "Después de su enfrentamiento con Raven, Thomas queda gravemente herido y su Dibison resulta prácticamente destruido. Bang continúa entrenando mientras Irvine, que se encuentra participando en un torneo de Zoids, regresa para ayudarlo. El Dr. D llega con una modificación destinada a reforzar el escudo del Blade Liger contra el cañón de partículas. Raven aparece nuevamente con su Geno Saurer y ataca la base. Bang e Irvine se enfrentan juntos a Raven, pero el Geno Saurer demuestra ser demasiado poderoso. Cuando el escudo del Blade Liger finalmente se rompe, Moonbay utiliza su Gustav para proteger a Bang del disparo. En ese momento, Shadow toma el control del Geno Saurer y se lo lleva, formando un enorme capullo de energía alrededor del Zoid.",
+        "released": "2000-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4GvAVoABr1PDDRYKtiE0wg9WOYy.jpg"
+      },
+      {
+        "id": "tt0367443:1:45",
+        "title": "Alas negras",
+        "season": 1,
+        "episode": 45,
+        "overview": "Dos Storm Sworders experimentales son robados, pero los ladrones deben regresar a la base para recoger los datos de combate. Bang y sus amigos no son rivales para el enemigo hasta que Rosso y Leola llegan para ayudarlos.",
+        "released": "2000-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/liT4fRWT1NuFXSAJO8RhCucxlwt.jpg"
+      },
+      {
+        "id": "tt0367443:1:46",
+        "title": "El demonio del fondo del mar",
+        "season": 1,
+        "episode": 46,
+        "overview": "Bang y Fine viajan a una isla remota para reunirse con el Dr. D, quien los invita a investigar unas antiguas ruinas. El lugar está relacionado con una leyenda sobre la aparición de la tierra de los muertos durante el eclipse de las dos lunas de Zi. Fine se separa de Bang y se encuentra con Lise, quien le muestra visiones de un futuro en el que Bang muere. Cuando las aguas alrededor de la isla retroceden, Lise ataca a Bang con un Hammerhead. El Blade Liger tiene dificultades para combatir bajo el agua, pero Bang utiliza un remolino para obtener suficiente velocidad y derrotar al Hammerhead. Tras rescatar a Lise, un Whale King perteneciente a Hiltz emerge de las ruinas con lo que su organización había ido a buscar.",
+        "released": "2000-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rnzXjRFqAZj4fK27aDok9dvX3kn.jpg"
+      },
+      {
+        "id": "tt0367443:1:47",
+        "title": "La reencarnación del monstruo",
+        "season": 1,
+        "episode": 47,
+        "overview": "Raven es alejado del capullo del Geno Saurer, pero este eclosiona y nace el Geno Breaker. Irvine ataca a Raven y a su nuevo Geno Breaker, pero el Command Wolf queda gravemente dañado.",
+        "released": "2000-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cXCdnDnBE7UZKBS9L0po7FfZQ0p.jpg"
+      },
+      {
+        "id": "tt0367443:1:48",
+        "title": "El relámpago negro",
+        "season": 1,
+        "episode": 48,
+        "overview": "El Command Wolf de Irvine ha quedado gravemente dañado después de su enfrentamiento con el Geno Breaker. Mientras Irvine permanece junto a su Zoid, el Dr. D presenta un nuevo modelo experimental: el Lightning Saix. Durante una prueba, el piloto pierde el control y el Zoid resulta dañado, haciendo imposible recuperar sus datos de combate. Para salvar al Command Wolf de Irvine, el Dr. D propone transferir su banco de memoria al Lightning Saix. Irvine inicialmente se opone a la idea, pero finalmente acepta. Mientras tanto, Hiltz toma el control de varios Zoids y secuestra a la presidenta Louise. Irvine consigue controlar el nuevo Lightning Saix y utiliza su enorme velocidad para rescatarla y detener a los Zoids enemigos.",
+        "released": "2000-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dACQM1TvIImC3crBMBFaZRfp8Fd.jpg"
+      },
+      {
+        "id": "tt0367443:1:49",
+        "title": "El lejano cielo estrellado",
+        "season": 1,
+        "episode": 49,
+        "overview": "Bang, Irvine y Thomas comienzan a entrenar para su próxima batalla contra Raven utilizando una nueva formación. Antes de que Raven pueda llegar hasta Bang, Lise lo desafía con su Geno Saurer.",
+        "released": "2000-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j1WKUkI9eG0RdcP6wqKeLKz9X93.jpg"
+      },
+      {
+        "id": "tt0367443:1:50",
+        "title": "Emboscada",
+        "season": 1,
+        "episode": 50,
+        "overview": "Raven ataca la base donde se encuentran Bang y sus amigos. Juntos intentan poner a prueba su nueva formación, pero son derrotados rápidamente. Bang debe enfrentarse solo a Raven, pero durante la batalla cae por un acantilado.",
+        "released": "2000-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4cWLLQteQD0SZMW0FLJ9s71CgxA.jpg"
+      },
+      {
+        "id": "tt0367443:1:51",
+        "title": "El joven de las ruinas",
+        "season": 1,
+        "episode": 51,
+        "overview": "Después de caer por el acantilado, Bang es arrastrado por el río y termina herido cerca de una aldea. Mientras Fine, Irvine, Thomas y Moonbay buscan desesperadamente su paradero, Bang es encontrado por Nichalo, un joven que vive en la aldea junto a su Helcat, Tirol. Nichalo ayuda a Bang a recuperarse y Bang le enseña a pilotar su Zoid. Sin embargo, el ejército imperial llega a la aldea buscando a Bang y amenaza con destruirla si no lo entregan. Bang toma un Rev Raptor para defender a los habitantes, pero es derrotado por el Red Horn de Zeapers. Irvine y Thomas llegan a tiempo para salvarlo. Después de la batalla, Bang descubre que Nichalo y Tirol habían muerto diez años atrás mientras protegían la aldea y a una joven Zoidian.",
+        "released": "2000-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kfLHLOGKQrOFFSAslTAdNkKrzvw.jpg"
+      },
+      {
+        "id": "tt0367443:1:52",
+        "title": "El poder de Van",
+        "season": 1,
+        "episode": 52,
+        "overview": "Bang se siente frustrado por el bajo rendimiento del Blade Liger, pero se da cuenta de que sus propias habilidades han mejorado. Para mejorar el Blade Liger, Bang realiza algunas modificaciones.",
+        "released": "2000-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bxJ1b1egEUKnhbk7KKAf3RgAYGV.jpg"
+      },
+      {
+        "id": "tt0367443:1:53",
+        "title": "Phantom, el asesino",
+        "season": 1,
+        "episode": 53,
+        "overview": "Moonbay participa en el Gran Premio de Guylos utilizando un Sinker modificado. Mientras tanto, Bang y Thomas buscan a Phantom, un asesino contratado para matar a Rudolph.",
+        "released": "2000-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hhnCybyCIYI1Rwb5gxErNHe6dSs.jpg"
+      },
+      {
+        "id": "tt0367443:1:54",
+        "title": "Archivo G",
+        "season": 1,
+        "episode": 54,
+        "overview": "La Guardian Force celebra una reunión para discutir cómo derrotar de una vez por todas a Lise, Hiltz y Raven.",
+        "released": "2000-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7QMMkgkcSAnyqaoSg9O2TEWIjwX.jpg"
+      },
+      {
+        "id": "tt0367443:1:55",
+        "title": "Duelo en la velocidad del sonido",
+        "season": 1,
+        "episode": 55,
+        "overview": "Irvine es arrestado y su Lightning Saix es confiscado bajo sospecha de tráfico de armas. Para recuperar su Lightning Saix y limpiar su nombre, Irvine debe enfrentarse al Storm Sworder.",
+        "released": "2000-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mNmIBdlCEK2IwkKkX9jyhtWgvww.jpg"
+      },
+      {
+        "id": "tt0367443:1:56",
+        "title": "Kerberos",
+        "season": 1,
+        "episode": 56,
+        "overview": "Bang y Thomas investigan la destrucción de numerosos Zoids después de que un misterioso grupo los desafía a una batalla. Thomas es atacado y derrotado, y Bang debe enfrentarse a un enorme Attack Kat de tres cabezas.",
+        "released": "2000-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eS45NYPhqQ9Q8urxIwwH3A6kVGV.jpg"
+      },
+      {
+        "id": "tt0367443:1:57",
+        "title": "Pesadilla",
+        "season": 1,
+        "episode": 57,
+        "overview": "Fine comienza a percibir una sensación que no había experimentado desde que despertó el Death Saurer. Hiltz, bajo las órdenes del misterioso Dark Kaiser, ha creado un nuevo Zoid: el Death Saurer.",
+        "released": "2000-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xZbWbhAwHkGoBnTEO5AenZVLuZg.jpg"
+      },
+      {
+        "id": "tt0367443:1:58",
+        "title": "Interceptar",
+        "season": 1,
+        "episode": 58,
+        "overview": "Con el Death Stinger despierto, Hiltz lo carga a bordo del Hummer Kaiser, un enorme Zoid con forma de tiburón martillo, y vuela muy por encima de la Tierra. Irvine y Thomas son enviados para destruirlo a bordo de unos Storm Sworders especialmente modificados.",
+        "released": "2000-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2lrJbjiR50EAdinyZz1BH22pqIW.jpg"
+      },
+      {
+        "id": "tt0367443:1:59",
+        "title": "Destrucción de la capital",
+        "season": 1,
+        "episode": 59,
+        "overview": "Mientras Bang lucha contra Lise, el Death Stinger aparece en Nueva Helic y rápidamente la destruye. La Guardian Force se retira hacia un lago que alberga al Zoid más grande jamás creado: el Ultrasaurus.",
+        "released": "2000-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xG6uwSqcqkUohLCKSKZC5Qpl66m.jpg"
+      },
+      {
+        "id": "tt0367443:1:60",
+        "title": "La fortaleza",
+        "season": 1,
+        "episode": 60,
+        "overview": "Hiltz comienza a atacar al Ultrasaurus antes de que pueda ser despertado, por lo que Bang, Irvine, Thomas, Karl y Rob se ven obligados a contener al Death Stinger.",
+        "released": "2000-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cpXPhRRDevFcULCGahRObVGEQEJ.jpg"
+      },
+      {
+        "id": "tt0367443:1:61",
+        "title": "El gran combate naval con el gigante dragón",
+        "season": 1,
+        "episode": 61,
+        "overview": "Con el Ultrasaurus operativo, ahora debe ser equipado con un Cañón Gravitacional especialmente creado en una base ubicada en una isla secreta. Hiltz envía todos los Zoids que tiene para detenerlo.",
+        "released": "2000-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rcPAkuiuVodK4QXGaeZb2Ujrnto.jpg"
+      },
+      {
+        "id": "tt0367443:1:62",
+        "title": "Cañón gravitacional",
+        "season": 1,
+        "episode": 62,
+        "overview": "El Cañón Gravitacional necesita un disparo de prueba para confirmar que funciona, pero hacerlo revelaría su posición. Utilizando un Hammerhead y Ptera Strikers, Bang y sus amigos deben defender su posición.",
+        "released": "2000-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aa7I1tcxNWAMZkSISjsZjrKknk5.jpg"
+      },
+      {
+        "id": "tt0367443:1:63",
+        "title": "El gran combate final",
+        "season": 1,
+        "episode": 63,
+        "overview": "El Death Stinger continúa destruyendo todo a su paso. Bang, Irvine y Thomas deben detenerlo el tiempo suficiente para que el Cañón Gravitacional pueda realizar su ataque. El Death Stinger destruye el primer disparo, pero el segundo impacta directamente.",
+        "released": "2000-11-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bPhWQWYXiOcF5k5eKQvjASay986.jpg"
+      },
+      {
+        "id": "tt0367443:1:64",
+        "title": "Memorias del pasado",
+        "season": 1,
+        "episode": 64,
+        "overview": "El Death Stinger, aplastado por la enorme fuerza del Cañón Gravitacional, vuelve a la vida y escapa bajo tierra, aunque la mayoría de sus armas han sido destruidas. Bang e Irvine persiguen al Death Stinger y consiguen atraparlo, pero misteriosamente desaparece.",
+        "released": "2000-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/GJRXC3KYKxARnvKZFd8AGTDCSf.jpg"
+      },
+      {
+        "id": "tt0367443:1:65",
+        "title": "Zoid Eve",
+        "season": 1,
+        "episode": 65,
+        "overview": "Fine reaparece frente al Dark Kaiser, quien resulta ser Proitzen fusionado con el núcleo de Zoid del Death Saurer. Proitzen lleva a Fine hasta Zoid Eve para despertarla y comenzar el fin del mundo. El Death Stinger se enfrenta al Blade Liger.",
+        "released": "2000-12-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iYJ2QA1Le78smsRhFPYgeYxXobp.jpg"
+      },
+      {
+        "id": "tt0367443:1:66",
+        "title": "El momento de la extinción",
+        "season": 1,
+        "episode": 66,
+        "overview": "Zoid Eve resucita al Death Stinger, que posteriormente se fusiona con el núcleo de Zoid que forma parte de Proitzen. Al fusionarse ambos núcleos, se crea el núcleo de Zoid más poderoso jamás visto, que es implantado en el Death Saurer.",
+        "released": "2000-12-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/51KIVtP1UaSO7lPvHJcw9DH7Y6c.jpg"
+      },
+      {
+        "id": "tt0367443:1:67",
+        "title": "El regreso hacia el futuro",
+        "season": 1,
+        "episode": 67,
+        "overview": "El Ultimate Death Saurer ha sido resucitado y los ejércitos combinados de la República, el Imperio y la Guardian Force ni siquiera consiguen frenarlo. Bang y Raven intentan realizar un ataque combinado, pero fracasan inmediatamente.",
+        "released": "2000-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hFTPQuduVdyCkVIdNfeO8YBJ6JQ.jpg"
+      }
+    ]
+  }
+}

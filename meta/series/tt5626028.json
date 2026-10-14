@@ -1,0 +1,1538 @@
+{
+  "meta": {
+    "id": "tt5626028",
+    "type": "series",
+    "name": "My Hero Academia",
+    "poster": "https://image.tmdb.org/t/p/w500/rxqI6KDfbIzlg5BRqg7i3nLsn9r.jpg",
+    "posterShape": "poster",
+    "description": "El 80% de la población mundial ha desarrollado superpoderes y son entrenados en la Academia de Héroes. Como consecuencia, han surgido tanto superhéroes como supervillanos. Izuku Midoriya es parte de ese 20% sin ningún poder sobrenatural. Sin embargo, su mayor deseo es poder estudiar en la Academia y convertirse en un héroe",
+    "releaseInfo": "2016",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt5626028:1:1",
+        "title": "Izuku Midoriya: Origen",
+        "season": 1,
+        "episode": 1,
+        "overview": "Izuku descubre que la verdadera forma de All Might es un hombre frágil y demacrado, que recibió una grave herida años atrás. All Might le dice a Izuku que debería rendirse en intentar ser un héroe y centrarse en un sueño más realista. Desanimado, Izuku regresa a casa, solo para encontrar a su compañero de clase y agresor, Katsuki Bakugō, atacado por un villano. Sin ningún héroe cerca para combatir al villano, Izuku, sin pensarlo antes, corre a salvarlo.",
+        "released": "2016-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v8LeJjeJeyiZPqElnDG0FZQpABf.jpg"
+      },
+      {
+        "id": "tt5626028:1:2",
+        "title": "Lo que necesita un héroe",
+        "season": 1,
+        "episode": 2,
+        "overview": "Izuku está destrozado tras las palabras de All Might, pero el involucrarse en un incidente con el villano que se escapó a All Might, hará que este cambie de opinión sobre él y sobre sí mismo.",
+        "released": "2016-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4Aa6blmgqkJDVDrf70Un1hXfjIT.jpg"
+      },
+      {
+        "id": "tt5626028:1:3",
+        "title": "Grandes músculos",
+        "season": 1,
+        "episode": 3,
+        "overview": "All Might le dice a Izuku que su singularidad, \"One For All\", es una singularidad especial que transfiere su fuerza de persona a persona. All Might cree que Izuku es digno de su singularidad, pero entregárselo a el inmediatamente arruinaría su cuerpo sin entrenar. All Might entonces, diseña un régimen de entrenamiento de diez meses, para asegurarse de que Izuku puede volverse un portador del poder.",
+        "released": "2016-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2s5kN4gHjS6dsIZBtB12TY6BuLY.jpg"
+      },
+      {
+        "id": "tt5626028:1:4",
+        "title": "Línea de partida",
+        "season": 1,
+        "episode": 4,
+        "overview": "Luego de recibir la singularidad de All Might, llegó la hora de Izuku para realizar los exámenes para la prestigiosa preparatoria U.A. para héroes en entrenamiento. Sin embargo, durante el examen práctico, Izuku se encuentra en un apuro y está a punto de perder, hasta que una de sus compañeras de examen se encuentra en grave peligro y él corre a salvarla.",
+        "released": "2016-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hfCtoXr6qQJFUmYSgwuoWMBhgdo.jpg"
+      },
+      {
+        "id": "tt5626028:1:5",
+        "title": "Lo que puedo hacer por ahora",
+        "season": 1,
+        "episode": 5,
+        "overview": "Es el primer día de Izuku como estudiante de la preparatoria U.A.. Sin embargo, su profesor Shōta Aizawa decide realizar una prueba física para evaluar como los estudiantes usan sus Singularidades. Aizawa castiga al peor estudiante con la expulsión, e Izuku se vuelve a encontrar en un problema al no saber aun controlar su Singularidad adecuadamente.",
+        "released": "2016-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w9q8vlZtZ5OuMAQ100iI8hB5bAq.jpg"
+      },
+      {
+        "id": "tt5626028:1:6",
+        "title": "¡Enójate, maldito perdedor!",
+        "season": 1,
+        "episode": 6,
+        "overview": "Ahora, con sus propios trajes de héroes, los estudiantes son asignados a una batalla entre equipos de dos para probar sus habilidades de combate. Izuku queda en equipo con Ochako Uraraka, la chica que ayudó durante los exámenes de admisión quien también se vuelve su amiga. Sin embargo uno de sus oponentes es Bakugō, quien siempre lo molestó por su falta de singularidad, y ahora está furioso con él.",
+        "released": "2016-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vk7rVSAo7VHTUsXEPkZjrOwYICI.jpg"
+      },
+      {
+        "id": "tt5626028:1:7",
+        "title": "Deku contra Kacchan",
+        "season": 1,
+        "episode": 7,
+        "overview": "La batalla continúa con Izuku apenas esquivando los devastadores ataques de Bakugō, dejando a Ochako enfrentar al otro oponente, Tenya Iida. Mientras se va agotando el tiempo, Izuku parece no tener otra opción, más que usar su Singularidad contra Bakugō en un intento por derrotarlo, hasta que se le ocurre una mejor idea.",
+        "released": "2016-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vZn3Ri5a7LRDYq4qde8KAlUADqA.jpg"
+      },
+      {
+        "id": "tt5626028:1:8",
+        "title": "La línea de partida de Bakugo",
+        "season": 1,
+        "episode": 8,
+        "overview": "Luego de perder contra Izuku en la batalla, Bakugō mira al resto de sus compañeros en acción y se da cuenta de que aún un largo camino por recorrer. Luego de recuperarse de sus heridas, Izuku intenta alegrarlo, hasta el punto de compartir con él parte de su secreto. Mientras tanto, las noticias de que All Might es profesor en U.A. son recibidas por algunos individuos con desprecio.",
+        "released": "2016-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sjHC0vaEDAiMFhRHNGP0NvpVj9E.jpg"
+      },
+      {
+        "id": "tt5626028:1:9",
+        "title": "¡Esfuérzate, lida!",
+        "season": 1,
+        "episode": 9,
+        "overview": "Izuku es elegido presidente de su clase, para su sorpresa, pero acaba dándole la posición a Iida cuando el y sus amigos lo encuentran más adecuado para la posición. Los estudiantes son entonces assignados para otra batalla de campo, pero antes de que comenzara, una horda de villanos de repente aparece frente a ellos.",
+        "released": "2016-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3qRWc2Pqd7NspfToTjUF3x9blCq.jpg"
+      },
+      {
+        "id": "tt5626028:1:10",
+        "title": "Encuentro con lo desconocido",
+        "season": 1,
+        "episode": 10,
+        "overview": "Los villanos utilizan sus poderes para dispersar y emboscar a los estudiantes para atraer a All Might a una trampa. Izuku termina atrapado y rodeado en un bote junto a sus compañeros Tsuyu Asui y Minoru Mineta, pero luego de aprender más sobre sus poderes, idea un plan para darle la vuelta a las cosas, mientras que Iida es elegido por los otros para escapar de la trampa del enemigo y llamar por ayuda.",
+        "released": "2016-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i3u5sYPEWBBNnXdtUScVXtJX0QF.jpg"
+      },
+      {
+        "id": "tt5626028:1:11",
+        "title": "Fin del juego",
+        "season": 1,
+        "episode": 11,
+        "overview": "Los estudiantes pelean por sus vidas contra los Villanos, mientras Iida se las arregla para escapar con la ayuda de sus amigos. Sabiendo que Iida avisará a los otros profesores para que lleguen a detenerlos, el líder de los Villanos Tomura Shigaraki decide matar a Izuku y sus amigos solo para herir el orgullo de All Might antes de irse, en ese momento All Might en persona aparece.",
+        "released": "2016-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5fqO2bpH9MwUCwU5fqFscx0Yzm5.jpg"
+      },
+      {
+        "id": "tt5626028:1:12",
+        "title": "All Might",
+        "season": 1,
+        "episode": 12,
+        "overview": "Shigaraki desata su arma secreta, el monstruo de multi-singularidades llamado \"Noumu\" para que luche contra All Might, quien se encuentra en un apuro, hasta que Izuku y los otros estudiantes llegan a ayudarlo, pero All Might tiene poco tiempo restante antes de quedarse si poder para derrotar a la criatura y proteger la escuela.",
+        "released": "2016-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5nMz0H4GY8XiHVIfS8FqOxBKcsu.jpg"
+      },
+      {
+        "id": "tt5626028:1:13",
+        "title": "En nuestros corazones",
+        "season": 1,
+        "episode": 13,
+        "overview": "A pesar de haber derrotado a Noumu, All Might no tiene energía restante y está indefenso contra Shigaraki, pero Izuku se las arregla para distraer al enemigo el tiempo suficiente para que los otros profesores lleguen y lo fuerze a retirarse. Los Villanos restantes son capturados y los estudiantes son rescatados, All Might agradece a Izuku por salvar su vida, pero en algún lugar, Shigaraki habla con su maestro, implicando que su lucha contra los Héroes está solo comenzando.",
+        "released": "2016-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9qQLLKmEXCcIZy38AAKofzVpH6T.jpg"
+      },
+      {
+        "id": "tt5626028:2:1",
+        "title": "Es la idea, Ochaco",
+        "season": 2,
+        "episode": 1,
+        "overview": "Aún recuperándose del previo incidente, la escuela está a punto de celebrar el Festival de Deportes, esta es la oportunidad de los estudiantes para mostrar sus Singularidades a héroes profesionales que buscan asistentes. All Might le confiesa a Izuku que sus poderes están disminuyendo, y que el festival es una oportunidad de Izuku para mostrarle su verdadero valor al mundo.",
+        "released": "2017-04-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/990nN2loj7j1NzqWVf5JbxNIQZD.jpg"
+      },
+      {
+        "id": "tt5626028:2:2",
+        "title": "El gran festival deportivo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Todoroki le expresa a Midoriya que él lo derrotará y le mostrará su verdadero poder. El Festival de Deportes comienza, y los estudiantes de los cuatro cursos de la escuela- Héroes, Estudios Generales, Negocios y Apoyo- participan en una carrera de obstáculos.",
+        "released": "2017-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jSUUHX8mJmi9jYkTYjHoir3luKx.jpg"
+      },
+      {
+        "id": "tt5626028:2:3",
+        "title": "A su manera extraña",
+        "season": 2,
+        "episode": 3,
+        "overview": "Durante la carrera de obstáculos, Todoroki sin esfuerzo avanza en cada obstáculo con Bakugo en persecución. En el último obstáculo, Izuku utiliza su ingenio para terminar y ganar la carrera. Sin embargo, su felicidad por la victoria dura poco, al darse cuenta de que al ser el primer lugar, él es el objetivo principal para la siguiente ronda.",
+        "released": "2017-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2zQEdjE2pxlTgDmGHTbq48M66Z5.jpg"
+      },
+      {
+        "id": "tt5626028:2:4",
+        "title": "Estrategia, estrategia, estrategia",
+        "season": 2,
+        "episode": 4,
+        "overview": "En la siguiente ronda, la Batalla de Caballería, Izuku hace equipo con Ochako, Fumikage y la estudiante del Curao de Apoyo, Mei. Siendo el equipo con más puntos, apenas evaden los avances de los otros equipos de su clase, mientras que los estudiantes de la Clase B toman ventaja de ello para reclamar puntos para ellos mismos.",
+        "released": "2017-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pbCRVejJJF5tOd2c7DdxbqmCf5p.jpg"
+      },
+      {
+        "id": "tt5626028:2:5",
+        "title": "Fin de la batalla de caballería",
+        "season": 2,
+        "episode": 5,
+        "overview": "Mientras el final de la Batalla de Caballería se acerca, el equipo de Izuku tiene una difícil confrontación con el equipo liderado por Todoroki y a pesar de perder el primer lugar contra ellos, logran ganar un lugar en la siguiente ronda trabajando juntos.",
+        "released": "2017-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dQGJ9LmiQrMtdSsh7wA5W3aCWJt.jpg"
+      },
+      {
+        "id": "tt5626028:2:6",
+        "title": "El chico que nació con todo",
+        "season": 2,
+        "episode": 6,
+        "overview": "Los 16 estudiantes restantes avanzan a la etapa final, con batallas uno contra uno para decidir el ganador. Antes de que las peleas comienzen, Todoroki tiene una charla privada con Izuku, revelando las razones por las que odia a su padre, el segundo mejor héroe del mundo, Endeavor.",
+        "released": "2017-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pacgtKLJvhOBdoNjzXgTbJwYrlE.jpg"
+      },
+      {
+        "id": "tt5626028:2:7",
+        "title": "Victoria o derrota",
+        "season": 2,
+        "episode": 7,
+        "overview": "En la primera ronda, Izuku es atacado por la habilidad lava-cerebros de Hitoshi Shinso, pero logra liberarse en el último momento, obteniendo la victoria, mientras que Todoroki demuestra si abrumador poder y fácilmente gana en su encuentro contra Hanta Sero, volviéndose el oponente de Izuku en la siguiente ronda.",
+        "released": "2017-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c7QUEodtTFbEuwRWhWruZBQg9tc.jpg"
+      },
+      {
+        "id": "tt5626028:2:8",
+        "title": "¡Peleen, contendientes!",
+        "season": 2,
+        "episode": 8,
+        "overview": "El Festival de Deportes de U.A. continúa con la terminación de cinco peleas más. Shiozaki rápidamente vence a Kaminari. Mei manipula a Iida para poder mostrar su tecnología a las compañías de apoyo, tras lo cual le otorga la victoria, saliendo del campo. Mina vence a Aoyama explotando su debilidad. Yaoyorozu es abrumada por la velocidad de Dark Shadow de Tokoyami y es empujada fuera del ring. Tetsutetsu y Kirishima tienen una lucha bastante pareja, acabando en un empate. Mientras tanto Uraraka intenta prepararse a si misma para su lucha contra Bakugo.",
+        "released": "2017-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jv23cLR0QKb8TJ6rjdZ2qSCZH9T.jpg"
+      },
+      {
+        "id": "tt5626028:2:9",
+        "title": "Bakugo contra Uraraka",
+        "season": 2,
+        "episode": 9,
+        "overview": "Uraraka usa diferentes estrategias para intentar derrotar a Bakugo, sin embargo, a pesar de sus planes Bakugo gana al caer Uraraka inconsciente. Posteriormente, Uraraka habla por teléfono con su padre quien intenta consolarla, pero sin ningún éxito. Mientras sucede esto, Tetsutetsu y Kirishima tienen un concurso de pulso para determinar quien avanza a la siguenge ronda. Kirishima gana y los dos terminan como nuevos amigos. Izuku se prepara para su batalla con Todoroki.",
+        "released": "2017-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oCE0YzSXLTMR0fNAtL1pxHKoWrN.jpg"
+      },
+      {
+        "id": "tt5626028:2:10",
+        "title": "Shooto Todoroki: Origen",
+        "season": 2,
+        "episode": 10,
+        "overview": "Izuku y Todoroki comienzan su encuentro. Izuku, aún intentando ganar, intenta que Todoroki use su lado izquierdo para que así ambos batallen con todo su poder. Mientras Todoroki pelea, más de su pasado es revelado a través de sus pensamientos y él recuerda como su madre le dijo que estaba bien usar su lado izquierdo porque quería ser un héroe. Izuku logra hacer luchar a Todoroki usando ambos lados. Cementoss y Midnight intentan detener el encuentro antes de que los dos usen sus ataques finales, pero es en vano. Izuku es lanzado fuera de los límites y Todoroki avanza.",
+        "released": "2017-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xrrFPcAVY9FCYKGeKdTjlYPWEPk.jpg"
+      },
+      {
+        "id": "tt5626028:2:11",
+        "title": "¡Pelea, lida!",
+        "season": 2,
+        "episode": 11,
+        "overview": "Midoriya causó un daño significativo en su mano derecha y requiere cirugía. La enfermera de la escuela, Recovery Girl, le advierte que se niega a darle tratamiento en el futuro si vuelve a hacer algo así. All Might admite que su juventud fue igual a la de Midoriya. Todoroki admite ante Endeavor que fue capaz de usar su lado izquierdo de fuego porque olvidó todo sobre su padre. En los últimos encuentros de la segunda ronda, Iida y Tokoyami sacan a sus respectivos oponentes, Shiozaki y Ashido fuera de los límites, mientras que Bakugo vence a Kirishima. En la batalla de Iida vs Todoroki, Iida es congelado y resulta incapaz de seguir. Bakugo se da cuenta de la debilidad de Tokoyami ante la luz intensa mientras luchan y lo hace rendirse. Mientras tanto en Tokio, el hermano de Iida, Ingenium, es atacado por el asesino de héroes, Stain, e Iida es informado de esto por su madre. Stain es invitado por Kurogiri para encontrarse con Shiguraki y unirse a la Liga de Villanos.",
+        "released": "2017-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vAggBaCiabSYZT9TPkOwmATz4WA.jpg"
+      },
+      {
+        "id": "tt5626028:2:12",
+        "title": "Todoroki contra Bakugo",
+        "season": 2,
+        "episode": 12,
+        "overview": "Comienza la final de el festival deportivo entre los dos mejores estudiantes por parte de los de primer año. Bakugo quiere forzar a Todoroki a usar su lado izquierdo tal como lo hizo con Midoriya, logra hacerlo, pero éste al recordar a su padre apaga sus flamas quedando libre para el ataque de Bakugo que lo manda inconsciente fuera del ring. Después de la ceremonia en donde Fumikage, Todoroki y Bakugo recibieron sus medallas y All Might les dijo personalmente unas palabras a cada uno, el festival deportivo de la U.A llega a su fin. En la escuela se les dan algunos días de recuperación a todos. Tenya visita a su hermano el cual le dice que lo lamenta y que perdió contra los villanos. Por su parte, Todoroki visita a su madre en el hospital para hablar con ella después de tanto tiempo.",
+        "released": "2017-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iEAHq4YEwvW4KPEBCXPtYkUEbp3.jpg"
+      },
+      {
+        "id": "tt5626028:2:13",
+        "title": "Hora de elegir nombres",
+        "season": 2,
+        "episode": 13,
+        "overview": "Durante el camino a la escuela la gente reconoce a los estudiante de la U.A. que participaron en el torneo, los felicitan y los animan a seguir esforzándose. Durante la clase, Aizawa dice que es el día de elegir sus nombres de héroe provisionales y, así, pasan uno a uno a presentarlo. Tenya recuerda como su hermano le pidió que tomara su nombre, mientras que Midoriya elige \"Deku\" como el suyo. Comienzan las prácticas laborales y cada uno parte hacía alguna agencia diferente. Finalmente, Midoriya y Uraraka tratan de darle palabras de ánimo a Tenya. Este lo agradece pero conserva una fría mirada mientras se retira.",
+        "released": "2017-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pryUQihr9rDyhbi5GCh8YkO8dIE.jpg"
+      },
+      {
+        "id": "tt5626028:2:14",
+        "title": "¡Qué raro! ¡Gran Torino aparece!",
+        "season": 2,
+        "episode": 14,
+        "overview": "Es el primer día de las prácticas laborales y Midoriya llega con el maestro de All Might, Gran Torino. Comienza su entrenamiento y el de sus demás compañeros en sus respectivas agencias. Por otro lado en liga de villanos tienen un encuentro con el Asesino de Héroes: Stain, el cual parece estar en desacuerdo con las razones de éstos. Finalmente, Midoriya tiene una idea de como dominar la One for All y Gran Torino lo pone a prueba.",
+        "released": "2017-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wli0QbsPQXM5rqGEjm2otWAMKhR.jpg"
+      },
+      {
+        "id": "tt5626028:2:15",
+        "title": "Midoriya y Shigaraki",
+        "season": 2,
+        "episode": 15,
+        "overview": "Midoriya sigue su entrenamiento con Gran Torino controlando el 5% del One for All. Cada estudiante se muestra en sus respectivas agencias. Naomasa se enuentra con All Might para discutir el peculiar tema de \"Nomu\" haciéndole saber que es una creación y que probablemente hay alguien con la capacidad de otorgar quirks. Por otro lado Stain se encuentra con el líder de la liga de villanos, Shigaraki, encuentro que se torna en una pelea debido a los diferentes objetivos de cada quien. Finalmente, en la ciudad de Hosu se desata el caos con la aparición de 3 \"Nomus\", Iida se encuentra con Stain, mientras que Midoriya junto a Gran Torino quedan involucrados en el asunto cuando viajaban en las cercanías.",
+        "released": "2017-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbQeN6iHHc5NtfQImDMTX83wxJA.jpg"
+      },
+      {
+        "id": "tt5626028:2:16",
+        "title": "Stain contra los estudiantes de la U.A.",
+        "season": 2,
+        "episode": 16,
+        "overview": "Con la ciudad de Hosu en caos y Gran Torino enfrentándose a uno de los Nomus, llega Endeavor para unirse a la pelea. Midoriya continua buscando a Iida mientras los héroes caen uno a uno frente a los Nomu. Por su parte Iida ataca al asesino de héroes el cual, fácilmente pone a Iida contra las cuerdas. Midoriya llega a tiempo para evitar que Iida muera y aunque logró hacer un poco de daño a Stain, éste lo paralizó también. Todoroki llega para ayudar a sus compañeros y los encuentra a todos derrotados, al ver el potencial de su oponente considera que lo mejor es solo ganar tiempo y esperar a los profesionales, comenzando así la batalla.",
+        "released": "2017-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sy4x22W7mzpSzdcENPXsztmbXnJ.jpg"
+      },
+      {
+        "id": "tt5626028:2:17",
+        "title": "Clímax",
+        "season": 2,
+        "episode": 17,
+        "overview": "Continua la pelea contra el asesino de héroes, Todoroki sigue atacando pero la habilidad de Stain lo supera. Se acaba el efecto del quirk de Stain en Iida y este logra atacar de frente por primera vez salvando a Shoto. Por otra parte, continúan los ataques en la ciudad por los Nomu, Gran Torino junto a Endeavor y los demás héroes que peleaban logran encargarse de ellos, pero uno escapa. En el callejón de la batalla los estudiantes de la U.A. unen sus fuerzas para lograr vencer a Stain, llegan más héroes al lugar de los hechos donde todo ya había terminado, o al menos eso parecía hasta que llega el Nomu que había escapado y se lleva a Midoriya, Stain despierta y en un movimiento logra inmovilizar con su quirk a Nomu, salvando así a Midoriya. Endeavor llega al lugar también y Stain al ver a éste, comienza un discurso que paralizaría de miedo a todos.",
+        "released": "2017-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r8bwG9Uur1KfNsFKhE8m9VJlUN9.jpg"
+      },
+      {
+        "id": "tt5626028:2:18",
+        "title": "Consecuencias del asesino de héroes: Stain",
+        "season": 2,
+        "episode": 18,
+        "overview": "Después del enfrentamiento contra Stain, los estudiantes afectados se encuentran en el hospital, donde los visitaría el jefe de la policia. Este habló sobre las consecuencias que traería haber usar los quirks sin autorización y en contra de un villano, pero que sin embargo, estaba agradecido con ellos y que se tomarían los hechos como un acto realizado por Endeavor. Finalmente se muestra como villanos que estaban escondidos salen para ir a unirse a la liga de villanos, todos estos motivados por los actos de Stain.",
+        "released": "2017-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vKXtSJpnvBBiBdnKz90nlhiWcoI.jpg"
+      },
+      {
+        "id": "tt5626028:2:19",
+        "title": "Las pasantías de todos",
+        "season": 2,
+        "episode": 19,
+        "overview": "Se nos presenta un capitulo original, en donde se nos muestra a los personajes realizando sus practicas con sus respectivas agencias. Por su parte Tsuyu, que se encuentra realizando practicas de tipo salvamento acuatico, tiene que enfrentarse a una banda de ladrones en pleno entrenamiento.",
+        "released": "2017-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fPMY8vANaLtYEokGTEWlB1951X6.jpg"
+      },
+      {
+        "id": "tt5626028:2:20",
+        "title": "¡Escuchen! Una historia del pasado",
+        "season": 2,
+        "episode": 20,
+        "overview": "Los estudiantes regresan a sus vidas diarias mientras All Might tiene una lección de historia especial para Izuku. ¡Es hora de aprender sobre One For All!",
+        "released": "2017-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g7QnQCNfBQOmjo8HMr0oQkyQbdL.jpg"
+      },
+      {
+        "id": "tt5626028:2:21",
+        "title": "Prepárense para los exámenes",
+        "season": 2,
+        "episode": 21,
+        "overview": "Las finales se acercan y la Clase 1-A va a necesitar más que una sesión de apoyo. Este año, los maestros están cambiando los exámenes prácticos.",
+        "released": "2017-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h0QFP8dKtq6I0dOsljPh5uMjUET.jpg"
+      },
+      {
+        "id": "tt5626028:2:22",
+        "title": "Yaoyorozu: Ascenso",
+        "season": 2,
+        "episode": 22,
+        "overview": "Los exámenes están resultando ser mucho más desafiantes de lo que esperaban los estudiantes. ¿Puede alguno de los equipos defenderse contra un maestro?",
+        "released": "2017-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m0FDTSFuajTTXsQsdmE6gsrh0uF.jpg"
+      },
+      {
+        "id": "tt5626028:2:23",
+        "title": "Despejar el barniz",
+        "season": 2,
+        "episode": 23,
+        "overview": "Finaliza la batalla de Uraraka y Aoyama vs Trece. Comienza la batalla de Kaminari y Ashido contra el director, quien demuestra su habilidad de predicción y los vence. Por su parte, Koda muestra el miedo que le tiene a los insectos, a los cuales podría controlar con su quirk Animal Voice. Jiro lo persuade para que lo utilice en su enfrentamiento contra Present Mic y así poder aprobar su examen. Bakugo y Midoriya se encuentran minutos antes de comenzar su examen contra All Might.",
+        "released": "2017-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/edmDKyqrYDtp53b5uCylfS5gFY9.jpg"
+      },
+      {
+        "id": "tt5626028:2:24",
+        "title": "Katsuki Bakugo: Origen",
+        "season": 2,
+        "episode": 24,
+        "overview": "Comienza la batalla de Midoriya y Bakugo vs All Might. Deku intenta convencer a Bakugo de huir sin enfrentarlo, pero se niega a irse sin derrotarlo y cooperar como equipo. All Might va con todo en su papel como villano y logra hacerles mucho daño. La batalla termina mientras dos nuevos personajes llegan a la Liga de Villanos motivados por la figura de Stain.",
+        "released": "2017-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ayJOzAE2dG2Sg3Ds5yCzOF9S4sj.jpg"
+      },
+      {
+        "id": "tt5626028:2:25",
+        "title": "Encuentro",
+        "season": 2,
+        "episode": 25,
+        "overview": "En el escondite de la Liga de Villanos dos visitantes muestran interés en unirse. Tomura se resiente de que la ideología de Stain haya inspirado a mucha más gente que la suya propia. Mientras, Izuku y sus compañeros se van de compras para prepararse para el campamento de entrenamiento de verano.",
+        "released": "2017-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tRaD9tu1Qjq9kcdgN4UHYgKzlqa.jpg"
+      },
+      {
+        "id": "tt5626028:3:1",
+        "title": "Empieza el juego",
+        "season": 3,
+        "episode": 1,
+        "overview": "Día de descanso antes del campamento, los chicos de la clase 1-A solicitan la piscina de la escuela para entrenar. Mientras esto sucede, Midoriya y sus amigos conversan y recapitulan los eventos pasados.",
+        "released": "2018-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pjnVvLF7dkrUf5A7FScFQxKZQ1t.jpg"
+      },
+      {
+        "id": "tt5626028:3:2",
+        "title": "Wild, wild Pussycats",
+        "season": 3,
+        "episode": 2,
+        "overview": "La Clase 1-A parte en el bus escolar hacia campamento de verano en el bosque junto a Eraserhead y otro grupo de profesores. Sin embargo, el bus se detiene y los alumnos toman un descanso, donde conocen a un grupo de heroinas, las Wild Wild Pussycats y a Kota, un niño huérfano que desprecia a los héroes. Poco después, los estudiantes son forzados a abandonar el bus y adentrarse en el bosque en un ejercicio de supervivencia hasta llegar al campamento. Ya en el campamento, la clase 1-A toma un merecido descanso en unas aguas termales y más adelante, Midoriya conoce la historia de los padres de Kota, una pareja de héroes que fallecieron en combate.",
+        "released": "2018-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2JiTX9BNFKxdy6nCCzYDJRj55uX.jpg"
+      },
+      {
+        "id": "tt5626028:3:3",
+        "title": "Kota",
+        "season": 3,
+        "episode": 3,
+        "overview": "Comienza el entrenamiento para fortalecer las singularidades, cada uno de los estudiantes trabaja en aumentar sus límites de distintas formas. Kota, sobrino de Shino Sosaki, una integrante de las Wild Pussycats, le cuenta a Midoriya sobre su odio hacia las singularidades y la sociedad superhumana. Más adelante, durante un ejercicio de entrenamiento nocturno, los villanos se reúnen cerca del campamento para iniciar su ataque contra los estudiantes de la U.A.",
+        "released": "2018-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A4fGP3dSlUXqs0grDPCilYgkTYi.jpg"
+      },
+      {
+        "id": "tt5626028:3:4",
+        "title": "Mi héroe",
+        "season": 3,
+        "episode": 4,
+        "overview": "El Escuadrón de Acción de Vanguardia continúa su ataque en el campo de entrenamiento forestal. Un gas venoso se expande por todo bosque mientras los profesionales luchan contra los villanos y los estudiantes intentan reagruparse. Mientras tanto, Midoriya pone su vida al límite para salvar a Kota del villano Muscular, quien también revela que la liga de villanos está detrás de Bakugo.",
+        "released": "2018-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fkAD0clQnyfYjfNrSr7jD2vFOMh.jpg"
+      },
+      {
+        "id": "tt5626028:3:5",
+        "title": "¡Mándalo a casa, puño de hierro!",
+        "season": 3,
+        "episode": 5,
+        "overview": "Después de derrotar a Muscular, Midoriya agotado y con los brazos severamente lastimados, lleva a Kota de vuelta al campamento. Luego, se reune con la heroina Mandalay de las Wild Pussycats para utilizar su Quirk de telepatía y enviar un mensaje de Eraserhead a todos los estudiantes de la U.A: Que tienen permiso para utilizar sus Quirks contra El Escuadrón de Acción de Vanguardia y que están tras Bakugo. Mientras tanto, Tetsutetsu y Kendo tienen una feroz pelea contra el villano Mustard, la fuente del gas venenoso.",
+        "released": "2018-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7aPjqgFERzYc6UmzHEodlSb7yUH.jpg"
+      },
+      {
+        "id": "tt5626028:3:6",
+        "title": "Agitación ruidosa",
+        "season": 3,
+        "episode": 6,
+        "overview": "Con la derrota de Mustard, el gas empieza a disiparse. Midoriya se encuentra con Shoji y poco después con Tokoyami. Sin embargo, su Quirk Dark Shadow está fuera de control y amenaza con impedir el camino de Midoriya hacia Bakugo. A pesar de ello, Midoriya elabora un plan para engañar a Dark Shadow, derrotar al villano Moonfish y reunirse finalmente con Todoroki, Bakugo y también con Uraraka y Tsu, quienes estuvieron peleando contra la villana Himiko Toga. Sin embargo, poco después el villano Mr. Compress hace su aparición y pone en aprietos al grupo.",
+        "released": "2018-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/91gvAhWOsoHBBESZc6MkjLMOaLY.jpg"
+      },
+      {
+        "id": "tt5626028:3:7",
+        "title": "¡Qué sorpresa!",
+        "season": 3,
+        "episode": 7,
+        "overview": "Midoriya y los demás corren a rescatar a Bakugo y Tokoyami de Mr.Compress. Con ayuda de Aoyama, logran rescatar a Tokoyami. Sin embargo, Bakugo es transportado fuera del campamento utilizando el portal de Korogiri. Algunos villanos son capturados y varios estudiantes terminan heridos. Durante varios días, la prensa y los medios de comunicación atormentan y critican a la U.A por su falta de medidas de seguridad con los alumnos. Asimismo, se sospecha de un \"traidor\" dentro de la U.A quién, según el director Dezo, informó a los villanos sobre la localización del campamento de verano. Sin embargo, la situación parece mejorar cuando Yaoyorosu le revela a la policía que utilizó su Quirk de creación y colocó un dispositivo rastreador en un Nomu durante la emboscada al campamento de verano. Esto podría ser una pista para encontrar el escondite de la Liga de Villanos. Más tarde, la Clase-1A visita a Midoriya en el hospital donde Kirishima y Todoroki revelan su plan para rescatar a Bakugo.",
+        "released": "2018-05-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fggqtGhkVwV19qFQrOMziHcjLOT.jpg"
+      },
+      {
+        "id": "tt5626028:3:8",
+        "title": "De Iida a Midoriya",
+        "season": 3,
+        "episode": 8,
+        "overview": "Mientras la Clase 1-A debate sobre la opción de ir a rescatar a Bakugo, Midoriya teme por su salud, pues el doctor le advirtió que si se lastima los brazos dos o tres veces más, los perderá para siempre. Finalmente el equipo de rescate de Bakugo es conformado por Todoroki, Kirishima, Yaoyorozu, Lida y Midoriya quienes utilizan unos disfraces para pasar desapercibidos. Por otro lado, los héroes comienzan la investigación sobre el paradero de Bakugo mientras Shigaraki intenta convencer a Bakugo para unirse a la Liga de Villanos.",
+        "released": "2018-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/glltUgXwP24uFcBmPhfrKaesI08.jpg"
+      },
+      {
+        "id": "tt5626028:3:9",
+        "title": "All for One",
+        "season": 3,
+        "episode": 9,
+        "overview": "Eraserhead, Vlad King y Dezu, el director de U.A, hacen una conferencia de prensa para aclarar los incidentes del campamento de verano y reafirmar su compromiso con la seguridad de sus alumnos. Mientras tanto, Midoriya, Lida, Todoroki, Kirishima y Yaoyorozu, van en busca de Bakugo y llegan a una fábrica aparentemente abandonada, donde descubren una gran cantidad de Nomus. Aprovechando la aparente tranquilidad, los héroes entran en acción. All Might irrumpe en el escondite de la Liga de Villanos. Por su lado, Best Jeanist y Lady Mount llegan a la fábrica de los Nomus y los derrotan a todos. Sin embargo, son interrumpidos por un enemigo más poderoso, All for One, la mente maestra detrás de la liga de villanos, quien posee un Quirk capaz de robar y apropiarse de los Quirks de otras personas.",
+        "released": "2018-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cRaSrEOmmUiwn42z309BxnpGIXz.jpg"
+      },
+      {
+        "id": "tt5626028:3:10",
+        "title": "Símbolo de la Paz",
+        "season": 3,
+        "episode": 10,
+        "overview": "Mientras Endeavor y otros héroes pelean contra varios Nomus alrededor de la ciudad, All for One, utiliza un portal para transportar a la Liga de Villanos y a Bakugo junto a él antes de que All Might pueda salvarlo. Luego, All for One vence fácilmente a Best Jeanist. Poco después, All Might llega hacia la fábrica de Nomus pero teme pelear al 100% por temor a lastimar a Bakugo. Mientras tanto, Midoriya, quien está escondido junto a sus compañeros cerca a la fábrica, idea un plan perfecto para el rescate de Bakugo.",
+        "released": "2018-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dFgp9h7hZuTJOuCSgiXXvKtuEBp.jpg"
+      },
+      {
+        "id": "tt5626028:3:11",
+        "title": "One for All",
+        "season": 3,
+        "episode": 11,
+        "overview": "Con Bakugo rescatado, continúa la pelea entre All Might y All for One que es transmitida por televisión global. Entre recuerdos de All Might, conocemos a Nana Shimura, mentora de All Might y ex-portadora del One For All. Poco después, All Might pierde casi toda su energía y su forma esbelta es expuesta ante todo el mundo. Luego, All for One revela que Tomura Shigaraki, el líder de la liga de villanos, es también nieto de Nana Shimura y que reconoce que Midoriya es el siguiente portador del One for All. Sin embargo, a pesar de su agotamiento físico y emocional, All Might reúne las últimas fuerzas para terminar la batalla.",
+        "released": "2018-06-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7kJcLTZsF1Kvxd2ElNz4ybO8UGb.jpg"
+      },
+      {
+        "id": "tt5626028:3:12",
+        "title": "Fin del principio, principio del fin",
+        "season": 3,
+        "episode": 12,
+        "overview": "Después de la derrota de All for One, All Might se retira oficialmente de su oficio de héroe mientras que el villano es encerrado en una prisión de máxima seguridad. Poco después, Eraserhead y All Might visitan a cada uno de los padres de los alumnos de U.A para intentar implementar un sistema de estudio internado y así mantener a los estudiantes mejor protegidos. Todos los padres aceptan, excepto por Inko Midoriya, la mamá de Izuku Midoriya, pues teme que su hijo continúe lastimándose. Mientras tanto, All for One se muestra optimista pues piensa que Shigaraki crecerá mucho más con la ausencia de su mentor.",
+        "released": "2018-06-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yleKjvyD5DXUnRKjbvOxJCPAhWG.jpg"
+      },
+      {
+        "id": "tt5626028:3:13",
+        "title": "Al dormitorio",
+        "season": 3,
+        "episode": 13,
+        "overview": "Después de que la mamá de Izuku acepta la idea del internado, Midoriya y sus compañeros se mudan a los dormitorios de la U.A. El director Dezu piensa que con la ayuda del internado, el supuesto \"traidor\" será identificado. Esa noche, después de que los alumnos se han instalado, realizan un pequeño concurso para elegir al \"Rey de las habitaciones\". Sin embargo, Tsu está misteriosamente ausente durante casi todo el día.",
+        "released": "2018-06-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mUxkrWky8pUr3rdcV8OgO3JKFiA.jpg"
+      },
+      {
+        "id": "tt5626028:3:14",
+        "title": "Hagan ataques especiales",
+        "season": 3,
+        "episode": 14,
+        "overview": "Eraserhead les indica a los alumnos de la Clase 1-A que su siguiente paso para convertirse en héroes será obtener una licencia provisional. Sin embargo, precisa que para pasar el difícil examen, todos deben trabajar creando sus movimientos definitivos. Los profesores Cementoss, Ectoplasm y Midnight ayudan a los estudiantes a entrenar y All Might les da una pequeña visita para darles algunos consejos. Sin embargo, Midoriya quien tiene problemas para crear su movimiento definitivo, acude a Hatsume para mejorar su traje. Es allí donde descubre cómo mejorar sus habilidades y desarrollar una variación del Full Cowl: \"Shot Style\".",
+        "released": "2018-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pGogmBfjJAzQz3ocwirqN7bvjaT.jpg"
+      },
+      {
+        "id": "tt5626028:3:15",
+        "title": "La prueba",
+        "season": 3,
+        "episode": 15,
+        "overview": "La Clase 1-A finalmente logra mejorar su trajes y crear sus movimientos definitivos. Tras un corto viaje, llegan a las instalaciones del examen, donde Eraserhead se reencuentra con una vieja amiga, la heroína Joke, maestra de una escuela rival. Los estudiantes de la clase 1-A conocen brevemente a algunos alumnos de otras escuelas como Shindo, de la academia Ketsubutsu y Yoarashi de la academia Shiketsu. Poco después, se da inicio el examen. Este consiste en una prueba práctica en campo de entrenamiento inmenso donde los postulantes deben colocar 3 esferas pequeñas en 3 orificios de otro postulante. Desde las graderías, Joke le informa a Eraserhead que la U.A está en desventaja, pues los demás postulantes ya conocen sus Quirks después de haberlos visto en acción durante el Festival Deportivo.",
+        "released": "2018-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gpARjoAURqHvSxscBaTeTI2wouS.jpg"
+      },
+      {
+        "id": "tt5626028:3:16",
+        "title": "Shiketsu al acecho",
+        "season": 3,
+        "episode": 16,
+        "overview": "Bakugo, Kirishima y Todoroki deciden separarse del grupo y los demás estudiantes de la U.A trabajan en equipo para repeler las esferas que lanzan las otras escuelas. Sin embargo, Shindo, de la escuela rival, utiliza su Quirk de vibración para crear un terremoto y dispersar al grupo. Mientras tanto, Yoarashi elimina a 120 estudiantes con la ayuda de su Quirk \"ventizca\". Poco después, Midoriya se cruza con Utsushimi, de la escuela Shiketsu, quien logra colocarle una esfera en el pecho y hacerse pasar por Uraraka utilizando su Quirk de copia. Luego, Midoriya es emboscado por alumnos de Shiketsu, pero logra esquivar todos sus ataques y finalmente se reúne con Uraraka y Sero. Mientras tanto, Todoroki es emboscado por diez alumnos de otra escuela.",
+        "released": "2018-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gXLFmnOo3JkuehX8eRRRk5thpAa.jpg"
+      },
+      {
+        "id": "tt5626028:3:17",
+        "title": "Clase 1-A",
+        "season": 3,
+        "episode": 17,
+        "overview": "Los protagonistas comienzan a enfrentarse a sus enemigos y los grupos formados plantean sus estrategias. El grupo liderado por Momo acaba en una trampa en la que parece que no tienen escapatoria.",
+        "released": "2018-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oJvs5SmB3tsNDDCmAzySGH6zAku.jpg"
+      },
+      {
+        "id": "tt5626028:3:18",
+        "title": "¡PRISA!",
+        "season": 3,
+        "episode": 18,
+        "overview": "Con la primera prueba del examen de la licencia provisional a punto de terminar, los protagonistas intentan reunirse para superarla como puedan. Aunque algunos de ellos se encuentran en una situación complicada, como Bakugo y compañía.",
+        "released": "2018-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ywZN4HBRmxZIPFySBHWonCfM2lk.jpg"
+      },
+      {
+        "id": "tt5626028:3:19",
+        "title": "Ejercicios de rescate",
+        "season": 3,
+        "episode": 19,
+        "overview": "La nueva prueba del examen de licencia provisional pone a los jóvenes héroes en una situación de ataque terrorista donde deberán rescatar a tantas personas como puedan, pero es una tarea más complicada de lo que pensaban.",
+        "released": "2018-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fD2yK1bua0rWWnAcHMlT72D2Xfp.jpg"
+      },
+      {
+        "id": "tt5626028:3:20",
+        "title": "¡Salva el mundo con amor!",
+        "season": 3,
+        "episode": 20,
+        "overview": "Varios de los protagonistas protagonizan un entrenamiento especial en época de vacaciones en el que deberán resolver una situación en un robo a una joyería donde se produce un misterioso asesinato.",
+        "released": "2018-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7DrBKSt7wy2977wQBbtIaCpDwgE.jpg"
+      },
+      {
+        "id": "tt5626028:3:21",
+        "title": "¿En qué están pensando?",
+        "season": 3,
+        "episode": 21,
+        "overview": "Con la aparición de Gang Orca en escena, el examen se complica más de lo esperado. Dos de los jóvenes héroes serán la punta de lanza que lo enfrenten, pero la falta de trabajo en equipo puede resultar en desastre.",
+        "released": "2018-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6MSrGMZMZ6zILXEMqGgHrD9JttC.jpg"
+      },
+      {
+        "id": "tt5626028:3:22",
+        "title": "Una charla sobre tu don",
+        "season": 3,
+        "episode": 22,
+        "overview": "Los resultados del examen de la licencia provisional de héroe arrojan sorpresas, aunque no las que los protagonistas esperaban. Entre los jóvenes héroes habrá uno que necesite respuestas sobre alguien en concreto.",
+        "released": "2018-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/38B31AYuygAu6u6mrBOcKVQQ0FA.jpg"
+      },
+      {
+        "id": "tt5626028:3:23",
+        "title": "Deku contra Kacchan, parte 2",
+        "season": 3,
+        "episode": 23,
+        "overview": "Bakugo ha retado a Deku a un duelo con el que quiere descargar su frustración y su ira por los acontencimientos ocurridos en torno a All Might.",
+        "released": "2018-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9aWqAYr03K5LG5oa3bOrX6qOmP7.jpg"
+      },
+      {
+        "id": "tt5626028:3:24",
+        "title": "Una temporada de encuentros",
+        "season": 3,
+        "episode": 24,
+        "overview": "Las clases se reanudan, pero Deku y Bakugo siguen con su castigo por la pelea que tuvieron. Mientras, el resto se prepara para una nueva residencia de héroes en las que podrán experimentar más de cerca qué es ser un verdadero héroe.",
+        "released": "2018-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lTqwkYaOSyFHMMdFhOFcdJXsoXd.jpg"
+      },
+      {
+        "id": "tt5626028:3:25",
+        "title": "Inigualable",
+        "season": 3,
+        "episode": 25,
+        "overview": "La clase protagonista recibe a los Tres Grandes, los tres héroes de la U.A. que están más cerca de ser profesionales, y entre ellos Mirio Togata, el mejor aspirante a héroe número uno incluso entre los profesionales. ¿Qué podrán aprender de él?",
+        "released": "2018-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oyV0RbtOof998dVmjijBbCiviue.jpg"
+      },
+      {
+        "id": "tt5626028:4:1",
+        "title": "La primicia de la clase 1-A de la U.A.",
+        "season": 4,
+        "episode": 1,
+        "overview": "Un reportero acude a la U.A. para hacer un reportaje sobre la vida de los estudiantes, pero en realidad busca al que será el sucesor de All Might.",
+        "released": "2019-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dES7TRDGli7bNR1lT68STX9cf4m.jpg"
+      },
+      {
+        "id": "tt5626028:4:2",
+        "title": "Overhaul",
+        "season": 4,
+        "episode": 2,
+        "overview": "En el lado de los villanos encontramos a Overhaul presentándose ante Tomura Shigaraki, pero parece que la colaboración de estos dos supervillanos no será sencilla. Por el lado de los héroes, Midoriya busca un buen mentor profesional con quien hacer las prácticas, y aunque su primera opción es Gran Torino.",
+        "released": "2019-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4IlqzIKFGY0lD8GZybHbS13ozYB.jpg"
+      },
+      {
+        "id": "tt5626028:4:3",
+        "title": "Chico conoce a....",
+        "season": 4,
+        "episode": 3,
+        "overview": "Midoriya se encuentra ante Nighteye, el antiguo compañero de All Might y con quien quiere hacer la residencia. El problema es que Nighteye es el mayor fan y conocedor de All Might, y no parece muy dispuesto a aceptar a Midoriya por algún motivo.",
+        "released": "2019-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jfV7JGoiY9m5vGminjhuE9gTYWM.jpg"
+      },
+      {
+        "id": "tt5626028:4:4",
+        "title": "Enfrentando el destino",
+        "season": 4,
+        "episode": 4,
+        "overview": "Cuando Mirio y Midoriya patrullan juntos por primera vez, el destino es caprichoso y hace que se encuentren directamente con Chisaki, de quien huye una pequeña. Pero ¿podrán ayudarla cuando ella les pide auxilio?",
+        "released": "2019-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hPtozuYkTRt0vXl5v4IdKUshXxq.jpg"
+      },
+      {
+        "id": "tt5626028:4:5",
+        "title": "Vamos, con agallas, Red Riot",
+        "season": 4,
+        "episode": 5,
+        "overview": "Kirishima hace su residencia junto a Tamaki, de los Tres Grandes, pero aunque uno se considera por detrás de sus compañeros y el otro tiene problemas de personalidad, ambos aspiran a ser grandes héroes. Cuando se vean involucrados en un incidente descubrirán algo terrible.",
+        "released": "2019-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6xSlj42kvFobud9Jj1Utj38X5ho.jpg"
+      },
+      {
+        "id": "tt5626028:4:6",
+        "title": "Charla amarga",
+        "season": 4,
+        "episode": 6,
+        "overview": "Sir Nighteye ha reunido a héroes de todo el país para explicarles la situación con el Shie Hassaikai, las balas que destruyen Dones y el papel de Eri en todo eso.",
+        "released": "2019-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/omt64UmtdSE9HhuTDclfLiRRw4l.jpg"
+      },
+      {
+        "id": "tt5626028:4:7",
+        "title": "¡Vamos!",
+        "season": 4,
+        "episode": 7,
+        "overview": "El grupo de héroes y la policía encuentran por fin una pista que les indica dónde está Eri, así que se preparan para el asalto y rescatar a la pequeña.",
+        "released": "2019-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lHye1zOrBxgBHIESLDJcSgGcHUb.jpg"
+      },
+      {
+        "id": "tt5626028:4:8",
+        "title": "Suneater, de los Tres Grandes",
+        "season": 4,
+        "episode": 8,
+        "overview": "Tamaki siempre ha vivido un poco a la sombra de Mirio, a quien considera el mismo sol, alguien radiante y completamente opuesto a él, pero él en el fondo quiere ser como su amigo.",
+        "released": "2019-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wWWdXsRozPFLt4VCDWPtAR4C6qD.jpg"
+      },
+      {
+        "id": "tt5626028:4:9",
+        "title": "Red Riot",
+        "season": 4,
+        "episode": 9,
+        "overview": "Red Riot y Fat Gum enfrentan a los enemigos, aunque el joven estudiante demostrará más que nunca su valía.",
+        "released": "2019-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ri65KrslHFXAe1Ewb1tTWzqfMKK.jpg"
+      },
+      {
+        "id": "tt5626028:4:10",
+        "title": "Escuadrón temporal",
+        "season": 4,
+        "episode": 10,
+        "overview": "Enfrentar al Hassaikai ya era complicado, pero descubrir que la Liga de Villanos también forma parte de todo hará que los héroes comiencen a plantearse la gravedad de la situación.",
+        "released": "2019-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yozV28EeXAjh4SEJoiTt2BTE7F3.jpg"
+      },
+      {
+        "id": "tt5626028:4:11",
+        "title": "Lemillion",
+        "season": 4,
+        "episode": 11,
+        "overview": "Mirio alcanza a Chisaki e intenta rescatar a Eri con todas sus fuerzas, pero el capitán de la yakuza guarda demasiados trucos en la manga.",
+        "released": "2019-12-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dSDTXH4pwn415tm1daIQ7kKT6pR.jpg"
+      },
+      {
+        "id": "tt5626028:4:12",
+        "title": "Esperanza invisible",
+        "season": 4,
+        "episode": 12,
+        "overview": "Mirio parece tener a Chisaki contra las cuerdas, pero el capitán de la yakuza no está dispuesto a rendirse y la desesperación se extiende entre los héroes.",
+        "released": "2020-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/22rgsCKe7ZTkBUckpJAqWaSUoHB.jpg"
+      },
+      {
+        "id": "tt5626028:4:13",
+        "title": "Infinito 100 %",
+        "season": 4,
+        "episode": 13,
+        "overview": "Deku enfrenta a Chisaki para rescatar a Eri, cuyo poder es mucho más de lo que él creía. Mientras tanto, en la puerta, Ochako y Tsuyu enfrentarán otro peligro inesperado.",
+        "released": "2020-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9Dxr15uS6rXcPJPS6jMOnGCUHq.jpg"
+      },
+      {
+        "id": "tt5626028:4:14",
+        "title": "Un futuro resplandeciente",
+        "season": 4,
+        "episode": 14,
+        "overview": "Llega el final del combate contra Overhaul, pero la Liga de Villanos todavía tiene algo que decir en este enorme conflicto por Eri, y las consecuencias de todo lo ocurrido pueden ser devastadoras.",
+        "released": "2020-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b1MZBIDFoeqJD20Sqz6ksg50yLx.jpg"
+      },
+      {
+        "id": "tt5626028:4:15",
+        "title": "Llamas latentes",
+        "season": 4,
+        "episode": 15,
+        "overview": "Tras la caída del Shie Hassaikai los héroes se recuperan como pueden de las heridas, pero la Liga de Villanos se ha puesto en marcha para unir a su causa a nuevas amenazas sin dejar descansar a nadie.",
+        "released": "2020-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/I5Ax3kqm8tQNJo9pUgUwXsa13s.jpg"
+      },
+      {
+        "id": "tt5626028:4:16",
+        "title": "Atrapa el corazón de los mocosos",
+        "season": 4,
+        "episode": 16,
+        "overview": "Ser un héroe es más que combatir. Hay que conectar con las personas y ser una figura respetable, algo que Todoroki, Bakugo y otros tendrán que aprender en una durísima lección.",
+        "released": "2020-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1EPTmLd1q4cj2vcMmjUdsiMEXLg.jpg"
+      },
+      {
+        "id": "tt5626028:4:17",
+        "title": "Enorgullézcanse, aprendices",
+        "season": 4,
+        "episode": 17,
+        "overview": "El cinco penes y sus compañeros intentan lidiar como pueden con el grupo de pequeños rebeldes para lograr forjar amistad con ellos y ayudarlos a seguir el buen camino en el futuro. Por otro lado, Midoriya comenzará a tener miedo cuando cierto compañero se le acerque demasiado para hablar de lo que le sale del...",
+        "released": "2020-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9wuMAO5fKC5sSXGgglrbuuCKt7g.jpg"
+      },
+      {
+        "id": "tt5626028:4:18",
+        "title": "Festival cultural",
+        "season": 4,
+        "episode": 18,
+        "overview": "Llega el festival cultural de la U.A., y si bien los héroes no están de ánimos para celebraciones, es un festival importante para los estudiantes de las otras ramas, así que todos deben colaborar. Pero ¿qué hacer en su clase?",
+        "released": "2020-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/olCmHUcQq6T0qQYdJeaccJ5GwhX.jpg"
+      },
+      {
+        "id": "tt5626028:4:19",
+        "title": "Lo más divertido del festival son los preparativos",
+        "season": 4,
+        "episode": 19,
+        "overview": "Mientras los héroes protagonistas deciden cómo será la actuación del festival y se reparten posiciones, Gentle Criminal trama un plan para atacar la U.A.",
+        "released": "2020-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kznjvco4DSQAjvyTgFPLdlQYFQQ.jpg"
+      },
+      {
+        "id": "tt5626028:4:20",
+        "title": "Gold Tips Imperial",
+        "season": 4,
+        "episode": 20,
+        "overview": "Mientras la U.A. se prepara para el festival, Mirio llega con Eri para recorrer con ella el lugar y que lo conozca. De fondo, La Brava y Gentle Criminal planean su ataque, justo después de que la policía recomendara cancelar el festival para evitar ser el centro de atención de los villanos.",
+        "released": "2020-02-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/csmr4g86fPLJtoCUsfvRLRdKCdT.jpg"
+      },
+      {
+        "id": "tt5626028:4:21",
+        "title": "Deku contra Gentle Criminal",
+        "season": 4,
+        "episode": 21,
+        "released": "2020-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hGZtCiBp6yMKQqnz1XdoilhgVUQ.jpg"
+      },
+      {
+        "id": "tt5626028:4:22",
+        "title": "¡Empieza el festival cultural!",
+        "season": 4,
+        "episode": 22,
+        "released": "2020-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a61IwJeorvJsj18lGwAvO6coYSD.jpg"
+      },
+      {
+        "id": "tt5626028:4:23",
+        "title": "¡Suéltalo! ¡Festival cultural!",
+        "season": 4,
+        "episode": 23,
+        "released": "2020-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/edQnTifT8rbZRQjn5Au2fR53TaV.jpg"
+      },
+      {
+        "id": "tt5626028:4:24",
+        "title": "Hero Billboard Chart JP",
+        "season": 4,
+        "episode": 24,
+        "released": "2020-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j1KX3vFTFpI7g71548rWFIERsez.jpg"
+      },
+      {
+        "id": "tt5626028:4:25",
+        "title": "Su inicio",
+        "season": 4,
+        "episode": 25,
+        "released": "2020-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ezx0e3qH5eLVjwkDANLBsQwyOPA.jpg"
+      },
+      {
+        "id": "tt5626028:5:1",
+        "title": "¡Todos a la acción! Clase 1-A",
+        "season": 5,
+        "episode": 1,
+        "overview": "La Clase 1-A participa en un simulacro en el cual unos villanos atacan la U.A.",
+        "released": "2021-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8CPIZOfP1a8Vp5kluJn1Uh4uVNx.jpg"
+      },
+      {
+        "id": "tt5626028:5:2",
+        "title": "Vestigios",
+        "season": 5,
+        "episode": 2,
+        "overview": "Endeavor lidia con las secuelas de su combate contra Nemu y descubrimos algo sorprendente relacionado con el incidente. Deku por su parte comienza a ver los recuerdos de los poseedores anteriores del One For All.",
+        "released": "2021-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Pl8NUbrBFkSG7C51nvFF8zNd9H.jpg"
+      },
+      {
+        "id": "tt5626028:5:3",
+        "title": "¡Choque! Clase A contra clase B",
+        "season": 5,
+        "episode": 3,
+        "overview": "Pese a que Midoriya está pensativo debido a haber visto los recuerdos del One For All y trata el tema con All Might, llega el día del entrenamiento conjunto entre las clases A y B, y a este se unirá un invitado especial.",
+        "released": "2021-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iyv4SjWGdAYU8vU1Cjn1vM7pa4V.jpg"
+      },
+      {
+        "id": "tt5626028:5:4",
+        "title": "¡Tú puedes, Shinso!",
+        "season": 5,
+        "episode": 4,
+        "overview": "Shinso intenta adecuarse a combatir en equipo, pero lo cierto es que su Don es realmente útil y enseguida forja amistad con sus nuevos compañeros temporales.",
+        "released": "2021-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/amA3o0B1MVm3c3dqQqz9TE2Mgy3.jpg"
+      },
+      {
+        "id": "tt5626028:5:5",
+        "title": "Operación improvisación con nuevas técnicas",
+        "season": 5,
+        "episode": 5,
+        "overview": "Da comienzo un nuevo enfrentamiento entre las clases y los dos usuarios de sombras son los protagonistas iniciales.",
+        "released": "2021-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tcX2TCexx8Tea1PljP47q6hIVTp.jpg"
+      },
+      {
+        "id": "tt5626028:5:6",
+        "title": "Centrarse en el futuro",
+        "season": 5,
+        "episode": 6,
+        "overview": "Yaoyorozu es el núcleo del equipo de la clase A, y eso es algo que saben sus rivales. Kendo, la líder del equipo de la clase B, tiene previstos varios planes para anular a todo el grupo de la A, pero Yaoyorozu es una estratega también increíble.",
+        "released": "2021-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f3vHizOvj76lKPdsqSm6nRKU5Zx.jpg"
+      },
+      {
+        "id": "tt5626028:5:7",
+        "title": "El tercer combate",
+        "season": 5,
+        "episode": 7,
+        "overview": "Llega el tercer combate de la clase A contra la clase B, y en esta ocasión participan Todoroki e Iida juntos, pero la clase B ya demostró ser bastante poderosa.",
+        "released": "2021-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/noEVg9zK1I8eQyzIJWXczfNeUAZ.jpg"
+      },
+      {
+        "id": "tt5626028:5:8",
+        "title": "Resolución del tercer combate",
+        "season": 5,
+        "episode": 8,
+        "overview": "El tercer combate de la clase A contra la clase B sigue adelante, y el esfuerzo de ambos equipos por vencer lleva a una situación inédita.",
+        "released": "2021-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aofET10h9MggFwqBdAebXQ5lBMZ.jpg"
+      },
+      {
+        "id": "tt5626028:5:9",
+        "title": "¡Mejor atacar primero!",
+        "season": 5,
+        "episode": 9,
+        "overview": "El equipo de Bakugo se prepara para atacar, y en la Clase B confían en que su individualidad y falta de trabajo en equipo les facilite las cosas, pero no esperaban que Bakugo hubiera evolucionado como lo ha hecho. Aunque, ¿bastará eso para que la Clase A obtenga la victoria?",
+        "released": "2021-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5LxEDDIuC9s0rxQTTO7Vc7GxREm.jpg"
+      },
+      {
+        "id": "tt5626028:5:10",
+        "title": "Heredero",
+        "season": 5,
+        "episode": 10,
+        "overview": "El quinto combate se desarrolla de forma fiera cuando Monoma y Deku se encuentran, pero Deku comienza a presentar un poder que parece diferente al One for All de siempre, ¡y pierde el control!",
+        "released": "2021-05-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2xSykS8b8NMq9Zf0HphEUDuI3sx.jpg"
+      },
+      {
+        "id": "tt5626028:5:11",
+        "title": "Combate caótico",
+        "season": 5,
+        "episode": 11,
+        "overview": "El combate final de la práctica se encrudece cuando Midoriya pierde el control sobre su poder, pero la colaboración de Shinso y Uraraka logra que lo mantenga bajo control, pero ¿qué hará ahora que tiene miedo de usar su poder y lastimar a los demás?",
+        "released": "2021-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7HQygLub7hpm5z0hPUgfnwfbKj.jpg"
+      },
+      {
+        "id": "tt5626028:5:12",
+        "title": "El nuevo poder y All for One",
+        "season": 5,
+        "episode": 12,
+        "overview": "‎Después de la clase, Aizawa le pide a Monoma que conozca a Eri. Para Bakugo y Todoroki, es hora de la última lección para la licencia provisional. Midoriya trabaja con All Might y Bakugo para aprender más sobre su nuevo poder‎.",
+        "released": "2021-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u8UkMggEPOagPSdvLxrHmjXYESo.jpg"
+      },
+      {
+        "id": "tt5626028:5:13",
+        "title": "¡Que tengas una feliz navidad!",
+        "season": 5,
+        "episode": 13,
+        "overview": "Es Navidad en la U.A. y los alumnos de Clase 1-A celebran con una fiesta de Navidad.",
+        "released": "2021-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kGp4BSw5G6RSlfrFu5KyKQJKcGA.jpg"
+      },
+      {
+        "id": "tt5626028:5:14",
+        "title": "¡A la agencia de Endeavour!",
+        "season": 5,
+        "episode": 14,
+        "overview": "Hawks actúa de forma extraña cuando se encuentra con Endeavour y sus estudiantes de estudio de trabajo de camino a la Agencia Endeavour.",
+        "released": "2021-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y26vP3GNxr0GKp8FpDAqFVaf0T2.jpg"
+      },
+      {
+        "id": "tt5626028:5:15",
+        "title": "Paso a paso",
+        "season": 5,
+        "episode": 15,
+        "overview": "Endeavor ha descifrado el mensaje de Hawks y decide entrenar personalmente a Todoroki, Bakugo y Deku, para sorpresa de todos. El héroe número uno es el mejor profesor que el trío de prometedores y jóvenes héroes podrían tener, y será él quien los ayude a descubrir lo que necesitan para mejorar.",
+        "released": "2021-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5ZCgkR7qW0zt8fLcNpq4AwBfImA.jpg"
+      },
+      {
+        "id": "tt5626028:5:16",
+        "title": "Cuánto tiempo, Selkie",
+        "season": 5,
+        "episode": 16,
+        "overview": "Ochako y Tsuyu están trabajando con Ryuku, la heroina dragon, y su agencia recibe una petición de ayuda de Selkie, con quien Tsuyu hizo las anteriores prácticas.",
+        "released": "2021-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jHJ1K3bLwyWUpWQdMmQTgbsArgD.jpg"
+      },
+      {
+        "id": "tt5626028:5:17",
+        "title": "La casa infernal de Todoroki",
+        "season": 5,
+        "episode": 17,
+        "overview": "Todoroki, Bakugo y Midoriya siguen entrenando con Endeavor para intentar alcanzarlo, pero donde ellos solo ven entrenamiento, el héroe número uno ve una nueva oportunidad para arreglar las cosas con su hijo y con su familia.",
+        "released": "2021-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ly9mbSYjQ6WtHMgGmEDUysH8LYy.jpg"
+      },
+      {
+        "id": "tt5626028:5:18",
+        "title": "Lo imperdonable",
+        "season": 5,
+        "episode": 18,
+        "overview": "Endeavor sigue planteándose qué puede hacer por su familia, por sus hijos, pero cuando Natsu se convierte en objetivo de un villano de su pasado...",
+        "released": "2021-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7NcH9EcEi8DquaoPZLJHZINdPTc.jpg"
+      },
+      {
+        "id": "tt5626028:5:19",
+        "title": "Más héroe que nadie",
+        "season": 5,
+        "episode": 19,
+        "overview": "Mientras los estudiantes de la U.A. vuelven a su rutina, Present Mic y Eraser Head acuden a una llamada de las autoridades para analizar a uno de los villanos que tienen atrapados, quien parece ser alguien relacionado con su pasado y la clave para entender qué son los Nomu.",
+        "released": "2021-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8IlUai9X6BqUgET8PnSqaNh8nPR.jpg"
+      },
+      {
+        "id": "tt5626028:5:20",
+        "title": "Academia Villano",
+        "season": 5,
+        "episode": 20,
+        "overview": "La Liga de Villanos intenta subir de nivel cuando el profesor entrega a Shigaraki a Gigantomachia, el guardaespaldas personal de All For One y a quien deberán someter si quieren demostrar su valía, pero el Ejército de Liberación tiene otros planes para ellos.",
+        "released": "2021-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cxrJ6Xogi0QPAQQLhG0hdUqs9xc.jpg"
+      },
+      {
+        "id": "tt5626028:5:21",
+        "title": "Fiesta de avivamiento",
+        "season": 5,
+        "episode": 21,
+        "overview": "La Liga de Villanos espera a que Gigantomachia se despierte mientras chocan con el Ejército de Liberación de Meta.",
+        "released": "2021-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zfmfiPLMoWHy3ImGJUHK7Yqnw3F.jpg"
+      },
+      {
+        "id": "tt5626028:5:22",
+        "title": "Desfile del hombre triste",
+        "season": 5,
+        "episode": 22,
+        "overview": "Mientras Twice intenta salvar a Toga, él piensa en su pasado y se da cuenta de que lo ayuda a superarlo.",
+        "released": "2021-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vWb1grROKwo0vMnqK8T7NkvbN4g.jpg"
+      },
+      {
+        "id": "tt5626028:5:23",
+        "title": "Tenko Shimura: Origen",
+        "season": 5,
+        "episode": 23,
+        "overview": "Los recuerdos del pasado de Shigaraki como Tenko Shimura resurgen cuando se enfrenta a Re-Destro.",
+        "released": "2021-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fSnuPIqjZD3sWRFIRf6o3gJWZiH.jpg"
+      },
+      {
+        "id": "tt5626028:5:24",
+        "title": "Tomura Shigaraki: Origen",
+        "season": 5,
+        "episode": 24,
+        "overview": "Shigaraki recuerda su primer encuentro con All For One durante el clímax de su batalla con Re-Destro.",
+        "released": "2021-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5jZdL7gz8bfLKfSk3JQlSu5aPhQ.jpg"
+      },
+      {
+        "id": "tt5626028:5:25",
+        "title": "El Cielo Azul Profundo y Alto",
+        "season": 5,
+        "episode": 25,
+        "overview": "Ambos bandos se preparan para el enfrentamiento entre los héroes y el Frente de Liberación Paranormal cuando la Clase 1-A termina su primer año de secundaria.",
+        "released": "2021-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uVzigBe3X9v1r8oJSHHCQig3YHq.jpg"
+      },
+      {
+        "id": "tt5626028:6:1",
+        "title": "Un inicio tranquilo",
+        "season": 6,
+        "episode": 1,
+        "overview": "Los Héroes se preparan para lanzar un ataque contra el Frente de Liberación Paranormal, el nuevo grupo organizado ahora liderado por Tomura Shigaraki y que planea acabar con todo el orden establecido.",
+        "released": "2022-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ezH8zW6UB11eCXBR4rDI1SuQ5gs.jpg"
+      },
+      {
+        "id": "tt5626028:6:2",
+        "title": "Mirko, la número 5",
+        "season": 6,
+        "episode": 2,
+        "overview": "La búsqueda del doctor responsable de los Nomus sigue en marcha, y tras varios robots y suplentes es la violenta Mirko, la Héroina Profesional Coneja, la que da con él y combate contra unos poderosos Nomus especiales.",
+        "released": "2022-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7iCmJKtbHHprGjc9Li5o6inRj1o.jpg"
+      },
+      {
+        "id": "tt5626028:6:3",
+        "title": "Justicia propia",
+        "season": 6,
+        "episode": 3,
+        "overview": "La clave para la operación es Twice, y Hawks lo sabe, así que su principal misión es acabar con él sin dejar que los sentimentalismos lo afecten.",
+        "released": "2022-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aXmXFwXn6NByM8jvBBfCOzgeA1i.jpg"
+      },
+      {
+        "id": "tt5626028:6:4",
+        "title": "Sucesión",
+        "season": 6,
+        "episode": 4,
+        "overview": "Mientras los héroes combaten contra los Nomus, Mirko intenta evitar por todos los medios el nuevo despertar de Shigaraki, quien parece que se ha convertido en una amenaza mucho mayor de lo que nadie podría imaginar.",
+        "released": "2022-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/44YFYHAuyPR9jDI1JMpWrolw5dO.jpg"
+      },
+      {
+        "id": "tt5626028:6:5",
+        "title": "Voltaje Destructor",
+        "season": 6,
+        "episode": 5,
+        "overview": "Mientras los profesionales pelean contra los Nomus conocidos como High Ends, Shigaraki está por despertar de su descanso... y cuando lo hace, el temor se extiende como la pólvora. Además, ¿qué fue de Hawks tras el ataque de Dabi?",
+        "released": "2022-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6sO5q3PkOHveC0RGfB6hZF0GrXx.jpg"
+      },
+      {
+        "id": "tt5626028:6:6",
+        "title": "Encuentro #2",
+        "season": 6,
+        "episode": 6,
+        "overview": "Tomura despierta y no tarda en percatarse de que algo en su interior le insta a conseguir el One For All de Izuki, así que se lanza a su persecución, aunque solo Bakugo parece percatarse del problema en el que está su compañero.",
+        "released": "2022-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a0kfNp0J2ZyjJcZZCilb3wml1lF.jpg"
+      },
+      {
+        "id": "tt5626028:6:7",
+        "title": "Disaster Walker",
+        "season": 6,
+        "episode": 7,
+        "overview": "Gigantomachia ha despertado al sentir el despertar su amo, Tomura Shiharaki, y esto hace que los héroes vean como la situación es cada veás imposible, pero...",
+        "released": "2022-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6mnUhO9gWWqhx864Ilg46lPBVrX.jpg"
+      },
+      {
+        "id": "tt5626028:6:8",
+        "title": "Liga de Villanos contra Estudiantes de la U.A.",
+        "season": 6,
+        "episode": 8,
+        "overview": "Tras la llamada de Midnight, Yaoyorozu organiza a los estudiantes de la U.A. para intentar detener al poderoso y enorme Gigantomachia. Mientras tanto, la dura batalla contra Shigaraki sigue su curso.",
+        "released": "2022-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/szj1iO0Zpwljx9eF9d4dQ5WPM7h.jpg"
+      },
+      {
+        "id": "tt5626028:6:9",
+        "title": "El ascenso de Katsuki Bakugo",
+        "season": 6,
+        "episode": 9,
+        "overview": "El duelo contra Tomura se complica cuando este ataca a Eraser, pero Midoriya está dispuesto a darlo todo, a usar todo lo aprendido, por detener a su némesis.",
+        "released": "2022-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6AkMU8GuKKGJhDNe5YPkJiOlo8h.jpg"
+      },
+      {
+        "id": "tt5626028:6:10",
+        "title": "Aquellos en nuestro interior",
+        "season": 6,
+        "episode": 10,
+        "overview": "Deku está repleto de ira al ver caer a Bakugo tras el ataque de Shigaraki, pero esto hace que su rival lo alcance por fin y se desate una batalla interior entre ambos y sus predecesores.",
+        "released": "2022-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3HHHSGbSXdY2hLF5aerh8p5gWZc.jpg"
+      },
+      {
+        "id": "tt5626028:6:11",
+        "title": "La danza de Dabi",
+        "season": 6,
+        "episode": 11,
+        "overview": "Con Shigaraki en apuros, el resto de villanos aparece en escena, pero lo que no esperaban Endeavor y el resto es que Dabi revelase una verdad incómoda tanto para el actual número uno como para el mundo.",
+        "released": "2022-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4mceUKrI8Jk11Z9vxN238IJdM5Q.jpg"
+      },
+      {
+        "id": "tt5626028:6:12",
+        "title": "Hilos de esperanza",
+        "season": 6,
+        "episode": 12,
+        "overview": "La batalla se encrudece con la llegada de Machia, pero el bando de los Héroes también contará con nuevas incorporaciones inesperadas para equilibrar la situación.",
+        "released": "2022-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y7PY9Xt86AYaBSC1eNateMgWKcE.jpg"
+      },
+      {
+        "id": "tt5626028:6:13",
+        "title": "Episodio 13",
+        "season": 6,
+        "episode": 13,
+        "released": "2022-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xM0yAQk6A8nFTJx0CD327PtanvG.jpg"
+      },
+      {
+        "id": "tt5626028:6:14",
+        "title": "Episodio 14",
+        "season": 6,
+        "episode": 14,
+        "released": "2023-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a6y9e7wCPbWxrzA3Uhj3F1bnYwW.jpg"
+      },
+      {
+        "id": "tt5626028:6:15",
+        "title": "Episodio 15",
+        "season": 6,
+        "episode": 15,
+        "released": "2023-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/faKL4xUY6UvROUMJYsWjYOPj9Jw.jpg"
+      },
+      {
+        "id": "tt5626028:6:16",
+        "title": "Episodio 16",
+        "season": 6,
+        "episode": 16,
+        "released": "2023-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yeWoqC48XOOrwMLJt8jkgrJyN1r.jpg"
+      },
+      {
+        "id": "tt5626028:6:17",
+        "title": "Episodio 17",
+        "season": 6,
+        "episode": 17,
+        "released": "2023-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aLzD6lxekNUnpHF22dpMB6PmEd9.jpg"
+      },
+      {
+        "id": "tt5626028:6:18",
+        "title": "Episodio 18",
+        "season": 6,
+        "episode": 18,
+        "released": "2023-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rFN8Abn3ZChkhJ2UXZ7yiZPmvYt.jpg"
+      },
+      {
+        "id": "tt5626028:6:19",
+        "title": "Episodio 19",
+        "season": 6,
+        "episode": 19,
+        "released": "2023-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qsuiAqpcq21c04060f1WDCNpX19.jpg"
+      },
+      {
+        "id": "tt5626028:6:20",
+        "title": "Episodio 20",
+        "season": 6,
+        "episode": 20,
+        "released": "2023-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qS6YnhRhc6YeKIEZZtETXH60fwU.jpg"
+      },
+      {
+        "id": "tt5626028:6:21",
+        "title": "Episodio 21",
+        "season": 6,
+        "episode": 21,
+        "released": "2023-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lDWHItqpBBNqDB4P7HGCQru0eFe.jpg"
+      },
+      {
+        "id": "tt5626028:6:22",
+        "title": "Episodio 22",
+        "season": 6,
+        "episode": 22,
+        "released": "2023-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bMWCBl25zteAeMj7MycB2D99bC2.jpg"
+      },
+      {
+        "id": "tt5626028:6:23",
+        "title": "Episodio 23",
+        "season": 6,
+        "episode": 23,
+        "released": "2023-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5iwVOV442xICdQxlirhYkSE0rq8.jpg"
+      },
+      {
+        "id": "tt5626028:6:24",
+        "title": "Episodio 24",
+        "season": 6,
+        "episode": 24,
+        "released": "2023-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p8myRZUU0fnUoNkUlnqnVrjMdY.jpg"
+      },
+      {
+        "id": "tt5626028:6:25",
+        "title": "Episodio 25",
+        "season": 6,
+        "episode": 25,
+        "released": "2023-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4xERRuWvV59p6wssrakxi4kLynO.jpg"
+      },
+      {
+        "id": "tt5626028:7:1",
+        "title": "¡Justo a tiempo! Un Gran Inconformista del Oeste",
+        "season": 7,
+        "episode": 1,
+        "overview": "Mientras los jailbreakers abundan en Japón, Star and Stripe vuela de EE. UU. a Japón para ayudar y encuentra a Shigaraki esperándola en medio de su trayectoria de vuelo",
+        "released": "2024-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6fVJvTbPBwwl4kAzZYgZ7kevqYk.jpg"
+      },
+      {
+        "id": "tt5626028:7:2",
+        "title": "Espectro",
+        "season": 7,
+        "episode": 2,
+        "overview": "La batalla entre Star and Stripe y Shigaraki no acaba como los Héroes desearían y tanto Shigaraki como los gobiernos de todo el mundo deberán lidiar con las consecuencias.",
+        "released": "2024-05-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8nVGPXo8qXiuIqlBdwqxONt9X8N.jpg"
+      },
+      {
+        "id": "tt5626028:7:3",
+        "title": "Villano",
+        "season": 7,
+        "episode": 3,
+        "overview": "Los jóvenes alumnos de Heroísmo siguen entrenando para la batalla que les espera, pero Hagakure y Midoriya se topan con algo que nadie esperaba.",
+        "released": "2024-05-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5GDVlA5ijDHgX8U1BbrTfbIC12u.jpg"
+      },
+      {
+        "id": "tt5626028:7:4",
+        "title": "La historia en la que nos convertimos en Héroes",
+        "season": 7,
+        "episode": 4,
+        "overview": "Los alumnos de la clase A han descubierto al topo que había en la escuela. Es hora de que el bando de los Héroes decida cómo usar esta nueva baza.",
+        "released": "2024-05-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c5sGqyVQGzXfM9TSXgAPlx8bVKY.jpg"
+      },
+      {
+        "id": "tt5626028:7:5",
+        "title": "Let you down",
+        "season": 7,
+        "episode": 5,
+        "overview": "Los Villanos también se preparan para la batalla final y los Héroes finalmente se deciden a mover las fichas que tienen para intentar atacar primero.",
+        "released": "2024-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ayj3HgbgrSR4AGvb4pUWWuEgLO.jpg"
+      },
+      {
+        "id": "tt5626028:7:6",
+        "title": "Division",
+        "season": 7,
+        "episode": 6,
+        "overview": "Comienza la batalla final y el bando de los Héroes usa a dos jóvenes figuras clave para atraer a All For One y dividir a los Villanos.",
+        "released": "2024-06-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dzZdEp8vkQBh2hCTFpcprMXcQOR.jpg"
+      },
+      {
+        "id": "tt5626028:7:7",
+        "title": "Inflation",
+        "season": 7,
+        "episode": 7,
+        "overview": "All Might detalla el plan completo. Hasta el momento han conseguido dividir a los Villanos como querían. El único problema es que Deku no está donde debería.",
+        "released": "2024-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/36Pyo4H9dt7u2TRKRoJ8dLm0Nmj.jpg"
+      },
+      {
+        "id": "tt5626028:7:8",
+        "title": "Dos Destellos",
+        "season": 7,
+        "episode": 8,
+        "overview": "Con los Villanos ya divididos, ha llegado el momento de que Shoto se enfrente a Dabi. ¿Será capaz de usar todo lo que ha aprendido para detenerlo?",
+        "released": "2024-06-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y9geYHqEFuXr5L2Ec0AtPu2vpeH.jpg"
+      },
+      {
+        "id": "tt5626028:7:9",
+        "title": "Extras",
+        "season": 7,
+        "episode": 9,
+        "overview": "La primera victoria de los Héroes se propaga por los campos de batalla. En uno de ellos, sin embargo, parece jugar a favor de los Villanos.",
+        "released": "2024-06-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/egS8k0UGGI4nFQxdqdfMf9X4EJe.jpg"
+      },
+      {
+        "id": "tt5626028:7:10",
+        "title": "¡Luz inmoladora! Un Héroe herido",
+        "season": 7,
+        "episode": 10,
+        "overview": "Tokoyami y Jiro se unen a Hawks para debilitar a All For One mientras Endeavor se recupera. En el ataúd aéreo de la U.A., Kacchan usa su mejor baza contra Shigaraki. ¿Será suficiente?",
+        "released": "2024-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gjL2Gripg0TrBPTYnDvc8yEd7F2.jpg"
+      },
+      {
+        "id": "tt5626028:7:11",
+        "title": "Light Fades to Rain",
+        "season": 7,
+        "episode": 11,
+        "overview": "Shigaraki pretende matar a Bakugo para hacer enfadar a Midoriya cuando llegue, pero los Héroes que hay presentes intentarán impedírselo a toda costa.",
+        "released": "2024-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e156Rz4wVpC2YFYDgGDg9hpVJzm.jpg"
+      },
+      {
+        "id": "tt5626028:7:12",
+        "title": "Los que defienden y los que invaden",
+        "season": 7,
+        "episode": 12,
+        "overview": "Los villanos se lo están poniendo más difícil a los héroes de lo esperado, pero estos aún tienen algunos ases en la manga. Cuando Shigaraki asesta un golpe mortal a Bakugo, los héroes del Ataúd del Cielo quedan en shock.",
+        "released": "2024-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lwXZah2oQiABUnvBx4Ojf0c7K2p.jpg"
+      },
+      {
+        "id": "tt5626028:7:13",
+        "title": "La cadena del tiempo",
+        "season": 7,
+        "episode": 13,
+        "overview": "Midoriya consigue llegar al fin al ataúd aéreo de la U.A. y usa todos los Dones de los anteriores usuarios de One For All para enfrentarse a la fusión de Shigaraki y All For One.",
+        "released": "2024-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lAVIjJV5yVjjNA4zMWsEKSQQIZc.jpg"
+      },
+      {
+        "id": "tt5626028:7:14",
+        "title": "Con Shoji",
+        "season": 7,
+        "episode": 14,
+        "overview": "Shoji y Koda ayudan a frenar a Spinner y al tumulto de criaturas civiles y del Frente de Liberación en el Hospital General para impedir que se lleven a Kurogiri.",
+        "released": "2024-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Qg0SqyCfJXfd6Hx8Sz9VHNDa2.jpg"
+      },
+      {
+        "id": "tt5626028:7:15",
+        "title": "Efecto mariposa",
+        "season": 7,
+        "episode": 15,
+        "overview": "Las cosas por fin se calman un poco fuera del hospital, pero dentro, Spinner y Present Mic se encuentran ante Kurogiri. En la Isla Okuto, Himiko Toga se debate entre recurrir a la sangre de Jin o no.",
+        "released": "2024-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h5PYapJXByNk5H4KmTFGm5FYpfm.jpg"
+      },
+      {
+        "id": "tt5626028:7:16",
+        "title": "Lo que nos ha traído hasta aquí",
+        "season": 7,
+        "episode": 16,
+        "overview": "Twice sigue multipli´cándopse, Deku y Shigaraki quedan inmovilizados temporalmente y la U.A. empieza a caer en picado. ¿Lograrán sobrevivir los Héroes? Necesitarán toda la ayuda posible, incluso de antiguos enemigos.",
+        "released": "2024-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/feNuAmfP049pcPGTVXs8Hlzbt9b.jpg"
+      },
+      {
+        "id": "tt5626028:7:17",
+        "title": "Esperanzas",
+        "season": 7,
+        "episode": 17,
+        "overview": "Hawks se enfrenta a All For One casi a la desesperada, pero llegarán refuerzos del Instituto Shiketsu que le harán recordar que no todo está perdido.",
+        "released": "2024-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o7ae0yUpYu2z2UxuStpKedaulr5.jpg"
+      },
+      {
+        "id": "tt5626028:7:18",
+        "title": "It's a Small World",
+        "season": 7,
+        "episode": 18,
+        "overview": "Con la llegada de Shishikura y sus compañeros, la batalla parece cambiar un poco de rumbo, pero All For One cada vez es más joven y más poderoso, así que necesitarán más refuerzos.",
+        "released": "2024-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A8YFRm8sxLE2E07CmICTa83jQS7.jpg"
+      },
+      {
+        "id": "tt5626028:7:19",
+        "title": "I AM HERE",
+        "season": 7,
+        "episode": 19,
+        "overview": "Dabi está a punto de estallar y Endeavor no cree poder alejarlo a tiempo para evitar una catástrofe. Mientras tanto, All For One sigue viajando. ¿Habrá alguien capaz de detenerlo a tiempo?",
+        "released": "2024-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jkEttBH1bZ9IJeNv64kZhxqKLI4.jpg"
+      },
+      {
+        "id": "tt5626028:7:20",
+        "title": "El ego de una joven",
+        "season": 7,
+        "episode": 20,
+        "overview": "Pese a los esfuerzos de los Héroes, la Sad Man's Death Parade de Himiko Toga va ganando terreno. ¿Será capaz Ochaco de llegar hasta la joven y detenerla?",
+        "released": "2024-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nte5TamPfFScgL4avOu7Viz35ar.jpg"
+      },
+      {
+        "id": "tt5626028:7:21",
+        "title": "Combate sin Dones",
+        "season": 7,
+        "episode": 21,
+        "overview": "Ochaco ha perdido mucha sangre y queda a merced de Himiko Toga. ¿Qué hará la Villana? Mientras tanto, All Might se prepara para enfrentarse a All For One de nuevo.",
+        "released": "2024-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/78FUZGgSL0HPzySATH44Tof3ori.jpg"
+      },
+      {
+        "id": "tt5626028:8:1",
+        "title": "Toshinori Yagi: Rising Origin",
+        "season": 8,
+        "episode": 1,
+        "overview": "¿Podrá All Might aguantar en un combate contra All For One solo con su traje?",
+        "released": "2025-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Rp19trFIKOKtMorx84LnWkkajb.jpg"
+      },
+      {
+        "id": "tt5626028:8:2",
+        "title": "The End of An Era, And The Beginning",
+        "season": 8,
+        "episode": 2,
+        "overview": "All Might no está dispuesto a rendirse, pero All For One está preparado.",
+        "released": "2025-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yv5s03PSaLCT6swAJ6FLkIVec6w.jpg"
+      },
+      {
+        "id": "tt5626028:8:3",
+        "title": "El jefe final",
+        "season": 8,
+        "episode": 3,
+        "overview": "El retorno de un inesperado enemigo hace que los planes de All For One se tuerzan aún más.",
+        "released": "2025-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/slmQV4HdBbHTJdC84MMM599ZwW0.jpg"
+      },
+      {
+        "id": "tt5626028:8:4",
+        "title": "¡El Don Explosión!",
+        "season": 8,
+        "episode": 4,
+        "overview": "¿Podrá Bakugo frustrar los planes de All For One de una vez por todas?",
+        "released": "2025-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tQ9kLKWIDNb0puDBt1ZnWGvxeBm.jpg"
+      },
+      {
+        "id": "tt5626028:8:5",
+        "title": "El mayor Villano de la historia",
+        "season": 8,
+        "episode": 5,
+        "overview": "Deku sigue luchando contra Shigaraki y un roce produce un efecto inesperado.",
+        "released": "2025-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pzUDObcaMbxtY3hseauMmIS7aTI.jpg"
+      },
+      {
+        "id": "tt5626028:8:6",
+        "title": "¡Derríbala, Izuku Midoriya!",
+        "season": 8,
+        "episode": 6,
+        "overview": "Izuku continúa luchando contra Shigaraki con un nuevo plan bajo la manga.",
+        "released": "2025-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e5bFbT7pCCKDXsor7ZP94nUsABc.jpg"
+      },
+      {
+        "id": "tt5626028:8:7",
+        "title": "De parte de Aizawa",
+        "season": 8,
+        "episode": 7,
+        "overview": "El duelo en la mente de Shigaraki se resuelve, aunque no como Deku o él esperaban.",
+        "released": "2025-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sshwYRHWfSKt35dbiLacBrpkfMa.jpg"
+      },
+      {
+        "id": "tt5626028:8:8",
+        "title": "Izuku Midoriya: Rising",
+        "season": 8,
+        "episode": 8,
+        "overview": "¿Podrán Midoriya y sus amigos acabar con All For One de una vez por todas?",
+        "released": "2025-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Asep5FucShM7OplNBCcOSEb7YF.jpg"
+      },
+      {
+        "id": "tt5626028:8:9",
+        "title": "Epílogo: La casa infernal de Todoroki - Final",
+        "season": 8,
+        "episode": 9,
+        "overview": "Tras la batalla viene la restauración y, con ella, algunos estudiantes por fin pueden graduarse.",
+        "released": "2025-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Slp5jjSOhZrWb7KFAiXI5aceJN.jpg"
+      },
+      {
+        "id": "tt5626028:8:10",
+        "title": "La chica a la que le gustan las sonrisas",
+        "season": 8,
+        "episode": 10,
+        "overview": "La reconstrucción va por buen camino y Ochaco no quiere estropearle el día a nadie.",
+        "released": "2025-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rYkrF1mUvIqqmbCTGT8EfoKtIpP.jpg"
+      },
+      {
+        "id": "tt5626028:8:11",
+        "title": "My Hero Academia",
+        "season": 8,
+        "episode": 11,
+        "overview": "Los de la clase A por fin se gradúan, pero comenzarán un nuevo capítulo en sus historias.",
+        "released": "2025-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2ujDRL4aVKhCASVXMawPNsYgxOD.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "id": "tt27610198",
+    "type": "series",
+    "name": "El asombroso circo digital",
+    "poster": "https://image.tmdb.org/t/p/w500/uJ1nT3Ez5te1zStsj7DFYFLx8gY.jpg",
+    "posterShape": "poster",
+    "description": "Una mujer queda atrapada en un loco mundo virtual junto con otros cinco humanos y ahora está sujeta a los caprichos de una extravagante IA y a sus propios traumas personales.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt27610198:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Atrapada en el Circo Digital y ansiosa por escapar, Pomni conoce a otras personas transformadas en caricaturas y a Caine, el excéntrico director del circo.",
+        "released": "2023-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aoIpwK6Z93dFxgtHTlnFZzamLWk.jpg"
+      },
+      {
+        "id": "tt27610198:1:2",
+        "title": "¡Caos, camiones y caramelos!",
+        "season": 1,
+        "episode": 2,
+        "overview": "La pandilla debe ir tras los bandidos de miel en un reino de caramelos. Pomni ayuda a un forajido digital a resolver una pegajosa crisis de identidad.",
+        "released": "2024-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j5TahVbttd9TjCeo5gdzvVIo9lu.jpg"
+      },
+      {
+        "id": "tt27610198:1:3",
+        "title": "El misterio de la mansión Mildenhall",
+        "season": 1,
+        "episode": 3,
+        "overview": "Kinger y Pomni exploran una mansión embrujada en la que viven una aventura llena de monstruos, fantasmas y sesiones de terapia.",
+        "released": "2024-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4haDAnhTNL6O4jznpuep4uyZxlM.jpg"
+      },
+      {
+        "id": "tt27610198:1:4",
+        "title": "Mascarada en Spudsy's",
+        "season": 1,
+        "episode": 4,
+        "overview": "Al grupo le toca trabajar todo el día en Spudsy's, un local de comida rápida. ¿Lograrán sobrevivir a la jornada laboral?",
+        "released": "2024-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wduxOxIVsbgVk6fAggtHQpN0SBE.jpg"
+      },
+      {
+        "id": "tt27610198:1:5",
+        "title": "Sin título",
+        "season": 1,
+        "episode": 5,
+        "overview": "Caine usa las ideas de la caja de sugerencias y guía a la pandilla a través de una serie de aventuras. Pomni está en una posición de poder.",
+        "released": "2025-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p7QToZAtIUrGtR8AfK1Yrt7MiDc.jpg"
+      },
+      {
+        "id": "tt27610198:1:6",
+        "title": "Les dimos armas",
+        "season": 1,
+        "episode": 6,
+        "overview": "Caine prepara al grupo para un juego brutal, en el que deben trabajar en parejas para buscar armas y sobrevivir a tres «muertes» para ganar.",
+        "released": "2025-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r3kfaqbwDrhYYG690ix529MJDeE.jpg"
+      },
+      {
+        "id": "tt27610198:1:7",
+        "title": "Episodio de playa",
+        "season": 1,
+        "episode": 7,
+        "overview": "La pandilla va a la playa para disfrutar del sol, pero unas inquietantes revelaciones comienzan a revelar grietas en el circo de Caine.",
+        "released": "2025-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nzFQHkaIEKSlwRpFaZIad5wC9uu.jpg"
+      },
+      {
+        "id": "tt27610198:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qOB3Ke3h3wqqNV6frzzdjzYRIzI.jpg"
+      },
+      {
+        "id": "tt27610198:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tjnCf8l4zyqOQoVs5IuyadtyY3o.jpg"
+      }
+    ]
+  }
+}

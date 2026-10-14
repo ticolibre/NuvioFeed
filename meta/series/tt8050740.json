@@ -1,0 +1,982 @@
+{
+  "meta": {
+    "id": "tt8050740",
+    "type": "series",
+    "name": "Amphibia",
+    "poster": "https://image.tmdb.org/t/p/w500/jJu6kO8hquzr3kG4iprCu4F6Wqz.jpg",
+    "posterShape": "poster",
+    "description": "Amphibia narra las cómicas aventuras de Anne Boonchuy, una niña de 13 años quien, luego de robar una misteriosa caja musical, es transportada mágicamente al mundo de Amphibia,  un pantano salvaje lleno de anfibios parlantes. Con la ayuda de una neurótica y joven rana llamada Sprig, Anne pasa de ser un monstruo a transformarse en una heroína y descubrir la primera amistad genuina de su vida.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt8050740:1:1",
+        "title": "¿Anne o la bestia?",
+        "season": 1,
+        "episode": 1,
+        "overview": "En la tierra de Amphibia, poblada por ranas antropomórficas, el joven Sprig Plantar aprovecha la oportunidad para demostrar que es responsable cuando el tuerto Wally llega corriendo al pueblo advirtiendo a todos acerca de una bestia. La bestia se revela como una niña humana llamada Anne Boonchuy, que ha sido transportada mágicamente a su mundo.",
+        "released": "2019-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xVwj4I9GL573FPq3ywiagIBtNbX.jpg"
+      },
+      {
+        "id": "tt8050740:1:2",
+        "title": "Un amigo de verdad",
+        "season": 1,
+        "episode": 2,
+        "overview": "Queriendo ayudar a Anne con su nostalgia, Sprig le sugiere ir a nadar en el lago, pero Hop Pop cierra la puerta para mantener a Anne adentro. Anne y Sprig toman la llave y abren la puerta.",
+        "released": "2019-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sgv9w7vzgDEWi1JBXqccWlDYIrF.jpg"
+      },
+      {
+        "id": "tt8050740:1:3",
+        "title": "Un bastón especial",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras se burla de Hop Pop, Anne rompe accidentalmente su bastón favorito. Ella, junto con Sprig y Polly, visita por primera vez a Leopoldo Loggle, el leñador del pueblo, para que pueda arreglarlo. Después de decirles que no puede, Loggle les dice que el bastón proviene del Árbol de la Muerte y les muestra un mapa.",
+        "released": "2019-06-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8gUBo1AIPQ2Rog0cii62PI8z3eP.jpg"
+      },
+      {
+        "id": "tt8050740:1:4",
+        "title": "Inundación, sudor y lágrimas",
+        "season": 1,
+        "episode": 4,
+        "overview": "La habitación de Anne se inunda por una fuga. Entonces, mientras Hop Pop trata de arreglar la fuga, Anne se acurruca con Sprig en su habitación.",
+        "released": "2019-06-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xnDwLOfT09XBgaYPoqRZacdLz07.jpg"
+      },
+      {
+        "id": "tt8050740:1:5",
+        "title": "Plato fuerte",
+        "season": 1,
+        "episode": 5,
+        "overview": "Para ganar la comida anual de la ciudad y evitar la \"Jaula de la Vergüenza\" nuevamente, Anne dirige a la familia en una búsqueda para hacer pizza.",
+        "released": "2019-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3thrDd5daUpIgJr6si7mxqIcbGl.jpg"
+      },
+      {
+        "id": "tt8050740:1:6",
+        "title": "Para ganar la comida anual de la ciudad y evitar la \"Jaula de la Vergüenza\" nuevamente, Anne dirige a la familia en una búsqueda para hacer pizza.",
+        "season": 1,
+        "episode": 6,
+        "overview": "Al ver que una discusión podría llevar a un colapso familiar, Sprig roba parte del maíz para que Anne y Hop Pop se pongan en una vigilancia.",
+        "released": "2019-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dsuwhkSRe2UNdwSUCGHHSo9h9fZ.jpg"
+      },
+      {
+        "id": "tt8050740:1:7",
+        "title": "El efecto dominó",
+        "season": 1,
+        "episode": 7,
+        "overview": "Después de salvarla de avispones gigantes y ver similitudes con su antigua gata, Anne quiere mantener una oruga como mascota y la llama Dominó 2 por su gata Dominó.",
+        "released": "2019-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2yAE5nyLPqmsXLE9tqXiMKkybga.jpg"
+      },
+      {
+        "id": "tt8050740:1:8",
+        "title": "La pura verdad",
+        "season": 1,
+        "episode": 8,
+        "overview": "Anne les muestra a los Plantar su programa favorito; a Sprig y Polly les gusta, pero a Hop Pop no. Más tarde, Anne descubre que alguien gastó toda la batería de su teléfono para ver los otros episodios de su programa.",
+        "released": "2019-06-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9LQ3vqjxXAMhPV3y53tBw4vy0Vx.jpg"
+      },
+      {
+        "id": "tt8050740:1:9",
+        "title": "Rápida y curiosa",
+        "season": 1,
+        "episode": 9,
+        "overview": "Hop Pop le permite a Anne montar a Bessie, el caracol de la familia, pero necesita que lea la historia de Bessie antes de hacerlo. Anne piensa que es mejor viajar por experiencia, por lo que ella y Sprig llevan a Bessie a dar un paseo alegre.",
+        "released": "2019-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Ze6uoR0MVFZnCKLvi6VfD8fBz1.jpg"
+      },
+      {
+        "id": "tt8050740:1:10",
+        "title": "Brote de Fama",
+        "season": 1,
+        "episode": 10,
+        "overview": "Anne tiene un brote de espinillas e intenta esconderlo de la gente del pueblo, pero cuando la ven piensan que son verrugas de rubí y la convierten en una celebridad.",
+        "released": "2019-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uwV8XQ2KPXcAzCuK0kX3zxNDynn.jpg"
+      },
+      {
+        "id": "tt8050740:1:11",
+        "title": "Sprig vs Hop pop",
+        "season": 1,
+        "episode": 11,
+        "overview": "Al ver que Hop Pop no toma ninguna sugerencia de nadie, Sprig desafía a Hop Pop por el control de la granja. Sprig sorprendentemente derrota a Hop Pop y comienza a tomar todas las sugerencias.",
+        "released": "2019-06-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zDy4KtRqTHTXmH4dT1p9NRXiaDA.jpg"
+      },
+      {
+        "id": "tt8050740:1:12",
+        "title": "Cosas de chicas",
+        "season": 1,
+        "episode": 12,
+        "overview": "Al no querer que Polly termine como los chicos, Anne planea darle un tiempo de chicas muy esperado. Mientras van a diferentes lugares, Anne disfruta el tiempo de chicas, pero Polly no.",
+        "released": "2019-06-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2zouH2EMq92gSYyI8dC5xHLf3r7.jpg"
+      },
+      {
+        "id": "tt8050740:1:13",
+        "title": "Temporada de romances",
+        "season": 1,
+        "episode": 13,
+        "overview": "Mientras caminan por el bosque, Anne y Sprig se encuentran con Ivy Sundew, la amiga de la infancia de Sprig.",
+        "released": "2019-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cfSJh3iDPWAX3lodn1ohkfvJY96.jpg"
+      },
+      {
+        "id": "tt8050740:1:14",
+        "title": "Anne contra la naturaleza",
+        "season": 1,
+        "episode": 14,
+        "overview": "Anne, queriendo pasar más tiempo con los Plantar, decide ir de campamento con ellos.",
+        "released": "2019-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A8RmdbI2raOfqCs3W5oI9jxmTsH.jpg"
+      },
+      {
+        "id": "tt8050740:1:15",
+        "title": "La peste",
+        "season": 1,
+        "episode": 15,
+        "overview": "En un día lluvioso en el que Anne planeaba descansar, Hop Pop la obliga a ella y al resto de la familia Plantar a hacer un trabajo al aire libre bajo la tormenta para proteger los cultivos.",
+        "released": "2019-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hB5MCX4iupfTKdr2Bwg0KnhkWrn.jpg"
+      },
+      {
+        "id": "tt8050740:1:16",
+        "title": "El Árbol de la familia",
+        "season": 1,
+        "episode": 16,
+        "overview": "Mientras trabajan en el árbol de la familia Plantar, Sprig y Polly piensan que sus antepasados son aburridos y no fascinantes.",
+        "released": "2019-06-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gaYZWwDZCIPDNpwe4Vm1OBEfaD4.jpg"
+      },
+      {
+        "id": "tt8050740:1:17",
+        "title": "De-lirio tailandés",
+        "season": 1,
+        "episode": 17,
+        "overview": "Los Plantar van a \"Stumpy's\" a comer. Al ver cómo Albus Duckweed, el crítico gastronómico, trata al cocinero Stumpy, Anne le apuesta a que ella y Stumpy pueden darle una mejora al restaurante, y Duckweed acepta.",
+        "released": "2019-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mJqojArz6NPLXmpD1xJ3KG21CjH.jpg"
+      },
+      {
+        "id": "tt8050740:1:18",
+        "title": "Todo o nada",
+        "season": 1,
+        "episode": 18,
+        "overview": "Después de que Toadstool aumenta el impuesto sobre los puestos de comida, Anne convence a Hop Pop de que venda pociones de Plantar, que son sólo jugos de vegetales.",
+        "released": "2019-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rpD80HZXiff8a76l9QgsBW4IOpT.jpg"
+      },
+      {
+        "id": "tt8050740:1:19",
+        "title": "Impuesto batracio",
+        "season": 1,
+        "episode": 19,
+        "overview": "Anne siente que el pueblo no la respeta y cree que puede conseguir su respeto saliendo con los sapos soldados de Torre Sapo, liderados por Bog, mientras cobran impuestos.",
+        "released": "2019-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yjldDJAy4wWuRNDd4Sx7dRxJBFv.jpg"
+      },
+      {
+        "id": "tt8050740:1:20",
+        "title": "La fuga",
+        "season": 1,
+        "episode": 20,
+        "overview": "Continuando con Toad Tax en Torre Sapo, una fortaleza lejos de Bosque Verruga, Sasha es mantenida prisionera por el capitán Mugre y su ejército de sapos, que incluye a los guardias de la prisión Percy y Braddock.",
+        "released": "2019-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qpy2cHvRsxJhEhGcNodBOtelyE3.jpg"
+      },
+      {
+        "id": "tt8050740:1:21",
+        "title": "El día de las larvas",
+        "season": 1,
+        "episode": 21,
+        "overview": "Es el Día de las Larvas, el día festivo donde todos se toman un día libre y dan gracias a la larva por predecir el clima. Para restaurar el nombre de su familia, Hop Pop le pide a Sprig que cuide a la larva hasta la ceremonia.",
+        "released": "2019-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fpykZYnxIoYLh22lnnndfAGYDoV.jpg"
+      },
+      {
+        "id": "tt8050740:1:22",
+        "title": "Al compás del amor",
+        "season": 1,
+        "episode": 22,
+        "overview": "Mientras vende productos en un callejón desde que perdió su puesto, Hop Pop se encuentra con una vieja enamorada, Sylvia Sundew.",
+        "released": "2019-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qKXn7vPHBzgCNKT6yJBCSaa3UdR.jpg"
+      },
+      {
+        "id": "tt8050740:1:23",
+        "title": "Sapos en guerra",
+        "season": 1,
+        "episode": 23,
+        "overview": "Es noche de teatro y el pueblo está emocionado hasta que Toadstool anuncia que la compañía de actores fue devorada antes de que pudiera llegar a Bosque Verruga.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pOnsftJUmafl9DLcwxXSIzumASx.jpg"
+      },
+      {
+        "id": "tt8050740:1:24",
+        "title": "Hop popular",
+        "season": 1,
+        "episode": 24,
+        "overview": "Hop Pop está deprimido por perder su puesto y los niños le consiguen una entrevista de trabajo. Después de la entrevista, Hop Pop ve que Toadstool se nomina a sí mismo para alcalde, a lo que él responde diciendo cómo el pueblo podría ser mejor.",
+        "released": "2019-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1RlJtBsbW2FraBCqUPNMiz93Wga.jpg"
+      },
+      {
+        "id": "tt8050740:1:25",
+        "title": "Croa y castigo",
+        "season": 1,
+        "episode": 25,
+        "overview": "Sprig encuentra una rara y preciosa Concha de Luna Azul, y quiere dársela a Ivy para su cumpleaños el día siguiente. Después de limpiar el establo de Bessie, Sprig descubre que la concha fue robada.",
+        "released": "2019-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2e8R4WDNCcedebuYDUoRre15XDW.jpg"
+      },
+      {
+        "id": "tt8050740:1:26",
+        "title": "Viaje a los archivos",
+        "season": 1,
+        "episode": 26,
+        "overview": "El paso de montaña se despejará en una semana y para prepararse para la búsqueda del camino de Anne a su casa, los Plantar visitan los archivos de la ciudad para investigar.",
+        "released": "2019-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uHkNoYqukrXgJXHkgx9j8666W25.jpg"
+      },
+      {
+        "id": "tt8050740:1:27",
+        "title": "Día de nieve",
+        "season": 1,
+        "episode": 27,
+        "overview": "El Día de Nieve llega para congelar a todas las ranas, y cuando eso suceda alguien desaparecerá para no volver a ser visto. Eso hace que todos se despidan, pero Anne, que es de sangre caliente, promete protegerlos hasta que se descongelen.",
+        "released": "2019-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/twjPYc2h1niSSMoRDe3WxOWRbK3.jpg"
+      },
+      {
+        "id": "tt8050740:1:28",
+        "title": "Todo sea por Croa",
+        "season": 1,
+        "episode": 28,
+        "overview": "Sprig es muy querido por todos, excepto por la Señora Croa. Entonces, para lograr que lo quiera, Sprig revisa las cosas de la Señora Croa y descubre una rana llamada Jonah.",
+        "released": "2019-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/29RsNpZ2Gyal7me8eNwJHR1kvuM.jpg"
+      },
+      {
+        "id": "tt8050740:1:29",
+        "title": "Una noche en la posada",
+        "season": 1,
+        "episode": 29,
+        "overview": "Anne y los Plantar descubren que el paso de la montaña aún está congelado y regresan al pueblo, pero Bessie se lastima y llega una tormenta.",
+        "released": "2019-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yK4BOdDv3f1DPMiQfG5JKkZQqve.jpg"
+      },
+      {
+        "id": "tt8050740:1:30",
+        "title": "Wally y Anne",
+        "season": 1,
+        "episode": 30,
+        "overview": "Mientras busca alimento, Anne ve al Hombre Musgo, una mítica criatura verde con cuernos de árbol. Anne se lo cuenta a los Plantar, pero no le creen.",
+        "released": "2019-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lGuCPq1zhgVWmJ9YxcrwNV9Mm2F.jpg"
+      },
+      {
+        "id": "tt8050740:1:31",
+        "title": "Salida de pesca en familia",
+        "season": 1,
+        "episode": 31,
+        "overview": "Sprig espera ansioso el viaje de pesca familiar para pasar tiempo con Hop Pop, pero luego aparece la novia de Hop Pop, Sylvia, y Sprig se pone celoso.",
+        "released": "2019-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zeHDvuKwhgYYcnrtzL9a2Pv0EGm.jpg"
+      },
+      {
+        "id": "tt8050740:1:32",
+        "title": "Bazaar Bizarro",
+        "season": 1,
+        "episode": 32,
+        "overview": "Sprig encuentra un huevo que conduce al Bazar Bizarro, un mercado exclusivo que aparece una vez al año. Anne, que busca respuestas sobre la caja de música, va al bazar itinerante con Sprig ignorando las advertencias de Hop Pop.",
+        "released": "2019-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i4EG1ujlMlCgADuYRJvkiaFv25q.jpg"
+      },
+      {
+        "id": "tt8050740:1:33",
+        "title": "¡Hechizados!",
+        "season": 1,
+        "episode": 33,
+        "overview": "Sprig se esconde de Maddie, su prometida espeluznante. Al ver que Sprig está demasiado asustado para romper con Maddie, Anne lo hace por él a través de una nota.",
+        "released": "2019-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Jp9nxoLpvDUnM0ngNR9H0noZvE.jpg"
+      },
+      {
+        "id": "tt8050740:1:34",
+        "title": "La clave del éxito",
+        "season": 1,
+        "episode": 34,
+        "overview": "Los Plantar se van de compras y el estacionamiento de Hop Pop con Bessie hace que él intercambie los guiños con el Sheriff Leatherleaf. Se corre la noticia de que \"Amphibia Busca Talento\" llegará a Bosque Verruga y Hop Pop inmediatamente decide entrenar a Sprig para ganar con el fin de darle a él y a Polly un mejor futuro.",
+        "released": "2019-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tZs9QJZM8Xm1NDZDRARa8mvQz7d.jpg"
+      },
+      {
+        "id": "tt8050740:1:35",
+        "title": "El gran partido de insectobol",
+        "season": 1,
+        "episode": 35,
+        "overview": "El pueblo celebra el Día de la Cosecha, y parte de la celebración es que Anne debe entrenar para el gran partido de insectobol. Cada año se enfrentan los granjeros contra los aldeanos del pueblo, y los granjeros siempre pierden.",
+        "released": "2019-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mhUXy0zXa7sOkCK2AKVXu630EFF.jpg"
+      },
+      {
+        "id": "tt8050740:1:36",
+        "title": "Campo de combate",
+        "season": 1,
+        "episode": 36,
+        "overview": "Hop Pop asistirá a la Convención de la Cosecha y volverá a casa dentro de una semana, por lo que Anne, Sprig y Polly se ven obligados a quedarse en una guardería con Tritonio Espada, quien se convirtió en el nuevo propietario desde que los dueños originales se retiraron.",
+        "released": "2019-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fkvVSKK8y7utH7ctdQYIIA6RWDW.jpg"
+      },
+      {
+        "id": "tt8050740:1:37",
+        "title": "Retoños",
+        "season": 1,
+        "episode": 37,
+        "overview": "Hop Pop intenta construir y preservar una réplica de un barco de batalla llamado La Dama Verde, pero la desobediencia de Anne, Sprig y Polly termina rompiendo el barco, por lo que Hop Pop se lo lleva a Leopoldo Loggle para que lo arregle.",
+        "released": "2019-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d8Leeh0t5qmqAWdFfUxqxbj4fRq.jpg"
+      },
+      {
+        "id": "tt8050740:1:38",
+        "title": "Anne del Año",
+        "season": 1,
+        "episode": 38,
+        "overview": "En Bosque Verruga, el alcalde Toadstool le otorga su premio más prestigioso llamado El Sapo del Año a Anne después de que los ciudadanos votaran por ella. Toadstool está indignado y sorprendido al respecto y apuesta a que su fiesta de celebración, un evento anual que el ganador organiza para el pueblo, será un desastre.",
+        "released": "2019-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b6k7eLxJsfe1RC3MoMI76ciB3gt.jpg"
+      },
+      {
+        "id": "tt8050740:1:39",
+        "title": "La reunión",
+        "season": 1,
+        "episode": 39,
+        "overview": "Hace tres meses en su mundo, Anne y Sasha abandonan la escuela por el cumpleaños de Anne. Justo cuando Anne está a punto de volver a casa, Sasha la convence de que vaya a ver a Marcy para obtener el regalo que ella le consiguió: una caja de música.",
+        "released": "2019-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lFKuJtQlp6Bde1oVKysXTto1LYD.jpg"
+      },
+      {
+        "id": "tt8050740:2:1",
+        "title": "El plan de Anne",
+        "season": 2,
+        "episode": 1,
+        "overview": "Cuando la primavera llega a Wartwood, Anne, Sprig, Hop Pop y Polly deciden viajar a Newtopia, una metrópolis desmadejada localizada en el corazón de Amphibia, para encontrar respuestas a cómo traer a Anne de vuelta a casa",
+        "released": "2020-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1eDLAOHBl0EakH1NM1MFOO2Cjz4.jpg"
+      },
+      {
+        "id": "tt8050740:2:2",
+        "title": "Un fuerte en el camino",
+        "season": 2,
+        "episode": 2,
+        "overview": "Durante el camino a Newtopia, Sprig y Anne quieren tener nuevas y excitantes aventuras, pero Hop Pop, consciente de que las afueras del valle pueden ser peligrosas, les prohíbe hacerlo mediante su libro de reglas, rechazando todas sus peticiones de parar y visitar cosas.",
+        "released": "2020-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/13qhnn8nTNjCpaAv5YTijV1b2rB.jpg"
+      },
+      {
+        "id": "tt8050740:2:3",
+        "title": "La balada de Hopediah Plantar",
+        "season": 2,
+        "episode": 3,
+        "overview": "La familia llega a Bittyburg, un pueblo rural literalmente pequeño, donde sus ciudadanos diminutos se ven obligados a pagar sus impuestos a la despiadada rana proscrita Judro Hasselback, cada vez que ella aparece en la ciudad.",
+        "released": "2020-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ngKdHhNStIV5rPsVrT9moFa2YMO.jpg"
+      },
+      {
+        "id": "tt8050740:2:4",
+        "title": "Anne, la cazadora",
+        "season": 2,
+        "episode": 4,
+        "overview": "Al parar en un bosque, los Plantar descubren que se han quedado sin comida y deben recurrir a la caza. Ya que el motivo principal del viaje a Newtopia es para que les puedan ayudar a descubrir la forma de devolverla a casa, Anne se siente culpable y decide hacer la caza ella.",
+        "released": "2020-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q1H692sfgZnQD1oDYPBOGtmqHYE.jpg"
+      },
+      {
+        "id": "tt8050740:2:5",
+        "title": "Rescatando a Polly",
+        "season": 2,
+        "episode": 5,
+        "overview": "Mientras Anne y Sprig conducen por la noche para que Hop Pop duerma, Polly, sintiéndose pequeña, intenta pasar el tiempo con ellos, pero están demasiado ocupados gestionando el viaje para prestarle atención y empeora las cosas para la familia varias veces.",
+        "released": "2020-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a0zbhBWVw2UCj3Ji4jm9PVRCCH6.jpg"
+      },
+      {
+        "id": "tt8050740:2:6",
+        "title": "Un tráiler llamado deseo",
+        "season": 2,
+        "episode": 6,
+        "overview": "Al salir del bosque y pasar por un pantano desierto, la familia se ve atacada por un gusano de arena. Los cuatro son salvados por Renee Frodgers, la jefa de una tropa de teatro en viaje constante que les ofrece viajar junto a ella.",
+        "released": "2020-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wwl0ZVYPPQpKAs3OXbIreUBuBKQ.jpg"
+      },
+      {
+        "id": "tt8050740:2:7",
+        "title": "El paso de los peleadores",
+        "season": 2,
+        "episode": 7,
+        "overview": "Hartos de las constantes peleas entre Sprig y Polly por las dos semanas que llevan de viaje, Anne y Hop Pop los echan del vagón y los obligan a tomar el Quarreler's Pass, un camino dividido en donde los viajeros desahogan sus frustraciones, para que así se reconcilien.",
+        "released": "2020-08-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/63qHCj3zNjrpGNqzJfeFog4Bri0.jpg"
+      },
+      {
+        "id": "tt8050740:2:8",
+        "title": "El batracio más buscado",
+        "season": 2,
+        "episode": 8,
+        "overview": "Después de su derrota a manos de Anne, que resultó en la destrucción de Torre Sapo, Sasha ha estado entrenando duro para poder vengarse de ella y de los Plantar, pero también tiene que lidiar con Grime, quien ha descuidado su forma física después de la destrucción de Torre Sapo y de que todos sus soldados, a excepción de Sasha, Percy y Braddock, le hayan abandonado.",
+        "released": "2020-08-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g6uGizgxXuD7curetDTOM6zk9OA.jpg"
+      },
+      {
+        "id": "tt8050740:2:9",
+        "title": "Sapos y sentimientos",
+        "season": 2,
+        "episode": 9,
+        "overview": "Mientras Anne le mostraba a Sprig su película favorita, los frenos de Bessie se acaban dañando, causando que la familia acabe en Ribbitvale, una ciudad de alta clase donde habitan los ricos.",
+        "released": "2020-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3H0EDnWJkwdg7CEcjNvBBYeTVM4.jpg"
+      },
+      {
+        "id": "tt8050740:2:10",
+        "title": "El museo de cera",
+        "season": 2,
+        "episode": 10,
+        "overview": "Anne y los Plantar llegan a Stony Gulch, donde se les ha acabado el dinero y logran recaudar algo cuando Anne se expone a sí misma a los habitantes de la ciudad, que quedan sorprendidos al ser ella de otro mundo y, por tanto, completamente diferente a lo que han visto.",
+        "released": "2020-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jyh3PX6wMi9jgBUON5X8rxP3ek3.jpg"
+      },
+      {
+        "id": "tt8050740:2:11",
+        "title": "El reencuentro con Marcy",
+        "season": 2,
+        "episode": 11,
+        "overview": "Mientras Anne lamenta no haber encontrado a su otra amiga, Marcy, durante el viaje a Newtopia, los Plantar por fin llegan a la ciudad después de un mes de viaje, pero descubren que la entrada a la ciudad está cerrada debido a un ejército de hormigas, las Barbari-ants, que ha invadido la ciudad.",
+        "released": "2020-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lQMu7cCLZQqVxNyjfW6eQCCSbHH.jpg"
+      },
+      {
+        "id": "tt8050740:2:12",
+        "title": "Búsqueda escabrosa",
+        "season": 2,
+        "episode": 12,
+        "overview": "Durante una comida en un restaurante en Newtopia, Anne, Marcy y los Plantar reciben un mensaje del Rey Andrias escrito en un código que deben descifrar resolviendo rompecabezas por toda Newtopia. Anne, Sprig y Marcy se embarcan en la búsqueda, pero cuando Hop Pop y Polly están a punto de seguirles, Hop Pop acaba encantado por la oferta de comida gratis, dejando a Polly para vigilarle.",
+        "released": "2020-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nS5c3GRiUebADBuwkNzmt0l0QWj.jpg"
+      },
+      {
+        "id": "tt8050740:2:13",
+        "title": "La llegada de los Plantar",
+        "season": 2,
+        "episode": 13,
+        "overview": "Los Plantar por fin conocen al Rey Andrias, quien demuestra ser un tipo amistoso. Cuando Anne le desvela que vinieron aquí por la Caja de la Calamidad y que ésta aún sigue en Wartwood, el Rey les explica que les va a costar tiempo encontrar información sobre la misma. Marcy es reclutada para descifrar habitaciones amphibianas antiguas, dejando a Anne y los Plantar por su cuenta.",
+        "released": "2020-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lddUThnaAIyO8IwUa4nqEoDakSV.jpg"
+      },
+      {
+        "id": "tt8050740:2:14",
+        "title": "Perdidas en Nuevatopía",
+        "season": 2,
+        "episode": 14,
+        "overview": "Queriendo la experiencia auténtica de Newtopia, Anne y Polly fingen dolores de estómago con el fin de abandonar el autobús de tour en el que Hop Pop ha metido a toda la familia.",
+        "released": "2020-08-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9zM2dG8SFjYoHEde3U3ISHPXTxx.jpg"
+      },
+      {
+        "id": "tt8050740:2:15",
+        "title": "La lección de Sprig",
+        "season": 2,
+        "episode": 15,
+        "overview": "Los Plantar visitan la Universidad de Newtopia, donde Sprig impresiona por accidente al principal maestro, el profesor Harringbone, con su atletismo, talento musical y conocimientos de supervivencia.",
+        "released": "2020-08-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3a1Fi3C6H9syxJNQ4N4yffbT1eI.jpg"
+      },
+      {
+        "id": "tt8050740:2:16",
+        "title": "Ciudad Ranita",
+        "season": 2,
+        "episode": 16,
+        "overview": "Mientras Anne, Sprig y Polly esperan en la cola del arcade de Newtopia, Hop Pop decide investigar a toda costa qué le ha pasado a su amigo Sal, un sandwichero de Wartwood que se mudó a Newtopia para abrir su propia tienda.",
+        "released": "2020-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aki2XVCx5lL5ADz8D1em73Kzt9Q.jpg"
+      },
+      {
+        "id": "tt8050740:2:17",
+        "title": "Compras y algo más",
+        "season": 2,
+        "episode": 17,
+        "overview": "Teniendo tan solo dos días restantes en Newtopia, los Plantar deciden comprar souvenirs de recuerdo en el distrito mercantil de Newtopia. Anne quiere conseguir el regalo perfecto para su madre para cuando vuelva a casa, el cual considera que es una tetera de mariposas hecha de forma artesanal.",
+        "released": "2020-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fQPsoZjNAj0VXYFujnJtYq54AjX.jpg"
+      },
+      {
+        "id": "tt8050740:2:18",
+        "title": "La pijamada final sin igual",
+        "season": 2,
+        "episode": 18,
+        "overview": "Marcy invita a Anne, Sprig y Polly a una fiesta de pijamas en el castillo, justo antes de que el Rey Andrias les cuente a Anne y los Plantar lo que ha encontrado de la Caja de Música. De paso, Anne y Marcy intentan demostrar que pueden montar su propia fiesta de pijamas sin Sasha, que era el alma de las mismas.",
+        "released": "2020-09-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mCx8i0L8Sk6UIDm0wrpmrUsVNtB.jpg"
+      },
+      {
+        "id": "tt8050740:2:19",
+        "title": "Un día en el acuario",
+        "season": 2,
+        "episode": 19,
+        "overview": "En su reunión con el Rey Andrias, él les revela que, para poder volver a casa, las tres gemas de la Caja de la Calamidad se deben recargar, cada una en un templo diferente, lo cual significa que Anne y Marcy por fin saben cómo volver a casa. Sin embargo, el libro solo contiene el paradero de uno de los templos y descubren que van a tener que prepararse para el viaje.",
+        "released": "2020-09-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kOINeICx2eJXVnsCnDuC4NEad65.jpg"
+      },
+      {
+        "id": "tt8050740:2:20",
+        "title": "La noche del encierro",
+        "season": 2,
+        "episode": 20,
+        "overview": "Después de volver a Wartwood, Anne y los Plantar se preparan, junto con el resto de los habitantes, para el \"Shut-In!\", una tradición anual donde todo el mundo se encierra en sus casas para evitar la luna azul, la cual se rumorea que transforma en monstruos a todo el que la mire fijamente. Para pasar el rato, mientras están encerrados, los cuatro deciden contar historias de terror protagonizadas por ellos mismos. Mientras que Polly no logra pensar en algo que no le haya pasado ya a la familia en la realidad anteriormente.",
+        "released": "2020-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pkUvfziiDg54nGYRUoHpW3gqgHK.jpg"
+      },
+      {
+        "id": "tt8050740:2:21",
+        "title": "Conductores Nocturnos",
+        "season": 2,
+        "episode": 21,
+        "overview": "Después de conducir por 20 horas seguidas, Anne y Hop Pop colapsan y deciden descansar por la noche antes de terminar el viaje. Impacientes por llegar a casa lo antes posible, Sprig y Polly deciden conducir el 'fwagon' ellos mismos mientras Anne y Hop Pop duermen. Al principio el viaje va bien hasta que se cruzan con un autostopista aterrador.",
+        "released": "2021-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oOhpWlGcKbQxa1UD7gOp5yO8yak.jpg"
+      },
+      {
+        "id": "tt8050740:2:22",
+        "title": "Regreso a Bosque Verruga",
+        "season": 2,
+        "episode": 22,
+        "overview": "Los Plantar regresan a Wartwood, para la alegría del resto de habitantes, quienes les reciben con los brazos abiertos. Sin embargo, los habitantes de Wartwood les empiezan a preguntar por varios souvenirs.",
+        "released": "2021-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tylEHahv5yOoBYvxDqnL7akuQ9p.jpg"
+      },
+      {
+        "id": "tt8050740:2:23",
+        "title": "Sol, la fugitiva",
+        "season": 2,
+        "episode": 23,
+        "overview": "Ivy intenta juntarse con Sprig, pero las constantes órdenes de Felicia de hacer las tareas de una forma específica y perfecta la retrasan. Ivy llega a un punto en el que se harta de las interrupciones de Felicia y decide huir a explorar el valle, junto a Sprig, en busca de aventura.",
+        "released": "2021-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cYHtuvgC7Ki0fb4zUxlKMJedobP.jpg"
+      },
+      {
+        "id": "tt8050740:2:24",
+        "title": "Después de la lluvia",
+        "season": 2,
+        "episode": 24,
+        "overview": "Anne recibe una carta de Marcy informándole de que están listos para comenzar el viaje al primer templo, y los Plantar se preparan para su próxima aventura fuera de Wartwood. Uno de los objetos necesarios para el viaje es la Caja de la Calamidad, la cual Hop Pop por fin decide desenterrar.",
+        "released": "2021-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qJ62nJ4oyrjnfSD0zCN27eZ5CL4.jpg"
+      },
+      {
+        "id": "tt8050740:2:25",
+        "title": "El primer templo",
+        "season": 2,
+        "episode": 25,
+        "overview": "Marcy llega para recoger a la familia para el viaje al primer templo. El templo les da a aquellos que ingresan tres pruebas para desafiar su intelecto, que Marcy tiene sin ser consciente de su entorno.",
+        "released": "2021-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AdIaUj1H8PfKF4kP8jV6J9UWSCy.jpg"
+      },
+      {
+        "id": "tt8050740:2:26",
+        "title": "El nuevo Bosque Verruga",
+        "season": 2,
+        "episode": 26,
+        "overview": "Marcy está emocionada por conocer a la gente de Wartwood, pero no les agrada tanto. Entonces, para que la acepten, Marcy y Anne arreglan la ciudad con mejoras.",
+        "released": "2021-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zkaGYsNdFmFAak1Em0bFmGvTy3K.jpg"
+      },
+      {
+        "id": "tt8050740:2:27",
+        "title": "Mi amigo Ranabot",
+        "season": 2,
+        "episode": 27,
+        "overview": "Polly quiere divertirse, pero Anne y Sprig se sienten un poco más maduros y optaron por quedarse en el vagón. Después de meter a los dos en problemas, Polly se va a hacer actividades divertidas sólo para descubrir que no son tan divertidas como esperaba.",
+        "released": "2021-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9CQ94dDrCjtCU6mrKIW3PQLrNls.jpg"
+      },
+      {
+        "id": "tt8050740:2:28",
+        "title": "La senda de la sapo-salvación",
+        "season": 2,
+        "episode": 28,
+        "overview": "Justo cuando al alcalde Toadstool le estaba empezando a gustar Wartwood, una emisaria newtopiana llamada Jacinda llega a la ciudad para ofrecerle el puesto de jefe de Torre Sapo. Sin embargo, al descubrir que tiene que irse de la ciudad, Toadstool recurre a los Plantar en busca de ayuda para que parezca un candidato terrible.",
+        "released": "2021-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bCu4HcZSjQWk3M0vbc9dAnc7COd.jpg"
+      },
+      {
+        "id": "tt8050740:2:29",
+        "title": "Maddie y Marcy",
+        "season": 2,
+        "episode": 29,
+        "overview": "Mientras intenta devolverle la vida a una pulga, Maddie es interrumpida por sus hermanas pequeñas Rosemary, Ginger y Lavender. Harta, Maddie les dice que crezcan.",
+        "released": "2021-04-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/95smqoOLGJulnJepBbAZJy4o7fp.jpg"
+      },
+      {
+        "id": "tt8050740:2:30",
+        "title": "El segundo templo",
+        "season": 2,
+        "episode": 30,
+        "overview": "Los Plantar y Marcy llegan al Ártico Anfibio para encontrar el segundo templo y cargar la piedra, y se encuentran con Valeriana una vez más. Ella les dice que es parte de una orden antigua que estudió y protegió los templos y que sólo ella puede llevarlos al templo.",
+        "released": "2021-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Bz18OPG2IO1MiHQmuIJgu66NQ8.jpg"
+      },
+      {
+        "id": "tt8050740:2:31",
+        "title": "El mazo de guerra de Bruno",
+        "season": 2,
+        "episode": 31,
+        "overview": "Sasha y Grime reunieron a los capitanes de las otras Torres Sapo y proponen, a través de una presentación, que se unan a ellos y se rebelen contra el rey Andrias. A los capitanes les gusta la idea hasta que se enteran de que Sasha y Grime serán los que dirigirán la revolución.",
+        "released": "2021-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fVBWlrPKDQ21QnSRmVTnzVUJ2Jk.jpg"
+      },
+      {
+        "id": "tt8050740:2:32",
+        "title": "Bessie y Micro-Angelo",
+        "season": 2,
+        "episode": 32,
+        "overview": "Mientras los Plantar y Marcy se preparan para el templo final, con Anne obteniendo un nuevo conjunto de armaduras del armero newtopiano Bernardo, Hop Pop le encarga a Bessie la tarea de vigilar a MicroAngelo. Bessie hace todo lo posible para cuidarlo, pero MicroAngelo no para de meterse en problemas, lo que después lleva a Bessie involuntariamente a destruir los preparativos y Hop Pop decide encadenarla en el granero.",
+        "released": "2021-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wiSFt6bakgMHUhjUQEOsztSHlBE.jpg"
+      },
+      {
+        "id": "tt8050740:2:33",
+        "title": "El tercer templo",
+        "season": 2,
+        "episode": 33,
+        "overview": "El grupo llega al templo final y, al principio, les resulta difícil atravesarlo, pero Sasha y Grime aparecen para ayudarlos. Si bien Marcy está feliz de volver a ver a Sasha, a la familia le cuesta mucho confiar en ella después de los eventos en Torre Sapo.",
+        "released": "2021-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1no8NlnQthoTaXxLIAX3Q4n7kdJ.jpg"
+      },
+      {
+        "id": "tt8050740:2:34",
+        "title": "La cena",
+        "season": 2,
+        "episode": 34,
+        "overview": "Anne, Marcy y los Plantars invitan a Sasha y Grime a cenar para enterrar el hacha. Si bien las cosas parecen agradables al principio, todos se vuelven incómodos entre sí cuando mencionan conflictos del pasado. Incapaz de contenerse, Sasha arremete contra Anne y Marcy por intentar cambiarla.",
+        "released": "2021-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xdIZazxL1nQSrpO3lKQpBvFwvX3.jpg"
+      },
+      {
+        "id": "tt8050740:2:35",
+        "title": "La batalla de las bandas",
+        "season": 2,
+        "episode": 35,
+        "overview": "Para aliviar la presencia de Sasha y Grime, Toadstool organiza un concurso de Batalla de Bandas y las chicas se reúnen para reformar a la banda de Sasha y las Agujas. Sin embargo, Sasha muestra su naturaleza controladora cuando Anne sugiere una nueva canción y ella se va enojada y se une a Toadie.",
+        "released": "2021-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9EPpClZFo666X2wOEdP6He2vPvl.jpg"
+      },
+      {
+        "id": "tt8050740:2:36",
+        "title": "La hora de la verdad",
+        "season": 2,
+        "episode": 36,
+        "overview": "En un flashback, hace cinco meses en su mundo, Marcy se enfada cuando sus padres le anuncian que se van a mudar a otro estado y huye de su casa. Inspirada en un extraño libro que leyó en una biblioteca, descubre la Caja de la Calamidad en una tienda de antigüedades y sugiere a Sasha conseguirla para Anne. De vuelta al presente, el grupo llega a Newtopia, pero Sasha y Grime inician su plan de apoderarse del reino.",
+        "released": "2021-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z2k7hjzM2zKkNiAvTIM3FZ8sCNS.jpg"
+      },
+      {
+        "id": "tt8050740:3:1",
+        "title": "La nueva Normalidad",
+        "season": 3,
+        "episode": 1,
+        "overview": "Después de tanto caos y aventuras en Amphibia, Anne y los Plantar llegan a Los Ángeles, una inmensa ciudad que está en el estado de California, Estados Unidos. Después de tal impresión, Anne decide ir finalmente con sus padres después de tantos meses, mientras los Plantar van con ella para poder conocerlos.",
+        "released": "2021-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2DSrNch1F4CrowBPhR1yH6uBkrk.jpg"
+      },
+      {
+        "id": "tt8050740:3:2",
+        "title": "Fuera de control",
+        "season": 3,
+        "episode": 2,
+        "overview": "Al darse cuenta de que los Plantar no pueden contenerse de los peligros en su mundo, Anne los lleva al centro comercial y desafía a Polly a que no pierda los estribos por unos bebés mientras arma un muñeco personalizado, a Sprig a no tocar nada de la exhibición pública de arte y a Hop Pop a no caer en las cosas \"gratis\".",
+        "released": "2021-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cBYdPWfqJ9sPIUrXHjtJRew1X4I.jpg"
+      },
+      {
+        "id": "tt8050740:3:3",
+        "title": "Punto de inflexión",
+        "season": 3,
+        "episode": 3,
+        "overview": "De vuelta en Amphibia, Sasha y Grime escapan del rey Andrias después de que apuñala a Marcy y de que Anne y los Plantar fueron teletransportados a la Tierra, y buscan refugio en Wartwood.",
+        "released": "2021-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4b1ejRB9eYRSoz39ycCZyTU76Tk.jpg"
+      },
+      {
+        "id": "tt8050740:3:4",
+        "title": "Trifulca tailandesa",
+        "season": 3,
+        "episode": 4,
+        "overview": "Cuando Sprig hace un mal acto ante la señora Boonchuy, quiere compensarlo con algo, ya que está convencido de que ahora es familia, aunque los demás no están de acuerdo.",
+        "released": "2021-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xDwJQus4ZrRZojsC0GuLBaH9SXQ.jpg"
+      },
+      {
+        "id": "tt8050740:3:5",
+        "title": "Aventuras gatunas",
+        "season": 3,
+        "episode": 5,
+        "overview": "Hop Pop se da cuenta de que, el hecho de que los Boonchuy los miman demasiado a él y a sus nietos, provocaría que se colmaran de paciencia y los echaran de la casa, tal como ellos lo hicieron con su primo Stanley. Entonces, les propone llevar a Dominó al veterinario, mientras la Señora Boonchuy lleva a Anne al dentista y el Señor Boonchuy va al negocio familiar.",
+        "released": "2021-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/evq2L8boyTP7UweWZjNicdN3L19.jpg"
+      },
+      {
+        "id": "tt8050740:3:6",
+        "title": "Pelea en el Museo",
+        "season": 3,
+        "episode": 6,
+        "overview": "Anne ya está en terribles condiciones por estar buscando respuestas sobre cómo abrir un portal a Amphibia, mientras los Plantar ya están atraídos por el mundo humano moderno. Entonces, la Señora Boonchuy les pide a ellos 4 que vayan al museo, mientras Anne deba hacer unas cuantas tareas pendientes.",
+        "released": "2021-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gfULoiddvnrYgJqpNcBNWGerrgw.jpg"
+      },
+      {
+        "id": "tt8050740:3:7",
+        "title": "Las Ranas del templo",
+        "season": 3,
+        "episode": 7,
+        "overview": "Anne anuncia a los Plantar que la Doctora Jan tuvo un descubrimiento y quiere verlos para que se los enseñe, pero el señor y la señora Boonchuy les pide su cooperación para el día del mercado tailandés, el evento mensual en que los tailandeses de la ciudad se reúnen en un invaluable templo ya como comunidad: hacen comida, deportes, música, arte y enseñanza inclusiva del lenguaje de su país.",
+        "released": "2021-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qDhJJQeELcc81Sd7A70sZSag5wl.jpg"
+      },
+      {
+        "id": "tt8050740:3:8",
+        "title": "Reparando a Ranabot",
+        "season": 3,
+        "episode": 8,
+        "overview": "Mientras Anne, Sprig y Hop Pop están siendo abducidos por vídeos de gatos, Polly está ocupada reparando a Frobo, pero fracasó después de hacer un desastre. Anne, Sprig y Hop Pop le piden que no lo haga de nuevo hasta volver a Amphibia, pero Polly se rehúsa y usa el internet buscando alguna respuesta, hasta que encontró una playlist de dos chicas de robótica virales, conocidas como las \"IT Gals\".",
+        "released": "2021-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ss9RFiKp4Cjo4Z6MmAfk2xSLSBE.jpg"
+      },
+      {
+        "id": "tt8050740:3:9",
+        "title": "Anne, la exterminadora",
+        "season": 3,
+        "episode": 9,
+        "overview": "El Rey Andrias ya está colmado de paciencia ante Cloak-Bot y, por ello, tiene solo una hora para matar a Anne o se autodestruirá. Cloak-Bot logra encontrar la casa de los Boonchuy, por detectar a Frobo. Mientras, el señor y la señora Boonchuy se alegran de que Anne se haya vuelto responsable y honesta. No obstante, Anne se dispone a contar lo omitido, pero justo llega Cloak-Bot y ataca la casa.",
+        "released": "2021-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4vUphWbEAATENuJpon9Ajq24g7V.jpg"
+      },
+      {
+        "id": "tt8050740:3:10",
+        "title": "El Sr. X",
+        "season": 3,
+        "episode": 10,
+        "overview": "Inicia la trama con la aparición del Señor X y su compañero Jenny. Confirman que los Plantar son unos extraterrestres y tienen un aliado humano. Pero primero, van a ir a comer, donde casualmente van al restaurante de los Boonchuy. Mientras tanto, Anne y los Plantar notan que el señor y la señora Boonchuy se sienten motivados después de la pelea contra Cloak-Bot, por lo que irán a ver una película.",
+        "released": "2021-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o3ZjJn576zXHb5cz1ha1FDQG9MK.jpg"
+      },
+      {
+        "id": "tt8050740:3:11",
+        "title": "El cumpleaños de Sprig",
+        "season": 3,
+        "episode": 11,
+        "overview": "Anne y Sprig siguen investigando la forma de hacer un portal a Amphibia, pero luego deciden descansar por un momento. Sin embargo, Polly y Hop Pop anuncian que Sprig está de cumpleaños el día de hoy y Anne no lo sabía, aunque Sprig tampoco. Como tradición de las ranas de Amphibia, le colocan al cumpleañero una corona de lodo y luego va hacia un lado para reflexionar sobre su vida. Anne ve que no es mucho como día de cumpleaños y decide llevar a Sprig a dar un paseo de cumpleaños como \"tradición de la Tierra\".",
+        "released": "2021-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oXdULvb70P0pnoryEdZVkQ6tsJW.jpg"
+      },
+      {
+        "id": "tt8050740:3:12",
+        "title": "Sprig araña",
+        "season": 3,
+        "episode": 12,
+        "overview": "Después de ver el final de una película de superhéroes, Sprig quiere convertirse en uno para la ciudad, aunque los otros se disgustan. Practicando sus maniobras y creando su traje, se convierte en \"Frog-Man\".",
+        "released": "2021-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5IeiNXkuqVRPyoJGlJVubYiLlxQ.jpg"
+      },
+      {
+        "id": "tt8050740:3:13",
+        "title": "Olivia y Yunan",
+        "season": 3,
+        "episode": 13,
+        "overview": "Primero, se muestra a Marcy contemplando las maravillas de Newtopia, y luego le promete a Lady Olivia que siempre estará ayudándolos después de tanta colaboración que le hicieron. De vuelta al presente, se nota que los alrededores de Newtopia ya están en ruinas. Lady Olivia y la General Yunan fueron convocadas por el Rey Andrias.",
+        "released": "2021-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5BbqHYQwDzS3Jym5wlvs2SVWC0b.jpg"
+      },
+      {
+        "id": "tt8050740:3:14",
+        "title": "Hop Pop en Hollywood",
+        "season": 3,
+        "episode": 14,
+        "overview": "Anne lleva a los Plantar a un turismo por Hollywood y, a pesar de que hay que ir prevenidos ante el Señor X, Hop Pop escapa y queda abducido por la ciudad, sobre todo por ser el hogar de famosos actores. Al terminar en una audición, conoce a un adulto mayor muy parecido a él llamado Humphrey Westwood.",
+        "released": "2021-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qm65PUmQMfX7MDVDI9ORSQXt0RT.jpg"
+      },
+      {
+        "id": "tt8050740:3:15",
+        "title": "La solución es una galleta",
+        "season": 3,
+        "episode": 15,
+        "overview": "Al notar que los Plantar están en un estado de depresión nostálgica, Anne desea animarlos, pero luego recibe una llamada de la Doctora Jan, para anunciarle que contactó a una experta llamada Doctora Frakes, para que pueda crear algún portal, aunque no es momento de ir con ese quién justo ahora por alguna razón, pero Anne decide ir con esa persona mientras lleva a los Plantar, solo para que dejen de deprimirse.",
+        "released": "2021-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3j9hyQ48ALWa4hm0oOZAqcLDEyw.jpg"
+      },
+      {
+        "id": "tt8050740:3:16",
+        "title": "Feliz Ranavidad",
+        "season": 3,
+        "episode": 16,
+        "overview": "Los Boonchuy se preparan para la Navidad, aunque los Plantar no comprenden de qué se trata. Pero, de repente, la Señora Boonchuy recibe una llamada de que están invitados al desfile anual navideño.",
+        "released": "2021-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A1eunKbkumkjP4qMRqgtpzm7tw8.jpg"
+      },
+      {
+        "id": "tt8050740:3:17",
+        "title": "Escape a Amphibia",
+        "season": 3,
+        "episode": 17,
+        "overview": "El Señor X logra convencer a su jefe sobre la existencia de los Plantar y este le da una última oportunidad de demostrarlo capturándolos pronto. Mientras, los Boonchuy y los Plantar, junto con la Doctora Jan y Terri, logran hacer un portal estable, aunque es una pequeña apertura y una mantis roja gigante casi mata a Sprig.",
+        "released": "2022-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cl43EUL92ydstD0eYJnFnow0NCZ.jpg"
+      },
+      {
+        "id": "tt8050740:3:18",
+        "title": "La comandante Anne",
+        "season": 3,
+        "episode": 18,
+        "overview": "Justo después del episodio anterior, Anne y los Plantar regresan a Wartwood y resulta que quedó destruido. Después, son atacados por un ciempiés gigante, pero son salvados por Sasha, junto con la señora Croaker, Wally y Loggle.",
+        "released": "2022-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bij1yhe6VyHip28uKKiy7IlGZsh.jpg"
+      },
+      {
+        "id": "tt8050740:3:19",
+        "title": "Sprigsol",
+        "season": 3,
+        "episode": 19,
+        "overview": "Sprig y Ivy pasan cada momento de su tiempo juntos, para disgusto de los demás. Sasha envía a Sprig y Ivy a una misión para destruir el cañón láser de Andrias, el cual está protegido por un campo de fuerza, junto con Stumpy y Fern, para que su proveedor de bienes pueda pasar, pero quiere que se emparejen de manera diferente.",
+        "released": "2022-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xba1Wi8bKg5ZkxErXI5p2pDAQNJ.jpg"
+      },
+      {
+        "id": "tt8050740:3:20",
+        "title": "Los ángeles de Sasha",
+        "season": 3,
+        "episode": 20,
+        "overview": "Anne y Sasha envían a la Sra. Croaker, Wally, Maddie, Loggle y Toadie a un lugar donde tiene robadas unas cosas para la resistencia, pero ahí es donde se esconden un equipo de renegados, conocido como \"los Merodeadores\", liderado por Barry.",
+        "released": "2022-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mSKAW6u7zyNQL6QvwtCZePihqm6.jpg"
+      },
+      {
+        "id": "tt8050740:3:21",
+        "title": "Protea prometida",
+        "season": 3,
+        "episode": 21,
+        "overview": "Después de ver el mensaje de los episodios Fight at the Museum y Temple Frogs, Anne, Sasha y los Plantar se disponen a volver al Paso de los Pendencieros, mientras notan que hay un taladro de mina.",
+        "released": "2022-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8DveJMK530TxteUZ07tp7U0CVKb.jpg"
+      },
+      {
+        "id": "tt8050740:3:22",
+        "title": "Madre Proteo",
+        "season": 3,
+        "episode": 22,
+        "overview": "Después de un tropiezo de Hop Pop por su vejez y sus piernas ya frágiles, y que Sprig sonara un gong, el grupo se encuentra con la madre Olm, guardiana de antiguas profecías, y le pide ayuda, por lo que está por redactarles una profecía clave para la salvación. Sin embargo, no logra recordarla, ya que sufre migrañas sin pausa.",
+        "released": "2022-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4zw1SKxK0tAB46MDaHOnmcncZRM.jpg"
+      },
+      {
+        "id": "tt8050740:3:23",
+        "title": "El alumno de Mugre",
+        "season": 3,
+        "episode": 23,
+        "overview": "Sasha ha contactado con Beatrix, la hermana mayor de Grime, pero al reconocer que Sprig y Grime no se llevan bien después de que los envió para recibirla, ella y Anne van por ellos.",
+        "released": "2022-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w1PeiRtMjRlow0QUdqNUa8pzHv7.jpg"
+      },
+      {
+        "id": "tt8050740:3:24",
+        "title": "La raíz del mal",
+        "season": 3,
+        "episode": 24,
+        "overview": "Anne y los Plantar, junto con Loggle, siguen reclutando voluntarios para la resistencia, aunque Hop Pop sigue con su afición a la agricultura y le apena que no le resulte. Mientras, un dron-libélula los ve y se transforma en un dispositivo de rastreo. Después de un par de horas, se pierden en la nada y, al despertarse por una caída, traen puestos unos raros vestidos y quedan atrapados en un extraño pueblo de amantes de las plantas llamado Gardenton.",
+        "released": "2022-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sZLEP1aPLxbQi8X65x6xXDj1CUx.jpg"
+      },
+      {
+        "id": "tt8050740:3:25",
+        "title": "El Núcleo y el Rey",
+        "season": 3,
+        "episode": 25,
+        "overview": "En el castillo de Newtopia, después de que el Núcleo revisara la tecnología del celular de Marcy, dice que es patética; más tarde, el rey Andrias llega, pero está confundido de cómo llamar al Núcleo, éste dice que lo llame \"Darcy\" por un nombre que se inventó Marcy de su videojuego favorito.",
+        "released": "2022-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bss8G43fPBKHnlTzt3MxSPzMoSu.jpg"
+      },
+      {
+        "id": "tt8050740:3:26",
+        "title": "Tritones con mallas",
+        "season": 3,
+        "episode": 26,
+        "overview": "Anne y Sprig se encuentran con el grupo de Tritonio cuando el más joven de ellos, Jojo Potato (Archie Yates), finge estar herido para distraer a algunos de los soldados de Andrias. También, se mostró al propio Tritonio haciendo esto cuando era niño, mientras el grupo de niños con el que estaba robaba a alguien.",
+        "released": "2022-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vekardELAaBnfc1OeR3g1eKfRm7.jpg"
+      },
+      {
+        "id": "tt8050740:3:27",
+        "title": "Vuelo mortal",
+        "season": 3,
+        "episode": 27,
+        "overview": "Anne, Sprig, Soggy Joe y Loggle, que huye después de que Sprig hace un comentario, están tratando de descubrir qué está causando estragos en un área cercana debido al robo de su comida y persiguen a la criatura hasta su nido. Resulta ser una Domino 2 completamente desarrollada, lo que hace que Anne se sienta increíblemente feliz de volver a verla.",
+        "released": "2022-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ahBkpD8zWhuRPQlR3PHb5yEa6yk.jpg"
+      },
+      {
+        "id": "tt8050740:3:28",
+        "title": "Los tres ejércitos",
+        "season": 3,
+        "episode": 28,
+        "overview": "Sasha anuncia que Andrias iniciará la invasión en unos pocos días, por lo que deben alistarse para el contrataque, pero luego Anne anuncia que están por llegar sus otros grupos aliados, provocando un disgusto, ya que las ranas, los sapos y los tritones no se llevan bien por 9 siglos.",
+        "released": "2022-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y0Oq0hC1WOp7h7axDlwedBNP9Dv.jpg"
+      },
+      {
+        "id": "tt8050740:3:29",
+        "title": "El principio del fin",
+        "season": 3,
+        "episode": 29,
+        "overview": "Aparece una escena retrospectiva, donde las 3 chicas tienen una pijamada, en la que estaban viendo una película favorita de Marcy, aunque estaba spoileando. Entonces, optan por una guerra de almohadas. Al final, Anne y Sasha se quedaron dormidas, y Marcy decide arroparlas y continuar viendo su película favorita sola.",
+        "released": "2022-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rRPrD4oB5KAhHsANjRtabbPTswK.jpg"
+      },
+      {
+        "id": "tt8050740:3:30",
+        "title": "A fondo",
+        "season": 3,
+        "episode": 30,
+        "overview": "En una escena retrospectiva, el día antes de su cumpleaños y de ser transportada a Amphibia, junto con sus amigas, la directora de la escuela Saint James le encarga a Anne que escriba un ensayo sobre \"Quién soy\" en una hoja de papel, para saber qué quiere hacer Anne en el futuro.",
+        "released": "2022-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6aR78Arl9fINi4cEkFhrUtqOWMK.jpg"
+      },
+      {
+        "id": "tt8050740:3:31",
+        "title": "Lo más difícil",
+        "season": 3,
+        "episode": 31,
+        "overview": "Tras derrotar al Rey Andrias, El Núcleo, vuela hacia el espacio y se adhiere a la luna como venganza y última oportunidad para destruir toda Amphibia. Luego, ocurre un terremoto que sorprendió a Anne, Sasha, Marcy, las ranas, los tritones y los sapos, solo resultando, al final, que era la Madre Olm llegando desde el subterráneo, para decirles a las chicas que la profecía ya empezó.",
+        "released": "2022-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pbr5mDI7lzqxhEWwoZOLHiLE1Mi.jpg"
+      }
+    ]
+  }
+}

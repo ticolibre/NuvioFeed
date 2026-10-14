@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "id": "tt6769208",
+    "type": "series",
+    "name": "Planeta Azul II",
+    "poster": "https://image.tmdb.org/t/p/w500/fD0qRmAw05m3swozUbKr69LyDFt.jpg",
+    "posterShape": "poster",
+    "description": "A pesar de cubrir el 70% de superficie de nuestro planeta, los océanos son su parte más inexplorada y desconocida. Gracias a las nuevas tecnologías, Planeta Azul recoge conductas de animales y lugares en el océano nunca antes filmados.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Documental",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/1nfIEJu02Zhv9omTKkzwHnK8Dji.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt6769208:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2017-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6R1cCRNAOpL8wLV994MQ0Iy60AC.jpg"
+      },
+      {
+        "id": "tt6769208:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2017-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qva0oRbkqgWCdYgcQLNFYvA19Zx.jpg"
+      },
+      {
+        "id": "tt6769208:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2017-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/csGDiz67iaTei4bYawHX2jN4sPm.jpg"
+      },
+      {
+        "id": "tt6769208:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2017-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sA6sBj0kB9DN5bY8YXiDkHEoHWx.jpg"
+      },
+      {
+        "id": "tt6769208:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2017-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/krC3ltu0AtL6ncCblwCOfgCNe7T.jpg"
+      },
+      {
+        "id": "tt6769208:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2017-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ms8gkqck9MCx77GTxJd0pFJSPrt.jpg"
+      },
+      {
+        "id": "tt6769208:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2017-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rcUgNfN0nMqcrqajuxACJNiMh2G.jpg"
+      }
+    ]
+  }
+}

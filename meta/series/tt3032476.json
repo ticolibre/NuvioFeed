@@ -1,0 +1,592 @@
+{
+  "meta": {
+    "id": "tt3032476",
+    "type": "series",
+    "name": "Better Call Saul",
+    "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "posterShape": "poster",
+    "description": "La acción se ubica en el año 2002 en torno al abogado James Morgan \"Jimmy\" McGill, seis años antes de su aparición en Breaking Bad como Saul Goodman. A pesar de ser una precuela también se muestra brevemente cual fue el destino de Saul tras los hechos de la serie original.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/rfxryDIv8huejujg4JueDJx8zCz.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt3032476:1:1",
+        "title": "Uno",
+        "season": 1,
+        "episode": 1,
+        "overview": "El abogado Jimmy McGill intenta enterrar su pasado, pero los viejos vicios salen a la superficie cuando aparece una gran oportunidad.",
+        "released": "2015-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hMsYozWU7Q3m0FIuXnxEH9Gmyy8.jpg"
+      },
+      {
+        "id": "tt3032476:1:2",
+        "title": "Mijo",
+        "season": 1,
+        "episode": 2,
+        "overview": "Jimmy está rodeado de peligrosos criminales. Su vida dependerá de qué tan persuasivo pueda llegar a ser.",
+        "released": "2015-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wOkddHcnj8Fae8VbLbKMh641HHy.jpg"
+      },
+      {
+        "id": "tt3032476:1:3",
+        "title": "Nacho",
+        "season": 1,
+        "episode": 3,
+        "overview": "La policía atrapó a su nuevo y peligroso cliente, así que Jimmy debe disuadir a las autoridades sin perder el pellejo en el intento.",
+        "released": "2015-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xF1LKhLd0xAcddb9HrgAJ2W6gav.jpg"
+      },
+      {
+        "id": "tt3032476:1:4",
+        "title": "Héroe",
+        "season": 1,
+        "episode": 4,
+        "overview": "Jimmy está desesperado, pero se pone creativo para conseguir nuevos clientes y además saborear un poco de venganza.",
+        "released": "2015-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1effMQQBq8BhBQXeqLNFcr8RGVb.jpg"
+      },
+      {
+        "id": "tt3032476:1:5",
+        "title": "Pastorcito alpino",
+        "season": 1,
+        "episode": 5,
+        "overview": "Jimmy tantea el terreno en una nueva área de práctica jurídica mientras hace lo imposible por mantener a su hermano fuera de peligro.",
+        "released": "2015-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/854TkmG8cP00FmIR8QjTsa0ajVE.jpg"
+      },
+      {
+        "id": "tt3032476:1:6",
+        "title": "Pasado",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mike necesita un favor y Jimmy hace lo que puede, pero no hay manera de aplacar los demonios del pasado.",
+        "released": "2015-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7tSG2a6GSQyEcWH3P5e4zNqjVZO.jpg"
+      },
+      {
+        "id": "tt3032476:1:7",
+        "title": "Bingo",
+        "season": 1,
+        "episode": 7,
+        "overview": "Como los nuevos clientes de Jimmy lo ponen en una encrucijada personal y profesional, solicita la ayuda de un aliado secreto.",
+        "released": "2015-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f1MVCLlx6pOS3DJo4qRLVCNRuSX.jpg"
+      },
+      {
+        "id": "tt3032476:1:8",
+        "title": "Rico",
+        "season": 1,
+        "episode": 8,
+        "overview": "Como abogado de una compañía de dudosos manejos, Jimmy se lanza a recabar evidencias y, de paso, levantar a Chuck.",
+        "released": "2015-03-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5vpI6D2n4zma4xqQBRq2Bz3tHu5.jpg"
+      },
+      {
+        "id": "tt3032476:1:9",
+        "title": "Pimiento",
+        "season": 1,
+        "episode": 9,
+        "overview": "El caso más grande de Jimmy lo obliga a tragarse el orgullo y a buscar ayuda en el lugar más inesperado. Mientras tanto, Mike regresa al mercado de trabajo.",
+        "released": "2015-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oymFIzG89cGIXHx91wnCmdYQ9q7.jpg"
+      },
+      {
+        "id": "tt3032476:1:10",
+        "title": "Marco",
+        "season": 1,
+        "episode": 10,
+        "overview": "Jimmy visita su pueblo natal y se reúne con un viejo secuaz. No pasará mucho para que vuelvan a las andanzas.",
+        "released": "2015-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eUl8LoEhEtIy0kdyvwgo2ZNSH9B.jpg"
+      },
+      {
+        "id": "tt3032476:2:1",
+        "title": "Gran cambio",
+        "season": 2,
+        "episode": 1,
+        "overview": "La placentera vida de Jimmy, rebosante de libertad, afecta su relación con Kim. Mike se aleja de un cliente imprudente.",
+        "released": "2016-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bLx6Ow42rtFGJ0missJEfwUN4yF.jpg"
+      },
+      {
+        "id": "tt3032476:2:2",
+        "title": "La tarta de luna llena",
+        "season": 2,
+        "episode": 2,
+        "overview": "Mike hace malabares para controlar una situación volátil. Afloran viejos instintos en Jimmy cuando intenta limpiar a un cliente excéntrico.",
+        "released": "2016-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wRVKkfXsyhLAzpRC7J8Uek5dYg3.jpg"
+      },
+      {
+        "id": "tt3032476:2:3",
+        "title": "Amarillo",
+        "season": 2,
+        "episode": 3,
+        "overview": "Cuando sus intentos para conseguirle más clientes a Sandpiper despiertan sospechas, Jimmy cambia de táctica y encuentra un nuevo uso para sus dotes actorales.",
+        "released": "2016-02-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o3euy8qB8AErKQcVHRrGWV1Xtiq.jpg"
+      },
+      {
+        "id": "tt3032476:2:4",
+        "title": "Guantes fuera",
+        "season": 2,
+        "episode": 4,
+        "overview": "Pensando en los problemas que podría traerle a futuro, Mike evalúa una lucrativa oferta de trabajo. Por su lado, Jimmy afronta las consecuencias de su campaña.",
+        "released": "2016-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rtVuaHImiLxvnffNASJbF4Q3F89.jpg"
+      },
+      {
+        "id": "tt3032476:2:5",
+        "title": "Rebecca",
+        "season": 2,
+        "episode": 5,
+        "overview": "Mientras Kim se esfuerza por recuperar el respeto del despacho, una irritante asociada colma la paciencia de Jimmy. Chuck se reencuentra con su pasado.",
+        "released": "2016-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hU120urNKVue1UIX25EXPTVBOcB.jpg"
+      },
+      {
+        "id": "tt3032476:2:6",
+        "title": "Esa famosa canción",
+        "season": 2,
+        "episode": 6,
+        "overview": "Jimmy encuentra consuelo en un lugar conocido, mientras Kim sopesa una propuesta que le cambiaría la vida. Una amenaza alarmante lleva a Mike al límite.",
+        "released": "2016-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aUZtWB6MGftmrttpvfkc7GcGMtF.jpg"
+      },
+      {
+        "id": "tt3032476:2:7",
+        "title": "Inflable",
+        "season": 2,
+        "episode": 7,
+        "overview": "Jimmy encuentra una solución creativa a sus problemas en Davis & Main. Kim espera inquieta a que se concrete una oferta suculenta.",
+        "released": "2016-03-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1RumrNbk6ZAGB5U1YqQR6h96u77.jpg"
+      },
+      {
+        "id": "tt3032476:2:8",
+        "title": "Fifi",
+        "season": 2,
+        "episode": 8,
+        "overview": "Consciente del riesgo que conlleva, Mike intenta mantener el control de la problemática situación que se temía. Jimmy saca provecho de una sorpresiva oportunidad.",
+        "released": "2016-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/43SruAr8U7y2qteRb9OaSTesQzy.jpg"
+      },
+      {
+        "id": "tt3032476:2:9",
+        "title": "No hay tiempo",
+        "season": 2,
+        "episode": 9,
+        "overview": "Tras un humillante contratiempo en el trabajo, Chuck jura revelarle la verdad sobre Jimmy a Kim. Mientras tanto, Mike hace una jugada arriesgada contra Héctor Salamanca.",
+        "released": "2016-04-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Q9JaQ63y3diwZ6HVebbMLfH9sc.jpg"
+      },
+      {
+        "id": "tt3032476:2:10",
+        "title": "Larga distancia",
+        "season": 2,
+        "episode": 10,
+        "overview": "Tras el colapso de Chuck, Jimmy no tiene paz y pasa de un dilema a otro. Mike se prepara para una misión secreta en el desierto.",
+        "released": "2016-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zit4sAsSYOnpk5MOcceRiQf0VTj.jpg"
+      },
+      {
+        "id": "tt3032476:3:1",
+        "title": "Mabel",
+        "season": 3,
+        "episode": 1,
+        "overview": "Chuck trama su siguiente paso mientras Jimmy afronta las consecuencias de otra mentira. Mike investiga quién lo ha estado siguiendo y cómo.",
+        "released": "2017-04-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gABmDo0yc5A9Rqpx7ebzvxMTTRg.jpg"
+      },
+      {
+        "id": "tt3032476:3:2",
+        "title": "Testigo",
+        "season": 3,
+        "episode": 2,
+        "overview": "Mike se acerca a su objetivo y usa a Jimmy para una misión secreta. Una nueva contratación inunda de luz la oficina de Wexler-McGill. Kim recibe malas noticias.",
+        "released": "2017-04-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/buKhfwuOyXv5ZbZSlkWz0pR6Il5.jpg"
+      },
+      {
+        "id": "tt3032476:3:3",
+        "title": "Costo irrecuperable",
+        "season": 3,
+        "episode": 3,
+        "overview": "Mientras Mike se reúne con su misterioso nuevo aliado, Jimmy enfrenta las humillantes consecuencias del incidente en la casa de Chuck.",
+        "released": "2017-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gGm2dT0m297MGdFjcdBRRYVosF5.jpg"
+      },
+      {
+        "id": "tt3032476:3:4",
+        "title": "Sabrosito",
+        "season": 3,
+        "episode": 4,
+        "overview": "Explota una pelea que venía gestándose desde hace mucho y la tensión se apodera de Los Pollos Hermanos. Kim ayuda a Jimmy a preparar el caso que lo enfrentará con Chuck.",
+        "released": "2017-05-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pFjMOyhgP8HCwkRG34ZD8C0VTDz.jpg"
+      },
+      {
+        "id": "tt3032476:3:5",
+        "title": "Artimaña",
+        "season": 3,
+        "episode": 5,
+        "overview": "La audiencia con el Colegio de Abogados está a la vuelta de la esquina, pero Jimmy y Kim tienen una serie de sorpresas preparadas para Chuck.",
+        "released": "2017-05-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rsYlkD587vrj6fp1DToyQ9PpjJ6.jpg"
+      },
+      {
+        "id": "tt3032476:3:6",
+        "title": "Segunda marca",
+        "season": 3,
+        "episode": 6,
+        "overview": "Mientras Chuck trata de comprender lo que sucedió en la audiencia, Jimmy se las ingenia para salir de un aprieto económico, y Nacho ya no soporta más a don Héctor.",
+        "released": "2017-05-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lAEikpCAspgsGAaNpnbyxXHO6nj.jpg"
+      },
+      {
+        "id": "tt3032476:3:7",
+        "title": "Gastos",
+        "season": 3,
+        "episode": 7,
+        "overview": "Jimmy tiene problemas para llegar a fin de mes, y Kim lucha con su conciencia. Por otro lado, Nacho involucra a un exproveedor en su plan para deshacerse de Héctor.",
+        "released": "2017-05-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jqVsNTUU6uhgjIpxzTgOa8U1teK.jpg"
+      },
+      {
+        "id": "tt3032476:3:8",
+        "title": "Resbalón",
+        "season": 3,
+        "episode": 8,
+        "overview": "Sus nuevos clientes no cumplen con lo pactado y Jimmy responde con una jugada sucia. Nacho se prepara para ejecutar el plan. Mike tantea una alianza secreta.",
+        "released": "2017-06-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pnOBvxBuWqNNGrU36PU5xg2Np8t.jpg"
+      },
+      {
+        "id": "tt3032476:3:9",
+        "title": "Caída",
+        "season": 3,
+        "episode": 9,
+        "overview": "Jimmy serpentea de vuelta a Sandpiper. Mientras tanto, Chuck y Howard discuten por el futuro del bufete, y Kim se esfuerza por complacer a un nuevo cliente.",
+        "released": "2017-06-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1I5fgW7h62PsDmMGpThHJ0tSdg3.jpg"
+      },
+      {
+        "id": "tt3032476:3:10",
+        "title": "Farol",
+        "season": 3,
+        "episode": 10,
+        "overview": "Kim se replantea sus prioridades tras el accidente. Por otra parte, Jimmy busca reparar un error, mientras Chuck sufre una serie de reveses.",
+        "released": "2017-06-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8UlFIL3uitcmfKTaEpK8f0WZMyS.jpg"
+      },
+      {
+        "id": "tt3032476:4:1",
+        "title": "Humo",
+        "season": 4,
+        "episode": 1,
+        "overview": "Mientras Jimmy enfrenta una tragedia repentina, Mike va a Madrigal para una misión de reconocimiento, y Nacho se reúne con Juan Bolsa.",
+        "released": "2018-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gcG57V96qWemZYCwfW7osDXl4f2.jpg"
+      },
+      {
+        "id": "tt3032476:4:2",
+        "title": "Respira",
+        "season": 4,
+        "episode": 2,
+        "overview": "Jimmy se pone seductor para una entrevista de trabajo, mientras Gus se preocupa por la salud de Héctor Salamanca. Harta de todo, Kim se descarga con Howard.",
+        "released": "2018-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qlNNq4SiVwmgxrZLaO9Xoph7UgN.jpg"
+      },
+      {
+        "id": "tt3032476:4:3",
+        "title": "Algo hermoso",
+        "season": 4,
+        "episode": 3,
+        "overview": "Los hombres de Gus hacen pasar por un infierno a Nacho. El plan de Jimmy de ganar dinero fácil se complica. Kim vuelve al trabajo con Mesa Verde.",
+        "released": "2018-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j2PhqbOQCfEIcZoKlBHe6oHO70I.jpg"
+      },
+      {
+        "id": "tt3032476:4:4",
+        "title": "Habla",
+        "season": 4,
+        "episode": 4,
+        "overview": "Jimmy toma un trabajo para demostrarle a Kim que su vida se está encaminando. Nacho queda atrapado en una masacre. Mike visita un grupo de apoyo y no pasa desapercibido.",
+        "released": "2018-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x3gDoGCY4JTWDkm2GQQTwiZBFrH.jpg"
+      },
+      {
+        "id": "tt3032476:4:5",
+        "title": "Qué locura, ¿no?",
+        "season": 4,
+        "episode": 5,
+        "overview": "Mientras Jimmy aprovecha su astucia callejera para vender celulares, Kim toma trabajo de defensora pública y Mike entrevista expertos en excavaciones.",
+        "released": "2018-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sA6ZZA1VELtpQAnRxZtFhagiPgL.jpg"
+      },
+      {
+        "id": "tt3032476:4:6",
+        "title": "Piñata",
+        "season": 4,
+        "episode": 6,
+        "overview": "Kim analiza un cambio laboral y complica los planes de Jimmy de armar una sociedad juntos. Mike y Gus se preparan para la llegada de los obreros alemanes.",
+        "released": "2018-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y8lB4NeGWqlRfVtULraOiarXPAl.jpg"
+      },
+      {
+        "id": "tt3032476:4:7",
+        "title": "Algo estúpido",
+        "season": 4,
+        "episode": 7,
+        "overview": "En medio de las tensiones con Kim, Jimmy saca a relucir su habilidad para los negocios y termina metiéndose en problemas con la policía. La situación de Héctor cambia.",
+        "released": "2018-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/drxVhOlWzRp4V9rrcGZIEqrhwG6.jpg"
+      },
+      {
+        "id": "tt3032476:4:8",
+        "title": "Coushatta",
+        "season": 4,
+        "episode": 8,
+        "overview": "Jimmy y Kim ponen en marcha un plan elaborado para que Huell no vaya a la cárcel. Mike les da la noche libre a los muchachos y las consecuencias no son buenas.",
+        "released": "2018-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/prdfPctjYisErdRPE9MY5lhFaYt.jpg"
+      },
+      {
+        "id": "tt3032476:4:9",
+        "title": "Hasta la vista",
+        "season": 4,
+        "episode": 9,
+        "overview": "Después de otra tramoya con Kim, Jimmy quiere recuperar su licencia de abogado. Mike está preocupado por el comportamiento de Werner. Lalo Salamanca pasa a ver a Gus.",
+        "released": "2018-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dsZZClwZHFqAUK6VjVIuPOwtxfS.jpg"
+      },
+      {
+        "id": "tt3032476:4:10",
+        "title": "Ganador",
+        "season": 4,
+        "episode": 10,
+        "overview": "Se cumple el aniversario de la muerte de Chuck y Jimmy hace todo lo posible para mejorar su imagen. Mientras tanto, Mike sigue el rastro de Werner.",
+        "released": "2018-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3MGD5ySNFm3FktUh6eoZwMwkDkC.jpg"
+      },
+      {
+        "id": "tt3032476:5:1",
+        "title": "Hombre Mágico",
+        "season": 5,
+        "episode": 1,
+        "overview": "Pese al recelo de Kim, Jimmy se lanza de cabeza a su nueva vida como Saul. Lalo trastoca los planes que tiene Gus para la lavandería. En Omaha, Gene pasa un buen susto.",
+        "released": "2020-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s3dkWr75dnprdINXDJwbLj5K2k4.jpg"
+      },
+      {
+        "id": "tt3032476:5:2",
+        "title": "50 % de descuento",
+        "season": 5,
+        "episode": 2,
+        "overview": "Su publicidad atrae a una oleada de clientes, y a Jimmy le cuesta darse abasto. Presionado por Gus, Nacho asume un riesgo enorme para ganarse la confianza de Lalo.",
+        "released": "2020-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q5tMB6Ho3SEc4hOtsb8LNCeq24o.jpg"
+      },
+      {
+        "id": "tt3032476:5:3",
+        "title": "El indicado",
+        "season": 5,
+        "episode": 3,
+        "overview": "Lalo recluta a Saul para una misión. Una emergencia de Mesa Verde pone nerviosa a Kim. Dos agentes de la DEA visitan a Domingo en la cárcel.",
+        "released": "2020-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dUeK8mFafhyqC2Q8R4dV8SNjU7l.jpg"
+      },
+      {
+        "id": "tt3032476:5:4",
+        "title": "Namasté",
+        "season": 5,
+        "episode": 4,
+        "overview": "Jimmy considera una oferta de Howard. Kim adopta un nuevo enfoque ante el asunto de Mesa Verde. Hank y Steve vigilan el punto de entrega de Gus.",
+        "released": "2020-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r2r0dRdlofscCZQkEVbjGXP27tk.jpg"
+      },
+      {
+        "id": "tt3032476:5:5",
+        "title": "Dedicado a Max",
+        "season": 5,
+        "episode": 5,
+        "overview": "Mike despierta herido y lejos de casa. Saul usa todos sus trucos para evitar que desalojen a su nuevo cliente. Kim planea una larga jugada contra Mesa Verde.",
+        "released": "2020-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rN7cb9q43B46iwzLsfe7O1FA7eL.jpg"
+      },
+      {
+        "id": "tt3032476:5:6",
+        "title": "Wexler vs. Goodman",
+        "season": 5,
+        "episode": 6,
+        "overview": "Jimmy llama a su equipo de producción de videos para que haga uno sobre Mesa Verde, pero Kim empieza a tener dudas al respecto. Mike le tiende una trampa a Lalo.",
+        "released": "2020-03-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cdrY5PlUUmWBxn5z2nTHKCeRI2o.jpg"
+      },
+      {
+        "id": "tt3032476:5:7",
+        "title": "JMM",
+        "season": 5,
+        "episode": 7,
+        "overview": "Mientras Jimmy y Kim resuelven sus diferencias tras la reunión de Mesa Verde, Lalo exige algo imposible y planea cómo vengarse de Gus.",
+        "released": "2020-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AjgRDPeKEWlvZf3oCiFKOvn0Jm4.jpg"
+      },
+      {
+        "id": "tt3032476:5:8",
+        "title": "Cobrador",
+        "season": 5,
+        "episode": 8,
+        "overview": "Jimmy acepta realizar un lucrativo encargo para Lalo, que se termina convirtiendo en una angustiosa odisea en el corazón del desierto.",
+        "released": "2020-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xAq4k14KeWACbpALOCcF8q4ZPZL.jpg"
+      },
+      {
+        "id": "tt3032476:5:9",
+        "title": "El camino de las malas elecciones",
+        "season": 5,
+        "episode": 9,
+        "overview": "Perturbado, Jimmy inventa una historia para explicar su prolongada ausencia, pero poco después la verdad comienza a emerger. Kim se encuentra en un momento crucial.",
+        "released": "2020-04-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7Z5gCUKmZrU6KRBOpPjOOAI2htH.jpg"
+      },
+      {
+        "id": "tt3032476:5:10",
+        "title": "Algo imperdonable",
+        "season": 5,
+        "episode": 10,
+        "overview": "Tras el enfrentamiento con Lalo, Jimmy le exige respuestas a Mike. Kim considera una advertencia de Howard. Nacho hace un inquietante viaje a México.",
+        "released": "2020-04-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fUaU0qUnCqpOTJKncyNAwlBCSnT.jpg"
+      },
+      {
+        "id": "tt3032476:6:1",
+        "title": "Días de vino y rosas",
+        "season": 6,
+        "episode": 1,
+        "overview": "Después del ataque en la casa de Lalo, Nacho se da a la fuga. Jimmy y Kim urden un plan para sabotear a Howard. Mike empieza a cuestionar las intenciones de Gus.",
+        "released": "2022-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/spRkg6Qa2X4C856KOMlRGQHg6cE.jpg"
+      },
+      {
+        "id": "tt3032476:6:2",
+        "title": "El látigo y la zanahoria",
+        "season": 6,
+        "episode": 2,
+        "overview": "Gracias a otra brillante idea de Kim, Jimmy se encuentra con antiguos clientes que aún le guardan rencor. Mike trata de mantenerse a la delantera de los Salamanca.",
+        "released": "2022-04-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aMoqX2ow6AciTelNl5V3rrQC0GB.jpg"
+      },
+      {
+        "id": "tt3032476:6:3",
+        "title": "Entre la espada y la pared",
+        "season": 6,
+        "episode": 3,
+        "overview": "Al quedarse sin opciones, Nacho busca negociar. La fiscalía intenta que Jimmy delate al cartel. Huell ayuda en el complot contra Howard.",
+        "released": "2022-04-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/boQ8tjHdabQB6TXEDgJux7gEzSW.jpg"
+      },
+      {
+        "id": "tt3032476:6:4",
+        "title": "Golpe y fuga",
+        "season": 6,
+        "episode": 4,
+        "overview": "Una farsa bien sincronizada hace mella en la reputación de Howard. A Kim le preocupa que la estén siguiendo. Jimmy se da cuenta de que su suerte ha cambiado.",
+        "released": "2022-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7HpwZI1aurKvZkvntDobhL79CNA.jpg"
+      },
+      {
+        "id": "tt3032476:6:5",
+        "title": "Negro y azul",
+        "season": 6,
+        "episode": 5,
+        "overview": "A Gus empieza a agotársele la paciencia mientras espera a que Lalo haga su jugada. Kim le saca información a una antigua colega. Howard quiere devolver los golpes.",
+        "released": "2022-05-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eLzCnY2dlAtCar9J35ribD7nzAt.jpg"
+      },
+      {
+        "id": "tt3032476:6:6",
+        "title": "Intereses personales",
+        "season": 6,
+        "episode": 6,
+        "overview": "Jimmy prepara los últimos detalles del plan de Sandpiper. Mientras tanto, Kim consigue una reunión soñada, y Lalo encuentra a alguien vinculado a Gus.",
+        "released": "2022-05-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/48SkTDWOgXt1hjc5rE0pT9QlAGA.jpg"
+      },
+      {
+        "id": "tt3032476:6:7",
+        "title": "Plan y ejecución",
+        "season": 6,
+        "episode": 7,
+        "overview": "Lalo vigila su próximo objetivo. Jimmy y Kim lidian con un asunto improvisto. Sube la temperatura en la mediación de Sandpiper.",
+        "released": "2022-05-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/flVUI98wSTtLmYDCx81gowleQTe.jpg"
+      },
+      {
+        "id": "tt3032476:6:8",
+        "title": "Apuntas y disparas",
+        "season": 6,
+        "episode": 8,
+        "overview": "En el transcurso de una noche muy larga, Jimmy y Kim enfrentan las consecuencias de sus acciones, mientras Lalo pone en marcha su plan final.",
+        "released": "2022-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j00SYyNwv9agYN4gxW1f5AYFrhG.jpg"
+      },
+      {
+        "id": "tt3032476:6:9",
+        "title": "Diversión y juegos",
+        "season": 6,
+        "episode": 9,
+        "overview": "Mientras Mike trata de atar los cabos sueltos, el cartel convoca a Gus a una reunión. Una conmemoración incomoda a Kim y a Jimmy.",
+        "released": "2022-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qR1Thp9EntDwuyXTo5hUAo9OyRr.jpg"
+      },
+      {
+        "id": "tt3032476:6:10",
+        "title": "Nippy",
+        "season": 6,
+        "episode": 10,
+        "overview": "En Omaha, Gene se dispone a neutralizar una amenaza con un plan que involucra a un perro imaginario y rollos de canela.",
+        "released": "2022-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wZuBaYUf0hs9hxNUdTMO8aU9b6q.jpg"
+      },
+      {
+        "id": "tt3032476:6:11",
+        "title": "Breaking Bad",
+        "season": 6,
+        "episode": 11,
+        "overview": "El pasado y el presente se entrelazan cuando Gene retoma el contacto con alguien de sus días en Albuquerque e idea un plan para ganar dinero rápido.",
+        "released": "2022-08-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/luhdkeBz7FbXLkblFLAwRp9F7bw.jpg"
+      },
+      {
+        "id": "tt3032476:6:12",
+        "title": "Riego de lágrimas",
+        "season": 6,
+        "episode": 12,
+        "overview": "Una llamada a Rociadores Palm Coast pone en marcha una fatídica serie de acontecimientos. La última estafa de Gene se complica.",
+        "released": "2022-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eeNijlYY7NQEqHLp8ZqlLfGDtXV.jpg"
+      },
+      {
+        "id": "tt3032476:6:13",
+        "title": "Ya no queda nada",
+        "season": 6,
+        "episode": 13,
+        "overview": "Revelaciones. Arrepentimientos. Violaciones de la Ley RICO. Los mundos —y las identidades— de Jimmy convergen en un último enfrentamiento.",
+        "released": "2022-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aZFwz8FaM9MXFqwakFnhhNjYZSv.jpg"
+      }
+    ]
+  }
+}
