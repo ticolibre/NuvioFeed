@@ -1,0 +1,2152 @@
+{
+  "metas": [
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://image.tmdb.org/t/p/w500/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+      "description": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos ocurridos en \"Avengers: Endgame (2019)\" y se le da a elegir enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9140560",
+      "type": "series",
+      "name": "WandaVision",
+      "poster": "https://image.tmdb.org/t/p/w500/cYEPx04WxSSbBA2kdUT6XluYgIw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
+      "description": "Wanda Maximoff y Vision, dos seres superpoderosos que viven vidas suburbanas idealizadas, comienzan a sospechar que nada es lo que parece.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10919420",
+      "type": "series",
+      "name": "El juego del calamar",
+      "poster": "https://image.tmdb.org/t/p/w500/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+      "description": "Cientos de jugadores cortos de dinero aceptan una extraña invitación a competir en juegos infantiles. Adentro les espera un premio irresistible... con un riesgo mortal.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure",
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13443470",
+      "type": "series",
+      "name": "Merlina",
+      "poster": "https://image.tmdb.org/t/p/w500/5DlNYe4e8aVHoKH4XrUuREWMY8s.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "description": "Inteligente, sarcástica y un poco muerta por dentro, Merlina Addams investiga misterios macabros mientras hace nuevos amigos (y enemigos) en la Academia Nunca Más.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11126994",
+      "type": "series",
+      "name": "Arcane",
+      "poster": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+      "description": "Mientras la discordia separa las ciudades gemelas de Piltóver y Zaun, dos hermanas se enfrentan en una guerra feroz entre tecnologías mágicas y convicciones opuestas.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "INVENCIBLE",
+      "poster": "https://image.tmdb.org/t/p/w500/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+      "description": "Mark Grayson hereda superpoderes a los diecisiete años y se une a su padre como uno de los mayores héroes de la Tierra. Todos sus sueños se hacen realidad, hasta que un evento impactante lo cambia todo.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3581920",
+      "type": "series",
+      "name": "The Last of Us",
+      "poster": "https://image.tmdb.org/t/p/w500/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+      "description": "Veinte años después de la destrucción de la civilización moderna, Joel, un aguerrido superviviente, es contratado para sacar a Ellie, una joven de 14 años, de una opresiva zona de cuarentena. Lo que empieza como un trabajo sencillo pronto se convierte en un viaje brutal y desgarrador, ya que ambos deben atravesar Estados Unidos y depender el uno del otro para sobrevivir.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "La casa del dragón",
+      "poster": "https://image.tmdb.org/t/p/w500/szyVpg9K3LL5s8VFAGkXzlxgZUk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "description": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10048342",
+      "type": "series",
+      "name": "Gambito de dama",
+      "poster": "https://image.tmdb.org/t/p/w500/3Skm8boxLsoQZK9xq2chf0rQHfF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ktZaQ4FEmKpRgetiBooZETYQbmQ.jpg",
+      "description": "En los cincuenta, una joven de un orfanato descubre que tiene un increíble don para el ajedrez y recorre el arduo camino a la fama mientras lucha contra las adicciones.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://image.tmdb.org/t/p/w500/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+      "description": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "From",
+      "poster": "https://image.tmdb.org/t/p/w500/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de América que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14169960",
+      "type": "series",
+      "name": "Estamos Muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/8jClvC5U756Uhd8zDYek50ihO49.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+      "description": "Luego de que un virus zombi se propaga por su escuela, un grupo de jóvenes atrapados debe encontrar una salida o acabar infectado.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9208876",
+      "type": "series",
+      "name": "Falcon Y El Soldado Del Invierno",
+      "poster": "https://image.tmdb.org/t/p/w500/kW3vNNeeIDkZ2xoRyWmNkeOK6f1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+      "description": "Estelarizada por Anthony Mackie como Sam Wilson, también conocido como Falcon, y Sebastian Stan como Bucky Barnes, también conocido como el soldado del invierno. El dúo, que se unió en los últimos momentos de \"Avengers: Endgame\", hace equipo en una aventura alrededor del mundo que pone a prueba sus habilidades… y su paciencia.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10168312",
+      "type": "series",
+      "name": "What If...?",
+      "poster": "https://image.tmdb.org/t/p/w500/ebKQ0Lb84EF897UBk3d1KzMO33V.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
+      "description": "Tomando inspiración de los comics del mismo nombre, cada episodio explora un momento esencial del Universo Cinematográfico de Marvel, dando un giro de tuerca donde lleva a la audiencia a un territorio inexplorado, pero familiar.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/1sylo2yeVyJ8KMZgcZLSopR66DA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "description": "Mark dirige un equipo de oficinistas, cuyas memorias fueron divididas quirúrgicamente entre sus vidas personales y laborales. Cuando un colega misterioso aparece fuera del trabajo, inicia un viaje por descubrir la verdad sobre sus empleos.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13146488",
+      "type": "series",
+      "name": "Peacemaker",
+      "poster": "https://image.tmdb.org/t/p/w500/55XTxtvxToTvTbXcPOyVf3RbjkQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
+      "description": "Después de los eventos de \"El Escuadrón Suicida\" (2021) seguimos a Peacemaker, un hombre presumido que cree en la paz a cualquier precio.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/puKRIbG2asaTFHIjJS5sydIW1zB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "description": "Cuando lo arrestan por un asesinato que no cometió, el oficial retirado de la policía militar Jack Reacher se ve envuelto en una conspiración letal de policías corruptos, empresarios turbios y políticos intrigantes. Solo con su ingenio, debe descubrir qué está sucediendo en Margrave, Georgia. La primera temporada de \"Reacher\" se basa en la exitosa novela \"Zona peligrosa\" de Lee Child.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2934286",
+      "type": "series",
+      "name": "Halo",
+      "poster": "https://image.tmdb.org/t/p/w500/m8tW2ssuqib10BUlUZfbYlfqEfd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+      "description": "Representando un conflicto épico del siglo 26 entre la humanidad y una amenaza alienígena conocida como el Pacto, la serie teje historias personales profundamente dibujadas con acción, aventura y una visión ricamente imaginada del futuro.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://image.tmdb.org/t/p/w500/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "description": "Ted Lasso, un ingenuo entrenador de fútbol americano que decide probar suerte en un club de fútbol inglés aunque no tiene idea de ese deporte. Su inexperiencia despierta recelo y desdén entre jugadores y aficionados. Con un equipo y una ciudad que lo mira con sospecha, ¿Logrará tener éxito?",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12439466",
+      "type": "series",
+      "name": "¿Será Que es Amor?",
+      "poster": "https://image.tmdb.org/t/p/w500/hkchSrpTMCEjdFBX5HU3IpyYXO4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
+      "description": "Eda es una hermosa y brillante joven que trabaja en la floristería de su tía. Su sueño es convertirse en arquitecta paisajista y mudarse a Italia, sin embargo, sus sueños se ven frustrados.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+      "description": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13616990",
+      "type": "series",
+      "name": "Chainsaw Man",
+      "poster": "https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+      "description": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.\n\nCuando una traición provoca la muerte de Denji, Pochita hace un contrato con él y Denji revive como \"Chainsaw Man\", un ser humano con el corazón de un demonio.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13706018",
+      "type": "series",
+      "name": "SPY×FAMILY",
+      "poster": "https://image.tmdb.org/t/p/w500/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+      "description": "Un espía, una asesina y una telépata se juntan, fingen ser una familia, cada cual por sus razones, y esconden sus verdaderas identidades el uno del otro.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://image.tmdb.org/t/p/w500/yzRnj5GMZEjiW9xTGkz8cVNyzH9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "description": "Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13274038",
+      "type": "series",
+      "name": "Belleza verdadera",
+      "poster": "https://image.tmdb.org/t/p/w500/mNzfhBMtuRSayDNiIad2xDCHjvM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+      "description": "Después de ver videos de belleza en línea, una tímida fanática de los cómics dominó el arte del maquillaje y vio cómo su estatus social se disparaba cuando se convirtió en la niña más linda de la escuela en solo un día y una noche. Pero, ¿su estatus de élite será de corta duración? ¿Cuánto tiempo puede mantener en secreto su «yo real»? ¿Qué pasa con el chico lindo que le gusta? ¿Te imaginas si se enterara de la verdad? Lee Su Ho fue el único que vio su rostro desnudo, no solo siendo uno de los mejores estudiantes sino también atrayendo la atención de todas las chicas alrededor. A pesar de su popularidad, Lee Su Ho todavía tiene un lado tímido, se sonroja cuando está avergonzado y dice cosas de las que se arrepiente.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8050756",
+      "type": "series",
+      "name": "La Casa Búho",
+      "poster": "https://image.tmdb.org/t/p/w500/lE5OYF0axjCVtrxLMetA8i8QpZ8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
+      "description": "Luz, una adolescente humana muy segura de sí misma, se topa accidentalmente con un portal que la lleva a un mágico y nuevo mundo, en el cual se hace amiga de la bruja rebelde Eda y de King, un adorable guerrero en miniatura. A pesar de no tener habilidades mágicas, Luz va tras su sueño de convertirse en bruja.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "poster": "https://image.tmdb.org/t/p/w500/bseAODUUu5ZpX5W0Nip3yGsN143.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+      "description": "Basado en una de las mejores series de videojuegos de todos los tiempos, Fallout es la historia de los que tienen y los que no tienen en un mundo en el que ya casi no queda nada que tener. 200 años después del apocalipsis, los amables habitantes de los lujosos refugios nucleares se ven obligados a regresar al infierno irradiado que sus antepasados dejaron atrás y se sorprenden al descubrir un universo increíblemente complejo, alegremente extraño y altamente violento esperándolos.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://image.tmdb.org/t/p/w500/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+      "description": "En un futuro arruinado y tóxico, existe una comunidad en un enorme silo subterráneo cientos de pisos bajo tierra. Ahí, hombres y mujeres viven en una sociedad llena de reglas que creen que están hechas para protegerlos.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8388390",
+      "type": "series",
+      "name": "Chucky",
+      "poster": "https://image.tmdb.org/t/p/w500/fDPo0qqRLX5VkeprfJB19ZeBTsR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lyZmMTwpr6ZCXKA7lszpXcDwNOM.jpg",
+      "description": "A mediados del mes de Halloween, Jake Wheeler un adolescente de 14 años consigue un muñeco a quién se apoda Chucky, lo quiere tratar como un amigo. Sin embargo, con el tiempo el muñeco tendrá tendencias violentas a la de un asesino, donde cometerá asesinatos, mientras que Andy Barclay y Kyle Simpson regresan para acabar con Chucky de una vez por todas.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crimen",
+        "Comedia",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt15791630",
+      "type": "series",
+      "name": "The Kardashians",
+      "poster": "https://image.tmdb.org/t/p/w500/bBASCWaCKj5jdzNoXIFCSb4zEDj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+      "description": "La familia que conoces y amas está aquí con una nueva serie, que brinda un pase de acceso total a sus vidas. Kris, Kourtney, Kim, Khloé, Kendall y Kylie traen las cámaras para revelar la verdad detrás de los titulares. Desde las intensas presiones de administrar negocios de miles de millones de dólares hasta las hilarantes alegrías de la hora de jugar y dejar la escuela, esta serie atrae a los espectadores con una historia fascinantemente honesta de amor y vida en el centro de atención.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Reality"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8740790",
+      "type": "series",
+      "name": "Bridgerton",
+      "poster": "https://image.tmdb.org/t/p/w500/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+      "description": "Los ocho entrañables hermanos de la familia Bridgerton buscan el amor y la felicidad en la alta sociedad londinense.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11691774",
+      "type": "series",
+      "name": "Solo Asesinatos en el Edificio",
+      "poster": "https://image.tmdb.org/t/p/w500/7yD7k8IX20WTpHlLqB97Q9d2clq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
+      "description": "Tres desconocidos con un interés común por los podcasts de crímenes reales se unen para investigar una muerte en el edificio de apartamentos en el que todos viven en Nueva York.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedia",
+        "Misterio",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12590266",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://image.tmdb.org/t/p/w500/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
+      "description": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10795658",
+      "type": "series",
+      "name": "Alice in Borderland",
+      "poster": "https://image.tmdb.org/t/p/w500/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
+      "description": "Un chico obsesionado con los videojuegos se transporta con dos amigos a una realidad paralela y postapocalíptica de Tokio donde cada nivel es de vida o muerte.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10160804",
+      "type": "series",
+      "name": "Hawkeye",
+      "poster": "https://image.tmdb.org/t/p/w500/3ZcJetFxd8fwJ1I5xsLHCMTAKQo.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uHESULlKh7VSc0MRcqfyIf9Alk4.jpg",
+      "description": "\"Ojo De Halcón\", de Marvel Studios, es una nueva serie original que transcurre en una Ciudad de Nueva York post-Blip, donde el antes vengador Clint Barton, alias Hawkeye, tiene una misión que parece simple: regresar con su familia para Navidad. Pero cuando surge una amenaza de su pasado, Hawkeye renuentemente hace equipo con Kate Bishop, una hábil arquera de 22 años y su fan número uno, para desentrañar una conspiración criminal.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9253284",
+      "type": "series",
+      "name": "Andor",
+      "poster": "https://image.tmdb.org/t/p/w500/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
+      "description": "En una época llena de peligros, engaños e intrigas, Cassian Andor descubrirá la diferencia que puede marcar en la lucha contra el tiránico Imperio Galáctico. Se embarca en un camino que está destinado a convertirlo en un héroe rebelde.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11192306",
+      "type": "series",
+      "name": "Superman y Lois",
+      "poster": "https://image.tmdb.org/t/p/w500/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg",
+      "description": "Tras años de enfrentarse a supervillanos megalómanos, a monstruos que causan estragos en Metrópolis y a invasores alienígenas que pretenden acabar con la raza humana, el Hombre de Acero alias Clark Kent y Lois Lane se enfrentan a uno de sus mayores retos: lidiar con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10638036",
+      "type": "series",
+      "name": "Heartstopper",
+      "poster": "https://image.tmdb.org/t/p/w500/fBbhBvFEVgVxWrBbOJDzDjcVXM4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8cpXau1LjYMBjiaHUS75JmlgGsU.jpg",
+      "description": "Charlie y Nick descubren que su improbable amistad podría ser algo más mientras sortean la escuela y el amor en esta serie sobre la adolescencia.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2788316",
+      "type": "series",
+      "name": "Shōgun",
+      "poster": "https://image.tmdb.org/t/p/w500/uIoDvVOQaKjSfz2oihkVS8M7l1v.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+      "description": "Ambientada en el Japón del año 1600, lord Yoshii Toranaga lucha por su vida mientras sus enemigos del Consejo de Regentes se unen contra él, cuando un misterioso barco europeo encalla en un pueblo pesquero cercano.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11937662",
+      "type": "series",
+      "name": "Control Z",
+      "poster": "https://image.tmdb.org/t/p/w500/8VNA0RdrPk8Ec7XVjpeT0Rnui79.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gFFedWBZ7s5sPiR9A1IpileWuFf.jpg",
+      "description": "Luego de que un hacker comienza a exponer los secretos de los estudiantes frente a toda la escuela, la distante y observadora Sofía se dispone a descubrir su identidad.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tmdb:113988",
+      "type": "series",
+      "name": "Dahmer - Monstruo: La historia de Jeffrey Dahmer",
+      "poster": "https://image.tmdb.org/t/p/w500/rO8DLOFWq5ujUzw220Np9pq4kIS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+      "description": "A lo largo de más de una década, 17 adolescentes y jóvenes fueron asesinados por el criminal convicto Jeffrey Dahmer. ¿Cómo evitó ser capturado durante tanto tiempo?",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13676344",
+      "type": "series",
+      "name": "Record of Ragnarok",
+      "poster": "https://image.tmdb.org/t/p/w500/v4la9QpSgcbEUZUUxvdIRCo5rsY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
+      "description": "Antes de erradicarlos del mundo para siempre, los dioses les dan a los humanos una última oportunidad de probar su valía. ¡Que comiencen las batallas de Ragnarok!",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10166602",
+      "type": "series",
+      "name": "Love, Victor",
+      "poster": "https://image.tmdb.org/t/p/w500/etrxb0Jfut11ExIWMQBtmQZnY1V.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/s77W7avppGDWFL6ZZs813jQ6we6.jpg",
+      "description": "Basada en la novela para jóvenes de Becky Albertalli 'Simon vs. the Homo Sapiens Agenda', que inspiró el largometraje 'Love, Simon'. 'Love, Victor' sigue a Victor, un nuevo estudiante de Creekwood High School en su autodescubrimiento, enfrentándose a problemas en casa, adaptándose a una nueva ciudad y descubriendo su orientación sexual. Cuando todo se le está haciendo difícil, se acerca a Simon para que le ayude a lidiar con los altibajos de su vida.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7216636",
+      "type": "series",
+      "name": "Hazbin Hotel",
+      "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
+      "description": "En un intento por encontrar una alternativa no violenta para reducir la superpoblación del infierno, la hija de Lucifer abre un hotel de rehabilitación que ofrece a un grupo de demonios inadaptados una oportunidad de redención.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei Jobless Reincarnation",
+      "poster": "https://image.tmdb.org/t/p/w500/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "description": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10234724",
+      "type": "series",
+      "name": "Moon Knight",
+      "poster": "https://image.tmdb.org/t/p/w500/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+      "description": "Steven Grant parecía llevar una vida sin sobresaltos hasta que la realidad empezó a desmoronarse a sus pies, rodeado de pesadillas de otra vida: la del mercenario Marc Spector. Además de múltiples personalidades, ahora tiene enemigos brutales que lo persiguen, y un misterio mortal que resolver con los dioses del antiguo Egipto.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12311976",
+      "type": "series",
+      "name": "TONIKAWA: Over The Moon For You",
+      "poster": "https://image.tmdb.org/t/p/w500/fy0mtGho6qwjcNZOkTGeQZe93NP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rnf2BDKeF1sxPEPhAcdvL0auuxr.jpg",
+      "description": "La comedia romántica sigue a un chico llamado Nasa quien conoce a la hermosa chica Tsukasa el día de su ingreso a la preparatoria, e inmediatamente se enamora de ella. Nasa le confiesa sus sentimientos, pero ella le responde que solo saldrá con él si se casan.\n\nAños después, cuando Nasa cumple 18 años, Tsukasa aparece de nuevo en su vida solicitándole el prometido matrimonio. Así comenzará su vida de recién casados.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12451520",
+      "type": "series",
+      "name": "Está bien no estar bien",
+      "poster": "https://image.tmdb.org/t/p/w500/yGoQugW6v16jdK32JNhMpHl1aCo.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+      "description": "Una historia sobre un empleado de una sala psiquiátrica y una mujer, con un trastorno de personalidad antisocial, que es una escritora popular de libros infantiles. Un hombre que niega el amor y una mujer que no conoce el amor desafían el destino y se enamoran, encontrando sus almas e identidades en el proceso.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1751634",
+      "type": "series",
+      "name": "Sandman",
+      "poster": "https://image.tmdb.org/t/p/w500/qXwLYsSmUUoEixbjyhCsDeihEWv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
+      "description": "Luego de años de reclusión, el Rey del Sueño emprende un viaje a través de los mundos para recuperar lo que le robaron y restaurar su poder.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14452776",
+      "type": "series",
+      "name": "El Oso",
+      "poster": "https://image.tmdb.org/t/p/w500/5TZnk9ryzfcNlsCOghURfZsBong.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+      "description": "Un joven chef lucha para transformar una tienda de sándwiches junto con un equipo de cocina tosco.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt15435876",
+      "type": "series",
+      "name": "El Pingüino",
+      "poster": "https://image.tmdb.org/t/p/w500/mW2qLgX1Z336obi5rWKQFaKw98n.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+      "description": "Miniserie dramática que cuenta el ascenso al poder del Pingüino en el inframundo criminal de Gotham, después de los asesinatos de Riddler.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11737520",
+      "type": "series",
+      "name": "ONE PIECE",
+      "poster": "https://image.tmdb.org/t/p/w500/gCZ18cl7Pc4tgiwMPWHTgjABrhy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+      "description": "Acompañado de su ecléctica tripulación, el joven pirata Monkey D. Luffy emprende un viaje en busca de un tesoro legendario.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Operativo: Lioness",
+      "poster": "https://image.tmdb.org/t/p/w500/6bnJo6DHzzEZOs9SnECCA1EGRgE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+      "description": "Joe intenta equilibrar su vida personal y profesional como punta de lanza de la CIA en la guerra contra el terrorismo. El Programa Lioness recluta a Cruz para que opere de incógnito junto a Joe entre los poderosos del terrorismo de Estado.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt19244304",
+      "type": "series",
+      "name": "IT: Bienvenidos a Derry",
+      "poster": "https://image.tmdb.org/t/p/w500/vC6LSYC8uhZPkPM01L6HKrr1lMD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+      "description": "En 1958, un grupo de siete amigos están empezando a ver cosas extrañas en el tranquilo pueblito Derry. Con el tiempo, descubren que todos estaban viendo lo mismo: un ser sobrenatural y malvado que puede adoptar muchas formas.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12540080",
+      "type": "series",
+      "name": "Oscuro deseo",
+      "poster": "https://image.tmdb.org/t/p/w500/2sxCw7lxapStXc2phzcJCR6LGRL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9CBdzw7CK2m6WpfEfqe73V8i5O0.jpg",
+      "description": "Alma, una mujer casada, vive una escapada de fin de semana que enciende una pasión, desencadena una desgracia y la hace dudar de su círculo más íntimo.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10155688",
+      "type": "series",
+      "name": "Mare of Easttown",
+      "poster": "https://image.tmdb.org/t/p/w500/6ZutgKZZfCstXKm3hifLHWz9cWf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
+      "description": "Una detective de un pequeño pueblo de Pennsylvania investiga un asesinato local mientras intenta que su vida no se desmorone.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10383046",
+      "type": "series",
+      "name": "Veneno",
+      "poster": "https://image.tmdb.org/t/p/w500/cXVbEJ88JmIkibl84F80irRVe6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+      "description": "Valeria está por embarcarse en la aventura de su vida cuando conoce a su ídola, la incomparable ícono trans Cristina \"La Veneno\".",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10062292",
+      "type": "series",
+      "name": "Yo nunca",
+      "poster": "https://image.tmdb.org/t/p/w500/4qc9dA6ZeTFVxKfYQrv5EvzVwqo.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/umVYLVZ7T85TkIHudxK799lPnLQ.jpg",
+      "description": "Una comedia de paso a la madurez sobre la vida de una adolescente estadounidense de origen indio de primera generación, inspirada en la infancia de Mindy Kaling, productora y guionista de la serie.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9446688",
+      "type": "series",
+      "name": "Esta mierda me supera",
+      "poster": "https://image.tmdb.org/t/p/w500/wk5yV5egUipGsnDlSnf3UMC6xRL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/d77WPPNbuvyGJJ675UFokVmOKHb.jpg",
+      "description": "Syd se enfrenta al caos de la escuela, los dramas familiares y el amor no correspondido que siente por su mejor amiga mientras intenta controlar sus nuevos poderes.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8420184",
+      "type": "series",
+      "name": "El último baile",
+      "poster": "https://image.tmdb.org/t/p/w500/i0Z2BDyuvALdAYQAdXVsyUiDvCp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kY0h95L73t7a6ev6Rv0aHSCtN7y.jpg",
+      "description": "Esta docuserie de 10 episodios repleta de material inédito de la temporada 1997-98 muestra la carrera de Jordan y la trayectoria de los Chicago Bulls en los años 90.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://image.tmdb.org/t/p/w500/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "description": "Inspirado en las aventuras de Arsène Lupin, el caballeroso ladrón Assane Diop se propone vengar a su padre de las injusticias sufridas a manos de una familia adinerada.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2304589",
+      "type": "series",
+      "name": "Defending Jacob",
+      "poster": "https://image.tmdb.org/t/p/w500/8u0JR1PumtngQfuOF8T8AnCn91e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wGPbGjNmFhkT9uTWDX4b06FMd45.jpg",
+      "description": "La vida de una familia entra en crisis cuando el hijo es acusado de asesinar a un compañero de clase.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11612120",
+      "type": "series",
+      "name": "Dulce hogar",
+      "poster": "https://image.tmdb.org/t/p/w500/MIcVR5JVNBjvmd6xW6xnNbory5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+      "description": "Cuando los humanos se transforman en monstruos feroces y siembran el terror, un adolescente atormentado y sus vecinos luchan por sobrevivir... y aferrarse a su humanidad.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13196080",
+      "type": "series",
+      "name": "Tokyo Revengers",
+      "poster": "https://image.tmdb.org/t/p/w500/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jnThpphOHQRiTedCtz1yyshfkHw.jpg",
+      "description": "Takemichi es un desempleado de 26 años que descubre que la chica con la que salió en secundaria, la que fue su única novia, ha muerto. Tras eso sufre un accidente del cual, al despertar, descubre que se ha transportado a sus años de secundaria. Con ello Takemichi jura que cambiará el futuro y salvará a la chica, y para hacerlo necesita llegar a ser el líder de la banda de delincuentes más salvaje y brutal de Kanto.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14664414",
+      "type": "series",
+      "name": "Jóvenes altezas",
+      "poster": "https://image.tmdb.org/t/p/w500/69UFOFctnHpu7i7CDZO9QUiHYrK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lWkS3ygISl4tRHpcvWHWySG1Uxz.jpg",
+      "description": "El príncipe Wilhelm se adapta a la vida en el prestigioso internado Hillerska. Allí se da cuenta de que seguir su corazón es más difícil de lo que había pensado.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10436228",
+      "type": "series",
+      "name": "Jurassic World: Campamento Cretácico",
+      "poster": "https://image.tmdb.org/t/p/w500/sHMeoaJaPbGIBYxvcydTvzBNgKU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4WIglfr4lDFVjCEcXzCeu6cJsOh.jpg",
+      "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Animación",
+        "Kids",
+        "Action & Adventure",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31938062",
+      "type": "series",
+      "name": "The Pitt",
+      "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "description": "El personal del Centro Médico de Traumatismo de Pittsburgh trabaja para salvar vidas en un servicio de urgencias saturado y sin fondos suficientes.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10813940",
+      "type": "series",
+      "name": "Ginny y Georgia",
+      "poster": "https://image.tmdb.org/t/p/w500/n5ZUgeJG8n7uVvcV2TOP9jMxd1q.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lPmUu3xkoksz3xsa1feIUoOBZrg.jpg",
+      "description": "La independiente Georgia y sus hijos, Ginny y Austin, se mudan al norte para empezar de cero, pero encuentran que el camino hacia un nuevo comienzo está lleno de baches.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13103134",
+      "type": "series",
+      "name": "Horimiya",
+      "poster": "https://image.tmdb.org/t/p/w500/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ldUbhEbyI28M6PiAkL0hZ2o8bOT.jpg",
+      "description": "A primera vista, la ultra popular Hori-san parece una chica frívola de secundaria, pero en realidad es sencilla, pragmática y orientada a la familia. Por otro lado, el Miyamura-kun con gafas parece un fanático promedio y sombrío de la escuela secundaria, pero en realidad es un joven atractivo que tiene una racha de chico malo y está cubierto de piercings y tatuajes. Cuando estos dos compañeros de clase inesperadamente similares tienen un encuentro al azar fuera del aula, ¡comienza una dulce y burbujeante historia de la vida escolar!",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13668894",
+      "type": "series",
+      "name": "El libro de Boba Fett",
+      "poster": "https://image.tmdb.org/t/p/w500/4bffB2YV4UxNfEifp4HxdhfJulK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg",
+      "description": "El legendario cazarrecompensas Boba Fett y la mercenaria Fennec Shand navegan por el lado criminal de la galaxia de regreso a las arenas de Tatooine para reclamar su derecho al territorio que solía gobernar Jabba el Hutt y su sindicato del crimen.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7440726",
+      "type": "series",
+      "name": "Su Señoría",
+      "poster": "https://image.tmdb.org/t/p/w500/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t73x5Pb81mIGZR417aeGwbkR520.jpg",
+      "description": "Un joven adolescente atropella mortalmente a un motorista de forma accidental y se da a la fuga. Su padre, un respetado juez de la ciudad de Nueva Orleans, decide proteger a su hijo.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt27497448",
+      "type": "series",
+      "name": "El caballero de los Siete Reinos",
+      "poster": "https://image.tmdb.org/t/p/w500/vd1Qw2E8fgRVzeoCkeZBGUCHOyS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+      "description": "Ambientada en una época en la que el linaje Targaryen todavía ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, enemigos poderosos y hazañas peligrosas esperan a estos improbables e incomparables amigos.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "El señor de los anillos: Los anillos de poder",
+      "poster": "https://image.tmdb.org/t/p/w500/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o2wg8QiSCQrhj91tBfxunE3O5Ba.jpg",
+      "description": "Comenzando en un tiempo relativamente pacífico, acompañamos a un grupo de personajes mientras enfrentan el resurgimiento del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta el majestuoso bosque de Lindon, la imponente isla de Númenor y los rincones más lejanos del mapa, estos reinos y personajes darán lugar a legados que perdurarán en el tiempo.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13433812",
+      "type": "series",
+      "name": "Vincenzo",
+      "poster": "https://image.tmdb.org/t/p/w500/mWYW3xNeV2IM06aUl2xMUdLicpa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+      "description": "A la edad de 8 años, Park Joo Hyung fue a Italia después de ser adoptado. Ahora es adulto y se llama Vincenzo Cassano, es abogado y trabaja para la mafia como consejero. Debido a una guerra entre grupos de la mafia, huye a Corea del Sur. Cuando llega a Corea del Sur, se involucra con la abogada Hong Cha Young. Ella es el tipo de abogada que hará cualquier cosa para ganar un caso. Vincenzo Cassano se enamora de ella y también logra la justicia social a su manera.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7462410",
+      "type": "series",
+      "name": "La rueda del tiempo",
+      "poster": "https://image.tmdb.org/t/p/w500/zdl0E5MNIxGJUR2zaSWNa1G7cD9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
+      "description": "Las vidas de cuatro jóvenes cambian para siempre cuando una desconocida llega a su aldea afirmando que uno de ellos es la encarnación de una antigua profecía y tiene el poder de inclinar la balanza entre la Luz y la Oscuridad. Deberán decidir si dejar en manos de la desconocida (y de ellos mismos) el destino del mundo antes de que el Oscuro escape de su prisión y comience la Última Batalla.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10375568",
+      "type": "series",
+      "name": "Vis a Vis: El Oasis",
+      "poster": "https://image.tmdb.org/t/p/w500/7EOWkNGxXq2MBZxfV3ZxjRM4vlH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7wm4CH6LbsFul4wWmmfXGcStVsk.jpg",
+      "description": "Tras unos años dedicándose a atracar joyerías, bancos y casinos, llega el momento de que Macarena y Zulema se separen. Para ello, deciden preparar un último atraco que tendrá como objetivo robarle una tiara de diamantes a la hija de un importante narco mexicano durante la boda de la joven. Las dos fugitivas contarán con la ayuda de Goya, Mónica, Triana y Flaca para realizar este trabajo y hacerse con el botín.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt24053860",
+      "type": "series",
+      "name": "El Chacal",
+      "poster": "https://image.tmdb.org/t/p/w500/faqXSU7eXffSxtyIX4EGyCITQpQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+      "description": "El Chacal, un escurridizo y solitario asesino sin rival, se gana la vida trabajando para el mejor postor. Sin embargo, tras su último asesinato, su camino se cruza con el de una tenaz agente de inteligencia británica que empieza a seguirle la pista en una emocionante persecución a través de Europa, dejando un rastro de destrucción a su paso.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "Tierra de Mafia",
+      "poster": "https://image.tmdb.org/t/p/w500/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "description": "El poder está en juego cuando dos familias criminales rivales se enfrentan y arriesgan sus imperios y sus vidas. En el fuego cruzado está Harry Da Souza, un astuto \"solucionador\" que sabe dónde están las lealtades cuando las fuerzas opuestas chocan.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10293938",
+      "type": "series",
+      "name": "Outer Banks",
+      "poster": "https://image.tmdb.org/t/p/w500/hOb5vSaMq4JLcobvguwKpj4qxrO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fGk5GVPP7qfEHr8b9pzS6AWsOmV.jpg",
+      "description": "En una isla de ricos y pobres en Carolina del Norte, John B. y su sólido grupo de amigos encuentran misterios y aventuras mientras buscan un tesoro perdido.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Action & Adventure",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14164730",
+      "type": "series",
+      "name": "Dexter: New Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+      "description": "Ambientada 10 años después de que Dexter desapareciera en el ojo del huracán Laura, la serie lo encuentra viviendo con un nombre falso en la pequeña ciudad de Iron Lake, Nueva York. Dexter puede estar abrazando su nueva vida, pero a raíz de eventos inesperados en esta comunidad unida, su Oscuro Pasajero lo llama.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9059760",
+      "type": "series",
+      "name": "Gente Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/8nol7cxQHqLRMsclMm2HbLucZ2X.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w8rTBScgj2MON7eGN7raoU5qChJ.jpg",
+      "description": "Desde la escuela a la universidad, Normal People sigue a Connell y Marianne mientras entretejen sus vidas en un programa que explora lo complicado que puede ser el amor joven.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31806037",
+      "type": "series",
+      "name": "Adolescencia",
+      "poster": "https://image.tmdb.org/t/p/w500/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
+      "description": "Cuando un chico de 13 años es acusado de asesinar a una compañera de clase, su familia, su terapeuta y el detective a cargo se preguntan qué pasó en realidad.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8179402",
+      "type": "series",
+      "name": "Destino: La saga Winx",
+      "poster": "https://image.tmdb.org/t/p/w500/pmXe8yBJJ9WdyYIXxJ3unmwH7v2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1DmAeDIAN6nvVpgTqiurDPUwuj7.jpg",
+      "description": "Un grupo de estudiantes de la escuela de magia Alfea aprende a dominar sus poderes mientras lidia con rivalidades, romances y sucesos sobrenaturales.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0804484",
+      "type": "series",
+      "name": "Fundación",
+      "poster": "https://image.tmdb.org/t/p/w500/9kxffO5nrGBCw8pQoKEVx7q0VW7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+      "description": "Fundación retrata a un grupo de exiliados de la galaxia en su épica misión de salvar a la humanidad y reconstruir la civilización.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18923754",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "poster": "https://image.tmdb.org/t/p/w500/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+      "description": "Matt Murdock, un abogado ciego con habilidades especiales, lucha por la justicia a través de su ajetreado bufete, mientras que el ex jefe de la mafia Wilson Fisk persigue sus propios objetivos políticos en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos hombres se encuentran en una inevitable colisión.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13370404",
+      "type": "series",
+      "name": "Kaifuku Jutsushi no Yarinaoshi",
+      "poster": "https://image.tmdb.org/t/p/w500/fNj0XTjXX9P8iBTOUHZk5jU0zYH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/e30T3teKp6VZlIXhI0AhTDksvoy.jpg",
+      "description": "La historia de fantasía y venganza la protagoniza Keyar, un sanador utilizado y despreciado por sus compañeros de aventura, quienes lo consideran un lastre dado que los sanadores no pueden pelear solos. Sin embargo, cuando usa su magia definitiva y \"cura\" al mismísimo mundo, regresa cuatro años atrás para poder rehacer su vida.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13991232",
+      "type": "series",
+      "name": "1883",
+      "poster": "https://image.tmdb.org/t/p/w500/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+      "description": "Acompañe a la familia Dutton en un viaje hacia el lejano oeste, un recorrido a través de las Grandes Llanuras hasta el último bastión de la América salvaje.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12708542",
+      "type": "series",
+      "name": "Star Wars: The Bad Batch",
+      "poster": "https://image.tmdb.org/t/p/w500/dmF2LqFb1Aj8jRktPdYapP7fWyx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sjxtIUCWR74yPPcZFfTsToepfWm.jpg",
+      "description": "Sigue a los Clones experimentales y de élite conocidos como \"El Lote Malo\" mientras encuentran su camino en una galaxia que cambia rápidamente después de la Guerra de los Clones.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12809988",
+      "type": "series",
+      "name": "Sweet Tooth",
+      "poster": "https://image.tmdb.org/t/p/w500/s6fj4CUqv23t7EUNad9bQ4seqae.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg",
+      "description": "En una épica aventura por un mundo posapocalíptico, un adorable niño mitad humano y mitad venado busca a su familia y un hogar acompañado de un arisco protector.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12940504",
+      "type": "series",
+      "name": "Mi nombre",
+      "poster": "https://image.tmdb.org/t/p/w500/vq8rWq969D2YloR7E0wsk1gA9we.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/x0eIZv8bJYjfTu7VkTOxHU8B91c.jpg",
+      "description": "Tras el asesinato de su padre, una mujer con sed de venganza se pone a las órdenes de un poderoso jefe criminal y se une al cuerpo de policía.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10323338",
+      "type": "series",
+      "name": "9-1-1: Lone Star",
+      "poster": "https://image.tmdb.org/t/p/w500/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bBziqQXj6ELvVCpPfxGM9OWJpWa.jpg",
+      "description": "Un bombero de Nueva York se muda a Austin, Texas, con su hijo, donde salva vidas al mismo tiempo que intenta solucionar sus problemas personales.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12464182",
+      "type": "series",
+      "name": "Uzaki-chan Wants to Hang Out!",
+      "poster": "https://image.tmdb.org/t/p/w500/uUU2BTMXaX5g09lDP6pAbsN8EG5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kvSyOSTiLB4FVxV0m4IakctfiK5.jpg",
+      "description": "Shinichi Sakurai es un estudiante universitario cuyo único deseo es disfrutar de una vida tranquila y en soledad. Sin embargo, su paz se ve interrumpida por Hana Uzaki, una enérgica y ruidosa compañera de sus años de preparatoria. Fastidiada por ver a su \"senpai\" pasar los días solo, Uzaki decide tomar el control y arrastrarlo a todo tipo de situaciones disparatadas. Entre burlas constantes y malentendidos cotidianos, lo que comenzó como una molesta intrusión irá transformándose poco a poco en una entrañable y divertida relación.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2235759",
+      "type": "series",
+      "name": "The Great: La Grande",
+      "poster": "https://image.tmdb.org/t/p/w500/AlTkcgEmw25OFYyrBbjEbez5kk1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+      "description": "Serie que relata el ascenso al poder de Catalina la Grande (Catalina II de Rusia), que fue emperatriz de Rusia durante 34 años, desde el 1762 hasta su muerte a los 67 años. Catalina se verá obligada a elegir entre su propia felicidad personal y el futuro de Rusia, cuando se casa con un emperador.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2403776",
+      "type": "series",
+      "name": "Sombra y hueso",
+      "poster": "https://image.tmdb.org/t/p/w500/1Ok36olOn9HXOUlFdlOYngItmxX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg",
+      "description": "Fuerzas oscuras conspiran contra Alina Starkov, una cartógrafa huérfana con un poder extraordinario que podría cambiar el destino de su devastado mundo.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11448214",
+      "type": "series",
+      "name": "Rent-a-Girlfriend",
+      "poster": "https://image.tmdb.org/t/p/w500/1xhXRBPBwbTYj8AsUHFdhSjj1z7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ullfy98STkno11rDGi44SK6llwx.jpg",
+      "description": "Kazuya Kinoshita es un joven universitario de 20 años que tras conseguir novia, pudo besarla, ¡pero lo dejó tras solo un mes!. \"Maldita sea, no quiero tener que volver a pasar por eso\".\n\nDesesperado, recurre a un método muy particular para tener por fin una cita: solicitar una novia de alquiler. Cuando llega al punto de encuentro le espera una chica: \"Eres Kazuya, ¿verdad?\". Es una chica preciosa de pelo negro y largo que le sonríe con ternura. La chica es Chizuru Mizuhara. ¡Y de esa cita de alquiler nace algo real! Una comedia romántica repleta de amor y emoción da comienzo.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14016500",
+      "type": "series",
+      "name": "El verano en que me enamoré",
+      "poster": "https://image.tmdb.org/t/p/w500/wDeFJIE5chr2P8iKW6HjyHKNm8x.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
+      "description": "Drama multigeneracional que gira en torno a un triángulo amoroso entre una chica y dos hermanos, las relaciones cambiantes entre madres e hijos, y el poder duradero de una fuerte amistad femenina. Es una historia de madurez sobre el primer amor, el primer desamor y la magia de un verano perfecto.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7826376",
+      "type": "series",
+      "name": "Upload",
+      "poster": "https://image.tmdb.org/t/p/w500/6TPGDrU9MyWbn2TpggJphVAVXiq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/moH3PdysmUl8vrsYVM4l2ZZiRAd.jpg",
+      "description": "Año 2033. Las personas que están cerca de la muerte pueden ser subidas a una vida futura virtual que ellos elijan. Nora, una joven nacida en Brooklyn, trabaja en atención al cliente de un lujoso entorno de realidad virtual. El coche de un joven de Los Ángeles, Nathan, se queda colgado y su novia lo sube permanentemente al mundo de realidad virtual donde trabaja Nora. Mientras que Nathan intenta acostumbrarse a una vida lejos de sus seres queridos, Nora lucha por mantenerse a flote trabajando junto a él en el más allá.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11743610",
+      "type": "series",
+      "name": "La lista terminal",
+      "poster": "https://image.tmdb.org/t/p/w500/90mQFRWXolU8wS2kCqYvO3LIbHX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "description": "El Teniente Comandante James Reece recurre a la venganza mientras investiga las misteriosas fuerzas detrás del asesinato de todo su pelotón. Libre de la estructura de mando militar, Reece aplica las lecciones aprendidas durante casi dos décadas de guerra para dar caza a los responsables.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9059350",
+      "type": "series",
+      "name": "Warrior Nun",
+      "poster": "https://image.tmdb.org/t/p/w500/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eLQx33dMaa5mW16TFIZbhaeSqer.jpg",
+      "description": "Una joven huérfana despierta en una morgue y descubre que una secta secreta de monjas cazademonios le ha conferido superpoderes. Ahora es la elegida: la portadora del halo. Esta serie de fantasía basada en el cómic manga de Ben Dunn se ha rodado en España y cuenta con actores patrios como Tristán Ulloa.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3007572",
+      "type": "series",
+      "name": "Locke & Key",
+      "poster": "https://image.tmdb.org/t/p/w500/OPL8TSMru7vqbxk8TwfBWCxByz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+      "description": "Tras el asesinato de su padre, tres hermanos se mudan con su madre al hogar donde él creció: una mansión repleta de llaves mágicas que guardan poderes y secretos.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

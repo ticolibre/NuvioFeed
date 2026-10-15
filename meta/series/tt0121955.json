@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0121955",
+    "type": "series",
+    "name": "South Park",
+    "poster": "https://image.tmdb.org/t/p/w500/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "description": "Cuatro niños (Stan, Kyle, Cartman y Kenny) irreverentes de primaria viven grandes y surrealistas desventuras en la tranquila y disfuncional pueblo South Park, Colorado.",
+    "releaseInfo": "1997",
+    "genres": [
+      "Comedia",
+      "Animación"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    }
+  }
+}

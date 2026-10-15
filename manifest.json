@@ -329,6 +329,61 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "series",
+      "id": "top-2020s-series",
+      "name": "Top 2020s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-2010s-series",
+      "name": "Top 2010s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-2000s-series",
+      "name": "Top 2000s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-1990s-series",
+      "name": "Top 90s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-1980s-series",
+      "name": "Top 80s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "config": [
