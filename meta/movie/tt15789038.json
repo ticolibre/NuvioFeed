@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt15789038",
+    "type": "movie",
+    "name": "Elementos",
+    "poster": "https://image.tmdb.org/t/p/w500/haKaoR9bfFJLoZSYyk2lLApNbcp.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+    "description": "En una ciudad en la que conviven el fuego, el agua, la tierra y el aire, una joven llena de fuego y un tipo que fluye descubrirán lo mucho que tienen en común.",
+    "releaseInfo": "2023",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

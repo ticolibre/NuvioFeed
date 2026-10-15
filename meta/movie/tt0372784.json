@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0372784",
+    "type": "movie",
+    "name": "Batman inicia",
+    "poster": "https://image.tmdb.org/t/p/w500/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+    "description": "Después de entrenar con su mentor, Batman comienza su lucha para liberar a Ciudad Gótica de la corrupción.",
+    "releaseInfo": "2005",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Acción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    }
+  }
+}

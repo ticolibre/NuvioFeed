@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt18412256",
+    "type": "movie",
+    "name": "Alien: Romulus",
+    "poster": "https://image.tmdb.org/t/p/w500/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+    "description": "Mientras exploran en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentran cara a cara con la forma de vida más aterradora del universo.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

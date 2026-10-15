@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt6473066",
+    "type": "movie",
+    "name": "Clouds",
+    "poster": "https://image.tmdb.org/t/p/w500/2YvT3pdGngzpbAuxamTz4ZlabnT.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/L7DIiAdP8DnNqOh7454ZrTYspR.jpg",
+    "description": "El joven músico Zach Sobiech descubre que el cáncer se ha expandido, dejándole solamente unos meses de vida. Con el tiempo limitado, sigue su sueño y graba un álbum, sin saber que se convertirá en un fenómeno musical. Al final, la música le da un nuevo sentido a la vida de Zach y le ayuda a encontrar la forma perfecta de decir adiós…",
+    "releaseInfo": "2020",
+    "genres": [
+      "Música",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    }
+  }
+}

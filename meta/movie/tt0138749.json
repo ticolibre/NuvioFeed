@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tt0138749",
+    "type": "movie",
+    "name": "El camino hacia El Dorado",
+    "poster": "https://image.tmdb.org/t/p/w500/9hHCyknihY5M4S4ljxveBRZA9Sj.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+    "description": "Dos estafadores consiguen un mapa que lleva a la legendaria ciudad del oro, El Dorado.",
+    "releaseInfo": "2000",
+    "genres": [
+      "Familia",
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

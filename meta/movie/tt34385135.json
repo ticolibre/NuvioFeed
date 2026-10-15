@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt34385135",
+    "type": "movie",
+    "name": "Zona Cero",
+    "poster": "https://image.tmdb.org/t/p/w500/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
+    "description": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Terror",
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    }
+  }
+}

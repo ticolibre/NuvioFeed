@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2726560",
+    "type": "movie",
+    "name": "El viaje más largo",
+    "poster": "https://image.tmdb.org/t/p/w500/fBIqn0Qa1rctlZfIeW1AICgS3Hm.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/fLgQ6bf9RKywpZckiEtAPnY3DLr.jpg",
+    "description": "Historia de amor entre Luke, un antiguo campeón de rodeo buscando su vuelta a la competición, y Sophia, una estudiante a punto de embarcarse en su sueño de trabajar en el mundo del arte en Nueva York.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

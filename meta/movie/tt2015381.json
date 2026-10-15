@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt2015381",
+    "type": "movie",
+    "name": "Guardianes de la galaxia",
+    "poster": "https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+    "description": "Peter Quill, debe mantener una incomoda alianza con Gamora, Drax, Rocket y Groot para asegurar un artefacto que pone en peligro a toda la galaxia no caiga en las manos del temible Ronan el Acusador.",
+    "releaseInfo": "2014",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt3480822",
+    "type": "movie",
+    "name": "Black Widow",
+    "poster": "https://image.tmdb.org/t/p/w500/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+    "description": "Natasha Romanoff, también conocida como Black Widow, se enfrenta a lo más oscuro de sus cuentas pendientes cuando surge una peligrosa conspiración que tiene lazos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, debe lidiar con su historia como espía y con las relaciones rotas que dejó a su paso mucho antes de convertirse en parte de los Vengadores.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

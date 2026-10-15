@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt7846844",
+    "type": "movie",
+    "name": "Enola Holmes",
+    "poster": "https://image.tmdb.org/t/p/w500/8STWO9pUTqubPV04iXZ2R6SClME.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+    "description": "Cuando su madre desaparece, la joven Enola descubre que sus hermanos, Sherlock y Mycroft, no son de gran ayuda. Pero ella es una auténtica Holmes y resolverá el caso.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Aventura",
+      "Misterio",
+      "Crimen"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt3606756",
+    "type": "movie",
+    "name": "Los increíbles 2",
+    "poster": "https://image.tmdb.org/t/p/w500/bJjc0217DuipdwJ0wyi3I4j6soR.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+    "description": "La familia de Los Increíbles emprende una nueva misión que implica un cambio en los roles familiares: Bob Parr (Mr. Increíble) debe administrar la casa mientras su esposa Helen (Elastigirl) sale a salvar el mundo.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Animación",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

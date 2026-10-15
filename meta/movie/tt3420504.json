@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt3420504",
+    "type": "movie",
+    "name": "Finch",
+    "poster": "https://image.tmdb.org/t/p/w500/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
+    "description": "Finch es un inventor que emprende una emocionante travesía en busca de un nuevo hogar para la peculiar familia que forma junto a su perro y un robot de su creación.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    }
+  }
+}

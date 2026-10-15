@@ -274,6 +274,39 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "movie",
+      "id": "top-2020s",
+      "name": "Top 2020s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-2010s",
+      "name": "Top 2010s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-2000s",
+      "name": "Top 2000s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "config": [
