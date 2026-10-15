@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0110475",
+    "type": "movie",
+    "name": "La Máscara",
+    "poster": "https://image.tmdb.org/t/p/w500/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "description": "Cuando el tímido empleado bancario, Stanley Ipkiss, descubre una máscara mágica que contiene el espíritu del dios nórdico Loki, su vida cambia por completo.",
+    "releaseInfo": "1994",
+    "genres": [
+      "Comedia",
+      "Fantasía",
+      "Crimen",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    }
+  }
+}

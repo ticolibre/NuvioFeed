@@ -1,0 +1,4311 @@
+{
+  "metas": [
+    {
+      "id": "tt0088763",
+      "type": "movie",
+      "name": "Volver al Futuro",
+      "poster": "https://image.tmdb.org/t/p/w500/acNRGwBz22E2m5OEWOhS8RiqiXM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "description": "El adolescente de los ochenta Marty McFly es enviado accidentalmente al pasado, a 1955, interrumpiendo sin darse cuenta el primer encuentro de sus padres y atrayendo el interés romántico de su madre. Marty debe reparar el daño a la historia reavivando el romance de sus padres y, con la ayuda de su excéntrico amigo inventor Doc Brown, regresar a 1985.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080684",
+      "type": "movie",
+      "name": "El Imperio contraataca",
+      "poster": "https://image.tmdb.org/t/p/w500/zsZwahm4ktZPKX0B494CxqhbBhu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081505",
+      "type": "movie",
+      "name": "El resplandor",
+      "poster": "https://image.tmdb.org/t/p/w500/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "description": "Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097165",
+      "type": "movie",
+      "name": "La Sociedad de los Poetas Muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/1ZxpicszG54X05A1BccRo51Wgg4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del \"carpe diem\" -aprovechar el día- y la importancia vital de luchar por alcanzar los sueños, gracias al Sr. Keating, un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086250",
+      "type": "movie",
+      "name": "Caracortada",
+      "poster": "https://image.tmdb.org/t/p/w500/wemlYqPEbPXmolbv2I9tPwIrD3C.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+      "description": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086190",
+      "type": "movie",
+      "name": "El regreso del Jedi",
+      "poster": "https://image.tmdb.org/t/p/w500/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+      "description": "Para ir a Tatooine y liberar a Han Solo, Luke Skywalker y la princesa Leia deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para atraer a Luke al lado oscuro, pero el joven está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica termina con un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083658",
+      "type": "movie",
+      "name": "Blade Runner",
+      "poster": "https://image.tmdb.org/t/p/w500/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
+      "description": "Rick Deckard deambula por la jungla de acero y microchips de la ciudad de Los Angeles del siglo XXI. Su misión: buscar androides genéticos criminales. Su orden: matarlos. Su delito: querer ser humanos.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Ciencia ficción",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093058",
+      "type": "movie",
+      "name": "Cara de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/bIGzF9jkdYLTE6T6l60aJxnCyX1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+      "description": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082971",
+      "type": "movie",
+      "name": "Los cazadores del arca perdida",
+      "poster": "https://image.tmdb.org/t/p/w500/1bEjZuGCNAkbWY6fqSyDsn46cen.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+      "description": "Año 1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Aventura",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096874",
+      "type": "movie",
+      "name": "Volver al Futuro 2",
+      "poster": "https://image.tmdb.org/t/p/w500/ygKImi2jzm0j00W3JXBxvxdUM8n.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+      "description": "Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090605",
+      "type": "movie",
+      "name": "Aliens: El Regreso",
+      "poster": "https://image.tmdb.org/t/p/w500/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "description": "La teniente Ripley regresa al planeta alienígena LV-426 con un equipo de marines para investigar la desaparición de una colonia. Pronto descubren que están en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra estas criaturas y la corrupta Corporación Weyland-Yutani.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095327",
+      "type": "movie",
+      "name": "La Tumba de las Luciérnagas",
+      "poster": "https://image.tmdb.org/t/p/w500/j3fQ6LePWbY41AUg4pYyNJW94Cd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+      "description": "Centrada en la ciudad de Kōbe, Japón, narra la dura historia de dos hermanos, Seita y Setsuko, y de su lucha desesperada por sobrevivir durante los últimos meses de la Segunda Guerra Mundial.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088247",
+      "type": "movie",
+      "name": "Terminator: El exterminador",
+      "poster": "https://image.tmdb.org/t/p/w500/y4jSWrykjrtfrxuvImpu857Qrxr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+      "description": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095016",
+      "type": "movie",
+      "name": "Duro de matar",
+      "poster": "https://image.tmdb.org/t/p/w500/2sWo0oNkEOnEHgu6xVBWlWkYNUA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "description": "En lo alto de la ciudad de Los Ángeles, un grupo terrorista se ha apoderado de un edificio, tomando a un grupo de personas como rehenes. Sólo un hombre, el policía de Nueva York John McClane, ha conseguido escapar del acoso terrorista. Aunque está solo y fuera de servicio, McClane se enfrentará a los secuestradores. Él es la única esperanza para los rehenes",
+      "releaseInfo": "1988",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096283",
+      "type": "movie",
+      "name": "Mi vecino Totoro",
+      "poster": "https://image.tmdb.org/t/p/w500/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+      "description": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa ,existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097576",
+      "type": "movie",
+      "name": "Indiana Jones 3: La Última Cruzada",
+      "poster": "https://image.tmdb.org/t/p/w500/5h45gK147AAJpLLC7Cicr597urz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+      "description": "En 1938, Indiana Jones es contratado por el empresario estadounidense Walter Donovan para encontrar el Santo Grial. Para su nueva misión, Indiana recibe la ayuda de la doctora Elsa Schneider, poco antes de enterarse de que su padre desapareció sin dejar rastro alguno. Para su sorpresa, Donovan y Elsa están relacionados con los nazis, y han sido ellos quienes han secuestrado al padre de Jones para obtener información acerca de la localización del Grial. Indiana recupera el diario privado de su padre, que contiene valiosa información sobre el cáliz sagrado, y consigue rescatar a este antes de conocer la ubicación de dicho objeto. Tras encontrarlo, Donovan y Elsa se lo arrebatan, en un intento por conseguir la inmortalidad, pero mueren en el acto por razones diferentes. Al final, Indiana y su padre se percatan de que su relación familiar es más importante que la búsqueda de la reliquia, y el Grial termina desapareciendo junto con el templo en el que se hallaba...",
+      "releaseInfo": "1989",
+      "genres": [
+        "Aventura",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087843",
+      "type": "movie",
+      "name": "Érase una vez en América",
+      "poster": "https://image.tmdb.org/t/p/w500/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
+      "description": "Principios del siglo XX. David Aaronson, un pobre chaval judío, conoce en los suburbios de Manhattan a Max, otro joven de origen hebreo dispuesto a llegar lejos por cualquier método. Entre ellos nace una gran amistad y, con otros colegas, forman una banda que prospera rápidamente, llegando a convertirse, en los tiempos de la Ley Seca (1920-1933), en unos importantes mafiosos.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084787",
+      "type": "movie",
+      "name": "La cosa del otro mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/jOXEzyeF9KwI3MENPSynXejvFig.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "description": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095765",
+      "type": "movie",
+      "name": "Cinema Paradiso",
+      "poster": "https://image.tmdb.org/t/p/w500/r3THaIn8doKSLUMA3qXQJPGyMnU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "description": "En los años previos a la llegada de la televisión (justo después del final de la Segunda Guerra Mundial), en un pequeño pueblo siciliano, el joven Toto vivía fascinado por el cine. Toto trata de entablar amistad con Alfredo, el proyeccionista del cine local, una persona muy irritable pero con un gran corazón. Todos estos hechos se presentan en forma de nostálgicos recuerdos de Toto que ha crecido hasta convertirse en un cineasta de éxito, y que revive a su infancia cuando recibe la noticia de que Alfredo ha muerto.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083866",
+      "type": "movie",
+      "name": "E.T. El Extraterrestre",
+      "poster": "https://image.tmdb.org/t/p/w500/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "description": "Obra maestra del cine que ha cautivado a audiencias de todas las edades desde su lanzamiento en 1982. Dirigida por Steven Spielberg, esta película narra la emotiva historia de la amistad entre un niño llamado Elliott y un adorable extraterrestre perdido en la Tierra. Con una combinación perfecta de aventura, emoción y magia cinematográfica, sigue siendo una experiencia inolvidable que continúa inspirando a generaciones.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088847",
+      "type": "movie",
+      "name": "El club de los cinco",
+      "poster": "https://image.tmdb.org/t/p/w500/sPsJixuIhp9oAZxkvL48KPxUNTt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg",
+      "description": "Cinco estudiantes de distinta educación, formación y gustos son castigados a pasar un sábado en el instituto en el que estudian. Pronto las desavenencias entre ellos aparecen, especialmente cuando el director que les vigila se ausenta del aula.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093773",
+      "type": "movie",
+      "name": "Depredador",
+      "poster": "https://image.tmdb.org/t/p/w500/2eQhRjAxmDsu9VeHHh0b4KdmnFB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+      "description": "Un grupo de mercenarios es contratado por la CIA para rescatar a unos pilotos que han sido apresados por la guerrilla en la selva centroamericana. La misión es un éxito, pero durante el viaje de regreso se dan cuenta de que algo misterioso e invisible está dándoles caza uno a uno. Ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092005",
+      "type": "movie",
+      "name": "Cuenta Conmigo",
+      "poster": "https://image.tmdb.org/t/p/w500/hlUOQHgZ1k4ba34r7vjgYI4r12g.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+      "description": "En un pequeño pueblo de Oregón, cuatro adolescentes se lanzan a la aventura de buscar a un muchacho desaparecido. Jugando a ser héroes, el inteligente Cornie, el rudo y sentimental Chris, el extravagante Teddy y el miedoso Vern se adentran en un ambiente hostil en el que deberán valerse por sí mismos.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087332",
+      "type": "movie",
+      "name": "Los Cazafantasmas",
+      "poster": "https://image.tmdb.org/t/p/w500/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+      "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa \"Los Cazafantasmas\", dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095953",
+      "type": "movie",
+      "name": "Cuando los Hermanos se Encuentran",
+      "poster": "https://image.tmdb.org/t/p/w500/2KygAn0ybrpBm0MROuxWMjwVN0w.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
+      "description": "En este papel que le valió el Oscar®, Dustin Hoffman al lado del rompecorazones de Hollywood Tom Cruise, nos ofrece una divertida y conmovedora historia de amor fraternal. El insensible Charlie Babbitt, espera recibir una enorme herencia tras la muerte de su alejado padre. Pero Raymond, su hermano mayor recluido en una institución y a quien prácticamente no conoce, es el único heredero. Raymond “es un sabio autista” con algunas habilidades mentales limitadas, pero con otras destrezas geniales. Cuando Charlie secuestra a Raymond, el recorrido a lo largo del país que los llevará hasta Los Ángeles, les enseña algunas lecciones para toda la vida. Así, mientras superan su mutua desconfianza, un fuerte lazo se forma al compartir recuerdos del pasado, problemas del presente y un posible y deslumbrante futuro juntos.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086879",
+      "type": "movie",
+      "name": "Amadeus",
+      "poster": "https://image.tmdb.org/t/p/w500/yMD3achn3e6tODrO65exYJNpa0I.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
+      "description": "La pelicula Amadeus nos presenta a Antonio Salieri, el músico más destacado de la corte del Emperador José II de Austria. Entregado completamente a la música, le promete a Dios humildad y castidad si, a cambio, conserva sus extraordinarias dotes musicales. Pero, después de la llegada a la corte de un joven llamado Wolfang Amadeus Mozart, Salieri queda relegado a un segundo plano. Enfurecido por la pérdida de protagonismo, hará todo lo posible para arruinar la carrera del músico de Salzburgo. Mientras tanto, Mozart, ajeno a las maquinaciones de Salieri, sorprende a todos con su genialidad como músico, pero también con sus excentricidades.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094226",
+      "type": "movie",
+      "name": "Los Intocables",
+      "poster": "https://image.tmdb.org/t/p/w500/scbTULzRWLoa7JPHYpbQ6qZvLp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+      "description": "Chicago, años 30. Época de la Ley Seca. El idealista agente federal Eliot Ness persigue implacablemente al gángster Al Capone, amo absoluto del crimen organizado en la ciudad. La falta de pruebas le impide acusarlo de asesinato, extorsión y comercio ilegal de alcohol, pero Ness, con la ayuda de un par de intachables policías reclutados con la ayuda de un astuto agente, intentará encontrar algún medio para inculparlo por otra clase de delitos.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Crimen",
+        "Historia",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094625",
+      "type": "movie",
+      "name": "Akira",
+      "poster": "https://image.tmdb.org/t/p/w500/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "description": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico conextraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087469",
+      "type": "movie",
+      "name": "Indiana Jones 2: El templo de la perdición",
+      "poster": "https://image.tmdb.org/t/p/w500/6NltnF1H8NazaQfMyoSE7sOg2QL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+      "description": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Aventura",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092067",
+      "type": "movie",
+      "name": "El castillo en el cielo",
+      "poster": "https://image.tmdb.org/t/p/w500/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
+      "description": "En esta aventura infantil, un joven minero y una misteriosa chica buscan una isla perdida que, según la leyenda, oculta grandes riquezas.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Animación",
+        "Acción",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081398",
+      "type": "movie",
+      "name": "Toro Salvaje",
+      "poster": "https://image.tmdb.org/t/p/w500/uTrGbVJMcINTZaMW3J6PJ7kZlV6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "description": "Jake la Motta es un joven boxeador que se entrena duramente con la ayuda de su hermano y mánager Joey. Su sueño es convertirse en el campeón de los pesos medios. Pero Jake es un paranoico muy violento que descarga su agresividad tanto dentro como fuera del ring. Incluso su hermano es víctima de su enfermizo carácter. Cuando, por fin, alcanza el éxito, su vida se convierte en una pesadilla. Por un lado, su matrimonio marcha cada vez peor debido a sus contantes salidas nocturnas con otras mujeres; por otro, la mafia lo presiona para que amañe combates.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097757",
+      "type": "movie",
+      "name": "La sirenita",
+      "poster": "https://image.tmdb.org/t/p/w500/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+      "description": "Una princesa sirena hace un pacto fáustico en un intento por convertirse en humana y ganar el amor de un príncipe.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080678",
+      "type": "movie",
+      "name": "El Hombre Elefante",
+      "poster": "https://image.tmdb.org/t/p/w500/zMjOG3SagxhVkbKkf4rklI5pwim.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6huSptAsqYg3wbsi1jbMognSgmp.jpg",
+      "description": "Un cirujano victoriano rescata a un hombre muy desfigurado y maltratado por su \"dueño\" como un fanático de los espectáculos secundarios. Detrás de su fachada monstruosa, se revela a una persona de gran inteligencia y sensibilidad. Basado en la historia real de Joseph Merrick (llamado John Merrick en la película), un hombre gravemente deformado en el siglo XIX en Londres.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094721",
+      "type": "movie",
+      "name": "Beetlejuice, el Superfantasma",
+      "poster": "https://image.tmdb.org/t/p/w500/bQ5cJ5OEFjUXqCfrherAgcDWYgK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+      "description": "Una pareja de fantasmas contratan a un \"bio-exorcista\" a sueldo para asustar a los intrusos que usurparon su hogar en Nueva Inglaterra.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083944",
+      "type": "movie",
+      "name": "Rambo",
+      "poster": "https://image.tmdb.org/t/p/w500/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+      "description": "Cuando John Rambo, el ex Bere Verde, es acosado por la policía local y arrestado por vagancia, el veterano de Vietnam escapa de la policía y corre por las colinas, donde se desarrolla una guerra ente Rambo y la policía de ese pueblo. Acosado por un incansable sheriff, Rambo emplea tácticas de guerrilla duras para sacudir a los policías.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091763",
+      "type": "movie",
+      "name": "Pelotón",
+      "poster": "https://image.tmdb.org/t/p/w500/sh1dRGFjbjwWMA6YfNms5N7OqIv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg",
+      "description": "Un joven soldado norteamericano es enviado a la frontera entre Vietnam y Camboya para incorporarse a un pelotón. Además de la crueldad de la guerra, tendrá que sufrir las difíciles relaciones con sus camaradas.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Bélica",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097814",
+      "type": "movie",
+      "name": "Kiki: Entregas a Domicilio",
+      "poster": "https://image.tmdb.org/t/p/w500/s3NfJ2oPuAcbd5PgLZ4QljvJ93G.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+      "description": "Kiki no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Kiki se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093779",
+      "type": "movie",
+      "name": "La Princesa Prometida",
+      "poster": "https://image.tmdb.org/t/p/w500/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/onACwa3TjpeaY7EVHSZZbeNkd2q.jpg",
+      "description": "En este cuento de hadas rajado de manera encantadora, la princesa hermosa Buttercup y Westley distinguido deben vencer probabilidades asombrosas para encontrar la felicidad entre esgrimidores de seis dedos, príncipes crueles, sicilianos y roedores de la talla extraña. Pero hasta la muerte no puede parar estas cotorras rizadas verdaderas de triunfar.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096438",
+      "type": "movie",
+      "name": "¿Quién engañó a Roger Rabbit?",
+      "poster": "https://image.tmdb.org/t/p/w500/cnqrMeXtoMQcId8swenqRQcbk0N.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+      "description": "La estrella de animación Roger Rabbit teme que su esposa Jessica lo engañe con alguien, por lo que el estudio decide contratar al detective Eddie Valiant para que la espíe, pero todo cambia súbitamente cuando encuentran el cadáver de Marvin Acme y Roger es el principal sospechoso.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087544",
+      "type": "movie",
+      "name": "Nausicaä del Valle del Viento",
+      "poster": "https://image.tmdb.org/t/p/w500/z7vvu0n1F8pXQtmE113Gwd5KhRN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+      "description": "En un futuro lejano, mil años después de una guerra de carácter apocalíptico, la Tierra aparece cubierta de bosques plagados de hongos venenosos y de insectos gigantescos. Los hombres han sido diezmados; los supervivientes viven en algunos poblados aislados y sobreviven a duras penas en las cercanías de un bosque contaminado con gases tóxicos e insectos mutantes gigantes, que cubren gran parte de la Tierra. Nausicaä es la princesa de El Valle de Viento, un reino minúsculo, rodeado de reinos más poderosos y hostiles. Es una guerrera que sabe pilotar naves, pero es también compasiva, tanto que se resiste a ver a los insectos como enemigos, sobre todo a los Ohms, artrópodos gigantescos y temibles por los que siente una extraña simpatía. La crisis estalla cuando el reino vecino de Tolmekia, encabezado por la princesa Kushana, invade El Valle del Viento.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089218",
+      "type": "movie",
+      "name": "Los Goonies",
+      "poster": "https://image.tmdb.org/t/p/w500/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+      "description": "Mikey es un muchacho de 13 años que junto con su hermano mayor y sus amigos, que se hacen llamar \"Los Goonies\", deciden subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí encuentran el mapa de un tesoro.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096895",
+      "type": "movie",
+      "name": "Batman",
+      "poster": "https://image.tmdb.org/t/p/w500/oNHCO2vQGVhXNzZdRZQim9x9HIx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+      "description": "La oscura y peligrosa Ciudad Gótica se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reconocida periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091042",
+      "type": "movie",
+      "name": "La Escapada de Ferris Bueller",
+      "poster": "https://image.tmdb.org/t/p/w500/33BOynfyZRrXAscgo1WxxJefSuy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jehzP4JKiFzgTWIaASLFOJocJke.jpg",
+      "description": "Un joven de 17 años decide disfrutar de unas vacaciones anticipadas aprovechando la ausencia de sus padres. Prepara minuciosamente un día dedicado enteramente a hacer todo lo que normalmente no puede hacer. Para ello contará, por supuesto, con la compañía de su mejor amigo y de su novia.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080455",
+      "type": "movie",
+      "name": "Los Hermanos Caradura",
+      "poster": "https://image.tmdb.org/t/p/w500/sQGLPWlGjqPaeIddqNrYa1AjAzq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+      "description": "Una película cómica y musical estadounidense de 1980 dirigida por John Landis y con John Belushi y Dan Aykroyd como Jake Blues y Elwood Blues, personajes desarrollados a partir de un sketch musical del programa de televisión Saturday Night Live.\r La película se desarrolla en Chicago. Cuenta con números musicales de rhythm and blues y soul hechos con la colaboración de los artistas James Brown, Cab Calloway, Aretha Franklin, Ray Charles y John Lee Hooker. Cuenta también con las actuaciones de otros actores fuera del ámbito musical como John Candy, Carrie Fisher, Charles Napier y Henry Gibson.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Música",
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092099",
+      "type": "movie",
+      "name": "Top Gun: Pasión y gloria",
+      "poster": "https://image.tmdb.org/t/p/w500/tKYNi1fZtI0Xe1DcwEjnmUyQbBz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "description": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092890",
+      "type": "movie",
+      "name": "Baile caliente (Dirty Dancing)",
+      "poster": "https://image.tmdb.org/t/p/w500/4uGWtDrtPLoMiEjotQaqZTDnqUn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+      "description": "Pasando el verano en un centro turístico de Catskills con su familia, Frances «Baby» Houseman se enamora del instructor de baile del campamento, Johnny Castle.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Música",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093870",
+      "type": "movie",
+      "name": "RoboCop",
+      "poster": "https://image.tmdb.org/t/p/w500/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg",
+      "description": "En un Detroit violento, casi apocalíptico, la empresa malvada Omni Consumer Products gana un contrato del gobierno de la ciudad para privatizar la fuerza policial. Para probar sus cyborgs de erradicación del crimen, la compañía lleva al policía de la calle Alex Murphy a una confrontación armada con el señor del crimen Boddicker para que puedan usar su cuerpo para respaldar su prototipo RoboCop no probado. Pero cuando RoboCop se entera de los planes nefastos de la compañía, se convierte en su maestro.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087800",
+      "type": "movie",
+      "name": "Pesadilla en la calle del infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/hQ6Sgwed7S5Xr7EhSwMTUZkSoem.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+      "description": "La adolescente Nancy Thompson debe descubrir la oscura verdad que ocultan sus padres después de que ella y sus amigos se convierten en el objetivo del espíritu de un asesino en serie que porta un guante de cuchillas que aparece en sus sueños y que, si mueren, los mata en la vida real.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082096",
+      "type": "movie",
+      "name": "El Submarino",
+      "poster": "https://image.tmdb.org/t/p/w500/qXeULeu5uHHXYHRsbITzuLN51EB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+      "description": "Un submarino alemán de la Segunda Guerra Mundial es el escenario en el que un grupo de jóvenes soldados, dispuesto a defender su patria, tendrá que someterse a una dura convivencia, tras descubrir que han sido enviados a realizar una misión probablemente suicida.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091064",
+      "type": "movie",
+      "name": "La mosca",
+      "poster": "https://image.tmdb.org/t/p/w500/hMGc4NUY3TAnxO1rccnw0i3GNoU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/g1FzhbtWYKk9WMJYi1X26kf2Q4Q.jpg",
+      "description": "Un científico se utiliza a sí mismo como cobaya en la realización de un complejo experimento de teletransportación. La prueba es un éxito, pero empieza a sufrir unos extraños cambios en su cuerpo. Al mismo tiempo, descubre que dentro de la cápsula donde realizó el experimento con él se introdujo una mosca.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087363",
+      "type": "movie",
+      "name": "Gremlins",
+      "poster": "https://image.tmdb.org/t/p/w500/gDSfs0hqAQVJ9jIHbX3AJ3StTVG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+      "description": "Rand (Hoyt Axton) es un viajante que un día regala a su hijo Billy (Zach Galligan) una tierna y extraña criatura, un mogwai. El inocente regalo, sin embargo, será el origen de toda una ola de gamberradas y fechorías en un pequeño pueblo de Estados Unidos. Todo empieza cuando son infringidas, una tras otra, las tres reglas básicas que deben seguirse para cuidar a un mogwai: no darle de comer después de medianoche, no mojarlo y evitar que le dé la luz del sol.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Fantasía",
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088846",
+      "type": "movie",
+      "name": "Brasil",
+      "poster": "https://image.tmdb.org/t/p/w500/x7N8ZbCw7ojT8XbvoeGL0LXTK8E.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
+      "description": "En un extraño y deprimente universo futurista donde reinan las máquinas, una mosca cae dentro de un ordenador y cambia el apellido del guerrillero Harry Tuttle (Robert de Niro) por el del tranquilo padre de familia Harry Buttle, que es detenido y asesinado por el aparato represor del Estado. El tranquilo burócrata Sam Lowry (Jonathan Pryce) es el encargado de devolver un talón a la familia de la víctima, circunstancia que le permite conocer a Jill Layton (Kim Greist), la mujer de sus sueños. Y, mientras la persigue, hace amistad con Harry Tuttle y se convierte en su cómplice.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090756",
+      "type": "movie",
+      "name": "Terciopelo azul",
+      "poster": "https://image.tmdb.org/t/p/w500/rzcigN8ujeVJiEKGP3y3mJybvii.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+      "description": "Una mañana, Jeffrey Beaumont (Kyle MacLachlan), después de visitar a su padre en el hospital, encuentra entre unos arbustos una oreja humana. La guarda en una bolsa de papel y la lleva a la comisaría de policía, donde le atiende el detective Williams (George Dickerson), que es vecino suyo. Comienza así una misteriosa intriga que desvelará extraños sucesos acontecidos en una pequeña localidad de Carolina del Norte.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087884",
+      "type": "movie",
+      "name": "París, Texas",
+      "poster": "https://image.tmdb.org/t/p/w500/ba8edzVOul1uDHaLgDImALqhsN1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+      "description": "Un hombre camina por el desierto de Texas sin recordar quién es. Su hermano lo busca e intenta que recuerde cómo era su vida cuatro años antes, cuando abandonó a su mujer y a su hijo. A medida que va recuperando la memoria y se relaciona con personas de su pasado, se plantea la necesidad de rehacer su vida.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098635",
+      "type": "movie",
+      "name": "Cuando Harry conoció a Sally",
+      "poster": "https://image.tmdb.org/t/p/w500/lou4InPprdwyKYQjG4wEsl5N8uM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/orq7v7J0Esq9TWpKitCXPbevOdW.jpg",
+      "description": "El sexo siempre se interpone en las amistades entre hombres y mujeres. Al menos, eso es lo que cree Harry Burns. Así que cuando Harry conoce a Sally Albright y surge entre ellos una profunda amistad, Harry está decidido a no dejar que su atracción por ella la arruine.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080339",
+      "type": "movie",
+      "name": "Y, ¿dónde está el piloto?",
+      "poster": "https://image.tmdb.org/t/p/w500/3TRqi2kAvXFS4xncx5u7GsxV8gs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+      "description": "El vuelo 209 de la Trans American sale de Los Ángeles con destino a Chicago. Entre el pasaje se encuentran una serie de curiosos personajes. Entre ellos, un ex-piloto de combate que, en pleno vuelo, se verá obligado a hacerse con el mando del avión comercial, tras quedar los pilotos indispuestos por una comida en mal estado.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093409",
+      "type": "movie",
+      "name": "Arma Mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/oXSF4oiHwCEegf9A3gfNsNhRCCd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+      "description": "Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos",
+      "releaseInfo": "1987",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091251",
+      "type": "movie",
+      "name": "Ven y mira",
+      "poster": "https://image.tmdb.org/t/p/w500/j2hzNkmwYT184eP9qYdjViiYxCO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
+      "description": "Película de encargo para celebrar el 40 aniversario de la victoria aliada en la Segunda Guerra Mundial. Relata, a través de los ojos de un niño progresivamente endurecido por el sufrimiento, la matanza sistemática de los habitantes de las aldeas bielorrusas durante la guerra.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drama",
+        "Bélica",
+        "Terror",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082694",
+      "type": "movie",
+      "name": "Mad Max 2: El Guerrero de la Carretera",
+      "poster": "https://image.tmdb.org/t/p/w500/udpVgRB3xz5ZN553apthn4TyT6G.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+      "description": "Tras el holocausto nuclear, la gasolina se ha convertido en un bien escaso y muy codiciado. Mad Max, héroe solitario, inicia una lucha sin cuartel para ayudar a una colonia de supervivientes constantemente atacada por un grupo de violentos guerreros que intenta arrebatarle un tanque de gasolina. Max decide ayudar a los defensores del tanque.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092991",
+      "type": "movie",
+      "name": "El despertar del diablo 2",
+      "poster": "https://image.tmdb.org/t/p/w500/udBGSiqIEyFITsj1j7pS2nhVVz7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+      "description": "Ash Williams y su novia Linda encuentran una cabaña de madera en el bosque con una grabación de voz de un arqueólogo que se había grabado recitando cánticos antiguos del \"Libro de los Muertos\".",
+      "releaseInfo": "1987",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095705",
+      "type": "movie",
+      "name": "¿Y dónde está el policía?",
+      "poster": "https://image.tmdb.org/t/p/w500/9B8ypIHPMPsy3sY2rc2V27mAvl7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+      "description": "El incompetente detective de la policía Frank Drebin debe frustrar un intento de asesinato contra la reina Isabel II.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083907",
+      "type": "movie",
+      "name": "El despertar del diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/o1rZ26a3PDAFKu4c44E4B2AydlN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
+      "description": "En 1979, un grupo de estudiantes universitarios encuentra un Libro de los Muertos sumerio en una vieja cabaña en medio de la naturaleza que habían alquilado para una escapada de fin de semana.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087538",
+      "type": "movie",
+      "name": "Karate Kid",
+      "poster": "https://image.tmdb.org/t/p/w500/mDRw5Pc6FdqCkhQw14btou5y9Of.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+      "description": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085794",
+      "type": "movie",
+      "name": "El Rey de la Comedia",
+      "poster": "https://image.tmdb.org/t/p/w500/7z5ni7necxkhE2xEodbYB5IyrIP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+      "description": "Rupert Pupkin es un cómico obsesionado con la fama y convertirse en el mejor en su campo. Un día Rupert conoce a su ídolo, Jerry Langford, y le suplica la oportunidad de aparecer en su show, pero éste se la niega. Sin embargo Pupkin no cejará en su empeño, acosando a Jerry para intentar poder conseguir sus propósitos y, con ayuda de su amiga Masha, usará un método contundente para poder obtener sus minutos de celebridad.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086960",
+      "type": "movie",
+      "name": "Un detective suelto en Hollywood",
+      "poster": "https://image.tmdb.org/t/p/w500/q8RtQuLStydGdJmHR4p8jNVssbv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/p256RduW9wMC3uhGJTerywmGiiX.jpg",
+      "description": "Axel Foley es un impetuoso e inteligente detective de Detroit que sigue la pista del asesino de un amigo suyo hasta los barrios más elegantes de Beverly Hills. Pero antes de que Axel logre su objetivo, va a verse involucrado en una red internacional de contrabandistas y traficantes de droga.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091605",
+      "type": "movie",
+      "name": "El nombre de la rosa",
+      "poster": "https://image.tmdb.org/t/p/w500/w7xf0xY21dwGBOx1s1Sc28BiSiP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+      "description": "Thriller medieval que sigue al astuto monje Guillermo de Baskerville y a su aprendiz Adso mientras investigan una serie de asesinatos en una abadía. Adaptada de la novela de Umberto Eco, la película explora intrincadas intrigas y conflictos religiosos en la Europa del siglo XIV.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088323",
+      "type": "movie",
+      "name": "La historia sin fin",
+      "poster": "https://image.tmdb.org/t/p/w500/dHZ3HmN294z2ri1KyWFwBORFOd7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
+      "description": "Escondido en el desván de su colegio, Bastian devora durante las horas de clase un libro enigmático, ”La Historia Sin Fin”, que relata la paulatina destrucción del Reino de Fantasía. Una especie de ”Nada” misteriosa destruye el país y a las criaturas que lo habitan. A medida que avanza en la lectura, Bastian se da cuenta de que la salvación de Fantasía depende de él; de que consiga entrar dentro del libro...",
+      "releaseInfo": "1984",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089881",
+      "type": "movie",
+      "name": "Ran",
+      "poster": "https://image.tmdb.org/t/p/w500/feChXPgGQhhRfvkzhzoKVp8RLpQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+      "description": "En el Japón medieval, el poderoso señor Hidetora decide abdicar y repartir sus dominios entre sus tres hijos. El menor considera que la idea es absurda y sólo servirá para causar problemas. Su padre, enfurecido, lo deshereda. Muy pronto descubrirá su error: la ambición hará que sus hijos mayores se enfrenten por el poder en una cruenta guerra. Se inspira en el drama de Shakespeare \"El rey Lear\".",
+      "releaseInfo": "1985",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089927",
+      "type": "movie",
+      "name": "Rocky IV",
+      "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uiUb4KJ6tadldqlJme49TW1r3jA.jpg",
+      "description": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drama",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096754",
+      "type": "movie",
+      "name": "El Secreto del Abismo",
+      "poster": "https://image.tmdb.org/t/p/w500/YWKSXqo8k4B47qU4ETXokXzl23.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+      "description": "Durante una tormenta, una plataforma submarina en ultra mar queda incomunicada de la superficie. Dentro de ella, además del equipo técnico de la propia plataforma, se encuentra un grupo de militares, que deben recuperar unas cabezas explosivas. Todo se complica con la aparición de unos extraños seres que vienen de las profundidades abisales.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Aventura",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096256",
+      "type": "movie",
+      "name": "¡Sobreviven!",
+      "poster": "https://image.tmdb.org/t/p/w500/pIJKI45MVZclrKfGSVdjVsWIvBK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+      "description": "Un trabajador encuentra fortuitamente unas gafas que permiten ver a las personas en su aspecto auténtico, así descubrirá que importantes personajes de la vida política y social son en realidad extraterrestres. Durante su particular cruzada podrá observar cómo esta raza alienígena ha llenado el mundo de mensajes subliminales que pretenden convertir a los humanos en una especie esclava.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094737",
+      "type": "movie",
+      "name": "Quisiera ser grande",
+      "poster": "https://image.tmdb.org/t/p/w500/g8MPpZNEBRiC8VJbP5HyJzwGeiC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
+      "description": "Josh Baskin tiene trece años pero, cansado de que las chicas no le hagan caso y de que sus padres le traten como a un niño, desea ser mayor. Una noche, encuentra, en una feria, una vieja máquina que concede un deseo a cambio de una moneda. Josh, sin dudarlo un instante, pide hacerse mayor. A la mañana siguiente, descubre en el espejo un cuerpo de adulto. La otra cara de la moneda serán los problemas y responsabilidades que debe asumir sin ninguna experiencia previa.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasía",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086465",
+      "type": "movie",
+      "name": "De mendigo a millonario",
+      "poster": "https://image.tmdb.org/t/p/w500/aLUl4IVnvBbI0PTh9KgyitZaL9I.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3FO1kbQmRlU1H6Kmn7sTfmd7mw9.jpg",
+      "description": "Dos hombres de negocios sostienen distintas tesis sobre las condiciones de la naturaleza humana. Para uno es cuestión de genética, para el otro es cuestión de educación. Para corroborar sus teorías hacen una apuesta para lo cual cambian los destinos de dos personas socialmente antagónicas.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097216",
+      "type": "movie",
+      "name": "Haz lo correcto",
+      "poster": "https://image.tmdb.org/t/p/w500/iNouxmYlQvTFlAENn4XUbdDxW2d.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xnLh9CNRxkpkSNikVhi5qLwcfUG.jpg",
+      "description": "En uno de los barrios más humildes de Brooklyn, Bedford Stuyvesant, conviven atropelladamente varias familias de raza negra, algunos hispanos, una pareja de comerciantes vietnamitas y una familia de italoamericanos que tienen una pizzeria. Mookie, un chico que trabaja de repartidor de pizzas, es un testigo privilegiado de los personajes y de los hechos cotidianos que tienen lugar en el barrio, así como de las tensiones y las actitudes racistas de algunos de sus habitantes.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083987",
+      "type": "movie",
+      "name": "Gandhi",
+      "poster": "https://image.tmdb.org/t/p/w500/xkB9dSy7WlQOsOinevVuebXiXvU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+      "description": "Después de defender los derechos de los ciudadanos negros en Sudáfrica, Mahatma Gandhi, considerando que también los hindúes son ciudadanos de segunda clase en su propia tierra, los incita a sublevarse contra el Imperio Británico mediante la doctrina de la no-violencia y la desobediencia civil, liderando el movimiento que llevó a la India, hasta entonces una colonia, a independizarse de los británicos en los años 40.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084503",
+      "type": "movie",
+      "name": "Pink Floyd: The Wall",
+      "poster": "https://image.tmdb.org/t/p/w500/sIuD7f5UnC7NsBwQ5tTo8iFsIKO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/Ag4eANWzHEwC7rQVyvcGsL34ieP.jpg",
+      "description": "Película visualmente evocativa, basada en la música del disco homónimo y las visiones del grupo de rock psicodélico \"Pink Floyd\". Narra la vida de una estrella de rock ficticia: \"Pink\". Una mezcla de relaciones humanas, abuso de drogas, sexo, infancia, la Segunda Guerra Mundial y fascismo se combinan en un relato que alterna cine en vivo con animación creada por el caricaturista británico Gerald Scarfe.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Música",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082406",
+      "type": "movie",
+      "name": "El Zorro y el Sabueso",
+      "poster": "https://image.tmdb.org/t/p/w500/x7Sn0X2bWFTTymlRPp7XdxCa6KL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+      "description": "La aventura y la diversión de este clásico de la Disney comienzan cuando una adorable viuda adopta un precioso cachorro de zorro llamado Tod. El travieso zorro pronto se encuentra con Toby, un adorable cachorro de perro de caza. Así se hace los dos inseparables amigos... sin saber que por su naturaleza deberían ser enemigos. Bajo la mirada vigilante de Mamá Búho, Tod y Toby juegan y se divierten en el bosque, inconscientes de que en el futuro tendrán que enfrentarse y poner su amistad a prueba.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Drama",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090728",
+      "type": "movie",
+      "name": "Rescate en el barrio Chino",
+      "poster": "https://image.tmdb.org/t/p/w500/dLgxYdDsipYqjLICt5CHfajGZvH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mAxA5ltgqNXLXlm7PO5XrWSo9U1.jpg",
+      "description": "Jack Burton es un camionero que, en una de sus paradas en el barrio de Chinatown, en San Francisco, le gana una gran cantidad de dinero a Wang Chi. Este le convence para que le lleve al aeropuerto a recoger a su prometida Miao Yin, tras lo cual le entregará el dinero que le debe. Cuando Miao Yin es secuestrada por unos gángsters chinos, Jack se verá envuelto en una gran aventura para rescatarla, entrando en un tenebroso mundo gobernado por Lo Pan, un mago de 2.000 años que gobierna sin piedad el mundo de los espíritus. Esquivando demonios y haciendo frente a temores incomprensibles, Jack lucha a su manera en los oscuros dominios de Lo Pan en una loca carrera para salvar a la chica.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088939",
+      "type": "movie",
+      "name": "El Color Púrpura",
+      "poster": "https://image.tmdb.org/t/p/w500/mHtsBevQRqQebP4yykJfJcdO2R.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lh6MbyxwCribn3hdAo81xLdPGoV.jpg",
+      "description": "Principios del siglo XX. Narra la historia de Celie, una adolescente negra de catorce años que está embarazada de su propio padre, un hombre despótico y cruel. A partir de entonces su vida estará llena de dolor y humillaciones.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093105",
+      "type": "movie",
+      "name": "Buenos días, Vietnam",
+      "poster": "https://image.tmdb.org/t/p/w500/oc2VksIW9UfXYgt3yVrTW9aXpCu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mbgJEkrJ0uBOakLwpufdmW4K8Im.jpg",
+      "description": "Durante la Guerra de Vietnam, Adrian Cronauer, un disc-jockey de la Fuerza Aérea de los Estados Unidos, llega a Saigón para entretener a los soldados desplegados en Vietnam. Al principio todo es diversión, pero poco a poco los jefes se darán cuenta de que sus comentarios acerca de la guerra no son \"políticamente correctos\". Por lo mismo, deciden expulsarlo y enviarlo de nuevo a su hogar, mientras que en la radio colocan sucesores que no dan la talla y no gustan tanto como él. Los soldados le piden que vuelva, sin saber que le expulsarían por sus comentarios.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084516",
+      "type": "movie",
+      "name": "Juegos diabólicos",
+      "poster": "https://image.tmdb.org/t/p/w500/pEE7370Pfqa2GuF57SC6vceYp4v.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+      "description": "Una familia americana de clase media se traslada a vivir a un vecindario idílico, pero dentro de la casa empiezan a suceder cosas extrañas, fenómenos paranormales para los que no hay explicación posible.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097733",
+      "type": "movie",
+      "name": "Arma Mortal 2",
+      "poster": "https://image.tmdb.org/t/p/w500/oyEcR3MhEJVCMwxAd9Jyb4gQfv3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uY8i4RABFyBpH2cmFWMVLEswopD.jpg",
+      "description": "La pareja de policías formada por Martin Riggs y su compañero Roger Murtaugh se enfrenta ahora a una poderosa organización sudafricana de traficantes de droga que opera en Estados Unidos. Su misión principal es la de proteger al testigo Leo Getz, un alocado contable que ha blanqueado dinero para la banda y que en unos días va a testificar contra ellos.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082010",
+      "type": "movie",
+      "name": "Un Hombre Lobo Americano En Londres",
+      "poster": "https://image.tmdb.org/t/p/w500/9sAJdIZgFZEqz3Kyg97RA97CP9n.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+      "description": "David Kessler y Jack son dos jóvenes estadounidenses que, con sus mochilas a cuestas, han decidido pasar tres meses recorriendo Europa. En Inglaterra, en una zona rural desolada, la gente les da unos consejos escalofriantes: «no os apartéis del camino y no os acerquéis a los páramos», «cuidado con la luna». Cuando los jóvenes emprenden la marcha en la oscuridad, oyen un aullido terrorífico procedente de los páramos, pero no saben que los persigue una bestia legendaria sedienta de sangre, cuyas víctimas se convierten en muertos vivientes que deben vagar por la Tierra eternamente; en cambio, quienes escapan con vida tienen reservado un destino diferente…",
+      "releaseInfo": "1981",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094898",
+      "type": "movie",
+      "name": "Un Príncipe en Nueva York",
+      "poster": "https://image.tmdb.org/t/p/w500/zGsF0Q2PLKSw9YjihnHyQyYY88p.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+      "description": "El príncipe Akeem, heredero del trono de Zamunda, abandona el reino del paraíso tropical en busca de su reina. ¿Qué mejor lugar que Queens, Nueva York, para encontrar a su novia? Junto a su leal servidor y amigo, Semmi, Akeem intenta integrarse como un estadounidense común y comenzar su búsqueda.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095647",
+      "type": "movie",
+      "name": "Arde Mississippi",
+      "poster": "https://image.tmdb.org/t/p/w500/7xmmblsHygCHuFtxfPO5ZawPVRR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sYpNbnOlIKW5nlrPDFOGpnCUlz9.jpg",
+      "description": "Dos agentes del FBI ideológicamente opuestos investigan un escalofriante asesinato en una comunidad oprimida por el Ku Klux Klan. Aunque todos saben quien está implicado, nadie se atreve a comentar nada, y los agentes deciden actuar por separado.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084602",
+      "type": "movie",
+      "name": "Rocky III",
+      "poster": "https://image.tmdb.org/t/p/w500/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
+      "description": "Ahora el campeón del mundo, Rocky Balboa vive en el lujo y sólo lucha contra opositores que no plantean ninguna amenaza para él en el anillo, hasta que Clubber Lang le desafíe a un encuentro. Después de tomar una palpitación de Lang, el campeón humillado da vuelta al antiguo Credo del rival amargo Apolo para una revancha con Lang.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Drama",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091369",
+      "type": "movie",
+      "name": "Laberinto",
+      "poster": "https://image.tmdb.org/t/p/w500/AhRH7qhyRWGOfr88UKLfSUEm7A0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mGkleIuPO2flRyvP8yBcUykSQsp.jpg",
+      "description": "Cuento sobre la búsqueda de una chica por su hermano menor que está atrapado en el reino místico de un rey de duendes.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092965",
+      "type": "movie",
+      "name": "El imperio del sol",
+      "poster": "https://image.tmdb.org/t/p/w500/6Io9EbVPM7RfJhndODkSSFs97YO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xt7boIC763DdceVQIGJdnmKlDVu.jpg",
+      "description": "En diciembre de 1941, el ejército japonés ocupa Shanghai. A partir de ese momento, la privilegiada vida que ha llevado James Graham, un niño inglés de clase alta, llega a su fin. Es separado de sus padres y confinado en un campo de concentración próximo a un aeropuerto militar chino. En un ambiente dominado por la tristeza y la miseria, se verá obligado a madurar prematuramente, y eso condicionará su visión del mundo. Película basada en la novela autobiográfica homónima de J. G. Ballard",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082340",
+      "type": "movie",
+      "name": "Escape de Nueva York",
+      "poster": "https://image.tmdb.org/t/p/w500/h4zYejVGgt8tBoZeW2xu9FoiYx7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aXPCXYFzFzdveVVk1HjVf9fHUcn.jpg",
+      "description": "Año 1997. El avión del presidente de los Estados Unidos es secuestrado por un grupo radical, pero consigue sobrevivir y se encuentra solo en las calles de Nueva York, donde Manhattan se ha convertido en una enorme prisión de alta seguridad. Ante la imposibilidad de lanzar una acción convencional, por miedo a que maten al presidente, se decide enviar a un agente secreto para rescatarlo. El elegido es \"Serpiente\" Plissken (Kurt Russell), un conocido convicto al que todos daban por muerto.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093389",
+      "type": "movie",
+      "name": "El último emperador",
+      "poster": "https://image.tmdb.org/t/p/w500/tjj1b3VluoIhbdt9VHxQkEqiCzH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+      "description": "Pekín, 1908. China se encuentra en plena decadencia. Pu Yi, un niño de tres años, es arrancado de los brazos de su madre, en medio de la noche, y conducido hasta la Ciudad Prohibida, donde es coronado emperador, pero tendrá que vivir recluido dentro de este recinto inaccesible.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084726",
+      "type": "movie",
+      "name": "Viaje a las estrellas II: La ira de Khan",
+      "poster": "https://image.tmdb.org/t/p/w500/435r0ijvF2QwgyAP3y7EzGFAowH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg",
+      "description": "Nuevas aventuras del almirante James T. Kirk y el resto de la tripulación de la nave Enterprise, que una vez más se atreve a llegar \"donde ningún hombre lo hizo jamás\". Ricardo Montalbán repite su personaje de villano que interpretó en 1967 en el episodio televisivo \"Space Speed\".",
+      "releaseInfo": "1982",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097958",
+      "type": "movie",
+      "name": "Vacaciones de navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/cvqqcTyYBCADhi4LRAZ5nlIK7mx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+      "description": "Clark Griswold, movido por un generoso y sentimental espíritu navideño, quiere sorprender a toda su familia con una gran fiesta. La suerte no suele acompañarlo y esta vez no va a ser diferente... Una sucesión de disparatados desastres convertirán la esperadísima sorpresa de Clark en un verdadero caos.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093191",
+      "type": "movie",
+      "name": "Las alas del deseo",
+      "poster": "https://image.tmdb.org/t/p/w500/3BUvkcxlIjrZN0wlgIK0cB8rAtp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "description": "Dos ángeles sobrevuelan Berlín, ciudad dividida por el \"muro de la vergüenza\". Sólo son visibles para los niños y los hombres de corazón puro. Testigos impotentes que no pueden cambiar el curso de los acontecimientos, sienten una gran compasión por los seres humanos. Uno de ellos, decidido a conocer los sentimientos de los mortales, se enamora de una joven trapecista...",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Fantasía",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095489",
+      "type": "movie",
+      "name": "En busca del valle encantado",
+      "poster": "https://image.tmdb.org/t/p/w500/jsxGmtUe06AAhfWihGiLDukI0QS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
+      "description": "Un brontosaurio huérfano se une a otros dinosaurios jóvenes para reunirse con sus familias en un valle.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Aventura",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086541",
+      "type": "movie",
+      "name": "Cuerpos invadidos",
+      "poster": "https://image.tmdb.org/t/p/w500/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eBS1nvaQ7BMdsSlkoLyKapf0FEY.jpg",
+      "description": "Max Renn, responsable de un sórdido canal de televisión por cable, descubre un día una emisora pirata llamada \"Videodrome\" con contenidos muy violentos y realistas. Una palpitante pesadilla de ciencia-ficción que nos muestra un mundo en el que el vídeo puede controlar y alterar la vida humana. Considerada por Andy Warhol la \"naranja mecánica\" de los 80.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095159",
+      "type": "movie",
+      "name": "Los enredos de Wanda",
+      "poster": "https://image.tmdb.org/t/p/w500/4x52iIcMTIUA3O9ZbOxDlizTHFR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nNLOEK9HGhhZIOgdVUO9F7ndTIw.jpg",
+      "description": "Mientras un defensor de los diamantes intenta robar una colección de diamantes, surgen problemas cuando se da cuenta de que no es el único que va tras la colección.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097441",
+      "type": "movie",
+      "name": "Tiempos De Gloria",
+      "poster": "https://image.tmdb.org/t/p/w500/f2sKUHfBLTCUuGogGKUR7zqlk7D.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3yHddfnAwI1kWOGjoQXZoqhnU5Z.jpg",
+      "description": "Entre 1861 y 1865 tuvo lugar la Guerra de Secesión que enfrentó al ejército confederado (Sur) con las tropas de la Unión (Norte). Los militares del Norte eran reacios a reclutar negros y armarlos para luchar contra el Sur; pero, finalmente, se aprobó una ley que lo permitía. El regimiento 54 de Massachusetts fue el primero y el más valeroso de los batallones formados por negros, y el Coronel Robert Gould Shaw fue el encargado de organizarlo.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094012",
+      "type": "movie",
+      "name": "S.O.S: Hay un loco suelto en el espacio",
+      "poster": "https://image.tmdb.org/t/p/w500/np8nGu0LRKY6goyEEYZNgm0QlKc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
+      "description": "La princesa Vespa decide huir justo antes de su boda con el príncipe Valium, para ello se lleva a su robot Dot Matrix y una pequeña nave espacial. Ante esto su padre, el rey Roland de Druidia ofrece una recompensa a quien encuentre a su hija. La recompensa interesa mucho a Lone Starr y a su ayudante Vomito Barf  que deben mucho dinero a un delincuente llamado Pizza el Hutt. En su huida la princesa Vespa es interceptada por la nave del malvado Lord Casco Oscuro que trabaja para el presidente del planeta Spaceballs, que ansía el aire puro del planeta Druidia. Lone Starr, con la ayuda del maestro Yogurt, que le enseña a usar la suerte, debe rescatar a la princesa y acabar con los Spaceball.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088680",
+      "type": "movie",
+      "name": "Después de Hora",
+      "poster": "https://image.tmdb.org/t/p/w500/xF98wR8hvZsvNqDu8CZeWlsIHM9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+      "description": "Al finalizar su jornada laboral, un solitario empleado de una compañía de informática (Griffin Dunne) se ve envuelto en una serie de extrañas circunstancias que le llevan a uno de los peores barrios de Nueva York. Allí, vivirá una interminable y alocada noche…",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Suspense",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097428",
+      "type": "movie",
+      "name": "Los Cazafantasmas 2",
+      "poster": "https://image.tmdb.org/t/p/w500/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tgHO1DdnaS0xHcRxBHxE4kOQeIm.jpg",
+      "description": "Han pasado cinco años desde que los cazafantasmas entraron por última vez en acción. El doctor Peter Venkman, notable parapsicólogo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisión donde se discuten fenómenos psíquicos. Ray Stantz y su colega Winston Zeddemore se ganan la vida entreteniendo a niños en fiestas infantiles, y el mago tecnológico Egon Spengler continúa sus investigaciones sobre los efectos de las emociones humanas en el campo de energía psicomagnética. La relación de Dana Barrett con Venkman se disolvió; ella se casó con otro hombre y tuvo un hijo, pero el matrimonio fracasó. Ahora Dana vive sola en Nueva York, criando a Oscar, su bebé de ocho meses, y trabajando como restauradora de cuadros en el Museo de arte de Manhattan, junto a un excéntrico experto en pinturas del periodo romántico, Janosz Poha. Todo parece normal hasta que el cochecito de Oscar rueda por sí solo y se mete entre el peligroso tráfico de la ciudad.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093748",
+      "type": "movie",
+      "name": "Nada en Común",
+      "poster": "https://image.tmdb.org/t/p/w500/4Gpwo0Jqjvl5PIbvcEjRsmabBoX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+      "description": "Neal Page, un ejecutivo quien viaja a New York por negocios, por aras del destino conoce a Del Griffith, un excéntrico y empático vendedor de cortinas quien le hace perder el viaje a Chicago donde está su hogar, Page se da cuenta que Griffith vive en un mundo gobernado por un tipo de reglas opuestas a su ordenado estilo de vida; sin embargo, por distintas circunstancias el destino los obliga a convivir y a aprender el uno del otro. Los dos pasan dos días llenos en aventuras, desgracias y peripecias tratando Griffith de llevar a Neal a casa desde Nueva York a Chicago para que llegue a tiempo para una cena de Día de Acción de Gracias con su familia.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085959",
+      "type": "movie",
+      "name": "El sentido de la vida",
+      "poster": "https://image.tmdb.org/t/p/w500/tlM66Ms9pCo89W3TzEPk6mKloAj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg",
+      "description": "Conjunto de episodios que muestran de forma disparatada los momentos más importantes del ciclo de la vida. Desde el nacimiento a la muerte, pasando por asuntos como la filosofía, la historia o la medicina, todo tratado con el inconfundible humor de los populares cómicos ingleses. El prólogo es un cortometraje independiente rodado por Terry Gilliam: \"Seguros permanentes Crimson\".",
+      "releaseInfo": "1983",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089880",
+      "type": "movie",
+      "name": "Rambo II - La misión",
+      "poster": "https://image.tmdb.org/t/p/w500/TuW7rwhdVPrm3qBsBGnn747Uar.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+      "description": "Rambo, encarcelado por sus antiguos crímenes, recibe por parte del coronel Trautman la misión optativa de ir a Vietnam para comprobar si aún quedan prisioneros de guerra. Si la misión saliera bien, el presidente le concedería el perdón, y así sería libre. Rambo acepta. Está bajo las órdenes de un falso teniente (Murdock), al que muy en el fondo sólo le interesa el dinero y el poder de su nación, y al que le da igual perder a unos cuantos hombres, por muy inocentes que sean, si sigue controlando las cosas como él quiere. Murdock le encarga que sólo saque fotos, y que no ataque al enemigo. Pero al saltar en paracaídas sobre un área selvática prohibida, Rambo pierde todo su equipo, excepto un cuchillo dentado y un arco.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089907",
+      "type": "movie",
+      "name": "El Regreso de los Muertos Vivientes",
+      "poster": "https://image.tmdb.org/t/p/w500/yZsQ2asRp8mwbGt4WnqnE59pfdT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1FrQyuhqvQm5G1SqTEgpZtrkitd.jpg",
+      "description": "Cuando un torpe par de empleados en un almacén de suministros médicos accidentalmente libera un gas mortal en el aire, los vapores causan que los muertos vuelvan a animarse mientras van en un alboroto en busca de su comida favorita: ¡cerebros!",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094291",
+      "type": "movie",
+      "name": "Wall Street",
+      "poster": "https://image.tmdb.org/t/p/w500/igdRLvYRsFHVHJAAuKoR3HHkp59.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+      "description": "Un corredor de bolsa joven e impaciente está dispuesto a hacer cualquier cosa para llegar a la cima, incluido el intercambio de información interna ilegal tomada a través de un asaltante corporativo despiadado y codicioso que toma al joven bajo su protección.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093437",
+      "type": "movie",
+      "name": "The Lost Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/44VOqlLHasdTwWPrXAMNwfvPJcL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6zvbeKxgc80xQsZLJ4eQVZSKXO8.jpg",
+      "description": "Sam (Corey Haim) y Michael Emerson (Jason Patric) son dos chicos americanos muy convencionales. Tras el divorcio de sus padres, se instalan con su madre en la tranquila ciudad de Santa Carla (California), donde corren rumores sobre vampiros. La personalidad de Michael cambia sensiblemente cuando empieza a ir con una banda de moteros cuyo líder es el carismático David (Kiefer Sutherland). A su madre no le gustaría nada saber en qué se está convirtiendo.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093822",
+      "type": "movie",
+      "name": "Educando a Arizona",
+      "poster": "https://image.tmdb.org/t/p/w500/3CrpE1pUHA6iXn30Gx7Ii3xitHp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oSFshBf9Wrv5UcmZYAmy28BwSSh.jpg",
+      "description": "H.I. (Nicolas Cage) y Edwina (Holly Hunter), una pareja que no puede tener hijos, pero que está dispuesta a formar una familia cueste lo que cueste, decide secuestrar a un bebé de una familia que acaba de tener quintillizos.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094862",
+      "type": "movie",
+      "name": "Chucky: El muñeco diabólico",
+      "poster": "https://image.tmdb.org/t/p/w500/8R1AMYd4m31RpHXoyyjp7SfNWlq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
+      "description": "Una madre soltera regala a su hijo un codiciado muñeco para su cumpleaños, solo para descubrir que está poseído por el alma de un asesino en serie.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093177",
+      "type": "movie",
+      "name": "Hellraiser: Puerta al infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/rA62abUKaC092DmaMGpJruno0rv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088258",
+      "type": "movie",
+      "name": "This Is Spinal Tap",
+      "poster": "https://image.tmdb.org/t/p/w500/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/a3FaHEGActk76BeCBingyOvEqnm.jpg",
+      "description": "Documental, más bien rockumental, sobre la banda de rock más ruidosa de la historia, el grupo de heavy metal \"Spinal Tap\".",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091203",
+      "type": "movie",
+      "name": "Highlander: El Inmortal",
+      "poster": "https://image.tmdb.org/t/p/w500/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2EfbAWLq8s2f1LxTAIuLGYpKETV.jpg",
+      "description": "Los Inmortales son seres de una raza especial que sólo pueden morir decapitados entre sí. Viven desde hace siglos entre los hombres, pero ocultando su identidad. Unos defienden el Bien, otros, el Mal. Una maldición los obliga a luchar entre sí hasta que sólo quede uno de ellos. El escocés Connor MacLeod (Christopher Lambert) es uno de los supervivientes del clan de los Inmortales que ha llegado hasta nuestros días",
+      "releaseInfo": "1986",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095250",
+      "type": "movie",
+      "name": "Azul profundo",
+      "poster": "https://image.tmdb.org/t/p/w500/q4GSvso5ejKcqN50Hn1VUnZUsyP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1J28PJOkusMN5Ab9Q3oF310e11k.jpg",
+      "description": "Jacques Mayol es un joven francés con un talento especial para el buceo, y ayuda al profesor Lawrence en sus experimentos marinos. Cuando era niño y vivía en una pequeña población griega junto a su gran amigo Enzo Molinari, ahora campeón de buceo en apnea, Jacques perdió a su padre, que trabajaba como buzo, pero a pesar de ello ama al mar por encima de todo. Nada de lo que tiene o consigue en la vida le llena tanto como estando bajo el agua.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Romance",
+        "Aventura",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088930",
+      "type": "movie",
+      "name": "¿Quién es el culpable?",
+      "poster": "https://image.tmdb.org/t/p/w500/kC5uKt0b9dZwPuuH1P9nImYFhhZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
+      "description": "Un heterogéneo grupo de personas se reúne a cenar en una lujosa mansión y uno de los asistentes aparece muerto durante la velada. Ahora, deben averiguar quién de ellos ha sido el culpable. Una tarea complicada teniendo en cuenta que todos ellos tenían motivos suficientes para cometer el crimen. Película basada en el célebre juego de mesa \"¿Quién es el culpable?",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082085",
+      "type": "movie",
+      "name": "Estallido mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/vbHo8X0Zpny7rSovAdAEJeXVRwK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+      "description": "El protagonista es un ingeniero de sonido que trabaja en películas de terror baratas. Una noche, mientras graba efectos sonoros, observa cómo un coche en el que viaja una pareja cae desde un puente a un río. A pesar de sus esfuerzos, sólo consigue salvar a la chica. Cuando se entera de que el hombre muerto era un candidato a la Presidencia de la Nación, recuerda haber escuchado un disparo antes del accidente y, entonces, empieza a sospechar que fue un atentado.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088944",
+      "type": "movie",
+      "name": "Comando",
+      "poster": "https://image.tmdb.org/t/p/w500/cA6a4xW76bNZdXZKLCr4YkdpElK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gvao0WZchzudp2oMF5sjgzwHY0q.jpg",
+      "description": "John Matrix es un ex-coronel de una unidad de Fuerzas Especiales del Ejército de los Estados Unidos y padre soltero, que se ha retirado a vivir en una cabaña en la montaña junto a su hija Jenny. Sin saberlo él, sus ex-compañeros en el ejército están siendo asesinados uno a uno, primero Lawson, luego Forrestal y por último el capitán Bennet. Su amigo, el general Franklin Kirby, pone a Matrix bajo el cuidado de dos guardias armados, pero los bandidos logran matarlos y secuestrar a Jenny.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087814",
+      "type": "movie",
+      "name": "Non ci resta che piangere",
+      "poster": "https://image.tmdb.org/t/p/w500/bCaBf3GcNKxI6sEU0foxXiLaHGa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jBP00fK8DfAhmmc2d6y1nUkhdjY.jpg",
+      "description": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092675",
+      "type": "movie",
+      "name": "Contacto Sangriento",
+      "poster": "https://image.tmdb.org/t/p/w500/rxD09NPHYthJNO8KbiYmpS01CwE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg",
+      "description": "Jean-Claude Van Damme debuta en el cine con esta película de título apropiado. Van Damme interpreta a un soldado estadounidense huido en Hong Kong que se ve envuelto en el kumite, una competencia de boxeo ilegal. El que sobreviva al enfrentamiento será proclamado campeón mundial de kumite, un título rodeado de retos y homicidios. La final ofrece un duelo a muerte (o casi) entre Van Damme y el rey de kumite, Bolo Yeung. El guion está basado en la vida del campeón de artes marciales Frank Dux (que también es el coordinador de peleas de la película). Contacto sangriento, aunque no cuenta con los mayores valores de producción, ofrece toda la acción violenta.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Acción",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084805",
+      "type": "movie",
+      "name": "Tootsie",
+      "poster": "https://image.tmdb.org/t/p/w500/vCX2U9j88qKL7j56OKx6mhhIlLP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+      "description": "Michael Dorsey es un actor neoyorkino sin éxito. Además, en los círculos artísticos tiene fama de conflictivo. Como su mala racha no se acaba, un día toma una importante decisión: hacerse pasar por una mujer para encontrar trabajo. Consigue un papel, pero su nueva identidad le traerá no pocas complicaciones en su vida diaria.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086567",
+      "type": "movie",
+      "name": "Juegos de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/74gMQnlZzbhp8DJXMO5Epp5rGI1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+      "description": "A David Lughtman, estudiante de diecisiete años, le han suspendido varias asignaturas. Pero haciendo uso de su gran habilidad con las computadoras, logra cambiar las notas y aprobar el curso. Un día, jugando con su máquina, David entra en contacto con \"Joshua\", la computadora del Departamento de Defensa de los Estados Unidos, y decide \"jugar a la guerra\". El muchacho cree que es un juego más pero, sin darse cuenta, desafía a \"Joshua\" a un escalofriante juego de guerra termonuclear mundial. Entre las dos máquinas planean desplegar todas las estrategias y opciones para una Tercera Guerra Mundial.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091530",
+      "type": "movie",
+      "name": "La misión",
+      "poster": "https://image.tmdb.org/t/p/w500/rubwmohm8t5TTtBZyYQ9BHOwDUQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/izgDdMvuRvTtA2azhKwPvfITZU1.jpg",
+      "description": "Hispanoamérica, siglo XVIII. En plena jungla tropical junto a las cataratas de Iguazú un misionero jesuita, el padre Gabriel, sigue el ejemplo de un jesuita crucificado, sin más armas que su fe y un oboe. Al ser aceptado por los indios guaraníes, Gabriel crea la misión de San Carlos. Entre sus seguidores está Rodrigo Mendoza, ex-traficante de esclavos, mercenario y asesino, que buscando el perdón se hace jesuita y encuentra la redención entre sus antiguas víctimas. Después de luchar juntos durante años, se enfrentan a causa de la independencia de los nativos: Gabriel confía en el poder de la oración; Rodrigo, en la fuerza de la espada.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097493",
+      "type": "movie",
+      "name": "Las Heathers",
+      "poster": "https://image.tmdb.org/t/p/w500/nrgQdiUZ6SAtsHABov7Y7VtasDr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+      "description": "Un grupo de cuatro estudiantes, consideradas como las chicas más populares de su escuela secundaria, cometen todo tipo de crueldades con sus compañeras y compañeros. Una de estas chicas, Verónica Sawyer (Winona Ryder), empieza a darse cuenta de que lo que hacen no es bueno, pero le resulta difícil salir del grupo. Aliada con un nuevo chico que ha llegado a la escuela, logran matar a tres alumnos molestos, aunque en todos los casos aparecen como suicidas. Pronto, Verónica comprobará que su amigo es un psicópata.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097239",
+      "type": "movie",
+      "name": "El chofer de la señora Daisy",
+      "poster": "https://image.tmdb.org/t/p/w500/ffg0xZcdZvcRvjauf86YJFa2q2A.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4XC0HwRNOvub6xksENsOl68zHOn.jpg",
+      "description": "Miss Daisy es una antipática y autoritaria profesora jubilada de 72 años. Tras sufrir un accidente conduciendo su coche, su hijo, temiendo por la vida de su madre, contrata a un chófer negro para que la lleve de paseo. Al principio, la desconfianza de la anciana respecto al tranquilo conductor es absoluta.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082198",
+      "type": "movie",
+      "name": "Conan, el bárbaro",
+      "poster": "https://image.tmdb.org/t/p/w500/sC8ykZpV1K0lLxrbr3tbkqZFnXE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg",
+      "description": "En la historia de la humanidad, los tiempos más recordados son aquellos de las grandes hazañas y fantásticas aventuras. Esa es la época de Conan el Bárbaro. Conan es capturado cuando tan sólo era un niño después que sus padres fueran asesinados por el malvado Thulsa Doom, el cabecilla de una secta de adoradores a la Serpiente. Quince años de agonía forjarón a Conan como un guerrero insuperable. Liberado por su dueño, Conan, en compañía de sus amigos Subotai, Mongol y Valeria, Reina de los Ladrones, emprenden un viaje en busca de venganza y sabiduría.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096446",
+      "type": "movie",
+      "name": "Willow en la tierra del encanto",
+      "poster": "https://image.tmdb.org/t/p/w500/kymxskRkwRGGrlJLdneItwTIAHm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+      "description": "Temerosa de que una profecía declare que una niña nacerá para provocar su caída, la malvada Reina Bavmorda encarcela a todas las mujeres embarazadas dentro de la formidable fortaleza de Nockmaar. Una niña, Elora Danan, nace en las mazmorras de Nockmaar y es identificada como la niña profetizada por una marca de nacimiento en su brazo. Sin embargo, antes de que la hechicera negra llegue para reclamar al niño, la madre de Elora convence a su renuente partera a escapar con el bebé. Willow, un agricultor tímido y aspirante a hechicero, tiene la misión de librar al infante real del mal.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasía",
+        "Aventura",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087928",
+      "type": "movie",
+      "name": "Loca academia de policía",
+      "poster": "https://image.tmdb.org/t/p/w500/wmphZLnqARmCvjFvYkBAMhlsmNl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6qAYgsvnH4wUS9fAcrxUvUtCM6x.jpg",
+      "description": "Las nuevas normas dictadas por la alcaldesa significan que el sexo, el peso, la altura y la inteligencia ya no serán factores decisivos para alistarse en las fuerzas del orden. Esto abre las puertas de toda clase de chusma, para disgusto de los instructores, si bien es cierto que no todo el mundo estará ahí por elección, como es el caso de Mahoney cuya alternativa era la prisión, y que intentará por todos los medios que le expulsen hasta que se da cuenta de que le gusta ser cadete de la academia.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086979",
+      "type": "movie",
+      "name": "Sangre Fácil",
+      "poster": "https://image.tmdb.org/t/p/w500/7dOgSVkyriDOyAhQiwMXm2i2XoO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+      "description": "Texas. Una joven casada y muy seductora cae en brazos de Ray, uno de los empleados de su marido. Enterado por un detective privado de la infidelidad de su mujer y obsesionado por la traición, Julián se decide a preparar el asesinato de ambos.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090329",
+      "type": "movie",
+      "name": "Testigo en peligro",
+      "poster": "https://image.tmdb.org/t/p/w500/6yHHJShrI6uNWYHVC2Z776yDEiI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aDn3wL0ObbA5TCn5ZLri9xI2kUZ.jpg",
+      "description": "En su primer viaje a Philadelphia, Samuel Lap, un niño de una comunidad \"amish\", presencia por casualidad el brutal asesinato de un hombre. John Book (Harrison Ford) será el policía encargado de protegerles, a él y a su madre, de quienes quieren eliminar al niño sea como sea. Cuando Book se entera de que el asesinato está relacionado con una trama de corrupción en el seno de la policía, decide refugiarse en el poblado amish.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092007",
+      "type": "movie",
+      "name": "Viaje a las estrellas IV: Misión salvar a la Tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/vf47SrKxzFjoTl3ilcRkjKsGWW8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+      "description": "William Shatner, Leonard Nimoy y el resto de la tripulación del USS Enterprise, alcanzan cotas muy elevadas en una de las más aplaudidas e intrigantes aventuras de la saga Star Trek. Estamos en el siglo XXIII y un misterioso poder alienígena amenaza la Tierra, evaporando los océanos y destruyendo la atmósfera. En un frenético intento para salvar a la humanidad, Kirk y su tripulación viajan en el tiempo y regresan al San Francisco de 1986, encontrándose con un mundo de punks, pizza y autobuses de cambio exacto que resultan ser tan alienígenas como todo lo que se han encontrado en los lugares más recónditos de la galaxia. Una misión emocionante y repleta de acción para la nave espacial Enterprise.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082176",
+      "type": "movie",
+      "name": "Yo,  Christiane F., 13 años, drogada y prostituta",
+      "poster": "https://image.tmdb.org/t/p/w500/p79zGPQ2SdVuLZlE6K1f00mab7w.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vhu2Nscn4HTi5gwYBRXU3OJqVCo.jpg",
+      "description": "Christiane, de 14 años, vive con su madre y su hermanita en Berlín. Aunque es menor de edad para entrar en la nueva discoteca \"Sound\", le pide a un amiga que la lleve. Allí conoce a Detlef, que pertenece a una pandilla en la que todos se drogan. Poco a poco se va adentrando más en el ambiente.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085333",
+      "type": "movie",
+      "name": "Christine",
+      "poster": "https://image.tmdb.org/t/p/w500/AtgrsSurLLrzGL3Bh7pLcg1QHki.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6goydaLavDu3d2g3kFJHECZiddt.jpg",
+      "description": "Arnie Cunningham, un joven que sufre acoso escolar, consigue el automóvil de sus sueños: un Plymouth Fury del 58. Arnie se obsesiona con el vehículo y este cobra vida propia y empieza a asesinar a quienes se interponen entre ellos.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081573",
+      "type": "movie",
+      "name": "Superman II",
+      "poster": "https://image.tmdb.org/t/p/w500/3ymtd76B8SkEcd51tQ1mzNf36s3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+      "description": "Tres criminales procedentes del planeta Krypton, a los que el padre de Superman condenó a vagar por el espacio, eluden su condena y llegan a la Tierra para enfrentarse a Superman en una batalla cósmica por la supremacía sobre el planeta. El superhéroe sigue ocultando su identidad tras la tímida personalidad del reportero Clark Kent, aunque su novia Lois Lane empieza a sospechar algo.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092563",
+      "type": "movie",
+      "name": "Corazón satánico",
+      "poster": "https://image.tmdb.org/t/p/w500/y7teH7l6cA254OTiOix1XkLOavq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/viDonz5uLmengw9RUAh3Rf65dQG.jpg",
+      "description": "A down-and-out Brooklyn detective is hired to track down a singer on an odyssey that will take him through the desperate streets of Harlem, the smoke-filled jazz clubs of New Orleans, and the swamps of Louisiana and its seedy underworld of voodoo.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082933",
+      "type": "movie",
+      "name": "Posesión",
+      "poster": "https://image.tmdb.org/t/p/w500/kTVEsT1Jvml9AzUcGRrvB9Q6pSA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+      "description": "Berlín, antes de la caída del muro. Cuando Marc regresa de un viaje encuentra a su esposa Anna cambiada, muy nerviosa y perturbada. Por fin, le confiesa que tiene una aventura y lo abandona. Marc cae en una terrible depresión que lo lleva casi al borde de la locura. Unas semanas después, el detective privado que ha contratado para que siga a su mujer es salvajemente asesinado. La verdad sobre la aventura secreta de Anna se revelará monstruosa.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085995",
+      "type": "movie",
+      "name": "Vacaciones Familiares",
+      "poster": "https://image.tmdb.org/t/p/w500/b2QxfHag6RKOigl66PS62K1CPFd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rBL73dGfdEqTr7Xj0HytF9s9SbM.jpg",
+      "description": "Una familia realiza un viaje por los Estados Unidos para visitar un parque de atracciones. El esposo, Rusty Grinwold, quiere seguir el ejemplo de su padre y fortalecer de esta forma los vínculos que unen a los miembros de la familia, compuesta por su esposa, sus dos hijos y él.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Comedia",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089374",
+      "type": "movie",
+      "name": "Historia Policiaca",
+      "poster": "https://image.tmdb.org/t/p/w500/2EfGFoNpf1TGi0KdXgALbmcBJAI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+      "description": "Kevin es un policía de Hong Kong que se enfrenta a una difícil misión: debe atrapar al capo de la droga del país. Pero para condenar al criminal solo hay una testigo que puede incriminarle y Kevin es el único que puede protegerla. Evidentemente todos los criminales a las órdenes del capo intentarán matar a la testigo y a su guardaespaldas.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097351",
+      "type": "movie",
+      "name": "El Campo de los Sueños",
+      "poster": "https://image.tmdb.org/t/p/w500/60goRjnV5olTMdXZ6r6tkhyCZ2b.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
+      "description": "Un granjero de Iowa, casado y con una hija, tiene un día una experiencia sobrenatural: una misteriosa voz le ordena construir en sus tierras de cultivo un campo de béisbol para que las viejas glorias de ese deporte bajen del cielo y vuelvan a jugar...",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096969",
+      "type": "movie",
+      "name": "Nacido el Cuatro de Julio",
+      "poster": "https://image.tmdb.org/t/p/w500/wube6W2ntQeuIO42ND76oUP25Y1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/y9QjSsIH4vBIIqGmAFT1zJzsqPh.jpg",
+      "description": "Ron Kovic, veterano de Vietnam, vive los horrores de la guerra, tanto en el frente de batalla como en su vida civil.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085936",
+      "type": "movie",
+      "name": "Cuento de Navidad de Mickey",
+      "poster": "https://image.tmdb.org/t/p/w500/6Waedl5MCYlaOp0uuv4HZrvyXGj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/41ocXijKgjMS17QXydzKdwCaTsU.jpg",
+      "description": "Los clásicos personajes animados de Disney interpretan los papeles en este recuento animado de la obra maestra de Charles Dickens.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Familia",
+        "Animación"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091149",
+      "type": "movie",
+      "name": "Policías y Ratones",
+      "poster": "https://image.tmdb.org/t/p/w500/osNTFX6TRPCXbujQJWyXc912DgE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ijCfzdRLhrdu9OUIaPsVt08ogT5.jpg",
+      "description": "A finales del siglo XIX, Basil, el Sherlock Holmes del mundo de los ratones tiene que enfrentarse a su eterno enemigo: el profesor Ratigan. La aventura comienza cuando una jovencita es raptada por el villano Ratigan. Entonces Basil y sus inseparables amigos, el Dr. Dawson y Tobi, se embarcarán en una apasionante misión de rescate.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Misterio",
+        "Crimen",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086066",
+      "type": "movie",
+      "name": "Rebeldes",
+      "poster": "https://image.tmdb.org/t/p/w500/w80ehjkLJDR9DgJ57ms5CvNYDal.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
+      "description": "Una rivalidad entre pandillas provoca una tragedia en la década de los sesenta en Oklahoma entre los Soc y los Greasers. Un joven sensible enloquece cuando su mejor amigo mata a un miembro de una pandilla rival.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085407",
+      "type": "movie",
+      "name": "La zona muerta",
+      "poster": "https://image.tmdb.org/t/p/w500/31Q1tTbmXzEu5i1Xqet75kZJRnG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/icvgQHxrKEDx92VQ5WHiEmEAUKH.jpg",
+      "description": "Johnny Smith es un maestro de escuela con toda su vida por delante pero, después de dejar la casa de su prometida una noche, está involucrado en un accidente automovilístico que lo deja en coma durante 5 años. Cuando se despierta, descubre que tiene la capacidad de ver el pasado, presente y futuro de cualquier persona con la que entra en contacto físico.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Suspense",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091167",
+      "type": "movie",
+      "name": "Hannah y sus hermanas",
+      "poster": "https://image.tmdb.org/t/p/w500/zU7aEciHJrZuuH1QKOifXYbRYqM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+      "description": "El marido de Hannah tiene un romance con una hermana, y su ex-marido termina casándose con la otra hermana.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080801",
+      "type": "movie",
+      "name": "Los Dioses Deben Estar Locos",
+      "poster": "https://image.tmdb.org/t/p/w500/qdGWx0CyuhBD1FlDqbwWwEKhq8h.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3gzI0UrLqIR9D40qshwduhGZCp3.jpg",
+      "description": "La miseria es llevada a un pequeño grupo de Sho en el desierto de Kalahari en forma de una botella de cola. En su búsqueda por arrojar el objeto malvado sobre el borde de la tierra, Xixo se encuentra con la \"civilización\" occidental, un médico al azar y un déspota tiránico.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089755",
+      "type": "movie",
+      "name": "África mía",
+      "poster": "https://image.tmdb.org/t/p/w500/9Uv8V13yVhBIpswAEkxqkS0SFEM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
+      "description": "La Baronesa Bixen (Meryl Streep), quien utiliza como escritora el seudónimo de Isak Denisen, se enamora del cazador británico Denys Finch Hatton (Robert Redford) a principios del siglo XX en Kenia.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Historia",
+        "Romance",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096928",
+      "type": "movie",
+      "name": "Bill y Ted: La Magnífica Aventura",
+      "poster": "https://image.tmdb.org/t/p/w500/8BM7Ydo0p3Y5EN4ER0On2Ojfwzb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aMASmAmkn7NT0nEq8PBZEgwBfGN.jpg",
+      "description": "Bill y Ted, de diecisiete años, amigos inseparables y miembros de una banda de rock, sienten más interés por la música que por sus estudios. El día de su graduación está cerca y deben aprobar como sea el examen de Historia. Las cosas están difíciles para los chicos, sin embargo, la aparición de un personaje inesperado va a serles de crucial ayuda. Se trata de Rufus, un emisario del futuro, que les ofrece un alucinante viaje en el tiempo para conocer a algunos de los más importantes personajes de la historia.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089885",
+      "type": "movie",
+      "name": "Resurrección satánica",
+      "poster": "https://image.tmdb.org/t/p/w500/rQKf9DuurLWvuMyv4NLE3gJ5tW8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
+      "description": "Un estudiante dedicado en una facultad de medicina y su novia se involucran en experimentos extraños centrados en la re-animación de tejido muerto cuando un nuevo estudiante extraño llega al campus.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Ciencia ficción",
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084827",
+      "type": "movie",
+      "name": "Tron",
+      "poster": "https://image.tmdb.org/t/p/w500/jJ8eBV407GHn6q0nIvSsnt0C6vV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
+      "description": "Trás hackear la computadora de su exempleador, el creador de videojuegos Kevin Flynn se teletransporta en un asombroso mundo digital. Cómo forma parte del juego, su misión es enfrentarse a un maniático Programa de Control Maestro y aliarse con Tron, un programa de seguridad.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097937",
+      "type": "movie",
+      "name": "Mi pie izquierdo",
+      "poster": "https://image.tmdb.org/t/p/w500/zhBhzNvUbIqjl2xDmwuTPmDNwYi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zjKg04EquTcnVZUfjHboXnXzjcF.jpg",
+      "description": "Película basada en un relato autobiográfico del pintor y escritor irlandés Christy Brown (1932-1981). Aquejado de parálisis cerebral, gracias a su tenacidad y al incondicional apoyo de su madre, consiguió derribar todas las barreras que impedían su integración en la sociedad. Un conmovedor ejemplo de superación personal y lucha por alcanzar los sueños.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085334",
+      "type": "movie",
+      "name": "Una historia de navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/6zQwRUJcDvLiLIrUjdTtt1WZUkJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
+      "description": "En los años cuarenta, un niño quiere como regalo de navidad un rifle de aire comprimido. Claro está, los padres piensan que no es una buena idea. Comedia familiar extraordinariamente popular en Estados Unidos que se basa en las historias del humorista Jean Shepherd. Calificada como divertida y conmovedora a partes iguales, una tierna historia con mensaje que encandila tanto a los adultos como a los más jóvenes.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093894",
+      "type": "movie",
+      "name": "La Carrera Mortal: El sobreviviente",
+      "poster": "https://image.tmdb.org/t/p/w500/AefN7B8TeJxJqraUYqeTnAGiF93.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ssQ7IcGmgUJdFLv8cHY3vC3OR4f.jpg",
+      "description": "En el año 2017, el mundo se ha colapsado por culpa de una grave crisis económica. La primera potencia del planeta, los Estados Unidos de América, se hallan inmersos en el caos y el desconcierto. Para salir del atolladero, el gobierno inventa un videojuego que se emite por televisión y que logra altas cotas de audiencia. Consiste en soltar a varios convictos para que corran hacia la libertad mientras son perseguidos por auténticas máquinas de matar. Entre los participantes se encuentra Ben Richards (Arnold Schwarzenneger), dispuesto a aprovechar la oportunidad que le han ofrecido.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089853",
+      "type": "movie",
+      "name": "La rosa púrpura de El Cairo",
+      "poster": "https://image.tmdb.org/t/p/w500/h14XBPBjdS1Ex4q9zimiCBzU1CD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/afbfZtBOZIfxlzzvHCOfauI6pna.jpg",
+      "description": "EE.UU., Gran Depresión. Mientras Cecilia trabaja como camarera en Nueva Jersey, su marido se dedica a hacer el vago. Su única vía de escape es el cine, al que acude una y otra vez para evadirse de la realidad y soñar con un mundo de champagne, trajes de noche y fiestas elegantes. Una noche, el protagonista de su película favorita, \"La rosa púrpura de El Cairo\", se fija en ella y atraviesa la pantalla para conocerla.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Fantasía",
+        "Comedia",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080761",
+      "type": "movie",
+      "name": "Viernes 13",
+      "poster": "https://image.tmdb.org/t/p/w500/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/edVRp9npNwQwJtD05KyZlzp1J2p.jpg",
+      "description": "Un grupo de orientadores de campamentos que intentan reabrir un campamento de verano llamado Crystal Lake, que tiene un pasado sombrío, son acechados por un misterioso asesino.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091419",
+      "type": "movie",
+      "name": "La Tiendita de Los Horrores",
+      "poster": "https://image.tmdb.org/t/p/w500/ikxLTpP7pbnXGS2GjZ7qzNctzTs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4GClKVuQuYfI60GdVMiZdgCOi7k.jpg",
+      "description": "La aburrida vida de un hombre en una floristería se ilumina al cultivar una planta cuyo apetito es por sangre humana.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089175",
+      "type": "movie",
+      "name": "La hora del espanto",
+      "poster": "https://image.tmdb.org/t/p/w500/8qD7I3NoljS842CsDygpF7yU9NW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/36MQ5hJJW4K28urrJIYImz9MOfa.jpg",
+      "description": "Charley Brewster, un estudiante de secundaria, descubre accidentalmente la verdadera y espeluznante naturaleza de Jerry Dandrige, su elegante y enigmático nuevo vecino; pero nadie parece dispuesto a creerle.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098084",
+      "type": "movie",
+      "name": "Cementerio de mascotas",
+      "poster": "https://image.tmdb.org/t/p/w500/nDOTdBy6RwR2HnjEvpb8kARfRlk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
+      "description": "Louis Creed, su esposa y sus dos niños se instalan en una vivienda próxima a una carretera con mucho tráfico. Cerca de la casa hay un sendero que lleva a un cementerio de animales y también a un antiguo cementerio indio; según la leyenda, los que sean enterrados allí volverán a la vida. Cuando uno de los niños muere atropellado por un camión, Louis decide enterrarlo en el cementerio indio.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088011",
+      "type": "movie",
+      "name": "En busca de la esmeralda perdida",
+      "poster": "https://image.tmdb.org/t/p/w500/ywCw2QaeH4JfWtq1xOfF8cETXKf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t2JVeiLvv3k7KlHFUou8tkrMZTN.jpg",
+      "description": "Joan Wilder, una escritora de novelas románticas, debe viajar a Colombia con un misterioso paquete para que su hermana sea liberada por unos traficantes de droga que la han secuestrado. Cuando llega al país sudamericano, alguien está a punto de asesinarla, y es salvada por Jack Colton, un aventurero buscavidas que se parece demasiado al héroe protagonista de sus novelas.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Acción",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088286",
+      "type": "movie",
+      "name": "Super secreto",
+      "poster": "https://image.tmdb.org/t/p/w500/eS3WYx18vouzMQQOpV4cWw5ArP0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
+      "description": "La famosa estrella del rock americano Nick Rivers llega a la Alemania Oriental de nuestros días, para presentarse a un importante festival cultural. Pero este hecho forma parte de un plan para distraer la atención del mundo exterior sobre lo que está sucediendo realmente. El alto mando de Alemania Oiental, encabezado por el general Streck, se propone reunir nuevamente las dos Alemanias bajo un sólo gobierno, el de Alemania Oriental.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092644",
+      "type": "movie",
+      "name": "Un detective suelto en Hollywood II",
+      "poster": "https://image.tmdb.org/t/p/w500/19fU9cD8nBp3riUgKZi6nLSMO88.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+      "description": "El detective de Detroit Axel Foley se entera por las noticias de la tele de que su amigo Andrew Bogomil, capitán de la policía de Beverly Hills, ha sido tiroteado por una mujer. Cuando va a visitarlo al hospital, conoce a su hija Jan. Con la ayuda de dos agentes amigos suyos intenta localizar a la culpable, a pesar de que el jefe de policía Harold Lutz ha intentado encontrar alguna razón para despedir a los dos agentes. Axel y sus amigos descubren que los \"atracos del alfabeto\", que han tenido lugar en la zona, son obra del traficante de armas Maxwell Dent, que ha enviado a su prometida Karla Fry a matar a Bogomil porque éste le iba siguiendo los pasos.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095631",
+      "type": "movie",
+      "name": "Fuga a la medianoche",
+      "poster": "https://image.tmdb.org/t/p/w500/fEA1MuEdubDun5OzKPJvCT2INYZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5bJuEI1jHkZIktD3vnshdWkJSH8.jpg",
+      "description": "Un expolicía de Chicago que se dedica a capturar forajidos recibe una oferta de cien mil dólares a cambio de encontrar a un contable que se ha fugado con dinero de la mafia. A primera vista, parece un trabajo sencillo, pero resulta que hay otro cazador de recompensas que busca al mismo individuo.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087277",
+      "type": "movie",
+      "name": "Todos a bailar",
+      "poster": "https://image.tmdb.org/t/p/w500/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t8n5mvmnJUYJkyfOPWYEtvqePuM.jpg",
+      "description": "Ren (Kevin Bacon), un adolescente recién llegado de Chicago, se ha mudado con su familia a un pequeño pueblo del medio oeste donde el estricto pastor Shaw Moore (John Lithgow) ha prohibido el baile a los jóvenes. Pero Ren, que además de rebelde es un entusiasta de la música, intentará por todos los medios acabar con esa prohibición, al tiempo que se enamora de Ariel (Lori Singer), la hija de Moore.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088128",
+      "type": "movie",
+      "name": "Dieciséis velas",
+      "poster": "https://image.tmdb.org/t/p/w500/qxmF57PlUILsJ7BK3KKxJXJaxQs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6hgpBRaa1mWIrDGvkkf8BIusTZ4.jpg",
+      "description": "La vida de Samantha se está desmoronando. A sus quince años está enamorada del chico más popular de la escuela y, a su vez, el chico «menos» popular lo está de ella. Su hermana está a punto de casarse y, con la excitación que produce el acontecimiento en su familia, los miembros de ésta se olvidan… de su cumpleaños. Además, sus abuelos le ponen continuamente en situaciones embarazosas.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094947",
+      "type": "movie",
+      "name": "Relaciones peligrosas",
+      "poster": "https://image.tmdb.org/t/p/w500/oLuTwurVSb7X8t13SEhKo4Rfrvt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xH9mjObdAatWoHpT912DDK8hEYG.jpg",
+      "description": "Francia, siglo XVIII. La perversa y fascinante marquesa de Merteuil (Glenn Close) planea vengarse de su último amante con la ayuda de su viejo amigo el Vizconde de Valmont (John Malkovich), un seductor tan amoral y depravado como ella. Una virtuosa mujer casada, Madame de Tourvel (Michelle Pfeiffer), de la que Valmont se enamora, se verá involucrada en las insidiosas maquinaciones de la marquesa.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083791",
+      "type": "movie",
+      "name": "El Cristal Encantado",
+      "poster": "https://image.tmdb.org/t/p/w500/w9Nr9WWe9Ls5aa5A1Ntc3wDSpp3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dlIkuHYT977POygUBGZyOszFUB.jpg",
+      "description": "En otro planeta de un pasado lejano, un Gelfling se embarca en una misión para encontrar el fragmento perdido de un cristal mágico y restaurar el orden en su mundo, antes de que la grotesca raza de los Skeksis encuentre y utilice el cristal para el mal.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091474",
+      "type": "movie",
+      "name": "Cazador de hombres",
+      "poster": "https://image.tmdb.org/t/p/w500/ndrnaRtKgxnc8K2F0CCTioabzoA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zOO8GRa02x9o1iGOIIAJD50YcMW.jpg",
+      "description": "Will Graham (William Petersen) regresa a la policía persuadido por un compañero. Encargado de la difícil tarea de dar caza a un escurridizo asesino que ataca sólo los días de luna llena, Graham decide emplear métodos poco convencionales. De este modo, recurre al doctor Hannibal Lecter (Brian Cox), otro asesino en serie, para entrar en la mente del asesino, pero esto le llevará a estar expuesto a la inteligencia de un genio poniendo en peligro su salud mental.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Crimen",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097523",
+      "type": "movie",
+      "name": "Querida, encogí a los niños",
+      "poster": "https://image.tmdb.org/t/p/w500/fYuM52Y2gxJGmM2jJfuoPVcDrhk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jQuP23kN9iEBglGpw4AxRagoqBf.jpg",
+      "description": "Wayne Szalinski es un científico e inventor que desarrolla una máquina que permite encoger el tamaño de los objetos. Una pelota de béisbol activa accidentalmente la máquina sobre sus hijos, que vivirán una auténtica aventura intentando atravesar el césped del jardín hasta la casa, convertido ahora en una auténtica \"jungla\" para ellos.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Familia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093629",
+      "type": "movie",
+      "name": "Pesadilla en la calle del infierno 3",
+      "poster": "https://image.tmdb.org/t/p/w500/nT041ZZKpuEJ1LiJSjrAFsPxpj1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/euXJlfeYSyrdkOoFQ9gtUG8OOhH.jpg",
+      "description": "Años después de los incidentes, Nancy se ha convertido en una psiquiatra especializado en terapia del sueño, pero Freddy también sigue en activo, y comienza a parecerse en los sueños de varios de los pacientes. Nancy los reúne a todos en busca de una forma de parar al monstruo.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095497",
+      "type": "movie",
+      "name": "La última tentación de Cristo",
+      "poster": "https://image.tmdb.org/t/p/w500/sbW81ujwitYWlW860ODdM0RQbjq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
+      "description": "Explora las luchas internas y tentaciones humanas de Jesús mientras enfrenta su destino divino como el Mesías. Esta película desafía las percepciones convencionales de la fe y la redención, ofreciendo una perspectiva única y poderosa sobre la figura central del cristianismo.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095675",
+      "type": "movie",
+      "name": "Mujeres al borde de un ataque de nervios",
+      "poster": "https://image.tmdb.org/t/p/w500/3Mw74Vdc5xpoKQ3exlJuolyGYb6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eRzwmzyz4sSq2QqjXWehWNkU0Us.jpg",
+      "description": "Una mujer inestable que busca a su ex amante se encuentra con caos cuando un diverso grupo de extraños entra en su vida.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086197",
+      "type": "movie",
+      "name": "Los elegidos",
+      "poster": "https://image.tmdb.org/t/p/w500/bCM5AF6kaL86aW4udTe22SAqMk6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jPdRlbRBHGl2POLLk6Oylbav7ac.jpg",
+      "description": "Chuck Yeager fue un intrépido piloto de pruebas que rompió la barrera del sonido pilotando un x-1. A pesar de ello, nunca alcanzó la fama que consiguieron los primeros astronautas que formaron la tripulación de la Mercury, la primera nave espacial: Shepard, Grissom, Glenn, Carpenter, Schirra, Cooper y Slayton.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089767",
+      "type": "movie",
+      "name": "El Jinete Pálido",
+      "poster": "https://image.tmdb.org/t/p/w500/vOezX2ee3fuCCvFjjCRt5hP1Fw1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
+      "description": "Un grupo de colonos buscadores de oro se establece en un lugar de California, pero sufren el acoso de los hombres de Lahood, el propietario del resto de las explotaciones mineras. Pero un día al poblado llega un misterioso y frío predicador (Clint Eastwood) que se pone de parte de los colonos, y comienza a enfrentarse al temido cacique local.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082495",
+      "type": "movie",
+      "name": "Halloween II",
+      "poster": "https://image.tmdb.org/t/p/w500/apMPhXFMkqfBHx8ltZKMDB9JuAi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lDXQNRmQKzJGdEJSDxWrjIZb7gB.jpg",
+      "description": "El psicópata Michael Myers sigue vivo y vuelve a ponerse en acción. Ahora se dirige a un pequeño hospital donde se encuentra Laurie Strode, la única víctima que logró sobrevivir a su primer ataque. Mientras tanto, el doctor Loomis sigue buscando a su sanguinario paciente.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093010",
+      "type": "movie",
+      "name": "Atracción fatal",
+      "poster": "https://image.tmdb.org/t/p/w500/1SwLxBkQw6T2XRVa5ZiHJ7tMXwS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2UlBdiveZcOVrlNe5MYcI6TYeA7.jpg",
+      "description": "Dan Gallagher lleva una vida perfecta: tiene una esposa maravillosa, una hija encantadora y un buen trabajo. En una fiesta conoce a Alex, una atractiva mujer que lo seduce. Pero para Dan se trata únicamente de una aventura ocasional. Alex, en cambio, cuando él le anuncia el fin de la relación reacciona con una violencia inaudita. No acepta ser rechazada y sus sentimientos se convierten en una obsesión enfermiza y peligrosa..",
+      "releaseInfo": "1987",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084555",
+      "type": "movie",
+      "name": "Le père Noël est une ordure",
+      "poster": "https://image.tmdb.org/t/p/w500/xkTLoFbNpBPt5SyTPqllw9F97YM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wqDy23S6NJaPbUyVecv1WyCuMmy.jpg",
+      "description": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a cross-dresser visit their office.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088993",
+      "type": "movie",
+      "name": "El día de los muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/ne35GlABRF821ENspOTPrghiEsq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+      "description": "Los zombies se han apoderado del planeta, y el número de humanos se reduce a uno por cada 400.000 muertos vivientes. Un pequeño grupo de personas, formado por científicos y militares, se refugian en una antigua instalación subterránea del gobierno. Allí intentan contactar sin éxito con otros grupos supervivientes. Mientras, los doctores investigan el origen del fenómeno, y de su posible cura; a la vez que intentan \"domesticar\" a un muerto viviente al que mantienen encadenado. A medida que pasa el tiempo, las tensiones entre los científicos y los soldados irán creciendo dentro del grupo.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090863",
+      "type": "movie",
+      "name": "El Color del Dinero",
+      "poster": "https://image.tmdb.org/t/p/w500/eGtURb1zBDPtaoo3umzM5ZH8dvH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg",
+      "description": "El ex estafador de billar \"Fast Eddie\" Felson decide que quiere regresar al juego tomando un alumno. Conoce al talentoso pero verde Vincent Lauria y propone una sociedad. Mientras recorren los pasillos de la piscina, Eddie le enseña a Vincent los trucos de la estafa, pero finalmente se frustra con las travesuras de Vincent, lo que lleva a una discusión y una pelea. Eddie vuelve a jugar y pronto se cruza con Vincent como oponente.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095956",
+      "type": "movie",
+      "name": "Rambo III",
+      "poster": "https://image.tmdb.org/t/p/w500/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+      "description": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
+      "releaseInfo": "1988",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096061",
+      "type": "movie",
+      "name": "Los fantasmas contraatacan",
+      "poster": "https://image.tmdb.org/t/p/w500/imUdf26emrefm78nvVUs6FizUi3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6Cld2xtKYfWnWK3w3gfJRRA82vd.jpg",
+      "description": "En esto moderno toman en Charles Dickens «Un Villancico», Frank Cross (Bill Murray) es un ejecutivo de televisión como un loco afortunado cuya ambición fría y la naturaleza curmudgeonly han ahuyentado el amor de su vida, Claire Phillips (Karen Allen). Pero después de despedir a un empleado, Eliot Loudermilk (Bobcat Goldthwait), durante la Nochebuena, Frank es visitado por una serie de fantasmas que le dan una posibilidad de revaluar sus acciones y derecho los males de su pasado.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasía",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087182",
+      "type": "movie",
+      "name": "Dunas",
+      "poster": "https://image.tmdb.org/t/p/w500/sk4eTjGfp58RLRr67qzFUbX9EPl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+      "description": "En el año 10,191, el mundo está en guerra por el control del planeta desierto Dune, el único lugar donde se puede encontrar la sustancia de viaje en el tiempo 'Spice'. Pero cuando un líder cede el control, es solo para poder dar un golpe con algunos personajes desagradables.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0087803",
+      "type": "movie",
+      "name": "1984",
+      "poster": "https://image.tmdb.org/t/p/w500/jVRtxHwDkiKDKCinh9xy7lrg9go.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/alxkhwiANOXV1MOysWnDoUqIw8O.jpg",
+      "description": "Anhelando la libertad, el humilde burócrata del Ministerio de la Verdad, Winston Smith, reúne el coraje para escribir sus deseos tácitos en su pequeño diario secreto. Sirviendo silenciosamente al placer del sombrío y autocrático hiper-estado de Oceanía, Smith sabe que el líder supremo del Partido Socialista Inglés, el omnipotente Gran Hermano, observa cada uno de sus movimientos, condenando al pueblo ya aterrorizado a una vida de esclavitud. En esas terribles circunstancias, a medida que el asfixiante dominio del gobierno totalitario se aprieta cada vez más, Julia, otro miembro del partido igualmente sedicioso, se cruza con Winston y comienza una peligrosa aventura clandestina. Ahora no hay vuelta atrás y, tarde o temprano, la pareja ilícita tendrá que pagar por sus horribles crímenes contra el estado dictatorial. ¿Qué hace a un buen ciudadano?",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0080749",
+      "type": "movie",
+      "name": "La Niebla",
+      "poster": "https://image.tmdb.org/t/p/w500/ggMJD3zupAwzAXwj9szGf6vnobY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pAOLiapALC7Q5pcCPDTA6P9pRuv.jpg",
+      "description": "En la costa de California se alza el pintoresco centro turístico de Antonio Bay. Mientras sus residentes se preparan para las celebraciones del centenario de la ciudad, la tripulación de un viejo barco aparece brutalmente asesinada. Al mismo tiempo, en el mar, una misteriosa niebla que oculta un mortífero secreto comienza a desplazarse inexorablemente cada noche hacia la costa. Según una leyenda local, estos extraños sucesos están aparentemente relacionados con un terrible acontecimiento sucedido hace cien años. A medida que se aproxima el día del centenario el horror se acerca a su clímax.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089530",
+      "type": "movie",
+      "name": "Mad Max 3: Más Allá de la Cúpula del Trueno",
+      "poster": "https://image.tmdb.org/t/p/w500/u9gVwCajHkJpVAaVRau2xSOeHcl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cO8zcdPhLT3UdykkXCvfhIVrgHK.jpg",
+      "description": "Tras la catástrofe nuclear, Mad Max cruza un desierto donde pierde su caravana de camellos. Llega a una ciudad donde le proponen cambiárselos a cambio de que ataque al tirano de la ciudad subterránea, un enano que fabrica gas metano con excrementos de cerdo.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097659",
+      "type": "movie",
+      "name": "Kickboxer",
+      "poster": "https://image.tmdb.org/t/p/w500/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+      "description": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095776",
+      "type": "movie",
+      "name": "Oliver y su pandilla",
+      "poster": "https://image.tmdb.org/t/p/w500/31pu0jSoa6iUouojFnjjlqgOnHB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/k18aKqDPrbTsijtN9jRpnTHxQks.jpg",
+      "description": "Un gatito huérfano llamado Oliver se une a Fagin y a su banda de ladronzuelos con Dodger, un maestro moviéndose por la ciudad, y el simpático Chiguagua Tito. Un buen día, el pequeño Oliver deja las calles al ser adoptado por Jenny, una niña rica que se lo lleva a su casa, donde vivirá con todas las comodidades. Pero cuando Jenny es secuestrada por el malvado jefe de Fagin y su terrorífico Doberman, Oliver comprobará el valor de la verdadera amistad al ver cómo toda la banda se pone en marcha para rescatarla. Adaptación animada y muy libre de \"Oliver Twist\", de Charles Dickens.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089457",
+      "type": "movie",
+      "name": "El hechizo del halcón",
+      "poster": "https://image.tmdb.org/t/p/w500/gydqbhdg00Qqv7kh8BtAyLs1yXJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/DNb1rBm6R75IJ88PKOd0wfCHm6.jpg",
+      "description": "En una época de magia y aventuras, una leyenda heroica y sobrenatural relata la diabólica venganza del Obispo de Aquila que a consecuencia de una traición, jura impedir el amor de Navarre e Isabel. Apoderándose de las fuerzas del mal, lanza sobre la pareja un terrible hechizo: ella se convertirá en halcón durante el día y él en un acechante lobo gris por la noche... Eternamente unidos y separados, encontrarán un aliado en la persona de Philippe que les ayudará a conjurar la maldición del obispo.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083511",
+      "type": "movie",
+      "name": "48 horas",
+      "poster": "https://image.tmdb.org/t/p/w500/cHE4O3MjvH8Pv3qXEYaRtKbTwdR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xQTSGz5dvIAYFssPWhD160AcR7Z.jpg",
+      "description": "Cuando un par de asesinos sin escrúpulos consigue huir de prisión, dejando tras de sí un horrible reguero de crímenes, al malhumorado detective Jack Cates no le queda otra opción que sacar al timador Reggie Hammond de la penitenciaría para que le ayude a encontrar a los criminales. Sin embargo sólo dispondrán de 48 horas antes de que Hammond deba regresar a la cárcel.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Crimen",
+        "Acción",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098439",
+      "type": "movie",
+      "name": "Tango y Cash",
+      "poster": "https://image.tmdb.org/t/p/w500/ui0bFxY1kgxE7OAFyabvpRulhMi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vzvHhP8ZrDvOOx5fa9YC0OzDNIU.jpg",
+      "description": "Ray Tango y Gabriel Cash son dos exitosos detectives de narcóticos que no se soportan. El señor del crimen Yves Perret, furioso por la pérdida de ingresos que ambos le han causado, trama contra ellos una elaborada venganza.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Comedia",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093428",
+      "type": "movie",
+      "name": "007: Su nombre es peligro",
+      "poster": "https://image.tmdb.org/t/p/w500/smHFYwCsloLDcWS0WQyHsKvkDtN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg",
+      "description": "James Bond ha sido designado expresamente por el general Koskov, un desertor de la KGB, para que lo proteja durante su estancia en Inglaterra. Reunido con los directivos del MI6, Koskov contará que, su compatriota, el general Pushkin tiene la intención de asesinar a varios agentes británicos... pero Bond tiene sus sospechas y pretendiendo ayudar a Kara Milovy, la linda chelista protegida de Koskov, irá hasta el fondo del asunto.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082398",
+      "type": "movie",
+      "name": "007: Sólo para tus ojos",
+      "poster": "https://image.tmdb.org/t/p/w500/rMd3KkWy1K7qeZLFlFKY0SSMnPx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg",
+      "description": "El agente 007 debe recuperar el ATAC, un dispositivo militar secreto de guía por satélite, antes de que sea vendido a los rusos.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098206",
+      "type": "movie",
+      "name": "El duro",
+      "poster": "https://image.tmdb.org/t/p/w500/tqFabE4QxmCuDHngcyA6y6gPj7b.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cUrFALlZP6Zh5SYRPSUnOYXfMhr.jpg",
+      "description": "Dalton tiene un doctorado en Filosofía, pero ha optado por ganarse la vida como portero, una profesión bastante bien remunerada. Contratado para mantener el orden en el Double Duce en Jasper, Missouri, resulta herido en su primera noche en el local y es atendido por \"Doc\" Clay, una bella doctora de la localidad. Enseguida se enamora de ella, pero hay otro hombre que se interpone entre ambos: Brad Wesley, un extorsionista y capo mafioso.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091326",
+      "type": "movie",
+      "name": "Karate Kid II: La Historia Continúa",
+      "poster": "https://image.tmdb.org/t/p/w500/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7rfcRXbFD0xr8NteNq1hwXUd4Af.jpg",
+      "description": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción",
+        "Romance",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097027",
+      "type": "movie",
+      "name": "Pecados de guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/ds7iDFsSJcdAUMQobqQPNlR4tMP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/asg9dWAGNVjgztjOIhbaWQIYqrr.jpg",
+      "description": "Guerra de Vietnam. Recién incorporado a su pelotón, en la jungla vietnamita, el soldado Eriksson (Michael J. Fox) es testigo de un crimen brutal cometido por sus compañeros. Incapaz de permanecer al margen, se enfrentará al resto del pelotón, pero sobre todo al sargento Tony Meserve (Sean Penn), un hombre enérgico y carismático pero desquiciado por el horror y la brutalidad de la guerra.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084434",
+      "type": "movie",
+      "name": "Reto al Destino",
+      "poster": "https://image.tmdb.org/t/p/w500/jzVYFPiAgu3zRd5QSEEddChlVEE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w1lWBgc1FWtS2EM0vksA6bZtRYw.jpg",
+      "description": "Zack Mayo es un joven asignado a la Escuela Naval Militar de los Estados Unidos. Allí encontrará que su actitud es incompatible con el lugar, algo que intentará corregir el implacable sargento Foley. Durante el proceso conocerá a una joven lugareña, Paula, de la que se enamorará, y que supondrá un punto de inflexión en su vida.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090555",
+      "type": "movie",
+      "name": "Cocodrilo Dundee",
+      "poster": "https://image.tmdb.org/t/p/w500/q0Msbpvpe6yuvIUCyJuBbQ9UhUj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
+      "description": "Michael Dundee es un amigable y rudo cazador de cocodrilos en los salvajes campos australianos que, por su original filosofía de la vida, es considerado como un héroe entre los suyos. Su fama llega a oídos de Sue Charlton, una reportera de Nueva York que decide ir a Australia para visitarle y, una vez allí, le convence para que le acompañe en su viaje de regreso a América.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Aventura",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0097742",
+      "type": "movie",
+      "name": "007: Licencia para matar",
+      "poster": "https://image.tmdb.org/t/p/w500/pwPSNqyZqrxV4tWpgQFnRjAeRD1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/p6VFbg5lhWj0RCgXf5dj6IDMPvt.jpg",
+      "description": "El agente 007 a la caza y captura de un peligroso narcotraficante latinoamericano, con implicaciones personales de por medio: el capo de la droga mató a un amigo suyo, y Bond desea vengarse.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095031",
+      "type": "movie",
+      "name": "Dos pícaros sinvergüenzas",
+      "poster": "https://image.tmdb.org/t/p/w500/dzoavZcv9EnNhqHKAMN9Hcw16u7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cDDH3WzL2qqpGB45NNolZhRJRBA.jpg",
+      "description": "Lawrence Jamieson (Caine), seductor profesional que opera en la Riviera francesa, donde estafa a mujeres ricas, observa con desagrado cómo lo imita Fedy Benson (Martin), un advenedizo que pone en peligro su agradable y fácil modo de ganarse la vida. La competencia entre ambos dará lugar a las más disparatadas aventuras. Divertido filme de timadores, remake de \"Bedtime Story\" (1964).",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082348",
+      "type": "movie",
+      "name": "Excalibur",
+      "poster": "https://image.tmdb.org/t/p/w500/oPAC1Bso6KsViv8YhzJ60pl9y04.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+      "description": "Tras una larga y cruenta guerra, Uther Pendragon le ruega al mago Merlín que le ayude a seducir a la esposa de su nuevo aliado, el Duque de Cornwall. Merlín accede, pero a condición de que el fruto de esa unión le sea entregado. Esa misma noche, es concebido Arturo. Dieciocho años después, los nobles de un reino cuyo trono está vacante intentan apoderarse de Excalibur, la espada mágica que está incrustada en una piedra desde la muerte de Uther.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Aventura",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093260",
+      "type": "movie",
+      "name": "Viaje insólito",
+      "poster": "https://image.tmdb.org/t/p/w500/8roFG65NOnQRyxq5Cpq1HHRXg0f.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pM4tWr37Y2cOB0mVGmvbshKpvmP.jpg",
+      "description": "El temperamental piloto Tuck Pendelton (Dennis Quaid) se presta voluntario para un experimento que consiste en miniaturizarlo en el interior de una cápsula que debe ser introducida en un conejo. Pero unos delincuentes intentan apropiarse del invento, y Pendelton acaba por casualidad en el interior de un ser humano hipocondríaco llamado Jack Putter (Martin Short). A partir de ahí, ambos se verán obligados a colaborar para conseguir que Tuck pueda salir del cuerpo de Jack.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098621",
+      "type": "movie",
+      "name": "La Guerra de los Roses",
+      "poster": "https://image.tmdb.org/t/p/w500/1fM7eMDZQ6MlamjGmBWhIJnH3wm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2fdvCbGsTMIoOS2mRXCTy52FvCH.jpg",
+      "description": "La desintegración de un matrimonio perfecto, tan modélico que resultan insultantes sus vidas tan cómodas como vacías, se produce cuando la esposa, madre y ama de casa perfecta, con una eficaz y oronda sirvienta alemana que completa el cuadro familiar, cae en la cuenta de que desea algo más: recobrar su propia identidad.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086034",
+      "type": "movie",
+      "name": "007: Octopussy contra las chicas mortales",
+      "poster": "https://image.tmdb.org/t/p/w500/qaDfKkdJebet3Nbxn9efLj6PRf7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xTS1qCmhzH3vq7cuextO5vQA6eW.jpg",
+      "description": "El agente 009, compañero de James Bond, es asesinado en Berlín Oriental, aunque consigue llegar a la residencia del embajador británico antes de morir, llevando consigo una valiosísima pieza de orfebrería: un huevo de Pascua, creado por Fabergé. En Londres, especialistas del Servicio Secreto constatan que se trata de una falsificación de la joya original, que será subastada en breve. El hecho de que en un corto período de tiempo se hayan vendido piezas parecidas despierta las sospechas de los responsables de Inteligencia, que temen una maniobra rusa que estaría encaminada a recaudar fondos que irían destinados a oscuras operaciones. Tras la pista de Kamal Khan, turbio traficante de objetos de arte, James Bond llega a la India, lugar en el que descubrirá la relación entre el sospechoso, una misteriosa mujer conocida como Octopussy y el General Orlov, implicados todos ellos en una conspiración que pretende desatar un conflicto nuclear.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098258",
+      "type": "movie",
+      "name": "Digan lo que quieran",
+      "poster": "https://image.tmdb.org/t/p/w500/kUlRGwaY1xFhseehoCosSfoNKm8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bAdIO0Jt886Ad1eY9bDXXeCpXsV.jpg",
+      "description": "Lloyd Dobler, un eterno optimista, busca conseguir el corazón de Diane Court, una inalcanzable belleza del instituto, además de una intachable estudiante. Todo el mundo se sorprende, incluido Lloyd, cuando ella demuestra que el sentimiento es recíproco. Pero el posesivo padre divorciado de Diane no aprueba esa relación, y hará falta algo más que el poder del amor para que consigan seguir juntos.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

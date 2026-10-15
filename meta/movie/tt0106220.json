@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0106220",
+    "type": "movie",
+    "name": "Los locos Addams II",
+    "poster": "https://image.tmdb.org/t/p/w500/rgTELfjzF848ZIdGjSlzryBh7wc.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+    "description": "La familia Addams intenta rescatar a su querido tío Lucas de su nuevo amor, una viuda negra llamada Debbie.",
+    "releaseInfo": "1993",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    }
+  }
+}

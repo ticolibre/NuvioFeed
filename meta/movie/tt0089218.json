@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0089218",
+    "type": "movie",
+    "name": "Los Goonies",
+    "poster": "https://image.tmdb.org/t/p/w500/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+    "description": "Mikey es un muchacho de 13 años que junto con su hermano mayor y sus amigos, que se hacen llamar \"Los Goonies\", deciden subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí encuentran el mapa de un tesoro.",
+    "releaseInfo": "1985",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

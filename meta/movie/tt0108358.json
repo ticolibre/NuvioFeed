@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0108358",
+    "type": "movie",
+    "name": "Tombstone",
+    "poster": "https://image.tmdb.org/t/p/w500/moAfncos756VZqsrJiZ62nB7mYT.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+    "description": "En 1879, llegan a la violenta ciudad de Tombstone, Arizona, Wyatt Earp y su familia, con la intención de retirarse y regentar un bar. Pero Earp es elegido sheriff del lugar y se tendrá que enfrentar con los Clanton, una pandilla que pretende la supremacía local.",
+    "releaseInfo": "1993",
+    "genres": [
+      "Western",
+      "Acción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

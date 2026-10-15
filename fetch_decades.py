@@ -36,6 +36,8 @@ DECADES = {
     "top-2020s": {"label": "Top 2020s: Most Voted", "gte": "2020-01-01", "lte": "2029-12-31"},
     "top-2010s": {"label": "Top 2010s: Most Voted", "gte": "2010-01-01", "lte": "2019-12-31"},
     "top-2000s": {"label": "Top 2000s: Most Voted", "gte": "2000-01-01", "lte": "2009-12-31"},
+    "top-1990s": {"label": "Top 90s: Most Voted", "gte": "1990-01-01", "lte": "1999-12-31"},
+    "top-1980s": {"label": "Top 80s: Most Voted", "gte": "1980-01-01", "lte": "1989-12-31"},
 }
 
 LIMIT = 200

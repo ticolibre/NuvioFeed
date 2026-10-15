@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0083658",
+    "type": "movie",
+    "name": "Blade Runner",
+    "poster": "https://image.tmdb.org/t/p/w500/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
+    "description": "Rick Deckard deambula por la jungla de acero y microchips de la ciudad de Los Angeles del siglo XXI. Su misión: buscar androides genéticos criminales. Su orden: matarlos. Su delito: querer ser humanos.",
+    "releaseInfo": "1982",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

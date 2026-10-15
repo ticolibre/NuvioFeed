@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0091605",
+    "type": "movie",
+    "name": "El nombre de la rosa",
+    "poster": "https://image.tmdb.org/t/p/w500/w7xf0xY21dwGBOx1s1Sc28BiSiP.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+    "description": "Thriller medieval que sigue al astuto monje Guillermo de Baskerville y a su aprendiz Adso mientras investigan una serie de asesinatos en una abadía. Adaptada de la novela de Umberto Eco, la película explora intrincadas intrigas y conflictos religiosos en la Europa del siglo XIV.",
+    "releaseInfo": "1986",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Misterio"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

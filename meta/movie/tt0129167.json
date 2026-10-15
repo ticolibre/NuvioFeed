@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tt0129167",
+    "type": "movie",
+    "name": "El gigante de hierro",
+    "poster": "https://image.tmdb.org/t/p/w500/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+    "description": "Un joven se hace amigo de un robot gigante del espacio exterior que un paranoico agente del gobierno quiere destruir.",
+    "releaseInfo": "1999",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Familia",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

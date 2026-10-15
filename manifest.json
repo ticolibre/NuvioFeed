@@ -307,6 +307,28 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "movie",
+      "id": "top-1990s",
+      "name": "Top 90s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-1980s",
+      "name": "Top 80s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "config": [

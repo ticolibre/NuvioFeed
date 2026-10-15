@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0105236",
+    "type": "movie",
+    "name": "Perros de Reserva",
+    "poster": "https://image.tmdb.org/t/p/w500/3eav2wjw0j88Y779IdbrwNm8YQm.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+    "description": "Una banda organizada formada por seis individuos es contratada para dar un golpe. Anteriormente varios de los miembros no se conocían entre sí, por lo que entre ellos usan nombres en clave. El objetivo: atracar una empresa para llevarse unos diamantes. Pero, antes de que suene la alarma, la policía ya está allí. Algunos mueren en el atraco, y el resto se reúne en el lugar convenido.",
+    "releaseInfo": "1992",
+    "genres": [
+      "Crimen",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    }
+  }
+}

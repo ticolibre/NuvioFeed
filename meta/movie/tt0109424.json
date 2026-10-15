@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0109424",
+    "type": "movie",
+    "name": "Chungking Express",
+    "poster": "https://image.tmdb.org/t/p/w500/nl246bqCp6lmRF4mHF293F9w42O.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/8e6avmXiqurj5LHkmdHBq6rc5jm.jpg",
+    "description": "Dos historias de amor independientes que se desarrollan en el popular barrio turístico de Tsimhatsui, en Hong Kong. La primera describe el fugaz encuentro entre un joven policía en plena crisis amorosa y una misteriosa mujer fatal traficante de drogas. La segunda se centra en el singular romance entre un solitario y sencillo agente de policía y la joven camarera del pobre bar donde aquél suele comer.",
+    "releaseInfo": "1994",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

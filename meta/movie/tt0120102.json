@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0120102",
+    "type": "movie",
+    "name": "Siete años en el Tíbet",
+    "poster": "https://image.tmdb.org/t/p/w500/g6XNFyyOBU1CqLRjFDeP7AfxK2X.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/athnSvS41TEHOSK2Ax0LAM0ulDp.jpg",
+    "description": "Heinrich Harrer fue un famoso alpinista austríaco que intentó la ascensión al Nanga Parbat; desgraciadamente, su aventura se vio bruscamente interrumpida por el estallido de la Segunda Guerra Mundial (1939-1945). Tanto él como su compañero, Peter Ausehnaiter, fueron recluidos en un campo de concentración, del que lograron escapar a través de las montañas.",
+    "releaseInfo": "1997",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Historia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

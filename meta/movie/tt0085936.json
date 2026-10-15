@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0085936",
+    "type": "movie",
+    "name": "Cuento de Navidad de Mickey",
+    "poster": "https://image.tmdb.org/t/p/w500/6Waedl5MCYlaOp0uuv4HZrvyXGj.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/41ocXijKgjMS17QXydzKdwCaTsU.jpg",
+    "description": "Los clásicos personajes animados de Disney interpretan los papeles en este recuento animado de la obra maestra de Charles Dickens.",
+    "releaseInfo": "1983",
+    "genres": [
+      "Familia",
+      "Animación"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    }
+  }
+}

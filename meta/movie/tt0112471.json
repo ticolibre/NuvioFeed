@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0112471",
+    "type": "movie",
+    "name": "Antes del Amanecer",
+    "poster": "https://image.tmdb.org/t/p/w500/uw9vx5M0qwkU1QnBNG4CXCgwYB3.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+    "description": "Dos viajeros, un joven estadounidense y una mujer francesa, se conocen en un tren y pasan un día romántico en Viena, Austria.",
+    "releaseInfo": "1995",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

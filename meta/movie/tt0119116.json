@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0119116",
+    "type": "movie",
+    "name": "El Quinto Elemento",
+    "poster": "https://image.tmdb.org/t/p/w500/4IgMSK6ehZcfniZoWFRLSxEPcHS.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+    "description": "Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.",
+    "releaseInfo": "1997",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

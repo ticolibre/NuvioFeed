@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0091369",
+    "type": "movie",
+    "name": "Laberinto",
+    "poster": "https://image.tmdb.org/t/p/w500/AhRH7qhyRWGOfr88UKLfSUEm7A0.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/mGkleIuPO2flRyvP8yBcUykSQsp.jpg",
+    "description": "Cuento sobre la búsqueda de una chica por su hermano menor que está atrapado en el reino místico de un rey de duendes.",
+    "releaseInfo": "1986",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

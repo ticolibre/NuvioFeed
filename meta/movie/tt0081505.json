@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0081505",
+    "type": "movie",
+    "name": "El resplandor",
+    "poster": "https://image.tmdb.org/t/p/w500/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+    "description": "Una familia se dirige a un hotel aislado durante el invierno donde una presencia siniestra influye en la violencia del padre, mientras que su hijo psíquico ve horribles presentimientos tanto del pasado como del futuro.",
+    "releaseInfo": "1980",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    }
+  }
+}

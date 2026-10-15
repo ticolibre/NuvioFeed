@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0096895",
+    "type": "movie",
+    "name": "Batman",
+    "poster": "https://image.tmdb.org/t/p/w500/oNHCO2vQGVhXNzZdRZQim9x9HIx.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+    "description": "La oscura y peligrosa Ciudad Gótica se halla protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y el comisionado de policía Jim Gordon, la ciudad es cada vez más insegura hasta que aparece Batman, el Señor de la Noche. La reconocida periodista Vicky Vale intentará descubrir el secreto que se oculta tras el hombre murciélago.",
+    "releaseInfo": "1989",
+    "genres": [
+      "Fantasía",
+      "Acción",
+      "Crimen"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}
