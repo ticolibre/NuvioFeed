@@ -86,29 +86,6 @@
       }
     },
     {
-      "id": "tt0096686",
-      "type": "series",
-      "name": "Ranma ½",
-      "poster": "https://image.tmdb.org/t/p/w500/6LmWAQFMD2j8gTUGgmD8vq7xxyA.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
-      "description": "Saotome Ranma, un artista marcial adolescente, y su padre Genma viajan al \"maldito campo de entrenamiento\" de Jusenkyo en China. Allí, a pesar de las advertencias de la guardia china, caen en las malditas fuentes. A partir de ahora, cada vez que Ranma se moja en agua fría, se convierte en una niña, y un lindo, bien construido cabeza roja en eso. El agua caliente lo vuelve a convertir en un hombre de nuevo, pero sólo hasta la próxima vez. Para empeorar las cosas, su padre lo contrata a Tendo Akane, una chica que odia a los niños.",
-      "releaseInfo": "1989",
-      "genres": [
-        "Comedia",
-        "Action & Adventure",
-        "Animación",
-        "Sci-Fi & Fantasy"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.6"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0092455",
       "type": "series",
       "name": "Viaje a las estrellas: La nueva generación",
@@ -127,6 +104,29 @@
         "ratings": {
           "tmdb": {
             "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096686",
+      "type": "series",
+      "name": "Ranma ½",
+      "poster": "https://image.tmdb.org/t/p/w500/6LmWAQFMD2j8gTUGgmD8vq7xxyA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
+      "description": "Saotome Ranma, un artista marcial adolescente, y su padre Genma viajan al \"maldito campo de entrenamiento\" de Jusenkyo en China. Allí, a pesar de las advertencias de la guardia china, caen en las malditas fuentes. A partir de ahora, cada vez que Ranma se moja en agua fría, se convierte en una niña, y un lindo, bien construido cabeza roja en eso. El agua caliente lo vuelve a convertir en un hombre de nuevo, pero sólo hasta la próxima vez. Para empeorar las cosas, su padre lo contrata a Tendo Akane, una chica que odia a los niños.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Action & Adventure",
+        "Animación",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
           }
         }
       }
@@ -631,27 +631,6 @@
       }
     },
     {
-      "id": "tt0083466",
-      "type": "series",
-      "name": "Police Squad!",
-      "poster": "https://image.tmdb.org/t/p/w500/nTysaMSwBxy7FLK7M6ivfm6BVRc.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/1u4GWKCitJWWkBWU3FP4cBG6non.jpg",
-      "description": "In this cult parody of cop dramas, replete with farce and sight gags, Lieutenant Frank Drebin and his fellow officers from Police Squad bungle their way though crime investigations.",
-      "releaseInfo": "1982",
-      "genres": [
-        "Comedia",
-        "Crimen"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.9"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0086817",
       "type": "series",
       "name": "Transformers G1",
@@ -694,6 +673,27 @@
         "ratings": {
           "tmdb": {
             "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083466",
+      "type": "series",
+      "name": "Police Squad!",
+      "poster": "https://image.tmdb.org/t/p/w500/nTysaMSwBxy7FLK7M6ivfm6BVRc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1u4GWKCitJWWkBWU3FP4cBG6non.jpg",
+      "description": "In this cult parody of cop dramas, replete with farce and sight gags, Lieutenant Frank Drebin and his fellow officers from Police Squad bungle their way though crime investigations.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
           }
         }
       }
@@ -1382,28 +1382,6 @@
       }
     },
     {
-      "id": "tt0088528",
-      "type": "series",
-      "name": "Las aventuras de los osos Gummi",
-      "poster": "https://image.tmdb.org/t/p/w500/edBXiAMcwDWMqhOfXZIoC9amwkF.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/Ab6nBFxS8TCiYhFCoqe2ue7qEb6.jpg",
-      "description": "Los osos gummi son seres casi magicos que viven en un gran arbol cerca de un reino, viven toda clase de aventuras con sus amigos humanos el joven aprendiz para caballero de nombre Cavin y la princesa Cala, tambien tendran que enfrentarse al malvado duque Ightorn y la bruja Lady Bane",
-      "releaseInfo": "1985",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Kids"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.5"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0083481",
       "type": "series",
       "name": "El Hombre-Araña y sus Sorprendentes Amigos",
@@ -1422,6 +1400,28 @@
         "ratings": {
           "tmdb": {
             "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088528",
+      "type": "series",
+      "name": "Las aventuras de los osos Gummi",
+      "poster": "https://image.tmdb.org/t/p/w500/edBXiAMcwDWMqhOfXZIoC9amwkF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/Ab6nBFxS8TCiYhFCoqe2ue7qEb6.jpg",
+      "description": "Los osos gummi son seres casi magicos que viven en un gran arbol cerca de un reino, viven toda clase de aventuras con sus amigos humanos el joven aprendiz para caballero de nombre Cavin y la princesa Cala, tambien tendran que enfrentarse al malvado duque Ightorn y la bruja Lady Bane",
+      "releaseInfo": "1985",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
           }
         }
       }
@@ -1667,6 +1667,26 @@
       }
     },
     {
+      "id": "tt0094540",
+      "type": "series",
+      "name": "Roseanne",
+      "poster": "https://image.tmdb.org/t/p/w500/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hwCKVqEAoPQK91I3ewx64N1zLhS.jpg",
+      "description": "A working-class family struggles to get by on a limited income in the fictional town of Lanford, Illinois.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0094511",
       "type": "series",
       "name": "Misión: Imposible",
@@ -1689,30 +1709,10 @@
       }
     },
     {
-      "id": "tt0094540",
-      "type": "series",
-      "name": "Roseanne",
-      "poster": "https://image.tmdb.org/t/p/w500/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/hwCKVqEAoPQK91I3ewx64N1zLhS.jpg",
-      "description": "A working-class family struggles to get by on a limited income in the fictional town of Lanford, Illinois.",
-      "releaseInfo": "1988",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "6.8"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0084970",
       "type": "series",
       "name": "The New Scooby and Scrappy-Doo Show",
-      "poster": "https://image.tmdb.org/t/p/w500/jRsXWVCdXnFYAQRR28TWAhnLBaa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bOG5pq9As7pDvjftrmgtqVd82y1.jpg",
       "posterShape": "poster",
       "background": "https://image.tmdb.org/t/p/w1280/oGvZJ9D9x0gTEDDmpRTbgehKTtj.jpg",
       "description": "The New Scooby and Scrappy Doo Show is the sixth incarnation of the Hanna-Barbera Saturday morning cartoon Scooby-Doo. It premiered on September 10, 1983, and ran for one season on ABC as a half-hour program made up of two eleven-minute short cartoons.  The show is a return to the mystery solving format and reintroduces Daphne after a four-year absence. The plots of each episode feature her, Shaggy, Scooby-Doo, and Scrappy-Doo solving supernatural mysteries under the cover of being reporters for a teen magazine.",
@@ -1906,27 +1906,6 @@
       }
     },
     {
-      "id": "tt0081859",
-      "type": "series",
-      "name": "Profesión Peligro",
-      "poster": "https://image.tmdb.org/t/p/w500/q8IS76HrmnjwGAvMwcanxohNja4.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/hP0mAcRrxXBX5FEPEdbUvvF48Lu.jpg",
-      "description": "Serie de TV (1981-1986). Contó con 5 temporadas (113 episodios) Trata de las aventuras de un actor de dobles de riesgo, que también trabaja como cazador de recompensas cuando el trabajo como doble esta escaso.",
-      "releaseInfo": "1981",
-      "genres": [
-        "Action & Adventure",
-        "Crimen"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.6"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0086767",
       "type": "series",
       "name": "The New Scooby-Doo Mysteries",
@@ -1946,6 +1925,27 @@
         "ratings": {
           "tmdb": {
             "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081859",
+      "type": "series",
+      "name": "Profesión Peligro",
+      "poster": "https://image.tmdb.org/t/p/w500/q8IS76HrmnjwGAvMwcanxohNja4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hP0mAcRrxXBX5FEPEdbUvvF48Lu.jpg",
+      "description": "Serie de TV (1981-1986). Contó con 5 temporadas (113 episodios) Trata de las aventuras de un actor de dobles de riesgo, que también trabaja como cazador de recompensas cuando el trabajo como doble esta escaso.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
           }
         }
       }
@@ -2103,6 +2103,29 @@
       }
     },
     {
+      "id": "tt0096633",
+      "type": "series",
+      "name": "Legend of the Galactic Heroes",
+      "poster": "https://image.tmdb.org/t/p/w500/xwJl6CZd3Lr3sY5mPGEZRugCfF3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fWZu2vaHJg7M6iwqeFPO3rMHTi7.jpg",
+      "description": "En el siglo XXXV se ha librado una guerra de 150 años entre dos bandos, el Imperio Galáctico y la Alianza de Planetas Libres. En el bando del Imperio Galáctico se encuentra el Almirante Reinhard Von Lohengramm (anteriormente Von Müsel), hermano de la protegida del Emperador y en el bando de la Alianza se encuentra el Almirante Yang Wen-li. Ambos tienen una visión estratégica impresionante que los lleva a enfrentarse una y otra vez en las batallas. Sin embargo cada uno es repudiado por sus superiores por motivos distintos. La batalla de los Héroes comienza aquí.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0081852",
       "type": "series",
       "name": "Dr. Slump",
@@ -2186,6 +2209,1061 @@
         "ratings": {
           "tmdb": {
             "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086764",
+      "type": "series",
+      "name": "Los pequeños Muppets",
+      "poster": "https://image.tmdb.org/t/p/w500/oJc14qy42hABKKWlQwEguFdeTdU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7MvcGimIdLrreRgVPhoQLq8FHjp.jpg",
+      "description": "Serie de animación protagonizada por los populares Muppets durante su infancia en una guardería. En cada episodio, Los Muppet Babies se embarcan en un sinfín de aventuras (sin salir de su cuarto de juegos, utilizando solo su ingenio e imaginación), aprovechando los momentos en que su niñera Nanny los deja solos.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Animación",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0294099",
+      "type": "series",
+      "name": "¡Hola! Sandybell",
+      "poster": "https://image.tmdb.org/t/p/w500/eRR5qLUu2VJSAp3KiqRfBhv6I6m.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/930JtR2rpmMPLESpnbuhCsOwIUb.jpg",
+      "description": "Sandybell vive en un hermoso pueblo de Escocia rodeada de castillos, flores y muchos amigos; pronto ella habrá de enfrentar grandes retos que forjarán su actitud ante la vida. Sandybell es sinónimo de bondad y valentía. A través de sus aventuras por el mundo, nos ofrece una valiosa lección de amistad y perseverancia. En compañía de sus amigos y de su fiel perro “Oliver”, vivirá grandes aventuras como toda una periodista. Durante sus viajes tendrá que enfrentarse a Kitty, una chica aristócrata que también está enamorada de Marcos y que hará todo lo posible para evitar que Sandybell lo encuentre.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0092480",
+      "type": "series",
+      "name": "Werewolf",
+      "poster": "https://image.tmdb.org/t/p/w500/dxTYVBhxhAYiwhyONPmk7MQGDWF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jDTa6Tefo3T5FNDlTGoe5jv6j9j.jpg",
+      "description": "Eric Cord, a college student transformed into a werewolf undergoes a quest to rid himself of his curse by killing the apparent originator of his 'bloodline'.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0084996",
+      "type": "series",
+      "name": "El show de Charlie Brown y Snoopy",
+      "poster": "https://image.tmdb.org/t/p/w500/4tpCaJq94eHBWsWVtwFWojbUjcM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dwNNwA3tY9ShotYFxXRbcb7MrIN.jpg",
+      "description": "Serie de televisión protagonizada por los populares personajes de Charles M. Schulz, siguiendo las andanzas de todos los personajes del cómic y presentando secuencias clave de los mismos, como los numerosos partidos de béisbol entre Charlie Brown y sus amigos.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086822",
+      "type": "series",
+      "name": "V: Invasión extraterrestre",
+      "poster": "https://image.tmdb.org/t/p/w500/cyFOR8pdkccrRWUtZTjfm0lH3lX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/A8SYR6WvxAaAgid4R4JZUTCw4ko.jpg",
+      "description": "Un año después del Día de la Liberación, cortesía de las bacterias del polvo rojo, los alienígenas humanoides, parecidos a los lagartos, desarrollan una resistencia al microorganismo e intentan recuperar el control de la Tierra, solo que ahora algunos humanos están trabajando a sabiendas con ellos.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086823",
+      "type": "series",
+      "name": "V: La batalla final",
+      "poster": "https://image.tmdb.org/t/p/w500/rchKuGRMMJSweigBiB8Jpn1bM5u.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/AlJsxB8Fb0hmU4jzPfwZMY4Re7W.jpg",
+      "description": "Un pequeño grupo de luchadores de la resistencia humana libran una guerra de guerrillas desesperada contra los extraterrestres genocidas que dominan la Tierra.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0166910",
+      "type": "series",
+      "name": "Daniel el travieso",
+      "poster": "https://image.tmdb.org/t/p/w500/5Qs4gD2tbgBQy0GdAKqUOIPkyXc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/x22cZj1Y2cGuBNsP5zHaRJAkJMS.jpg",
+      "description": "Daniel el travieso es una serie animada basada en las historietas creadas en 1951.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Kids",
+        "Animación",
+        "Comedia",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081873",
+      "type": "series",
+      "name": "Hill Street Blues",
+      "poster": "https://image.tmdb.org/t/p/w500/w3ck59ERLzEATqRFe1Nd2ZMQvtZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/Am2ZRSkoOQd00kmhUF7QtOFbLWQ.jpg",
+      "description": "A realistic glimpse into the daily lives of the officers and detectives at an urban police station.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086770",
+      "type": "series",
+      "name": "Night Court",
+      "poster": "https://image.tmdb.org/t/p/w500/2q6mXZMsWbATEK4YIF9Q0pFRb3Z.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bNYJxbtslqHdbNfIT9XXjbwEZuX.jpg",
+      "description": "An eccentric fun-loving judge presides over an urban night court and all the silliness going on there.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085051",
+      "type": "series",
+      "name": "Manimal",
+      "poster": "https://image.tmdb.org/t/p/w500/deTedoQduoqW9Kduktf9eVfiY3V.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/51BoopTmVwTchhGFneUHOozlAtB.jpg",
+      "description": "Un profesor metamorfo y una detective se alían con su asistente para combatir criminales, transformándose el profesor en varios animales para ayudarles.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090407",
+      "type": "series",
+      "name": "Choushinsei Flashman",
+      "poster": "https://image.tmdb.org/t/p/w500/4r6NpxrdkYdKlUVt8G5u5lOJU2g.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/69ZOUqhfdSV8Ff3u7iz4P3NlETG.jpg",
+      "description": "En 1966, cinco niños son secuestrados por un grupo alienígena conocido como los Cazadores Alienígenas, que trabajan para el Imperio del Experimento Reconstructivo Mess, que buscaban muestras humanas para experimentar. Los niños son rescatados por los archienemigos de Mess, la raza alienígena Flash, que se llevó a cada uno a un planeta diferente del sistema solar Flash para entrenarse. Cada uno fue entrenado por separado en una variedad de superpoderes que les permitirían luchar contra Mess, y sus cuerpos asimismo se adaptaron a la atmósfera del sistema solar Flash, lo que les dio habilidades especiales. Cuando finalmente regresaron a la Tierra en 1986 para combatir a Mess, que ahora está intentando invadirla, aprovechan la oportunidad para buscar a sus padres biológicos. Después descubren que su tiempo en la Tierra está limitado, ya que la atmósfera de la Tierra se ha convertido en venenosa para ellos, y en un año morirán por lo que se llama el fenómeno Anti-Flash.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Familia",
+        "Action & Adventure",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0158427",
+      "type": "series",
+      "name": "Papá Soltero",
+      "poster": "https://image.tmdb.org/t/p/w500/983pOTaAql3DGfH9gaqTVcGp0qI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tptyBFLKfUkovgg3IfS4RKpOXB7.jpg",
+      "description": "César es un padre soltero con carácter optimista, ex-cantante de la era del Rock & Roll de la década de los 60 en México y actual productor de televisión que tiene un nuevo reto de vida: debe guiar por el buen camino a sus tres hijos, Alejandra, Miguel Costa, el hijo mayor y Cesarín, el hijo menor. Así, intentará alejar su familia de las malas influencias aunque pasando por situaciones cómicas. Debido a la muerte de su ex-esposa, César tiene que dejar a un lado su vida de soltero para ser un padre ejemplar para sus hijos.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086798",
+      "type": "series",
+      "name": "Shaka Zulu",
+      "poster": "https://image.tmdb.org/t/p/w500/aXmnw6CAOVtwOGrrLtXKhLTCISC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oSNYU5i9I8CSwsO1trGx65sRMJA.jpg",
+      "description": "South Africa, 1823. The Zulu Empire, headed by King Shaka, a brilliant but ruthless military strategist, begin to encroach on the British colony of Cape Town. A volunteer cadre of explorers, mercenaries and professional soldiers are sent to Zululand to try to make contact with Shaka and assess the real threat of his army.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0138230",
+      "type": "series",
+      "name": "Defensores de la Tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/uOkcLTooM93GKUpUfIqc8FTy2Ta.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uEsuf0fkPkWrMCPD3inNhnqE50y.jpg",
+      "description": "En el año 2015, Ming el Despiadado, intenta conquistar la Tierra. Lo único que lo detiene en su objetivo es un equipo de superhéroes, entre ellos están Roldán El temerario, El Fantasma, Mandrake el mago, y Lothario. Además los acompañan Rich hijo de Roldán, Jedda Walker, Kshin y L.J. para detener a Ming.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Animación",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0284712",
+      "type": "series",
+      "name": "Capitán Cavernícola y los Ángeles adolescentes",
+      "poster": "https://image.tmdb.org/t/p/w500/fnpIuoq1tg74v7OE4DMrTOvYMPe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iqmSb8xTnwoJW2EaL6278RoawBt.jpg",
+      "description": "La serie presentó como personaje principal a un ser de la era de las cavernas, llamado el \"Capitán Cavernícola\", quien sobrevivó durante miles de años en estado de hibernación dentro de un glaciar totalmente congelado. Habiendo sido descongelado, se une a un trío de jovencitas aventureras (conocidas como Los Ángeles, una versión adolescente de los Ángeles de Charlie), Brenda, Dee y Taffy, para resolver distintos misterios.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Kids",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088610",
+      "type": "series",
+      "name": "La Pequeña Maravilla",
+      "poster": "https://image.tmdb.org/t/p/w500/beaMCxE00CGMSk6MVCcvhZkwqSV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pU5NQApUxgBef0a0QgDJor1flH1.jpg",
+      "description": "La historia gira en torno a V.I.C.I. (Voice Input Child Identicant) un adroide con forma de niña de 10 años creado como un proyecto personal y en absoluto secreto por Ted Lawson (Dick Christie), quien trabaja para la empresa cibernética United Robotronics. En el laboratorio de su casa, Ted ensambla este prototipo, y luego lo presenta a su asombrada familia compuesta por su esposa Joan (Marla Pennington) y su único hijo Jamie (Jerry Supiran). Vicky, como llaman por cariño al robot, se convierte en otro miembro de la familia tras acordar mantener el secreto de este androide experimental. Los Lawson convivirán con Vicky y la “educarán”, aparte de que la hacen pasar como humana ante todos, y en especial ante sus chismosos vecinos, los Brindle.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0124228",
+      "type": "series",
+      "name": "Astro Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/q574IeK0wB3lgh1pxZpWETFlNMS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/acbc6CYtxLi7LKHvocJrJ6sN1ML.jpg",
+      "description": "El Dr. Tenma es un científico que acaba de perder a Tobio, su único hijo. En un acto de desesperación crea a Atom, un robot idéntico a Tobio, pero se desespera cuando nota que el robot no podrá crecer nunca. Atom es entonces abandonado en un circo, dónde es descubierto y adoptado por el Profesor Ochanomizu, un científico que lo ayudará a encontrar su destino.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedia",
+        "Familia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0159881",
+      "type": "series",
+      "name": "Jeopardy!",
+      "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+      "description": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Reality",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083470",
+      "type": "series",
+      "name": "Remington Steele",
+      "poster": "https://image.tmdb.org/t/p/w500/3UGDVrdwavyU0WIddhZf4eov6yv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cCCyFrM6AtUQXVNOL2D0BTKB64K.jpg",
+      "description": "Laura Holt, a licensed private detective, opens a detective agency but finds that potential clients refuse to hire a woman, however qualified. To solve the problem, Laura invents a fictitious male superior whom she names Remington Steele. Through a series of events that unfold in the first episode, \"License to Steele,\" a former thief and con man, whose real name is never revealed, assumes the identity of Remington Steele. Behind the scenes, Laura remains firmly in charge.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Drama",
+        "Familia",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085101",
+      "type": "series",
+      "name": "El pájaro espino",
+      "poster": "https://image.tmdb.org/t/p/w500/eC9ZYSvTz4b7srUbziYbPafFKDs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qF13JH8SG6VsthWq3J5x4pLNR2K.jpg",
+      "description": "La serie ambientada en Australia narra la historia de un amor casi imposible entre un joven, apuesto y ambicioso sacerdote católico australiano, Ralph de Bricassart y la joven belleza Meggie Cleary quien desde su niñez le ama profunda y apasionadamente sumiéndola en un tortuoso camino de sufrimiento alternado con destellos de felicidad con pasajes altos y bajos a lo largo de muchos años; con el sacerdote trabado en una ardua lucha entre sus propias convicciones y su pasión por Meggie, su vocación religiosa y su ambición personal, coronada al fin al ser nombrado cardenal.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096626",
+      "type": "series",
+      "name": "The Kids in the Hall",
+      "poster": "https://image.tmdb.org/t/p/w500/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6OkpAR1IWKYe8bJPt1FVCtcPB7T.jpg",
+      "description": "The Kids in the Hall is a Canadian sketch comedy group formed in 1984, consisting of comedians Dave Foley, Kevin McDonald, Bruce McCulloch, Mark McKinney, and Scott Thompson.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1163129",
+      "type": "series",
+      "name": "西游记",
+      "poster": "https://image.tmdb.org/t/p/w500/4qenq7lp97owdCSg9i10sctC54M.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vbl5Spyx3vEkxvtAVFYji6Z0Z7v.jpg",
+      "description": "Journey to the West is a Chinese television series adapted from the classical novel of the same title. The series was first broadcast on CCTV in China on 1 October 1986. The series became an instant classic in China and is still being praised as the best and most authentic interpretation of the novel. Unadapted portions of the original story were later covered in the second season, which was released in 1999.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0100366",
+      "type": "series",
+      "name": "Pingu",
+      "poster": "https://image.tmdb.org/t/p/w500/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/10UOUxOjmLCwGOvNXNaiIdWXav.jpg",
+      "description": "Playful penguin Pingu lives with his family in Antarctica, where he often finds himself caught up in mischievous high jinks with his pal Robby.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0383795",
+      "type": "series",
+      "name": "The Joy of Painting",
+      "poster": "https://image.tmdb.org/t/p/w500/ydK7b8zyuD36OTK2tcDS97ik96A.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mMBSu3N2oyPbLXiOoItVapRcRLX.jpg",
+      "description": "The Joy of Painting was an American television show hosted by painter Bob Ross that taught its viewers techniques for landscape oil painting. Although Ross could complete a painting in half an hour, the intent of the show was not to teach viewers \"speed painting\". Rather, he intended for viewers to learn certain techniques within the time that the show was allotted. The show began on January 11, 1983, and lasted until May 17, 1994, a year before Ross' death.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Familia",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0170885",
+      "type": "series",
+      "name": "Carrusel",
+      "poster": "https://image.tmdb.org/t/p/w500/zbGTiTiDvgEoBrj9AMihNa7DCsb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1z2YqAyk3iVMkdTYBb0vylV1VdH.jpg",
+      "description": "La historia nos presenta a unos pequeños niños que siempre están acompañados de su cariñosa y tierna profesora, la maestra Ximena, quien se encarga de darles consejos y de reprenderlos cuando han hecho alguna mala travesura.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Familia",
+        "Kids",
+        "Soap"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0122356",
+      "type": "series",
+      "name": "太陽の子エステバン",
+      "poster": "https://image.tmdb.org/t/p/w500/v775RHT8kni24K4xwxLvrsJra9k.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ocRWQvMe0LwzbtseQ1B1xExkPm1.jpg",
+      "description": "The adventures of a young Spanish boy named Esteban who joins a voyage to the New World in search of the lost Cities of Gold and his father.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Kids",
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0214340",
+      "type": "series",
+      "name": "Cuna de Lobos",
+      "poster": "https://image.tmdb.org/t/p/w500/qtW4LG8aXeBKxmfIrimQj9IGnSP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mm8TG5P4wKpIRjQksfu9q5n8CEG.jpg",
+      "description": "Carlos Larios es el jefe de una de las compañías farmacéuticas más importantes de México. Tras su muerte, su esposa Catalina hará todo lo posible para asegurar su fortuna y su línea de sangre.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098492",
+      "type": "series",
+      "name": "Top wo nerae! Gunbuster",
+      "poster": "https://image.tmdb.org/t/p/w500/frLWfoMUeEhJ2oBxdlKzBWSic7q.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1c0WjwkfHvzb1XPEQDKA7Mmp9i.jpg",
+      "description": "En un universo distópico en el que la humanidad tiene que luchar contra peligrosas criaturas del espacio exterior, Noriko es una adolescente que ha perdido a su padre en tan temible guerra, y a pesar de su poca capacidad aspira a viajar al espacio exterior en búsqueda del mismo. Sus esfuerzos la llevarán a convertirse en la piloto de la Buster Machine nº1, la última esperanza de la humanidad",
+      "releaseInfo": "1988",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090410",
+      "type": "series",
+      "name": "Historia del Crimen",
+      "poster": "https://image.tmdb.org/t/p/w500/he4iKKlgXnT7kPAjvYFeREiHPmj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pCF7Pyuy7bioVx1PIeRu9vTI1Tu.jpg",
+      "description": "Un policía rudo lucha contra la mafia en Chicago durante los años 60.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Action & Adventure",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083500",
+      "type": "series",
+      "name": "Voyagers!",
+      "poster": "https://image.tmdb.org/t/p/w500/qPhJpkri0ROaNrKjMi3UgL7mdBn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/te5zhQ26Eu5OmvQtkOOnX0L62St.jpg",
+      "description": "A member of a league of time travelers and a boy travel through time repairing errors in world history.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0185110",
+      "type": "series",
+      "name": "La princesa de los 1000 años",
+      "poster": "https://image.tmdb.org/t/p/w500/5AvJuv3uyQNwXj9pittu9cTNesV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/b8zaKb4d59vMjUWL7NdezgOsxQs.jpg",
+      "description": "La serie tiene lugar en un universo ficticio ambientado en el año 1999, donde el profesor Amamori desde su observatorio en Tokio, había descubierto el décimo planeta del Sistema Solar. También observa, que el planeta tiene una gran órbita excéntrica y se da cuenta de que estaba en curso a una colisión con la Tierra, calculando que el impacto sucedería el 9 de septiembre de 1999 a las 9 horas con 9 minutos y 9 segundos.​ Aunque el daño que recibiría el planeta sería mínimo, la Tierra sería destruida.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Animación",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0090481",
+      "type": "series",
+      "name": "Matlock",
+      "poster": "https://image.tmdb.org/t/p/w500/2eGYyekQjcAXVmcYW1g4keR4plV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nfbBsEbyOOf9i1KJPhteOlPZr2Y.jpg",
+      "description": "Thrifty, folksy and cantankerous, Matlock charges a premium for his services but is worth every penny: This renowned attorney, always clothed in his trademark light-gray suit and driving his signature Ford Crown Victoria, has an uncanny knack for finding overlooked clues and exposing murderers in dramatic courtroom scenes.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0211851",
+      "type": "series",
+      "name": "Quinceañera",
+      "poster": "https://image.tmdb.org/t/p/w500/odQgI6tPmsoRWz46ktIULK0LdEi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nN7v2ULmZrAkmf99V1Nmj3IxImE.jpg",
+      "description": "Maricruz y Beatriz son amigas del colegio; Beatriz pertenece a una familia de clase acomodada, contrariamente Maricruz es una chica de estrato social bajo. Ambas están a punto de convertirse en quinceañeras y se preparan para dejar atrás su niñez. Los problemas del entorno familiar y social las afectan directamente; para Beatriz la ruptura matrimonial de sus padres, se convierte en el principal obstáculo a vencer, aunado al despertar sexual acompañado de tabues y desinformación. Mientras tanto Maricruz luchará contra la sobreprotección y prejucios de su madre, además de sobrellevar la tensión que le produce uno de sus vecinos, quien está obsesionado con ella.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Soap",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096563",
+      "type": "series",
+      "name": "Cops",
+      "poster": "https://image.tmdb.org/t/p/w500/xtEQVy408xsVw5ZX6Yu35pwJ1Ja.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7xQR6ixywZofrEHKfI1z6CWKFsC.jpg",
+      "description": "Cámaras siguen a policías de la vida real, mientras trabajan. La serie es una de las más exitosas en la historia de la cadena Fox (se estrenó en marzo de 1989), e inspiró la creación de varios programas parecidos sobre la policía.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Reality"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086791",
+      "type": "series",
+      "name": "Robin of Sherwood",
+      "poster": "https://image.tmdb.org/t/p/w500/9w2VHgqZ4pQTAdUX5BDhMvaA7mo.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1WLIpPMAryGpd2rQFI14JuVYgb7.jpg",
+      "description": "Herne the Hunter picks Robin of Loxley as his successor in his mission to support the oppressed. Robin builds his army and leads a guerrilla attack to suppress the exploited's Norman tormentors.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086815",
+      "type": "series",
+      "name": "Thomas y sus amigos",
+      "poster": "https://image.tmdb.org/t/p/w500/wrFb5dE2yxUjz3a5V7PEXPPzsFU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wIe1HL7oMNwyltsqqx2sCPwNl4w.jpg",
+      "description": "Thomas es un gracioso tren que se convertirá en el mejor amigo de los niños.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Animación",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081871",
+      "type": "series",
+      "name": "The Greatest American Hero",
+      "poster": "https://image.tmdb.org/t/p/w500/kv4EC7CwNKvUeC9JXLCVDffxub4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5ASuXTfd6zfLmyYdIf7R4uk4h5d.jpg",
+      "description": "The chronicles of  teacher Ralph Hinkley's adventures after a group of aliens gives him a red suit that gives him superhuman abilities. Unfortunately, Ralph, who hates wearing the suit, immediately loses its instruction booklet, and thus has to learn how to use its powers by trial and error, often with comical results.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096531",
+      "type": "series",
+      "name": "Alien Nation",
+      "poster": "https://image.tmdb.org/t/p/w500/mSnZFa4Yv3dFCMdcyJXjlq0lj4c.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/npNbRiUGU29nz464ERJiAkxH997.jpg",
+      "description": "La serie empieza con la llegada pacífica a la Tierra (concretamente, a unos idílicos Los Ángeles de comienzos de los noventa) de una raza alienígena de inmigrantes físicamente muy similares a los seres humanos. En ella se muestran los problemas morales y de convivencia propios de la relación entre humanos y extraterrestres desde un punto de vista propio del drama policial: la discriminación, los asesinatos y vicios y las relaciones entre especies serán la base de cada episodio.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0211858",
+      "type": "series",
+      "name": "Rosa Salvaje",
+      "poster": "https://image.tmdb.org/t/p/w500/c0XBhm6lPEk5VMZ38zsWvlgqBkZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8alFjeOyoQkmtIhHpX3mBGx11LD.jpg",
+      "description": "Cuenta la historia de Rosa, quien vive con su madrina en un barrio muy pobre; es una chica muy sencilla que se viste como un chico. Fue abandonada por su madre, Paulette. Un día, Rosa va a una mansión a robar manzanas y conoce al dueño de la casa, Ricardo.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Soap"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083390",
+      "type": "series",
+      "name": "Brideshead Revisited",
+      "poster": "https://image.tmdb.org/t/p/w500/4H2kHRgsAuomf4DkKvoOoOc99M6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ztxUkm7zbYuDuD7M4ZISn7PZ4dO.jpg",
+      "description": "Agnostic Charles Ryder is seduced by the allure of the Flytes, a wealthy aristocratic family. Although he finds himself at odds with their strong Catholicism, his ties to the family deepen for the decades between the two world wars.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0337762",
+      "type": "series",
+      "name": "G.I. Joe: A Real American Hero",
+      "poster": "https://image.tmdb.org/t/p/w500/nq3hyd68PeUbm1Wz3nQMkUUaYZ1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/f7otxzK1w3sBxT8PeHJCFTb8ebf.jpg",
+      "description": "An elite team of soldiers thwart the evil Cobra organization's desire for world domination at every turn, cleverly stopping them from controlling the weather, creating unstoppable weapons, and genetically engineering super-warriors.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086671",
+      "type": "series",
+      "name": "Blue Thunder",
+      "poster": "https://image.tmdb.org/t/p/w500/20iPZc4ePHEiEa4NZJDcT1DRhrP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/d3ixyhcfE57giElErEsrTHtLXVS.jpg",
+      "description": "Blue Thunder is a 1984 ABC television series based on the movie of the same title featuring the Blue Thunder helicopter.\n\nThe series uses the converted Aérospatiale Gazelle helicopter and large portions of stock footage from the 1983 film. A ground unit named \"Rolling Thunder\" backed up the helicopter in the television series. This was a large support van with a desert camouflage off-road vehicle stored inside.\n\nThe television series cast includes James Farentino, Dana Carvey, and former professional American football players Bubba Smith and Dick Butkus. The series was canceled by ABC after they felt the similar Airwolf on CBS would win the ratings battle. Also, the series aired at the same time as the CBS soap opera Dallas on Friday nights, and lost.\n\nEleven episodes were made before the series was cancelled.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088527",
+      "type": "series",
+      "name": "Growing Pains",
+      "poster": "https://image.tmdb.org/t/p/w500/2Wo7Lk74KmsaBSInWUZng9vcj4C.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rwr4VtrwuUuRbIGz5Nar0QmPoNO.jpg",
+      "description": "Fatherhood has taken on a whole new meaning for Jason Seaver, who has assumed the chores of cooking, cleaning and minding the kids so that his wife, Maggie, can pursue a career in journalism after spending 15 years as a housewife.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086824",
+      "type": "series",
+      "name": "Voltron: Defender of the Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/4OrMFtFaxH3rGT2bSx3xvSO7VAl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o9YihUmYXCafY1XgT9FJltW1DXZ.jpg",
+      "description": "Five lion robots and their pilots defend the planet Arus and the galaxy from evil King Zarkon.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095388",
+      "type": "series",
+      "name": "Jack the Ripper",
+      "poster": "https://image.tmdb.org/t/p/w500/kVYH2JfrUSmWKbJcb5Tt89EfS1d.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/te4aXaQMlI3meqN9DKsxfi7koQz.jpg",
+      "description": "Jack the Ripper is a 1988 two-part television film/miniseries portraying a fictionalized account of the hunt for Jack the Ripper, the unidentified serial killer responsible for the Whitechapel murders of 1888. The series coincided with the 100th anniversary of the murders.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0085075",
+      "type": "series",
+      "name": "Reading Rainbow",
+      "poster": "https://image.tmdb.org/t/p/w500/ndlSMn2zCP6MNIp6OYexGAa1Yj1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9kNBDpilniJFSOM0ciq12XUduRF.jpg",
+      "description": "Journey to exciting places and build a lasting connection with your favorite books. Each episode centers on a theme from a book, or other children's literature, which is explored through a number of segments or stories.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094580",
+      "type": "series",
+      "name": "Whose Line Is It Anyway?",
+      "poster": "https://image.tmdb.org/t/p/w500/bSUa3Jg437IJjjC2I785mQvMeQM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8g7PQGzG7d8DWiQooSFu8tma9D8.jpg",
+      "description": "An un-scripted comedy show in which four guest performers improvise their way through a series of games, many of which rely on audience suggestions.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0135114",
+      "type": "series",
+      "name": "La vuelta al mundo de Willy Fog",
+      "poster": "https://image.tmdb.org/t/p/w500/liYz7bSupyl56Zhhlb2ro0wG6bD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/g3ZQcP5bpwco1BsuCYu9zau4Fwg.jpg",
+      "description": "Willy Fog es un millonario británico que apuesta que será capaz de dar la vuelta al mundo en solo ochenta días.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Action & Adventure",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086787",
+      "type": "series",
+      "name": "Punky Brewster",
+      "poster": "https://image.tmdb.org/t/p/w500/zvzhXpcJhTBR2f189ZdQkemk3SS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ir1J00Kk3kzBKw7uEGm8CwBjh1t.jpg",
+      "description": "Serie de TV (1984-1988). 4 temporadas. 88 episodios. Penélope “Punky” Brewster es una niña de siete años que es abandonada por su madre. La pequeña, acompañada de su inseparable perro Brandon, se refugia en un apartamento vacío, donde pronto es descubierta por Henry, administrador del edificio. Éste, que es un hombre de avanzada edad y acostumbrado a vivir solo, se ve conmovido por la dulzura y simpatía de la niña y decide acogerla en su hogar.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
           }
         }
       }

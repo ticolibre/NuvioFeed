@@ -110,21 +110,22 @@
       }
     },
     {
-      "id": "tt6470478",
+      "id": "tt1190634",
       "type": "series",
-      "name": "The Good Doctor",
-      "poster": "https://image.tmdb.org/t/p/w500/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
+      "name": "The Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/lTb6v3ZRanWLWoOpofXrBHNo9s1.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
-      "description": "La serie sigue a Shaun Murphy, un joven cirujano con autismo y síndrome del sabio de una pequeña ciudad, donde tuvo una infancia problemática. Él se traslada para unirse al prestigioso departamento de cirugía en San José St. Bonaventure Hospital.",
-      "releaseInfo": "2017",
+      "background": "https://image.tmdb.org/t/p/w1280/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+      "description": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+      "releaseInfo": "2019",
       "genres": [
-        "Drama"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.5"
+            "rating": "8.4"
           }
         }
       }
@@ -152,22 +153,21 @@
       }
     },
     {
-      "id": "tt1190634",
+      "id": "tt6470478",
       "type": "series",
-      "name": "The Boys",
-      "poster": "https://image.tmdb.org/t/p/w500/lTb6v3ZRanWLWoOpofXrBHNo9s1.jpg",
+      "name": "The Good Doctor",
+      "poster": "https://image.tmdb.org/t/p/w500/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-      "description": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
-      "releaseInfo": "2019",
+      "background": "https://image.tmdb.org/t/p/w1280/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "description": "La serie sigue a Shaun Murphy, un joven cirujano con autismo y síndrome del sabio de una pequeña ciudad, donde tuvo una infancia problemática. Él se traslada para unirse al prestigioso departamento de cirugía en San José St. Bonaventure Hospital.",
+      "releaseInfo": "2017",
       "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.4"
+            "rating": "8.5"
           }
         }
       }
@@ -236,27 +236,6 @@
       }
     },
     {
-      "id": "tt8111088",
-      "type": "series",
-      "name": "The Mandalorian",
-      "poster": "https://image.tmdb.org/t/p/w500/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
-      "description": "Ambientada tras la caída del Imperio y antes de la aparición de la Primera Orden, la serie sigue los pasos de un pistolero solitario en las aventuras que protagoniza en los confines de la galaxia, donde no alcanza la autoridad de la Nueva República.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.4"
-          }
-        }
-      }
-    },
-    {
       "id": "tt1312171",
       "type": "series",
       "name": "The Umbrella Academy",
@@ -274,6 +253,27 @@
         "ratings": {
           "tmdb": {
             "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8111088",
+      "type": "series",
+      "name": "The Mandalorian",
+      "poster": "https://image.tmdb.org/t/p/w500/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+      "description": "Ambientada tras la caída del Imperio y antes de la aparición de la Primera Orden, la serie sigue los pasos de un pistolero solitario en las aventuras que protagoniza en los confines de la galaxia, donde no alcanza la autoridad de la Nueva República.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
           }
         }
       }
@@ -301,21 +301,22 @@
       }
     },
     {
-      "id": "tt8772296",
+      "id": "tt3032476",
       "type": "series",
-      "name": "Euphoria",
-      "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+      "name": "Better Call Saul",
+      "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-      "description": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
-      "releaseInfo": "2019",
+      "background": "https://image.tmdb.org/t/p/w1280/rfxryDIv8huejujg4JueDJx8zCz.jpg",
+      "description": "La acción se ubica en el año 2002 en torno al abogado James Morgan \"Jimmy\" McGill, seis años antes de su aparición en Breaking Bad como Saul Goodman. A pesar de ser una precuela también se muestra brevemente cual fue el destino de Saul tras los hechos de la serie original.",
+      "releaseInfo": "2015",
       "genres": [
+        "Crimen",
         "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.3"
+            "rating": "8.7"
           }
         }
       }
@@ -343,22 +344,21 @@
       }
     },
     {
-      "id": "tt3032476",
+      "id": "tt8772296",
       "type": "series",
-      "name": "Better Call Saul",
-      "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "name": "Euphoria",
+      "poster": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/rfxryDIv8huejujg4JueDJx8zCz.jpg",
-      "description": "La acción se ubica en el año 2002 en torno al abogado James Morgan \"Jimmy\" McGill, seis años antes de su aparición en Breaking Bad como Saul Goodman. A pesar de ser una precuela también se muestra brevemente cual fue el destino de Saul tras los hechos de la serie original.",
-      "releaseInfo": "2015",
+      "background": "https://image.tmdb.org/t/p/w1280/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+      "description": "Un grupo de adolescentes experimenta los altibajos del amor y la amistad en un mundo de redes sociales, sexo, drogas y violencia.",
+      "releaseInfo": "2019",
       "genres": [
-        "Crimen",
         "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.7"
+            "rating": "8.3"
           }
         }
       }
@@ -539,6 +539,27 @@
       }
     },
     {
+      "id": "tt3107288",
+      "type": "series",
+      "name": "Flash",
+      "poster": "https://image.tmdb.org/t/p/w500/2O8tlUzKS3uddGW5D2B9XM6b4e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "description": "Después de haber sido impactado por un rayo, Barry Allen se despierta del coma y descubre que tiene el poder de súper velocidad, convirtiéndose en Flash para combatir el crimen en Central City.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
       "id": "tt7221388",
       "type": "series",
       "name": "Cobra Kai",
@@ -578,6 +599,29 @@
         "ratings": {
           "tmdb": {
             "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2661044",
+      "type": "series",
+      "name": "Los 100",
+      "poster": "https://image.tmdb.org/t/p/w500/7zzHG46UG43IkfdEVKuCo2L84eM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+      "description": "'Los 100' es un drama post apocalíptico escrito por Jason Rothenberg (Body Politic), basado en los libros de Kass Morgan. La historia está centrada en lo que ocurre con la civilización casi cien años después de que una guerra nuclear la haya devastado",
+      "releaseInfo": "2014",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
           }
         }
       }
@@ -646,6 +690,31 @@
       }
     },
     {
+      "id": "tt1865718",
+      "type": "series",
+      "name": "Gravity Falls",
+      "poster": "https://image.tmdb.org/t/p/w500/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "description": "Los hermanos mellizos Dipper y Mabel Pines tienen una aventura inesperada cuando pasan el verano ayudando a su tío abuelo Stan a atravesar una trampa turística en la misteriosa ciudad de Gravity Falls, Oregon.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
       "id": "tt1844624",
       "type": "series",
       "name": "American Horror Story",
@@ -668,26 +737,23 @@
       }
     },
     {
-      "id": "tt1865718",
+      "id": "tt4644488",
       "type": "series",
-      "name": "Gravity Falls",
-      "poster": "https://image.tmdb.org/t/p/w500/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
+      "name": "Dragon Ball Super",
+      "poster": "https://image.tmdb.org/t/p/w500/ruLBbIX15HrECgLJ3uZPo6X3YCN.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
-      "description": "Los hermanos mellizos Dipper y Mabel Pines tienen una aventura inesperada cuando pasan el verano ayudando a su tío abuelo Stan a atravesar una trampa turística en la misteriosa ciudad de Gravity Falls, Oregon.",
-      "releaseInfo": "2012",
+      "background": "https://image.tmdb.org/t/p/w1280/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg",
+      "description": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
+      "releaseInfo": "2015",
       "genres": [
-        "Action & Adventure",
         "Animación",
-        "Comedia",
-        "Familia",
-        "Misterio",
+        "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.6"
+            "rating": "8.2"
           }
         }
       }
@@ -727,28 +793,6 @@
         "Crimen",
         "Drama",
         "Action & Adventure"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.2"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt4644488",
-      "type": "series",
-      "name": "Dragon Ball Super",
-      "poster": "https://image.tmdb.org/t/p/w500/ruLBbIX15HrECgLJ3uZPo6X3YCN.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg",
-      "description": "La trama de la serie tiene lugar después de la batalla contra Pequeño Buu en medio del período de 10 años hacia el Torneo Mundial de las Artes Marciales 28. Está enlazada con las películas Dragon Ball Z: La Batalla de los Dioses y Dragon Ball Z: La Resurrección de F. La historia comienza a finales del Año 774, seis meses después de la derrota de Buu. La actual saga de Trunks del Futuro Alternativo ocurre el Año 780.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
       ],
       "app_extras": {
         "ratings": {
@@ -820,6 +864,28 @@
         "ratings": {
           "tmdb": {
             "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5180504",
+      "type": "series",
+      "name": "The Witcher",
+      "poster": "https://image.tmdb.org/t/p/w500/9CjS0twpknyUhjmEeuXHsu6CQAs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+      "description": "El brujo Geralt, un cazador mutante de monstruos, lucha por encontrar su lugar en un mundo en el que las personas son frecuentemente más perversas que las bestias.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
           }
         }
       }
@@ -1062,28 +1128,6 @@
       }
     },
     {
-      "id": "tt7569592",
-      "type": "series",
-      "name": "El mundo oculto de Sabrina",
-      "poster": "https://image.tmdb.org/t/p/w500/frwsOLHKzfCaenY9QtYXpsOBZzX.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
-      "description": "La magia y las travesuras marcan el rumbo de Sabrina, una adolescente de doble naturaleza que se debate entre el mundo de los mortales y el que se oculta debajo.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.2"
-          }
-        }
-      }
-    },
-    {
       "id": "tt4236770",
       "type": "series",
       "name": "Yellowstone",
@@ -1105,23 +1149,23 @@
       }
     },
     {
-      "id": "tt2098220",
+      "id": "tt7569592",
       "type": "series",
-      "name": "Hunter × Hunter",
-      "poster": "https://image.tmdb.org/t/p/w500/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+      "name": "El mundo oculto de Sabrina",
+      "poster": "https://image.tmdb.org/t/p/w500/frwsOLHKzfCaenY9QtYXpsOBZzX.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
-      "description": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
-      "releaseInfo": "2011",
+      "background": "https://image.tmdb.org/t/p/w1280/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
+      "description": "La magia y las travesuras marcan el rumbo de Sabrina, una adolescente de doble naturaleza que se debate entre el mundo de los mortales y el que se oculta debajo.",
+      "releaseInfo": "2018",
       "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.7"
+            "rating": "8.2"
           }
         }
       }
@@ -1150,6 +1194,28 @@
       }
     },
     {
+      "id": "tt2098220",
+      "type": "series",
+      "name": "Hunter × Hunter",
+      "poster": "https://image.tmdb.org/t/p/w500/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+      "description": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
       "id": "tt1586680",
       "type": "series",
       "name": "Shameless",
@@ -1166,6 +1232,27 @@
         "ratings": {
           "tmdb": {
             "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2243973",
+      "type": "series",
+      "name": "Hannibal",
+      "poster": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
+      "description": "Will Graham, que trabaja en el FBI como analista de crímenes, tiene una capacidad innata para empatizar con los psicópatas, lo que le permite entender sus motivaciones. Pero, cuando se da cuenta de que la mente del asesino en serie que está buscando es demasiado compleja incluso para él, recaba la ayuda de uno de principales psiquiatras del país, el Dr. Hannibal Lecter.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
           }
         }
       }
@@ -1188,27 +1275,6 @@
         "ratings": {
           "tmdb": {
             "rating": "8.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt2243973",
-      "type": "series",
-      "name": "Hannibal",
-      "poster": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
-      "description": "Will Graham, que trabaja en el FBI como analista de crímenes, tiene una capacidad innata para empatizar con los psicópatas, lo que le permite entender sus motivaciones. Pero, cuando se da cuenta de que la mente del asesino en serie que está buscando es demasiado compleja incluso para él, recaba la ayuda de uno de principales psiquiatras del país, el Dr. Hannibal Lecter.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.3"
           }
         }
       }
@@ -1279,6 +1345,27 @@
       }
     },
     {
+      "id": "tt2707408",
+      "type": "series",
+      "name": "Narcos",
+      "poster": "https://image.tmdb.org/t/p/w500/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
+      "description": "La verdadera historia de los poderosos y violentos cárteles de droga colombianos es el marco de esta serie dramática sobre el narco.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
       "id": "tt2777882",
       "type": "series",
       "name": "El Señor de los Cielos",
@@ -1296,27 +1383,6 @@
         "ratings": {
           "tmdb": {
             "rating": "8.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt2707408",
-      "type": "series",
-      "name": "Narcos",
-      "poster": "https://image.tmdb.org/t/p/w500/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/y9ekzkPFmWSqUU3Kj0wHmYUM8qu.jpg",
-      "description": "La verdadera historia de los poderosos y violentos cárteles de droga colombianos es el marco de esta serie dramática sobre el narco.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.1"
           }
         }
       }
@@ -1471,6 +1537,27 @@
       }
     },
     {
+      "id": "tt3743822",
+      "type": "series",
+      "name": "Fear the Walking Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/rdaB95H0qnBd2Y3j8FOjUkxBuBk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dvDkq5Mcv27vpHRvF1ywFGroh03.jpg",
+      "description": "Spin-off / precuela de la serie \"The Walking Dead\", ambientado en la ciudad de Los Ángeles y centrado en una familia que debe sobrevivir a los comienzos del apocalipsis zombie. Muestra el origen del virus y cómo se expandió alrededor del mundo desde el punto de vista de una familia.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
       "id": "tt2230051",
       "type": "series",
       "name": "High School DxD",
@@ -1514,23 +1601,46 @@
       }
     },
     {
-      "id": "tt7949218",
+      "id": "tt8682948",
       "type": "series",
-      "name": "See",
-      "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+      "name": "The Act",
+      "poster": "https://image.tmdb.org/t/p/w500/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
-      "description": "En el futuro, la raza humana ha perdido la capacidad de ver, y la sociedad ha encontrado nuevas formas de interactuar entre sí, de construir, de cazar y, sobre todo, de sobrevivir. Sin embargo, todo cambia tras el nacimiento de una pareja de gemelos que recobra la vista.",
+      "background": "https://image.tmdb.org/t/p/w1280/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg",
+      "description": "Una serie de antología estacional que cuenta historias sorprendentes de crímenes verdaderos extraños a la ficción en la primera temporada después de Gypsy Blanchard, una niña que intenta escapar de la relación tóxica que tiene con su madre sobreprotectora.",
       "releaseInfo": "2019",
       "genres": [
         "Drama",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Crimen"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.1"
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3718778",
+      "type": "series",
+      "name": "Más allá del jardín",
+      "poster": "https://image.tmdb.org/t/p/w500/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
+      "description": "Los hermanos Wirt y Gregory viven apasionantes aventuras cuando se pierden en un tenebroso bosque, que combina varios elementos de los cuentos de hadas, mientras van de camino de vuelta a casa.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Misterio",
+        "Sci-Fi & Fantasy",
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
           }
         }
       }
@@ -1575,6 +1685,28 @@
         "ratings": {
           "tmdb": {
             "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7949218",
+      "type": "series",
+      "name": "See",
+      "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
+      "description": "En el futuro, la raza humana ha perdido la capacidad de ver, y la sociedad ha encontrado nuevas formas de interactuar entre sí, de construir, de cazar y, sobre todo, de sobrevivir. Sin embargo, todo cambia tras el nacimiento de una pareja de gemelos que recobra la vista.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
           }
         }
       }
@@ -1666,30 +1798,6 @@
       }
     },
     {
-      "id": "tt3718778",
-      "type": "series",
-      "name": "Más allá del jardín",
-      "poster": "https://image.tmdb.org/t/p/w500/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
-      "description": "Los hermanos Wirt y Gregory viven apasionantes aventuras cuando se pierden en un tenebroso bosque, que combina varios elementos de los cuentos de hadas, mientras van de camino de vuelta a casa.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Misterio",
-        "Sci-Fi & Fantasy",
-        "Animación",
-        "Familia",
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.6"
-          }
-        }
-      }
-    },
-    {
       "id": "tt10332508",
       "type": "series",
       "name": "Primal",
@@ -1706,28 +1814,6 @@
         "ratings": {
           "tmdb": {
             "rating": "8.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt1695360",
-      "type": "series",
-      "name": "Avatar: La Leyenda de Korra",
-      "poster": "https://image.tmdb.org/t/p/w500/eMo4uWsN3qceNhBPcuw5T2lFsc5.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
-      "description": "La serie se desarrolla en el mismo mundo ficticio de Avatar: la leyenda de Aang. El mundo está separado en cuatro grandes naciones: las Tribus Agua, el Reino Tierra, la Nación del Fuego y los Nómadas del Aire. El enfoque de la serie es el \"control\" o \"dominio\", la capacidad de algunos humanos de dominar un elemento asociado con su nación (agua, tierra, fuego y aire), a estos humanos se les llama «maestros». Cabe mencionar que la mayor parte de la población de \"Ciudad República\" está constituida por no-maestros, personas normales que no pueden dominar ningún elemento.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Animación",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.2"
           }
         }
       }
@@ -1751,6 +1837,28 @@
         "ratings": {
           "tmdb": {
             "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1695360",
+      "type": "series",
+      "name": "Avatar: La Leyenda de Korra",
+      "poster": "https://image.tmdb.org/t/p/w500/eMo4uWsN3qceNhBPcuw5T2lFsc5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+      "description": "La serie se desarrolla en el mismo mundo ficticio de Avatar: la leyenda de Aang. El mundo está separado en cuatro grandes naciones: las Tribus Agua, el Reino Tierra, la Nación del Fuego y los Nómadas del Aire. El enfoque de la serie es el \"control\" o \"dominio\", la capacidad de algunos humanos de dominar un elemento asociado con su nación (agua, tierra, fuego y aire), a estos humanos se les llama «maestros». Cabe mencionar que la mayor parte de la población de \"Ciudad República\" está constituida por no-maestros, personas normales que no pueden dominar ningún elemento.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
           }
         }
       }
@@ -1799,26 +1907,6 @@
       }
     },
     {
-      "id": "tt2395695",
-      "type": "series",
-      "name": "Cosmos",
-      "poster": "https://image.tmdb.org/t/p/w500/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg",
-      "description": "Continuación de Cosmos: un viaje personal (1980), que fuera presentada por Carl Sagan​.\n\nLa serie sigue libremente el mismo formato de trece capítulos y enfoque narrativo de su predecesora, renovando algunos de sus elementos como \"la nave de la imaginación\" y presentando los nuevos descubrimientos desde 1980 junto a un uso extensivo de gráficos generados por computadora y relatos históricos mediante animación tradicional",
-      "releaseInfo": "2014",
-      "genres": [
-        "Documental"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.5"
-          }
-        }
-      }
-    },
-    {
       "id": "tt1578873",
       "type": "series",
       "name": "Lindas Mentirosas",
@@ -1840,23 +1928,42 @@
       }
     },
     {
-      "id": "tt3398540",
+      "id": "tt1837492",
       "type": "series",
-      "name": "Haikyu!!",
-      "poster": "https://image.tmdb.org/t/p/w500/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
+      "name": "13 Reasons Why",
+      "poster": "https://image.tmdb.org/t/p/w500/xcaPztQp9Lvlh9eLoOaGdq4JfxL.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "description": "Durante sus años de secundaria, el estudiante Shoyo Hinata repentinamente siente un amor por el volley después de ver por la televisión un partido de una escuela durante los nacionales y a su jugador estrella, \"El Pequeño gigante\" (apodado así por su pequeña estatura en comparación con sus compañeros pero su gran poder de salto y habilidad en el deporte, también el \"As\" de su equipo).\n\nDesde ese momento decide que él se volverá el próximo \"Pequeño Gigante\" y decide practicar el deporte, pero su escuela no tenía equipo por lo cual comienza a practicar solo y luego de convencer a unos cuantos compañeros para que sean \"miembros temporales\" logra ir a su primera competencia. Ahí se enfrenta contra una formidable escuela, incluyendo a uno de los mejores jugadores y armador apodado \"El Rey de la cancha\", Tobio Kageyama. Luego de que Hinata y su equipo improvisado tengan una terrible derrota, enfrenta a Kageyama y jura que él lo vencerá, sin importar cuánto le tome.",
-      "releaseInfo": "2014",
+      "background": "https://image.tmdb.org/t/p/w1280/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+      "description": "El adolescente Clay Jensen se halla en medio de una serie de misterios desgarradores accionados por el trágico suicidio de una de sus amigas.",
+      "releaseInfo": "2017",
       "genres": [
-        "Animación",
-        "Comedia",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.6"
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2395695",
+      "type": "series",
+      "name": "Cosmos",
+      "poster": "https://image.tmdb.org/t/p/w500/hpB5jvpDo2imeF5BFfdmEmXdu7I.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg",
+      "description": "Continuación de Cosmos: un viaje personal (1980), que fuera presentada por Carl Sagan​.\n\nLa serie sigue libremente el mismo formato de trece capítulos y enfoque narrativo de su predecesora, renovando algunos de sus elementos como \"la nave de la imaginación\" y presentando los nuevos descubrimientos desde 1980 junto a un uso extensivo de gráficos generados por computadora y relatos históricos mediante animación tradicional",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
           }
         }
       }
@@ -1879,6 +1986,28 @@
         "ratings": {
           "tmdb": {
             "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3398540",
+      "type": "series",
+      "name": "Haikyu!!",
+      "poster": "https://image.tmdb.org/t/p/w500/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "description": "Durante sus años de secundaria, el estudiante Shoyo Hinata repentinamente siente un amor por el volley después de ver por la televisión un partido de una escuela durante los nacionales y a su jugador estrella, \"El Pequeño gigante\" (apodado así por su pequeña estatura en comparación con sus compañeros pero su gran poder de salto y habilidad en el deporte, también el \"As\" de su equipo).\n\nDesde ese momento decide que él se volverá el próximo \"Pequeño Gigante\" y decide practicar el deporte, pero su escuela no tenía equipo por lo cual comienza a practicar solo y luego de convencer a unos cuantos compañeros para que sean \"miembros temporales\" logra ir a su primera competencia. Ahí se enfrenta contra una formidable escuela, incluyendo a uno de los mejores jugadores y armador apodado \"El Rey de la cancha\", Tobio Kageyama. Luego de que Hinata y su equipo improvisado tengan una terrible derrota, enfrenta a Kageyama y jura que él lo vencerá, sin importar cuánto le tome.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
           }
         }
       }
@@ -1928,6 +2057,48 @@
       }
     },
     {
+      "id": "tt5615700",
+      "type": "series",
+      "name": "Siren",
+      "poster": "https://image.tmdb.org/t/p/w500/k906XXqqFMT93v2WMkIOtUcEAlV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6Sj3bIXEgfxrhurMwXGb1Meb64v.jpg",
+      "description": "Esta serie nos lleva al corazón de Bristol Cove, una ciudad costera conocida por la leyenda que afirma que un día fue hogar de las sirenas. Cuando la llegada de una misteriosa joven prueba que el mito podría ser cierto, la batalla entre los hombres y el mar da un peligroso giro desde el momento en el que estas depredadoras criaturas vuelven para reclamar sus derechos. Todo comienza cuando Ben, un brillante biólogo marino, se encuentra con Ryn, una joven misteriosa recién llegada que esconde un oscuro secreto. Todo el mundo en la ciudad sospecha de ella, incluida Maddie, la bióloga que trabaja con Ben, Xander, un pescador de altura decidido a desvelar el misterio y Helen, una excéntrica vecina que sabe más de sirenas de lo que aparenta.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2187850",
+      "type": "series",
+      "name": "Pablo Escobar: El Patrón del Mal",
+      "poster": "https://image.tmdb.org/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
+      "description": "Esta fascinante serie narra la vida del infame Pablo Escobar, desde sus días como ratero hasta convertirse en el jefe de un imperio del narcotráfico.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
       "id": "tt4524056",
       "type": "series",
       "name": "Vis a vis",
@@ -1944,6 +2115,28 @@
         "ratings": {
           "tmdb": {
             "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2741602",
+      "type": "series",
+      "name": "The Blacklist",
+      "poster": "https://image.tmdb.org/t/p/w500/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "description": "El criminal más buscado del mundo, Thomas Raymond Reddington (James Spader), se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth Keen (Megan Boone), una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
           }
         }
       }
@@ -1991,23 +2184,23 @@
       }
     },
     {
-      "id": "tt2250192",
+      "id": "tt3749900",
       "type": "series",
-      "name": "Sword Art Online",
-      "poster": "https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
+      "name": "Gotham",
+      "poster": "https://image.tmdb.org/t/p/w500/jAZK0jE5Oj3klyd1UueNY6EKINF.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/wJi7fRmHw0wRMldUY28sSzXpp4G.jpg",
-      "description": "En el año 2022, miles de jugadores quedan atrapados dentro de Sword Art Online, el primer VRMMORPG de inmersión total. Lo que parecía un sueño se convierte en una pesadilla cuando el creador del juego revela que morir en el mundo virtual significa morir en el mundo real. Kirito, un hábil jugador solitario, decide luchar para alcanzar el piso 100 de la torre de Aincrad y así liberar a todos, pero en su camino encontrará aliados, enemigos y un amor que trascenderá los límites digitales.",
-      "releaseInfo": "2012",
+      "background": "https://image.tmdb.org/t/p/w1280/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+      "description": "Precuela de los cómics de Batman, centrada en la adolescencia de Bruce Wayne. Definida por sus responsables como una especie de Smallville, desarrollará además la vida de Jim Gordon como policía, y la enlazará con el origen del mito de Batman y de otros villanos",
+      "releaseInfo": "2014",
       "genres": [
-        "Animación",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Drama",
+        "Crimen",
+        "Sci-Fi & Fantasy"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.1"
+            "rating": "7.6"
           }
         }
       }
@@ -2058,6 +2251,29 @@
       }
     },
     {
+      "id": "tt5370118",
+      "type": "series",
+      "name": "Konosuba: God's Blessing on this Wonderful World!",
+      "poster": "https://image.tmdb.org/t/p/w500/goHQR8tj0KSbEr8f3uTbxpfbU13.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
+      "description": "Kazuma Satou es un chico de preparatoria otaku y hikikomori que no suele salir de casa, pero cuando lo hace, un fatídico (y ridículo) accidente acaba con su vida. En el otro mundo aparece una diosa ante él y le propone comenzar de nuevo su vida en un mundo de magia y espada, pero las condiciones son un tanto peculiares, así que acabará comenzando de cero como aventurero y acompañado de una diosa.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
       "id": "tt1839578",
       "type": "series",
       "name": "Person of Interest",
@@ -2075,6 +2291,50 @@
         "ratings": {
           "tmdb": {
             "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2250192",
+      "type": "series",
+      "name": "Sword Art Online",
+      "poster": "https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wJi7fRmHw0wRMldUY28sSzXpp4G.jpg",
+      "description": "En el año 2022, miles de jugadores quedan atrapados dentro de Sword Art Online, el primer VRMMORPG de inmersión total. Lo que parecía un sueño se convierte en una pesadilla cuando el creador del juego revela que morir en el mundo virtual significa morir en el mundo real. Kirito, un hábil jugador solitario, decide luchar para alcanzar el piso 100 de la torre de Aincrad y así liberar a todos, pero en su camino encontrará aliados, enemigos y un amor que trascenderá los límites digitales.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3501584",
+      "type": "series",
+      "name": "iZombie",
+      "poster": "https://image.tmdb.org/t/p/w500/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tCjXy1iCsr2BVlNczafnkZ40LPn.jpg",
+      "description": "La serie gira en torno a una estudiante de medicina que se convierte en zombi y coge un trabajo de médico forense para tener acceso a los cerebros que debe comer para mantener su humanidad. Pero con cada cerebro que consume, hereda recuerdos del cadáver. De ahí que, con la ayuda de su jefe médico forense y un detective de policía, empiece a resolver casos de homicidio con el fin de callar las voces inquietantes de su cabeza.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
           }
         }
       }
@@ -2101,6 +2361,28 @@
       }
     },
     {
+      "id": "tt1043813",
+      "type": "series",
+      "name": "Titanes",
+      "poster": "https://image.tmdb.org/t/p/w500/t1wuU7nUxyAFpCep4epXIGP8dtJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
+      "description": "Robin se surge de las sombras de Gotham para liderar a un grupo de héroes: Raven, Starfire y Chico Bestia. La pandilla recién formada de jóvenes superhéroes une fuerzas para luchar contra sus propios demonios y salvar el planeta. Solos son vulnerables, pero juntos son Titanes.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
       "id": "tt2575988",
       "type": "series",
       "name": "Silicon Valley",
@@ -2121,24 +2403,23 @@
       }
     },
     {
-      "id": "tt5370118",
+      "id": "tt2364582",
       "type": "series",
-      "name": "Konosuba: God's Blessing on this Wonderful World!",
-      "poster": "https://image.tmdb.org/t/p/w500/goHQR8tj0KSbEr8f3uTbxpfbU13.jpg",
+      "name": "Agents of S.H.I.E.L.D",
+      "poster": "https://image.tmdb.org/t/p/w500/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
-      "description": "Kazuma Satou es un chico de preparatoria otaku y hikikomori que no suele salir de casa, pero cuando lo hace, un fatídico (y ridículo) accidente acaba con su vida. En el otro mundo aparece una diosa ante él y le propone comenzar de nuevo su vida en un mundo de magia y espada, pero las condiciones son un tanto peculiares, así que acabará comenzando de cero como aventurero y acompañado de una diosa.",
-      "releaseInfo": "2016",
+      "background": "https://image.tmdb.org/t/p/w1280/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
+      "description": "Tras los eventos de \"Los Vengadores\", el agente Phil Coulson reune a un pequeño grupo de agentes para investigar a un misterioso grupo conocido como Rising Tide. En el proceso se cruza con Mike Peterson, un hombre aparentemente ordinario que ha adquirido poderes sobrehumanos... Episodio piloto de la serie \"Agents of S.H.I.E.L.D.\", escrito y dirigido por Joss Whedon.",
+      "releaseInfo": "2013",
       "genres": [
-        "Action & Adventure",
-        "Animación",
-        "Comedia",
-        "Sci-Fi & Fantasy"
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.5"
+            "rating": "7.5"
           }
         }
       }
@@ -2160,6 +2441,817 @@
         "ratings": {
           "tmdb": {
             "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2758770",
+      "type": "series",
+      "name": "Star vs las fuerzas del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/drnY78Uwi4nYw4jOEp067WRl4Lt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2UElp7Dkm3SiB9ZEdKEWNmAOijB.jpg",
+      "description": "La guerrera intergaláctica Star Butterfly llega a la Tierra para vivir con la familia Diaz. Continúa luchando contra villanos en todo el universo y la escuela secundaria, principalmente para proteger su poderosa varita, un objeto que aún la confunde.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5897304",
+      "type": "series",
+      "name": "Mob Psycho 100",
+      "poster": "https://image.tmdb.org/t/p/w500/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+      "description": "Kageyama Shigeo, apodado \"Mob\", es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible!\n\nRodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
+      "releaseInfo": "2016",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0374463",
+      "type": "series",
+      "name": "The Pacific",
+      "poster": "https://image.tmdb.org/t/p/w500/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nWfpVLgioDXQsAbfL6UJxYz6d3d.jpg",
+      "description": "Seguimiento de las historias entrelazadas de la vida real de tres Marines EE.UU. - Robert Leckie, John Basilone, y Eugene Sledge - a través de la amplia lona del teatro del Pacífico durante la Segunda Guerra Mundial. Una pieza de acompañamiento a la miniserie 2001 Band of Brothers.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8993398",
+      "type": "series",
+      "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "poster": "https://image.tmdb.org/t/p/w500/cvYi7KYiCr7OCKoZlXaFShfH3vz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8165gnzhyRbkKfm3WFBINdkDQBR.jpg",
+      "description": "Síndrome de la pubertad: ciertas experiencias poco corrientes que se rumorea en Internet que son la causa del exceso de sensibilidad e inestabilidad durante la adolescencia. Este año, Sakura Azusagawa, estudiante de segundo en una preparatoria cercana a Enoshima, conocerá a varias chicas que están pasando por ese \"síndrome de la pubertad\". Por ejemplo, en la biblioteca conoce a una salvaje chica conejito que resulta ser Mai Sakurajima, una chica mayor de su preparatoria que es una actriz que está tomándose un descanso. ¿El problema? Que nadie parece poder ver a esa chica tan encantadora, ¿cómo?",
+      "releaseInfo": "2018",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1604099",
+      "type": "series",
+      "name": "Victorious",
+      "poster": "https://image.tmdb.org/t/p/w500/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",
+      "description": "Cuando la aspirante a cantante Tori Vega se une a un excéntrico grupo de adolescentes talentosos en la escuela Hollywood Arts, se esfuerza por encajar... y termina sobresaliendo.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5622316",
+      "type": "series",
+      "name": "Los elegidos",
+      "poster": "https://image.tmdb.org/t/p/w500/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+      "description": "Narra la vida de Jesucristo y los apóstoles. Ambientada en Judea y Galilea en el siglo I, la serie retrata la vida de Jesús de Nazareth a través de las personas que interactuaron con él, incluidos los apóstoles y discípulos de Jesús, los líderes religiosos judíos, los gobernantes romanos y los oficiales militares, así como la gente común.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Action & Adventure",
+        "Familia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6517102",
+      "type": "series",
+      "name": "Castlevania",
+      "poster": "https://image.tmdb.org/t/p/w500/WzFHnJY44uDERER0xi1jOdoafT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jLE5bsPA9xOKzBWOaOmKbp1DWQS.jpg",
+      "description": "Un cazavampiros lucha por salvar una ciudad asediada por un ejército de bestias controladas por Drácula.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6342474",
+      "type": "series",
+      "name": "Boruto: Naruto Next Generations",
+      "poster": "https://image.tmdb.org/t/p/w500/qlJS7iG25kzrlX8Bn13kfn1Qay4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4jDRuUk02VGAVMBJXabI9r0Cj6j.jpg",
+      "description": "En Konoha han entrado en una era de paz y modernidad. Los altos edificios despuntan en las calles, las pantallas gigantes muestran imágenes de todo tipo y los medios de transporte conectan los vairos distritos. Pese a que sigue siendo una aldea ninja, el número de civiles ha aumentado y la vida de los ninja ha cambiado. Boruto Uzumaki es hijo del Séptimo Hokage, Naruto Uzumaki, y se ha unido a la Academia Ninja para aprender. Otros estudiantes lo menosprecian de inmediato y consideran que solo está ahí por ser \"hijo del Hokage\", pero pronto Boruto disipará todas esas dudas sobre él.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8433216",
+      "type": "series",
+      "name": "Dragon Ball Heroes",
+      "poster": "https://image.tmdb.org/t/p/w500/79C1S70I2nR4o0WpVETIezT3jyG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg",
+      "description": "Trunks regresa del futuro para entrenar con Goku y Vegeta. Sin embargo, desaparece sin previo aviso. Entonces el misterioso Fu irrumpe, diciéndoles que Trunks ha sido encarcelado en el Prison Planet, un misterioso complejo en un lugar desconocido en los universos. El grupo busca las bolas de dragón para liberar a Trunks, ¡pero les espera una batalla sin fin! ¿Goku y los demás rescatarán a Trunks y escaparán del Prison Planet?",
+      "releaseInfo": "2018",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2372162",
+      "type": "series",
+      "name": "Orange Is the New Black",
+      "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zJiWhsEYCy5BkFCBONoMnUunyZQ.jpg",
+      "description": "Un crimen del pasado obliga a una neoyorquina privilegiada a cumplir su condena en una cárcel de mujeres. Una vez tras las rejas, no tarda en hacer amigas... y enemigas.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4955642",
+      "type": "series",
+      "name": "El Buen Lugar",
+      "poster": "https://image.tmdb.org/t/p/w500/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+      "description": "La recién fallecida Eleanor Shellstrop es envíada al buen lugar, pero sólo por error; Eleanor está decidida a convertirse en una mejor persona en su vida futura con la ayuda de amigos Chidi y Janet.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4580372",
+      "type": "series",
+      "name": "Merlí",
+      "poster": "https://image.tmdb.org/t/p/w500/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1p7cUZ0X9YXX4FZ4aTdLYLdH64S.jpg",
+      "description": "El profesor de filosofía Merlí Bergeron escoge un grupo de alumnos de bachillerato para convertirlos en los peripatéticos del siglo XXI. Como si tratara de un nuevo Aristóteles, Merlí les enseñará a cuestionar las cosas y a reflexionar. Pero, por su carácter irónico e irritante, despierta antipatías en el instituto, porque no todos los profesores están dispuestos a aguantar sus manías. Ni tampoco su hijo, el alumno más difícil que ha tenido jamás y con el que intentará mejorar su relación.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5555260",
+      "type": "series",
+      "name": "This Is Us",
+      "poster": "https://image.tmdb.org/t/p/w500/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+      "description": "Las vidas de la familia Pearson son contadas en distintos momentos en el tiempo: Por un lado seguiremos el presente de los hermanos Kevin, Kate y Randall y, por otro, el pasado de sus padres, Rebecca y Jack Pearson.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3061046",
+      "type": "series",
+      "name": "Steven Universe",
+      "poster": "https://image.tmdb.org/t/p/w500/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
+      "description": "Un niño pequeño toma el lugar de su madre en un grupo de seres basados en piedras preciosas, y debe aprender a controlar sus poderes.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3358020",
+      "type": "series",
+      "name": "Parasyte: The Maxim",
+      "poster": "https://image.tmdb.org/t/p/w500/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zfk6siC4KRXurG4jJzSXHy9szGQ.jpg",
+      "description": "Un día, pequeños gusanos alienígenas llamados «parásitos» invaden la Tierra para apoderarse del cerebro de los humanos y tomar control total de sus cuerpos. Shinichi Izumi, un estudiante de secundaria común, es atacado por uno de estos seres, pero logra bloquearlo a tiempo para evitar que llegue a su cabeza. Como resultado, el parásito queda atrapado dentro de su mano derecha, desarrollándose como una entidad independiente llamada Migi.\n\nAl ser incapaces de devorar el cerebro del otro, Shinichi y Migi no tienen más opción que coexistir en una extraña simbiosis. Sin embargo, para sobrevivir en un mundo donde otros parásitos ven a la humanidad únicamente como alimento, ambos deberán unir fuerzas y luchar contra violentas amenazas que ponen en riesgo su vida y el destino de la especie humana.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5249462",
+      "type": "series",
+      "name": "Desaparecido",
+      "poster": "https://image.tmdb.org/t/p/w500/kLHZO6bAiKaGFGrw0saoZS9ZTpV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
+      "description": "Satoru Fujinuma puede viajar al pasado para salvar vidas. Cuando se despierta 18 años antes del presente, tiene la oportunidad de salvar a sus compañeros de la muerte.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3895150",
+      "type": "series",
+      "name": "Your Lie in April",
+      "poster": "https://image.tmdb.org/t/p/w500/xswPti7YWJfvqFf52P5VAN1QMuJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
+      "description": "Kousei Arima, un talentoso pianista, pierde su habilidad para tocar después de una tragedia. Su vida se vuelve solitaria y gris hasta que conoce a Kaori Miyazono, una apasionada violinista que lo obliga a enfrentar su pasado y le devuelve el color a su mundo.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11043632",
+      "type": "series",
+      "name": "BEASTARS",
+      "poster": "https://image.tmdb.org/t/p/w500/jjsLEOThEri8jES4eQq9Nwvrvsr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oU6akWOEEvdoaaK9Sdpzowmi2gR.jpg",
+      "description": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6483832",
+      "type": "series",
+      "name": "The Resident",
+      "poster": "https://image.tmdb.org/t/p/w500/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
+      "description": "Se centra en un joven doctor que empieza su primer día bajo la supervisión de un brillante residente senior que le mostrará la cruda realidad de la medicina moderna.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5676412",
+      "type": "series",
+      "name": "Sin senos sí hay paraíso",
+      "poster": "https://image.tmdb.org/t/p/w500/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+      "description": "La trágica historia de una joven llamada Catalina Santana cuya ambición es tan fuerte que arriesgará su vida por su obsesión por tener senos más grandes para atraer a los narcotraficantes y tener todos los lujos de este mundo.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7053188",
+      "type": "series",
+      "name": "Estación 19",
+      "poster": "https://image.tmdb.org/t/p/w500/k2RhaJ7AGBAt1ZY6cxJD7Pzjtif.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+      "description": "La serie sigue a un grupo de heroicos bomberos del Departamento de Bomberos de Seattle en la Estación 19 desde el capitán hasta el más reciente recluta en sus vidas personales y profesionales",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2188671",
+      "type": "series",
+      "name": "Bates Motel",
+      "poster": "https://image.tmdb.org/t/p/w500/edDpfbTquXJa2H5SyVgq2QbOaMS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qt3NbzjWRconY6KRGaczte6DmAF.jpg",
+      "description": "Bates Motel (inspirada tanto en la novela como en la famosa película Psyco de Alfred Hitchcock) narra la vida de un Norman Bates adolescente cuando - antes de convertirse en un feroz asesino - vivía en una ambigua relación de simbiosis con su madre Norma en el pueblo de \"White Pine Bay\", Oregon.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1796960",
+      "type": "series",
+      "name": "Homeland",
+      "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+      "description": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "War & Politics",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3837246",
+      "type": "series",
+      "name": "Assassination Classroom",
+      "poster": "https://image.tmdb.org/t/p/w500/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "description": "La Tierra se ve amenazada por un poderoso monstruo que destruyó el 70% de la Luna con su poder, dejándola permanentemente en forma de cuarto creciente. El monstruo afirma que dentro de un año, la Tierra también será destruida por él, pero ofrece a la humanidad una oportunidad para evitar ese destino. Éste mismo comienza a trabajar como maestro en la clase 3-E de la secundaria Kunugigaoka, cuyos estudiantes tienen el objetivo de asesinarlo. El gobierno japonés promete una recompensa de ¥10 billones (100 millones de dólares,",
+      "releaseInfo": "2015",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1641384",
+      "type": "series",
+      "name": "Justicia Joven",
+      "poster": "https://image.tmdb.org/t/p/w500/qYA2o1y67stEBAkQLRwbpGWHxTQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+      "description": "Un grupo de superhéroes adolescentes formado por Robin, Kid Flash, Aqualad, Miss Martian, entre otros, tratan de demostrar su valía para formar parte de la Liga de la Justicia mientras conviven con sus problemas de adolescencia.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2320220",
+      "type": "series",
+      "name": "Soy una Diosa ¿Y ahora qué?",
+      "poster": "https://image.tmdb.org/t/p/w500/ya4TK0J1HyYFX6EpcLOWBiHavHz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cttisz5q4LHwyRYlIj9S7oQa27v.jpg",
+      "description": "La historia comienza con Nanami Momozono, una chica que ha perdido su  casa a causa de las deudas de juego de su padre y ha sido abandonada por  éste. Al encontrarse en el parque sin casa o lugar adónde ir, conoce a  un joven y lo \"salva\" ya que estaba siendo amenazado por un perro, a  cambio de dicho acto el joven le concede su propiedad y el derecho de  ser el \"nuevo\" dios de la tierra. Cuando Nanami va a la propiedad al  principio cree que es una broma ya que resulta ser un templo, pero todo  cambia cuando conoce a Tomoe el familiar del antiguo dios de la tierra  que no estará dispuesto a aceptar tan fácilmente a Nanami como su nueva  ama, siguiendo enojado por el abandono de su antiguo amo, ahora Nanami  se ve afrontar un nuevo mundo donde ella tendrá que probar tanto al  mundo de los dioses como ella misma que puede llegar a ser una deidad  digna (junto con la ayuda de Tomoe) tendrá que aprender como hacer el  trabajo de dios de la tierra y más en un mundo donde la ciencia y la Tecnología han superado la creencia religiosa.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6340304",
+      "type": "series",
+      "name": "Rosario Tijeras",
+      "poster": "https://image.tmdb.org/t/p/w500/zY7jshpbPNs5U677HxRZUltb7gm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
+      "description": "La serie cuenta la historia de una guerrera de uno de los barrios más pobres y peligrosos en Ciudad de México. Su belleza y nobleza contrasta con el ambiente gris y desolado donde creció. Ella es temida por sus enemigos y adorada por sus amigos.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1734135",
+      "type": "series",
+      "name": "Trollhunters: Relatos de Arcadia",
+      "poster": "https://image.tmdb.org/t/p/w500/vdkdcl7R1mL6NPjyzUi1xsNG4b0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+      "description": "Proveniente de la imaginación sin límites del genio creador de relatos Guillermo del Toro surge una historia de dos mundos a punto de colapsar en la épica saga de DreamWorks Trollhunters. Cuando un adolescente, Jim Lake Jr., se topa con un místico amuleto una mañana rumbo a la escuela, inadvertidamente descubre un extraordinario secreto de una poderosa civilización de trolls que viven debajo del pequeño pueblo de Arcadia. De carácter fuerte y en busca de aventura, pero totalmente carente de preparación para las responsabilidades que han caído sobre él, Jim se ve obligado a asumir el anhelado rol de cazador de trolls, jurando proteger el bien de los trolls ante los poderosos enemigos que buscan venganza. (PantallaTotal)",
+      "releaseInfo": "2016",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7131720",
+      "type": "series",
+      "name": "Kakegurui",
+      "poster": "https://image.tmdb.org/t/p/w500/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/n35AGT8JMMcbdPMxXLg4KMUuLx.jpg",
+      "description": "En la academia privada Hyakkaō, los estudiantes millonarios gozan de ciertos beneficios por tener habilidades e inteligencia más desarrollada, el resto sufre de los problemas de los de bajo estatus y su poca estrategia en los juegos de apuestas. Una nueva estudiante de segundo año transferida muestra una obsesiva conducta y gran destreza en los juegos de apuestas.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Animación",
+        "Misterio",
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1704637",
+      "type": "series",
+      "name": "La Reina del Sur",
+      "poster": "https://image.tmdb.org/t/p/w500/1qCGOuNVOlaBb7MMDen6CLzp0UE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eio6VCc8mB8igvW2ShRpgIGH8nZ.jpg",
+      "description": "Tras años de sangre, sudor y lágrimas, una mujer de origen humilde se termina convirtiendo en una leyenda del narcotráfico, con todo lo que eso significa...",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5711512",
+      "type": "series",
+      "name": "40 y 20",
+      "poster": "https://image.tmdb.org/t/p/w500/jS3N1pZpBAj8Ugqgv332oi20Til.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zxfEkeV7NXQ0otFzNLPljFQ7FAy.jpg",
+      "description": "Serie mexicana que narra la vida de Paco, un cuarentón divorciado que le fascinan las jovencitas, junto a Fran, su hijo veinteañero con una gran debilidad por las cuarentonas, quienes pasan juntos todos los fines de semana... muy bien acompañados.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6473344",
+      "type": "series",
+      "name": "SEAL Team",
+      "poster": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+      "description": "Drama militar que sigue la vida profesional y personal de la unidad de élite de los Navy Seals mientras entrenan, planean y ejecutan las misiones más peligrosas, furtivas y de alto riesgo que un país puede tener.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4655480",
+      "type": "series",
+      "name": "Chicago Med",
+      "poster": "https://image.tmdb.org/t/p/w500/s55mHZ5q68IUtRsQdy2oC3nPpG7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
+      "description": "Muestra el caótico día a día del hospital más colapsado de Chicago, y el duro trabajo que realiza su entregado equipo de médicos y enfermeras para que el sistema siga funcionando. Al mismo tiempo que afrontan sus problemas personales, estos médicos tendrán que resolver casos de extraordinaria gravedad.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2357547",
+      "type": "series",
+      "name": "Marvel - Jessica Jones",
+      "poster": "https://image.tmdb.org/t/p/w500/aej8tAT0EDijipbNd0ABE874fCq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+      "description": "Cuando una tragedia pone fin a su corta carrera como superhéroe, Jessica se instala en la ciudad de Nueva York y abre su propia agencia de detectives, que parece ser llamada en casos que involucran a personas que tienen habilidades especiales.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8788458",
+      "type": "series",
+      "name": "The Promised Neverland",
+      "poster": "https://image.tmdb.org/t/p/w500/8RWcKSmCbwsN8porFyTOB5e2cDG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/u7Q2C10SQlhPoKm7ersFL5f991q.jpg",
+      "description": "Por mucho que los niños la quieran, ella no es su madre. Viven juntos, pero no son familiares de sangre. Grace Field es un hogar al que son enviados los niños que no tienen padres. Un hogar irreemplazable para los 38 niños que allí viven felices su día a día, como si fueran hermanos, aunque al inicio fueran completos desconocidos. Al menos así era hasta que cierto descubrimiento cambió sus vidas por completo...",
+      "releaseInfo": "2019",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5607976",
+      "type": "series",
+      "name": "His Dark Materials",
+      "poster": "https://image.tmdb.org/t/p/w500/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t8KjRqfOqNx14cHLwARjR08bjeb.jpg",
+      "description": "En un mundo similar al nuestro pero con criaturas mágicas, una joven se embarca en una extraordinaria aventura para rescatar a un amigo.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2261227",
+      "type": "series",
+      "name": "Carbono Alterado",
+      "poster": "https://image.tmdb.org/t/p/w500/nQKQ1W2NX6JUix8eh8IYkYdVwz8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+      "description": "Tras pasar 250 años dormido, despertó en otro cuerpo. Entre la libertad y él, se interpone un rompecabezas letal.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
           }
         }
       }

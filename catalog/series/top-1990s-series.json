@@ -173,27 +173,6 @@
       }
     },
     {
-      "id": "tt0098936",
-      "type": "series",
-      "name": "Twin Peaks",
-      "poster": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
-      "description": "El excéntrico agente del FBI Dale Cooper (Kyle MacLachlan) llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman (Michael Ontkean), el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
-      "releaseInfo": "1990",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.3"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0112159",
       "type": "series",
       "name": "Neon Genesis Evangelion",
@@ -211,6 +190,27 @@
         "ratings": {
           "tmdb": {
             "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098936",
+      "type": "series",
+      "name": "Twin Peaks",
+      "poster": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+      "description": "El excéntrico agente del FBI Dale Cooper (Kyle MacLachlan) llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman (Michael Ontkean), el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
           }
         }
       }
@@ -306,6 +306,27 @@
       }
     },
     {
+      "id": "tt0118480",
+      "type": "series",
+      "name": "Stargate SG-1",
+      "poster": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yOyzlRw54oYaGvhUBdPr7TFwtrX.jpg",
+      "description": "Stargate SG-1 es una serie televisiva estadounidense derivada del largometraje de ciencia ficción Stargate: Puerta a las Estrellas (1994). Producida por los estudios Metro Goldwyn Mayer. Esta serie se centra en las vivencias y aventuras de un equipo de militares y científicos miembros de un proyecto ultra-secreto de las Fuerzas Aéreas de los Estados Unidos, que utiliza un ingenio extraterrestre (Stargate) para desplazarse a otros planetas de manera casi instantánea.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0206512",
       "type": "series",
       "name": "Bob Esponja",
@@ -323,27 +344,6 @@
         "ratings": {
           "tmdb": {
             "rating": "7.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt0118480",
-      "type": "series",
-      "name": "Stargate SG-1",
-      "poster": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/yOyzlRw54oYaGvhUBdPr7TFwtrX.jpg",
-      "description": "Stargate SG-1 es una serie televisiva estadounidense derivada del largometraje de ciencia ficción Stargate: Puerta a las Estrellas (1994). Producida por los estudios Metro Goldwyn Mayer. Esta serie se centra en las vivencias y aventuras de un equipo de militares y científicos miembros de un proyecto ultra-secreto de las Fuerzas Aéreas de los Estados Unidos, que utiliza un ingenio extraterrestre (Stargate) para desplazarse a otros planetas de manera casi instantánea.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.3"
           }
         }
       }
@@ -831,28 +831,6 @@
       }
     },
     {
-      "id": "tt0112230",
-      "type": "series",
-      "name": "Xena: La Princesa Guerrera",
-      "poster": "https://image.tmdb.org/t/p/w500/3SRTblGC16nuyFVvGKIkIVxN89S.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/1V7WuDv5kmzwCCNd9CNQvOmqHdm.jpg",
-      "description": "En un mundo antiguo y peligroso, por capricho de los dioses y la tiranía humana, Xena, una princesa guerrera que busca expiar sus errores, viaja con su compañera barda que quiere convertirse en una poderosa guerrera, para ayudar a los inocentes y luchar contra la injusticia y las fuerzas de la oscuridad.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Drama",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.5"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0162065",
       "type": "series",
       "name": "Angel",
@@ -913,6 +891,28 @@
         "ratings": {
           "tmdb": {
             "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112230",
+      "type": "series",
+      "name": "Xena: La Princesa Guerrera",
+      "poster": "https://image.tmdb.org/t/p/w500/3SRTblGC16nuyFVvGKIkIVxN89S.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1V7WuDv5kmzwCCNd9CNQvOmqHdm.jpg",
+      "description": "En un mundo antiguo y peligroso, por capricho de los dioses y la tiranía humana, Xena, una princesa guerrera que busca expiar sus errores, viaja con su compañera barda que quiere convertirse en una poderosa guerrera, para ayudar a los inocentes y luchar contra la injusticia y las fuerzas de la oscuridad.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
           }
         }
       }
@@ -1551,28 +1551,6 @@
       }
     },
     {
-      "id": "tt0126170",
-      "type": "series",
-      "name": "Recreo",
-      "poster": "https://image.tmdb.org/t/p/w500/pXuTAVczw33OQlfOwp7s7t5HO6A.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/PJSgscE4Es0TXmgIqp3X6ey8Ux.jpg",
-      "description": "TJ, Vince, Mikey, Spinelli, Gretchen y Gus son un grupo de compañeros de la escuela primaria. Cada día será una aventura nueva en donde convivirán diariamente con decenas de curiosos personajes como la señorita Finster, el Rey Bob, los excavadores, la chica del columpio, el grupo de las \"Ashleys\" o los salvajes de párvulos.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Animación",
-        "Kids",
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.8"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0098929",
       "type": "series",
       "name": "Las aventuras de los Tiny Toon",
@@ -1586,6 +1564,28 @@
         "Comedia",
         "Familia",
         "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0126170",
+      "type": "series",
+      "name": "Recreo",
+      "poster": "https://image.tmdb.org/t/p/w500/pXuTAVczw33OQlfOwp7s7t5HO6A.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/PJSgscE4Es0TXmgIqp3X6ey8Ux.jpg",
+      "description": "TJ, Vince, Mikey, Spinelli, Gretchen y Gus son un grupo de compañeros de la escuela primaria. Cada día será una aventura nueva en donde convivirán diariamente con decenas de curiosos personajes como la señorita Finster, el Rey Bob, los excavadores, la chica del columpio, el grupo de las \"Ashleys\" o los salvajes de párvulos.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Animación",
+        "Kids",
+        "Comedia"
       ],
       "app_extras": {
         "ratings": {
@@ -1616,6 +1616,28 @@
       }
     },
     {
+      "id": "tt0118375",
+      "type": "series",
+      "name": "Los Reyes de la Colina",
+      "poster": "https://image.tmdb.org/t/p/w500/22ki3WbK1waRYyhicNeOHLBLHp3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
+      "description": "Los reyes de la colina muestra la vida de la típica familia tejana, los Hills, conservadores, orgullosos de sus orígenes tejanos, temerosos del poder de Dios... Serie de televisión de culto emitida por FOX, la segunda más lóngeva de la cadena después de Los Simpson (casi 300 capítulos), creada por Mike Judge (Beavis and Butthead) y por Greg Daniels (guionista de Los Simpson).",
+      "releaseInfo": "1997",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0118266",
       "type": "series",
       "name": "Las Nuevas Aventuras de Batman",
@@ -1634,28 +1656,6 @@
         "ratings": {
           "tmdb": {
             "rating": "8.1"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt0118375",
-      "type": "series",
-      "name": "Los Reyes de la Colina",
-      "poster": "https://image.tmdb.org/t/p/w500/22ki3WbK1waRYyhicNeOHLBLHp3.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
-      "description": "Los reyes de la colina muestra la vida de la típica familia tejana, los Hills, conservadores, orgullosos de sus orígenes tejanos, temerosos del poder de Dios... Serie de televisión de culto emitida por FOX, la segunda más lóngeva de la cadena después de Los Simpson (casi 300 capítulos), creada por Mike Judge (Beavis and Butthead) y por Greg Daniels (guionista de Los Simpson).",
-      "releaseInfo": "1997",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.4"
           }
         }
       }
@@ -1878,26 +1878,6 @@
       }
     },
     {
-      "id": "tt0165581",
-      "type": "series",
-      "name": "El Rey de Queens",
-      "poster": "https://image.tmdb.org/t/p/w500/e718w2IAG0Svh80AHop44NFvNka.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
-      "description": "Serie sobre una pareja de la clase obrera en Nueva York que lidia con la vida, incluso los suegros entrometidos. Estrenada el 21 de septiembre de 1998 en la cadena CBS.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.2"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0115108",
       "type": "series",
       "name": "Transformers: La Guerra de Bestias",
@@ -1915,6 +1895,26 @@
         "ratings": {
           "tmdb": {
             "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0165581",
+      "type": "series",
+      "name": "El Rey de Queens",
+      "poster": "https://image.tmdb.org/t/p/w500/e718w2IAG0Svh80AHop44NFvNka.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
+      "description": "Serie sobre una pareja de la clase obrera en Nueva York que lidia con la vida, incluso los suegros entrometidos. Estrenada el 21 de septiembre de 1998 en la cadena CBS.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
           }
         }
       }
@@ -1956,6 +1956,27 @@
         "Animación",
         "Comedia",
         "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118300",
+      "type": "series",
+      "name": "Dawson crece",
+      "poster": "https://image.tmdb.org/t/p/w500/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
+      "description": "Ambientada en la ficticia ciudad de Capeside, \"Dawson's Creek\" narra el paso de la adolescencia a la madurez de varios jóvenes del pueblo. Dawson, Joey y Pacey eran muy amigos desde la infancia, pero todo cambió cuando empezaron el instituto. Al pueblo llegó una joven, Jen, que al ser vecina de Dawson se les unió al grupo. Así, sus vidas iban a sufrir constantes cambios, propios de la juventud, siempre entre estudios, amoríos, inquietudes sbre sus relaciones cruzadas, sus aficiones, su búsqueda del lugar en el mundo en el mundo de cada uno y su preocupación sobre su futuro... Serie creada por el guionista de la saga \"Scream\".",
+      "releaseInfo": "1998",
+      "genres": [
+        "Drama",
+        "Soap"
       ],
       "app_extras": {
         "ratings": {
@@ -2026,27 +2047,6 @@
         "ratings": {
           "tmdb": {
             "rating": "7.7"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt0118300",
-      "type": "series",
-      "name": "Dawson crece",
-      "poster": "https://image.tmdb.org/t/p/w500/arT93dBemanftfWTcf9I0JRIlxU.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
-      "description": "Ambientada en la ficticia ciudad de Capeside, \"Dawson's Creek\" narra el paso de la adolescencia a la madurez de varios jóvenes del pueblo. Dawson, Joey y Pacey eran muy amigos desde la infancia, pero todo cambió cuando empezaron el instituto. Al pueblo llegó una joven, Jen, que al ser vecina de Dawson se les unió al grupo. Así, sus vidas iban a sufrir constantes cambios, propios de la juventud, siempre entre estudios, amoríos, inquietudes sbre sus relaciones cruzadas, sus aficiones, su búsqueda del lugar en el mundo en el mundo de cada uno y su preocupación sobre su futuro... Serie creada por el guionista de la saga \"Scream\".",
-      "releaseInfo": "1998",
-      "genres": [
-        "Drama",
-        "Soap"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "7.3"
           }
         }
       }
@@ -2175,6 +2175,1104 @@
         "ratings": {
           "tmdb": {
             "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098798",
+      "type": "series",
+      "name": "Flash",
+      "poster": "https://image.tmdb.org/t/p/w500/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4yqH859U1oklGm4O5mFhrmtabKL.jpg",
+      "description": "Cuando un rayo atraviesa un laboratorio criminalístico de la policía, una mezcla de sustancias cargadas eléctricamente baña al químico Barry Allen, transformándolo en el hombre más rápido del mundo: Flash.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0103477",
+      "type": "series",
+      "name": "La Sirenita",
+      "poster": "https://image.tmdb.org/t/p/w500/tva5VsAPqQivt6U4cYOq78Wyh5T.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9XCRhni0n5qbs9CkcOh4TMHiR4J.jpg",
+      "description": "Disney's The Little Mermaid es una serie de televisión de animación estadounidense producida por Walt Disney Television Animation basada en la película de Disney 1989 del mismo nombre. Cuenta con las aventuras de Ariel como una sirena antes de los acontecimientos de la película. Esta serie es la primera serie de televisión de Disney que se separó de una película de animación importante. Algunos de los actores de la película vuelven a interpretar sus papeles en la serie, entre ellos Jodi Benson como Ariel, Samuel E. Wright como Sebastian, Kenneth Mars como el Rey Triton y Pat Carroll como Ursula. La pequeña sirena se estrenó en el otoño de 1992 con el especial de animación en horario estelar llamado \"Una ballena de un cuento\", luego se trasladó a las mañanas de sábado. Esta serie apareció originalmente en CBS, con una ejecución original de 1992 a 1994. Posteriormente se mostró en repeticiones en Disney Channel hasta 2008. Algunos de los episodios contienen segmentos musicales, con canciones originales escritas para la serie. El tema de apertura del espectáculo es una combinación instrumental de las canciones \"Parte de tu mundo\", \"Bajo el mar\" y \"Kiss the Girl\". La obertura para el musical de la etapa de la sirenita es similar a esto.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0252158",
+      "type": "series",
+      "name": "Pandillas guerra y paz",
+      "poster": "https://image.tmdb.org/t/p/w500/gDmM6FkLy9i9KPcqI4siORNWH9Y.jpg",
+      "posterShape": "poster",
+      "description": "La serie abarca varios campos críticos en la sociedad de las principales y más aglomeradas poblaciones bogotanas, más exactamente en la localidad de Ciudad Bolívar, donde un pequeño grupo de pandilleros fueron creciendo poco a poco, hasta convertirse en los delincuentes más peligrosos de la ciudad. Esta teleserie fue creada para ser transmitida en tres capítulos que terminaban con la muerte de Manuel Zapata Alias \"Marrano\" y otros a manos de un grupo de limpieza social, pero debido a la acogida que tuvo a nivel nacional, se alargó inicialmente a 30 capítulos y luego a más de 100.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118475",
+      "type": "series",
+      "name": "Spawn",
+      "poster": "https://image.tmdb.org/t/p/w500/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/feOqjyLikWoN3sANxwGYehwX3HB.jpg",
+      "description": "Al Simmons, un superagente del gobierno, es asesinado por su jefe, el malvado Jason Wynn, con la ayuda de su terrible colaborador, Clown. Deseando volver a ver a su amada Wanda, y cegado por la venganza, Simmons decide hacer un pacto con el diablo.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115378",
+      "type": "series",
+      "name": "Superman: La Serie Animada",
+      "poster": "https://image.tmdb.org/t/p/w500/dL1W5AxwCtZ8kZhARPiyo1wwv5V.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yDsLb8WRHplh7X5EpHDFHl7TP8T.jpg",
+      "description": "\"Superman: La serie animada\" es protagonizada por Superman y forma parte del mismo universo de \"Batman: La serie animada\", \"Batman del futuro\", \"Liga de la Justicia\" y \"Liga de la Justicia Ilimitada\". A diferencia de otras versiones, esta serie no está dirigida a un público infantil, pues las aventuras no tienen un \"mensaje\" y los personajes no son unidimensionalmente \"buenos\" o \"malos\". La acción tiene un buen grado de violencia, y en más de una ocasión hay personajes que son asesinados o condenados a la pena de muerte.\n\nEl protagonista principal es Superman, y lo acompañan sus padres adoptivos Johnatan y Marta Kent. A Clark Kent lo acompañan sus compañeros periodistas Louis Lane, Jimmy Olsen y Perry White. Con los villanos, destacan Lex Luthor, en su versión de empresario; Darkseid y los habitantes de Apokolips. Además, aparecen numerosos personajes invitados, como Batman, Flash, Dr. Destino, Aquaman, Linterna Verde (Kyle Rayner), entre otros.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0426719",
+      "type": "series",
+      "name": "Hunter x Hunter",
+      "poster": "https://image.tmdb.org/t/p/w500/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
+      "description": "En un mundo de fantasía y ensueño ha nacido una nueva profesión, la de los Cazadores, valientes aventureros encargados de encontrar y capturar tesoros, recompensas y villanos. Para formarlos existen las escuelas de Cazadores, donde los jóvenes aprendices desarrollan sus habilidades. Los que se esfuerzan y consiguen graduarse se convierten en famosos cazadores y en un ejemplo para todos los niños del mundo. Uno de esos jóvenes alumnos es Gon, un muchacho con el corazón de oro ilusionado por convertirse en un Cazador y que se convertirá en una auténtica leyenda. Pero Gon sólo tiene un sueño, encontrar a su padre desaparecido años atrás.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0216459",
+      "type": "series",
+      "name": "Café con Aroma de Mujer",
+      "poster": "https://image.tmdb.org/t/p/w500/51sT2YMf3lmJpFLcYUfpFA0prgc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/A78AhN35CMyfaYP45RgLueAJ2qb.jpg",
+      "description": "Gaviota, una recolectora de café, y Sebastián Vallejo, un heredero de la hacienda, se enamoran pese a las barreras sociales. Entre promesas, separaciones y desafíos inesperados, su historia de amor se convierte en una lucha por volver a encontrarse.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Drama",
+        "Familia",
+        "Reality"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112057",
+      "type": "series",
+      "name": "Las Guerreras Mágicas",
+      "poster": "https://image.tmdb.org/t/p/w500/obQnEfQOrYiL84s9odgq7Jwqgik.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "description": "La Tierra es un lugar oscuro y desierto. A pesar de los mejores esfuerzos de la heroína, Lucy, el castillo del malvado Cephiro ha dominado el mundo y se erige en el centro de Tokio. Antes de que la hechicera del hielo, Alcione, pueda vengarse de Lucy, esta es rescatada por Latis, un joven que la encierra en un laberinto mágico donde debe probar sus poderes mientras que sus amigas están siendo perseguidas por los hechiceros de Cephiro. Huyendo a través de una tranquila ciudad, Marina y Anaís buscan al durmiente Genio; unas criaturas divinas que se unirán con ellas para convertirse en guerreras de gran poder. Pero las Guerreras Mágicas están asustadas, desentrenadas y solas... ¿Será suficiente Genio para salvarlas de los malvados actos de Cephiro?",
+      "releaseInfo": "1994",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0208614",
+      "type": "series",
+      "name": "Celebrity Deathmatch Lucha a muerte de las celebridades",
+      "poster": "https://image.tmdb.org/t/p/w500/A0wvMbMDhIOzpcPVmQPiGBNmTE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/70n2Ii90FgUxUHtztewvoQLc27h.jpg",
+      "description": "Celebrity Deathmatch es un programa de televisión claymation que representa a las celebridades unas contra otras en un ring de lucha libre, casi siempre terminando en la muerte espantosa del perdedor. Era conocido por su cantidad excesiva de sangre utilizada en cada partido y lesiones físicas exageradas.\n\nLa serie fue creada por Eric Fogel; con los pilotos transmitiendo en MTV el 1 de enero y el 25 de 1998. La serie inicial funcionó del 14 de mayo de 1998 al 20 de octubre de 2002, y duró para una ejecución de 75 episodios. Hubo un especial que no contribuyó al total del episodio final, titulado \"Celebrity Deathmatch Hits Germany\", que se emitió el 21 de junio de 2001. El luchador profesional Stone Cold Steve Austin dio voz a su forma animada como comentarista invitado. A principios de 2003, una película basada en la serie fue anunciada por MTV para estar en la fabricación, pero el proyecto fue cancelado para el final de ese año.\n\nEn 2005, MTV2 anunció el renacimiento del espectáculo como parte de su bloque de programación \"Sic 'Em Friday\". Originalmente fijado para regresar en noviembre de 2005, el estreno fue empujado de nuevo al 10 de junio de 2006 como parte de un nuevo bloque \"Sic'emation\" con otros dos espectáculos animados, Where My Dogs At y Las aventuras de Chico y Guapo. La quinta temporada de la serie fue producida por Cuppa Coffee Studios y el estreno atrajo a más de 2,5 millones de espectadores, convirtiéndose en el estreno de la temporada más alta de MTV2.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112064",
+      "type": "series",
+      "name": "La Máscara (serie animada)",
+      "poster": "https://image.tmdb.org/t/p/w500/8IuTg9XaviDwpfm99IXUUPukrVA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kCn0YRqJyhjiyP7hTtLnEVLyYvk.jpg",
+      "description": "Serie de animación surgida a raíz del éxito de la película protagonizada por Jim Carrey, que a su vez adaptaba un popular cómic de Dark Horse. Sigue la historia de Stanley Ipkiss, quien tras encontrar una máscara mágica es capaz de convertirse en un improvisado superhéroe.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0103442",
+      "type": "series",
+      "name": "Highlander: El inmortal",
+      "poster": "https://image.tmdb.org/t/p/w500/rlJzuTbdMAa6jOdpKxxTx8KVN88.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6GzNuxHWvaEzNNVZ5xI0LsqxFCl.jpg",
+      "description": "Duncan MacLeod es un inmortal. Ha decidido vivir pacíficamente con su prometida Tessa y mantenerse al margen de la lucha entre clanes. Pero un antiguo enemigo resurge, obligándolo a empuñar de nuevo su espada.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0106168",
+      "type": "series",
+      "name": "Walker, Comisario de Texas",
+      "poster": "https://image.tmdb.org/t/p/w500/lldKpGEOlHJXMkb1pi7s7xCExmX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2XFBqLWmMem1nImSPCnPVOXH1MF.jpg",
+      "description": "El ranger Cordell Walker (Chuck Norris) es un experto en artes marciales, defensor de la justicia y ex luchador de la guerra de Vietnam que combate los delitos de la ciudad de Dallas. Le acompañan, inicialmente, el antiguo futbolista americano de Baltimore Jimmy Trivette (Clarence Gilyard), el antiguo ranger C.D. Parker (Noble Willingham) y la asistente del fiscal Alex Cahill (Sheree J. Wilson). Luego se suman los rangers Francis Gage (Judson Mills) y Sidney Cooke (Nia Peeples)",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama",
+        "Western",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0213363",
+      "type": "series",
+      "name": "Oggy y las cucarachas",
+      "poster": "https://image.tmdb.org/t/p/w500/fTGEhXPR3RfyCyni2Ju1ze3oRrl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fVO7r9tAnauny8DAqbetlQ1tVtu.jpg",
+      "description": "Oggy sería el gato más feliz del mundo si tres cucarachas no hubieran decidido instalarse en su acogedor hogar.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118289",
+      "type": "series",
+      "name": "La Vaca y el Pollito",
+      "poster": "https://image.tmdb.org/t/p/w500/wsBSKe9QAs4Gq1nCD8619qTtnKy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iohe4KtMpFKYzuA3QIBRrcbJIbz.jpg",
+      "description": "La Vaca y el Pollito trata sobre las aventuras de dos hermanos, una vaca y un pollo. Sus padres son un par de piernas cada uno sin torso y casi siempre los hermanos son atormentados por el Hombre Rojo (Trasero Rojo), una versión patética del diablo que interpreta diferentes personajes en numerosos episodios, y que casi nunca lleva pantalones.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0111999",
+      "type": "series",
+      "name": "Hércules: Los Viajes Legendarios",
+      "poster": "https://image.tmdb.org/t/p/w500/9YpmZFiJGXdn3LugCaCHyAtmdym.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6hhrV6KAyDsVZEny6CgUqK3AHjf.jpg",
+      "description": "Serie de TV (1995-1999). 6 temporadas. 111 episodios. Conocida teleserie protagonizada por Kevin Sorbo que narraba desde un punto de vista libre, la historia del semi-dios Hércules. Mezclaba mitología griega con romana. Su éxito fue tan grande que a raíz de ella salieron otras dos series más: Xena: La Princesa Guerrera y El joven Hércules.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0244926",
+      "type": "series",
+      "name": "Rocket Power",
+      "poster": "https://image.tmdb.org/t/p/w500/97lRPXWVsGin4Ag255bPC6z46X8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oBGchglw5lgrW7jc5UYK7IHsi4X.jpg",
+      "description": "Rocket Power es una serie de televisión animada de Estados Unidos, que hizo su aparición en el canal de televisión Nickelodeon en agosto de 1999. Producido por el estudio de animación Klasky Csupo Inc. (quienes también crearon la popular serie Aventuras en Pañales), el programa gira alrededor de las aventuras cotidianas de un grupo de chicos aficionados a los deportes extremos que viven en el sur de California, en la ciudad ficticia de Costa del Océano (\"Ocean Shores\"), en donde disfrutan practicando surfeo, patinaje, patineta, ciclismo, hockey callejero, y otros pasatiempos activos.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115167",
+      "type": "series",
+      "name": "Todo el mundo quiere a Raymond",
+      "poster": "https://image.tmdb.org/t/p/w500/ghYljFhZ83kowHODCgJNwwr9pYJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+      "description": "Comedia acerca de un periodista deportivo y sus padres entrometidos, que por desgracia son sus vecinos. La serie se basa en la vida de Ray Romano, un cómico famoso. Estrenada el 13 de septiembre de 1996 en la cadena CBS.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Los asesinatos de Midsomer",
+      "poster": "https://image.tmdb.org/t/p/w500/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "description": "El inspector Tom Barnaby investiga crímenes que ocurren en el alejado y rico condado inglés de Midsomer, un lugar aparentemente pintoresco y tranquilo pero que está lleno de excéntricos amorales y clasistas con toda clase de vicios.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0157246",
+      "type": "series",
+      "name": "Will & Grace",
+      "poster": "https://image.tmdb.org/t/p/w500/aEaYdyHcpHN3fIXHhXHtXOs8Rtk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pIPMPMEZErCxTvQG9HDt4AsnAfn.jpg",
+      "description": "Will Truman and Grace Adler are best friends living in New York, and when Grace's engagement falls apart, she moves in with Will. Together, along with their friends, they go through the trials of dating, sex, relationships and their careers, butting heads at times but ultimately supporting one another while exchanging plenty of witty banter along the way.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112022",
+      "type": "series",
+      "name": "JAG: Justicia Militar",
+      "poster": "https://image.tmdb.org/t/p/w500/4ujjuNjMyzIiuWP6tmjPH3bDEQd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rxnschfLZf3ZPRiIa6oBBMtY7hF.jpg",
+      "description": "Después de un accidente aéreo, el piloto naval Hamon Rabb es reasignado al departamento JAG como abogado. Allí tendrá que investigar, junto a un equipo de hombres y mujeres, asuntos y conflictos internos de La Marina.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0101076",
+      "type": "series",
+      "name": "El Pato Darkwing",
+      "poster": "https://image.tmdb.org/t/p/w500/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kijrwXzg2LayIFUJIreIgT1iyeh.jpg",
+      "description": "La serie está situada en la ciudad ficticia de San Canario (St. Canard en la versión inglesa), asolada por los crímenes, siendo entonces cuando Drake Mallard, un pato antropomorfo decide combatir el crimen y proteger la ciudad sin que se desvele su identidad. En su lucha por el bien contará con la ayuda de Joe McQuack (procedente de la serie Patoaventuras). Además de la lucha contra el mal debe estar al cuidado de su hija adoptiva Goszalyn, huérfana cuando su padre biológico falleció, y que no interfiera en su misión, aunque no con mucho éxito.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0105950",
+      "type": "series",
+      "name": "Beavis y Butt-head",
+      "poster": "https://image.tmdb.org/t/p/w500/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/88Va90aHKqJo15wWRhmxG4A3F99.jpg",
+      "description": "Serie de animación de culto emitida en la MTV sobre dos jóvenes amantes del heavy metal que, ocasionalmente, realizaban estupideces por el simple hecho de estar aburridos.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115270",
+      "type": "series",
+      "name": "Millennium",
+      "poster": "https://image.tmdb.org/t/p/w500/vGEPm7vDTGbYNkDodLnsJyl6QIc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7cmCid1B70AwhbdPpKvSVxAyqll.jpg",
+      "description": "Frank Black (Henriksen) es un antiguo analista forense del FBI con capacidades paranormales que le facilitan su trabajo, pero que también lo obligan a conocer el lado más oscuro y sórdido de la mente humana. Precisamente por sus visiones, el Grupo Millenium se fija en él y logra captarlo como colaborador. Mientras ayuda al Grupo en la investigación de crímenes de carácter esotérico y ritual, descubre que Millenium surgió en los primeros años del Cristianismo para combatir el Mal en todas sus formas y que su objetivo fundamental es prepararse para el advenimiento del Anticristo en el año 2000.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0154061",
+      "type": "series",
+      "name": "CatDog",
+      "poster": "https://image.tmdb.org/t/p/w500/fkSCg9negcHAVO3gXohqEidqrsX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ujmeZPV9A5AdwfTEuRWR1eqOMDR.jpg",
+      "description": "Dos mellizos: el inteligente y amable Gato, y el ingenuo y optimista Perro, viven en una casa con forma de pez con un hueso en el pueblo de \"Cercaburgo\", que comparten con Tito, un pequeño ratón azul con actitud de niño sabio que los atormenta constantemente. Siempre se meten en problemas con los Grasosos, una pandilla formada por tres perros: el jefe es Kike, mientras que sus dos seguidores son Lube y Chica.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0106115",
+      "type": "series",
+      "name": "La vida moderna de Rocko",
+      "poster": "https://image.tmdb.org/t/p/w500/ydi5M4Dq10Doi9PPkkN95T8ao7Z.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/f0ILH7zFjiE4aC6Kyu5i8uQOEY9.jpg",
+      "description": "Serie animada que trataba de un Wallaby llamado Rocko, que vivía en una ciudad llamada O-Town con su perro Spunky y otros personajes.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0197182",
+      "type": "series",
+      "name": "Third Watch",
+      "poster": "https://image.tmdb.org/t/p/w500/rWQmgNLdyZGIL6Xuo9ImL0Kh6wt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gQYwrYJUf8Vq8biFFqkHCj4QsOk.jpg",
+      "description": "The exploits of a group of men and women who serve the City of New York as police officers, firemen, and paramedics, all working the same fictional 55th precinct during the 3pm to 11pm shift - the 'Third Watch'.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0163929",
+      "type": "series",
+      "name": "Las Pistas de Blue",
+      "poster": "https://image.tmdb.org/t/p/w500/dSCi1cLsKiQ7713m8Lf9J8iHbRH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/m94lERZlYkFyn3wzoMwLUBeriRI.jpg",
+      "description": "Blue es un cachorro que pone sus huellas en tres pistas. Steve tiene que deducir las pistas (con la ayuda de los niños fuera de la pantalla) para averiguar lo que Blue quiere hacer.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Kids",
+        "Comedia",
+        "Animación",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0106057",
+      "type": "series",
+      "name": "Lois & Clark: Las nuevas aventuras de Superman",
+      "poster": "https://image.tmdb.org/t/p/w500/veNiZIiBsSWSAfVcJzudcuD7N0e.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2gzPDDhpP86MACQOu5aQg9DKyUc.jpg",
+      "description": "Esta serie de los años 90, nominada al Emmy, cuenta la historia del `hombre de acero' y la mujer que lo ama.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0138919",
+      "type": "series",
+      "name": "La Visión de Escaflowne",
+      "poster": "https://image.tmdb.org/t/p/w500/eVfaZ0g7BdepgVXdUSSImCw4JG4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ko65bRVvUAaOJ9Xw6vmXc6rHWxC.jpg",
+      "description": "La historia comienza el día en que Hitomi Kanzaki, una estudiante de 15 años, se entera de que Amamo, su amor imposible, va a dejar la escuela para irse al extranjero. Ella le propone un beso con la condición de superar su marca en una carrera de 100 metros. Cuando se dispone a correr, frota su amuleto de la suerte y se concentra. Es entonces cuando siente que es transportada a un lugar lejano y se encuentra frente a frente con Van... Desde ahora la aventura comienza en otro planeta.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0108941",
+      "type": "series",
+      "name": "La Danza de la Muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/4eTx9bTYJmWxBcUU5F2QzWAHWLQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mCbh1Mzcu6AlTO4aFlfnwfKsxsE.jpg",
+      "description": "Visión épica de un futuro apocalíptico, en la que los supervivientes de una terrible plaga mundial han de elegir su lugar en la batalla definitiva del bien contra el mal que decidirá el destino de la humanidad. Los seguidores del diabólico Randall Flagg planean reconstruir el mundo en consonancia con su tenebrosa imagen, mientras que un valiente cuarteto dirigido por la vieja anciana Abigail Freemantle inicia una misión heroica contra Flagg y sus secuaces. Al enfrentarse a los más increíbles peligros, arriesgarán mucho más que sus vidas en un intento desesperado de resistir y derrotar al mal.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112111",
+      "type": "series",
+      "name": "The Outer Limits",
+      "poster": "https://image.tmdb.org/t/p/w500/AkuOigSV8JRph8Imylcsnoe5PHK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yeuPvfPYK7Y3J3ZWqLF2IcWEi36.jpg",
+      "description": "Anthology series composed of distinct story episodes, sometimes with a plot twist at the end, with occasional recurring story elements that were often tied together during season-finale clip shows.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0207120",
+      "type": "series",
+      "name": "El Hombre-Araña: Sin Limites",
+      "poster": "https://image.tmdb.org/t/p/w500/kctDt88H2aMywGgdGcCLNuvd2g0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/z0szinMWegbR2cH9zIxaBKy2C5b.jpg",
+      "description": "Peter Parker, dado por muerto tras salvar a una persona de un incendio, aprovecha esto y se embarca en una misión para hallar a John Jameson en la Contra Tierra.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098878",
+      "type": "series",
+      "name": "Northern Exposure",
+      "poster": "https://image.tmdb.org/t/p/w500/ez9UChG1dPlPL3osQyi9fpBjTSD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fi2vspZ6xuHZF1kU8wVXmYzYCMi.jpg",
+      "description": "After receiving a scholarship from the state, a recent Columbia University medical school graduate is required to set up his practice in an eccentric Alaskan town.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118379",
+      "type": "series",
+      "name": "La Femme Nikita",
+      "poster": "https://image.tmdb.org/t/p/w500/pFao5i4giBsGl7QQBXi7oMUPzCn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8OapOjQUbA52qDdog8GGIIy8bdh.jpg",
+      "description": "Nikita is a drug-addicted juvenile delinquent who was accused of killing a police officer in cold blood during an attempted robbery of a pharmacy. She is later arrested and sentenced to death by lethal injection, upon which she was secretly drugged by the government, faking her death. Nikita is then \"recruited\" by a secret government organization and transformed into a highly skilled assassin who cannot be traced.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115147",
+      "type": "series",
+      "name": "The Daily Show",
+      "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+      "description": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "releaseInfo": "1996",
+      "genres": [
+        "News",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0222547",
+      "type": "series",
+      "name": "Dos mujeres, un camino",
+      "poster": "https://image.tmdb.org/t/p/w500/rDWuYnHRr36xUW2gsDA4X4kwcJ2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qgcx8M52bOXUPqdFH9xtujBOakN.jpg",
+      "description": "Juan Daniel es un trailero, quien ama a su esposa Ana María. Todo se complica cuando en un viaje conoce a Tania y se enamora de ella. Él no es soltero, así que Tania se convierte en la amante y en la mejor amiga de Ana María. Ahora son dos mujeres, un camino.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0105935",
+      "type": "series",
+      "name": "Aladdín: La serie animada",
+      "poster": "https://image.tmdb.org/t/p/w500/tsDlDLIscp4untKlHU2PxnlkeHF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jPyKuRjloYkjVWNPtXCrYxtg3Bu.jpg",
+      "description": "Basada en la éxitosa película que se estrenó en 1992, Aladdín - La Serie nos trae las trepidante aventuras diarias de Aladdin y su pandilla. En la serie la princesa Jasmine es tan protagonista como Aladdin y muchas veces es ella quien resuelve los líos en los que se ven metidos; el Genio, ya no vive en la lámpara mágica y por lo tanto no puede hacer desaparecer los problemas tan fácilmente como antes; Iago el loro, ha cambiado de bando y ahora es fiel a Aladdin ; Abu el travieso mono que junto con Iago siempre causan destrozos; y la Alfombra. En cada episodio Aladdin y su pandilla tendrán que vérselas con bandas de ladrones, bestias, espíritus y hechicheros. Y cuando creen que las cosas recobran la calma, siempre queda el Gran Tiburón de Arena para fastidiarlo todo. Incluso con un Genio, un loro, un mono y una alfombra mágica para ayudarles, Aladdin y Jasmine no podrán bajar la guardia ni un segundo.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0170982",
+      "type": "series",
+      "name": "Mortal Kombat: Conquest",
+      "poster": "https://image.tmdb.org/t/p/w500/4NvMgESPMT1Tl1qLP2TnNP4pcvX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w6mvtiWPuzfV5lPJAXA2sQ8xqBL.jpg",
+      "description": "Kung Lao has triumphed in the Mortal Kombat tournament, defeating Shang Tsung and saving Earth Realm. Now, he must train a new generation of warriors for the next tournament. Meanwhile, an exiled Shang Tsung attempts to thwart Lao's efforts with the aid of supernatural warriors such as Scorpion and Sub-Zero.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115369",
+      "type": "series",
+      "name": "Spin City",
+      "poster": "https://image.tmdb.org/t/p/w500/3Ksmbpg33PigXKWncD8rFMl24vF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eyi5tMbK6fRtXNFffUTIhRiX0LT.jpg",
+      "description": "Workaholic Mike Flaherty is the Deputy Mayor of New York City, serving as Mayor Randall Winston's key strategist and much-needed handler. Mike runs the city with the help of his oddball staff: an anxious and insecure press secretary; a sexist, boorish chief of staff; an impeccably groomed gay activist running minority affairs; a sharp and efficient, man-crazy accountant; and an idealistic young speechwriter. Like Mike, they are all professionally capable but personally challenged.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0211828",
+      "type": "series",
+      "name": "María Isabel",
+      "poster": "https://image.tmdb.org/t/p/w500/hUECPkYsh5KFvw2oC3xBaOEItBH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/29oa86b0qJ8MEUZuFBmZf5KglsF.jpg",
+      "description": "María Isabel es una bella e inocente indígena huichola que vive en un pueblo del estado de Nayarit con su tata, Pedro y con Chona, su madrastra, quien siempre la ha odiado y maltratado.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Soap",
+        "Drama",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0108829",
+      "type": "series",
+      "name": "Rex, un policía diferente",
+      "poster": "https://image.tmdb.org/t/p/w500/flrXP1FMoXqZGwENQ5dZQ2ZADla.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6x0qhCN23KE2NMOvMLVxFWYlsDd.jpg",
+      "description": "La historia de un perro que trabaja para la policía, resolviendo los casos más extraordinarios.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0112040",
+      "type": "series",
+      "name": "Langoliers",
+      "poster": "https://image.tmdb.org/t/p/w500/elWImW2e2IHr0GO0Uba27bN3YS3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/AeYiW8dRyZbNElQmJ8I4lgTF1O4.jpg",
+      "description": "La mayoría de los pasajeros de un avión con destino a Boston desaparecen sin razón aparente durante el vuelo, dejando, únicamente, sus objetos personales. Sólo quedan 10, que estaban dormidos cuando todo sucedió. Pero no sólo los otros pasajeros han desaparecido, sino también el resto del mundo. Aeropuertos abandonados, ciudades vacías... ¿Dónde están los demás? Los supervivientes deben encontrar rápido una respuesta, antes de que la extraña fuerza que los persigue les de alcance...",
+      "releaseInfo": "1995",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0135659",
+      "type": "series",
+      "name": "La tormenta del siglo",
+      "poster": "https://image.tmdb.org/t/p/w500/jlLD4LIPL5XuHo4Avgc2bUSVsMC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zw6zcPabU7ydmFTc8bGbw1w71wy.jpg",
+      "description": "Cuando una tormenta de nieve azota un aislado pueblo isleño, trae consigo a un misterioso forastero decidido a aterrorizar a la población con un siniestro propósito.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0101084",
+      "type": "series",
+      "name": "Doug",
+      "poster": "https://image.tmdb.org/t/p/w500/fEzGDVHsUlOhU59EKSePobldyIf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9coN2jb3hdDZzN6vxI26cMhElwS.jpg",
+      "description": "Un joven llamado Doug Funnie, quien vive con sus padres, Phil y Theda, su hermana Judy y su perro Porkchop (un perro no muy común) en Bluffington. Vive diferentes historias en su escuela y en su casa junto a su mejor amigo Skeeter Valentine y vive eternamente enamorado de Patti Mayonaisse. En 1996, Disney recuperó al personaje y realizó una nueva serie, infantilizando en parte la propuesta.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0130414",
+      "type": "series",
+      "name": "Merlín",
+      "poster": "https://image.tmdb.org/t/p/w500/dcD8HsD8MQawJ3PeKjdIR63q0rD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/giHZE0MzQq1gGHCMCKZQtOhWGww.jpg",
+      "description": "Merlín es ya un anciano, pero en otro tiempo él y Arturo tuvieron que enfrentarse a Mab, la perversa Reina de la Oscuridad. Mab había creado a Merlín, y por eso nunca le perdonó que no quisiera unirse a ella para dirigir las fuerzas del Mal. Cuando Merlín, siendo un adolescente, se enamoró de Nimue, Mab decidió vengarse de él, convenciendo al cruel Rey Vortingern para que sacrificara a la muchacha al dragón de fuego. Merlín ayuda entonces a Uther a derrotar a Vortingern, pero pronto comprobará que tampoco es un buen rey. Cuando Uther le pide ayuda para seducir a una mujer casada, Merlín accede con una condición: deberá entregarle a su hijo primogénito, a quien llamará Arturo y transmitirá su sabiduría. Cuando Arturo consigue arrancar la espada Excalibur de la piedra donde estaba clavada, se convierte en rey de Camelot.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098957",
+      "type": "series",
+      "name": "Zorro",
+      "poster": "https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/borJhTreo7a0f8YwDvcVZTrWi0Q.jpg",
+      "description": "Zorro, also known as The New Zorro, New World Zorro, and Zorro 1990, is an American action-adventure drama series featuring Duncan Regehr as the character of Zorro. Regehr portrayed the fearless Latino hero and fencer on The Family Channel from 1990 to 1993. The series was shot entirely in Madrid, Spain and produced by New World Television, The Family Channel, Ellipse Programme of Canal Plus, Beta TV, and RAI. 88 episodes of the series were produced, 10 more than the first Zorro television series, which was produced by Disney in the late 1950s.\n\nSince 2011, the series is currently airing in the United States on the Retro Television Network as The New Zorro. Peter Rodgers Organization is the distributor for this version of Zorro.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0185103",
+      "type": "series",
+      "name": "WWE Raw",
+      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+      "description": "WWE Raw, también conocido como Monday Night Raw, es un programa de televisión de entretenimiento deportivo de lucha libre profesional producido por la WWE. Se ha transmitido sin interrupciones desde su estreno del 11 de enero de 1993 hasta la fecha, desde Estados Unidos por medio de la cadena USA Network",
+      "releaseInfo": "1993",
+      "genres": [
+        "Reality"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0167743",
+      "type": "series",
+      "name": "Los Thornberrys",
+      "poster": "https://image.tmdb.org/t/p/w500/eriWVQpepRZOu0Sdzg2MgJpNHgx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nVj1LYX8uOsdGVb9LcLN4YUTkDs.jpg",
+      "description": "Una familia llamada \"Los Thornberrys\" viajan por el mundo con el objetivo de grabar documentales sobre la naturaleza. La familia está formada por Nigel y Marianne Thornberry, sus hijas Deborah y Eliza, un niño salvaje adoptado llamado Donnie y un chimpancé. Las aventuras giran sobre todo en torno a Eliza que tiene la capacidad de hablar con los animales.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Action & Adventure",
+        "Kids",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115320",
+      "type": "series",
+      "name": "The Pretender",
+      "poster": "https://image.tmdb.org/t/p/w500/76q5tPOPQkQYIuZu2SG6viZcp2b.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uSNmMsfadV5dEhYEwqn6Kojctj9.jpg",
+      "description": "Raised in a secret facility built for experimenting on children, Jarod is a genius who can master any profession and become anyone he has to be. When he realizes as an adult that he's actually a prisoner and his captors are not as benevolent as he's been told, he breaks out. While trying to find his real identity, Jarod helps those he encounters and tries to avoid the woman sent to retrieve him.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098924",
+      "type": "series",
+      "name": "Los Aventureros del Aire",
+      "poster": "https://image.tmdb.org/t/p/w500/tt9tXR6x42KYTZXZhdVw3vuPaOZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pxMzrCToVhp0VEyNFh1JZMVxJ2M.jpg",
+      "description": "Una empresa de correos con un pequeño hidroavión, pilotado por el oso Baloo (procedente de El libro de la selva), deberá contra los villanos que intentarán acabar con ellos, incluyendo piratas.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Kids",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
           }
         }
       }

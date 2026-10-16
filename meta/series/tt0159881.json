@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0159881",
+    "type": "series",
+    "name": "Jeopardy!",
+    "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+    "description": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+    "releaseInfo": "1984",
+    "genres": [
+      "Reality",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

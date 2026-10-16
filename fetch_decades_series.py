@@ -35,15 +35,15 @@ REGION = "CR"
 HERE = Path(__file__).parent
 
 DECADES = {
-    "top-2020s-series": {"label": "Top 2020s Series", "gte": "2020-01-01", "lte": "2029-12-31", "min_votes": 1000},
+    "top-2020s-series": {"label": "Top 2020s Series", "gte": "2020-01-01", "lte": "2029-12-31", "min_votes": 800},
     "top-2010s-series": {"label": "Top 2010s Series", "gte": "2010-01-01", "lte": "2019-12-31", "min_votes": 1000},
     "top-2000s-series": {"label": "Top 2000s Series", "gte": "2000-01-01", "lte": "2009-12-31", "min_votes": 500},
     "top-1990s-series": {"label": "Top 90s Series", "gte": "1990-01-01", "lte": "1999-12-31", "min_votes": 200},
-    "top-1980s-series": {"label": "Top 80s Series", "gte": "1980-01-01", "lte": "1989-12-31", "min_votes": 100},
+    "top-1980s-series": {"label": "Top 80s Series", "gte": "1980-01-01", "lte": "1989-12-31", "min_votes": 50},
 }
 
-LIMIT = 100
-PAGES_NEEDED = 8  # over-fetch (vote_average sort), then re-rank by weighted score
+LIMIT = 150
+PAGES_NEEDED = 12  # over-fetch (vote_average sort), then re-rank by weighted score
 
 POSTER = "https://image.tmdb.org/t/p/w500"
 BACKDROP = "https://image.tmdb.org/t/p/w1280"

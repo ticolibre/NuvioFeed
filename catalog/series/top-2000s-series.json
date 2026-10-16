@@ -895,6 +895,26 @@
       }
     },
     {
+      "id": "tt0369179",
+      "type": "series",
+      "name": "Dos Hombres y Medio",
+      "poster": "https://image.tmdb.org/t/p/w500/sBR2LYNbgtnA76fbIO2AuX8duXD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+      "description": "Charlie Harper un soltero que tiene todo lo que un hombre necesita: Dinero, un jaguar en el garaje y mujeres. Su informal estilo de vida en Malibú, es interrupida drásticamente con la llegada de su hermano Alan quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él. De este modo, juntos inician un camino en el que deben afrontar los retos e ir madurando poco a poco.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0460644",
       "type": "series",
       "name": "Almas perdidas",
@@ -1092,21 +1112,21 @@
       }
     },
     {
-      "id": "tt0804503",
+      "id": "tt0472954",
       "type": "series",
-      "name": "Mad Men",
-      "poster": "https://image.tmdb.org/t/p/w500/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "name": "Siempre hace sol en Filadelfia",
+      "poster": "https://image.tmdb.org/t/p/w500/xFlneHKJXFHaajdqrTmzHp13sqW.jpg",
       "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",
-      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
-      "releaseInfo": "2007",
+      "background": "https://image.tmdb.org/t/p/w1280/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
+      "description": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "releaseInfo": "2005",
       "genres": [
-        "Drama"
+        "Comedia"
       ],
       "app_extras": {
         "ratings": {
           "tmdb": {
-            "rating": "8.1"
+            "rating": "8.2"
           }
         }
       }
@@ -1122,6 +1142,26 @@
       "releaseInfo": "2006",
       "genres": [
         "Soap",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0804503",
+      "type": "series",
+      "name": "Mad Men",
+      "poster": "https://image.tmdb.org/t/p/w500/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eYDTiJ88jfMJ5Vp3a0OAEihBzZX.jpg",
+      "description": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "releaseInfo": "2007",
+      "genres": [
         "Drama"
       ],
       "app_extras": {
@@ -1150,26 +1190,6 @@
         "ratings": {
           "tmdb": {
             "rating": "7.6"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt0472954",
-      "type": "series",
-      "name": "Siempre hace sol en Filadelfia",
-      "poster": "https://image.tmdb.org/t/p/w500/xFlneHKJXFHaajdqrTmzHp13sqW.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
-      "description": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.2"
           }
         }
       }
@@ -1238,29 +1258,6 @@
       }
     },
     {
-      "id": "tt0976192",
-      "type": "series",
-      "name": "El Espectacular Hombre-Araña",
-      "poster": "https://image.tmdb.org/t/p/w500/957mnVq6w3xIZwhO1isb4RWPatr.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/fypGcrQCyb9vQ7L8AM6PHCjQSBC.jpg",
-      "description": "La décima serie de televisión sobre Spiderman recoge la mitología sobre el original lanza telarañas al principio de su aventura como héroe, como un joven algo especial de 16 años que inicia sus estudios de secundaria. Habiendo pasado el verano luchando contra criminales comunes con sus recién encontrados poderes, Peter Parker debe guardar su identidad secreta y enfrentarse a los nuevos super-villanos.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action & Adventure",
-        "Animación",
-        "Kids",
-        "Familia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.6"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0367279",
       "type": "series",
       "name": "Arrested Development",
@@ -1298,6 +1295,29 @@
         "ratings": {
           "tmdb": {
             "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0976192",
+      "type": "series",
+      "name": "El Espectacular Hombre-Araña",
+      "poster": "https://image.tmdb.org/t/p/w500/957mnVq6w3xIZwhO1isb4RWPatr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fypGcrQCyb9vQ7L8AM6PHCjQSBC.jpg",
+      "description": "La décima serie de televisión sobre Spiderman recoge la mitología sobre el original lanza telarañas al principio de su aventura como héroe, como un joven algo especial de 16 años que inicia sus estudios de secundaria. Habiendo pasado el verano luchando contra criminales comunes con sus recién encontrados poderes, Peter Parker debe guardar su identidad secreta y enfrentarse a los nuevos super-villanos.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Kids",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
           }
         }
       }
@@ -1431,6 +1451,27 @@
       }
     },
     {
+      "id": "tt0813715",
+      "type": "series",
+      "name": "Héroes",
+      "poster": "https://image.tmdb.org/t/p/w500/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+      "description": "Algunas personas nacen para ser extraordinarias. Un grupo de personas normales se ve, de la noche a la mañana, dotada de increíbles poderes. Así, mientras en Japón un anónimo oficinista descubre que tiene un don para teletransportarse, en Nueva York un artista se da cuenta de que es capaz de pintar el futuro, o en Los Ángeles un policía puede escuchar los pensamientos ajenos. Estas personas no sólo tendrán que aprender a conocer sus poderes y a dominarlos, sino que además deberán decidir qué destino quieren darles.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0844441",
       "type": "series",
       "name": "True Blood",
@@ -1559,6 +1600,29 @@
       }
     },
     {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: La Rebelión de Lelouch",
+      "poster": "https://image.tmdb.org/t/p/w500/7hi9sR0uelo74uJhJmsApeodwxF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
+      "description": "El 10 de agosto de 2010 a.t.b, el Sacro Imperio de Britannia sobrepasó a  las fuerzas japonesas y conquistó el país en menos de un mes, haciendo  uso de sus armas robóticas, los Knightmare Frames. Japón perdió su  libertad y derechos, y pasó a ser llamada \"Area 11\". Sus  habitantes, ahora llamados \"Elevens\" fueron obligados a sobrevivir en  ghettos. Sin embargo aún persisten grupos que se resisten y luchan  contra el Imperio por la independencia de Japón. Después de que su  padre, el Emperador de Britannia, no hiciese nada para atrapar a los  terroristas que asesinaron a su madre y lisiaron a su hermana, un niño  llamado Lelouch juró destruir Britannia. Siete años más tarde en el Área  11 conoce a una misteriosa chica, con la que realiza un contrato a  cambio de un poder llamado \"Geass\". Con él, Lelouch finalmente tiene  el poder que necesita para derrotar a Britannia y realizar sus dos  deseos: vengar a su madre y construir un mundo en el que su amada  hermana pueda vivir feliz.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
       "id": "tt0313043",
       "type": "series",
       "name": "CSI: Miami",
@@ -1603,26 +1667,6 @@
       }
     },
     {
-      "id": "tt0248654",
-      "type": "series",
-      "name": "Seis Pies Bajo Tierra",
-      "poster": "https://image.tmdb.org/t/p/w500/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
-      "description": "Cuando la muerte es tu negocio, ¿qué es tu vida? Para la familia Fisher, el mundo fuera de la funeraria familiar sigue siendo al menos tan desafiante como el de adentro y mucho menos predecible en está galardonada serie de HBO®.",
-      "releaseInfo": "2001",
-      "genres": [
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.1"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0434706",
       "type": "series",
       "name": "Monster",
@@ -1641,6 +1685,26 @@
         "ratings": {
           "tmdb": {
             "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0248654",
+      "type": "series",
+      "name": "Seis Pies Bajo Tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+      "description": "Cuando la muerte es tu negocio, ¿qué es tu vida? Para la familia Fisher, el mundo fuera de la funeraria familiar sigue siendo al menos tan desafiante como el de adentro y mucho menos predecible en está galardonada serie de HBO®.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
           }
         }
       }
@@ -1668,29 +1732,6 @@
       }
     },
     {
-      "id": "tt0994314",
-      "type": "series",
-      "name": "Code Geass: La Rebelión de Lelouch",
-      "poster": "https://image.tmdb.org/t/p/w500/7hi9sR0uelo74uJhJmsApeodwxF.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
-      "description": "El 10 de agosto de 2010 a.t.b, el Sacro Imperio de Britannia sobrepasó a  las fuerzas japonesas y conquistó el país en menos de un mes, haciendo  uso de sus armas robóticas, los Knightmare Frames. Japón perdió su  libertad y derechos, y pasó a ser llamada \"Area 11\". Sus  habitantes, ahora llamados \"Elevens\" fueron obligados a sobrevivir en  ghettos. Sin embargo aún persisten grupos que se resisten y luchan  contra el Imperio por la independencia de Japón. Después de que su  padre, el Emperador de Britannia, no hiciese nada para atrapar a los  terroristas que asesinaron a su madre y lisiaron a su hermana, un niño  llamado Lelouch juró destruir Britannia. Siete años más tarde en el Área  11 conoce a una misteriosa chica, con la que realiza un contrato a  cambio de un poder llamado \"Geass\". Con él, Lelouch finalmente tiene  el poder que necesita para derrotar a Britannia y realizar sus dos  deseos: vengar a su madre y construir un mundo en el que su amada  hermana pueda vivir feliz.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Animación",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Drama"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.4"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0374455",
       "type": "series",
       "name": "Stargate Atlantis",
@@ -1708,26 +1749,6 @@
         "ratings": {
           "tmdb": {
             "rating": "8.0"
-          }
-        }
-      }
-    },
-    {
-      "id": "tt0460637",
-      "type": "series",
-      "name": "Todos Odian a Chris",
-      "poster": "https://image.tmdb.org/t/p/w500/zX0xZnyReJxtGAqDOS3WcsgpOgx.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/qji729gwCW88RpIIWidlaLTul3V.jpg",
-      "description": "Ambientada en el Brooklyn de los 80 y basada en la infancia del humorista estadounidense de color Chris Rock, la serie se sumerge en el día a día de un adolescente de 13 años que, por deseo de sus padres, irá a estudiar a un colegio de blancos.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.1"
           }
         }
       }
@@ -1773,6 +1794,26 @@
         "ratings": {
           "tmdb": {
             "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0460637",
+      "type": "series",
+      "name": "Todos Odian a Chris",
+      "poster": "https://image.tmdb.org/t/p/w500/zX0xZnyReJxtGAqDOS3WcsgpOgx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qji729gwCW88RpIIWidlaLTul3V.jpg",
+      "description": "Ambientada en el Brooklyn de los 80 y basada en la infancia del humorista estadounidense de color Chris Rock, la serie se sumerge en el día a día de un adolescente de 13 años que, por deseo de sus padres, irá a estudiar a un colegio de blancos.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
           }
         }
       }
@@ -1951,26 +1992,6 @@
       }
     },
     {
-      "id": "tt0264235",
-      "type": "series",
-      "name": "Curb Your Enthusiasm",
-      "poster": "https://image.tmdb.org/t/p/w500/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
-      "posterShape": "poster",
-      "background": "https://image.tmdb.org/t/p/w1280/u98PeujOJCXCowph9mxRzo9Nw1s.jpg",
-      "description": "Larry David, un escritor de TV, lidia con la vida en Los Ángeles en el que parece no poder hacer nada bien y, según sus estándares, nadie más puede hacerlo. A veces en compañía de sus colegas celebridades mortificados.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Comedia"
-      ],
-      "app_extras": {
-        "ratings": {
-          "tmdb": {
-            "rating": "8.1"
-          }
-        }
-      }
-    },
-    {
       "id": "tt0259141",
       "type": "series",
       "name": "Las aventuras de Jackie Chan",
@@ -2011,6 +2032,26 @@
         "ratings": {
           "tmdb": {
             "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0264235",
+      "type": "series",
+      "name": "Curb Your Enthusiasm",
+      "poster": "https://image.tmdb.org/t/p/w500/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/u98PeujOJCXCowph9mxRzo9Nw1s.jpg",
+      "description": "Larry David, un escritor de TV, lidia con la vida en Los Ángeles en el que parece no poder hacer nada bien y, según sus estándares, nadie más puede hacerlo. A veces en compañía de sus colegas celebridades mortificados.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
           }
         }
       }
@@ -2135,6 +2176,1052 @@
         "Animación",
         "Comedia",
         "Familia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1528406",
+      "type": "series",
+      "name": "Fairy Tail",
+      "poster": "https://image.tmdb.org/t/p/w500/iuRJ2QRRNMIu2VdEIuLIaJvt1PZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bifZUqMGfI2WdPMLKQAiTsJbwCj.jpg",
+      "description": "Fairy Tail cuenta la historia de un joven mago llamado Natsu en la búsqueda de su maestro y padre adoptivo Igneel que es en realidad un dragon. Por ello se unió a Fairy Tail un gremio de magos muy conocido. Fairy Tail es famoso por los destrozos y daños que provocan en diversas ciudades (lo cual no debería ser así). El mundo de Fairy Tail gira alrededor de los magos (los cuales poco tienen que ver con la idea general del mago común) que realizan encargos a cambio de dinero, similar a un cazarrecompensas. Natsu conoce a Lucy, una guapa muchacha cuyo sueño era ingresar a un gremio de magos, específicamente, a Fairy Tail, lo cual consigue gracias a la ayuda de Natsu. De ahí en adelante, la historia sigue los movimientos de esta pareja de magos los cuales se ven envueltos en un sin número de aventuras antes de conseguir la meta final de encontrar a Igneel.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0934814",
+      "type": "series",
+      "name": "La Doble Vida de Chuck",
+      "poster": "https://image.tmdb.org/t/p/w500/81foDoKoJvQZ67OlqgVqAVnVYmD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cFCDlwg7zUSn4V5C9blmnHmQTgm.jpg",
+      "description": "La serie trata principalmente de Chuck Bartowski, un genio en ordenadores, que un día recibe un correo electrónico que contiene codificados en imágenes los secretos más grandes de la CIA, así como también de la Agencia de Seguridad Nacional de los Estados Unidos (NSA). Ahora, con dicha información, Chuck debe salvar el mundo mientras trabaja en la tienda de tecnología de vanguardia Compra Más.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0904208",
+      "type": "series",
+      "name": "Californication",
+      "poster": "https://image.tmdb.org/t/p/w500/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9o9SS26mUY4cp4iSFk7iwBeAQuP.jpg",
+      "description": "Californication es una serie de televisión estadounidense que inició su emisión en 2007 y finalizó el 29 de junio de 2014. Está protagonizada por David Duchovny y Natascha McElhone. La historia sigue al neoyorquino Hank Moody (Duchovny), un problemático novelista que se muda a California y sufre un bloqueo de escritor. Su adicción al alcohol, las drogas y el sexo, complica sus relaciones con su amante Karen (McElhone) y su hija Becca (Madeleine Martin).",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1527368",
+      "type": "series",
+      "name": "El Capo",
+      "poster": "https://image.tmdb.org/t/p/w500/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9bdNwt53JFU1b6oor8eDipNO79i.jpg",
+      "description": "La historia cuenta la vida de Pedro Pablo León Jaramillo un gran capo de la mafia del narcotráfico. Relata como asciende desde los barrios más humildes de Colombia hasta las negras cumbres del mundo criminal.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0491738",
+      "type": "series",
+      "name": "Psych",
+      "poster": "https://image.tmdb.org/t/p/w500/pUfeCUMin56Eo3DcPgYKly9P7bw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sh7GRlX4d7j3XSTeyGZnlKqkHGk.jpg",
+      "description": "Shawn Spencer pareciera poseer un don casi sobrenatural para resolver crímenes, a tal punto que la policía decide contratar sus servicios como vidente.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0341281",
+      "type": "series",
+      "name": "Amor Real",
+      "poster": "https://image.tmdb.org/t/p/w500/mOJvN5aEZ13a2E029O2StAYuOHZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hl1wdvtyD3Z44pbkRJlcjbGFbYa.jpg",
+      "description": "Matilde Peñalver y Beristain, contraviniendo las reglas de la aristocracia a la que pertenece, se enamora de Adolfo Solís –un militar sin fortuna-, confiando en que su bondadoso padre la dejaría casarse, pero Augusta Peñalver y Beristain su madre tenía que casar a su hija con un hombre rico para salvar a la familia de la ruina económica. Manuel Fuentes Guerra era el candidato perfecto ya que era joven, guapo, de buenos sentimientos y acababa de heredar una gran fortuna. Augusta ignoraba que Manuel era hijo bastardo de Joaquín Fuentes Guerra, un poderoso terrateniente que abusó de una humilde pueblerina y hacía tan sólo unos meses había reconocido a Manuel como su hijo.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Soap",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0397306",
+      "type": "series",
+      "name": "American Dad: Un Agente de Familia",
+      "poster": "https://image.tmdb.org/t/p/w500/bcQKWQWZCTU47Gzm3xtFkjYGGA7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+      "description": "American Dad es la serie de animación subversiva que gira en torno a Stan Smith (Seth MacFarlane), un agente de la CIA con sede en Langley Falls, Virginia, que es un indiscutible experto en armas y orgulloso hombre de familia. Stan está constantemente en alerta por actividad terrorista y llegará a extremos para proteger a su amado Estados Unidos y mantener su patria segura. Solo hay que ver el medidor de alerta terrorista de su refrigerador y su reacción inmediata de dispararle a la tostadora cada vez que salta una tostada.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0312109",
+      "type": "series",
+      "name": "KND: Los chicos del barrio",
+      "poster": "https://image.tmdb.org/t/p/w500/9oTedS82oVnrjHp3BHIpHefuBCG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/h7rHu5pt9Wzkb7vLGKrA5XD63ge.jpg",
+      "description": "La serie, de contenido infantil y con caracteres tomados del género de espionaje y de aventuras; basada en la vida de un grupo de cinco niños que encaran la lucha sin cuartel contra la tiranía de los adolescentes y adultos que intentan imponer su disciplina y sus reglas a los niños de toda la Tierra. Al principio no aceptaban niñas. Su residencia es en la Casa del Árbol y allí toman sus decisiones como grupo aunque reciben órdenes del comando central ubicado en la Base Lunar.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Kids",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0996011",
+      "type": "series",
+      "name": "Una familia de diez",
+      "poster": "https://image.tmdb.org/t/p/w500/ds2t2T4dFGiCFo2PeP4hlwt9NRD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nJwrbIIu4PRMuRm92NRpv9CKJK9.jpg",
+      "description": "Una familia de diez (conocida como Una familia de diez + 2 en su segunda temporada) es una serie de televisión de comedia de situación creada y producida por Jorge Ortiz de Pinedo en conjunto con su hijo Pedro Ortiz de Pinedo para Televisa. La serie se centra en la familia López, una familia que vive constantemente situaciones divertidas, la cual habita en un apartamento que apenas tiene espacio para los integrantes. Se estrenó el 22 de marzo de 2007.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Kids",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2152368",
+      "type": "series",
+      "name": "Los Guerreros del Zodiaco: El Lienzo Perdido",
+      "poster": "https://image.tmdb.org/t/p/w500/qVF43Xc6brE0AU4tCMxxd4D82Vz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "description": "Saint Seiya: El lienzo perdido - El mito de Hades, también conocido como simplemente The Lost Canvas, es un manga escrito e ilustrado por Shiori Teshirogi. Es un spin-off basado en la serie manga Saint Seiya, que fue creado, escrito e ilustrado por el autor japonés Masami Kurumada.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0460091",
+      "type": "series",
+      "name": "Mi nombre es Earl",
+      "poster": "https://image.tmdb.org/t/p/w500/sW9cTzqujvtkNUJOsT1guGGEmxj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9dTbuwQy6WoVNy9hqBAuwR1MoUU.jpg",
+      "description": "When petty criminal Earl Hickey wins the lottery, he sets off on a quest to repair his questionable karma.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0978553",
+      "type": "series",
+      "name": "La Magia de Zero",
+      "poster": "https://image.tmdb.org/t/p/w500/2rSW3WCKq536pPi5EqXen9lyo5L.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/to2gpUoxeNQlbjfswI8mXldaql0.jpg",
+      "description": "Louise Françoise Le Blanc de La Vallière, una estudiante noble de la Academia de Magia de Tristain apodada \"Louise la Cero\" por su incapacidad mágica, invoca accidentalmente a Saito Hiraga, un adolescente japonés común de Tokio, como su familiar.\n\nForzado a vivir como un \"plebeyo\" sirviente en este mundo medieval de magia, Saito desarrolla la habilidad legendaria de Gundalf, permitiéndole dominar cualquier arma. A través de cuatro intensas temporadas, su tensa relación de ama y sirviente evoluciona en un complejo romance mientras son arrastrados a intrigas políticas, batallas épicas contra imperios rivales y la búsqueda del poder perdido del Void (Vacío). Juntos, deberán salvar el reino de Halkeginia y enfrentar el destino que los vincula.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0290978",
+      "type": "series",
+      "name": "La Oficina",
+      "poster": "https://image.tmdb.org/t/p/w500/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9GWU1AyNqUYIUl1tU7CvXEHUVs9.jpg",
+      "description": "Aclamada teleserie británica (arrasó con los premios en las últimas dos ediciones de los premiso BAFTA británicos) que hace un corrosivo retrato de los integrantes de la oficina de ventas de una empresa. Haciéndose eco de la lluvia de reality shows que inundó recientemente las televisiones mundiales, \"The Office\" apela este formato y se mete dentro de una empresa de venta mayorista de papel para desarmar sin piedad el ambiente laboral que podría pertenecer al de cualquier empresa. La oficina en cuestión es un ambiente gris y poco estimulante donde convive un rejunte de personajes desangelados. No faltan el jefe, la secretaria, el empleado obsecuente y el irónico. En Estados Unidos la cadena NBC hizo una serie-remake (o versión) de mismo título y argumento, que también tuvo gran éxito, protagonizada por Steve Carell, popular por la película \"Virgen a los 40\" (The 40 Year-old Virgin\", 2005).",
+      "releaseInfo": "2001",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1378167",
+      "type": "series",
+      "name": "NCIS: Los Ángeles",
+      "poster": "https://image.tmdb.org/t/p/w500/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+      "description": "Spin-off de 'NCIS' protagonizada por los agentes especiales \"G\" Callen (Chris O'Donnell), un misterioso y camaleónico agente con una gran capacidad de transformación, y Sam Hanna (LL Cool J), un antiguo marine SEAL con experiencia en las guerras de Afghanistan e Irak. La serie se centra en una rama de los NCIS llamada OPS, que opera en Los Ángeles y utiliza alta tecnología para detener a los enemigos de los Estados Unidos.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Crimen",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1279024",
+      "type": "series",
+      "name": "Toradora!",
+      "poster": "https://image.tmdb.org/t/p/w500/tycwGHtx0ZtJdTznizcTIDnWEC7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/82hAXKATyuldbt4PxSNnHHy2BVO.jpg",
+      "description": "Ryuuji Takasu, un estudiante amable con rostro intimidante, y Taiga Aisaka, una pequeña pero feroz chica conocida como el \"Tigre de bolsillo\", terminan cruzando caminos por un error. Descubren que ambos tienen amores no correspondidos y forman una alianza para ayudarse mutuamente, desencadenando una divertida y emotiva comedia romántica.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0235918",
+      "type": "series",
+      "name": "Los Padrinos Mágicos",
+      "poster": "https://image.tmdb.org/t/p/w500/dEMhp3WLscZj7bGTKnJIEMLdk2Y.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rMKFsYeK3LPJGk9xqUHhGdqA4aB.jpg",
+      "description": "Timmy Turner es un niño de 10 años al que nadie entiende. Sus padres le prestan poca atención, aunque lo quieren mucho, pues es su único hijo, y siempre lo dejan al cuidado de Vicky, la niñera malvada. Es allí donde intervienen Cosmo y Wanda, los recién asignados padrinos mágicos de Timmy.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1244672",
+      "type": "series",
+      "name": "La familia P. Luche",
+      "poster": "https://image.tmdb.org/t/p/w500/fATxlzvUmut1WbewwUh6DKw65yq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/43P6Pz3dlEeL4xXgunVF4MQpeOw.jpg",
+      "description": "Una familia que trata con los conflictos y problemas de la vida diaria pero en forma cómica y exagerada con la particularidad que viven en una ciudad que está edificada en su totalidad de peluche y con todos los accesorios de peluche.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0362359",
+      "type": "series",
+      "name": "The O.C. Vidas Ajenas",
+      "poster": "https://image.tmdb.org/t/p/w500/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5WVAGHTNMWhNwk5l3FoeAScmw7M.jpg",
+      "description": "Exitosa serie dramática sobre un adolescente problemático de Los Ángeles, recogido por un abogado idealista y su familia en el próspero Condado de Orange. La serie demostró rápidamente que era más inteligente y ambiciosa que otros programas para adolescentes.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0275137",
+      "type": "series",
+      "name": "Liga de la Justicia",
+      "poster": "https://image.tmdb.org/t/p/w500/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cR5vNlDF55vkgvj6y8aiMaiyD10.jpg",
+      "description": "El esperado reinicio del mas grande equipo de súper héroes de todos los tiempos: Batman, Superman, Flash, Mujer Maravilla, Chica Halcón, Linterna Verde y Detective Marciano.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1024810",
+      "type": "series",
+      "name": "El internado",
+      "poster": "https://image.tmdb.org/t/p/w500/eijsq0ZTpQkjMXNkTI1R2v0hNjF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pJxAhqarpzbtwMVSFBA7YKeQY2z.jpg",
+      "description": "Marcos y Paula, dos hermanos gallegos cuyos padres han desaparecido en alta mar, ingresan en el internado Laguna Negra bajo la tutela de su director, Héctor de la Vega. Allí, pronto empezarán a suceder extraños acontecimientos y macabras muertes y parece que Paula, de apenas 6 años, está en el centro de todo cuanto pasa a su alrededor: un ser extraño que vaga por el bosque; personajes que no son quienes dicen ser o que saben más de lo que parece; desapariciones; animales mutantes; unos oscuros pasadizos donde se esconden la verdad, muertes, cadáveres y la aparición de la madre de Marcos y Paula. No solo se centra en esta parte, también hay muchas más historias dentro del Internado.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1548850",
+      "type": "series",
+      "name": "Misfits Webisodes",
+      "poster": "https://image.tmdb.org/t/p/w500/1yjmRIp8A92FlAw5JpouQ50ATUA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/y5oDHhdNng3ff3KQzcX6qpzBuMU.jpg",
+      "description": "Cinco jóvenes delincuentes que no tienen nada en común además de ser problemáticos, terminan trabajando juntos en un proyecto de servicio a la comunidad y sus personalidades que difieren pronto causan problemas y enfrentamientos.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0758790",
+      "type": "series",
+      "name": "Los Tudor",
+      "poster": "https://image.tmdb.org/t/p/w500/529vu08J3b4wwzMxJbSzvtPi9kO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cKsmzu5YpayNxc6Gs9KD8wyJV8M.jpg",
+      "description": "Lujuria, ambición, odio, intriga y traición se unen en esta producción que recorre los primeros años de reinado de Enrique VIII (Jonathan Rhys Meyers). El monarca de 'Los Tudor' es joven, atractivo, poderoso, seductor y mucho más complejo y fascinante que la tradicional imagen del orondo soberano de barba roja. Con un apetito voraz por las mujeres y la diversión y un ansia de poder desmedido, el joven rey deja la política en manos de sus consejeros, mientras él recorre las camas femeninas de la Corte y va de caza, representa obras de teatro o juega al tenis con sus amigos. Nada ni nadie puede oponerse a sus propios deseos.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0948103",
+      "type": "series",
+      "name": "Gurren Lagann",
+      "poster": "https://image.tmdb.org/t/p/w500/geFiRX5g4nHNaw0uvA9wHZfPWIS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/la3G4VRIVcryxNmxU1YYTZcy9fL.jpg",
+      "description": "Nos presenta una historia situada en un mundo distópico con civilizaciones viviendo bajo la tierra, obligadas a mantener en control el número de su población. Al desenterrar un poderoso mecha-robots, dos héroes emergen a la superficie.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0795256",
+      "type": "series",
+      "name": "Pucca",
+      "poster": "https://image.tmdb.org/t/p/w500/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nfAUOxd3qeZZpfPESIivZOyvije.jpg",
+      "description": "La serie animada gira en torno a Pucca, de 11 años, una joven que está enamorada y obsesionada con un ninja de 12 años llamado Garu.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Comedia",
+        "Kids",
+        "Familia",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0262985",
+      "type": "series",
+      "name": "Queer as Folk",
+      "poster": "https://image.tmdb.org/t/p/w500/mmhL30PonbrrpEOQH5OdyUguyMg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5lckDqUhoKnGkLgyIR5PbVZ8urr.jpg",
+      "description": "Serie sobre las vidas de unos amigos que forman parte de la comunidad gay en Pittsburgh, Pennsylvania.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1094229",
+      "type": "series",
+      "name": "Heartland",
+      "poster": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+      "description": "La rebelde Amy se recupera de la súbita muerte de su madre cuando a ella y a su abuelo los amenazan con quitarles el rancho.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Familia",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0262150",
+      "type": "series",
+      "name": "Black Books",
+      "poster": "https://image.tmdb.org/t/p/w500/ujH4SBJ9qbsAYWPhklWKFz83ig8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wlQDUQF7LjCD3WA2OjGNoMnIx7M.jpg",
+      "description": "Black Books centres around the foul tempered and wildly eccentric bookshop owner Bernard Black. Bernard’s devotion to the twin pleasures of drunkenness and wilful antagonism deepens and enriches both his life and that of Manny, his assistant. Bearded, sweet and good, Manny is everything that Bernard isn’t and is punished by Bernard relentlessly just for the crime of existing. They depend on each other for meaning as Fran, their oldest friend, depends on them for distraction.\n\nBlack Books is a haven of books, wine and conversation, the only threat to the group’s peace and prosperity is their own limitless stupidity.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1427389",
+      "type": "series",
+      "name": "Hasta que el dinero nos separe",
+      "poster": "https://image.tmdb.org/t/p/w500/2TtsLt6gbR8pjgLDWu8vcesWgob.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hFquZERQLZdUw3C40vac8idee8B.jpg",
+      "description": "Un hombre se ve obligado a pagar una fuerte suma de dinero por los daños causados en un accidente automovilístico. La víctima es una mujer de carácter fuerte que además de hacerlo trabajar duro, lo hace suspirar.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Soap",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0373732",
+      "type": "series",
+      "name": "Boondocks",
+      "poster": "https://image.tmdb.org/t/p/w500/vAvT2RXjOpgH0COriRm9riPqA0m.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/plF7qKlXww8zwoNnXsSP6ifQpUt.jpg",
+      "description": "Una adaptación animada de la historieta.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action & Adventure",
+        "Comedia",
+        "Animación"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0330251",
+      "type": "series",
+      "name": "La palabra L",
+      "poster": "https://image.tmdb.org/t/p/w500/Rd6DW03Q58psizDl8TQ6vhHK60.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6OcRNLQP6jzRRGcS0JmnYKuX4oX.jpg",
+      "description": "Serie coral sobre la vida y los amores de un grupo de amigas en Los Ángeles. Jenny es una aspirante a escritora que se muda a Los Ángeles desde su medio oeste natal para vivir con su novio. Sin embargo, Jenny entabla amistad con un interesante círculo de atractivas lesbianas –entre las que se cuentan la conservadora de un museo, la propietaria de un café, una periodista, una peluquera y una jugadora de tenis profesional– y empieza a conocer un mundo totalmente nuevo que hasta entonces le había estado vedado… Y descubre que lo que hace ese nuevo mundo tan atractivo es algo más que la curiosidad.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0439100",
+      "type": "series",
+      "name": "Weeds",
+      "poster": "https://image.tmdb.org/t/p/w500/8QjwQpFllRipS1AbSyp7CO8RmVJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6k6vAUa0Fm73HB0QBOJbFGTgPq5.jpg",
+      "description": "After the unexpected death of her husband, a suburban mom resorts to selling weed to support her family.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0851851",
+      "type": "series",
+      "name": "Terminator: Las Crónicas de Sarah Connor",
+      "poster": "https://image.tmdb.org/t/p/w500/3eMW6VcXZvsK1cFDpdbfe7Can3j.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
+      "description": "Secuela de \"Terminator\" centrada en el personaje de Sarah Connor (Lena Headey). Después de destruir al T-1000, Sarah y John se convierten en proscritos y descubren nuevos enemigos que combatir tanto del presente como del futuro. Sarah, atormentada por visiones de la próxima guerra nuclear, deja de esconderse y pasa a la ofensiva para destruir la tecnología que trata de eliminarla a ella y al mundo. Su hijo John Connor, futuro líder de la resistencia y última esperanza de la humanidad en la apocalíptica guerra contra las máquinas, aún no está listo para asumir esa responsabilidad. El agente del FBI James Ellison acaba viéndose involucrado en este caso.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1628033",
+      "type": "series",
+      "name": "Top Gear",
+      "poster": "https://image.tmdb.org/t/p/w500/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bJROfBstoARn6vOqqPylYLpGYDH.jpg",
+      "description": "Top Gear es una serie de televisión británica sobre vehículos automotores, principalmente carros, reconocida como el programa de televisión factual más asistido en el mundo por el Libro Guiness de los Récords. Começou em 1977, como un programa de automovilismo convencional.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Reality",
+        "Talk"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1287391",
+      "type": "series",
+      "name": "Doña Bárbara",
+      "poster": "https://image.tmdb.org/t/p/w500/H8Gz2bG7p2lmbrtM6duGpkY7z8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wQoyCT75vPgWybLp4o11gatSFoJ.jpg",
+      "description": "Doña Bárbara, criada en los llanos venezolanos por una banda de contrabandistas de la selva. Tras ser violada por un grupo de bandidos, se propone vengarse de todos los hombres, y enamora al hacendado Lorenzo Barquero, lo empuja al alcoholismo y le roba la fortuna, pasando a dominar la región con hechizos, artes de seducción, matones y delincuentes.\n\nQuince años más tarde, el abogado Santos Luzardo, primo de Lorenzo, llega a los llanos a reclamar las tierras de su familia y empieza a enamorarse de la hija de Bárbara, Marisela.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Soap"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0497152",
+      "type": "series",
+      "name": "La fea más bella",
+      "poster": "https://image.tmdb.org/t/p/w500/iLjqdtSIMiodUlcSqRJ4JEW5gG1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cy0z335ODPZyib8wiAxBbwPNezr.jpg",
+      "description": "La fea más bella cuenta la historia de una secretaria poco agraciada que corre con la mala fortuna de enamorarse de su jefe, un hombre galán y millonario que tiene a miles de mujeres a sus pies, él poco a poco se dará cuenta que la belleza física sale sobrando si el amor verdadero invade su corazón, claro está que mientras él descubre esto pasan juntos un sin fin de aventuras que tienen que superar para que el amor por fin pueda triunfar.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Soap",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0244365",
+      "type": "series",
+      "name": "Viaje a las estrellas: Enterprise",
+      "poster": "https://image.tmdb.org/t/p/w500/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+      "description": "La historia transcurre en el siglo XXII, cien años antes de las aventuras del capitán Kirk y su tripulación en 'Star Trek: La serie original'. El capitán Jonathan Archer (Scott Bakula) inicia la exploración del espacio en nombre de la humanidad, con la intención de establecer relaciones pacíficas con nuevas civilizaciones, a bordo de la nave experimental Enterprise NX-01.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0412253",
+      "type": "series",
+      "name": "Verónica Mars",
+      "poster": "https://image.tmdb.org/t/p/w500/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rhdvR0brfejyjvvnGwG8Zi28zkU.jpg",
+      "description": "La serie muestra la vida de Veronica Mars, una estudiante que, tras el misterioso asesinato de su mejor amiga, deberá alternar sus estudios con el trabajo a tiempo parcial como detective privado en la agencia de su padre. Todo ello, sin abandonar la investigación del trágico suceso. La serie se convierte desde el principio en un cóctel de misterio, intriga, afiladísimos guiones, una buena dosis de humor negro y constantes referencias culturales, lo que la ha convertido en una serie de culto y una de las favoritas de público y crítica.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0491603",
+      "type": "series",
+      "name": "H2O: Sirenas del mar",
+      "poster": "https://image.tmdb.org/t/p/w500/nmVKBVplhptXgKRxZpo3MBssZBM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/waQxGw44tKEsKcLOkAWJsxyz7Bf.jpg",
+      "description": "Al tocar agua, tres adolescentes australianas se transforman en sirenas y combaten fuerzas malignas con sus poderes misteriosos.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1132290",
+      "type": "series",
+      "name": "Almacén 13",
+      "poster": "https://image.tmdb.org/t/p/w500/2O70gYqzNGt7uYfjouojCEul9hy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+      "description": "Se centra en dos agentes federales enviados al misterioso Almacén 13, en Dakota del Sur, donde el gobierno guarda, bajo el más absoluto secreto, todo tipo de artefactos extraños.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedia",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0306274",
+      "type": "series",
+      "name": "¿Qué Hay De Nuevo, Scooby-Doo?",
+      "poster": "https://image.tmdb.org/t/p/w500/ovTA7Cym4YObvDKCVtetFpg3jMi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/azYkdfJEkhn94jozR87t46LeCst.jpg",
+      "description": "Es la novena serie del dibujo animado de Hanna-Barbera Scooby-Doo. Tuvo tres temporadas en \"Kids WB\" como un programa de media hora, antes de ser interrumpido indefinidamente en 2006. Las repeticiones fueron transmitidas por Cartoon Network. Fueron producidos cuarenta y dos episodios (catorce en 2002-2003, catorce en 2003-2004 y catorce en 2005-2006).",
+      "releaseInfo": "2002",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0796264",
+      "type": "series",
+      "name": "Eureka",
+      "poster": "https://image.tmdb.org/t/p/w500/f2l5hUk63hPqYTucnFy2HmElFV0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8MQeyFsWrp2ILjbumtxrinmk7t4.jpg",
+      "description": "Eureka es una ciudad en la que habitan los científicos más destacados del país, y en la que se producen extrañas anomalías físicas. El gobierno creó esta comunidad, situada en el noroeste del Pacífico, tras el desarrollo de la bomba atómica. Su objetivo: realizar experimentos secretos.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1480925",
+      "type": "series",
+      "name": "Monogatari",
+      "poster": "https://image.tmdb.org/t/p/w500/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+      "description": "Monogatari se centra en Koyomi Araragi, un estudiante de tercer año de instituto que es ahora casi humano después de haber sido vampiro por un tiempo. Un día, una compañera de clase llamada Hitagi Senjōgahara, quien nunca habla con nadie, cae desde una alta escalera en los brazos de Koyomi. Él descubre que Hitagi no pesa casi nada, una contradicción física. A pesar de ser amenazado por ella, Araragi le ofrece su ayuda, y la presenta a Meme Oshino, un hombre excéntrico de mediana edad viviendo en un edificio abandonado que le ayudó a dejar de ser un vampiro.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0383126",
+      "type": "series",
+      "name": "Mythbusters: Los cazadores de mitos",
+      "poster": "https://image.tmdb.org/t/p/w500/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/edhROlXRob3TopjWJ5898GSvQpI.jpg",
+      "description": "Investigaciones de mitos urbanos.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0770762",
+      "type": "series",
+      "name": "Happy Tree Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/2rYqJg1OzaDlc5kiBK4IdgrELMf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2FiRbfbmXN2DSHAcuHRtv9QJwnD.jpg",
+      "description": "Es una comedia de acción y aventura de apariencia simple, combina los animales lindos del bosque con la extrema violencia gráfica. Cada episodio gira en torno a los accidentales que sufren los personajes los cuales les causan derramamiento de sangre, dolor, desmembramiento y/o la muerte.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1442464",
+      "type": "series",
+      "name": "The Middle",
+      "poster": "https://image.tmdb.org/t/p/w500/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/82D01BlixH1JD0BCQoERabDjp7h.jpg",
+      "description": "La de Frankie Heck es una familia de libro: tiene un hijo adolescente que se pasa el día en su cuarto y cuando se pasea lo hace sin camiseta ni pantalones; una hija que es un desastre en casi todo lo que intenta; y otro chico, el pequeño, que repite las últimas palabras en susurros porque le hace sentir bien. Además, intenta vender coches cuando su marido no se olvida de ir a recoger a los chicos al colegio.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0496424",
+      "type": "series",
+      "name": "30 Rock",
+      "poster": "https://image.tmdb.org/t/p/w500/rY4ZbKLbd5OUisdykcJCch5WXvx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cK5AbLFBY2JDoqEdVXk0697e2SV.jpg",
+      "description": "Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0421482",
+      "type": "series",
+      "name": "Winx Club",
+      "poster": "https://image.tmdb.org/t/p/w500/eKSZ3EYxnlu6gbnhhKxBziN65hI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gPLVnGRW1lXb8wBauIG41kQkoCX.jpg",
+      "description": "In a magical universe, witches, warriors begin fighting in the name of good .vs. evil! At a magic school, five teenage girls are selected to defend the universe with their magic.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Kids",
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0325547",
+      "type": "series",
+      "name": "Hellsing",
+      "poster": "https://image.tmdb.org/t/p/w500/2fu1VDi6d4TMXzxjKxpYnsPUffR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jy74GLS8QA1O8JRwXj72uCKtV1B.jpg",
+      "description": "Los vampiros existen. Es el deber de Hellsing, una organización patrocinada por el gobierno británico, para esconder ese hecho aterrador y proteger a la población felizmente inconsciente. Junto con su propio ejército personal, Hellsing también tiene algunas armas secretas. Alucard, un vampiro increíblemente poderoso, ha sido controlado por Hellsing durante años. Aunque no le gusta ser un sirviente de la familia Hellsing, ciertamente disfruta de su trabajo como exterminador de vampiros de Hellsing. Seras es una joven vampiro y una ex policía. A pesar de ser reacia a abrazar su nuevo yo, ella sigue siendo un valioso miembro de la organización. Integra Hellsing, la líder actual, suele ser plenamente capaz de cumplir con su deber, pero últimamente, la actividad de los vampiros ha ido en aumento. Desafortunadamente, la causa es más alarmante que cualquier cosa que ella podría haber imaginado ...",
+      "releaseInfo": "2001",
+      "genres": [
+        "Action & Adventure",
+        "Animación",
         "Sci-Fi & Fantasy"
       ],
       "app_extras": {

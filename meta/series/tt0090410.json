@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0090410",
+    "type": "series",
+    "name": "Historia del Crimen",
+    "poster": "https://image.tmdb.org/t/p/w500/he4iKKlgXnT7kPAjvYFeREiHPmj.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/pCF7Pyuy7bioVx1PIeRu9vTI1Tu.jpg",
+    "description": "Un policía rudo lucha contra la mafia en Chicago durante los años 60.",
+    "releaseInfo": "1986",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Action & Adventure",
+      "Misterio"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}
