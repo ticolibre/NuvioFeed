@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt1619029",
+    "type": "movie",
+    "name": "Jackie",
+    "poster": "https://image.tmdb.org/t/p/w500/hxmIRglqQMNb9A6NLQt5zCO39N7.jpg",
+    "posterShape": "poster",
+    "description": "Película sobre la exprimera dama estadounidense Jacqueline Kennedy, centrada en los días inmediatamente posteriores al asesinato de JFK, en Dallas, el 22 de noviembre del año 1963.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/lF41LYBSLVpZ61rZci471pqi6UW.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.4"
+        }
+      }
+    }
+  }
+}

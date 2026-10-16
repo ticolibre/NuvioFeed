@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt12078990",
+    "type": "movie",
+    "name": "La Casa de Papel: el fenómeno",
+    "poster": "https://image.tmdb.org/t/p/w500/YkN0CmWq8zuDUPgnnWgFyGdpas.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/yEBBtk1eyZltGgJt8Z2zi3KIvvX.jpg",
+    "description": "Documental sobre el fenómeno social que ha se ha producido alrededor de \"La casa de papel\", una de las series más vistas de la parrilla de Netflix.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

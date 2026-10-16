@@ -1,0 +1,4323 @@
+{
+  "metas": [
+    {
+      "id": "tt5052448",
+      "type": "movie",
+      "name": "¡Huye!",
+      "poster": "https://image.tmdb.org/t/p/w500/s0BriSYHEOIypAM0ZhUIQUOr3HE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+      "description": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy y Dean. Al principio, Chris piensa que el comportamiento \"demasiado\" complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0947798",
+      "type": "movie",
+      "name": "El cisne negro",
+      "poster": "https://image.tmdb.org/t/p/w500/eJuoXzQPnBeiezrRsQCMjetS1fM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+      "description": "Nina Sayers, una bailarina comprometida, lucha por mantener su cordura después de ganar el papel principal en una producción de \"El lago de los cisnes\" de Tchaikovsky.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline y la puerta secreta",
+      "poster": "https://image.tmdb.org/t/p/w500/1fX7HMPL9f2qJ9jXFgnBMeYHdfs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "description": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4972582",
+      "type": "movie",
+      "name": "Fragmentado",
+      "poster": "https://image.tmdb.org/t/p/w500/aL9lq4xwMwlWkUQhnOdTTGw8yHH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+      "description": "Tres niñas son secuestradas por un hombre al que se le diagnosticó 23 personalidades distintas. Deben tratar de escapar antes de la aparente aparición de un espantoso nuevo 24.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1396484",
+      "type": "movie",
+      "name": "It (Eso)",
+      "poster": "https://image.tmdb.org/t/p/w500/p77sfJRQyqxvTDy6ulGLnw0uAhh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+      "description": "En el verano de 1989, un grupo de niños maltratados se unieron para destruir a un monstruo cambia-formas, que se disfraza de payaso y se aprovecha de los niños de Derry, su pequeño pueblo de Maine.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6644200",
+      "type": "movie",
+      "name": "Un Lugar En Silencio",
+      "poster": "https://image.tmdb.org/t/p/w500/up1Awcd25rJHDy267K1IYNSslne.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
+      "description": "En el año 2020, unas criaturas misteriosas con un sentido auditivo extraordinario han diezmado a la población mundial. Una familia se oculta en una cabaña y se comunica mediante la lengua de signos para no ser cazados por estos monstruos.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsesión",
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1457767",
+      "type": "movie",
+      "name": "El Conjuro",
+      "poster": "https://image.tmdb.org/t/p/w500/10ir0eISr3p1MF1mjZwGTx7u4vv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+      "description": "Una familia aterrorizada pide ayuda a los investigadores paranormales Ed y Lorraine Warren a investigar una presencia oscura en su granja. Al ser obligados a enfrentarse a una entidad poderosa, los Warren se ven atrapados en el caso más aterrador de sus vidas.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5700672",
+      "type": "movie",
+      "name": "Estación Zombie: tren a Busan",
+      "poster": "https://image.tmdb.org/t/p/w500/rZnsbdwRN5j87FS1KtgXvMiNiqa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
+      "description": "Un brote viral misterioso pone a Corea en estado de emergencia. Sok-woo y su hija Soo-ahn suben al KTX, un tren rápido que une los 442 km que separan Seúl de Busan, una ciudad que se defiende con éxito de la epidemia. Sin embargo, justo en el momento de su partida, la estación es invadida por zombis que matan al conductor del tren y a otros pasajeros",
+      "releaseInfo": "2016",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Suspense",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0365748",
+      "type": "movie",
+      "name": "El Despertar de los Muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/g1UOD4SSLPUCzbRjMxUILVGtTw8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+      "description": "La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local con su amigo íntimo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado. Shaun decide, finalmente, poner su vida en orden. Tiene que reconquistar el corazón de su novia, enmendar sus relaciones con su madre y enfrentarse a las responsabilidades de un adulto.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1156398",
+      "type": "movie",
+      "name": "Zombieland",
+      "poster": "https://image.tmdb.org/t/p/w500/6JfzQMD5dux7AsuPOu5uyzXezY2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+      "description": "Un tímido estudiante tratando de alcanzar a su familia en Ohio, un tipo duro armado tratando de encontrar el último Twinkie, y un par de hermanas tratando de llegar a un parque de diversiones se unen para viajar a través de un Estados Unidos lleno de zombis.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0387564",
+      "type": "movie",
+      "name": "Juego macabro",
+      "poster": "https://image.tmdb.org/t/p/w500/ee9gOVGZmemoJiK6nG1tGkZv10L.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+      "description": "Adam se despierta encadenado a un tubo oxidado dentro de una decrépita cámara subterránea. A su lado, hay otra persona encadenada, el Dr. Lawrence Gordon. Entre ellos hay un hombre muerto. Ninguno de los dos sabe por qué está allí, pero tienen un casette con instrucciones para que el Dr. Gordon mate a Adam en un plazo de ocho horas. Recordando una investigación de asesinato llevada a cabo por un detective llamado Tapp, Gordon descubre que él y Adam son victimas de un psicópata conocido como Jigsaw. Sólo disponen de unas horas para desenredar el complicado rompecabezas en el que están inmersos.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0230600",
+      "type": "movie",
+      "name": "Los Otros",
+      "poster": "https://image.tmdb.org/t/p/w500/5lxDhfR0TCPvkmYnod0GWqlorzc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
+      "description": "Grace es una mujer religiosa que vive en una vieja casa mantenida oscura porque sus dos hijos, Anne y Nicholas, tienen una rara sensibilidad a la luz. Cuando la familia comienza a sospechar que la casa está embrujada, Grace lucha para proteger a sus hijos a cualquier costo ante los extraños acontecimientos y las visiones inquietantes.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0117571",
+      "type": "movie",
+      "name": "Scream: Grita antes de morir",
+      "poster": "https://image.tmdb.org/t/p/w500/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "description": "Un año después del asesinato de su madre, la adolescente Sidney Prescott es aterrorizada por un asesino enmascarado que la ataca a ella y a sus amigas utilizando películas de terror como parte de un juego mortal.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3065204",
+      "type": "movie",
+      "name": "El Conjuro 2",
+      "poster": "https://image.tmdb.org/t/p/w500/x4jUJ0fF60SSOeUUTkaRtmnDvwG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg",
+      "description": "En está ocasión, Lorraine y Ed Warren viajan al norte de Londres para ayudar a una madre soltera que cría a cuatro hijos sola en una casa plagada de espíritus malignos.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0816711",
+      "type": "movie",
+      "name": "Guerra mundial Z",
+      "poster": "https://image.tmdb.org/t/p/w500/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+      "description": "Gerry Lane, antiguo empleado de las Naciones Unidas, recorre el mundo en una carrera contrarreloj para detener una pandemia zombi que está derribando ejércitos y gobiernos y amenaza con destruir a la propia humanidad.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8332922",
+      "type": "movie",
+      "name": "Un lugar en silencio: Parte II",
+      "poster": "https://image.tmdb.org/t/p/w500/t0Ldrbhd1hwMYJ8KrkORPZl5Sbv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uuBYYlbfiYD7ny5VNj46NG14ykR.jpg",
+      "description": "La familia Abbott ahora se enfrenta a los terrores del mundo exterior. Forzados a aventurarse en lo desconocido, se dan cuenta de que las criaturas que cazan por el sonido no son las únicas amenazas que acechan más allá del camino de arena.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7784604",
+      "type": "movie",
+      "name": "El legado del diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/6chE8jSfzggAudaHmKodzBz8Sl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+      "description": "Tras la muerte de la matriarca de la familia Leigh, Annie y sus hijos descubren secretos inquietantes sobre su herencia. Su vida cotidiana no solo se ve afectada, sino que también se ven envueltos en un destino aterrador del que no pueden escapar, llevándolos al borde de la locura.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118971",
+      "type": "movie",
+      "name": "El Abogado del Diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/buJbFAw73SJGzaJBWOjAsHhZg3g.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bFRyrzb16IqM8hTmxT0z1nCaqhr.jpg",
+      "description": "Kevin Lomax es un joven y brillante abogado que nunca ha perdido un caso. Vive en Florida y parece feliz con su esposa Mary Ann. Un día, recibe la visita de un abogado de Nueva York que representa a un poderoso bufete que tiene la intención de contratarlo. Al frente de la prestigiosa empresa se encuentra John Milton, un hombre mundano, brillante y carismático, que alberga planes muy oscuros con respecto a Lomax.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0289043",
+      "type": "movie",
+      "name": "Exterminio",
+      "poster": "https://image.tmdb.org/t/p/w500/maYPu3lydEzcnhDZ9lt9mAuosa6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rJP8rrfbWPYgpNqwHSHQ5wlBpIm.jpg",
+      "description": "Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7144666",
+      "type": "movie",
+      "name": "El teléfono negro",
+      "poster": "https://image.tmdb.org/t/p/w500/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+      "description": "El tímido pero inteligente Finney Blake, de 13 años, es secuestrado por un asesino sádico. En el sótano insonorizado, un teléfono desconectado en la pared empieza a sonar.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0360486",
+      "type": "movie",
+      "name": "Constantine",
+      "poster": "https://image.tmdb.org/t/p/w500/AiE8oPiXtxnhHRtAdWriqNuBiKY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/x3YFn10ehQKMRIJwIfiDAX8S9Xt.jpg",
+      "description": "Cuando John Constantine se une a una policía para resolver el misterioso suicidio de su hermana gemela, su investigación los lleva a través del mundo de demonios y ángeles que existe debajo del paisaje de Los Ángeles contemporáneo.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0110148",
+      "type": "movie",
+      "name": "Entrevista con el Vampiro",
+      "poster": "https://image.tmdb.org/t/p/w500/921DrRqvdnX90grWPkuRnOoko5l.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+      "description": "Cuando lo desea, el vampiro Lestat convierte a sus víctimas en vampiros, concediéndoles así el don de la inmortalidad. A finales del siglo XVIII, Lestat convierte en vampiro a Louis de Pointe, un hombre desolado por la pérdida de su esposa y de su pequeña hija. Doscientos años más tarde, a finales del siglo XX, en San Francisco, Louis decide contar su historia, la historia de amor, terror y éxtasis de un vampiro, a un joven reportero,",
+      "releaseInfo": "1994",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8772262",
+      "type": "movie",
+      "name": "Midsommar: el terror no espera la noche",
+      "poster": "https://image.tmdb.org/t/p/w500/4GAu35PwRZXEIJp7UEBljQ1aP1G.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+      "description": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Pecadores",
+      "poster": "https://image.tmdb.org/t/p/w500/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "description": "Intentando dejar atrás sus vidas problemáticas, los hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor los espera para darles la bienvenida.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7069210",
+      "type": "movie",
+      "name": "El Conjuro 3: El diablo me obligó a hacerlo",
+      "poster": "https://image.tmdb.org/t/p/w500/k8HN29t4VxiOagq9jaVVwZJ6wIB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/p26c040MErns7DJYhisa1CpVB5i.jpg",
+      "description": "Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0162661",
+      "type": "movie",
+      "name": "La Leyenda del Jinete Sin Cabeza",
+      "poster": "https://image.tmdb.org/t/p/w500/7DgCv4sOScbIo99VPcTXk7C4UQD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/m8t7K3LcAY7bpyQ7iQ5kGsrcjnh.jpg",
+      "description": "Durante la Guerra de Secesión Americana, un policía de Nueva York que utiliza avanzados métodos de investigación es enviado al pueblo de Sleepy Hollow para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del lugar. Una vez allí adopta la identidad de un profesor de escuela y se enamora de Katrina, que mantiene relaciones con uno de los hombres más conocidos del pueblo. Realidad y ficción se darán la mano en el momento menos pensado.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Fantasía",
+        "Suspense",
+        "Misterio",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0103874",
+      "type": "movie",
+      "name": "Drácula de Bram Stoker",
+      "poster": "https://image.tmdb.org/t/p/w500/e36gEkPIJGzVVyNCrldfRvjK6pE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fGuhbAlDpvmNuC0vkz1vsIzYwsq.jpg",
+      "description": "El vampiro de siglos de edad, el Conde Drácula, viene a Inglaterra para seducir a la prometida de su abogado Jonathan Harker, Mina Murray, y causar estragos en el país extranjero.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Romance",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1179933",
+      "type": "movie",
+      "name": "Avenida Cloverfield 10",
+      "poster": "https://image.tmdb.org/t/p/w500/zDdmGyJ2uTYscOz1bVslQTPrp1a.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+      "description": "Una joven sufre un accidente de coche. Cuando despierta se encuentra encerrada en una celda bajo tierra, secuestrada por un hombre extraño que dice haberla salvado del día del juicio final. El excéntrico captor asegura que el exterior es inhabitable por culpa de un terrible ataque químico, algo que no sabe si creer. Es así como comienza su pesadilla, en una espiral de desconocimiento. La mente del criminal es infranqueable, y ella tendrá que intentar analizar a su enemigo para conseguir sobrevivir.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Drama",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2737304",
+      "type": "movie",
+      "name": "Bird Box: A Ciegas",
+      "poster": "https://image.tmdb.org/t/p/w500/rntHx0Wet69rb5aUIVrcr4MbqAj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+      "description": "Thriller posapocalíptico en el que una mujer y sus dos hijos, estos con los ojos vendados, navegan río abajo tras una sangrienta invasión alienígena de la Tierra intentando evitar a las criaturas extraterrestres. Cuando algo misterioso diezma la población mundial, solo se sabe una cosa: si lo ves, te suicidas. Malorie (Sandra Bullock) deberá huir junto a sus dos hijos por un caudaloso y traicionero río, rumbo al único sitio que parece ofrecer refugio. Pero para sobrevivir, deberán completar el peligroso viaje de dos días con los ojos vendados.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1189073",
+      "type": "movie",
+      "name": "La piel que habito",
+      "poster": "https://image.tmdb.org/t/p/w500/sW6pB4C674TDMhFcBXDbz7L0ppO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oPxTkDKK2NcHcAEADATWiXKOkFw.jpg",
+      "description": "Un brillante cirujano plástico crea una piel sintética que resiste cualquier tipo de daño. Su conejillo de indias: una misteriosa y volátil mujer que tiene la clave de su obsesión.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9764362",
+      "type": "movie",
+      "name": "El menú",
+      "poster": "https://image.tmdb.org/t/p/w500/eNcfCScUUyHQyjP84P25a8ColWp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+      "description": "Una joven pareja viaja a uno de los destinos más exclusivos del mundo para cenar en un restaurante que ofrece una experiencia culinaria única. Sin embargo, el chef (Fiennes) ha preparado un ingrediente secreto que tendrá un resultado sorprendente en los dos enamorados.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4160708",
+      "type": "movie",
+      "name": "No respires",
+      "poster": "https://image.tmdb.org/t/p/w500/3A5sAyP9iENTRL5X86FUeYmo0wZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
+      "description": "Unos jóvenes ladrones creen haber encontrado la oportunidad de cometer el robo perfecto. Su objetivo será un ciego solitario, poseedor de millones de dólares ocultos. Pero tan pronto como entran en su casa serán conscientes de su error, pues se encontrarán atrapados y luchando por sobrevivir contra un psicópata con sus propios y temibles secretos.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0408236",
+      "type": "movie",
+      "name": "Sweeney Todd: El Barbero Demoniaco",
+      "poster": "https://image.tmdb.org/t/p/w500/iL1B6kewtB8RsiLsIs4GJJ3Zo06.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+      "description": "Johnny Depp interpreta a Benjamin Barker, un hombre encarcelado 15 años injustamente en el otro lado del mundo, que escapa y vuelve a Londres con la promesa de vengarse, junto a Helena Bonham Carter como su obsesiva y devota cómplice, la Sra. Nellie Lovett. Adoptando el disfraz de Sweeney Todd, Barker regresa a su antigua barbería encima del local de empanadas de carne de la Sra. Lovett, y fija sus miras en el juez Turpin (Alan Rickman) que, con la ayuda de su vil secuaz Beadle Bamford (Timothy Spall), le mandaron lejos con una acusación falsa y así poder robarle a su esposa, Lucy (Laura Michelle Kelly), y a su hija bebé.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1446714",
+      "type": "movie",
+      "name": "Prometeo",
+      "poster": "https://image.tmdb.org/t/p/w500/6a1c2DhgkajssrdukOEtRd3KWK3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qDG5SlGkWNsjSJWiGTBMFI8DpzA.jpg",
+      "description": "Un equipo de exploradores descubre una pista a los orígenes de humanidad en la Tierra, conduciéndolos en un viaje a las esquinas más oscuras del universo. Allí, deben luchar una batalla aterradora para salvar el futuro de la raza humana.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1588170",
+      "type": "movie",
+      "name": "Yo vi al diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/lMW2j2t0LdknCGsIKDkQJQRMsle.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dXDFWWxiEb6tg4ojMWQJrSI0Tun.jpg",
+      "description": "La línea entre el bien y el mal comienza a desaparecer cuando un agente inicia la persecución del asesino en serie que mató brutalmente a su prometida embarazada.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1312221",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "https://image.tmdb.org/t/p/w500/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "description": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Fantasía",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4263482",
+      "type": "movie",
+      "name": "La Bruja",
+      "poster": "https://image.tmdb.org/t/p/w500/qzKNJRldzzXI09vkdA6Un4axTgf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "description": "Nueva Inglaterra, 1630. Una pareja puritana decide abandonar su pueblo para hacer vida en el bosque con sus cinco hijos. Desde la extraña desaparición de su bebé, sucederán otros hechos terroríficos contra los que sus oraciones no tendrán poder.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Fantasía",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7349950",
+      "type": "movie",
+      "name": "IT: Capítulo 2",
+      "poster": "https://image.tmdb.org/t/p/w500/t8EQqeyHue9xurABcQbJBSaYm7x.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6LVSrgm83UYWlrLTCVGmWhFKYO0.jpg",
+      "description": "En este segundo capitulo Han pasado 27 años desde que el \"Club de los Perdedores\", formado por Bill, Berverly, Richie, Ben, Eddie, Mike y Stanley, se enfrentaran al macabro y despiadado Pennywise (Bill Skarsgård). En cuanto tuvieron oportunidad, abandonaron el pueblo de Derry, en el estado de Maine, que tantos problemas les había ocasionado. Sin embargo, ahora, siendo adultos, parece que no pueden escapar de su pasado. Todos deberán enfrentarse de nuevo al temible payaso para descubrir si de verdad están preparados para superar sus traumas de la infancia.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3416742",
+      "type": "movie",
+      "name": "Entrevista Con Unos Vampiros",
+      "poster": "https://image.tmdb.org/t/p/w500/jQtZwaeyHGjVQISsL7FOPZBx1qj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+      "description": "Viago, Deacon y Vladislav son tres vampiros que comparten piso en Nueva Zelanda. Hacen lo posible por adaptarse a la sociedad moderna: pagan el alquiler, se reparten las tareas domésticas e intentan que les inviten a entrar en los clubs. Una vida normal, salvo por una pequeña diferencia: son inmortales y tienen que alimentarse de sangre humana. Cuando su compañero del sótano, Petyr, convierte en vampiro a Nick, nuestros protagonistas deberán enseñarle como funciona todo en su recién estrenada vida eterna.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt17526714",
+      "type": "movie",
+      "name": "La sustancia",
+      "poster": "https://image.tmdb.org/t/p/w500/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+      "description": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6857112",
+      "type": "movie",
+      "name": "Nosotros",
+      "poster": "https://image.tmdb.org/t/p/w500/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+      "description": "Adelaide Wilson es una mujer que vuelve al hogar de su infancia en la costa junto a su marido, Gabe, y sus dos hijos, para una idílica escapada veraniega. Después de un tenso día en la playa con sus amigos, Adelaide y su familia vuelven a la casa donde están pasando las vacaciones. Cuando cae la noche, los Wilson descubren la silueta de cuatro figuras cogidas de la mano y en pie delante de la vivienda. \"Nosotros\" enfrenta a una entrañable familia estadounidense a un enemigo tan insólito como aterrador.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1591095",
+      "type": "movie",
+      "name": "La noche del demonio",
+      "poster": "https://image.tmdb.org/t/p/w500/3myfmbsEApam7jaPosW2Q76qdkS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aXOUc4dkzp9wmJG5lC2iAE6VUdt.jpg",
+      "description": "Una familia descubre que los espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño sin fin. Cuando llegan a un profesional para obtener ayuda, aprenden que las cosas son mucho más personales de lo que pensaban.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4589218",
+      "type": "movie",
+      "name": "Five Nights at Freddy's",
+      "poster": "https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+      "description": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0116367",
+      "type": "movie",
+      "name": "Del crepúsculo al amanecer",
+      "poster": "https://image.tmdb.org/t/p/w500/teUzbtHKktnG099ckSZXR3BwMGN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg",
+      "description": "Los hermanos Seth y Richard son dos de los criminales más peligrosos de América. Andan huyendo en dirección a Mexico, pues tanto el FBI como la policía de Texas les pisan los talones. Después de tomar como rehenes al predicador Fuller y a sus dos hijos, se dirigen a su destino en su caravana familiar. Tras pasar la frontera, todos pasan la noche en un local de carretera llamado la Teta Enroscada.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1051906",
+      "type": "movie",
+      "name": "El Hombre Invisible",
+      "poster": "https://image.tmdb.org/t/p/w500/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tweDJNQzBGgsWVF5MC8JhSAk07p.jpg",
+      "description": "Cecilia rehace su vida tras recibir la noticia de que su exnovio, un maltratador empedernido, ha fallecido. Sin embargo, su cordura comienza a tambalearse cuando empieza tener la certeza de que en realidad sigue vivo.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32612507",
+      "type": "movie",
+      "name": "La posesión de la momia",
+      "poster": "https://image.tmdb.org/t/p/w500/5RhY8eHWzvjw32449pHdUkOeDCN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+      "description": "La joven hija de un periodista desaparece en el desierto sin dejar rastro. Ocho años después, la familia rota se sorprende cuando ella regresa con ellos, mientras lo que debería ser una reunión alegre se convierte en una pesadilla viviente.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt23289160",
+      "type": "movie",
+      "name": "Godzilla Minus One",
+      "poster": "https://image.tmdb.org/t/p/w500/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+      "description": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas... y mucho menos defenderse?",
+      "releaseInfo": "2023",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7798634",
+      "type": "movie",
+      "name": "Boda Sangrienta",
+      "poster": "https://image.tmdb.org/t/p/w500/yxNSgsnBByx8L6PLH0fSXS9kgeR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+      "description": "Durante la noche de su boda, una mujer (Weaving) recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de superviviencia.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1038988",
+      "type": "movie",
+      "name": "[REC]",
+      "poster": "https://image.tmdb.org/t/p/w500/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg",
+      "description": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores... Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único en el mundo.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5109784",
+      "type": "movie",
+      "name": "¡Madre!",
+      "poster": "https://image.tmdb.org/t/p/w500/67FkkLkcDSbRN9aPDCxIag0ja3Y.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+      "description": "La relación de una pareja se pone a prueba cuando unas personas llegan a su casa sin invitación, lo que altera su tranquila existencia.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1139797",
+      "type": "movie",
+      "name": "Criatura de la noche",
+      "poster": "https://image.tmdb.org/t/p/w500/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mSl9sxOFwBtl2f1FMprrlLqJqON.jpg",
+      "description": "Oskar, un niño tímido de 12 años, acosado en el colegio por unos compañeros, se hace amigo de Eli, una misteriosa nueva vecina de su edad, cuya llegada coincide con una serie de inexplicables muertes. A pesar de que Oskar piensa que ella es un vampiro, intenta que su amistad esté por encima de su miedo.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5606664",
+      "type": "movie",
+      "name": "Doctor Sueño",
+      "poster": "https://image.tmdb.org/t/p/w500/jgXQPs0FaWWxsRadFN7VBDTxwC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+      "description": "Todavía marcado por el trauma que sufrió cuando era niño en el Hotel Overlook, Dan Torrance se enfrenta a los fantasmas del pasado cuando conoce a Abra, una adolescente valiente que necesita desesperadamente su ayuda y que posee una poderosa habilidad extrasensorial llamada el \"brillo\". Basado en la novela de Stephen King.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18412256",
+      "type": "movie",
+      "name": "Alien: Romulus",
+      "poster": "https://image.tmdb.org/t/p/w500/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+      "description": "Mientras exploran en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentran cara a cara con la forma de vida más aterradora del universo.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120611",
+      "type": "movie",
+      "name": "Blade: Cazador de Vampiros",
+      "poster": "https://image.tmdb.org/t/p/w500/IZt3ouxQIVRfig4N2FKTa9OIWF.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+      "description": "En un mundo en guerra, en el que cohabitan hombres y vampiros, el caso de Blade es extraordinario: es un vampiro que no se alimenta de sangre humana y que, además, pretende acabar con la raza de \"de vampiros\" que mordieron a su madre cuando estaba embarazada.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Terror",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0884328",
+      "type": "movie",
+      "name": "Sobre-Natural",
+      "poster": "https://image.tmdb.org/t/p/w500/6qXs5z9bsJSIUpeMzn1SVX0z3zV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+      "description": "Una extraña tormenta libera a una especie de criaturas sedientas de sangre en un pequeño pueblo, donde una pequeña banda de ciudadanos se esconde en un supermercado y lucha por sus vidas.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1148204",
+      "type": "movie",
+      "name": "La huérfana",
+      "poster": "https://image.tmdb.org/t/p/w500/3NSeL6kdni2lIxkLGmNcGWuixar.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hHlFspcHTLGFo8BwOSCsX9eHtbY.jpg",
+      "description": "Después de que perdieran a su bebé que estaban esperando, Kate y John Coleman se dirigen a un orfanato local con la intención de adoptar a un niño. Allí se sienten extrañamente atraídos por Esther de 9 años, una niña de rostro angelical. Pero en realidad, puede que Esther no sea tan inocente como parece.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1259521",
+      "type": "movie",
+      "name": "La cabaña del terror",
+      "poster": "https://image.tmdb.org/t/p/w500/iLIe4sykUb0NxZpSKcHZmaqbgoy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wJffMiCnrszaNclKggGixYWB7D7.jpg",
+      "description": "Cuando cinco amigos universitarios llegan a una cabaña en el bosque para unas vacaciones, se sorprenden ante los horrores que les esperan. Uno por uno, los jóvenes son víctimas de los zombies del bosque, pero hay otro factor en juego. Dos científicos están manipulando los sucesos sangrientos, pero aunque el número de muertos aumenta aún hay mucho más trabajo que salta a la vista.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1560220",
+      "type": "movie",
+      "name": "Zombieland 2: Tiro de Gracia",
+      "poster": "https://image.tmdb.org/t/p/w500/aoFLsFg9qM3QhRQpVydZFXgh0SQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+      "description": "En esta secuela y empleando el característico sentido del humor del que hizo gala \"Zombieland\" (Tierra de Zombies), el grupo de protagonistas tendrá que viajar desde la Casa Blanca hasta el corazón de los Estados Unidos, sobreviviendo a nuevas clases de muertos vivientes que han evolucionado desde lo sucedido hace algunos años, así como a algunos supervivientes humanos rezagados. Pero, por encima de todo, tendrán que tratar de soportar los inconvenientes de convivir entre ellos.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt26581740",
+      "type": "movie",
+      "name": "La hora de la desaparición",
+      "poster": "https://image.tmdb.org/t/p/w500/6Gw2eH2SkANYXC7mDjtYMppOXiL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+      "description": "Cuando todos los niños de una secundaria, menos uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, toda la comunidad de un pequeño pueblo se pregunta quién (o qué) es responsable de su desaparición.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9639470",
+      "type": "movie",
+      "name": "El misterio de Soho",
+      "poster": "https://image.tmdb.org/t/p/w500/mR2tbjiVieCpjLeXHVdf9vHsZQf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+      "description": "Thriller psicológico sobre una joven apasionada por la moda que misteriosamente puede entrar en la década de 1960, donde se encuentra con su ídolo, un atractivo aspirante a cantante. Pero el Londres de los sesenta no es lo que parece, y el tiempo comenzará a desmoronarse con sombrías consecuencias.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0363547",
+      "type": "movie",
+      "name": "El amanecer de los muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/6aue0EtBfftVryNP11acJqOZu2h.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/c1bejD7jTTf8qSUkcv32Gmv8N50.jpg",
+      "description": "Una enfermera, un policía, un joven matrimonio, un vendedor y otros sobrevivientes de una plaga mundial que está produciendo zombis agresivos y carnívoros, se refugian en un mega centro comercial.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1465522",
+      "type": "movie",
+      "name": "Tucker y Dale En contra del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/A4dQLfIzLjzxRjOOnVUkxFlZHot.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/Aa1Z4BYYwnxT2lqFnUIGPycSDoB.jpg",
+      "description": "Dos amigos que viven en una zona montañosa de Estados Unidos deciden pasar las vacaciones en Virginia. Se alojan en una cabaña y conocen a un grupo de adolescentes que los consideran unos idiotas y no quieren saber nada de ellos. Un día, mientras están pescando, al intentar hablar con una chica del grupo, ocurre un accidente. Los dos amigos serán entonces perseguidos por los estrafalarios adolescentes.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1922777",
+      "type": "movie",
+      "name": "Siniestro",
+      "poster": "https://image.tmdb.org/t/p/w500/f1Y0JYsWENRfHP1qlg2VLsxBloa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jovIEk4cAxWmA2dBcPrfhn3jzYN.jpg",
+      "description": "En un intento de sacar un best-seller, el escritor de crímenes reales Ellison Oswalt se muda con su propia familia a una casa, donde descubre viejas grabaciones y otras pistas que insinúan la presencia de una fuerza sobrenatural.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0289765",
+      "type": "movie",
+      "name": "Dragón Rojo",
+      "poster": "https://image.tmdb.org/t/p/w500/y6wmFX2hY3GS1rWpCwh5MnsMzLa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+      "description": "Un investigador del FBI especializado en analizar la mente y el comportamiento de los asesinos en serie se ve obligado a recurrir a Hannibal Lecter, a quien mandó a la cárcel, para que le ayude en el caso de un asesino de familias, cuyo patrón de conducta le resulta imposible desentrañar.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8760708",
+      "type": "movie",
+      "name": "M3GAN",
+      "poster": "https://image.tmdb.org/t/p/w500/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
+      "description": "Cuando Gemma se convierte en la cuidadora de su sobrina huérfana de 8 años, Cady, Gemma no está segura ni preparada para ser madre. Bajo una intensa presión en el trabajo, Gemma decide emparejar su prototipo M3GAN con Cady en un intento de resolver ambos problemas, una decisión que tendrá consecuencias inimaginables.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Ciencia ficción",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0106308",
+      "type": "movie",
+      "name": "El Ejercito De Las Tinieblas",
+      "poster": "https://image.tmdb.org/t/p/w500/kCIyhhl11rnIKHjE26YntQAEApi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+      "description": "Ash, un apuesto dependiente de grandes almacenes, armado con una escopeta y una motosierra, es transportado en el tiempo a la Edad Media inglesa, donde entabla un romance con una bella mujer y se enfrenta a legiones de muertos vivientes.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Fantasía",
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120804",
+      "type": "movie",
+      "name": "Resident Evil: El Huésped Maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/u1YAvcPSnWgJulzrvkOy4NNrDZO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8J7J7CBmapmcMaxsn9KMiaHzOU2.jpg",
+      "description": "Una unidad militar especial lucha contra una poderosa supercomputadora fuera de control y contra cientos de científicos que han mutado en criaturas carnívoras después de un accidente de laboratorio.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0298130",
+      "type": "movie",
+      "name": "El aro",
+      "poster": "https://image.tmdb.org/t/p/w500/em7reP25IAPZoUbJcUIbBlvUpVX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+      "description": "Parecía simplemente otra leyenda urbana: una cinta de video llena de imágenes de pesadilla, que dio lugar a una llamada telefónica que predecía la muerte del espectador en exactamente siete días. Como reportera de un periódico, Rachel Keller era escéptica por naturaleza de la historia, hasta que cuatro adolescentes se encontraron con muertes misteriosas exactamente una semana después de ver una cinta de este tipo.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2798920",
+      "type": "movie",
+      "name": "Aniquilación",
+      "poster": "https://image.tmdb.org/t/p/w500/b3DBgcFO1q12I6uhRijd2QcV3BN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+      "description": "La bióloga Lena se interna en una región misteriosa aislada por el gobierno estadounidense después de que su esposo desapareciera durante una misión secreta.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Ciencia ficción",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0435625",
+      "type": "movie",
+      "name": "El Descenso",
+      "poster": "https://image.tmdb.org/t/p/w500/de3FmosaHB2NbxLkJBSB11xIr8l.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+      "description": "Un año después de un severo trauma emocional, Sarah (Shauna Macdonald) viaja a Carolina del Norte para pasar unos días explorando unas cuevas con sus amigas; después de descender bajo tierra, las amigas hallan unas pinturas extrañas y evidencias de una expedición anterior, luego descubren que no están solas. Depredadores subterráneos habitan el lugar y a ellos les gusta mucho la carne humana.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Aventura",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10638522",
+      "type": "movie",
+      "name": "Háblame",
+      "poster": "https://image.tmdb.org/t/p/w500/tukqsGK9a0ScPP1UaPUEkNf9Cqx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+      "description": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0286106",
+      "type": "movie",
+      "name": "Señales",
+      "poster": "https://image.tmdb.org/t/p/w500/5IbeDVMsGaHsI1uc33JhLNO5UJX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
+      "description": "Graham Hess es un pastor protestante que vive con sus dos hijos y con su hermano, Merrill, una antigua estrella del béisbol que trabaja en una gasolinera. Tras la muerte de su esposa en un accidente de tráfico, Graham pierde la fe y, en consecuencia, abandona a sus feligreses. Una mañana, al despertarse, se encuentra con que sus hijos han hecho un descubrimiento escalofriante en los campos de maíz que rodean su granja.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Suspense",
+        "Ciencia ficción",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0195714",
+      "type": "movie",
+      "name": "Destino Final",
+      "poster": "https://image.tmdb.org/t/p/w500/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
+      "description": "Un joven estudiante tiene una premonición al subirse al avión en el que se dispone a ir a París con sus compañeros. Presintiendo que algo grave va a pasar, él y sus amigos desembarcan antes del despegue. Efectivamente, el avión sufre un trágico accidente, y los jóvenes piensan que se han librado de una muerte segura gracias a la premonición de su amigo. Pero el destino no ha sido vencido todavía...",
+      "releaseInfo": "2000",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1029234",
+      "type": "movie",
+      "name": "Mártires",
+      "poster": "https://image.tmdb.org/t/p/w500/9NtdiwKhQkUtEtV9ckzKjaYRtVX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fO1hwjlUqDe1ixO7eMfxTby62Ut.jpg",
+      "description": "Francia. Una noche a comienzos de 1970. Lucie, una niña perdida hace un año, es descubierta andando por una carretera. Está en un estado catatónico y es incapaz de decir nada de lo que le ha sucedido. Los policías no tardarán en encontrar el lugar donde ha estado presa: un antiguo matadero... ¿Qué pasó en aquel lugar? ¿Cómo consiguió la chica escapar?",
+      "releaseInfo": "2008",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5308322",
+      "type": "movie",
+      "name": "Feliz día de tu muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/xLu1qmpTCW0qAYCZ3MylNyQ52Lv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+      "description": "Una joven estudiante universitaria (Jessica Rothe) reconstruye el día de su asesinato reviviendo tanto los detalles cotidianos como su aterrador final, hasta intentar descubrir la identidad de su asesino.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6195094",
+      "type": "movie",
+      "name": "Pesadilla en el Infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/6TU88oDDNRYnuPGvViwPxGZNY1m.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oFyptNOx02o8sMcSsax4GSCAemg.jpg",
+      "description": "Una madre y sus dos hijos heredan una casa. Pero en su primera noche, aparecen unos asesinos y la madre se ve obligada a luchar para salvar a sus hijas.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3235888",
+      "type": "movie",
+      "name": "Está Detrás De Ti",
+      "poster": "https://image.tmdb.org/t/p/w500/tBdhwg4gqMzJTRvEQbFBAGrTvfB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+      "description": "Jay, una joven de 18 años, tiene una experiencia sexual con su novio en la parte trasera del auto, tras la cual su novio la ata a una silla y le explica que le ha transmitido una maldición que se propaga mediante el sexo. Así, un espíritu que adopta multitud de formas comienza a acosarla, persiguiéndola de forma lenta pero imparable para despedazarla. Sus amigos intentan ayudarla, pero según su ahora exnovio, solo pasándole la maldición a otro se librará de la muerte.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10954984",
+      "type": "movie",
+      "name": "¡Nop!",
+      "poster": "https://image.tmdb.org/t/p/w500/k2VcJW03s9tQEIy4PlQS576CXDX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
+      "description": "Los habitantes de una lejana propiedad del interior de California son testigos de un extraño y escalofriante descubrimiento.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2975578",
+      "type": "movie",
+      "name": "12 Horas para sobrevivir",
+      "poster": "https://image.tmdb.org/t/p/w500/tWUUXNxyduZcKODNzCQ1UtzbedL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/blfZnm6StMPnTY35kaooPBCsSVp.jpg",
+      "description": "El crimen hace estragos en Estados Unidos y las cárceles están llenas. El gobierno decide que una noche al año, durante doce horas, cualquier actividad criminal, incluso el asesinato, será legal. No se puede llamar a la policía, los hospitales no admiten pacientes, los ciudadanos deben arreglárselas solos porque cometer un delito no está castigado. Durante esa noche plagada de peligros, 5 personas que se han quedado fuera de sus casas deciden juntarse para poder enfrentarse mejor a los ciudadanos salvajes que buscan calmar sus ansias de violencia.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0464141",
+      "type": "movie",
+      "name": "El orfanato",
+      "poster": "https://image.tmdb.org/t/p/w500/wk95EOzZKd74NFzVVkHBo1UW46o.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/g6pNnKmvTkNlEvn0ScwstYvhFE.jpg",
+      "description": "Laura regresa con su familia al orfanato en el que creció de niña, con la intención de abrir una residencia para niños discapacitados. El nuevo entorno despierta la imaginación de su hijo, que comienza a dejarse llevar por juegos de fantasía cada vez más intensos. Éstos van inquietando a Laura cada vez más, hasta el punto en el que llega a pensar que hay algo en la casa que está amenazando a su familia. A ella le ocurre algo extraordinario y, a pesar de que es una mujer con unos principios muy claros, su universo se tambalea poniendo en duda todo aquello en lo que creía...",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5442430",
+      "type": "movie",
+      "name": "Life: Vida inteligente",
+      "poster": "https://image.tmdb.org/t/p/w500/uRMN5eb85tPSnM3aECva2Rx5EiG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nNh7vHHISVAaziJEqAq0P9iL52w.jpg",
+      "description": "Un equipo de científicos a bordo de la Estación Espacial Internacional descubre una forma de vida en rápida evolución que causó la extinción en Marte y ahora amenaza toda la vida en la Tierra.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3289956",
+      "type": "movie",
+      "name": "La morgue",
+      "poster": "https://image.tmdb.org/t/p/w500/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
+      "description": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13345606",
+      "type": "movie",
+      "name": "Evil Dead: El despertar",
+      "poster": "https://image.tmdb.org/t/p/w500/ylnzQGuIbNuqV6xgoxgXtTQOAui.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+      "description": "El reencuentro entre dos hermanas distanciadas se ve interrumpido por el surgimiento de demonios que poseen cuerpos, lo que las sumerge en una batalla primigenia por la supervivencia mientras se enfrentan a la versión más terrorífica de familia imaginable.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1142977",
+      "type": "movie",
+      "name": "Frankenweenie",
+      "poster": "https://image.tmdb.org/t/p/w500/4WZaUjHswR2mak767GEXgiWYxeq.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+      "description": "Conmovedora historia sobre un niño llamado Victor quien, tras la trágica muerte de su adorado perro Sparky, utiliza la ciencia para devolverlo a la vida. Sin embargo, su experimento desencadena una serie de eventos que desafían las normas y la moralidad de su pequeño pueblo.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8633478",
+      "type": "movie",
+      "name": "Corre.",
+      "poster": "https://image.tmdb.org/t/p/w500/rFLppobsrLyry8R3S6dT0C0XGMr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rLchzndbDRy41J9X363pMePbV5x.jpg",
+      "description": "Para Chloe, el amor desaforado de su madre, Diane, no es un consuelo, sino más bien una amenaza. La relación entre las dos es particularmente extraña. Diane ha criado a su hija en un completo aislamiento por la enfermedad que sufre, controlando cada uno de ellos de sus movimientos.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Suspense",
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0432348",
+      "type": "movie",
+      "name": "Juego macabro 2",
+      "poster": "https://image.tmdb.org/t/p/w500/4ZOC5ICB4Gg5tzF5jDcVsjLkz0R.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
+      "description": "Decide rápido… o muere despacio». Cuando aparece una nueva víctima de asesinato con los signos característicos de Jigsaw, el Agente Eric Matthews (Donnie Wahlberg) se embarca en una investigación exhaustiva que le permite detener al asesino sin demasiado esfuerzo. Sin embargo, para Jigsaw ser detenido no es sino otra parte de su retorcido plan. Hay otras ocho víctimas jugándose la vida y ahora le toca a Matthews unirse al juego…",
+      "releaseInfo": "2005",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0100814",
+      "type": "movie",
+      "name": "Terror Bajo la Tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/qFZYBZjIrJXRGjRnDloDU2i0rxb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3L3DUwfRLW18OUiLSdmovfICyY3.jpg",
+      "description": "Hick handymen Val McKee y Earl Bassett apenas pueden ganarse la vida en la aldea Nevada de Perfection, por lo que deciden irse de la ciudad, a pesar de una advertencia de una estudiante de sismología que está aprendiendo extrañas lecturas de su equipo. En poco tiempo, Val y Earl descubren lo que es responsable de esas lecturas: gusanos carnívoros de 30 pies de largo con una tendencia a chupar a su presa bajo tierra.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms: Sin salida",
+      "poster": "https://image.tmdb.org/t/p/w500/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5140878",
+      "type": "movie",
+      "name": "Annabelle 2: La Creación",
+      "poster": "https://image.tmdb.org/t/p/w500/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+      "description": "Varios años después de la trágica muerte de su niña, un muñequero y su esposa reciben a una monja ya varias niñas de un orfanato cerrado en su casa, convirtiéndose pronto en el blanco de la creación poseída por la muñeca, Annabelle.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0105665",
+      "type": "movie",
+      "name": "Twin Peaks: fuego camina conmigo",
+      "poster": "https://image.tmdb.org/t/p/w500/4ae4pFtODwowHcierrmgjyzVejh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/amGU1FpELmenVvNmPShW58Orepy.jpg",
+      "description": "Precuela de la famosa serie televisiva. La fuente de los impulsos autodestructivos de Laura Palmer está en los abusos que sufre por parte de alguien muy cercano, quien sufre la posesión del diabólico BOB. Cuando Laura se da cuenta de que su mejor amiga, Donna Hayward, se encamina a su mismo sendero autodestructivo, tiene un ataque de lucidez que le permite prevenírselo.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2321549",
+      "type": "movie",
+      "name": "Babadook",
+      "poster": "https://image.tmdb.org/t/p/w500/9jLmXkKEQO5go44qcMO8MURNBul.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
+      "description": "Seis años después de la violenta muerte de su marido, Amelia (Essie Davis) no se ha recuperado todavía, pero tiene que educar a Samuel (Noah Wiseman), su hijo de seis años, que vive aterrorizado por un monstruo que se le aparece en sueños y amenaza con matarlos. Cuando un inquietante libro de cuentos llamado “The Babadook” aparece en su casa, Samuel llega al convencimiento de que el Babadook es la criatura con la que ha estado soñando. Entonces sus alucinaciones se hacen incontrolables y su conducta, impredecible y violenta. Amelia, cada vez más asustada, se ve forzada a medicarle. Pero, de repente, empieza a sentir a su alrededor una presencia siniestra que la lleva a pensar que los temores de su hijo podrían ser reales.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt18925334",
+      "type": "movie",
+      "name": "Pearl",
+      "poster": "https://image.tmdb.org/t/p/w500/orYlKu8i5NRdbdhSXWg1cbRn3eB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
+      "description": "Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre, deseando una vida glamorosa como la que ha visto en las películas. Precuela de 'X' (2022) centrada en los orígenes del personaje de Pearl (Mia Goth).",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1288558",
+      "type": "movie",
+      "name": "Posesión Infernal",
+      "poster": "https://image.tmdb.org/t/p/w500/w0BrfbkdKReQsyilSpZtjEE9ZQ5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6RDgtEBzjuF7W25DVziXRABchpX.jpg",
+      "description": "En un intento de dejar su adicción a las drogas, Mia le pide a su hermano David, a su novia Natalie y a sus amigos Olivia y Eric que la acompañen a la remota cabaña familiar en el bosque para ayudarla a superar la abstinencia. Eric encuentra un misterioso Libro de los Muertos en la cabaña y, al leerlo en voz alta, despierta a un antiguo demonio.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4954522",
+      "type": "movie",
+      "name": "Voraz",
+      "poster": "https://image.tmdb.org/t/p/w500/97PCxKAKriRQPJHBvj76onMLsjn.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/46GikxYW84dRh71sWVY0eRQiHLX.jpg",
+      "description": "Justine es una joven que se ha criado en una familia donde todos son vegetarianos y veterinarios. Al ingresar en la facultad de veterinaria, la joven ve como todo su mundo se rompe y descubre otra realidad decadente y seductora. Obsesionada por encajar entre sus compañeros, se aleja de sus principios y come carne cruda por primera vez. Las consecuencias de este acto llegan pronto, y la joven descubrirá su verdadera naturaleza.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4003440",
+      "type": "movie",
+      "name": "La Casa De Jack",
+      "poster": "https://image.tmdb.org/t/p/w500/oUQJZbLqTZTh287VSFUv1eoDDOl.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+      "description": "Un seguimiento durante doce años a Jack, un asesino en serie que mata mujeres y está obsesionado con la perfección. Su historia transcurre en paralelo a la de Estados Unidos durante las décadas de 1970 y 1980 en el estado de Washington.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5022702",
+      "type": "movie",
+      "name": "Silencio",
+      "poster": "https://image.tmdb.org/t/p/w500/wYHfD8izsrr12KNxh1Y4T1OnrTh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1r7AVAxdG97mgjR47Zm5YOSnnMW.jpg",
+      "description": "Una joven escritora que se quedó sorda en su adolescencia y vive aislada en una casa en medio de la nada. Una noche comienza a ser acosada por un misterioso hombre enmascarado, sin la posibilidad de pedir ayuda, por lo que tendrá que ingeniárselas para salir airosa de su acosador.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0463854",
+      "type": "movie",
+      "name": "Exterminio 2",
+      "poster": "https://image.tmdb.org/t/p/w500/kiPmIodLT3dGVdRItMBITO2c5a6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+      "description": "Seis meses después de que el virus de la rabia fuera infligido a la población de Gran Bretaña, el ejército de los EE.UU. ayuda a asegurar una pequeña área de Londres para que los sobrevivientes se repoblen y comiencen de nuevo. Pero no todo va de acuerdo al plan.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt34385135",
+      "type": "movie",
+      "name": "Zona Cero",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
+      "description": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2554274",
+      "type": "movie",
+      "name": "La Cumbre Escarlata",
+      "poster": "https://image.tmdb.org/t/p/w500/5SbIDk0Gkyr0y22ZtydVq9Px423.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nQQIUwEEqa6sjPvnqcGbjJxbdit.jpg",
+      "description": "Todo ocurre en Inglaterra durante el siglo XIX. Edith es una joven recién casada con sir Thomas, un hombre encantador. Edith se traslada a la mansión que la familia de él posee en Cumbria, región del norte de Inglaterra, y allí, Edith, que es capaz de hablar con los muertos, descubre que su esposo y la hermana de este, Lady Lucille, esconden un sombrío secreto; y además, que las casas embrujadas no sólo existen en las novelas, porque la que ella habita, respira, sangra... y nunca olvida.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Romance",
+        "Drama",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0450385",
+      "type": "movie",
+      "name": "1408",
+      "poster": "https://image.tmdb.org/t/p/w500/8yUcWZRn2t13O959jyLULMYy47U.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/a4ZupLMg23auAw8e1j1K39PCO6z.jpg",
+      "description": "Basada en un relato de Stephen King, cuenta la historia de un escritor de novelas de terror (John Cusack) bastante escéptico. De hecho, se dedica a desacreditar fenómenos paranormales ocurridos en supuestas casas encantadas. Aunque no cree en la existencia de vida más allá de la muerte, sus ideas al respecto cambiarán cuando entre en la habitación 1408 del Hotel Dolphin.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0829150",
+      "type": "movie",
+      "name": "Drácula: La Historia Jamás Contada",
+      "poster": "https://image.tmdb.org/t/p/w500/bDtez5W2CtIN7HqQNLWKzY60yE4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oa0bHsnrD96miW3Yx10HWb211Sj.jpg",
+      "description": "El príncipe Vlad Tepes intercambia su humanidad por el poder para defender su tierra y gente de las fuerzas rudas del Imperio Otomano.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1588173",
+      "type": "movie",
+      "name": "Mi novio es un zombie",
+      "poster": "https://image.tmdb.org/t/p/w500/8XAX6KaqNGcLXcwoDwxyU0bxhxm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/faEe5nH1VP2xMmE8f9lgqjhsmYI.jpg",
+      "description": "R, un zombi con problemas existenciales, entabla una extraña amistad con la novia de una de sus víctimas. Esta insólita relación provoca una reacción en cadena que cambia su vida, la de otros zombis y probablemente la de todo el planeta.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Romance",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5215952",
+      "type": "movie",
+      "name": "En presencia del diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/yzDmuyQi8suLuUoY894A7nFsOKi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
+      "description": "La vida de un pueblo coreano es trastornada por una serie de asesinatos, salvajes y misteriosos, que azota por casualidad a la pequeña comunidad rural. Los rumores y las supersticiones se propagan a causa de la presencia, desde hace poco tiempo, de un anciano extranjero que vive como un ermita. Ante la incompetencia de la policía para encontrar al asesino y sin tener una explicación racional, algunos habitantes del pueblo buscan a un chamán. Jong-gu, un policía cuya familia está directamente amenazada, también cree que se trata de crímenes sobrenaturales…",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2226417",
+      "type": "movie",
+      "name": "La noche del demonio: Capítulo 2",
+      "poster": "https://image.tmdb.org/t/p/w500/xSGxOMeMUx8BfhlLgXh7MNbJul6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
+      "description": "Josh y Renai Lambert se han mudado con sus hijos a la casa de Lorraine, la madre de Josh, esperando olvidar el pasado y comenzar una nueva vida. Pero pronto la familia empieza a percibir extrañas visiones y fenómenos amenazantes que los obligarán a desentrañar un oscuro secreto.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0338526",
+      "type": "movie",
+      "name": "Van Helsing: Cazador de monstruos",
+      "poster": "https://image.tmdb.org/t/p/w500/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+      "description": "‎¡El legendario cazador de monstruos Van Helsing (Hugh Jackman) es convocado a la misteriosa Transilvania en una misión que lo empujará a una batalla arrolladora contra las fuerzas de la oscuridad! Con acción sin parar y efectos especiales electrizantes, Van Helsing es un evento cinematográfico impulsado por la adrenalina que Roger Ebert llama \"¡Espectacular!\"‎",
+      "releaseInfo": "2004",
+      "genres": [
+        "Terror",
+        "Aventura",
+        "Acción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31170389",
+      "type": "movie",
+      "name": "Evil Dead: En Llamas",
+      "poster": "https://image.tmdb.org/t/p/w500/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+      "description": "Tras la muerte de su esposo, una mujer busca consuelo en sus suegros. A medida que uno a uno se transforman en muertos vivientes, descubre que los votos que hizo en vida perduran incluso en la muerte.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9619824",
+      "type": "movie",
+      "name": "Destino final lazos de sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "description": "Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Monster house: La casa de los sustos",
+      "poster": "https://image.tmdb.org/t/p/w500/k31wCITusqBpVHdRG5QqOPqJGIO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg",
+      "description": "D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0187738",
+      "type": "movie",
+      "name": "Blade II",
+      "poster": "https://image.tmdb.org/t/p/w500/h6zm5DOu6Fm146nU0iqYkhkG6DO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/86b0NGY1i0bt3ckhkcHxiCSMxk1.jpg",
+      "description": "Una nueva raza de vampiros, los Reapers, surge para atacar tanto a los humanos como a los de su propia raza, causando el terror. El Consejo de la Sombra, un grupo de vampiros que teme por su supervivencia y que tiene su sede en Praga, contacta con Blade para que acabe con ellos.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Fantasía",
+        "Terror",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0468492",
+      "type": "movie",
+      "name": "El Huésped",
+      "poster": "https://image.tmdb.org/t/p/w500/p9JdO5qKKwpXwW7MCEHlZHX1Lpr.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
+      "description": "Los habitantes de Seúl observan sorprendidos un extraño objeto que cuelga de un puente sobre el río Han. El objeto es, en realidad, una monstruosa criatura mutante que al despertar devora a todo aquel que se cruza en su camino. En medio de tanto horror, la criatura mutante rapta a la hija del dueño de un quiosco que vive felizmente a la orilla del río. Mientras el ejército fracasa una y otra vez en sus intentos de destruir al monstruo, este hombrecillo anónimo y su familia intentan recuperar a su hija.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1502407",
+      "type": "movie",
+      "name": "Halloween",
+      "poster": "https://image.tmdb.org/t/p/w500/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8VjIXC2x8SHwAO52rfFpejKL4wc.jpg",
+      "description": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie \"Halloween\", ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt15791034",
+      "type": "movie",
+      "name": "Bárbaro",
+      "poster": "https://image.tmdb.org/t/p/w500/rHDL6LTRgc9h3oGkeoWVJpnkhTI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+      "description": "Una joven que viaja a Detroit para una entrevista de trabajo alquila una casa en la ciudad. Pero al llegar tarde a la noche, descubre que la casa fue reservada a dos personas y que hay un extraño alojándose allí. Contra su propio juicio, decide pasar la noche allí, pero pronto descubre que hay mucho más que temer que un huésped inesperado.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2870612",
+      "type": "movie",
+      "name": "Así en la Tierra como en el Infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/t979TJIaqOdZBokMWqMHZrfJLzW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg",
+      "description": "A lo largo de los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar y acaba averiguando cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0384537",
+      "type": "movie",
+      "name": "Terror en Silent Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/7mexPK2xZCNYrRDrNkw5tzcPkxU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/48TM0HjZSRjIr4QMuDTsMWcz7gX.jpg",
+      "description": "Tras un violento accidente automovilístico, seguido de la desaparición de su hija adoptiva Sharon. Rose Da Silva, una madre desesperada, emprende en la búsqueda de su hija en la retorcida realidad del pueblo: Silent Hill.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0119167",
+      "type": "movie",
+      "name": "Horas de terror",
+      "poster": "https://image.tmdb.org/t/p/w500/uPswXgI2pqkD8TbJm2yVeELqid5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg",
+      "description": "Anna, Georg y su hijo Georgie van a pasar las vacaciones a su bonita casa a orillas de un lago. Sus vecinos Fred y Eva han llegado antes que ellos. Las dos parejas quedan para jugar al golf al día siguiente. Mientras padre e hijo preparan el velero, Anna prepara la cena. De repente, Peter, un joven muy educado que se aloja en casa de los vecinos, se presenta para pedir que le presten algunos huevos porque a Eva no le queda ninguno. De repente, Anna se pregunta cómo ha podido entrar en la casa. El joven le explica que Fred le ha enseñado un agujero que hay en la cerca.  Poco a poco la familia verá como son invadidos por estos dos jóvenes, que les harán la vida imposible.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt17663992",
+      "type": "movie",
+      "name": "Scream 6",
+      "poster": "https://image.tmdb.org/t/p/w500/lZZxaXiHhm47gpq9iJgstDbiSlY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/k6ANeyxAfMRi5xhxIXv1Scn9vc2.jpg",
+      "description": "A pesar de iniciar una nueva vida en Nueva York, Ghostface continúa acechando nuevos asesinatos. Así que Sam, Tara, Mindy y Chad están dispuestos a no rendirse.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt33978029",
+      "type": "movie",
+      "name": "Boda sangrienta 2",
+      "poster": "https://image.tmdb.org/t/p/w500/tQV0X354U142Cao8Be6eUt38spS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "description": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5886046",
+      "type": "movie",
+      "name": "Escape Room: Sin Salida",
+      "poster": "https://image.tmdb.org/t/p/w500/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mWLljCmpqlcYQh7uh51BBMwCZwN.jpg",
+      "description": "Seis extraños que se ven envueltos en circunstancias más allá de su control deben usar su ingenio para sobrevivir.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0099871",
+      "type": "movie",
+      "name": "Alucinaciones del pasado",
+      "poster": "https://image.tmdb.org/t/p/w500/1wSyCFk53Xx7kVU76bLEDWk6BgA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oubk1SEFtg3Q8eOncFvGQVa6OoP.jpg",
+      "description": "El cartero neoyorkino Jacob Singer intenta evitar que los jirones de su vida terminen de deshilacharse. Lo acosan incesantes flashbacks de su primer matrimonio, de su hijo muerto y de su periodo de servicio en Vietnam. En su nueva esposa busca un asidero hacia la lucidez, pero la línea entre la realidad y el delirio se hace cada vez más delgada. Tim Robbins protagoniza una escalofriante historia de un hombre que desciende al infierno, brillantemente dirigida por Adrian Lyne.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0103873",
+      "type": "movie",
+      "name": "Muertos de miedo",
+      "poster": "https://image.tmdb.org/t/p/w500/8ppAsvY7HPoNzNvAmkgjx7FTRpw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/z07GWpT24sV7PDaaRKm71W63yAC.jpg",
+      "description": "Un científico descubre en Skull Island un ejemplar muy extraño de mono rata al que acompaña una terrible maldición, según los nativos. El ejemplar es trasladado a Nueva Zelanda para su estudio. Por otra parte, Lionel es un joven que vive con su insoportable madre, que no aprueba la relación que acaba de comenzar con Paquita, la hija del tendero. Cuando los dos enamorados realizan una visita al zoológico, ella les vigila en secreto, y será mordida por el animal encontrado en la isla. Poco a poco, la madre de Lionel se va convirtiendo en una especie de zombie, sedienta de carne, y que convierte en zombie a todo el que ataca.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21807222",
+      "type": "movie",
+      "name": "Saw X: El juego del miedo",
+      "poster": "https://image.tmdb.org/t/p/w500/hx6riiVXOLo3fdFaT3dU9gSlHIb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+      "description": "Entre los acontecimientos de 'Saw' y 'Saw II', un enfermo y desesperado John Kramer viaja a México para someterse a un procedimiento médico arriesgado y experimental con la esperanza de encontrar una cura milagrosa para su cáncer, sólo para descubrir que toda la operación es una estafa para defraudar a los más vulnerables. Ahora con un nuevo propósito, el infame asesino en serie regresa a su trabajo, dándole la vuelta a los estafadores en su forma visceral característica a través de trampas tortuosas, trastornadas e ingeniosas.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13375076",
+      "type": "movie",
+      "name": "El Exorcista del Papa",
+      "poster": "https://image.tmdb.org/t/p/w500/kdknWP9bsQfS6I6aZQyJGBmhn2t.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "description": "El Padre Gabriele Amorth, Exorcista Principal del Vaticano investiga la terrorífica posesión de un niño y termina descubriendo una conspiración que hace siglos fue encubierta de manera desesperada por el Vaticano.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13560574",
+      "type": "movie",
+      "name": "X",
+      "poster": "https://image.tmdb.org/t/p/w500/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
+      "description": "En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt15474916",
+      "type": "movie",
+      "name": "Sonríe",
+      "poster": "https://image.tmdb.org/t/p/w500/hQTl9lp8rKY7qKQSudsdd8Duo8K.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+      "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar y afecta todos los aspectos de su vida.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1187064",
+      "type": "movie",
+      "name": "El triángulo",
+      "poster": "https://image.tmdb.org/t/p/w500/rXfbBfZsj8QOsLEszXN0iURWht.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "description": "Cuando Jess, de camino al puerto, atropella a una gaviota, no se imagina que se trata de un mal presagio. Cuando llega al yate, donde lo espera un grupo de amigos, nota que algo va mal, pero no acierta a saber por qué. Sus temores se acrecientan cuando se desencadena una tormenta que obliga al grupo a abandonar el yate para subir a otro barco, en el que Jess tiene la sensación de haber estado antes. El barco parece desierto, pero no están solos. Alguien los está cazando uno a uno. Y Jess, sin saberlo, tiene la llave que puede acabar ese horror.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32246771",
+      "type": "movie",
+      "name": "Haz que regrese",
+      "poster": "https://image.tmdb.org/t/p/w500/7Gh8dMAGNMvyr5YA2H1KgJK3wq3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+      "description": "Tras el fallecimiento de su padre, dos hermanos son adoptados por una mujer que vive en el bosque y cuyas actitudes les generan sospechas.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28015403",
+      "type": "movie",
+      "name": "Hereje",
+      "poster": "https://image.tmdb.org/t/p/w500/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+      "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5040012",
+      "type": "movie",
+      "name": "Nosferatu",
+      "poster": "https://image.tmdb.org/t/p/w500/jivUhECegXI3OYtPVflWoIDtENt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gprjiZWY43vxSKngMha1wfb5TGG.jpg",
+      "description": "Una historia gótica de obsesiones entre una joven atormentada en la Alemania del siglo XIX y el antiguo vampiro de Transilvania que la acecha, trayendo consigo un inefable horror.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6246322",
+      "type": "movie",
+      "name": "No Respires 2",
+      "poster": "https://image.tmdb.org/t/p/w500/o0kJOePRfC59exAb7e3wrCTSMbK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3ULzK4XTSC1wal11K7459fxnjjA.jpg",
+      "description": "En No Respires 2, la emocionante secuela del gran éxito, nos reencontramos con Norman Nordstrom (Stephen Lang), quien se ha estado escondiendo durante varios años en una cabaña aislada. Vive con una jovencita y ha recreado la familia que le fue robada por un conductor ebrio. Su tranquila vida se hace añicos cuando un grupo de criminales secuestra a la chica. Norman se ve obligado a recurrir a instintos aún más oscuros y creativos para salvarla.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9701940",
+      "type": "movie",
+      "name": "La calle del terror (Parte 2): 1978",
+      "poster": "https://image.tmdb.org/t/p/w500/jPcLH9QHrRb9ZRplxWOMO38ImL8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oMnJhVFr0xVfxy4HPBt1LDKoFgV.jpg",
+      "description": "En 1978, Camp Nightwing está dividido en campistas que vinieron del pueblo oprimido de Shadyside y consejeros que vinieron del próspero pueblo de Sunnyvale. Cuando los horrores del pasado de ambos pueblos cogen fuerza, estos dos grupos deberán unirse para resolver un misterio terrorífico.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1077258",
+      "type": "movie",
+      "name": "Planeta Terror",
+      "poster": "https://image.tmdb.org/t/p/w500/2pgREV7OEvVYje046gOgkfNMXA6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iZBUOcku0xv9MMfiEMXiDqErPXl.jpg",
+      "description": "Mientras los afectados por un extraño virus se convierten en un ejército de agresores enloquecidos, Cherry, una bailarina de striptease lisiada, y su ex-novio Wray dirigen un espontáneo equipo de guerreros, adentrándose en la noche hacia un destino que dejará millones de afectados, infinidad de muertos y unos cuantos afortunados supervivientes que lucharán por encontrar el último rincón seguro en el mundo.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120082",
+      "type": "movie",
+      "name": "Scream 2: Grita y vuelve a Gritar",
+      "poster": "https://image.tmdb.org/t/p/w500/kFFPrFxVHj9DWzDA6h0CqFlUEOW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lVmcX3hlJqsUGkEOEZkRFiOQdLv.jpg",
+      "description": "Dos años después de los asesinatos de Woodsboro, Sidney Prescott se adapta a la vida universitaria mientras alguien disfrazado de Ghostface comienza una nueva serie de asesinatos.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11245972",
+      "type": "movie",
+      "name": "Scream (Grita)",
+      "poster": "https://image.tmdb.org/t/p/w500/uWKJyIISWzP7KmB2vcgrX7xyhUh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+      "description": "Veinticinco años después de que una racha de asesinatos brutales conmocionara a la tranquila ciudad de Woodsboro, un nuevo asesino imitador se ha puesto la máscara de Ghostface para resucitar secretos mortales del pasado.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt26584495",
+      "type": "movie",
+      "name": "Compañera perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/m68uoULpxeDkmCetbhftXCgP1TZ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+      "description": "La muerte de un multimillonario desencadena una cadena de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su propiedad junto al lago.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10620868",
+      "type": "movie",
+      "name": "#Vivo",
+      "poster": "https://image.tmdb.org/t/p/w500/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/k2SY15W9QXH9qL8f4a4BbytV1BE.jpg",
+      "description": "La rápida propagación de una infección desconocida ha dejado a toda una ciudad en un caos ingobernable, pero un sobreviviente sigue vivo aislado. Esta es su historia.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt27534307",
+      "type": "movie",
+      "name": "No hables con extraños",
+      "poster": "https://image.tmdb.org/t/p/w500/4rFJZjGPZjeOg8LpdeXpWB7uzJ1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+      "description": "Cuando una familia estadounidense es invitada a pasar el fin de semana en la idílica finca de una familia británica con la que hicieron amistad durante las vacaciones, lo que comienza como unas vacaciones de ensueño pronto se convierte en una pesadilla psicológica.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14966898",
+      "type": "movie",
+      "name": "De Noche Con El Diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/jga2jfUWXuVdaBn3WojJooLTSeC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+      "description": "Una transmisión de televisión en vivo en 1977 sale terriblemente mal, desatando el mal en las salas de estar de la nación",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5886440",
+      "type": "movie",
+      "name": "Secretos ocultos",
+      "poster": "https://image.tmdb.org/t/p/w500/sQYr9634GY0ZRX68pyEh1XNXhCR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+      "description": "Cuatro hermanos, temiendo que les separen tras la muerte de su madre, se esconden del mundo en su abandonada granja, un lugar cuyas viejas paredes esconden un terrible secreto...",
+      "releaseInfo": "2017",
+      "genres": [
+        "Suspense",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8244784",
+      "type": "movie",
+      "name": "La Cacería",
+      "poster": "https://image.tmdb.org/t/p/w500/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+      "description": "Doce desconocidos despiertan en el claro de un bosque. No se conocen, pero tienen algo en común: un grupo de millonarios los ha elegido para divertirse cazándolos como si fueran animales salvajes. No obstante, algunos venderán cara su piel.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1034415",
+      "type": "movie",
+      "name": "Suspiria: El maligno",
+      "poster": "https://image.tmdb.org/t/p/w500/6wkPtxXs8OgswEQSx0cgpMNSqiy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+      "description": "Susie Bannion es una joven estadounidense que viaja a Berlín para cursar sus estudios de danza en una de las escuelas más prestigiosas del mundo, dirigida por Madame Blanc. El mismo día en el que ingresa en la escuela, una de las alumnas recientemente expulsada es asesinada. No se trata de un hecho aislado, lo que hace sospechar a la brillante estudiante sobre la implicación de la escuela en los homicidios. Su desconfianza aumenta cuando una compañera le cuenta que antes de que Pat muriera, ésta le confesó que conocía un terrorífico secreto.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0113409",
+      "type": "movie",
+      "name": "En La Boca Del Miedo",
+      "poster": "https://image.tmdb.org/t/p/w500/sBcKsjV9eEGj1m9dA7P4vwrnoA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/uofxTi1d3IIAdRdyzKl5se5PGf1.jpg",
+      "description": "Un investigador de seguros comienza a descubrir que el impacto que los libros de un escritor de terror tienen en sus fanáticos es más que inspirador.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0489270",
+      "type": "movie",
+      "name": "El juego del miedo 3",
+      "poster": "https://image.tmdb.org/t/p/w500/rfwlLuptcyQNhSivC4CsPKjSpOg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qx8Pb3nVnHLBizI9792pbRN5nnm.jpg",
+      "description": "Nuevas y macabras aventuras del siniestro Jigsaw, el hombre que mueve los hilos de los espantosos juegos que han aterrorizado a la comunidad y desconcertado a la policía. Jigsaw, una vez más, ha conseguido escapar, esta vez con la ayuda de su nueva aprendiz, Amanda (Shawnee Smith). Mientras la policía local intenta localizarle, el Doctor Lynn Denlon (Bahar Soomekh) y Jeff (Angus Macfayden) no saben que están a punto de convertirse en los siguientes peones de este horrible juego.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8359848",
+      "type": "movie",
+      "name": "Climax",
+      "poster": "https://image.tmdb.org/t/p/w500/oo8ZbKZaSFAOv96dokRTLJ29OAs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/v0sblc9A8eaE8EqDQ5Y6fELj4oB.jpg",
+      "description": "A mediados de los años noventa, veinte jóvenes bailarines de danza urbana que se habían reunido para unas jornadas de tres días de ensayos en un internado en desuso situado en el corazón de un bosque, hacen su último baile común y luego festejan una última fiesta de celebración alrededor de una gran fuente de sangría. Pronto, la atmósfera se vuelve eléctrica y una extraña locura los atrapará toda la noche. Les parece obvio que han sido drogados, pero no saben por quién o por qué.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0104070",
+      "type": "movie",
+      "name": "La Muerte le Sienta Bien",
+      "poster": "https://image.tmdb.org/t/p/w500/beUIK0mI8UELyX8gJtmP8hvKd63.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vDFhaKEMKPIUePtQH2nOwSHfgPy.jpg",
+      "description": "Madeline está casada con Ernest, quien alguna vez fue el novio de su archirrival Helen. Después de recuperarse de un colapso mental, Helen jura matar a Madeline y recuperar a Ernest. Desafortunadamente para todos, la introducción de una poción mágica hace que las cosas sean mucho más complicadas que una simple trama de asesinato.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Comedia",
+        "Fantasía",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8036976",
+      "type": "movie",
+      "name": "¡Ayuda!",
+      "poster": "https://image.tmdb.org/t/p/w500/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+      "description": "Después de que un accidente de avión deje varados en una isla remota a una capaz empleada y a su molesto jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4530422",
+      "type": "movie",
+      "name": "Operación Overlord",
+      "poster": "https://image.tmdb.org/t/p/w500/yqNyR7GRO02KWpvPP4NGy58uiBM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/10wHo9VmDvBW9wtSZ26bgjm9GKY.jpg",
+      "description": "La víspera del Día-D, un grupo de soldados aliados son enviados a la Francia ocupada por los nazis para completar una misión esencial para la victoria en la guerra. Sobre el terreno, descubren un laboratorio nazi en el que se llevan a cabo grotescos y descabellados experimentos con los habitantes de la localidad.  La formación básica que han recibido no les ha preparado para lo que tendrán que afrontar -habrán de salvar al mundo de una despiadada amenaza, librando una desigual batalla con una tropa de super soldados manipulados genéticamente...",
+      "releaseInfo": "2018",
+      "genres": [
+        "Terror",
+        "Bélica",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2494362",
+      "type": "movie",
+      "name": "Frontera caníbal (Bone Tomahawk)",
+      "poster": "https://image.tmdb.org/t/p/w500/rFAE4LhOsjevrhUmYoVtRLuy6I6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+      "description": "A la localidad de Bright Hope llega un forastero que rápidamente despierta las sospechas del sheriff, que termina por arrestarlo tras dispararle en la pierna. Samantha O'Dwyer se encarga de extraerle la bala en el calabozo. Pero esa noche un joven en un establo es asesinado y el ayudante del sheriff, la Sra. O'Dwyer y el detenido han desaparecido. Siguiendo la única pista que tiene, una flecha india, el sheriff buscará a la joven con la ayuda de algunos hombres, entre ellos un vaquero y un anciano.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Western"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10327252",
+      "type": "movie",
+      "name": "La Purga Por Siempre",
+      "poster": "https://image.tmdb.org/t/p/w500/r2t07ky5WFRiI0bXLRIQCjalNkj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg",
+      "description": "Todas las reglas se rompen cuando una secta de merodeadores sin ley decide que la Purga anual no se detiene al amanecer y, en cambio, nunca debe terminar mientras persiguen a un grupo de inmigrantes a quienes quieren castigar debido a su duro pasado histórico.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10731256",
+      "type": "movie",
+      "name": "No te preocupes cariño",
+      "poster": "https://image.tmdb.org/t/p/w500/mdeOcC0AiwEYpRhdd8TeW4hFcLO.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tfCNMP37jRX3TOetuce7FLkxNKa.jpg",
+      "description": "Alice y Jack tienen la suerte de vivir en la comunidad idealizada de Victoria, una ciudad experimental de la compañía en donde los hombres que trabajan para el Proyecto Victoria de alto secreto viven con sus familias. El optimismo por el estilo de vida de la sociedad en los años 50 que tiene el Director General, Frank, visionario corporativo y Coach Motivacional de Estilo de Vida, ancla todos los aspectos utópicos de la vida diaria y unida en el desierto. Pero cuando empiezan a aparecer grietas en su idílica vida, exponiendo destellos de algo mucho más siniestro que se esconde bajo la atractiva fachada, Alice no puede evitar cuestionarse exactamente qué están haciendo en Victoria, y por qué.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1262416",
+      "type": "movie",
+      "name": "Scream 4",
+      "poster": "https://image.tmdb.org/t/p/w500/cN5uMOuOJj9KY3RtTOM9ocbMIwi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/c5EmNhLQsTTKAyUHULnKYQjlloz.jpg",
+      "description": "Quince años después de los asesinatos originales de Woodsboro, Sidney Prescott regresa a casa para promocionar su nuevo libro sobre cómo sobrevivir a un trauma, solo para encontrarse con un nuevo asesino con el apodo de Ghostface, que tiene como objetivo a un nuevo grupo de adolescentes.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13433802",
+      "type": "movie",
+      "name": "Un lugar en silencio: Día uno",
+      "poster": "https://image.tmdb.org/t/p/w500/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+      "description": "Mientras la ciudad de Nueva York es invadida por criaturas alienígenas que cazan mediante el sonido, una mujer llamada Sammy lucha por sobrevivir.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1127180",
+      "type": "movie",
+      "name": "Arrástrame al infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/l7RuQEkg2yTF04mHrE7kBKf7S3A.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/3tvwsRSIDgwJuaGdh67XZ942UMy.jpg",
+      "description": "La joven Christine Brown, ambiciosa apoderada de un banco de Los Ángeles, sale con un hombre encantador, el profesor Clay Dalton. El trabajo de Christine consiste en conceder préstamos hipotecarios. Un día la señora Ganush, una misteriosa anciana, va al banco para pedirle una moratoria, pero Christine se la niega y la señora Ganush pierde su casa. La anciana decide entonces vengarse lanzándole una maldición que convierte su vida en un infierno. Ante la incomprensión de su escéptico novio, Christine busca la ayuda de un vidente para salvar su alma de una condenación eterna. Intentando ayudarla a recobrar una vida normal, el vidente la guía en una frenética carrera para conjurar el hechizo. Pero las fuerzas del mal se acercan y Christine debe enfrentarse a algo impensable.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9701942",
+      "type": "movie",
+      "name": "La calle del terror (Parte 3): 1666",
+      "poster": "https://image.tmdb.org/t/p/w500/ouTHprNeiOYDS5zw5x7wrBF79q7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jLeOzQLZJEpmAMDnfKMmORFGuV.jpg",
+      "description": "En 1666, un pueblo colonial sufre una caza de brujas que tiene consecuencias letales durante siglos. Está en manos de los jóvenes de 1994 poner fin a esta maldición",
+      "releaseInfo": "2021",
+      "genres": [
+        "Misterio",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1675192",
+      "type": "movie",
+      "name": "Atormentado",
+      "poster": "https://image.tmdb.org/t/p/w500/915o7bvyYyOtU8u7UWax9CDQh83.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7HtE5hLVTEvFKQC33wK7XAnIdFk.jpg",
+      "description": "Curtis LaForche vive en un pequeño pueblo de Ohio con su mujer, Samantha, y su hija Ana, una niña sorda de seis años. Curtis empieza a sufrir fuertes alucinaciones apocalípticas. Unas alucinaciones que no sabe si son consecuencia de una enfermedad mental o se trata de premoniciones reales...",
+      "releaseInfo": "2011",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4062536",
+      "type": "movie",
+      "name": "Habitación verde",
+      "poster": "https://image.tmdb.org/t/p/w500/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
+      "description": "Los miembros de una banda de punk presencian un asesinato en un bar de neonazis. Encerrados en una habitación del recinto, el dueño del bar no quiere dejar testigos del crimen, por lo que deberán luchar por sus vidas. Asediados por la banda de cabezas rapadas, sus opciones son escapar o morir.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Crimen",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0119081",
+      "type": "movie",
+      "name": "Event Horizon: La Nave De La Muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/tZyQVjN6VBrIy19sLIEGJhBpADh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
+      "description": "En el año 2047, la nave de rescate \"Lewis and Clark\" es enviada a investigar la misteriosa reaparición en la órbita de Neptuno de una nave experimental, la \"Horizonte Final\", desaparecida años antes con toda su tripulación. En el año 2040, la nave \"Event Horizon\" fue lanzada al espacio para explorar los confines del universo, pero desapareció sin dejar rastro. Mientras la misión de rescate intenta averiguar cuál ha sido el destino de los desaparecidos, a bordo de la nave tienen lugar extraños sucesos.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1974419",
+      "type": "movie",
+      "name": "El demonio neón",
+      "poster": "https://image.tmdb.org/t/p/w500/ab8GizztL1Cjf4ydf8JjXWZHnqH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/djwY73Uilfe7B8jKRmSuxjet9UF.jpg",
+      "description": "Jesse, una aspirante a modelo, se muda a Los Ángeles, donde es reclutada por un magnate de la moda como su musa. Al entrar en la industria del modelado en la ciudad, se encuentra con que su vitalidad y juventud son devorados por un grupo de mujeres obsesionadas con la belleza, las cuales van a utilizar cualquier medio para conseguir lo que tiene.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0862856",
+      "type": "movie",
+      "name": "Terror en Halloween",
+      "poster": "https://image.tmdb.org/t/p/w500/7EahylhEkIL1AbGD1XIAJMCtr2z.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/wYI3r4DGKhwjPoDpfPfGdLMrPLt.jpg",
+      "description": "Cuatro historias entrelazadas que ocurren en Halloween: un director de escuela secundaria tiene una vida secreta como asesino en serie; una virgen universitaria podría haber conocido al único tipo para ella; un grupo de adolescentes saca una broma mala; un viejo recluso amargado recibe un invitado no invitado.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Fantasía",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120681",
+      "type": "movie",
+      "name": "Desde el Infierno",
+      "poster": "https://image.tmdb.org/t/p/w500/fv29GwNS1NOgsr4NAdghOlQXkup.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bHKj3m3eLlU2wJQBlAs7wv6ZMBv.jpg",
+      "description": "Basada en la historia de Jack el Destripador y el cómic de Alan Moore. Amanece en Whitechapel, el barrio más sórdido de Londres, donde las drogas, la enfermedad y la miseria campan a sus anchas. Cinco chicas dedicadas a la prostitución se encuentran amenazadas por un terrible monstruo que podría robarles su única posesión: la vida. El único que se toma la molestia por protegerlas es el Inspector Fred Abberline que con la ayuda de su amigo el sargento Godley, trata de desentrañar una espeluznante conspiración. A medida que los salvajes asesinatos se suceden, los dos hombres ven obstaculizado su trabajo por unos superiores más interesados en esconder los crímenes bajo la alfombra que en encontrar al verdadero asesino, un sádico loco destinado a pasar a la historia.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0235198",
+      "type": "movie",
+      "name": "Audición",
+      "poster": "https://image.tmdb.org/t/p/w500/sZziquV7cVk8LiI9HwYnQeATW0c.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4lrtdOMClphs6RpkslKp6gTr5LZ.jpg",
+      "description": "Un cuarentón viudo, a propuesta de un amigo, convoca un casting para una inexistente película con la intención de encontrar una nueva esposa.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4262980",
+      "type": "movie",
+      "name": "Shin Godzilla",
+      "poster": "https://image.tmdb.org/t/p/w500/iBUgBTHljQh61QabZRJrGDRfP2f.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tb0uo01w2kDHiQwTszsLlSusAm4.jpg",
+      "description": "Godzilla, fuerza destructiva insondable para el hombre, resucita en el Tokio de hoy en día para acosar de nuevo a la civilización. Un país aún atormentado por las secuelas de un desastre natural, experimenta de repente el horror catastrófico de Godzilla. Apremiado por la muerte y la desesperación, Japón deberá encontrar el poder para superar este desafío.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt32141377",
+      "type": "movie",
+      "name": "Exterminio: El templo de huesos",
+      "poster": "https://image.tmdb.org/t/p/w500/6yUxfwcDYR0RRfbxwGA7rhwreWU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "description": "El Dr. Kelson se encuentra en una nueva relación impactante, con consecuencias que podrían cambiar el mundo tal como lo conocen, y el encuentro de Spike con Jimmy Crystal se convierte en una pesadilla de la que no puede escapar.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt31434030",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "https://image.tmdb.org/t/p/w500/4RLVdwteTYa3WxanwR5nDsOOUjY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+      "description": "Tras la muerte de su esposa, un príncipe del siglo XV renuncia a Dios y se convierte en vampiro. Siglos más tarde, en el Londres del siglo XIX, ve a una mujer parecida a su difunta esposa y la persigue, sellando así su propio destino.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Fantasía",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0440803",
+      "type": "movie",
+      "name": "Están entre nosotros",
+      "poster": "https://image.tmdb.org/t/p/w500/beLbI3dd3fH2maPrpKsJnoCrdtJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cX48taTcXP2oGXPvka8QFa4f4Qb.jpg",
+      "description": "Avanzada la noche, en una carretera rural, Tun y Jane atropellan accidentalmente a un misterioso peatón. Huyen de la escena y regresan a su quehacer cotidiano en Bangkok. Sin embargo, algunos fenómenos sin explicación empiezan a convertir su vida en una pesadilla constante. Jane se ve asediada por terribles sueños. Tun, fotógrafo de profesión, percibe extrañas figuras espectrales que empiezan a aparecer en sus fotografías. Cuando deciden regresar al lugar del accidente para investigar, no queda ningún rastro de la víctima ni noticia alguna sobre su desaparición o sobre el descubrimiento del cadáver. Sin embargo, uno a uno, van muriendo los amigos más próximos de Tun. Tanto él como Jane saben muy bien que deben resolver este misterio antes de que sea éste el que destruya sus propias vidas.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0404032",
+      "type": "movie",
+      "name": "El exorcismo de Emily Rose",
+      "poster": "https://image.tmdb.org/t/p/w500/1bja85kAiYzBYNokq6LHWLFf4UJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eHT36hVNslbJXCY3SXgtzxPE3cl.jpg",
+      "description": "Una abogada agnóstica defiende a un sacerdote acusado de un homicidio por negligencia durante el exorcismo de una estudiante llamada Emily Rose, desencadenando un juicio legal que cuestiona la línea entre lo sobrenatural y lo científico.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3811906",
+      "type": "movie",
+      "name": "Maligno",
+      "poster": "https://image.tmdb.org/t/p/w500/3Lq3VTrxyMjIMiI91rI6RPqScsu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+      "description": "Madison está paralizada por visiones impactantes de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras con un lazo misterioso con su pasado.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0256009",
+      "type": "movie",
+      "name": "El espinazo del diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/wKHHsu1awdIUHq6OlkMoxEPNylB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iUFylO8khUHGiSJanUZQfzZYyXI.jpg",
+      "description": "España, 1939. En los últimos días de la guerra civil española, el joven Carlos llega al orfanato de Santa Lucía, donde hará amigos y enemigos mientras sigue los quedos pasos de una misteriosa presencia ávida de venganza…",
+      "releaseInfo": "2001",
+      "genres": [
+        "Fantasía",
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0178868",
+      "type": "movie",
+      "name": "El aro",
+      "poster": "https://image.tmdb.org/t/p/w500/oDKGrh3f8GtSFhWsNdthSo3o7U1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sGhbO6muh1Fnpa7nkxYCfvmgWCo.jpg",
+      "description": "Un video misterioso se ha relacionado con un número de muertes, y cuando un periodista inquisitivo encuentra la cinta y la ve ella misma, ella pone en marcha una cadena de acontecimientos que pone su propia vida en peligro.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0142688",
+      "type": "movie",
+      "name": "La Última Puerta",
+      "poster": "https://image.tmdb.org/t/p/w500/qsbz08kV9geGk6EI7X5NhzsfXLY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qVyN9czTgRJ2SAA2BLXESzQEVgz.jpg",
+      "description": "Dean Corso (Johnny Depp) es un bibliófilo dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Es, además, un hombre extremadamente minucioso y eficaz en su trabajo. Gracias a su reputación, Boris Balkan, un coleccionista de textos satánicos, le encarga una misión muy peligrosa: encontrar los dos últimos ejemplares del legendario manual de invocación satánica ”Las Nueve Puertas del Reino de las Sombras”; pero los recursos de Corso son ilimitados. De Nueva York a Toledo, de París a Sintra, se verá inmerso en un laberinto lleno de peligros y tentaciones, aterradoras sorpresas, violencia y muertes inesperadas.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt22898462",
+      "type": "movie",
+      "name": "El Conjuro 4: Últimos ritos",
+      "poster": "https://image.tmdb.org/t/p/w500/mCzTN28knc7dNFFwBPyQ3MVXzU8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
+      "description": "En 1986, los investigadores paranormales, Ed y Lorraine Warren, salen de su retiro para investigar, junto con su hija adulta Judy y su compañero Tony, el caso Smurl, una entidad demoníaca más oscura.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7914416",
+      "type": "movie",
+      "name": "カメラを止めるな！",
+      "poster": "https://image.tmdb.org/t/p/w500/3mzJ76DXAnZv4bVjg3RXB3fwqf2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oslUsPw3PUhDVK7a5soTvCAuaO7.jpg",
+      "description": "Llegan verdaderos zombis y aterrorizan al equipo de una película de zombis que se filma en un almacén abandonado, que se dice es el lugar de experimentos militares con humanos.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10548174",
+      "type": "movie",
+      "name": "Exterminio: La evolución",
+      "poster": "https://image.tmdb.org/t/p/w500/gc5oHGz2AugoAlnfsmie1I0ZdOM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+      "description": "Casi tres décadas desde que el virus de la ira escapó de un laboratorio de armas biológicas. Uno de los supervivientes abandona la pequeña isla en una misión hacía el oscuro corazón del continente, descubriendo secretos, maravillas y horrores que han mutado no sólo a los infectados, sino también a otros supervivientes.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0454841",
+      "type": "movie",
+      "name": "El despertar del diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/uQBT59dMWt4FsElTWPIqbld93Ud.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+      "description": "La película gira en torno a los Carter, una familia de clase media cuyas vacaciones, acompañando a sus padres en sus bodas de plata, quedan truncadas cuando su caravana sufre un extraño accidente en el desierto de Nuevo México. Aislados del mundo, pronto se darán cuenta de que no están solos: en las colinas habita una estirpe de sanguinarios mutantes fruto de las continuas pruebas nucleares del ejército,como son Gruñidos y Slott y que no dudarán en aniquilar a los Carter de las formas más espeluznantes.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0263488",
+      "type": "movie",
+      "name": "El demonio",
+      "poster": "https://image.tmdb.org/t/p/w500/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/m0yTFeh8vrsMP0fQDdYGSh4xthX.jpg",
+      "description": "Trish Jenner y su hermano menor Derry cruzan los Estados Unidos en coche, en un viaje largo y aburrido cuya monotonía sólo se rompe por sus continuas discusiones. De pronto, en mitad de ninguna parte, descubren una iglesia abandonada cuyo tejado está cubierto por una espesa bandada de cuervos y ven como un misterioso personaje arroja un bulto al interior de una gran boca del alcantarillado. A partir de ese momento comienzan una huída aterradora, perseguidos por una de las criaturas más letales que se pueda imaginar.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6566576",
+      "type": "movie",
+      "name": "La calle del terror (Parte 1): 1994",
+      "poster": "https://image.tmdb.org/t/p/w500/2WcW0FsIjIqFO2act1lQrdX7nLv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vu5Y8qFqlzcboDbbZIMTAgj0KLb.jpg",
+      "description": "En 1994, un grupo de adolescentes descubre que los sucesos que aterrorizan su ciudad desde hace generaciones podrían estar conectados. Además, puede que ahora les toque a ellos protagonizar la pesadilla. Primera parte de la trilogía basada en las famosas novelas de miedo de R. L. Stine.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt29344903",
+      "type": "movie",
+      "name": "La hermanastra fea",
+      "poster": "https://image.tmdb.org/t/p/w500/4KjMMLHqKcAxNRTd5mhMDtNXW1P.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/kG8bBajeSTUxJGmS47WujcraZUk.jpg",
+      "description": "En un reino de cuento de hadas donde la belleza es un asunto brutal, Elvira lucha para competir con su increíblemente bella hermanastra Cenicienta, y hará lo que sea para llamar la atención del príncipe.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8850222",
+      "type": "movie",
+      "name": "Estación Zombie 2: Península",
+      "poster": "https://image.tmdb.org/t/p/w500/13dg7spa8jNtHQ3MFUEnLERhIiR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg",
+      "description": "Después de que la infección que se extendió hace 4 años, solo algunas partes de Corea del Sur permanecen resguardadas, aunque la Península de Busan es la única parte en donde pueden buscar refugio los coreanos, muchos aún mantienen la esperanza de ser rescatados por ayuda internacional.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Terror",
+        "Acción",
+        "Suspense",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0870984",
+      "type": "movie",
+      "name": "Anticristo",
+      "poster": "https://image.tmdb.org/t/p/w500/o9Tvsej9AjBDQqRzxdXIZS5cNiJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/utABPVjXBlM8NUOBecCyLLuzQSe.jpg",
+      "description": "Una pareja afligida se retira a su cabaña «Edén» en el bosque, con la esperanza de reparar sus corazones rotos y su matrimonio en problemas. Pero la naturaleza sigue su curso y las cosas empeoran.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt16300962",
+      "type": "movie",
+      "name": "Cuando acecha la maldad",
+      "poster": "https://image.tmdb.org/t/p/w500/9Ly4S99McgnhO50XikTGguPFNvo.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cavK9ox37pxDg11RvJINMH63onU.jpg",
+      "description": "Los vecinos de un pequeño pueblo rural descubren que un demonio está a punto de nacer entre ellos. Intentan desesperadamente escapar antes de que nazca el mal, pero puede que sea demasiado tarde.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2388715",
+      "type": "movie",
+      "name": "Oculus: El reflejo del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/pdsrNerOmRUKJVMKyKHsP4zF3cS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o0EQmMhHA6Gpf7MS7KxPafWqTPp.jpg",
+      "description": "Hace tiempo que un asesinato dejó huérfanos a dos niños. Las autoridades culparon al hermano, pero la hermana creció creyendo que el verdadero culpable había sido un antiguo espejo maldito. Ahora, completamente rehabilitado y con veinte años cumplidos, el hermano está listo para empezar de nuevo, pero la hermana está decidida a demostrar que fue el espejo lo que destrozó a su familia.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13403046",
+      "type": "movie",
+      "name": "Fresh",
+      "poster": "https://image.tmdb.org/t/p/w500/kM3vDd8qtcM1zkXonZgG8rhb69x.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+      "description": "Thriller sobre los horrores de las citas modernas vistos a través de la desafiante batalla de una joven para sobrevivir a los inusuales apetitos de su nuevo novio.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1020530",
+      "type": "movie",
+      "name": "Silencio en el lago",
+      "poster": "https://image.tmdb.org/t/p/w500/wXV5F5Q6DI4KZtnuRH4zgTbSucN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg",
+      "description": "Steve (Michael Fassbender) organiza una escapada romántica de fin de semana con su novia Jenny (Kelly Reilly), a la que planea pedir matrimonio. Sin embargo, en el tranquilo Lago Edén se encuentran con un grupo de adolescentes problemáticos que convierten lo que pudo ser un fin de semana paradisíaco en su peor pesadilla.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1228987",
+      "type": "movie",
+      "name": "Déjame entrar",
+      "poster": "https://image.tmdb.org/t/p/w500/zF0tiUQOogKjyhABKwcPliF26GL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4olBDCPKiKhyECMK7fNVp8iG1uF.jpg",
+      "description": "Owen es un niño triste, maltratado por sus compañeros de clase y abandonado por sus padres divorciados; sin embargo, algo cambiará en su solitaria vida cuando conozca a Abby, una nueva y misteriosa vecina, que vive con su silencioso padre, y con quien entablará una particular amistad.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0116365",
+      "type": "movie",
+      "name": "Muertos de miedo",
+      "poster": "https://image.tmdb.org/t/p/w500/kAK7wscHEtgvUnMLzvkW2DxuLJ7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/krR08gys45BTnY3qXIfBJVDKrvK.jpg",
+      "description": "Una vez un arquitecto, Frank Bannister ahora se hace pasar como un exorcista de espíritus malignos. Para sostener su fachada, afirma que su regalo «especial» es el resultado de un accidente de tráfico que mató a su esposa. Pero con qué no cuenta es más personas que mueren en la pequeña ciudad donde vive. Como intenta a la pieza juntos el misterio sobrenatural de estas matanzas, se cae enamorado de la esposa de una de las víctimas y trata con un Agente del FBI loco.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14138650",
+      "type": "movie",
+      "name": "Los crímenes de la academia",
+      "poster": "https://image.tmdb.org/t/p/w500/q6xHynnnKepa4WUfqpwUlJjFuec.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/b08BDQPq42AoLMfhi7DtTOoYqVu.jpg",
+      "description": "Historia ambientada en 1830 sobre un veterano detective, Augustus Landor, que intenta resolver unos asesinatos cometidos en West Point con la ayuda de un joven cadete al que el mundo conocería luego como Edgar Allan Poe.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1188729",
+      "type": "movie",
+      "name": "Pandorum: Terror en el espacio",
+      "poster": "https://image.tmdb.org/t/p/w500/mmexd1XwYKF3wgz9tC7WjT8vAWz.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2M5V8VcK02o4R5cxe7Ew1ltaxKr.jpg",
+      "description": "Dos miembros de la tripulación de una nave espacial, el Teniente Payton (Dennis Quaid) y el Cabo Bower (Ben Foster), se despiertan en sus cámaras de hibernación sin recordar nada de lo que ha sucedido: ni quiénes son, ni cuál era su misión o por qué, aparentemente, son los únicos supervivientes. Conforme se adentren en las zonas más profundas de la nave, descubrirán que no están solos, y desvelarán el terrible misterio que rodea la desaparición del resto de la tripulación y de los pasajeros. Pronto se darán cuenta de que mantenerse con vida es mucho más importante de lo que puedan imaginarse: es el único modo de evitar la extinción de la raza humana.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1853739",
+      "type": "movie",
+      "name": "Tú eres el próximo",
+      "poster": "https://image.tmdb.org/t/p/w500/vCFwUMPQrY97n7enjp9WJHDUjap.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/okjEw4GrEqn4seWkvUHIUXogQZD.jpg",
+      "description": "La familia Davison es atacada por un grupo de asesinos sádicos durante una escapada familiar. Atrincherados en la casa de vacaciones, hacen frente a los asaltantes. Los asesinos enmascarados no contaban con la presencia de Erin, la novia del hijo mayor de los Davison, cuyo misterioso pasado la ha hecho fuerte y muy difícil de matar.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0099700",
+      "type": "movie",
+      "name": "Gremlins 2: La nueva generación",
+      "poster": "https://image.tmdb.org/t/p/w500/th4AlCahUDHJItNutBGhAe48Vc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iR3tV8NXFls4UKzPA60D4zrI7Jh.jpg",
+      "description": "Los novios Billy y Kate se mudan a la Gran Manzana, ocupan puestos de trabajo en un parque de oficinas de alta tecnología y pronto se reúnen con el amable y adorable Gizmo. Pero una serie de accidentes crea una nueva generación de Gremlins. ¡La situación empeora cuando las diabólicas criaturas verdes invaden un laboratorio secreto y desarrollan poderes genéticamente alterados, haciéndolos aún más difíciles de destruir!",
+      "releaseInfo": "1990",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10403420",
+      "type": "movie",
+      "name": "Terrifier 2: El Payaso Siniestro",
+      "poster": "https://image.tmdb.org/t/p/w500/6ZfvF7ZS8MJXe0YwRkPAtXNpXrG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg",
+      "description": "Después de ser resucitado por una entidad siniestra, Art the Clown regresa al condado de Miles, donde debe cazar y destruir a una adolescente y a su hermano menor en la noche de Halloween.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0115963",
+      "type": "movie",
+      "name": "Jóvenes brujas",
+      "poster": "https://image.tmdb.org/t/p/w500/2ZSRt3UR9ZssuhNECfO3mWpUY2P.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7YZSNbi1zTqYAM7WHAFD0vY2UrF.jpg",
+      "description": "Sarah ha sido siempre diferente. Al ser la nueva chica en la Academia de St. Benedict, de inmediato se enreda con las marginadas de la escuela. Aunque estas chicas no se conformarán con ser simplemente unas indefensas inadaptadas. Han descubierto el poder de \"THE CRAFT\", y lo van a usar.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Fantasía"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10168670",
+      "type": "movie",
+      "name": "Hasta los huesos",
+      "poster": "https://image.tmdb.org/t/p/w500/lP814mEpSCdWCAMiZT1Yt5rlJhg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
+      "description": "Maren y Lee, dos misteriosos forasteros, se embarcan en una odisea de 1.600 kilómetros por los Estados Unidos de Ronald Reagan. Pero cuando se dan cuenta de que no pueden huir de sus aterradores pasados, la pareja se enfrenta a una prueba final para decidir si pueden sobrevivir con sus diferencias.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Terror",
+        "Romance",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13314558",
+      "type": "movie",
+      "name": "Turno de día",
+      "poster": "https://image.tmdb.org/t/p/w500/kKcsME7Bjlo9EvKp51MkgQ8tgQD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yjZM4QrgA7PqX18Es6DxvJQH3ba.jpg",
+      "description": "Un cazavampiros de Los Ángeles tiene una semana para conseguir el dinero de la escuela y el tratamiento dental de su hija. Ganarse la vida en estos días podría matarlo.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt23468450",
+      "type": "movie",
+      "name": "Longlegs: Coleccionista de almas",
+      "poster": "https://image.tmdb.org/t/p/w500/e4686PPqj8AOdTUnGZpjApT1cDi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+      "description": "Lee Harker, una novata agente del FBI, ha sido asignada a un enigmático caso sin resolver de un oscuro asesino en serie. A medida que la investigación avanza, las pistas se vuelven confusas y las evidencias se ocultan en las sombras, esto hasta que Harker se dé cuenta de que un vínculo personal le une con el asesino y que debe actuar rápidamente para evitar otro siniestro asesinato.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Crimen",
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0389722",
+      "type": "movie",
+      "name": "Treinta días de noche",
+      "poster": "https://image.tmdb.org/t/p/w500/pOPW3GaJ1DgQrlNTzGHvctHMumx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w8VDpCcKezdBbXJEWMHwttI35mU.jpg",
+      "description": "En Barrow, un remoto pueblo de Alaska, durante 30 días de cada invierno el Sol no sale y la noche ocupa todo el día. Ese es el momento en el cual aparece un misterioso grupo de extraños: vampiros sedientos de sangre, listos para tomar ventaja de la ininterrumpida oscuridad y alimentarse de los pocos residentes que permanecen en el pueblo. El comisario de Barrow, Eben (Josh Hartnett), su esposa Stella (Melissa George) y un decreciente grupo de sobrevivientes deberán hacer lo que sea para resistir hasta que reaparezca la luz del día. Basada en la novela gráfica de Steve Niles y Ben Templesmith.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6079516",
+      "type": "movie",
+      "name": "Te veo",
+      "poster": "https://image.tmdb.org/t/p/w500/gs91aIwM7dB152Wbg84LVrpFM2T.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nV10fSyR0LlaRae7eFiidG7hw4g.jpg",
+      "description": "Un detective y su familia comienzan a sufrir sucesos paranormales mientras éste trata de averiguar el paradero de un niño de 10 años que ha desaparecido en un pequeño pueblo.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1682180",
+      "type": "movie",
+      "name": "Lazos perversos",
+      "poster": "https://image.tmdb.org/t/p/w500/jo9ddE0pX32niwYjsgtwNbL31MM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yFop8dQmR7hvQaA7yzRb4gDSDoL.jpg",
+      "description": "Después de que el padre de la India muere, su tío Charlie, que nunca supo que existía, se va a vivir con ella y su madre inestable. Ella llega a sospechar que este hombre misterioso y encantador tiene motivos ocultos y se enamora cada vez más de él.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Suspense"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3387520",
+      "type": "movie",
+      "name": "Historias de miedo para contar en la oscuridad",
+      "poster": "https://image.tmdb.org/t/p/w500/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/snll1zUi2oxIah9qifXOvbfjcrG.jpg",
+      "description": "Mill Valley, Pennsylvania, noche de Halloween, 1968. Después de gastar una broma a un matón de la escuela, Sarah y sus amigos deciden colarse en una casa supuestamente embrujada que una vez perteneció a la poderosa familia Bellows, desatando fuerzas oscuras que no podrán controlar.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10160976",
+      "type": "movie",
+      "name": "La monja II",
+      "poster": "https://image.tmdb.org/t/p/w500/cRp5MhCXwyEjJ3gqynmUME4nJPv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/27jtaS1oCiLK5Y7P6iOXG2yj1Nc.jpg",
+      "description": "1956 – Francia. Un sacerdote es asesinado. Un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con Valak, la monja demonio.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10374610",
+      "type": "movie",
+      "name": "Camina o muere",
+      "poster": "https://image.tmdb.org/t/p/w500/A5221Awa8cBYgdr7YK1jx4GWEvD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2dlt9I2ga6hweywz9zsFUz1PVii.jpg",
+      "description": "Un grupo de adolescentes compite en un concurso anual conocido como \"La Larga Marcha\", en el que deben mantener una cierta velocidad al caminar o recibir un disparo.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

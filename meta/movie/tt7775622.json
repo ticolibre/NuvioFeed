@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt7775622",
+    "type": "movie",
+    "name": "Free Solo",
+    "poster": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
+    "description": "Documental que narra la hazaña de Alex Honnold al escalar sin ningún tipo de ayuda la formación rocosa vertical \"El Capitán\", ubicada dentro del Parque Nacional Yosemite (Mariposa County, Estados Unidos), de unos 900 metros de altura. Fue el primer escalador en lograrlo.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Documental",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

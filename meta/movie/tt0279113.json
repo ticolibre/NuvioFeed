@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0279113",
+    "type": "movie",
+    "name": "Una buena chica",
+    "poster": "https://image.tmdb.org/t/p/w500/K8hXca9HM1t0MSo97exU09mYjO.jpg",
+    "posterShape": "poster",
+    "description": "En un pueblo texano, una mujer casada que espera más de la vida se enamora de un compañero de trabajo.",
+    "releaseInfo": "2002",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7pX8mc0B5QUWHrfzv2vZLjvsgLH.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    }
+  }
+}

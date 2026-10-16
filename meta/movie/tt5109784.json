@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt5109784",
+    "type": "movie",
+    "name": "¡Madre!",
+    "poster": "https://image.tmdb.org/t/p/w500/67FkkLkcDSbRN9aPDCxIag0ja3Y.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+    "description": "La relación de una pareja se pone a prueba cuando unas personas llegan a su casa sin invitación, lo que altera su tranquila existencia.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Terror",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA and Top Anime Series. Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Searchlight, Focus Features, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA and Top Anime Series. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -59,6 +59,28 @@
       "type": "movie",
       "id": "a24",
       "name": "A24 Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "searchlight",
+      "name": "Searchlight Pictures",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "focus",
+      "name": "Focus Features",
       "extra": [
         {
           "name": "skip",
@@ -323,6 +345,39 @@
       "type": "series",
       "id": "top-anime-series",
       "name": "Top Anime Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-horror-1990s-now",
+      "name": "Top Horror Films: 1990-Now",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-drama-1990s-now",
+      "name": "Top Drama Films: 1990-Now",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-docs-2000s-now",
+      "name": "Top Documentaries: 2000-Now",
       "extra": [
         {
           "name": "skip",

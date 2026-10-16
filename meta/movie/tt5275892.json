@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt5275892",
+    "type": "movie",
+    "name": "O.J.: Made in America",
+    "poster": "https://image.tmdb.org/t/p/w500/oqEoJejmAFGIlPbLEvr52neqpmk.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/a9jBEm8wb4XJIvAdFJlAVgVxbB5.jpg",
+    "description": "A chronicle of the rise and fall of O.J. Simpson, whose high-profile murder trial exposed the extent of American racial tensions, revealing a fractured and divided nation.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Documental",
+      "Crimen",
+      "Historia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    }
+  }
+}

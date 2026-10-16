@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0386032",
+    "type": "movie",
+    "name": "Sicko",
+    "poster": "https://image.tmdb.org/t/p/w500/8PxUhW78Oy4DWZNRyUkKYmhGUaH.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
+    "description": "Michael Moore vuelve a la carga con un documental que denuncia el sistema sanitario norteamericano; un sistema que, al no existir la sanidad universal, excluye a 50 millones de norteamericanos (que, o bien no tienen seguro de salud privado, o no pueden pagárselo) y que se basa en compañías privadas que buscan principalmente beneficios económicos y en aseguradoras que pagan bonos a los empleados que más rentabilidad les proporcionan al denegar prestaciones y reclamaciones a los asegurados.",
+    "releaseInfo": "2007",
+    "genres": [
+      "Documental",
+      "Comedia",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

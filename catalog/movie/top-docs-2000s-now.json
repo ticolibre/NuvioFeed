@@ -1,0 +1,2074 @@
+{
+  "metas": [
+    {
+      "id": "tt16116174",
+      "type": "movie",
+      "name": "Harry Potter 20 Aniversario: Regreso a Hogwarts",
+      "poster": "https://image.tmdb.org/t/p/w500/jAwbyTKDbw7iqYptPMSlPfFsbPU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+      "description": "Una historia encantadora del 'making of' contada a través de nuevas entrevistas en profundidad y conversaciones del elenco, que invita a los fanáticos a un viaje mágico en primera persona a través de una de las franquicias cinematográficas más queridas de todos los tiempos.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7775622",
+      "type": "movie",
+      "name": "Free Solo",
+      "poster": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
+      "description": "Documental que narra la hazaña de Alex Honnold al escalar sin ningún tipo de ayuda la formación rocosa vertical \"El Capitán\", ubicada dentro del Parque Nacional Yosemite (Mariposa County, Estados Unidos), de unos 900 metros de altura. Fue el primer escalador en lograrlo.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Documental",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1424432",
+      "type": "movie",
+      "name": "Senna",
+      "poster": "https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vtXCGAkCx5o2p0jn3A1QmdR5u5i.jpg",
+      "description": "Este documental dinámico retrata a Ayrton Senna, uno de los mejores pilotos de carrera de Fórmula Uno de la historia y un héroe en su Brasil natal.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2515086",
+      "type": "movie",
+      "name": "One Direction Así Somos",
+      "poster": "https://image.tmdb.org/t/p/w500/14soEtSzzfEEOLgK5xyZzUBkmvX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7e9uENnSM93CQXyzLSuzBUgxm4P.jpg",
+      "description": "Documental sobre la banda musical británica de adolescentes One Direction. Dirigida por Morgan Spurlock (Super Size Me, Freakonomics), narra los orígenes de los 5 miembros del grupo -Niall Horan, Zayn Malik, Liam Payne, Harry Styles y Louis Tomlinson- y como Simon Cowell los juntó tras haber concursado todos en la versión británica del programa de televisión Factor X del 2010. La banda rápidamente se ganó una legión de seguidores, y la actuación final donde participaban tres concursantes se convirtió en la más popular de todos los tiempos.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11337862",
+      "type": "movie",
+      "name": "Friends: The Reunion",
+      "poster": "https://image.tmdb.org/t/p/w500/vWgy2p7tyyaEOsS3quCui0UGUjR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/qPlAgjG4xy7utjf5L14FZ8kaiWl.jpg",
+      "description": "El reparto de la mítica serie \"Friends\" -que duró 10 temporadas (1994-2004)- se reúne para un especial en la nueva plataforma HBO Max en la que recuerdan numerosas anécdotas del rodaje, reciben a celebridades y a algunos invitados que pasaron por la serie, y reflexionan sobre la importancia para ellos de la serie y las consecuencias de su enorme fama sobre sus vidas.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4044364",
+      "type": "movie",
+      "name": "Citizenfour",
+      "poster": "https://image.tmdb.org/t/p/w500/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+      "description": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0310793",
+      "type": "movie",
+      "name": "Bowling for Columbine",
+      "poster": "https://image.tmdb.org/t/p/w500/2ZIvlZm9PDXJowWLObwXyWqryYt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/70uUnpfe7en9x011UjpZoub101l.jpg",
+      "description": "This is not a film about gun control. It is a film about the fearful heart and soul of the United States, and the 280 million Americans lucky enough to have the right to a constitutionally protected Uzi. From a look at the Columbine High School security camera tapes to the home of Oscar-winning NRA President Charlton Heston, from a young man who makes homemade napalm with The Anarchist's Cookbook to the murder of a six-year-old girl by another six-year-old. Bowling for Columbine is a journey through the US, through our past, hoping to discover why our pursuit of happiness is so riddled with violence.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Documental",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11464826",
+      "type": "movie",
+      "name": "El dilema de las redes sociales",
+      "poster": "https://image.tmdb.org/t/p/w500/laS2sV5SNvrR3BT8xxKdDWFX8kS.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iYqoT9VBGdGTuLl3cjfbG7ZXDkP.jpg",
+      "description": "A medida que las plataformas digitales se vuelven más importantes para mantenernos conectados, expertos explican cómo esta interacción está reprogramando la civilización, revelando qué se esconde al otro lado de la pantalla",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2545118",
+      "type": "movie",
+      "name": "Blackfish",
+      "poster": "https://image.tmdb.org/t/p/w500/wJwLrbHeQbyn5QKgiQUv1xNmQj3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tCW0uGWwfZzRkupNFdI0yUo4A0w.jpg",
+      "description": "Este fabuloso documental analiza la vida de la ballena asesina Tilikum, que ha causado varias muertes durante su cautiverio.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12888462",
+      "type": "movie",
+      "name": "Mi maestro el pulpo",
+      "poster": "https://image.tmdb.org/t/p/w500/3zIvDNQ4WElJipAivSGqjlryv6g.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/sW7VOrkHKYIeV9PaYc5IqGU2XK8.jpg",
+      "description": "Después de años de nadar todos los días en el océano helado en la punta de África, Craig Foster conoce a un maestro poco probable: un pulpo joven que muestra una curiosidad notable. Al visitar su guarida y seguir sus movimientos durante meses y meses, finalmente se gana la confianza del animal y desarrollan un vínculo nunca antes visto entre humanos y animales salvajes.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2125608",
+      "type": "movie",
+      "name": "Buscando a Sugar Man",
+      "poster": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8RafTGqYqAN9FJzvC75USKmJCso.jpg",
+      "description": "A principios de los años 70 un músico americano, Sixto Rodríguez, publica su album Cold Facts. El disco resulta un fracaso, y corren rumores sobre un posible suicidio del músico. Rodríguez cae en el olvido... Salvo en Suráfrica, donde su disco es un auténtico éxito. En pleno Apartheid, las palabras de Sixto han calado hondo...",
+      "releaseInfo": "2012",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2870648",
+      "type": "movie",
+      "name": "Amy",
+      "poster": "https://image.tmdb.org/t/p/w500/AjzrnMUZsEYfXwDjkzzxq6ODRxC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
+      "description": "Documental sobre la famosa cantante británica Amy Winehouse, que cuenta con imágenes inéditas de archivo y entrevistas con la malograda estrella, que murió en julio del 2011 a los 27 años de edad por parada cardíaca consecuencia de sus excesos con las drogas y el alcohol, adicciones agravadas por su bulimia. Amy Winehouse, ganadora de 6 Premios Grammys, se vio desde muy joven afectada por el divorcio de sus padres. Tenía un talento natural para el jazz y el soul y una voz prodigiosa que pronto la hizo una estrella mundial a pesar de lanzar sólo dos discos, pero la fama, la prensa sensacionalista, los intereses de la industria -y de su entorno- y su turbulento amor con el que fue su pareja Blake Fielder-Civil la condujeron finalmente a su trágico destino en su piso de Camden, Londres.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt21819250",
+      "type": "movie",
+      "name": "Selena Gomez: Mi mente y yo",
+      "poster": "https://image.tmdb.org/t/p/w500/kOmjk26BIG54wveOq920JAeaFdG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+      "description": "Tras años bajo los reflectores, Selena Gomez alcanza un estrellato pop inimaginable, pero justo cuando llega a una nueva cima, un giro inesperado la arrastra hacia la oscuridad. Este documental excepcionalmente franco e íntimo abarca su camino de seis años hacia una nueva luz.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1645089",
+      "type": "movie",
+      "name": "Inside Job",
+      "poster": "https://image.tmdb.org/t/p/w500/iQNan0jUyZIkfMmhytPeGCCAfJI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1yFmxvVYgVrFKL2ksFzgX0MrWOM.jpg",
+      "description": "Documental sobre las causas y responsables de la crisis económica mundial de 2008, que significó la ruina de millones de personas que perdieron sus hogares y empleos, y que, además, puso en peligro la estabilidad económica de multitud de países. \"Inside Job\" muestra la escandalosa historia de un “gobierno de Wall Street” y explica cómo la reciente crisis financiera ha sido efectivamente un “inside job” o delito interno colectivo ejecutado por banqueros, políticos, agencias calificadoras, burócratas y profesores universitarios, que utilizaron la desregulación para crear y promover complejos instrumentos financieros para beneficiar sus propias cuentas bancarias, mientras hacían la vista gorda cuando el mercado subprime de hipotecas se desplomó, destruyendo los ahorros de toda una vida de muchas personas corrientes. Narrada por el ganador del Oscar Matt Damon.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1185616",
+      "type": "movie",
+      "name": "ואלס עם באשיר",
+      "poster": "https://image.tmdb.org/t/p/w500/tdr54JxHqP01QmgSW53nBvHrxPe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cMoiIk3tD6qshxccYRjjym7l5YV.jpg",
+      "description": "A film director from Israel interviews fellow veterans of the 1982 invasion of Lebanon to reconstruct his own memories of his term of service in that conflict.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Animación",
+        "Documental",
+        "Drama",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0770802",
+      "type": "movie",
+      "name": "Samsara",
+      "poster": "https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/tbSjemOf1nXPOjWELdaeZ7qj1iX.jpg",
+      "description": "Nuevo documental del responsable de «Baraka», filmado a lo largo de cinco años en veinticinco países de cinco continentes. «Samsara» es una película no narrativa creada por los cineastas Ron Fricke y Mark Magidson. Relacionada con la aclamada cinta Baraka, de 1992, que también fue dirigida por Fricke y producida por Magidson. El término «samsara» es una palabra en sánscrito que significa ‘mundo’ o ‘existencia cíclica’, pero es usada a menudo para describir actividades mundiales. Según el propio Fricke, el filme ahonda en su tema favorito: la relación de la humanidad con la eternidad. Tal como «Baraka», esta obra fue rodada con película de 70 milímetros usando el sistema Panavision System 65 y utiliza música para impulsar la historia. «Samsara» fue filmada en cerca de cien lugares en veinticinco países y tomó cuatro años para realizarse.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3674140",
+      "type": "movie",
+      "name": "La sal de la Tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/uW4UxJTHHqao9EWDZwapmCVK2Hv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lqtzWKCpejXdKb22cav5bB6MqSR.jpg",
+      "description": "El hijo del famoso fotógrafo Sebastião Salgado hace una retrospectiva del trabajo de su padre, incluida su reciente incursión en la fotografía naturalista.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5895028",
+      "type": "movie",
+      "name": "Enmienda XIII",
+      "poster": "https://image.tmdb.org/t/p/w500/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+      "description": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1313104",
+      "type": "movie",
+      "name": "The Cove",
+      "poster": "https://image.tmdb.org/t/p/w500/bzRcd8MljVVRnwoVWJPmbqhl5JJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gpyu3jQeMQeUFAVjCSrVCrYYK3f.jpg",
+      "description": "La Cala conta la historia verdadera asombrosa de cómo un equipo de la elite de individuos, fabricantes de películas y buzos libres emprendió una misión encubierta de penetrar la cala escondida en Japón, luz brillante en un secreto oscuro y mortal. Los descubrimientos espantosos sólo eran la punta del iceberg.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1587707",
+      "type": "movie",
+      "name": "Exit Through the Gift Shop",
+      "poster": "https://image.tmdb.org/t/p/w500/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yGtoR1fi3e2xU7N91cb2DKJjtyL.jpg",
+      "description": "Banksy es un grafitero con reputación mundial cuyo trabajo se puede ver en las paredes desde la Nueva Orleans posterior al huracán hasta el muro de separación en Cisjordania palestina. Guardando ferozmente su anonimato para evitar ser procesado, Banksy ha resistido hasta ahora todos los intentos de ser capturado en una película. Exit Through the Gift Shop cuenta la increíble historia real de cómo un excéntrico tendero francés convertido en documentalista intentó localizar y hacerse amigo de Banksy, solo para que el artista volviera la cámara hacia su dueño.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0427312",
+      "type": "movie",
+      "name": "El Hombre Oso",
+      "poster": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fTEvG1sGTVKHgiz4NyZBqPetM3i.jpg",
+      "description": "Entre 1990 y 2003, Timothy Treadwell, camarero, actor ocasional y ex-alcohólico, pasó catorce veranos conviviendo con los osos grizzly. Él mismo grabó con su cámara de vídeo sus estancias en Alaska y su obsesiva relación con los plantígrados (unas cien horas). Werner Herzog usó parte de este material. El último verano, uno de los osos atacó a Timothy y a su novia Annie.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1935156",
+      "type": "movie",
+      "name": "Jodorowsky's Dune",
+      "poster": "https://image.tmdb.org/t/p/w500/maxjevZcGbfrp55XRk4gcZGeJVd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xfC6hsmcsnf2MY1iXDs56gJNfQZ.jpg",
+      "description": "In 1974, Chilean-French director Alejandro Jodorowsky embarked on the quixotic project of adapting Frank Herbert's influential novel Dune (1969) for the big screen. After investing two years, and millions of dollars, the gigantic project ended in failure; but the artists Jodorowsky brought together to carry it out continued to work together, and ended up laying the foundations for modern science fiction cinema.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11989890",
+      "type": "movie",
+      "name": "David Attenborough: Una vida en nuestro planeta",
+      "poster": "https://image.tmdb.org/t/p/w500/wA9I2KKUT1moiSnshjTL2QALv3q.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hHL4pwGzYS4njLpXhIjfc9skAQJ.jpg",
+      "description": "A sus 93 años, David Attenborough ha visitado todos los continentes del planeta, explorando cientos de lugares, documentando el mundo viviente en todo su esplendor. Ahora, por primera vez, reflexiona sobre las experiencias más relevantes de su vida como naturalista.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1477715",
+      "type": "movie",
+      "name": "This Is It",
+      "poster": "https://image.tmdb.org/t/p/w500/a7nyJrfaI4lHyPDh4ptecylfqD7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mqAuLsN6oOme6lSKoTb6yyP4U8E.jpg",
+      "description": "Una compilación de entrevistas, ensayos y metraje de entre bastidores de Michael Jackson ya que se preparó para su serie de espectáculos vendidos en Londres.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8760684",
+      "type": "movie",
+      "name": "Apolo 11",
+      "poster": "https://image.tmdb.org/t/p/w500/h69OPPojqbIObPCfVDsMJAPgPZm.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+      "description": "El baúl de la NASA se abre para proporcionar material inédito sobre la misión \"Apollo 11\", que llevaría por primera vez al hombre a la Luna. Las cámaras ubicadas en Cabo Cañaveral capturan los momentos más importantes del despegue de la nave. Unidas a las escenas filmadas en el interior del cohete espacial, ambas perspectivas ofrecen una visión íntima sobre las sensaciones que experimentaron los astronautas durante su misión.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental",
+        "Historia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1152758",
+      "type": "movie",
+      "name": "Dear Zachary: A Letter to a Son About His Father",
+      "poster": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fCOIOhteWbyvSKLyJrMrvh04U6G.jpg",
+      "description": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12078990",
+      "type": "movie",
+      "name": "La Casa de Papel: el fenómeno",
+      "poster": "https://image.tmdb.org/t/p/w500/YkN0CmWq8zuDUPgnnWgFyGdpas.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yEBBtk1eyZltGgJt8Z2zi3KIvvX.jpg",
+      "description": "Documental sobre el fenómeno social que ha se ha producido alrededor de \"La casa de papel\", una de las series más vistas de la parrilla de Netflix.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6333060",
+      "type": "movie",
+      "name": "Icarus",
+      "poster": "https://image.tmdb.org/t/p/w500/jSRRdiAZ9hTdMK8ecp3zm8ulqlR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ambKXAJYrDPJK9wBJlIVVWbQbar.jpg",
+      "description": "La investigación sobre dopaje deportivo conduce al juego del gato y el ratón cuando un ciclista estadounidense y un experto ruso destapan un escándalo internacional.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5929776",
+      "type": "movie",
+      "name": "Antes que sea tarde",
+      "poster": "https://image.tmdb.org/t/p/w500/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/mGBmiWmi7JqeTWnrPicRbkXcsuO.jpg",
+      "description": "Una mirada a los efectos del cambio climático en nuestro entorno y cómo la sociedad puede prevenirlos, incluyendo la salvación de especies en peligros de extinción. Producido por Martin Scorsese y Leonardo DiCaprio, que además entrevista a numerosas personalidades y sirve de narrador, la filmación de \"Before The Flood\" se prolongó durante tres años y el guión lo firma Mark Monroe, responsable del aclamado documental \"The Cove\".",
+      "releaseInfo": "2016",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1772925",
+      "type": "movie",
+      "name": "Jiro Dreams of Sushi",
+      "poster": "https://image.tmdb.org/t/p/w500/iVrkM4jSJw1IsOpW5jTtY5QxVqj.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1h815ydN8AvrRmNU48eXu4EanO.jpg",
+      "description": "Revered sushi chef Jiro Ono strives for perfection in his work, while his eldest son, Yoshikazu, has trouble living up to his father's legacy.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4257858",
+      "type": "movie",
+      "name": "Going Clear: Scientology and the Prison of Belief",
+      "poster": "https://image.tmdb.org/t/p/w500/zWHQYR9srde9nZjU6Dot8qTjoni.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/29VoISagzOfJcuuhFzKQg9ZmEUU.jpg",
+      "description": "The film profiles eight former members of the Church of Scientology, shining a light on how they attract true believers and the things they do in the name of religion.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7681902",
+      "type": "movie",
+      "name": "Fred Rogers: el padrino de los niños",
+      "poster": "https://image.tmdb.org/t/p/w500/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yrepQdpreOorLyBJyvZkGn3Izfe.jpg",
+      "description": "Durante más de treinta años, y a través de su programa de televisión, Fred Rogers (1928-2003), presentador, productor, escritor y pianista, acompañado por sus marionetas y sus muchos amigos, habló directamente a los niños pequeños sobre algunos de los temas más importantes de la vida.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2375605",
+      "type": "movie",
+      "name": "The Act of Killing",
+      "poster": "https://image.tmdb.org/t/p/w500/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1jLaJPdu7dMl0Nk3vLuafDx9PWS.jpg",
+      "description": "After befriending documentarian Joshua Oppenheimer, former Indonesian death squad leaders reenact their real-life mass killings in the style of various American film genres. As they recreate their past atrocities, the line between reality and performance blurs, exposing the lingering impact of Indonesia's 1965-66 anti-communist purge and the unsettling psychology of its perpetrators.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Documental",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13058290",
+      "type": "movie",
+      "name": "BLACKPINK: Light Up the Sky",
+      "poster": "https://image.tmdb.org/t/p/w500/qfcnBeX8o7MndM52Ig79Zc1R4cT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gmNX2bJuS7jLocgWPazIqaGMfwE.jpg",
+      "description": "Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1155592",
+      "type": "movie",
+      "name": "Man on Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yKEe2nFu4fRYcmVdeAwZxTZvP3g.jpg",
+      "description": "On August 7th 1974, French tightrope walker Philippe Petit stepped out on a high wire, illegally rigged between New York's World Trade Center twin towers, then the world's tallest buildings. After nearly an hour of performing on the wire, 1,350 feet above the sidewalks of Manhattan, he was arrested. This fun and spellbinding documentary chronicles Philippe Petit's \"highest\" achievement.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7905466",
+      "type": "movie",
+      "name": "Jamás llegarán a viejos",
+      "poster": "https://image.tmdb.org/t/p/w500/8fFlcZQrAtUR82D8wOZIKRNW50q.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/94PXfCDB6TrTx1YwuUjzIpVXT2i.jpg",
+      "description": "\"They Shall Not Grow Old\" rinde homenaje a los soldados que participaron en la I Guerra Mundial con motivo del primer centenario de su final en 1918. Empleando metraje original remasterizado y coloreado, testimonios reales y material inédito hasta el momento, el director Peter Jackson reflexiona sobre las secuelas mentales y espirituales ocasionadas por el conflicto, así como las graves secuelas que dejó tras de sí en una generación mermada por la ingente cantidad de víctimas que se cobró. El título es un extracto del poeta Laurence Binyon, escrito a principios de la guerra, bajo el título \"A los caídos\".",
+      "releaseInfo": "2018",
+      "genres": [
+        "Documental",
+        "Historia",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10545076",
+      "type": "movie",
+      "name": "Bring the Soul: The Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/uQI0fm8uPild3U5spX0I6MapSHB.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nQRTynJcXF5GRcyEHF09yZIuQ7F.jpg",
+      "description": "Una mirada al mundo del grupo de K-pop BTS fuera del escenario, con conversaciones íntimas del grupo y espectaculares actuaciones de su gira mundial.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt37546146",
+      "type": "movie",
+      "name": "El juego del calamar (Temporada 2): Detrás de cámaras",
+      "poster": "https://image.tmdb.org/t/p/w500/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/zecxlBpLx0aLIjNjX1IOZuaSgo0.jpg",
+      "description": "Entrevistas exclusivas revelan cómo el elenco, el director y el equipo le dieron vida a la temporada 2 de este éxito mundial, desde el diseño de los sets hasta los personajes.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11388580",
+      "type": "movie",
+      "name": "Miss Americana",
+      "poster": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/A7AjlQTR1UlaNSYwwPRQ5gQTHyf.jpg",
+      "description": "En este revelador documental, Taylor Swift asume plenamente su rol de compositora y artista, y deja en evidencia su capacidad de expresarse sin mordaza.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4229236",
+      "type": "movie",
+      "name": "Cobain: Montage of Heck",
+      "poster": "https://image.tmdb.org/t/p/w500/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/n1BjnpeFJ8hVXae8SIlkjJ7BkJO.jpg",
+      "description": "Aclamado como uno de los documentales más innovadores e íntimos de siempre, nos acerca a Kurt Cobain como nunca antes en el único retrato completamente autorizado del famoso icono musical. El realizador Brett Morgen, nominado a los Premios de la Academia®, mezcla con destreza el archivo artístico personal de Cobain, música, videos inéditos, animación y entrevistas reveladoras de sus familiares y amigos más cercanos. Extremadamente creativo y sumamente aclamado, siga a Kurt desde su infancia en esta introspección cinematográfica visceral y detallada de un artista en conflicto con lo que le rodea. Los fans y la generación de Nirvana sabrán cosas sobre Cobain que no sabían, mientras que aquellos que conocieron recientemente a este hombre y a su música, sabrán qué es lo que le hizo ser el eterno icono que sigue siendo hasta los días de hoy.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9151704",
+      "type": "movie",
+      "name": "BTS: La Película",
+      "poster": "https://image.tmdb.org/t/p/w500/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/aQ7444JX7gefPhGJTlvilj3zG2S.jpg",
+      "description": "\"Burn the Stage\" es la primera película de la joven banda coreana juvenil BTS, exhibiendo escenas tras bambalinas del BTS WINGS TOUR para revelar la historia completa del ascenso meteórico de la banda a la fama. Las imágenes exclusivas de la gira y las nuevas entrevistas individuales con miembros de BTS les brindan a los fans una visión sin precedentes de sus vidas personales.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9448868",
+      "type": "movie",
+      "name": "러브 유어셀프 인 서울",
+      "poster": "https://image.tmdb.org/t/p/w500/1u0rtWPgYfAWmqveXOsQDvMRODD.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8GXkzHTvuj3ftethkrqW330LJKz.jpg",
+      "description": "Shot at the Olympic Stadium in Seoul during the BTS World Tour ‘Love Yourself’ to celebrate the seven members of the global boyband and their unprecedented international phenomenon.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7214762",
+      "type": "movie",
+      "name": "Jim y Andy",
+      "poster": "https://image.tmdb.org/t/p/w500/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5ORjzDMq26GI82COSnJngXm5Kww.jpg",
+      "description": "En este documental del poco convencional Chris Smith, ofrece una mirada a Jim Carrey quién reflexiona sobre el sentido de la vida, la realidad y más, bajo el prisma de Andy Kaufman en su absorbente actuación en el set de \"Man on the Moon\" (1999).",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental",
+        "Drama",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1014762",
+      "type": "movie",
+      "name": "Home",
+      "poster": "https://image.tmdb.org/t/p/w500/eAJQgFHFA9QUvvoCPOT9bXPGXUP.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1WKtWXw6yfi5yGknLSvmJLhLa0R.jpg",
+      "description": "In 200,000 years of existence, man has upset the balance on which the Earth had lived for 4 billion years. Global warming, resource depletion, species extinction: man has endangered his own home. But it is too late to be pessimistic: humanity has barely ten years left to reverse the trend, become aware of its excessive exploitation of the Earth's riches, and change its consumption pattern.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Documental",
+        "Drama",
+        "Familia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0386032",
+      "type": "movie",
+      "name": "Sicko",
+      "poster": "https://image.tmdb.org/t/p/w500/8PxUhW78Oy4DWZNRyUkKYmhGUaH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/yvqAedtvpEXsc4SKrHQ7DkRLGMZ.jpg",
+      "description": "Michael Moore vuelve a la carga con un documental que denuncia el sistema sanitario norteamericano; un sistema que, al no existir la sanidad universal, excluye a 50 millones de norteamericanos (que, o bien no tienen seguro de salud privado, o no pueden pagárselo) y que se basa en compañías privadas que buscan principalmente beneficios económicos y en aseguradoras que pagan bonos a los empleados que más rentabilidad les proporcionan al denegar prestaciones y reclamaciones a los asegurados.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Documental",
+        "Comedia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3031654",
+      "type": "movie",
+      "name": "Ennio: El maestro",
+      "poster": "https://image.tmdb.org/t/p/w500/j6K8RdOsggU4zPitdgjFpq4yefL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+      "description": "Retrato de Ennio Morricone, el compositor de cine más popular y prolífico del siglo XX, uno de los más queridos por el público, dos veces ganador del Oscar y autor de más de quinientas partituras inolvidables. El documental presenta al Maestro a través de una larga entrevista realizada por Tornatore, testimonios de artistas y directores como Bernardo Bertolucci, Giuliano Montaldo, Marco Bellocchio, Dario Argento, los hermanos Taviani, Carlo Verdone, Barry Levinson, Roland Joffé, Oliver Stone, Quentin Tarantino, Bruce Springsteen, Nicola Piovani, Hans Zimmer y Pat Metheny, música y material de archivo. El documental también se propone revelar el lado menos conocido de Morricone, como su pasión por el ajedrez, que puede tener vínculos misteriosos con su música. Así como el origen en la vida real de algunas de sus intuiciones musicales.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documental",
+        "Música",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7664504",
+      "type": "movie",
+      "name": "Tres Idénticos Desconocidos",
+      "poster": "https://image.tmdb.org/t/p/w500/r0FdwE8mk3rXZmUi8kVyfN5FznW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2shn4Kiq7qInZgKZhqM5BKie1zL.jpg",
+      "description": "Nueva York, 1980: tres completos extraños descubren accidentalmente que son trillizos idénticos, separados en el momento del nacimiento. Una alegre reunión tras 19 años los catapulta a la fama internacional, pero también abre un secreto extraordinario e inquietante que va más allá de sus propias vidas y podría transformar nuestra comprensión de la naturaleza humana para siempre.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1966604",
+      "type": "movie",
+      "name": "The Imposter",
+      "poster": "https://image.tmdb.org/t/p/w500/i3g0zTkJc0jGuCgyvweV26IL572.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gwxItUSR8qvaKlNqsQCRVNNZAAF.jpg",
+      "description": "In 1994, a 13-year-old boy disappeared without a trace from his home in San Antonio, Texas. Three-and-a-half years later, he is found alive in a village in southern Spain with a horrifying story of kidnap and torture. His family is overjoyed to bring him home. But all is not quite as it seems.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Documental",
+        "Misterio",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5804038",
+      "type": "movie",
+      "name": "I Am Not Your Negro",
+      "poster": "https://image.tmdb.org/t/p/w500/z32cEjoK8KVkSxE2yCWcMSJJzCI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1uecj8izDDjvZ4syzJQCOKRBjaa.jpg",
+      "description": "Working from the text of James Baldwin’s unfinished final novel, director Raoul Peck creates a meditation on what it means to be Black in the United States.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3268458",
+      "type": "movie",
+      "name": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "poster": "https://image.tmdb.org/t/p/w500/6yfXtkVPWxeU3OonoKDem4Hrdbb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/o85Xk5nCcx4NWlYKLm9ebrQaqMI.jpg",
+      "description": "Cuando era adolescente, Aaron Swartz era un prodigio de la programación informática con una sed insaciable de conocimiento. Después de emerger como un pionero del activismo en Internet, la educación y la política, fue acusado de varios cargos federales en 2011 y 2012, lo que desencadenó una compleja cadena de acontecimientos que dejaron a las oscilaciones de la comunidad de Internet. Poco después, a la edad de 26, Swartz fue encontrado muerto de un aparente suicidio en su apartamento de Brooklyn.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3327994",
+      "type": "movie",
+      "name": "Human",
+      "poster": "https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/c0gtBfDyOrba9e5wnFjrxn8rxQr.jpg",
+      "description": "Un retrato íntimo y visual de la humanidad actual, construido a partir de testimonios recogidos en 60 países, que exploran la diversidad, las desigualdades y la capacidad de empatía del ser humano.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13206564",
+      "type": "movie",
+      "name": "Las tres muertes de Marisela Escobedo",
+      "poster": "https://image.tmdb.org/t/p/w500/gYO7mmLti4XtIszP6C7Uc7OQnOc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/vrx9KIwXm7nxz49Fs9iTjPgxq7A.jpg",
+      "description": "Cuando Rubí, una adolescente de 16 años, es asesinada por su novio en Ciudad Juárez, Marisela Escobedo inicia una cruzada para lograr la captura y el juicio del homicida de su hija. A lo largo de su lucha, Marisela se enfrenta a organizaciones criminales y funcionarios corruptos, arriesgando su vida mientras expone las fallas del sistema de justicia de México, un país donde diez mujeres son asesinadas todos los días, y la mayoría de los casos quedan impunes.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0923752",
+      "type": "movie",
+      "name": "The King of Kong: Por un puñado de monedas",
+      "poster": "https://image.tmdb.org/t/p/w500/wACtXGiO08EBbJhqsD2nUzPsrKe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cXN62FQwOoBcKlIJ9uE3Cn5wHAc.jpg",
+      "description": "Un maestro de escuela secundaria y un empresario se enfrentan para romper el Récord Guiness del clásico videojuego Donkey Kong.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9617716",
+      "type": "movie",
+      "name": "Lil Peep: Everybody’s Everything",
+      "poster": "https://image.tmdb.org/t/p/w500/xsAfGd8cH5pB8PM3WBkEHNGeDO0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/Amp8FamnKw8jUFptKHOXRL4VseU.jpg",
+      "description": "La íntima historia del ascenso del artista Lil Peep, cuya música desafió los géneros convencionales, atrajo a innumerables fans y terminó definiendo su vida.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1286537",
+      "type": "movie",
+      "name": "Food, Inc.",
+      "poster": "https://image.tmdb.org/t/p/w500/zdwN4o7OGAZGJw9T64lRAGTEP8b.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1xMMkeXynf8w11eXqEC3HCLhzt5.jpg",
+      "description": "Documentary filmmaker Robert Kenner examines how mammoth corporations have taken over all aspects of the food chain in the United States, from the farms where our food is grown to the chain restaurants and supermarkets where it's sold. Narrated by author and activist Eric Schlosser, the film features interviews with average Americans about their dietary habits, commentary from food experts like Michael Pollan and unsettling footage shot inside large-scale animal processing plants.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14152756",
+      "type": "movie",
+      "name": "Seaspiracy",
+      "poster": "https://image.tmdb.org/t/p/w500/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/AcvxSLa140z7qgGQ8G2UjhcgVEY.jpg",
+      "description": "Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species — and uncovers an alarming global conspiracy.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental",
+        "Crimen"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11459366",
+      "type": "movie",
+      "name": "Billie Eilish: The World's a Little Blurry",
+      "poster": "https://image.tmdb.org/t/p/w500/iSaM0hRbCqi65NAWTD5HgK21H4W.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8ys6VgwZCIQ7nN4Nv4z7GPPuFMv.jpg",
+      "description": "El premiado documentalista R.J. Cutler acompaña a Billie en sus giras, en el escenario y en casa con su familia durante la grabación del álbum que le cambió la vida.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt12987894",
+      "type": "movie",
+      "name": "El caso Watts: El padre homicida",
+      "poster": "https://image.tmdb.org/t/p/w500/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fi5TkN1mqC4HBaKCFX26NRQBYTC.jpg",
+      "description": "Con imágenes reales sin editar, este documental ahonda en la desaparición de Shanann Watts y sus hijos, y los sucesos acontecidos posteriormente",
+      "releaseInfo": "2020",
+      "genres": [
+        "Crimen",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3302820",
+      "type": "movie",
+      "name": "Cowspiracy: El secreto de la sostenibilidad",
+      "poster": "https://image.tmdb.org/t/p/w500/h0Jz1VmY2qIFAQbkojaBNubhcJA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7KYqBgUtQGInqHVEMRnlyneuCpA.jpg",
+      "description": "Follow the shocking, yet humorous, journey of an aspiring environmentalist, as he daringly seeks to find the real solution to the most pressing environmental issues and true path to sustainability.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7291268",
+      "type": "movie",
+      "name": "Gaga: Five Foot Two",
+      "poster": "https://image.tmdb.org/t/p/w500/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/5TVSZotk3mjNjlDUQ1NBtO1Hu2H.jpg",
+      "description": "Sigue a la provocativa estrella del pop Lady Gaga mientras lanza un nuevo disco y se prepara para el medio tiempo del Super Bowl entre desafíos físicos y emocionales.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0358456",
+      "type": "movie",
+      "name": "Earthlings",
+      "poster": "https://image.tmdb.org/t/p/w500/fcRUYYyDWLJPlX7D6RPtQwdU7G2.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nEo7B55t79RhcbOjLo6Zcbig4Ku.jpg",
+      "description": "Using hidden cameras and never-before-seen footage, Earthlings chronicles the day-to-day practices of the largest industries in the world, all of which rely entirely on animals for profit.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7286916",
+      "type": "movie",
+      "name": "The Dawn Wall",
+      "poster": "https://image.tmdb.org/t/p/w500/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ipXrm6SEjfNkD8FKfj9VLUE9fUU.jpg",
+      "description": "In an unbelievable story of perseverance, free climber Tommy Caldwell and climbing partner Kevin Jorgeson attempt to scale the impossible 3000ft Dawn Wall of El Capitan.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental",
+        "Aventura"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9617456",
+      "type": "movie",
+      "name": "Para Sama",
+      "poster": "https://image.tmdb.org/t/p/w500/sKaqLjmdU9r7QG58S32dzFA4EFv.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hiqB5fFZ230MeFAGLPahoy06UOE.jpg",
+      "description": "Durante los levantamientos en Siria, una joven madre se debate entre huir para criar a su hija o quedarse para luchar por la libertad en este desgarrador documental.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10147546",
+      "type": "movie",
+      "name": "HOMECOMING Una película de Beyoncé",
+      "poster": "https://image.tmdb.org/t/p/w500/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/rfqUYH6gav0P2uwvSSwjahAwzwk.jpg",
+      "description": "Una perspectiva íntima y minuciosa de la superpresentación de Beyoncé en Coachella 2018 que revela el recorrido emocional entre concepto creativo y movimiento cultural.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental",
+        "Música",
+        "Película de TV"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30953759",
+      "type": "movie",
+      "name": "لا أرض أخرى",
+      "poster": "https://image.tmdb.org/t/p/w500/yy01VhZJ0EXnAzaUZ6cIaG7QCQU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bBleQSVXH97a0G2oF9MDAYCOlLG.jpg",
+      "description": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7357302",
+      "type": "movie",
+      "name": "Avicii: True Stories",
+      "poster": "https://image.tmdb.org/t/p/w500/obVlatSLP94kmml5UaCjLsdWPWG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eiBXqcjxrw9osXatNfqTGmibhTC.jpg",
+      "description": "Documentary about the arena-packing Swedish DJ, chronicling his explosive rise to fame and surprising decision to retire from live performances in 2016.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13615386",
+      "type": "movie",
+      "name": "Ariana Grande: Excuse me, I love you",
+      "poster": "https://image.tmdb.org/t/p/w500/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/pgsxHZO2Tf7nHpRnBoQZitAPguA.jpg",
+      "description": "En el marco de la Sweetener World Tour, Ariana Grande sube al escenario en Londres y comparte detalles íntimos de los ensayos y de su vida durante la gira.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0379557",
+      "type": "movie",
+      "name": "Touching the Void",
+      "poster": "https://image.tmdb.org/t/p/w500/x9bDfORBSJWe3zH6gFEXkiRQ1rU.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/m0WQZszgmtb1dxH5AnXhOX5tM6J.jpg",
+      "description": "The true story of Joe Simpson and Simon Yates' disastrous and nearly-fatal mountain climb of 6,344m Siula Grande in the Cordillera Huayhuash in the Peruvian Andes in 1985.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Documental",
+        "Acción",
+        "Aventura",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5275892",
+      "type": "movie",
+      "name": "O.J.: Made in America",
+      "poster": "https://image.tmdb.org/t/p/w500/oqEoJejmAFGIlPbLEvr52neqpmk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/a9jBEm8wb4XJIvAdFJlAVgVxbB5.jpg",
+      "description": "A chronicle of the rise and fall of O.J. Simpson, whose high-profile murder trial exposed the extent of American racial tensions, revealing a fractured and divided nation.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Documental",
+        "Crimen",
+        "Historia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1942884",
+      "type": "movie",
+      "name": "Indie Game: La Película",
+      "poster": "https://image.tmdb.org/t/p/w500/2B1IqPg97ZhpEov4Fg3si4hI1Kw.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fPUbP2MpL1zGD1x8xkOtu1o6ZH4.jpg",
+      "description": "Indie Game: La Pelicula captura el proceso de sacar a la venta un videojuego independiente y la dedicación y esfuerzo que ello requiere. Lo hace retratando la vida de las personas detrás de tres juegos de gran relevancia en el mercado independiente: Braid, Super Meat Boy y Fez. Son cuatro personas que han decidido anteponer su libertad creativa y el placer de crear algo propio a la comodidad de un trabajo estable y seguro. Lo han puesto todo en suspenso para dedicarse a aquello que aman y del fruto que su esfuerzo produzca dependen sus carreras y, en cierto modo, sus vidas.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Documental",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt24082438",
+      "type": "movie",
+      "name": "20 Días en Mariúpol",
+      "poster": "https://image.tmdb.org/t/p/w500/w5ScKqilI7NoxDekOTywrQhktbk.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
+      "description": "Un grupo de periodistas ucranianos atrapados en la ciudad costera de Mariúpol documentan los estragos de la guerra cuando las fuerzas rusas invaden la zona a principios de 2022.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Documental",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8430054",
+      "type": "movie",
+      "name": "Flee: Huyendo De Casa",
+      "poster": "https://image.tmdb.org/t/p/w500/1oRhbRFKB16eSToMYDBNb5uZggT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+      "description": "Un refugiado afgano residente en Dinamarca acepta contar su historia personal con la condición de que no se revele su identidad. Para lograr tal propósito, el director decidió emplear un estilo de animación que no sólo protegía al protagonista, sino que potenciaba su historia.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental",
+        "Animación"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5598102",
+      "type": "movie",
+      "name": "Visages villages",
+      "poster": "https://image.tmdb.org/t/p/w500/hyqEE4sDmpO8FaCv0gVi8hSM0w7.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/w4uYP6ebNaLQIjsHcjQhjz3BB2m.jpg",
+      "description": "Colaboración entre la veterana directora Agnès Varda y el artista gráfico urbano y fotógrafo JR, un joven francés conocido por sus impactantes obras visuales que consisten en enormes intervenciones gráficas en calles y tejados de diversas ciudades de todo el mundo.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6016744",
+      "type": "movie",
+      "name": "Al filo de la democracia",
+      "poster": "https://image.tmdb.org/t/p/w500/qIlYgO4FoIM3YKffaFvIvKoh30c.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/b8LjR8NjRjrWs6uIfGfrDn0OeI6.jpg",
+      "description": "Tras el escándalo político, los líderes de Brasil deben encontrar la forma de unir a su país dividido ideológicamente.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0393597",
+      "type": "movie",
+      "name": "La Tierra",
+      "poster": "https://image.tmdb.org/t/p/w500/w9LcXBnhi3YVe46l2M5vkExICFH.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/4ADZ2iiATjoKxZwjJRiEo1x6Fk0.jpg",
+      "description": "LA TIERRA es una épica historia de aventura, protagonizada por las criaturas mas magnificas y valientes del planeta. Disneynature presenta la inolvidable historia del viaje que emprenden tres familias de animales para cruzar el planeta: osos polares, elefantes y ballenas azules.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4897822",
+      "type": "movie",
+      "name": "Where to Invade Next",
+      "poster": "https://image.tmdb.org/t/p/w500/58gW2Uty2cAsgBgwC58vT2Z9SVt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/u0MkKzk3WwfrV7GgRTXVoFTP5TA.jpg",
+      "description": "To understand firsthand what the United States of America can learn from other nations, Michael Moore playfully “invades” some to see what they have to offer.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental",
+        "Comedia"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4908644",
+      "type": "movie",
+      "name": "Winter on Fire: Ukraine's Fight for Freedom",
+      "poster": "https://image.tmdb.org/t/p/w500/1i8KPPy3aN6MVwtrjgXLXM33ajN.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/nhjWUf4wXsWZY9hKR1EoQOhjued.jpg",
+      "description": "En Ucrania, durante 93 días, lo que comenzó como una marcha estudiantil pacífica se convirtió en una revolución violenta y un movimiento pleno por los derechos civiles.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30796448",
+      "type": "movie",
+      "name": "La gran noche del pop",
+      "poster": "https://image.tmdb.org/t/p/w500/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2YAsgcRDuISJbp2Fum9wvMCkLZe.jpg",
+      "description": "En enero de 1985, las más grandes estrellas de la música se reunieron para grabar «We Are the World». Este documental revela el detrás de cámaras del evento histórico.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8991268",
+      "type": "movie",
+      "name": "Медена земја",
+      "poster": "https://image.tmdb.org/t/p/w500/eYXwO7SDVvLqHMD3hwYM41xGwUg.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/q3rUkRlFBzf0XfjeKrfonQiLfr1.jpg",
+      "description": "When nomadic beekeepers break Honeyland’s basic rule (take half of the honey, but leave half to the bees), the last female beehunter in Europe must save the bees and restore natural balance.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5433114",
+      "type": "movie",
+      "name": "Diego Maradona",
+      "poster": "https://image.tmdb.org/t/p/w500/3eBZxi0xcXBnEYq4m4YTVf0eHWX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lFb1Ey6HqCdc2D74Zt5kr7EpQKT.jpg",
+      "description": "Repasamos la carrera y la vida del aclamado y controvertido futbolista argentino Diego Armando Maradona. En 1984 Maradona llego a Nápoles con uno de los contratos más elevados del mundo hasta la fecha.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3521134",
+      "type": "movie",
+      "name": "La mirada del silencio",
+      "poster": "https://image.tmdb.org/t/p/w500/tpXqve8jF6RDL03zKXDgE0Cdw8v.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/eozLsgdW5VyUEdPDuDaBD4VB86o.jpg",
+      "description": "A través de la película documental 'The Act of Killing', de Joshua Oppenheimer, sobre los responsables del genocidio en Indonesia, una familia de supervivientes descubre cómo fue asesinado su hijo y la identidad de los hombres que lo mataron. El hermano más joven se decide a romper ese silencio y miedo con el que viven los supervivientes, enfrentándose a los responsables del asesinato de su hermano, algo inimaginable en un país en el que los asesinos siguen en el poder.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Historia",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9098872",
+      "type": "movie",
+      "name": "The Rescue",
+      "poster": "https://image.tmdb.org/t/p/w500/1UFYnM3JASe3iuY636TluYImbY3.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/gOBKWe6lHlt8srk11TFlDuBtl0H.jpg",
+      "description": "\"The Rescue\" narra la historia contra todo pronóstico del audaz rescate de doce niños y su entrenador de las profundidades de una cueva inundada en Tailandia.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10322274",
+      "type": "movie",
+      "name": "Schumacher",
+      "poster": "https://image.tmdb.org/t/p/w500/tfCzpa35PUTuJg95vcMq1D6tc4x.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg",
+      "description": "Mediante entrevistas exclusivas e imágenes de archivo, este documental ofrece un retrato íntimo del heptacampeón de Fórmula Uno Michael Schumacher.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2531318",
+      "type": "movie",
+      "name": "The Beatles: Ocho días a la semana",
+      "poster": "https://image.tmdb.org/t/p/w500/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/2qQ93RRTwNv7aTL9fafT3sPAVAy.jpg",
+      "description": "El grupo irrumpió en Europa en 1963, y en 1964 conquistaron América. Sus innovadoras giras mundiales cambiaron la cultura juvenil global para siempre y posiblemente inventaron el entretenimiento masivo tal como lo conocemos hoy. Al mismo tiempo, el grupo componía y grababa una serie de sencillos y álbumes extraordinariamente exitosos. Sin embargo, la presión implacable de tal fama sin precedentes -que en 1966 se volvió una agitación incontrolable- llevó a la decisión de dejar las giras. En los años siguientes, The Beatles quedaron libres para concentrarse en una serie de álbumes que cambiaron el rostro de la música grabada.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4420704",
+      "type": "movie",
+      "name": "Kedi (Gatos de Estambul)",
+      "poster": "https://image.tmdb.org/t/p/w500/5H8kbuppI4PegLsTUXpt4txeuYV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
+      "description": "Cientos de miles de gatos vagan libremente por la frenética ciudad de Estambul, la metrópolis turca de casi 15 millones de habitantes que divide Oriente de Occidente. Sin dueño, estos animales viven entre dos mundos, ni salvajes ni domésticos -y llenan de alegría a los que deciden adoptar-. En Estambul, los gatos funcionan como reflejo de la gente, permitiéndoles reflexionar sobre sus vidas de una forma única",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2382298",
+      "type": "movie",
+      "name": "Life Itself",
+      "poster": "https://image.tmdb.org/t/p/w500/nK4cYTEO2eHLMgMII0Ux0kBOGhG.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/hfBVcLWjvL9ZCEPDLcbGYsBvor1.jpg",
+      "description": "The surprising and entertaining life of renowned film critic and social commentator Roger Ebert (1942-2013): his early days as a freewheeling bachelor and Pulitzer Prize winner, his famously contentious partnership with Gene Siskel, his life-altering marriage, and his brave and transcendent battle with cancer.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4284010",
+      "type": "movie",
+      "name": "What Happened, Miss Simone?",
+      "poster": "https://image.tmdb.org/t/p/w500/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xfMbreyyytL6vo0qsjIhUwEcMAO.jpg",
+      "description": "The film chronicles Nina Simone's journey from child piano prodigy to iconic musician and passionate activist, told in her own words.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Música",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0317910",
+      "type": "movie",
+      "name": "The Fog of War",
+      "poster": "https://image.tmdb.org/t/p/w500/nQVYsW0sd8dD4isqF0nFmtfedbA.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/dFFdQgTtvL2X02xuGpDwn6SqFiL.jpg",
+      "description": "Former corporate whiz kid Robert McNamara was the controversial Secretary of Defense in the Kennedy and Johnson administrations, during the height of the Vietnam War. Augmented by archival footage and cabinet conversation recordings, Errol Morris gives the conflicted McNamara a platform on which he attempts to confront his and the U.S. government's actions in Southeast Asia in light of the horrors of modern warfare, the end of ideology and the punitive judgment of history.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2714900",
+      "type": "movie",
+      "name": "Finding Vivian Maier",
+      "poster": "https://image.tmdb.org/t/p/w500/yaj9mpHNpns5j4ODP4352PgDWJM.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/ajukqMGU1d5d1Csx0jUGPDsXpFC.jpg",
+      "description": "Vivian Maier's photos were seemingly destined for obscurity, lost among the clutter of the countless objects she'd collected throughout her life. Instead these images have shaken the world of street photography and irrevocably changed the life of the man who brought them to the public eye. This film brings to life the interesting turns and travails of the improbable saga of John Maloof's discovery of Vivian Maier, unravelling this mysterious tale through her documentary films, photographs, odd collections and personal accounts from the people that knew her. What started as a blog to show her work quickly became a viral sensation in the photography world. Photos destined for the trash heap now line gallery exhibitions, a forthcoming book and this documentary film.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tmdb:1040330",
+      "type": "movie",
+      "name": "Black Adam: ¿Héroe o Villano?",
+      "poster": "https://image.tmdb.org/t/p/w500/7MwrqCY0AZw3ZWp1F8BWsYLRWUu.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jVsbzy5gj3McD8V6dDr7EMrLSqT.jpg",
+      "description": "Los protagonistas y el director de Black Adam intentan responder esta pregunta y dan sus opiniones sobre el antihéroe de DC mientras la película se encuentra disponible sólo en cines.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14079374",
+      "type": "movie",
+      "name": "14 Montañas: Nada es Imposible",
+      "poster": "https://image.tmdb.org/t/p/w500/8YS9oRn9rcAyBhYELFbGKk1TpFs.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/lRCAcwJeh93YHO3ghFBDf0Pj3w3.jpg",
+      "description": "El intrépido escalador nepalí Nimsdai Purja emprende una misión aparentemente imposible: coronar los 14 picos del mundo que superan los 8000 metros en solo siete meses.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7689966",
+      "type": "movie",
+      "name": "Robin Williams: Entra a mi mente",
+      "poster": "https://image.tmdb.org/t/p/w500/9hthxtCRHeUKlQXqmSMnmHP06Mi.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/1FIK6rehI7ZMVRv3MDY5GHiYa9M.jpg",
+      "description": "Un retrato divertido, íntimo y desgarrador de uno de los comediantes más queridos e inventivos del mundo, Robin Williams, contado en gran parte a través de sus propias palabras. Celebra lo que trajo a la comedia y a la cultura en general, desde los días salvajes de finales de la década de 1970 hasta su muerte en 2014.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt27902121",
+      "type": "movie",
+      "name": "Super/Man: La historia de Christopher Reeve",
+      "poster": "https://image.tmdb.org/t/p/w500/rP0Lxg8p1FDLUKoO28MTGDdwpP0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/xD3ePiiueSrWp4aXtZNrWhzLrlh.jpg",
+      "description": "Christopher Reeve era una estrella de cine mundial, pero en 1995 sufrió un accidente casi mortal montando a caballo que le dejó paralizado del cuello para abajo. Después se convirtió en activista en favor de los tratamientos para las lesiones medulares y los derechos de las personas con discapacidad.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4449576",
+      "type": "movie",
+      "name": "Mañana",
+      "poster": "https://image.tmdb.org/t/p/w500/i0kziW089X4p1BN6rdHCA4Zg8bJ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/94JL7EYGjhQpKAkFgpMVxft54ge.jpg",
+      "description": "Tras la publicación de un estudio que anunciaba la posible desaparición de parte de la humanidad en 2100, Cyril Dion y Mélanie Laurent y un equipo de cuatro personas visitan diez países para investigar las causas de la catástrofe y, sobre todo, la forma de evitarla. Durante su viaje, se encuentran con pioneros que reinventan la agricultura, la energía, la economía, la democracia y la educación. Terminado su trabajo, empiezan a vislumbrar la posibilidad de que surja un nuevo mundo: el mundo del mañana.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt30327680",
+      "type": "movie",
+      "name": "El juego del calamar: El desafío - Detrás de cámaras",
+      "poster": "https://image.tmdb.org/t/p/w500/78yTLvtsMntVN1cLfzBuZj870pe.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/i9bhxhUBFZHorvK81GNKMJGj2Kt.jpg",
+      "description": "Una mirada detrás de cámaras del reality inspirado en «El juego del calamar» que transformó un guion dramático en una competencia despiadada y cargada de adrenalina.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5069564",
+      "type": "movie",
+      "name": "John Mulaney: The Comeback Kid",
+      "poster": "https://image.tmdb.org/t/p/w500/pzM9t33T2YUA7vaCb2GxaDrlTW1.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8iTGzNjDAFsn2zZr6sdJ79GLp5K.jpg",
+      "description": "Armed with boyish charm and a sharp wit, the former \"SNL\" writer offers sly takes on marriage, his beef with babies and the time he met Bill Clinton.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comedia",
+        "Película de TV",
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0765128",
+      "type": "movie",
+      "name": "Océanos",
+      "poster": "https://image.tmdb.org/t/p/w500/6fS5mEtVvPTOxB8QwopUlJVSxwK.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/8Jys5rX9IQkKxVfNeq8OKdSSx9g.jpg",
+      "description": "Sumergiéndose en las profundidades de todos los mares del planeta, “Océanos” explora la cara más desconocida de la Tierra, desde las lagunas tropicales y los témpanos polares hasta las inexploradas profundidades donde no llega la luz solar. Un monumental viaje para encontrar a las majestuosas criaturas de mar que ya conocemos, de las que sabemos muy poco y las muchas que aún nos quedan por descubrir.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documental",
+        "Familia",
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7133092",
+      "type": "movie",
+      "name": "Spielberg",
+      "poster": "https://image.tmdb.org/t/p/w500/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+      "description": "Documental de HBO sobre la carrera de Steven Spielberg, con entrevistas a amigos y colaboradores del director, que explican sus métodos de trabajo, los secretos de su éxito y repasan algunas de sus películas más icónicas.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt11394298",
+      "type": "movie",
+      "name": "El agente topo",
+      "poster": "https://image.tmdb.org/t/p/w500/eMqU1NkCKTceTwN6t7bQy75D7zb.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bah2TMqbDs5DAvJclOd8DqhkuYO.jpg",
+      "description": "Rómulo, un investigador privado, recibe de parte de una clienta el encargo de investigar sobre el estado de salud de su madre, quien vive en un asilo. Para llevar a cabo la misión contrata a Sergio, un hombre viudo de 83 años quien debe internarse en el asilo como un agente topo. Allí, Sergio lucha por cumplir su misión mientras inevitablemente, emplea a involucrarse en la vida de las residentes de ese hogar.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documental"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt3455224",
+      "type": "movie",
+      "name": "Virunga",
+      "poster": "https://image.tmdb.org/t/p/w500/7ULqkiqpxWfQxNHRq5PeZjJQ3f6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/cLjb7E4I1pL99KLquqdjxTUrCnu.jpg",
+      "description": "Virunga in the Democratic Republic of the Congo is Africa’s oldest national park, a UNESCO world heritage site, and a contested ground among insurgencies seeking to topple the government that see untold profits in the land. Among this ongoing power struggle, Virunga also happens to be the last natural habitat for the critically endangered mountain gorilla. The only thing standing in the way of the forces closing in around the gorillas: a handful of passionate park rangers and journalists fighting to secure the park’s borders and expose the corruption of its enemies. Filled with shocking footage, and anchored by the surprisingly deep and gentle characters of the gorillas themselves, Virunga is a galvanizing call to action around an ongoing political and environmental crisis in the Congo.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documental",
+        "Bélica"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

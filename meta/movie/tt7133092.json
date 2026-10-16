@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt7133092",
+    "type": "movie",
+    "name": "Spielberg",
+    "poster": "https://image.tmdb.org/t/p/w500/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/fHM3ChEYaoAEcCCpRokQzN2DBYy.jpg",
+    "description": "Documental de HBO sobre la carrera de Steven Spielberg, con entrevistas a amigos y colaboradores del director, que explican sus métodos de trabajo, los secretos de su éxito y repasan algunas de sus películas más icónicas.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

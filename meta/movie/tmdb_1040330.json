@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tmdb:1040330",
+    "type": "movie",
+    "name": "Black Adam: ¿Héroe o Villano?",
+    "poster": "https://image.tmdb.org/t/p/w500/7MwrqCY0AZw3ZWp1F8BWsYLRWUu.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jVsbzy5gj3McD8V6dDr7EMrLSqT.jpg",
+    "description": "Los protagonistas y el director de Black Adam intentan responder esta pregunta y dan sus opiniones sobre el antihéroe de DC mientras la película se encuentra disponible sólo en cines.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

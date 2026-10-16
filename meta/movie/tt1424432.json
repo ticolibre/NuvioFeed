@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt1424432",
+    "type": "movie",
+    "name": "Senna",
+    "poster": "https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/vtXCGAkCx5o2p0jn3A1QmdR5u5i.jpg",
+    "description": "Este documental dinámico retrata a Ayrton Senna, uno de los mejores pilotos de carrera de Fórmula Uno de la historia y un héroe en su Brasil natal.",
+    "releaseInfo": "2010",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    }
+  }
+}

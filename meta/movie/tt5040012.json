@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt5040012",
+    "type": "movie",
+    "name": "Nosferatu",
+    "poster": "https://image.tmdb.org/t/p/w500/jivUhECegXI3OYtPVflWoIDtENt.jpg",
+    "posterShape": "poster",
+    "description": "Una historia gótica de obsesiones entre una joven atormentada en la Alemania del siglo XIX y el antiguo vampiro de Transilvania que la acecha, trayendo consigo un inefable horror.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Terror",
+      "Fantasía"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/gprjiZWY43vxSKngMha1wfb5TGG.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.7"
+        }
+      }
+    }
+  }
+}

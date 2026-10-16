@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt13403046",
+    "type": "movie",
+    "name": "Fresh",
+    "poster": "https://image.tmdb.org/t/p/w500/kM3vDd8qtcM1zkXonZgG8rhb69x.jpg",
+    "posterShape": "poster",
+    "description": "Thriller sobre los horrores de las citas modernas vistos a través de la desafiante batalla de una joven para sobrevivir a los inusuales apetitos de su nuevo novio.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Terror",
+      "Suspense",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}
