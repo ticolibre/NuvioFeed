@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA, Adult Swim and streaming originals (HBO/Max, Apple TV+, Hulu, Prime Video, Netflix). Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -199,75 +199,9 @@
       ]
     },
     {
-      "type": "series",
-      "id": "adult-swim",
-      "name": "Adult Swim",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
       "type": "movie",
       "id": "sxsw-narrative",
       "name": "SXSW: Grand Jury Winners",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "hbo-max",
-      "name": "HBO / Max Originals",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "apple-tv",
-      "name": "Apple TV+ Originals",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "hulu",
-      "name": "Hulu Originals",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "amazon-prime",
-      "name": "Amazon Prime Originals",
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "series",
-      "id": "netflix",
-      "name": "Netflix Originals",
       "extra": [
         {
           "name": "skip",
