@@ -2,7 +2,7 @@
   "id": "com.ticolibre.catalogues",
   "version": "1.0.0",
   "name": "TicoLibre Catalogues",
-  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA. Powered by TMDB.",
+  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA and Top Anime Series. Powered by TMDB.",
   "resources": [
     "catalog",
     {
@@ -312,6 +312,17 @@
       "type": "series",
       "id": "top-1980s-series",
       "name": "Top 80s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-anime-series",
+      "name": "Top Anime Series",
       "extra": [
         {
           "name": "skip",
