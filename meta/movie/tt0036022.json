@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0036022",
+    "type": "movie",
+    "name": "The Human Comedy",
+    "poster": "https://image.tmdb.org/t/p/w500/rHOLe1QIQn7NVdvqvkrC3z88f7R.jpg",
+    "posterShape": "poster",
+    "description": "Teenager Homer Macauley stays at home in the small town of Ithaca, California to support his family while his older brother Marcus prepares to go to war.",
+    "releaseInfo": "1943",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/rwloZ4Z2aX7hJiitjkPOgv7xbrb.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    }
+  }
+}

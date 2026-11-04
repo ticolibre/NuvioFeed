@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0033870",
+    "type": "movie",
+    "name": "El halcón maltés",
+    "poster": "https://image.tmdb.org/t/p/w500/zFs0brybfDHNwpfXQVyjFyam8uw.jpg",
+    "posterShape": "poster",
+    "description": "El detective privado Sam Spade toma un caso que le lleva a conocer a tres excéntricos criminales en busca de una estatuilla de valor incalculable.",
+    "releaseInfo": "1941",
+    "genres": [
+      "Misterio",
+      "Crimen",
+      "Suspense"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    }
+  }
+}

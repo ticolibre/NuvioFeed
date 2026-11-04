@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2328900",
+    "type": "movie",
+    "name": "Las dos reinas",
+    "poster": "https://image.tmdb.org/t/p/w500/mpA5ZEtDnAHlfrx8GEF19GoiTI0.jpg",
+    "posterShape": "poster",
+    "description": "Relato biográfico de una etapa de la vida de la reina María Estuardo de Escocia, que se enfrentó a su prima Isabel I cuando, al volver de Francia tras haber enviudado, reclamaba su derecho a la corona de Inglaterra.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/iv5N169nQIzrS0pZ8MBEiemTtVt.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    }
+  }
+}

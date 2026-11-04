@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0983946",
+    "type": "movie",
+    "name": "La Isla de la Fantasía",
+    "poster": "https://image.tmdb.org/t/p/w500/l2vgIg9essoPYnyEdmdPqxZC3kp.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+    "description": "Un grupo de ganadores de un concurso llega a un hotel de una isla para vivir sus sueños, solo para encontrarse atrapado en escenarios de pesadilla.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Terror",
+      "Misterio"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.7"
+        }
+      }
+    }
+  }
+}

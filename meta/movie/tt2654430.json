@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2654430",
+    "type": "movie",
+    "name": "Whiplash",
+    "poster": "https://image.tmdb.org/t/p/w500/hBNl6biy1DqnInbGVG7RQlAcSXn.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/sO70LyX3CHDNimbUwdGqL6pjrD3.jpg",
+    "description": "A ferocious, bullying music teacher teaches a dedicated student.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    }
+  }
+}

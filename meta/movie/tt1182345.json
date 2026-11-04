@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1182345",
+    "type": "movie",
+    "name": "En la luna",
+    "poster": "https://image.tmdb.org/t/p/w500/6c3ll5lULUaqeNNko1p8q8pmroi.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
+    "description": "En el otro lado de la luna, el solitario minero Sam avanza lentamente hacia el final de su período de tres años trabajando para una mega corporación que ha encontrado una veta de oro en la roca lunar. Pero, la locura acecha.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

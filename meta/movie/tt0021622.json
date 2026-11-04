@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt0021622",
+    "type": "movie",
+    "name": "Arrowsmith",
+    "poster": "https://image.tmdb.org/t/p/w500/7ZUh9tIMTKfQDfs20f21eQ2RAlG.jpg",
+    "posterShape": "poster",
+    "description": "A medical researcher is sent to a plague outbreak, where he has to decide priorities for the use of a vaccine.",
+    "releaseInfo": "1931",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/lEbxTnpp7dj8Cwm6YjWR9kNaAoN.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    }
+  }
+}

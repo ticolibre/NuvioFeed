@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0032881",
+    "type": "movie",
+    "name": "Our Town",
+    "poster": "https://image.tmdb.org/t/p/w500/tXYWSUIUfiG06XzgSSkd4sQFOru.jpg",
+    "posterShape": "poster",
+    "description": "Change comes slowly to a small New Hampshire town in the early 20th century. We see birth, life and death in this small community.",
+    "releaseInfo": "1940",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/p1W6jXASQxaQebUOvmh5ejySFiV.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.9"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0796366",
+    "type": "movie",
+    "name": "Star Trek",
+    "poster": "https://image.tmdb.org/t/p/w500/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+    "description": "El descarado James T. Kirk intenta estar a la altura del legado de su padre con el Sr. Spock manteniéndolo a raya mientras un romulano vengativo del futuro crea agujeros negros para destruir la Federación, planeta por planeta.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

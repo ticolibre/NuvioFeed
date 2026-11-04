@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1361336",
+    "type": "movie",
+    "name": "Tom y Jerry",
+    "poster": "https://image.tmdb.org/t/p/w500/jPUtAr0EAB2l5O2kz8FKGUfrkPV.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/69USXLJEXcgMzlhZi7bmaCORxHn.jpg",
+    "description": "Jerry, un ratón travieso que se ha instalado en el mejor hotel de la ciudad de Nueva York en vísperas de \"la boda del siglo\", obliga a la desesperada planificadora del evento, una joven empleada llamada Kayla, para contratar a un gato callejero llamado Tom para deshacerse de él.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Animación"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.7"
+        }
+      }
+    }
+  }
+}

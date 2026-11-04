@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt3501632",
+    "type": "movie",
+    "name": "Thor: Ragnarok",
+    "poster": "https://image.tmdb.org/t/p/w500/rGaayCxGkHZLUyDDB3QQnDg2MHQ.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+    "description": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

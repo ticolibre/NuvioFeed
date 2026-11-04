@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "id": "tt7326322",
+    "type": "series",
+    "name": "The Ancient Magus' Bride (Mahou Tsukai no Yome)",
+    "poster": "https://image.tmdb.org/t/p/w500/sJCw9H0PmnJnTYTCx7uiHImOxSg.jpg",
+    "posterShape": "poster",
+    "description": "Chise Hatori, 15 años.\n\nPerdida, sin esperanza y sin familia, la compran por dinero. Pero quien la compra no es otra persona, sino un hechicero no humano llamado Elias. Aunque al inicio duda, la joven comenzará una nueva vida como su aprendiz y futura esposa.\n\nSe muda y comienza a vivir una nueva vida pacífica, tranquila pero firme, hasta que un día encuentra un libro ilustrado japonés entre los muchos que le envía Angelica desde Londres. Es un libro que ella descubrió en sus años jóvenes, cuando todavía estaba sola y desamparada.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/KI2sFvqJHzc95WM7dcX9kM8tY1.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt7326322:1:1",
+        "title": "A abril con sus chaparrones, sigue mayo con sus flores",
+        "season": 1,
+        "episode": 1,
+        "overview": "Chise Hatori es una chica a la que apenas le queda esperanza, y por eso decide dejarlo todo atrás y ser vendida en una subasta poco peculiar. Allí será comprada por un misterioso mago que quiere hacerle su aprendiz.",
+        "released": "2017-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kvIikSYZE8BFH1gWWAWgyWuwEZ6.jpg"
+      },
+      {
+        "id": "tt7326322:1:2",
+        "title": "Un hoy vale por dos mañanas",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tras el incidente con las hadas, Chise y el mago marchan a la ciudad para atender algunos recados. Allí, la muchacha conocerá a Angelica, una artífice de herramientas mágicas que le hablará un poco sobre la magia.",
+        "released": "2017-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1l5vKAMmEHcbLqqRLmFSf2WHAW4.jpg"
+      },
+      {
+        "id": "tt7326322:1:3",
+        "title": "La balanza no distingue el oro del plomo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Durante su “luna de miel”, Chise parece ser raptada por un dragón. Sin embargo, no hay peligro en la tierra de estos mágicos seres y allí la muchacha conocerá a Lindel, cuidador del nido de dragones.",
+        "released": "2017-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z9znqy5r1rdguvSa9lddK3jWtSE.jpg"
+      },
+      {
+        "id": "tt7326322:1:4",
+        "title": "Todo debe tener un principio",
+        "season": 1,
+        "episode": 4,
+        "overview": "Chise y Elias continúan en su peculiar luna de miel, y esta vez viajarán hasta el llamado reino de los gatos, donde su soberana les pedirá deshacerse de una abominación que esconde una triste historia.",
+        "released": "2017-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xBrnNOYdkJRWvtXfdQJx224qmOp.jpg"
+      },
+      {
+        "id": "tt7326322:1:5",
+        "title": "El amor lo conquista todo",
+        "season": 1,
+        "episode": 5,
+        "overview": "Tras el ataque sorpresa de los hechiceros, Chise será testigo de la historia de la abominación, un hombre que lo dio todo para poder salvar a su esposa.",
+        "released": "2017-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pVrVPipEKerRi0mgKYGIFcuiJSR.jpg"
+      },
+      {
+        "id": "tt7326322:1:6",
+        "title": "La reina de las hadas",
+        "season": 1,
+        "episode": 6,
+        "overview": "Tras utilizar su poder, Chise queda muy débil y cae en un sueño profundo. Al despertar, conocerá a la reina de las hadas y empezará a conocer un poco mejor al misterioso mago.",
+        "released": "2017-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wB1FaCZtEOd5Z16aLOv6UDeStJP.jpg"
+      },
+      {
+        "id": "tt7326322:1:7",
+        "title": "Hablando del Rey de Roma, por la puerta asoma",
+        "season": 1,
+        "episode": 7,
+        "overview": "Chise y el mago marchan en busca del Church Grim, un perro negro guardián, pero por el camino se encontrarán con la aprendiza del hechicero, que quiere ayudar a su señor a toda costa.",
+        "released": "2017-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/reh8PIm14cISstdsvv97fRZq3fZ.jpg"
+      },
+      {
+        "id": "tt7326322:1:8",
+        "title": "Al perro que duerme, no lo despiertes",
+        "season": 1,
+        "episode": 8,
+        "overview": "Cuando Chise resulta gravemente herida, el mago se convertirá en todo un monstruo para enfrentarse al misterioso Cartafilo. Sin embargo, la muchacha demostrará todo el poder que lleva dentro.",
+        "released": "2017-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7XT2GCIfIiwQczDzrK1PlpjIOcR.jpg"
+      },
+      {
+        "id": "tt7326322:1:9",
+        "title": "No hay peor sordo que el que no quiere oír",
+        "season": 1,
+        "episode": 9,
+        "overview": "Tras volver a casa, el mago se encierra en su habitación dejando a Chise muy confusa y sin saber qué hacer, planteándose cómo de bien conoce a su maestro.",
+        "released": "2017-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/abGrRnFpR7BB23ajXhvoFOkxaWk.jpg"
+      },
+      {
+        "id": "tt7326322:1:10",
+        "title": "Vivimos y aprendemos",
+        "season": 1,
+        "episode": 10,
+        "overview": "Lindel envía a una mensajera a buscar a Chise para que la guíe hasta la tierra de los dragones, pues cree que ya es necesario que cuente con una vara. Un viaje, que le servirá para aprender más cosas sobre el mago.",
+        "released": "2017-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oWtyFEYDN1YH6OKnvClsOdZ1NdQ.jpg"
+      },
+      {
+        "id": "tt7326322:1:11",
+        "title": "El alma enamorada cuenta las horas con más presteza que el reloj",
+        "season": 1,
+        "episode": 11,
+        "overview": "Tras conocer la historia del mago y saber un poco más de su misterioso origen, Chise deberá concentrarse para realizar la tarea por la que fue a la tierra de los dragones.",
+        "released": "2017-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bu1PLxmG0Siq1R1ItDERBgxMfdF.jpg"
+      },
+      {
+        "id": "tt7326322:1:12",
+        "title": "Mejor prevenir que lamentar",
+        "season": 1,
+        "episode": 12,
+        "overview": "Ahora que Chise ha cumplido su propósito en la tierra de los dragones, tendrá un revelador encuentro con el sabio y antiguo dragón con el que comparte un vínculo muy especial.",
+        "released": "2017-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6PmwKDa8L6wyji9T4wzF1lz38ag.jpg"
+      },
+      {
+        "id": "tt7326322:1:13",
+        "title": "El hogar está donde está el corazón",
+        "season": 1,
+        "episode": 13,
+        "overview": "Chise ya está en casa con el mago y aunque ella desea hablar de muchas cosas con él deben encargarse de esquilar a los mosquitos lanudos.",
+        "released": "2018-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/605vO72teVhxDn18o7fUrFyH4SZ.jpg"
+      },
+      {
+        "id": "tt7326322:1:14",
+        "title": "El amor está en la mirada",
+        "season": 1,
+        "episode": 14,
+        "overview": "Tras su experiencia al transformarse en zorra, Chise regresa a casa para encontrarse con la leanan sídhe que vive junto al viejo Joel, quien le implora que ayude al hombre.",
+        "released": "2018-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tB1fPLyuxwbsX4JNrGNHdjbi6ln.jpg"
+      },
+      {
+        "id": "tt7326322:1:15",
+        "title": "No hay lugar como el hogar",
+        "season": 1,
+        "episode": 15,
+        "overview": "Tras usar el ungüento prohibido de las hadas, Chise deberá afrontar un castigo que la dejará muy débil. Por ello, el mago y Oberon llevarán a la muchacha a la tierra de las hadas para encontrar una solución.",
+        "released": "2018-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p8A5yGNFiJPNZsGXQOj5QBzCSvU.jpg"
+      },
+      {
+        "id": "tt7326322:1:16",
+        "title": "Las ruedas del molino de Dios muelen lento, pero finísimo.",
+        "season": 1,
+        "episode": 16,
+        "overview": "La llegada del solsticio de invierno también es sinónimo de la Navidad, y Chise va hasta Londres para encontrarse con Alice y tener la oportunidad de comprarle un regalo al mago.",
+        "released": "2018-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n6FKJxg5rzcGBw3jabrn7eXLeCX.jpg"
+      },
+      {
+        "id": "tt7326322:1:17",
+        "title": "Mira antes de saltar",
+        "season": 1,
+        "episode": 17,
+        "overview": "Cuando Chise, el mago y Ruth salen de casa para ir a visitar a Simon, se encuentran con una niña asustada que asegura que su hermano ha desaparecido. Será entonces cuando Chise y los demás decidan ayudarla.",
+        "released": "2018-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3SrfgstakO6Xx6bCRrCwSmJpnU.jpg"
+      },
+      {
+        "id": "tt7326322:1:18",
+        "title": "Perdona y olvida",
+        "season": 1,
+        "episode": 18,
+        "overview": "Cuando Stella visita a Chise para darle las gracias por haber salvado a su hermano pequeño como prometió, el mago comenzará a sentirse de una manera extraña que nunca antes había experimentado.",
+        "released": "2018-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q2KzfcrK8AakaIFJQVkLYUdN6zW.jpg"
+      },
+      {
+        "id": "tt7326322:1:19",
+        "title": "Cualquier puerto es bueno",
+        "season": 1,
+        "episode": 19,
+        "overview": "Cuando unos dragones desaparecen de su tierra mágica, los hechiceros de la universidad pedirán ayuda al mago y Chise, quien no se podrá negar ante el vínculo que tiene con estos maravillosos seres.",
+        "released": "2018-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mdl7dXfssxtd0rO7g8670yeAchK.jpg"
+      },
+      {
+        "id": "tt7326322:1:20",
+        "title": "No puedes hacer un omelet sin romper unos huevos",
+        "season": 1,
+        "episode": 20,
+        "overview": "Tras intervenir en la subasta del dragón, la situación se tornará desesperada para Chise, pues la muchacha se sacrificará de nuevo con unas peligrosas consecuencias.",
+        "released": "2018-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a1tI4WFElcvtXqMdaH4EWkODuZ2.jpg"
+      },
+      {
+        "id": "tt7326322:1:21",
+        "title": "La necesidad carece de ley",
+        "season": 1,
+        "episode": 21,
+        "overview": "Mientras se conocen mejor el uno al otro, Chise y el mago harán acto de presencia en el aquelarre de las brujas.",
+        "released": "2018-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/360OIYs0WE8qov8h84F9PJw2k1K.jpg"
+      },
+      {
+        "id": "tt7326322:1:22",
+        "title": "Cosechas lo que siembras",
+        "season": 1,
+        "episode": 22,
+        "overview": "Cuando menos lo espera, y en el momento menos propicio, Chise volverá a aquellos días de su niñez que, a pesar de comenzar de manera feliz, le marcaron muchísimo por un dramático acontecimiento.",
+        "released": "2018-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bQrKJrqJcl9yx5pFNdi0IkPauEr.jpg"
+      },
+      {
+        "id": "tt7326322:1:23",
+        "title": "Busca y encontrarás",
+        "season": 1,
+        "episode": 23,
+        "overview": "Sin Chise a su alcance, el mago vaga desesperado en su búsqueda hasta encontrar a la reina de las hadas, quien no dudará en ayudarle.",
+        "released": "2018-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uTGHQQ7Wd35WUDtHmk6F0LnASPX.jpg"
+      },
+      {
+        "id": "tt7326322:1:24",
+        "title": "Vive y deja vivir",
+        "season": 1,
+        "episode": 24,
+        "overview": "Haber sufrido no da derecho a lastimar a otros. Ese es el mensaje que Chise quiere hacerle entender a Cartafilo, o Joseph, ahora que además el mago consiguió encontrarla.",
+        "released": "2018-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rH7n18DxJF3zQmtWcoHztQiafQk.jpg"
+      },
+      {
+        "id": "tt7326322:2:1",
+        "title": "Vive y deja vivir II",
+        "season": 2,
+        "episode": 1,
+        "overview": "Pese a las reticencias de Elias, Chise comienza su nueva etapa de estudiante. Tal vez sus nuevos estudios la ayuden a comprenderse mejor a sí misma y a no a arriesgar su vida para ayudar a otros como tantas veces hizo anteriormente.",
+        "released": "2023-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6dEQjN5auGtnP3SrhzVOwLxBUX8.jpg"
+      },
+      {
+        "id": "tt7326322:2:2",
+        "title": "Dios los cría y ellos se juntan. I",
+        "season": 2,
+        "episode": 2,
+        "overview": "Chise comienza sus clases, incluyendo la primera lección de Elias. Que sea maga no tarda en llamar la atención entre sus compañeros, aunque todos parecen emocionados con su presencia y se siente bien recibida.",
+        "released": "2023-04-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/83dYre3iSOvPf3EvUmnVqgGMjIw.jpg"
+      },
+      {
+        "id": "tt7326322:2:3",
+        "title": "Dios los cría y ellos se juntan. II",
+        "season": 2,
+        "episode": 3,
+        "overview": "Chise comienza a conocer a sus compañeros en la escuela de magia, y aunque todos parece que podrá entablar buena relación con todos, ocurren ciertas cosas de fondo.",
+        "released": "2023-04-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kFau4Dymgpc4miHnPC32oiMm3fe.jpg"
+      },
+      {
+        "id": "tt7326322:2:4",
+        "title": "El hábito no hace al monje.",
+        "season": 2,
+        "episode": 4,
+        "overview": "Chise parece haber llegado a otro lugar y se ha separado de su amiga, pero parece ser que quien la ha invocado es alguien que conoce muy bien a Elias.",
+        "released": "2023-04-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eJFng4qIdNuqrJXg0tOoW5gshxx.jpg"
+      },
+      {
+        "id": "tt7326322:2:5",
+        "title": "La primera impresión es la que cuenta.",
+        "season": 2,
+        "episode": 5,
+        "overview": "Chise tiene una extraña relación con Lucy, su compañera de cuarto, quien a todos parece una persona de pocos amigos. El pasar tiempo con ella derivará en que la situación con Zoe explote y...",
+        "released": "2023-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mSVcNhpjgc7BEhL8sWSXrnytuy1.jpg"
+      },
+      {
+        "id": "tt7326322:2:6",
+        "title": "Antes doblar que quebrar.",
+        "season": 2,
+        "episode": 6,
+        "overview": "La relación de Alice y Renfred se convierte en tema de preocupación para la amiga de Chise, quien no dudará en contarle sus penas.",
+        "released": "2023-05-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gxu99Uk0vq1jpxUUUFpPxZQZERv.jpg"
+      },
+      {
+        "id": "tt7326322:2:7",
+        "title": "Lento pero seguro. I",
+        "season": 2,
+        "episode": 7,
+        "overview": "Chise se está acostumbrando poco a poco a las clases, pero sigue sintiéndose insegura.",
+        "released": "2023-05-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zRuFc1VZpez7u9ox0N7D5c7IORq.jpg"
+      },
+      {
+        "id": "tt7326322:2:8",
+        "title": "Lento pero seguro. II",
+        "season": 2,
+        "episode": 8,
+        "overview": "Chise y sus compañeros parten a la excursión de campo donde intentarán adquirir nociones de supervivencia, pero como la muchacha esperaba, Elias insiste en acompañarla.",
+        "released": "2023-05-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/frovyQS7l07oJGqCfqsVgWB1Ezt.jpg"
+      },
+      {
+        "id": "tt7326322:2:9",
+        "title": "La conciencia nos hace cobardes. I",
+        "season": 2,
+        "episode": 9,
+        "overview": "Chise no se separa de Lucy, quien ya lleva diez días en coma tras el incidente en el que perdió su maná. Mientras, enfrenta la decisión que tomó para salvar su vida, se pregunta qué ocasionó el incidente y el profesorado descubre un serio incidente que podría tener relación con el tabú de lo que ocurrió con los Webster.",
+        "released": "2023-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kRa6nKK49MDcjtCTcwfM2Jq4EdW.jpg"
+      },
+      {
+        "id": "tt7326322:2:10",
+        "title": "La conciencia nos hace cobardes. II",
+        "season": 2,
+        "episode": 10,
+        "overview": "Lucy tiene mejor aspecto tras unos días de recuperación. Tan pronto como le es posible decide encarar a su hermano, pero cuando se prepara para acompañarlo fuera, los atacan.",
+        "released": "2023-06-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cAgbDhhSzkA569Gz6fkKcjvJLSW.jpg"
+      },
+      {
+        "id": "tt7326322:2:11",
+        "title": "La menor fuga puede hundir al mayor de los barcos. I",
+        "season": 2,
+        "episode": 11,
+        "overview": "Elias decide participar activamente en la búsqueda de la causa de la pérdida de maná de algunas personas en la escuela, y todo debido a la implicación de ese libro tan peligroso conocido como 'El Testamento de Carnamagos'.",
+        "released": "2023-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hTx9WpjETmq9aS0fqHMJXn0qsJv.jpg"
+      },
+      {
+        "id": "tt7326322:2:12",
+        "title": "La menor fuga puede hundir al mayor de los barcos. II",
+        "season": 2,
+        "episode": 12,
+        "overview": "Mientras las cosas se complican bajo tierra para Chise y Zoe, en la superficie, la abuela de Philomela se prepara para hablar con la decana mientras esta se dispone a tomar medidas especiales ante los sucesos recientes.",
+        "released": "2023-06-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Q0EWy0prsJF2scE4fe2EeZTT7f.jpg"
+      },
+      {
+        "id": "tt7326322:2:13",
+        "title": "Quien no se aventura, no ha ventura. I",
+        "season": 2,
+        "episode": 13,
+        "overview": "La academia está confinada debido a los recientes incidentes, así que es momento de que el profesorado imparta unas clases especiales a los alumnos: supervivencia y defensa.",
+        "released": "2023-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ojwipHmjabXGg7ZsNrcklchtcUz.jpg"
+      },
+      {
+        "id": "tt7326322:2:14",
+        "title": "Quien no se aventura, no ha ventura. II",
+        "season": 2,
+        "episode": 14,
+        "overview": "Estando encerrados, los estudiantes deben procurarse sus alimentos a la par que están atentos para un posible ataque, aunque a Chise le preocupa la situación de cierta persona a la que considera una amiga.",
+        "released": "2023-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rKwcBGJkw7vPtUdnc2paBaNiOVk.jpg"
+      },
+      {
+        "id": "tt7326322:2:15",
+        "title": "Cuando la necesidad aprieta, el diablo manda. I",
+        "season": 2,
+        "episode": 15,
+        "overview": "Los estudiantes se aburren encerrados y Violet pensó en ello, así que lleva un peculiar juego para practicar entre todos. Mientras, Alcyone habla con Elias, de quien tenía una percepción equivocada.",
+        "released": "2023-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dEyxkBpq7yT8rLKnHTj7sYKXzrZ.jpg"
+      },
+      {
+        "id": "tt7326322:2:16",
+        "title": "Cuando la necesidad aprieta, el diablo manda. II",
+        "season": 2,
+        "episode": 16,
+        "overview": "Una prueba de valor será el escenario ideal para que Chise pregunte a Veronica por la situación de Philomela y aprenda algo más sobre la relación de ambas.",
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4HYFoOr0sZ5v3WAOwcT59CA7m2j.jpg"
+      },
+      {
+        "id": "tt7326322:2:17",
+        "title": "Recoge rosas mientras puedas.",
+        "season": 2,
+        "episode": 17,
+        "overview": "Los estudiantes siguen encerrados, pero el responsable de los ataques sigue su curso y se produce un nuevo acontecimiento que da un nuevo giro a las cosas.",
+        "released": "2023-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fjYsARisjooQfxahVrr1XBlpcbB.jpg"
+      },
+      {
+        "id": "tt7326322:2:18",
+        "title": "Cuando el río suena, piedras lleva.",
+        "season": 2,
+        "episode": 18,
+        "overview": "El confinamiento sigue adelante, pero Chise comienza a sentir cerca el libro de hechicería y a su usuario.",
+        "released": "2023-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/liiCzhhDoCFSfG8gqlajih8Qwiz.jpg"
+      },
+      {
+        "id": "tt7326322:2:19",
+        "title": "Dios aprieta, pero no ahoga",
+        "season": 2,
+        "episode": 19,
+        "overview": "Ahora que se ha descubierto que Philomela era quien poseía el Grimorio, la situación cambia por completo. Aunque algunas personas la dan por perdida, Chise no quiere abandonar a su amiga.",
+        "released": "2023-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wJjcEinBzxe6EdO5pSJSbnK9LuC.jpg"
+      },
+      {
+        "id": "tt7326322:2:20",
+        "title": "No hay enemigo pequeño.",
+        "season": 2,
+        "episode": 20,
+        "overview": "Conocemos el pasado de los padres de Philomela mientras Chise, Elias y el resto intentan llegar a casa de los Sergeant para ayudar a su amiga, aunque vivirán un inesperado encuentro en el camino.",
+        "released": "2023-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d2gck6rRjqPbpSR3WWSYbC7FdH9.jpg"
+      },
+      {
+        "id": "tt7326322:2:21",
+        "title": "Gato escaldado del agua fría huye.",
+        "season": 2,
+        "episode": 21,
+        "overview": "Chise y el resto llegan a la mansión buscando a Philomela, aunque es con Alcyone con la primera con la que se encuentran.",
+        "released": "2023-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8UZ6nokZkSGWp2ttLgBUpp2Z3sz.jpg"
+      },
+      {
+        "id": "tt7326322:2:22",
+        "title": "Quien mal anda, mal acaba.",
+        "season": 2,
+        "episode": 22,
+        "overview": "Tras mucho dudar y pensar, Philomela por fin se decide a decir lo que siente y lo que quiere de verdad.",
+        "released": "2023-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9kvpYB2IW17uKinW5gY1HzvB9d7.jpg"
+      },
+      {
+        "id": "tt7326322:2:23",
+        "title": "De dos males, el menor.",
+        "season": 2,
+        "episode": 23,
+        "overview": "Lizbeth complica la situación y aparece en escena lo que parece ser otro dios, aunque incompleto.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mKHCw6MNMlruAAOxChKNDQGWpb3.jpg"
+      },
+      {
+        "id": "tt7326322:2:24",
+        "title": "El espectáculo debe continuar. I",
+        "season": 2,
+        "episode": 24,
+        "overview": "El duelo final entre Philomela y su abuela desata nuevas consecuencias.",
+        "released": "2023-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s6Y3bGAbC5waaRQVImbXDvuJBp3.jpg"
+      }
+    ]
+  }
+}

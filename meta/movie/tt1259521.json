@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1259521",
+    "type": "movie",
+    "name": "La cabaña del terror",
+    "poster": "https://image.tmdb.org/t/p/w500/iLIe4sykUb0NxZpSKcHZmaqbgoy.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/wJffMiCnrszaNclKggGixYWB7D7.jpg",
+    "description": "Cuando cinco amigos universitarios llegan a una cabaña en el bosque para unas vacaciones, se sorprenden ante los horrores que les esperan. Uno por uno, los jóvenes son víctimas de los zombies del bosque, pero hay otro factor en juego. Dos científicos están manipulando los sucesos sangrientos, pero aunque el número de muertos aumenta aún hay mucho más trabajo que salta a la vista.",
+    "releaseInfo": "2012",
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Comedia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.7"
+        }
+      }
+    }
+  }
+}

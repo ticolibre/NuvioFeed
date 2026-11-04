@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt2013293",
+    "type": "movie",
+    "name": "Se levanta el viento",
+    "poster": "https://image.tmdb.org/t/p/w500/yskGUS6anyiHx2e2FsCB1fKbupD.jpg",
+    "posterShape": "poster",
+    "description": "Una mirada a la vida de Jirō Horikoshi, el hombre que diseñó los aviones de combate japoneses durante la Segunda Guerra Mundial.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zZiflZpuaZerugtfdyXcg6dcylD.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    }
+  }
+}

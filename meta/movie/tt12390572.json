@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt12390572",
+    "type": "movie",
+    "name": "Gemelo siniestro",
+    "poster": "https://image.tmdb.org/t/p/w500/7JPK9FKrWrGWchBPhdoIWC6qktB.jpg",
+    "posterShape": "poster",
+    "description": "Una madre se tiene que enfrentar a la insoportable verdad sobre el hijo gemelo que ha sobrevivido.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Terror",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/fjgKMNFo6uj7znrWwTbLzNBVzIT.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.8"
+        }
+      }
+    }
+  }
+}

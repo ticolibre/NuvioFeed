@@ -1,0 +1,421 @@
+{
+  "id": "com.ticolibre.catalogues",
+  "version": "1.1.1",
+  "name": "TicoLibre Catalogues",
+  "description": "Personal catalogue (es-MX / CR): Trending, A24, NEON, Blumhouse, Searchlight, Focus Features, Studio Ghibli, Shudder Originals, Cannes Palme d'Or, Sundance winners, Oscar Best Picture, Golden Globes (Drama), BAFTA, Independent Spirit and SXSW Grand Jury winners, plus MAPPA, Top Anime Series, Top Horror, Drama, Documentaries and Animated Films. Powered by TMDB.",
+  "resources": [
+    "catalog",
+    {
+      "name": "meta",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tt",
+        "tmdb:"
+      ]
+    }
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "trending-movies",
+      "name": "Trending Movies",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "trending-series",
+      "name": "Trending Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "crunchyroll",
+      "name": "Popular on Crunchyroll",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "a24",
+      "name": "A24 Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "searchlight",
+      "name": "Searchlight Pictures",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "focus",
+      "name": "Focus Features",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "neon",
+      "name": "NEON Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "blumhouse",
+      "name": "Blumhouse Films",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "shudder",
+      "name": "Shudder Originals",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "cannes",
+      "name": "Cannes: Palme d'Or",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "sundance",
+      "name": "Sundance: Grand Jury Winners",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "best-picture-winners",
+      "name": "Oscars: Best Picture Winners",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "best-picture-nominees",
+      "name": "Oscars: Best Picture Nominees",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "ghibli",
+      "name": "Studio Ghibli",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "globes-drama",
+      "name": "Golden Globes: Best Drama",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "bafta-best-film",
+      "name": "BAFTA: Best Film",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "spirit-best-feature",
+      "name": "Independent Spirit: Best Feature",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "mappa",
+      "name": "MAPPA",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "sxsw-narrative",
+      "name": "SXSW: Grand Jury Winners",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-2020s",
+      "name": "Top 2020s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-2010s",
+      "name": "Top 2010s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-2000s",
+      "name": "Top 2000s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-1990s",
+      "name": "Top 90s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-1980s",
+      "name": "Top 80s: Most Voted",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-2020s-series",
+      "name": "Top 2020s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-2010s-series",
+      "name": "Top 2010s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-2000s-series",
+      "name": "Top 2000s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-1990s-series",
+      "name": "Top 90s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-1980s-series",
+      "name": "Top 80s Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "top-anime-series",
+      "name": "Top Anime Series",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-horror-1990s-now",
+      "name": "Top Horror Films: 1990-Now",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-drama-1990s-now",
+      "name": "Top Drama Films: 1990-Now",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-docs-2000s-now",
+      "name": "Top Documentaries: 2000-Now",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "top-animated-2000s-now",
+      "name": "Top Animated Films: 2000-Now",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "config": [
+    {
+      "key": "language",
+      "type": "text",
+      "title": "Language locale",
+      "default": "es-MX",
+      "required": true
+    },
+    {
+      "key": "region",
+      "type": "text",
+      "title": "Region",
+      "default": "CR",
+      "required": true
+    }
+  ],
+  "behaviorHints": {
+    "configurable": true,
+    "adult": false,
+    "p2p": false
+  }
+}

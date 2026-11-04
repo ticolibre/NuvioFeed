@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt14402146",
+    "type": "movie",
+    "name": "Imperio de luz",
+    "poster": "https://image.tmdb.org/t/p/w500/7Y7l9FDxdknampTfpp6qjVWm54O.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/bFAozpBc5s0cJcolKABpa5THusM.jpg",
+    "description": "Una historia de amor ambientada alrededor de un hermoso cine antiguo en la costa sur de Inglaterra, en la década de 1980.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    }
+  }
+}

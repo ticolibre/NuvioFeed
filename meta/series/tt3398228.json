@@ -1,0 +1,710 @@
+{
+  "meta": {
+    "id": "tt3398228",
+    "type": "series",
+    "name": "BoJack Horseman",
+    "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+    "posterShape": "poster",
+    "description": "Conoce al caballo más querido de los noventa, pero 20 años después. Un cascarrabias con un corazón no precisamente de oro, ¿quizás de cobre?",
+    "releaseInfo": "2014",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt3398228:1:1",
+        "title": "BoJack Horseman: Temporada 1: La historia de BoJack, capítulo 1",
+        "season": 1,
+        "episode": 1,
+        "overview": "BoJack contrata a una escritora profesional para ayudarlo con sus memorias, con las que espera volver a estar bajo los reflectores.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/myJExWL5FHqKCGGb889RDPc10Dc.jpg"
+      },
+      {
+        "id": "tt3398228:1:2",
+        "title": "BoJack enemigo público",
+        "season": 1,
+        "episode": 2,
+        "overview": "BoJack se transforma en el centro de atención de los medios nacionales después de que insulta a las tropas.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iLclTb1PuXDq2MGw03udggmKSLb.jpg"
+      },
+      {
+        "id": "tt3398228:1:3",
+        "title": "Fantasmas del pasado",
+        "season": 1,
+        "episode": 3,
+        "overview": "BoJack se reconecta con una amiga del pasado quien se muda a su casa y desata el caos.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xKp8HkQUcqAsSD8hylSmPwC3JiH.jpg"
+      },
+      {
+        "id": "tt3398228:1:4",
+        "title": "Entre Zoe y Zelda",
+        "season": 1,
+        "episode": 4,
+        "overview": "BoJack decide asesorar a Todd; el exnovio de Diane escribe un artículo sobre el Sr. Peanutbutter.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qM9vUIGCvaFnemmQpE41JB8NoQW.jpg"
+      },
+      {
+        "id": "tt3398228:1:5",
+        "title": "Corre Diane, corre",
+        "season": 1,
+        "episode": 5,
+        "overview": "El viaje de negocios de BoJack y Diane cambia de rumbo; Todd organiza una estafa que lo mete en problemas.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kJ4fLOR7IXM1ib6c8YJbia5qqwb.jpg"
+      },
+      {
+        "id": "tt3398228:1:6",
+        "title": "Relación turbulenta",
+        "season": 1,
+        "episode": 6,
+        "overview": "BoJack está celoso de la relación entre Diane y el Sr. Peanutbutter; Todd está en un nuevo ambiente.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4KsJsHNc5B0bu1ef23LeXiFam9c.jpg"
+      },
+      {
+        "id": "tt3398228:1:7",
+        "title": "Di algo",
+        "season": 1,
+        "episode": 7,
+        "overview": "BoJack se autosabotea gracias a una juerga épica; la agencia de Princesa Carolyn se fusiona con otra.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/OjVWjZQgYvhEfuAV0fw0pdRkBb.jpg"
+      },
+      {
+        "id": "tt3398228:1:8",
+        "title": "El telescopio",
+        "season": 1,
+        "episode": 8,
+        "overview": "Cuando se entera de que su viejo amigo de Horsin' Around se está muriendo, BoJack intenta hacer las paces.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g2cVxdjZ08osblj5UC0il1aSXOp.jpg"
+      },
+      {
+        "id": "tt3398228:1:9",
+        "title": "Caballo conmocionado",
+        "season": 1,
+        "episode": 9,
+        "overview": "BoJack, perdidamente enamorado, intenta sabotear una boda; Todd acepta un sorprendente rol profesional nuevo.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5u3Y2HpD0wlK697lnpvNn6h5lYK.jpg"
+      },
+      {
+        "id": "tt3398228:1:10",
+        "title": "Truco de poni",
+        "season": 1,
+        "episode": 10,
+        "overview": "BoJack filma una película en casa del Sr. Peanutbutter; Diane termina su libro.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7ZAsvywpXqI4PuI4D5HRhOOFbx3.jpg"
+      },
+      {
+        "id": "tt3398228:1:11",
+        "title": "Final infeliz",
+        "season": 1,
+        "episode": 11,
+        "overview": "BoJack se embarca en un proyecto en su típico estilo gonzo, que lo lleva a una revelación provocada por las drogas.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o2bkOX7rPKjCa1mhCByVlxlikxg.jpg"
+      },
+      {
+        "id": "tt3398228:1:12",
+        "title": "Tarde",
+        "season": 1,
+        "episode": 12,
+        "overview": "Meses antes de que se publiquen sus memorias, BoJack es considerado para un papel que es el sueño de toda su vida.",
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9GdKOMpaew9gjKSRKcNIg8qEI7E.jpg"
+      },
+      {
+        "id": "tt3398228:2:1",
+        "title": "Un sofá completamente nuevo",
+        "season": 2,
+        "episode": 1,
+        "overview": "BoJack piensa que tener una actitud más alegre le cambiará la vida, pero para su nuevo rol es bastante contradictorio.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sQdGB9Z4tk1xjAjD1zULUeRwCZJ.jpg"
+      },
+      {
+        "id": "tt3398228:2:2",
+        "title": "Pasadolandia",
+        "season": 2,
+        "episode": 2,
+        "overview": "BoJack se siente atraído por una mujer que no tiene idea de quién es: un beneficio de haber estado en coma... Todd, por su parte, abre un parque temático.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xK9YbxZiVEmTAAHu1WfRoccTshv.jpg"
+      },
+      {
+        "id": "tt3398228:2:3",
+        "title": "Irreparable",
+        "season": 2,
+        "episode": 3,
+        "overview": "Un funeral se convierte en una búsqueda del tesoro, además del lugar perfecto para que Princesa Carolyn y el Sr. Peanutbutter sean el centro de atención.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4k6FDQNlCYRh2U8EvBgJ9skoFDo.jpg"
+      },
+      {
+        "id": "tt3398228:2:4",
+        "title": "After party",
+        "season": 2,
+        "episode": 4,
+        "overview": "Falta poco para que empiece la fiesta sorpresa y parece que Princesa Carolyn, BoJack, Diane y el Sr. Peanutbutter solo trajeron sus corazones en bandeja.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wBgtqc9oZuoux0KTVEXZjKn8PjX.jpg"
+      },
+      {
+        "id": "tt3398228:2:5",
+        "title": "Gallinas",
+        "season": 2,
+        "episode": 5,
+        "overview": "BoJack está desesperado por agradarle a Kelsey, su directora, mientras que la hija de ella, con Todd y Diane, ayuda a una gallina prófuga de la justicia.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9tIJH0jJuozdLDj1mZs6mMumyVd.jpg"
+      },
+      {
+        "id": "tt3398228:2:6",
+        "title": "Amor pendiente",
+        "season": 2,
+        "episode": 6,
+        "overview": "Al morir el agente del Sr. Peanutbutter, Princesa Carolyn quiere dar el zarpazo. BoJack le dice a Wanda la palabra que empieza con \"A\" y se le van las riendas.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kt35N6dy7zLJGTZEoYKh0ihmY3A.jpg"
+      },
+      {
+        "id": "tt3398228:2:7",
+        "title": "Hank de noche",
+        "season": 2,
+        "episode": 7,
+        "overview": "Diane se sale del libreto durante la gira promocional de BoJack y pone en peligro el nuevo programa del Sr. Peanutbutter. Todd ahora tiene alcance internacional...",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/buXNm0lOmpJwGvp58CgRvz7AeIK.jpg"
+      },
+      {
+        "id": "tt3398228:2:8",
+        "title": "Averigüémoslo",
+        "season": 2,
+        "episode": 8,
+        "overview": "BoJack es una de las estrellas invitadas al estreno del programa de juegos del Sr. Peanutbutter. ¿Perro contento? Más bien caballo en la pista.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2RPsSphb1IPDQOmHADw0VNXoC7T.jpg"
+      },
+      {
+        "id": "tt3398228:2:9",
+        "title": "La escena",
+        "season": 2,
+        "episode": 9,
+        "overview": "BoJack teje un plan con Kelsey, Todd, Princesa Carolyn y el Sr. Peanutbutter para robar una toma crucial de \"Secretariat\".",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4l1LFWnOKmyPQxdNTpRzE97BAtK.jpg"
+      },
+      {
+        "id": "tt3398228:2:10",
+        "title": "Sí, y",
+        "season": 2,
+        "episode": 10,
+        "overview": "Todd no puede salirse de una secta de comedia de improvisación. BoJack enfrenta una crisis profesional y Wanda cree que Diane es una mala influencia para él.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wRLJojmA22pPN4JyAZ2LljMPZmn.jpg"
+      },
+      {
+        "id": "tt3398228:2:11",
+        "title": "Escape de L.A.",
+        "season": 2,
+        "episode": 11,
+        "overview": "BoJack sale a la carretera para visitar a una vieja amiga. Afuera de su mundo de estrellas, nada sabe tan dulce.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/969KQci6Uz0mLhiO1eOtbqfMsbC.jpg"
+      },
+      {
+        "id": "tt3398228:2:12",
+        "title": "Hacia altamar",
+        "season": 2,
+        "episode": 12,
+        "overview": "Todd se va de la casa para unirse al crucero especial de un grupo de comedia de improvisación y BoJack finalmente entiende cuáles son las cosas importantes de la vida.",
+        "released": "2015-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hOBwpbtBJPW3r0rx8T9TB7HgEyQ.jpg"
+      },
+      {
+        "id": "tt3398228:3:1",
+        "title": "Corran la voz",
+        "season": 3,
+        "episode": 1,
+        "overview": "Ana Spanakopita envía a BoJack a Nueva York para responder entrevistas y Todd se suma al plan. Princesa Carolyn manda al Sr. Peanutbutter de vuelta al trabajo.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8nb0kI3Ye91QaYesfzZwqD8nQmg.jpg"
+      },
+      {
+        "id": "tt3398228:3:2",
+        "title": "El programa de BoJack Horseman",
+        "season": 3,
+        "episode": 2,
+        "overview": "En 2007, Princesa Carolyn tiene un nuevo proyecto para BoJack, Diane conoce al Sr. Peanutbutter en la cafetería donde trabaja y Todd besa a una chica.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tW8I0Lxs23lbnwjo0QwfEe5yTUx.jpg"
+      },
+      {
+        "id": "tt3398228:3:3",
+        "title": "BoJack mata",
+        "season": 3,
+        "episode": 3,
+        "overview": "BoJack es culpado por el asesinato de una estrella de la danza. El Sr. Peanutbutter y Todd se meten en aprietos con el zorrillo vecino y la cosa huele mal.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z4NNSRTs72MOUy8Q9ddWfsmRYop.jpg"
+      },
+      {
+        "id": "tt3398228:3:4",
+        "title": "Como pez fuera del agua",
+        "season": 3,
+        "episode": 4,
+        "overview": "BoJack emprende un viaje submarino hacia el Festival de Cine del Océano Pacífico para presentar “Secretariat” e intentar contactar a Kelsey.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/grSJcB93XS4i597wEDkCRxBKAYz.jpg"
+      },
+      {
+        "id": "tt3398228:3:5",
+        "title": "Amor y/o matrimonio",
+        "season": 3,
+        "episode": 5,
+        "overview": "Todd y BoJack aparecen sin invitación en el ensayo de una boda, Diane decide que es buena idea drogarse con un cliente y Princesa Carolyn tiene citas a ciegas.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dzO1UlsgZBqL60vVfAzhjyrTDV7.jpg"
+      },
+      {
+        "id": "tt3398228:3:6",
+        "title": "Brrap Brrap Pew Pew",
+        "season": 3,
+        "episode": 6,
+        "overview": "El tuit de Diane mete en problemas a Sextina Aquafina. El bromista y superestrella Jurj Clooners irrita de sobremanera a BoJack.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pZaN76SoMxq4zLz6e55seHXMidz.jpg"
+      },
+      {
+        "id": "tt3398228:3:7",
+        "title": "Paren las prensas",
+        "season": 3,
+        "episode": 7,
+        "overview": "Todd construye una versión gigante de su cabeza. BoJack recibe un consejo cuando intenta cancelar su suscripción a un periódico.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/As7RKS1tUsnqA0qq2p4hAV7qHc6.jpg"
+      },
+      {
+        "id": "tt3398228:3:8",
+        "title": "Viejos conocidos",
+        "season": 3,
+        "episode": 8,
+        "overview": "BoJack está listo para interpretar un papel en la próxima película de David Pincher. Diane conoce al hermano del Sr. Peanutbutter y Todd cambia el rumbo del negocio.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sfBaBRGioIWcAMZiHftb6RaDWHn.jpg"
+      },
+      {
+        "id": "tt3398228:3:9",
+        "title": "Lo mejor que pudo haberte pasado",
+        "season": 3,
+        "episode": 9,
+        "overview": "BoJack se encuentra con Princesa Carolyn en Elefante y juntos emprenden una velada de introspección mientras ayudan al personal a impresionar a un crítico gastronómico.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9WVbhukA65IFzRsXxUQEY1K7kZA.jpg"
+      },
+      {
+        "id": "tt3398228:3:10",
+        "title": "Eres tú",
+        "season": 3,
+        "episode": 10,
+        "overview": "El Sr. Peanutbutter anuncia quiénes son los nominados al Óscar. BoJack se rodea de admiradores, mientras sus amistades verdaderas se desmoronan.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bB7mCcQExhk1uJN4Ngn77XXhPHc.jpg"
+      },
+      {
+        "id": "tt3398228:3:11",
+        "title": "¡Eso es demasiado, viejo!",
+        "season": 3,
+        "episode": 11,
+        "overview": "Durante un viaje impulsado por drogas, BoJack y Sarah Lynn aterrizan en una reunión de AA, donde BoJack decide redimirse con las personas a las que ha herido.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nJsxVHd8RsSLk0Ojbl7v6Wq0VHU.jpg"
+      },
+      {
+        "id": "tt3398228:3:12",
+        "title": "Eso salió bien",
+        "season": 3,
+        "episode": 12,
+        "overview": "El Sr. Peanutbutter es el héroe del día. Todd recibe buenas noticias. BoJack, Diane y Princesa Carolyn van tras nuevas oportunidades.",
+        "released": "2016-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/46NAsD0G41rr9FgsY2LQ728zOSn.jpg"
+      },
+      {
+        "id": "tt3398228:4:1",
+        "title": "El señor Peanutbutter se mete en política",
+        "season": 4,
+        "episode": 1,
+        "overview": "La campaña del Sr. Peanutbutter para sacar al gobernador de California termina en una peligrosa carrera de esquí. Mientras tanto, nadie sabe dónde está BoJack.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iFBp4XFdqVCWGh4VeMuPIeK0Mxl.jpg"
+      },
+      {
+        "id": "tt3398228:4:2",
+        "title": "La vieja casa de los Sugarman",
+        "season": 4,
+        "episode": 2,
+        "overview": "BoJack se borra del mapa y aterriza en la casa en ruinas de sus abuelos en Michigan, donde se hace amigo de una libélula acechada por fantasmas del pasado.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dF87ZUMHIyA4MV98g3M2aQojPSk.jpg"
+      },
+      {
+        "id": "tt3398228:4:3",
+        "title": "¡Viva! ¡El episodio de Todd!",
+        "season": 4,
+        "episode": 3,
+        "overview": "Servicial hasta el hartazgo, Todd se desvive haciendo favores para Princesa Carolyn, el Sr. Peanutbutter y una visita que podría tener algún vínculo con BoJack.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2Ia6MsWR2C02aHAlxRq1cvfanPh.jpg"
+      },
+      {
+        "id": "tt3398228:4:4",
+        "title": "Iniciar perforación",
+        "season": 4,
+        "episode": 4,
+        "overview": "La campaña hace estragos en la vida amorosa de Diane. BoJack ayuda a Hollyhock a buscar a la mamá. Princesa Carolyn trata de quedar embarazada.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/swgLQhtWoBF29M4uISr10TQBJI1.jpg"
+      },
+      {
+        "id": "tt3398228:4:5",
+        "title": "Mis condolencias",
+        "season": 4,
+        "episode": 5,
+        "overview": "Un tiroteo en un centro comercial genera una pesadilla de RR. PP. para Princesa Carolyn. BoJack visita a la madre, a quien no ve desde hace mucho, y lleva a Hollyhock.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/13n5cQYzMpoAGpPvSCIkRFJ4yUo.jpg"
+      },
+      {
+        "id": "tt3398228:4:6",
+        "title": "Estúpido desgraciado",
+        "season": 4,
+        "episode": 6,
+        "overview": "Rodeado por la familia, BoJack desciende poco a poco al infierno del autodesprecio. Princesa Carolyn y Rutabaga Rabitowitz planean la boda falsa de Courtney y Todd.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8uHjrdSzk2uo0r7TLuNkpGyRrY7.jpg"
+      },
+      {
+        "id": "tt3398228:4:7",
+        "title": "Bajo tierra",
+        "season": 4,
+        "episode": 7,
+        "overview": "La lujosa colecta para la campaña del Sr. Peanutbutter da un giro aterrador. Mientras el caos se apodera de todo, BoJack y Diane se emborrachan.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cHp4TMBpEIf9drB8SOG9Akql09w.jpg"
+      },
+      {
+        "id": "tt3398228:4:8",
+        "title": "El juez",
+        "season": 4,
+        "episode": 8,
+        "overview": "Hollyhock empieza a salir con un pasante del nuevo programa de BoJack. Princesa Carolyn conoce a los padres de Ralph. El Sr. Peanutbutter da su respaldo a Woodchuck.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/70gVSc9MjUEmzPhZmsX4cwg0qMO.jpg"
+      },
+      {
+        "id": "tt3398228:4:9",
+        "title": "Ruthie",
+        "season": 4,
+        "episode": 9,
+        "overview": "Princesa Carolyn tiene un día de terror con pasajes de rechazo, engaño y pérdida. BoJack y Diane buscan el certificado de nacimiento de Hollyhock.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pnNMFJBN7o9WrypLCMB76VG8J3h.jpg"
+      },
+      {
+        "id": "tt3398228:4:10",
+        "title": "¡Me encanta el estilo de vida californiano!",
+        "season": 4,
+        "episode": 10,
+        "overview": "Diane filtra información sobre Jessica Biel, el negocio de dentistas payasos de Todd se topa con un problema, y Princesa Carolyn encuentra esperanza donde menos esperaba.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p5MgfLfMUgnFuzkvQAQY9AAwXX3.jpg"
+      },
+      {
+        "id": "tt3398228:4:11",
+        "title": "La flecha del tiempo",
+        "season": 4,
+        "episode": 11,
+        "overview": "En 1963, Beatrice Sugarman, una joven de la alta sociedad, conoce al rebelde Butterscotch Horseman en su fiesta de debutante.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aqWXcHt56XI8N1BvxB0gzbRd6lh.jpg"
+      },
+      {
+        "id": "tt3398228:4:12",
+        "title": "¿Qué hora es exactamente?",
+        "season": 4,
+        "episode": 12,
+        "overview": "Princesa Carolyn lleva una nueva propuesta a los ejecutivos de la empresa. A Todd se le ocurre una mejor idea de negocios. BoJack tiene una revelación sobre Hollyhock.",
+        "released": "2017-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eVItdpvOMhCtcsYytSTFFb9bhJt.jpg"
+      },
+      {
+        "id": "tt3398228:5:1",
+        "title": "La escena del desnudo",
+        "season": 5,
+        "episode": 1,
+        "overview": "BoJack tiene dudas sobre su nuevo programa. Princesa Carolyn visita una agencia de adopción. Entrevistan a Todd en Quehoraesahora.com.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/944Ti81ivvzNBKQFjq8jk0dhYLD.jpg"
+      },
+      {
+        "id": "tt3398228:5:2",
+        "title": "Los días de perros se acabaron",
+        "season": 5,
+        "episode": 2,
+        "overview": "Diane se divorcia del Sr. Peanutbutter y se muda a un apartamento destartalado. Melancólica, emprende un viaje a Vietnam para alejarse de todo.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vwjzAMrZUXoLZfRbS1zRvW2t4bJ.jpg"
+      },
+      {
+        "id": "tt3398228:5:3",
+        "title": "Obsolescencia programada",
+        "season": 5,
+        "episode": 3,
+        "overview": "Todd conoce a los padres de Yolanda, que ignoran que ella es asexual. El Sr. Peanutbutter sale con una mesera joven. Gina le confiesa a BoJack un sueño de su infancia.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3sls71cSwmRCHM3RSJzkoiAGFpI.jpg"
+      },
+      {
+        "id": "tt3398228:5:4",
+        "title": "BoJack, el feminista",
+        "season": 5,
+        "episode": 4,
+        "overview": "Princesa Carolyn recluta a una celebridad en desgracia para salir en Philbert, y BoJack asume una postura sin querer. El Sr. Peanutbutter intenta endurecer su imagen.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7rrfA5JZqEPFqjE0exsWen80MgX.jpg"
+      },
+      {
+        "id": "tt3398228:5:5",
+        "title": "La historia de Amelia Earhart",
+        "season": 5,
+        "episode": 5,
+        "overview": "Princesa Carolyn viaja a su pueblo natal y sufre una dolorosa regresión cuando conoce a una adolescente embarazada. Una escena de peligro sale mal en Philbert.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zSFOZJby8QhscQh33xZJ2bNaUUQ.jpg"
+      },
+      {
+        "id": "tt3398228:5:6",
+        "title": "Churro gratis",
+        "season": 5,
+        "episode": 6,
+        "overview": "BoJack hace un homenaje póstumo en un funeral.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/naOBworM4WzC4UNhbKye6fGYsYK.jpg"
+      },
+      {
+        "id": "tt3398228:5:7",
+        "title": "Interior. Sub.",
+        "season": 5,
+        "episode": 7,
+        "overview": "La terapeuta de Diane le propone que le ponga límites a BoJack. Una hebra de queso perdida hace que Todd y Princesa Carolyn empiecen a discutir.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/78tehuEwmGGp8m3MN6LQc4kd5zY.jpg"
+      },
+      {
+        "id": "tt3398228:5:8",
+        "title": "Las novias del Sr. Peanutbutter",
+        "season": 5,
+        "episode": 8,
+        "overview": "Durante la fiesta anual número 25 que BoJack organiza por Halloween, Pickles recibe un curso intensivo sobre el pasado romántico del Sr. Peanutbutter y consejos de Diane.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dF5cAM99VkMdw654nTJZmv0LkaC.jpg"
+      },
+      {
+        "id": "tt3398228:5:9",
+        "title": "Historia antigua",
+        "season": 5,
+        "episode": 9,
+        "overview": "BoJack sale a buscar más analgésicos con desesperación cuando Hollyhock se deshace de los suyos. Todd intenta resolver el problema de citas de Emily.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y2tYbnl3poGkRFazNt9U70PDSI6.jpg"
+      },
+      {
+        "id": "tt3398228:5:10",
+        "title": "Con la cabeza en las nubes",
+        "season": 5,
+        "episode": 10,
+        "overview": "Durante la fiesta de estreno de Philbert, Princesa Carolyn hace un trato astuto. Gina se roba el protagonismo y Diane se enfrenta a BoJack.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/daIYvgIRVUT9LuKRXiM9LXEl6Cq.jpg"
+      },
+      {
+        "id": "tt3398228:5:11",
+        "title": "La serie en crisis",
+        "season": 5,
+        "episode": 11,
+        "overview": "Inicia la producción de la temporada 2 de Philbert después del éxito de la primera. Pero BoJack se hunde cada vez más en la adicción y pierde el contacto con la realidad.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wLFdG5xWaL8Hv6j0smlYw19wpiB.jpg"
+      },
+      {
+        "id": "tt3398228:5:12",
+        "title": "La serie cancelada",
+        "season": 5,
+        "episode": 12,
+        "overview": "En medio de la última crisis de RR. PP., Princesa Carolyn recibe la oportunidad de cambiar su vida. Con ayuda de Diane, BoJack se enfrenta a la verdad.",
+        "released": "2018-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d05KBXr73Fx7BhVgg2wSyz8NzUN.jpg"
+      },
+      {
+        "id": "tt3398228:6:1",
+        "title": "Un caballo entra a rehabilitación",
+        "season": 6,
+        "episode": 1,
+        "overview": "BoJack ingresa a Pastiches, un centro de rehabilitación de Malibú, donde confronta recuerdos de la muerte de Sarah Lynn y su propia infancia tormentosa.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jA3BnHmlFhmJW7j4pX2RYURVdSe.jpg"
+      },
+      {
+        "id": "tt3398228:6:2",
+        "title": "El nuevo cliente",
+        "season": 6,
+        "episode": 2,
+        "overview": "Cuando su niñera renuncia, a Princesa Carolyn le cuesta equilibrar las exigencias del trabajo y la maternidad. El Sr. Peanutbutter visita a BoJack en rehabilitación.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wfEfDwnEf3DdIRqFOVRreEEuwpB.jpg"
+      },
+      {
+        "id": "tt3398228:6:3",
+        "title": "Una historia edificante",
+        "season": 6,
+        "episode": 3,
+        "overview": "Girl Croosh envía a Diane a la calle con Guy, un robusto camarógrafo. La joven no quiere saber nada con la idea de producir historias más positivas y edificantes.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/75Gb5YXyK0OTEYS9SbsYpkTRmml.jpg"
+      },
+      {
+        "id": "tt3398228:6:4",
+        "title": "Sorpresa",
+        "season": 6,
+        "episode": 4,
+        "overview": "Todd organiza una boda sorpresa para Pickles y el Sr. Peanutbutter, pero la fiesta se le va de las manos cuando el Sr. Peanutbutter hace una confesión.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ynAZdwl26nHMWjRGRCJOzVzUON4.jpg"
+      },
+      {
+        "id": "tt3398228:6:5",
+        "title": "Un poco disparejo, es todo",
+        "season": 6,
+        "episode": 5,
+        "overview": "El doctor Champ le dice a BoJack que es hora de salir de rehabilitación. La honra del Sr. Peanutbutter queda en jaque. En Chicago, Diane sufre una falta de inspiración.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k1tRNLC3WCAcdwpG3WH1uuS6Qsb.jpg"
+      },
+      {
+        "id": "tt3398228:6:6",
+        "title": "El riñón que conquistó Hollywood",
+        "season": 6,
+        "episode": 6,
+        "overview": "Los asistentes de Hollywoo se declaran en huelga. BoJack intenta ayudar al doctor Champ. Todd se entera de que su madre necesita un riñón, y Diane le propone un plan.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fiws6OPU3F2HVwT2cn0nhiZ9QsJ.jpg"
+      },
+      {
+        "id": "tt3398228:6:7",
+        "title": "El rostro de la depresión",
+        "season": 6,
+        "episode": 7,
+        "overview": "BoJack recorre el país para reanudar la relación con sus seres queridos, y el Sr. Peanutbutter emprende una gira nacional como el rostro de la depresión.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j8dVh7vdqFSloyZ7S4EJyhCgZnC.jpg"
+      },
+      {
+        "id": "tt3398228:6:8",
+        "title": "Uno rapidito mientras él no está",
+        "season": 6,
+        "episode": 8,
+        "overview": "Una reportera investiga las circunstancias en torno a la muerte de Sarah Lynn. Hollyhock va a una fiesta en Nueva York.",
+        "released": "2019-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6iAUpc2vaW9XTOLds3OHuuNbWo4.jpg"
+      },
+      {
+        "id": "tt3398228:6:9",
+        "title": "Estudio de escena intermedia con BoJack Horseman",
+        "season": 6,
+        "episode": 9,
+        "overview": "Luego de que BoJack comienza a dar clases de actuación en Wesleyan, Hollyhock pone algunos límites a su relación.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jatYwrOGvWDRqXJLsnH8anXb7NX.jpg"
+      },
+      {
+        "id": "tt3398228:6:10",
+        "title": "Daño del bueno",
+        "season": 6,
+        "episode": 10,
+        "overview": "Diane sale de su depresión, pero aún le cuesta comenzar a escribir sus memorias. Los periodistas Max y Paige visitan a Penny.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dXmxdCmmPrMnAKSfeRqM0p0R8oX.jpg"
+      },
+      {
+        "id": "tt3398228:6:11",
+        "title": "Costo irrecuperable y todo eso",
+        "season": 6,
+        "episode": 11,
+        "overview": "Mientras Paige y Max interrogan al Sr. Peanutbutter en su restaurante, BoJack, desesperado, intenta atar cabos de lo que está sucediendo.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbPl0XCsNRyXj81CwQOv0gbDE5z.jpg"
+      },
+      {
+        "id": "tt3398228:6:12",
+        "title": "Fotocopia de una fotocopia",
+        "season": 6,
+        "episode": 12,
+        "overview": "Tras la publicación del artículo sobre Sarah Lynn, BoJack da una entrevista en vivo en la TV. Diane conoce al hijo adolescente de Guy.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/giPAxWp5kr7DpCJ1bUdziJS1QbY.jpg"
+      },
+      {
+        "id": "tt3398228:6:13",
+        "title": "El unicornio cachondo",
+        "season": 6,
+        "episode": 13,
+        "overview": "BoJack consigue un nuevo padrino en Alcohólicos Anónimos. Todd organiza una fiesta elegante para impresionar a sus padres. Diane conecta con Sonny.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wnvxeAgq3w8PE2J2HR8M8rgDXyT.jpg"
+      },
+      {
+        "id": "tt3398228:6:14",
+        "title": "Angela",
+        "season": 6,
+        "episode": 14,
+        "overview": "Angela Diaz se contacta con BoJack. Princesa Carolyn recibe una oferta de Lenny Turteltaub. Todd trae algo entre manos.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5r1CV1SUt1GLHdKap4wQmrOSzKC.jpg"
+      },
+      {
+        "id": "tt3398228:6:15",
+        "title": "A medio camino",
+        "season": 6,
+        "episode": 15,
+        "overview": "BoJack se reencuentra con personas de su pasado.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q5nA4xkuk5EpUFUOx8TSfMB4xQa.jpg"
+      },
+      {
+        "id": "tt3398228:6:16",
+        "title": "Fue lindo mientras duró",
+        "season": 6,
+        "episode": 16,
+        "overview": "Una celebración los reúne a todos.",
+        "released": "2020-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zsTqgT4KJoX4rcvH8QN66Ln7qIs.jpg"
+      }
+    ]
+  }
+}

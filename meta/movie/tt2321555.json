@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tt2321555",
+    "type": "movie",
+    "name": "El gato con sombrero",
+    "poster": "https://image.tmdb.org/t/p/w500/5rS3PbnARmbbL3LiLhEX3Tr0l6k.jpg",
+    "posterShape": "poster",
+    "description": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

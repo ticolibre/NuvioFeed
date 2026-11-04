@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt9426210",
+    "type": "movie",
+    "name": "El tiempo contigo",
+    "poster": "https://image.tmdb.org/t/p/w500/18lF2eTWAO0tloyBW39fob5ALAW.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+    "description": "Un chico de instituto que ha huido a Tokio se hace amigo de una chica que parece ser capaz de manipular el tiempo.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Fantasía",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1979388",
+    "type": "movie",
+    "name": "Un gran dinosaurio",
+    "poster": "https://image.tmdb.org/t/p/w500/cvymJX8guN4p0C8HWGweScKkm4s.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/cF3H9pyUF6dsvqlYUcH0TyBAMTG.jpg",
+    "description": "El joven y tímido Apatosaurus, Arlo, emprende un peligroso viaje, junto con su pequeño amigo humano, para regresar a su hogar.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    }
+  }
+}

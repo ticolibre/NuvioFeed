@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2316204",
+    "type": "movie",
+    "name": "Alien: Covenant",
+    "poster": "https://image.tmdb.org/t/p/w500/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/iXXPaQPfQowpQ5UvhsHLj9BgFhe.jpg",
+    "description": "La tripulación de una nave colonia, con destino a un planeta remoto, descubre un paraíso inexplorado con una amenaza más allá de su imaginación, y debe intentar una angustiosa huida.",
+    "releaseInfo": "2017",
+    "genres": [
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0088247",
+    "type": "movie",
+    "name": "Terminator: El exterminador",
+    "poster": "https://image.tmdb.org/t/p/w500/y4jSWrykjrtfrxuvImpu857Qrxr.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+    "description": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
+    "releaseInfo": "1984",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt14905854",
+    "type": "movie",
+    "name": "Hamnet",
+    "poster": "https://image.tmdb.org/t/p/w500/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+    "posterShape": "poster",
+    "description": "Agnes y su esposo William Shakespeare luchan por superar la pérdida de su único hijo, Hamnet.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    }
+  }
+}

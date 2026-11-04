@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0114709",
+    "type": "movie",
+    "name": "Toy Story",
+    "poster": "https://image.tmdb.org/t/p/w500/p05ZMpMiigegGLqS5XxnmyG15iH.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "description": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando una nueva figura del hombre del espacio lo suplanta como juguete principal en el cuarto de un niño.",
+    "releaseInfo": "1995",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Animación",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

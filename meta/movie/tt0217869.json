@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0217869",
+    "type": "movie",
+    "name": "El protegido",
+    "poster": "https://image.tmdb.org/t/p/w500/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
+    "description": "Un hombre aprende algo extraordinario sobre sí mismo tras un devastador accidente.",
+    "releaseInfo": "2000",
+    "genres": [
+      "Suspense",
+      "Drama",
+      "Misterio"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

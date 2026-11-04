@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1945044",
+    "type": "movie",
+    "name": "Exeter",
+    "poster": "https://image.tmdb.org/t/p/w500/dms4O2RqeJGFNcCDbGajDccHWeB.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/eKawmfSvrDkfGglKQF8MHSNIAYR.jpg",
+    "description": "A group of teenagers accidentally release an evil spirit that starts to possess them one by one.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "4.7"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt27419466",
+    "type": "movie",
+    "name": "Moana",
+    "poster": "https://image.tmdb.org/t/p/w500/6WWJiE7Dwj63H122IOG2htJsCGP.jpg",
+    "posterShape": "poster",
+    "description": "Moana que quiere ser una viajera marinera. Cuando su isla natal se ve amenazada, Moana debe adentrarse en el mar junto a un semidiós llamado Maui para salvar a su pueblo.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Familia",
+      "Fantasía",
+      "Comedia",
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

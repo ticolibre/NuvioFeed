@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1197624",
+    "type": "movie",
+    "name": "El vengador",
+    "poster": "https://image.tmdb.org/t/p/w500/qcmMHHGQA8CjzZkr5OeBpM6kmcT.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/nazre7z7MoUwAqimnrSlMlfLR5t.jpg",
+    "description": "Un hombre frustrado decide tomar la justicia por su cuenta después de que un acuerdo de culpabilidad libere a uno de los asesinos de su familia.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

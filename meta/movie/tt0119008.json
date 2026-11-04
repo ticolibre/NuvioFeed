@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0119008",
+    "type": "movie",
+    "name": "Brasco",
+    "poster": "https://image.tmdb.org/t/p/w500/8ZtSStirIYiGF6HWjYTSWppo6c6.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/gXWzBnxUfLCT0w0WzAmJ5wF37hC.jpg",
+    "description": "Un agente encubierto del FBI se infiltra en la mafia y se encuentra identificándose más con esta vida a expensas de su vida normal.",
+    "releaseInfo": "1997",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

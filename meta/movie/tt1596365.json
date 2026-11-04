@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1596365",
+    "type": "movie",
+    "name": "La Dama de Negro",
+    "poster": "https://image.tmdb.org/t/p/w500/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jJ3yFKs6xeVGxtmm7GXZYQ3XAvz.jpg",
+    "description": "Arthur Kipps es un joven abogado cuya empresa lo envía a un lugar remoto para vender la casa de un cliente que acaba de fallecer. La gestión, aparentemente rutinaria, tropieza con ciertas dificultades: los vecinos se muestran reacios a hablar sobre la casa o a acercarse a ella; además, nadie está dispuesto a admitir la existencia de una mujer de negro que él está seguro de haber visto.",
+    "releaseInfo": "2012",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    }
+  }
+}

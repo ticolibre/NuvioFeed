@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0085244",
+    "type": "movie",
+    "name": "The Big Chill",
+    "poster": "https://image.tmdb.org/t/p/w500/gIPdTSNL80qXxy0qNGnZr6qiAkX.jpg",
+    "posterShape": "poster",
+    "description": "Seven old college friends gather for a weekend reunion after the funeral of one of their own.",
+    "releaseInfo": "1983",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/rzaoRlc9xzopMvb464kFmotqsES.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    }
+  }
+}

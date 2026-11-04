@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0052561",
+    "type": "movie",
+    "name": "Anatomía de un asesinato",
+    "poster": "https://image.tmdb.org/t/p/w500/2lHWDt5kQcd4yZ5yBPUuiEFYEXD.jpg",
+    "posterShape": "poster",
+    "description": "Un abogado representa a un oficial militar que asesinó al dueño de un bar con el supuesto fin de vengarse del asalto de su novia.",
+    "releaseInfo": "1959",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    }
+  }
+}

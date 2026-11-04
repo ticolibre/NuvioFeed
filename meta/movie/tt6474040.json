@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt6474040",
+    "type": "movie",
+    "name": "Estocolmo",
+    "poster": "https://image.tmdb.org/t/p/w500/pOKtpczUTn1Wfsv3btHEI3AgqIe.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",
+    "description": "La extraña historia, basada en hechos reales, de un robo de un banco con rehenes en 1973 que se convirtió en el origen del ‘Síndrome de Estocolmo’.",
+    "releaseInfo": "2019",
+    "genres": [
+      "Crimen",
+      "Comedia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.9"
+        }
+      }
+    }
+  }
+}

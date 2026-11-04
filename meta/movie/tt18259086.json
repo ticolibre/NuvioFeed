@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt18259086",
+    "type": "movie",
+    "name": "Sonic 3: La película",
+    "poster": "https://image.tmdb.org/t/p/w500/nRJH3KgLc3dMLaDJgLQ9u7CxsJg.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+    "description": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano con poderes nunca antes vistos. Con sus habilidades superadas en todos los sentidos, el Equipo Sonic debe buscar una alianza improbable con la esperanza de detener a Shadow y proteger el planeta.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

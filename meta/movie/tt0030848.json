@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0030848",
+    "type": "movie",
+    "name": "Test Pilot",
+    "poster": "https://image.tmdb.org/t/p/w500/fXu71c1XkKrSQtdUnS2VvfzhKeY.jpg",
+    "posterShape": "poster",
+    "description": "Jim is a test pilot. His wife Ann and best friend Gunner try their best to keep him sober. But the life of a test pilot is anything but safe.",
+    "releaseInfo": "1938",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/kH7H0GLLQDN1qTndYFScfIFtIjQ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.1"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1229822",
+    "type": "movie",
+    "name": "Jane Eyre",
+    "poster": "https://image.tmdb.org/t/p/w500/lARvVNx7r19UAYSFLuSgh06mfMx.jpg",
+    "posterShape": "poster",
+    "description": "La historia de Jane Eyre se desarrolla en el siglo XIX. Jane Eyre huye repentinamente de Thornfield Hall, una gran y aislada propiedad en la que trabaja como institutriz de Adéle Varens, una niña que se encuentra bajo la custodia del melancólico Edward Rochester.",
+    "releaseInfo": "2011",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/am9WwUTZuUDuinVcyST4OxJ8vFs.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

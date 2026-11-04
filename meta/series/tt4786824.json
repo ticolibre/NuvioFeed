@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "id": "tt4786824",
+    "type": "series",
+    "name": "The Crown",
+    "poster": "https://image.tmdb.org/t/p/w500/7xziWE8XCrZRFNdrox8zzhPJ48T.jpg",
+    "posterShape": "poster",
+    "description": "Este drama narra las rivalidades políticas y el romance de la reina Isabel II, así como los sucesos que moldearon la segunda mitad del siglo XX.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt4786824:1:1",
+        "title": "Wolferton Splash",
+        "season": 1,
+        "episode": 1,
+        "overview": "La joven princesa Isabel se casa con el príncipe Felipe. Mientras la salud del rey Jorge VI empeora, Winston Churchill es elegido primer ministro por segunda vez.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8JKsglmOt1BDvSs3ZZT30eV4YnN.jpg"
+      },
+      {
+        "id": "tt4786824:1:2",
+        "title": "Hyde Park Corner",
+        "season": 1,
+        "episode": 2,
+        "overview": "El rey Jorge está muy enfermo para viajar, así que Isabel y Felipe recorren cuatro continentes para representarlo. Los líderes del partido intentan debilitar a Churchill.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8IkKHAQ45TJAQpo0G5oKFPTODYu.jpg"
+      },
+      {
+        "id": "tt4786824:1:3",
+        "title": "Windsor",
+        "season": 1,
+        "episode": 3,
+        "overview": "Ahora que Isabel tiene un nuevo papel, Felipe intenta reafirmar su poder. Churchill quiere retrasar la coronación. Llega el hermano deshonrado del rey Jorge.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g6AACHbM1JCGs8lUKUJu6aDg34S.jpg"
+      },
+      {
+        "id": "tt4786824:1:4",
+        "title": "Fuerza mayor",
+        "season": 1,
+        "episode": 4,
+        "overview": "Una niebla densa paraliza a Londres durante varios días y genera un peligro para la salud. Los enemigos políticos de Churchill sacan partido de su inacción.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tYwcQoXHZmT5hfmvB3mu8ppt9Fx.jpg"
+      },
+      {
+        "id": "tt4786824:1:5",
+        "title": "Humo y espejos",
+        "season": 1,
+        "episode": 5,
+        "overview": "Isabel rechaza el protocolo al nombrar a Felipe coordinador de su coronación, pero las ideas de su marido generan conflicto. El duque de Windsor regresa a Londres.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n92zYAYid4VVNnonZQX3Zuiy1d9.jpg"
+      },
+      {
+        "id": "tt4786824:1:6",
+        "title": "Noticia bomba",
+        "season": 1,
+        "episode": 6,
+        "overview": "Margarita y Peter buscan el apoyo de la reina. Un escándalo sobre la familia real está a punto de llegar a la prensa, y la reina madre interviene.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kU4DsZzPpuybnOUuSQzxDwP61od.jpg"
+      },
+      {
+        "id": "tt4786824:1:7",
+        "title": "Scientia potentia est",
+        "season": 1,
+        "episode": 7,
+        "overview": "Mientras los soviéticos hacen pruebas con la bomba H, tanto Churchill como Eden sufren problemas de salud. La reina decide contratar a un tutor para mejorar su educación general.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6bM6lLb9xXF2Mo1zySbr5mBF5oq.jpg"
+      },
+      {
+        "id": "tt4786824:1:8",
+        "title": "Orgullo y alegría",
+        "season": 1,
+        "episode": 8,
+        "overview": "La reina y Felipe se embarcan en un viaje agotador por el mundo. Margarita asume algunas de las obligaciones oficiales de su hermana e intenta animar las cosas.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aj2RFO0K5Sl8oKh6HynpI1Npuew.jpg"
+      },
+      {
+        "id": "tt4786824:1:9",
+        "title": "Asesinos",
+        "season": 1,
+        "episode": 9,
+        "overview": "Mientras crece la tensión entre Felipe y la reina, ella pasa más tiempo con su viejo amigo Porchey. Pintan el retrato de Churchill, quien cumple ochenta años.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7GJh0OWGKIYJBE3G42U5umrpZLv.jpg"
+      },
+      {
+        "id": "tt4786824:1:10",
+        "title": "Gloriana",
+        "season": 1,
+        "episode": 10,
+        "overview": "Margarita y Peter se reconcilian, pero un nuevo obstáculo se interpone en su camino. La reina se debate entre su deber como soberana y su amor por su hermana.",
+        "released": "2016-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t2W1ihcSJIYVTcDtQGg8ecJW5xF.jpg"
+      },
+      {
+        "id": "tt4786824:2:1",
+        "title": "Desventura",
+        "season": 2,
+        "episode": 1,
+        "overview": "La reina hace un descubrimiento angustiante mientras Felipe se embarca en un largo viaje. Egipto se apodera del canal de Suez, y el primer ministro Eden quiere contraatacar.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7p5eCDvzakNIrAZs4Bi7TKUXNT0.jpg"
+      },
+      {
+        "id": "tt4786824:2:2",
+        "title": "Compañía de hombres",
+        "season": 2,
+        "episode": 2,
+        "overview": "Felipe revive recuerdos dolorosos durante una entrevista; la reina, por su parte, siente que la relación con su esposo se debilita. Eden enfrenta la presión internacional.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sqy83nss31vgSmruq1toeCplN56.jpg"
+      },
+      {
+        "id": "tt4786824:2:3",
+        "title": "Lisboa",
+        "season": 2,
+        "episode": 3,
+        "overview": "En el palacio, el círculo íntimo del poder intenta eludir un escándalo que deja mal parado a Felipe. Eden recibe críticas del gabinete y de la prensa.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y0w8D37pio8u3RXCCptjutyTnLF.jpg"
+      },
+      {
+        "id": "tt4786824:2:4",
+        "title": "Beryl",
+        "season": 2,
+        "episode": 4,
+        "overview": "La reina y Felipe organizan una gran fiesta por su décimo aniversario, en la que Margarita y el primer ministro juegan con fuego.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rGUz3K73z1degEjn9DCpc2DMOTI.jpg"
+      },
+      {
+        "id": "tt4786824:2:5",
+        "title": "Marionetas",
+        "season": 2,
+        "episode": 5,
+        "overview": "Luego de un discurso poco inspirador de la reina en la fábrica de Jaguar, tanto ella como la monarquía reciben ataques públicos por el comportamiento de un miembro de la nobleza.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AlX1MTI9jOmtVOXfAgixpvdTrip.jpg"
+      },
+      {
+        "id": "tt4786824:2:6",
+        "title": "Vergangenheit",
+        "season": 2,
+        "episode": 6,
+        "overview": "Un documento secreto de la Segunda Guerra Mundial le abre los ojos a la reina sobre alguien de la familia. El duque de Windsor hace campaña para volver a la vida pública.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2IHAZi6ww9OaYVGodQgzHEupSav.jpg"
+      },
+      {
+        "id": "tt4786824:2:7",
+        "title": "Matrimonium",
+        "season": 2,
+        "episode": 7,
+        "overview": "Margarita da un salto arriesgado tras recibir una carta de Peter Townsend. Más tarde, la reina cree tener buenas noticias, pero no lo son tanto para su hermana.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hOrATp6eEXriR512eONdJSSvTVJ.jpg"
+      },
+      {
+        "id": "tt4786824:2:8",
+        "title": "Estimada Sra. Kennedy",
+        "season": 2,
+        "episode": 8,
+        "overview": "Inspirada en Jackie Kennedy y contra los deseos del Gobierno, la reina rompe los protocolos para resolver un problema en Ghana.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nH6qhpWAuhQfPbab8Ahl2kgDACV.jpg"
+      },
+      {
+        "id": "tt4786824:2:9",
+        "title": "Paterfamilias",
+        "season": 2,
+        "episode": 9,
+        "overview": "Felipe evoca sus años de estudio en Escocia y los obstáculos que superó, y se empeña en que el príncipe Carlos vaya a la misma escuela, su alma mater.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z96LA2f7E5BOspew99dNI30Y3pq.jpg"
+      },
+      {
+        "id": "tt4786824:2:10",
+        "title": "Hombre misterioso",
+        "season": 2,
+        "episode": 10,
+        "overview": "Un escándalo en el Gobierno roza la casa real y complica a Felipe y a la reina, quien se refugia en Escocia para sobrellevar su difícil embarazo.",
+        "released": "2017-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5dzJtIc3fhNVsjUzUPsoRRaR9dH.jpg"
+      },
+      {
+        "id": "tt4786824:3:1",
+        "title": "Olding",
+        "season": 3,
+        "episode": 1,
+        "overview": "A la reina le inquieta que el líder del Partido Laborista se convierta en primer ministro en medio de sentimientos antimonárquicos y rumores de vinculación con la KGB.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kMDRWWEGFz2R181P0AsmyNQWfkj.jpg"
+      },
+      {
+        "id": "tt4786824:3:2",
+        "title": "Margarismo",
+        "season": 3,
+        "episode": 2,
+        "overview": "Gran Bretaña necesita el rescate financiero de Estados Unidos, por lo cual la reina, a disgusto, consigue que Margarita ayude a obtener el apoyo del presidente Johnson.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dd641PBn6AQpvbMSj1ZcRll0Nng.jpg"
+      },
+      {
+        "id": "tt4786824:3:3",
+        "title": "Aberfan",
+        "season": 3,
+        "episode": 3,
+        "overview": "Ante un trágico accidente en un pueblo minero galés que rápidamente se politiza, tanto a la reina como a Wilson les cuesta decidir cómo responder.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9Z58BcpCgFFPxNdq5d7E0rN5cA.jpg"
+      },
+      {
+        "id": "tt4786824:3:4",
+        "title": "Bubbikins",
+        "season": 3,
+        "episode": 4,
+        "overview": "Mientras la familia real recurre a un documental para mejorar su imagen, de Grecia llega una sorpresiva visita que estropea los planes publicitarios de Felipe.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kMeDFZKEqT9MfEIWIfTNATPBZ8G.jpg"
+      },
+      {
+        "id": "tt4786824:3:5",
+        "title": "Golpe de Estado",
+        "season": 3,
+        "episode": 5,
+        "overview": "La reina busca mejorar el manejo de sus caballos de carrera, y eso la lleva a imaginar la vida que podría haber tenido. Entretanto, se gesta un complot contra su Gobierno.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/miMy0pzAEuqKFzdApXOeCsvDZkQ.jpg"
+      },
+      {
+        "id": "tt4786824:3:6",
+        "title": "Tywysog Cymru",
+        "season": 3,
+        "episode": 6,
+        "overview": "Ante el creciente nacionalismo galés que precede a la investidura de Carlos como príncipe de Gales, lo envían a pasar tres meses allí y aprender el idioma.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3fJ7Ecq777pQJNNc95gKQhhnHBP.jpg"
+      },
+      {
+        "id": "tt4786824:3:7",
+        "title": "Polvo lunar",
+        "season": 3,
+        "episode": 7,
+        "overview": "Con la llegada del hombre a la Luna, Felipe se siente decepcionado por la ausencia de logros personales a su edad madura y empieza a buscar fuentes de inspiración.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5sjgT2SjjjkCYmWENssdtWm2S81.jpg"
+      },
+      {
+        "id": "tt4786824:3:8",
+        "title": "El hombre en suspenso",
+        "season": 3,
+        "episode": 8,
+        "overview": "Carlos empieza a salir con Camilla Shand, y la reina considera ir a París para visitar a un enfermo duque de Windsor, cuyo destino cambió cuando conoció a Wallis Simpson.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5S8MWf3cjh4PzTF3h6z7gZTCHtS.jpg"
+      },
+      {
+        "id": "tt4786824:3:9",
+        "title": "Enredo",
+        "season": 3,
+        "episode": 9,
+        "overview": "Mientras el Gobierno llega a un punto muerto con los mineros, la familia de Carlos interfiere en su relación cada vez más intensa con Camilla.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p7xzevBSjeoUzJBQcUuMUtKmDZa.jpg"
+      },
+      {
+        "id": "tt4786824:3:10",
+        "title": "Grito de amor",
+        "season": 3,
+        "episode": 10,
+        "overview": "Margarita ve su matrimonio desmoronarse y busca consuelo en otros brazos, pero su delicado estado mental y la falta de apoyo familiar la alejan de la felicidad verdadera.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1A2m9QXYRFvHGXy4qL6kfPerJE2.jpg"
+      },
+      {
+        "id": "tt4786824:4:1",
+        "title": "Protector de monarcas",
+        "season": 4,
+        "episode": 1,
+        "overview": "La reina le da la bienvenida a la primera ministra del Reino Unido, y Carlos conoce a la joven Diana Spencer. Un ataque del IRA acarrea una tragedia para la familia real.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4vH4qPDyaeItQXL1icQiSTvsfMt.jpg"
+      },
+      {
+        "id": "tt4786824:4:2",
+        "title": "El Balmoral",
+        "season": 4,
+        "episode": 2,
+        "overview": "Margaret Thatcher visita Balmoral, pero tiene dificultades para encajar con la familia real. Carlos se debate entre sus sentimientos y sus deberes familiares.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4cpeb7xLzrLAlmEIo5XFcUTkYLq.jpg"
+      },
+      {
+        "id": "tt4786824:4:3",
+        "title": "Cuento de hadas",
+        "season": 4,
+        "episode": 3,
+        "overview": "Tras la propuesta de matrimonio, Diana se muda al palacio de Buckingham y su vida se ve engullida por la instrucción principesca, la soledad... y Camilla Parker Bowles.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/goLj0V05C4618bwZgTSxD3gdVEy.jpg"
+      },
+      {
+        "id": "tt4786824:4:4",
+        "title": "El favorito",
+        "season": 4,
+        "episode": 4,
+        "overview": "Mientras Margaret Thatcher sufre por la desaparición de su hijo predilecto, la reina revalúa los vínculos que la unen a sus cuatro herederos.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zX2FYeoRCmvt8dFvILXV9uWMUwR.jpg"
+      },
+      {
+        "id": "tt4786824:4:5",
+        "title": "Michael Fagan, el intruso",
+        "season": 4,
+        "episode": 5,
+        "overview": "Cuando las políticas de Thatcher llevan a un aumento en la tasa de desempleo, un hombre desesperado irrumpe en el palacio y despierta a la reina para hablar con ella.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2wNQ67NSj60r25faVPot4AtQROU.jpg"
+      },
+      {
+        "id": "tt4786824:4:6",
+        "title": "Tierra de nadie",
+        "season": 4,
+        "episode": 6,
+        "overview": "En una gira por Australia, Diana lucha por compaginar la maternidad y las obligaciones reales. Al mismo tiempo, ella y Carlos hacen frente a sus desavenencias conyugales.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/prZEGMkWLPYwjWmFRqbrixlasrq.jpg"
+      },
+      {
+        "id": "tt4786824:4:7",
+        "title": "Lo que se hereda",
+        "season": 4,
+        "episode": 7,
+        "overview": "Agobiada por problemas de salud mental, Margarita busca ayuda y descubre un secreto espantoso relacionado con algunos parientes distanciados de la familia real.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7g3Pfe1Xb90h3Qao9HEbw0umWrH.jpg"
+      },
+      {
+        "id": "tt4786824:4:8",
+        "title": "48 contra 1",
+        "season": 4,
+        "episode": 8,
+        "overview": "Muchos países repudian el apartheid de Sudáfrica, y se tensa aún más la relación entre Thatcher y la reina por su divergencia de criterios sobre la imposición de sanciones.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sKRjSTMzoY5u4mgg6F6ckxSWXHP.jpg"
+      },
+      {
+        "id": "tt4786824:4:9",
+        "title": "Avalancha",
+        "season": 4,
+        "episode": 9,
+        "overview": "Carlos es sorprendido por una avalancha mortal, a raíz de lo cual él y Diana se replantean el compromiso con su problemático matrimonio.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iOoeB6YvuMvqUG7l6YwrIDYhZcd.jpg"
+      },
+      {
+        "id": "tt4786824:4:10",
+        "title": "En guerra",
+        "season": 4,
+        "episode": 10,
+        "overview": "Thatcher defiende su cargo frente a crecientes desafíos a su autoridad. Carlos reafirma su decisión de separarse de Diana mientras su matrimonio se desmorona.",
+        "released": "2020-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/unZvtRMoT0pVn1ztBSpkrR3gZyB.jpg"
+      },
+      {
+        "id": "tt4786824:5:1",
+        "title": "El síndrome de la reina Victoria",
+        "season": 5,
+        "episode": 1,
+        "overview": "Una remodelación muy necesaria del yate real pone bajo escrutinio el reinado de Isabel. Asediados por la prensa, Carlos y Diana tienen una segunda luna de miel en Italia.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yDXIMOOhm0XiMGLwjlCGNwmlM7C.jpg"
+      },
+      {
+        "id": "tt4786824:5:2",
+        "title": "El sistema",
+        "season": 5,
+        "episode": 2,
+        "overview": "El príncipe Felipe le ofrece su apoyo a un familiar en duelo. En busca de una primicia, un periodista se acerca a Diana para escribir un libro sobre ella.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qGLiOFBPgwCYdRqy3TQEFgL5hRO.jpg"
+      },
+      {
+        "id": "tt4786824:5:3",
+        "title": "Mou Mou",
+        "season": 5,
+        "episode": 3,
+        "overview": "En 1946, un vendedor callejero egipcio halla inspiración en el abdicado rey Eduardo. Años más tarde, ávido, busca la forma de integrar la alta sociedad británica.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pljk68KfDmFUkymYNa4gk8Qx8AO.jpg"
+      },
+      {
+        "id": "tt4786824:5:4",
+        "title": "Annus Horribilis",
+        "season": 5,
+        "episode": 4,
+        "overview": "Entre un incendio en el castillo de Windsor y las tensiones maritales de sus hijos, la reina conmemora y revalúa sus cuarenta años en el trono.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p7FTksg6W1gc9m9U4o4lR4GaTS4.jpg"
+      },
+      {
+        "id": "tt4786824:5:5",
+        "title": "El camino a seguir",
+        "season": 5,
+        "episode": 5,
+        "overview": "Debido a una llamada interceptada con Camilla y el consiguiente impacto en su matrimonio, el príncipe Carlos debe lidiar con un escándalo.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aWqMhavGJkf2wxLlhfrRb22t7OI.jpg"
+      },
+      {
+        "id": "tt4786824:5:6",
+        "title": "La casa Ipatiev",
+        "season": 5,
+        "episode": 6,
+        "overview": "Ansioso de liderar una nueva Rusia democrática, el presidente Yeltsin intenta ganarse el apoyo de la reina mientras ella experimenta nuevas grietas en su matrimonio.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fLjqjO6qpRqrzkU32YvJBaHYdLG.jpg"
+      },
+      {
+        "id": "tt4786824:5:7",
+        "title": "Entre dos realidades",
+        "season": 5,
+        "episode": 7,
+        "overview": "Mientras Martin Bashir, de la BBC, hace lo imposible por obtener una entrevista con Diana, la solitaria princesa halla propósito y calidez en un hospital de Londres.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bG3yyhbU1I0GyaQAb0TbKJPhirx.jpg"
+      },
+      {
+        "id": "tt4786824:5:8",
+        "title": "Pólvora",
+        "season": 5,
+        "episode": 8,
+        "overview": "La reina pasa tiempo de calidad con el príncipe Guillermo. Los fuegos artificiales de la Noche de Guy Fawkes son la distracción perfecta para la entrevista de Diana en la BBC.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jaZBL2RRPElN5aNpQhHjJ7FpfN6.jpg"
+      },
+      {
+        "id": "tt4786824:5:9",
+        "title": "Pareja 31",
+        "season": 5,
+        "episode": 9,
+        "overview": "La princesa de Gales enfrenta las consecuencias de sus declaraciones. La reina recurre al primer ministro para que los ayude con un delicado asunto familiar...",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kBQjx3xx1z6BkyH5vh3wU1CFjrw.jpg"
+      },
+      {
+        "id": "tt4786824:5:10",
+        "title": "Retirada",
+        "season": 5,
+        "episode": 10,
+        "overview": "Tras el creciente escrutinio público, Carlos forja una nueva alianza en Hong Kong. Mohamed Al-Fayed le ofrece su apoyo a Diana luego de su divorcio.",
+        "released": "2022-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1sQzI85NB2z4qWw5sBkUqHIC3Ag.jpg"
+      },
+      {
+        "id": "tt4786824:6:1",
+        "title": "Persona non grata",
+        "season": 6,
+        "episode": 1,
+        "overview": "Diana vacaciona en Saint-Tropez con Al Fayed y estrecha lazos con su hijo Dodi. Carlos se desilusiona al enterarse de que la reina no asistirá al cumpleaños número 50 de Camilla.",
+        "released": "2023-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cW2oSrAs0RaGpTiupN8MRoplkRy.jpg"
+      },
+      {
+        "id": "tt4786824:6:2",
+        "title": "Dos fotografías",
+        "season": 6,
+        "episode": 2,
+        "overview": "Los flashes encandilan, y la prensa amarilla enloquece con la relación cada vez más cercana de Diana y Dodi. En represalia, Carlos organiza una sesión de fotos con sus hijos.",
+        "released": "2023-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pyZO2VGBL2y3ip9VAz3dAzMBbmD.jpg"
+      },
+      {
+        "id": "tt4786824:6:3",
+        "title": "Dis-Moi Oui",
+        "season": 6,
+        "episode": 3,
+        "overview": "El padre de Dodi presiona con el compromiso, pero el matrimonio no es una prioridad en la vida de Diana. Más adelante, una persecución a alta velocidad termina en desastre.",
+        "released": "2023-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fcSxydqudgtxpE1iw3qGaUgYPwH.jpg"
+      },
+      {
+        "id": "tt4786824:6:4",
+        "title": "Secuelas",
+        "season": 6,
+        "episode": 4,
+        "overview": "Mientras el mundo se tiñe de luto, el silencio de la reina enfurece a Carlos, quien teme que la actitud de su madre se vuelva en su contra. ¿Podrá la soberana consolar a su pueblo?",
+        "released": "2023-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sS230ONzqu6W9Eu8G4woZ4ssYGR.jpg"
+      },
+      {
+        "id": "tt4786824:6:5",
+        "title": "El fenómeno Guillermo",
+        "season": 6,
+        "episode": 5,
+        "overview": "Acosado por la prensa y por las chicas, Guillermo, de 15 años, intenta encontrar estabilidad tras la muerte de Diana. Carlos recurre a sus padres para ayudarlo.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hCyYxi7ONABXmZ5vTXHDLQqMu2b.jpg"
+      },
+      {
+        "id": "tt4786824:6:6",
+        "title": "Ruritania",
+        "season": 6,
+        "episode": 6,
+        "overview": "Con el fin de mejorar la imagen pública de la monarquía, la reina busca la ayuda del experimentado primer ministro Tony Blair. Pero su consejo va en contra del protocolo real.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2iGcysv96erIGeQwEOHEgYRiEYI.jpg"
+      },
+      {
+        "id": "tt4786824:6:7",
+        "title": "Alma mater",
+        "season": 6,
+        "episode": 7,
+        "overview": "Ahora en la universidad, Guillermo comienza a interesarse en Kate Middleton. Con padres entrometidos y otros pretendientes en juego, ¿logrará prosperar su relación?",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4Nq9OiL2mgkbvqSKqd4WAa4uA6Z.jpg"
+      },
+      {
+        "id": "tt4786824:6:8",
+        "title": "Ritz",
+        "season": 6,
+        "episode": 8,
+        "overview": "Tras sufrir una serie de accidentes cerebrovasculares, Margarita recuerda una velada entrañable con su hermana en el Ritz en 1945 y, luego, celebra su cumpleaños número 70 allí.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rLm4sRnHXP2iXrMMCIjYkuVEQm4.jpg"
+      },
+      {
+        "id": "tt4786824:6:9",
+        "title": "La calle Hope",
+        "season": 6,
+        "episode": 9,
+        "overview": "Afectada por una pérdida y preocupada por su Jubileo de Oro, la reina estrecha lazos con Guillermo, que encuentra su lugar entre la normalidad y la vida bajo los reflectores.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/afrbTy5CzPe7pQWrENWXWqD3d6f.jpg"
+      },
+      {
+        "id": "tt4786824:6:10",
+        "title": "Duerme, cielo, duerme",
+        "season": 6,
+        "episode": 10,
+        "overview": "La reina le da su bendición a Carlos para que se case con Camilla. Encargada de planear su funeral antes de su cumpleaños número 80, la monarca enfrenta una crisis existencial.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cKUtTSSWzL1rJ75m60oB1QJLpk7.jpg"
+      }
+    ]
+  }
+}

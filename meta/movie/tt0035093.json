@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0035093",
+    "type": "movie",
+    "name": "Rosa de abolengo",
+    "poster": "https://image.tmdb.org/t/p/w500/xEjthNTIVpKEV4dkz4ILX4ffYMZ.jpg",
+    "posterShape": "poster",
+    "description": "Durante la Segunda Guerra Mundial, una familia inglesa, que vive en un pequeño pueblo, logra sobrevivir a los bombardeos alemanes. La madre se encuentra al frente de la casa esperando que su hijo y su marido regresen de la guerra.",
+    "releaseInfo": "1942",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Bélica"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/jqu2wqiFKrmhbF6fLqwi3zRUDz7.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

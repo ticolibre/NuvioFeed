@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0029843",
+    "type": "movie",
+    "name": "Las aventuras de Robin Hood",
+    "poster": "https://image.tmdb.org/t/p/w500/bCXYN015wb10UTPgXZxcd2RAjBI.jpg",
+    "posterShape": "poster",
+    "description": "Robin de Locksley regresa a Inglaterra tras combatir contra los infieles en las Cruzadas.Mientras tanto Juan sin Tierra, el hermano del Rey Ricardo I, ha usurpado el trono y gobierna despóticamente, por lo que el noble sajón decide refugiarse en el bosque de Sherwood y luchar contra él para devolverle la corona a Ricardo.",
+    "releaseInfo": "1938",
+    "genres": [
+      "Aventura",
+      "Romance",
+      "Acción"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

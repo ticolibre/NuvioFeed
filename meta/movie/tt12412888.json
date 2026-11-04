@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt12412888",
+    "type": "movie",
+    "name": "Sonic 2: La película",
+    "poster": "https://image.tmdb.org/t/p/w500/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg",
+    "description": "Cuando el Dr. Robotnik regresa, esta vez con un nuevo compañero, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic se une a su propio compañero, Tails, y juntos se embarcan en un viaje por el mundo para encontrar la esmeralda antes de que caiga en las manos equivocadas.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Familia",
+      "Comedia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

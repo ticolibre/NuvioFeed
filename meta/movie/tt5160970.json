@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt5160970",
+    "type": "movie",
+    "name": "Fifteen",
+    "poster": "https://image.tmdb.org/t/p/w500/m1PN8miIG4Yb8a2sS2WhPSvmTPx.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/j9ANfbkf8iSkmqKXCrLteKwfpEU.jpg",
+    "description": "A serial killer is using Periscope video streaming app to film his grizzly murders live.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "4.5"
+        }
+      }
+    }
+  }
+}

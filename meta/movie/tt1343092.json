@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1343092",
+    "type": "movie",
+    "name": "El gran Gatsby",
+    "poster": "https://image.tmdb.org/t/p/w500/j4lLlVyOLzNVlLcBz6UGsAvSG2V.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/cf4YmtSnNhdG7s9ERmXyaDEznEw.jpg",
+    "description": "Nueva York, años 20. En la alta sociedad norteamericana, llama la atención la presencia de Jay Gatsby, un hombre misterioso e inmensamente rico, al que todos consideran un advenedizo, lo que no impide que acudan a sus fastuosas fiestas en su gran mansión de Long Island. Gatsby vive obsesionado con la idea de recuperar al amor que dejó escapar años atrás. Para ello se hará amigo de su vecino recién llegado, el joven Nick Carraway.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

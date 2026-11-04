@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0035530",
+    "type": "movie",
+    "name": "Wake Island",
+    "poster": "https://image.tmdb.org/t/p/w500/8ytAmQG8E03niY1lqSCHd0w1ghI.jpg",
+    "posterShape": "poster",
+    "description": "In late 1941, with no hope of relief or re-supply, a small band of United States Marines tries to keep the Japanese Navy from capturing their island base.",
+    "releaseInfo": "1942",
+    "genres": [
+      "Bélica",
+      "Acción",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/g9kAFh9Xp05fQsbv12MbeQGBpxS.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.8"
+        }
+      }
+    }
+  }
+}

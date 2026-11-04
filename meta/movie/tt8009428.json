@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt8009428",
+    "type": "movie",
+    "name": "Garra",
+    "poster": "https://image.tmdb.org/t/p/w500/yjtvXD7FyjQSLqvatkY0y1CNazR.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+    "description": "Cuando un desafortunado cazatalentos de básquetbol encuentra un jugador excepcional en España, se dispone a demostrar que pueden triunfar en la NBA.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.7"
+        }
+      }
+    }
+  }
+}

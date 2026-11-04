@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1355644",
+    "type": "movie",
+    "name": "Pasajeros",
+    "poster": "https://image.tmdb.org/t/p/w500/aaVsxL9i4Z3wrP0qfzvjad4fEFq.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+    "description": "Una nave espacial que viaja a un planeta colonia distante y transporta a miles de personas tiene un mal funcionamiento en sus cámaras de sueño. Como resultado, dos pasajeros son despertados 90 años antes.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    }
+  }
+}

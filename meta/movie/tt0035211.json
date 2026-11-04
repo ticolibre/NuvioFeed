@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0035211",
+    "type": "movie",
+    "name": "El orgullo de los Yankees",
+    "poster": "https://image.tmdb.org/t/p/w500/qVpnzTYZg42LG5QuqNpRDi1Tl40.jpg",
+    "posterShape": "poster",
+    "description": "Biopic sobre Lou Gehrig, un legendario jugador profesional de béisbol norteamericano, al que, después de jugar muchos años sin perderse ni un solo partido, le diagnosticaron de repente una misteriosa enfermedad.",
+    "releaseInfo": "1942",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/bd57iZNhXjX4Olm22XqXHondbBL.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

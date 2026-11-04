@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt3327994",
+    "type": "movie",
+    "name": "Human",
+    "poster": "https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/c0gtBfDyOrba9e5wnFjrxn8rxQr.jpg",
+    "description": "Un retrato íntimo y visual de la humanidad actual, construido a partir de testimonios recogidos en 60 países, que exploran la diversidad, las desigualdades y la capacidad de empatía del ser humano.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    }
+  }
+}

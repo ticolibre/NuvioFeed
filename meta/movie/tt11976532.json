@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt11976532",
+    "type": "movie",
+    "name": "Venganza",
+    "poster": "https://image.tmdb.org/t/p/w500/zwBjTDwXsrDhKY80zIX7F4oi1is.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jwFBzWabfWpnN9P5YIVVX5W8WUY.jpg",
+    "description": "Un presentador de radio de la ciudad de Nueva York intenta resolver el asesinato de su novia y viaja hacia el sur para investigar las circunstancias de su muerte y descubrir qué le sucedió.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Comedia",
+      "Misterio",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    }
+  }
+}

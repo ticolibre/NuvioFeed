@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0120630",
+    "type": "movie",
+    "name": "Pollitos en fuga",
+    "poster": "https://image.tmdb.org/t/p/w500/jSp4EC1deF4xboQ1nz3tkv4yanh.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+    "description": "Cuando un gallo entra aparentemente volando a una granja de pollos, las gallinas lo ven como una oportunidad para escapar de sus malvados dueños.",
+    "releaseInfo": "2000",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

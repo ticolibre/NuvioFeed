@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0034167",
+    "type": "movie",
+    "name": "El sargento York",
+    "poster": "https://image.tmdb.org/t/p/w500/b88yi9w5hYHD6GyguJsSMdnZPJ4.jpg",
+    "posterShape": "poster",
+    "description": "Un tirador es reclutado en la Primera Guerra Mundial y termina convirtiéndose en uno de los más célebres héroes de guerra.",
+    "releaseInfo": "1941",
+    "genres": [
+      "Bélica",
+      "Drama",
+      "Historia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

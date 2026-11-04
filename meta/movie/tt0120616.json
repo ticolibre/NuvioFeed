@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0120616",
+    "type": "movie",
+    "name": "La Momia",
+    "poster": "https://image.tmdb.org/t/p/w500/uxNulNBj05yTLxRhR5L4Iaaon8M.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+    "description": "Un aventurero imprudente y un grupo de exploradores desentierran accidentalmente una antigua maldición egipcia. Ahora, deben luchar contra la resucitada momia del sacerdote Imhotep, que busca recuperar su poder y venganza sobre el mundo moderno.",
+    "releaseInfo": "1999",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.0"
+        }
+      }
+    }
+  }
+}

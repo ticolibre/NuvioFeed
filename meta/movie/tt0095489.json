@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0095489",
+    "type": "movie",
+    "name": "En busca del valle encantado",
+    "poster": "https://image.tmdb.org/t/p/w500/jsxGmtUe06AAhfWihGiLDukI0QS.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
+    "description": "Un brontosaurio huérfano se une a otros dinosaurios jóvenes para reunirse con sus familias en un valle.",
+    "releaseInfo": "1988",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Aventura",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

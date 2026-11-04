@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0052618",
+    "type": "movie",
+    "name": "Ben-Hur",
+    "poster": "https://image.tmdb.org/t/p/w500/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
+    "posterShape": "poster",
+    "description": "Judah Ben-Hur, un príncipe judío, es traicionado por su amigo de la infancia, Messala, y condenado a la esclavitud. Después de años de sufrimiento, Ben-Hur se convierte en un héroe y busca venganza en una carrera de cuadrigas épica que cambiará su destino para siempre.",
+    "releaseInfo": "1959",
+    "genres": [
+      "Historia",
+      "Drama",
+      "Aventura"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

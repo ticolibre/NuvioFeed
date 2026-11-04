@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt15574270",
+    "type": "movie",
+    "name": "Vi el brillo del televisor",
+    "poster": "https://image.tmdb.org/t/p/w500/6KeQT6HS9AyWQS2OrPGzoCLHNgb.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/jKulL2hdp5S7dVbpoItAtdCyzXI.jpg",
+    "description": "Dos adolescentes comparten su amor por una serie de televisión de terror, pero esta se cancela misteriosamente.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Drama",
+      "Terror"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    }
+  }
+}

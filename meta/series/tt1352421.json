@@ -1,0 +1,799 @@
+{
+  "meta": {
+    "id": "tt1352421",
+    "type": "series",
+    "name": "Natsume Yujin-cho",
+    "poster": "https://image.tmdb.org/t/p/w500/5AxA0foArb9OeETtibhEQ84doBd.jpg",
+    "posterShape": "poster",
+    "description": "Natsume es un chico que ha tenido una vida difícil desde pequeño, puesto que puede ver espíritus llamados Youkai, un buen día algunos de esos espíritus empiezan a atacarle pidiéndole \"El Libro de los Amigos\" éste libro, es un diario que le dejó su abuela Reiko que también podía ver los espíritus perfectamente. Ésta fue quien encerró el nombre de muchos de los Youkai, impidiendo así que pudiesen ser libres. Natsume, junto con su amigo y guardaespaldas, decidirá ayudar a los Youkai y liberarlos devolviéndoles su nombre.",
+    "releaseInfo": "2008",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/xHjRfQIRlxug491JrKiEYl9vHM1.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1352421:1:1",
+        "title": "El gato y el libro de los amigos",
+        "season": 1,
+        "episode": 1,
+        "overview": "Natsume descubre que el «Libro de los Amigos», una reliquia familiar que heredó de su abuela Reiko, contiene los nombres de los espíritus que ella derrotó y sometió a su voluntad.",
+        "released": "2008-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/M1dtATPgBqmJDo5aEiwlVYl6Aw.jpg"
+      },
+      {
+        "id": "tt1352421:1:2",
+        "title": "El santuario de Tsuyugami",
+        "season": 1,
+        "episode": 2,
+        "overview": "Natsume recibe la visita del dios local de la aldea, quien está desapareciendo poco a poco debido a la falta de personas que crean en él.",
+        "released": "2008-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1mkB86R5bhvzqISruvhyrjc0hpu.jpg"
+      },
+      {
+        "id": "tt1352421:1:3",
+        "title": "La persona misteriosa en los ocho campos",
+        "season": 1,
+        "episode": 3,
+        "overview": "Natsume recibe una petición de ayuda de unos espíritus que están siendo exorcizados. Allí conoce a Tanuma, un chico que también puede percibir espíritus, aunque sus habilidades no son tan poderosas como las de Natsume.",
+        "released": "2008-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4LCbZdGewCkLJNdetV4hssUO2Jw.jpg"
+      },
+      {
+        "id": "tt1352421:1:4",
+        "title": "Shigure y la chica",
+        "season": 1,
+        "episode": 4,
+        "overview": "Sasada, la presidenta de la clase, descubre el secreto de Natsume durante la «Prueba de Valor». Ella le pide ayuda para encontrar al espíritu que habita en la escuela abandonada. Natsume niega poder ver algo, pero Sasada no acepta un no por respuesta. Mientras tanto, el espíritu, Shigure, captura al resto de sus compañeros, enfurecido porque la escuela será demolida.",
+        "released": "2008-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6nYWt6xrDIQPIzK27r3cZTMWPt7.jpg"
+      },
+      {
+        "id": "tt1352421:1:5",
+        "title": "Boleto de color corazón",
+        "season": 1,
+        "episode": 5,
+        "overview": "Natsume encuentra un viejo boleto entre las pertenencias de Reiko y decide visitar una estación de tren abandonada para descubrir por qué ella lo conservaba. Allí conoce a Santo, un espíritu algo ingenuo que llevaba mucho tiempo esperando a Reiko para viajar a Kiriganuma y reunirse con su amigo Mikuri. Sin embargo, el viaje resulta mucho más complicado de lo que parecía.",
+        "released": "2008-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6hFcqbnKZHs9nDlb2ShAXFs0ZAy.jpg"
+      },
+      {
+        "id": "tt1352421:1:6",
+        "title": "La golondrina en el fondo del agua",
+        "season": 1,
+        "episode": 6,
+        "overview": "Natsume visita una presa y descubre un pueblo que quedó sumergido bajo el agua. En ese momento, un youkai se apodera de él y Natsume pierde el conocimiento.",
+        "released": "2008-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ceOrUrbXdQr5zJn2DsMmdnrotQx.jpg"
+      },
+      {
+        "id": "tt1352421:1:7",
+        "title": "El sombrero del pequeño zorro",
+        "season": 1,
+        "episode": 7,
+        "overview": "Natsume viaja a unas aguas termales durante un viaje escolar. Shigeru le encarga recoger unas tazas de té en una alfarería cercana. Allí conoce a un pequeño espíritu zorro al que ayuda y que rápidamente se encariña con él.",
+        "released": "2008-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1UgYE3ndto577wPgsz872v98Huu.jpg"
+      },
+      {
+        "id": "tt1352421:1:8",
+        "title": "Luz fugaz",
+        "season": 1,
+        "episode": 8,
+        "overview": "Natsume conoce a un espíritu que alguna vez fue amigo de un hombre capaz de ver espíritus, pero que un día perdió esa habilidad.",
+        "released": "2008-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ebfWOtjFdXIhgqcH3JFQnwCb3uK.jpg"
+      },
+      {
+        "id": "tt1352421:1:9",
+        "title": "Exorcismo de Ayakashi",
+        "season": 1,
+        "episode": 9,
+        "overview": "Natsume conoce al popular actor Shuichi Natori, quien también puede ver espíritus y trabaja como exorcista.",
+        "released": "2008-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q4oxsmuXjQtfWlnTGWV3qgGtZYZ.jpg"
+      },
+      {
+        "id": "tt1352421:1:10",
+        "title": "El koto de Asagi",
+        "season": 1,
+        "episode": 10,
+        "overview": "Natsume es poseído por el espíritu de una intérprete de koto enferma, cuyo amigo desea que pueda tocar el instrumento una última vez.",
+        "released": "2008-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bJ5QkK6e0Hi2F22VpXurPkjCcJL.jpg"
+      },
+      {
+        "id": "tt1352421:1:11",
+        "title": "El libro del aburrimiento de Nyanko",
+        "season": 1,
+        "episode": 11,
+        "overview": "Cuando Natsume finalmente se cansa del comportamiento de Nyanko-sensei, este se marcha y comienza a vagar por su cuenta, causando problemas a su paso.",
+        "released": "2008-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jyTZMAql82SCdSc5B6e0HuFvzA0.jpg"
+      },
+      {
+        "id": "tt1352421:1:12",
+        "title": "Marca de cinco días",
+        "season": 1,
+        "episode": 12,
+        "overview": "Natsume es víctima de una maldición lanzada por un espíritu maligno sellado en un árbol. Para no causar problemas a su familia adoptiva, decide marcharse de casa.",
+        "released": "2008-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/94T1iDfpnzJOSdn5sZ2OBLeZemz.jpg"
+      },
+      {
+        "id": "tt1352421:1:13",
+        "title": "Banquete otoñal",
+        "season": 1,
+        "episode": 13,
+        "overview": "Tanuma descubre que Nyanko-sensei es un espíritu. Natsume y Tanuma disfrutan juntos del festival de otoño, mientras algunos conocidos de Natsume vuelven a aparecer.",
+        "released": "2008-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uGS7DPVaFUAubkimGymUi2pJyI6.jpg"
+      },
+      {
+        "id": "tt1352421:2:1",
+        "title": "El libro de los amigos es robado",
+        "season": 2,
+        "episode": 1,
+        "overview": "Mientras está afuera durante la escuela, Natsume recibe accidentalmente un balonazo mientras lee. Al ir a recuperar la pelota, termina rompiendo el sello de un youkai, como había ocurrido anteriormente con Nyanko-sensei. Esa noche, Natsume y Nyanko-sensei descubren a un extraño que se parece mucho a Nyanko, pero este termina robando el Libro de los Amigos.",
+        "released": "2009-01-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ArwpxPWwPZ0H6hr3FwXTvc77qqs.jpg"
+      },
+      {
+        "id": "tt1352421:2:2",
+        "title": "Derretimiento en primavera",
+        "season": 2,
+        "episode": 2,
+        "overview": "Mientras juegan en la nieve, Natsume y Nyanko-sensei conocen a Gen, un guardián del bosque que habita dentro de una estatua. Gen intenta apoderarse del cuerpo de Natsume, pero termina ocupando el de un conejo de nieve que Natsume había hecho. Gen le pide a Natsume que lo ayude a encontrar al espíritu maligno que destruyó a Sui, su compañera y guardiana del bosque. Natsume acepta ayudarlo, pero parece que Gen no le está contando toda la verdad.",
+        "released": "2009-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wjcoJBUwsf8tXD6bOtfhFbaw2Uh.jpg"
+      },
+      {
+        "id": "tt1352421:2:3",
+        "title": "Exorcismo de youkai entre termas humeantes",
+        "season": 2,
+        "episode": 3,
+        "overview": "Natori invita a Natsume a pasar unos días en unas aguas termales. Sin embargo, los ruidos provenientes del armario y una figura vestida con un kimono que cuelga del techo hacen que Natsume se sienta incómodo. Como no quiere preocupar a Natori después de su amable invitación, Natsume decide investigar por su cuenta. Durante la noche se encuentra con el youkai, quien le reprocha que sea demasiado blando y luego lo ataca.",
+        "released": "2009-01-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x6kjhfp0tVWqowBCJryNJEVankg.jpg"
+      },
+      {
+        "id": "tt1352421:2:4",
+        "title": "El pollito rompe el cascarón",
+        "season": 2,
+        "episode": 4,
+        "overview": "Natsume se hace cargo de un huevo abandonado que encontró en un nido, sin imaginar que podría tratarse de un youkai. Cuando el huevo eclosiona, descubre que es un raro espíritu bebé llamado Tatsumi, quien cree que Natsume es su padre. Natsume no puede evitar encariñarse con el pequeño espíritu, incluso cuando Tatsumi comienza a debilitarse y enfermar. Mientras Natsume lo cuida, aparece un misterioso espíritu que pretende llevarse a Tatsumi para entregárselo a su amo, quien quiere comérselo.",
+        "released": "2009-01-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xgvelv8C7qkwIugOSZuz97PqnEN.jpg"
+      },
+      {
+        "id": "tt1352421:2:5",
+        "title": "El árbol de la promesa",
+        "season": 2,
+        "episode": 5,
+        "overview": "Natsume conoce a un espíritu que su abuela Reiko esclavizó cincuenta años atrás al escribir su nombre en una página arrancada del Libro de los Amigos y atarla a un árbol en el bosque. Ahora Natsume debe ayudarlo a encontrar aquella página. Pero ¿qué intención tenía Reiko al atarla al árbol?",
+        "released": "2009-02-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ffpc5uWwh7dKojQdDh1g7TvGHw8.jpg"
+      },
+      {
+        "id": "tt1352421:2:6",
+        "title": "El círculo de la señorita",
+        "season": 2,
+        "episode": 6,
+        "overview": "Una nueva estudiante llega a la escuela: Tōru Taki. Poco después de su llegada comienzan a aparecer extraños círculos en el suelo, parecidos a los círculos atribuidos a los ovnis. Mientras Natsume intenta descubrir qué relación tienen los círculos con Taki, otro youkai aparece ante él. Esta vez, sin embargo, el youkai no está buscando su nombre, sino algo que comer.",
+        "released": "2009-02-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4hZc7gdzTn92pqKVdNUwnDbju4i.jpg"
+      },
+      {
+        "id": "tt1352421:2:7",
+        "title": "Aquello que no debe ser llamado",
+        "season": 2,
+        "episode": 7,
+        "overview": "Natsume es llevado por la fuerza a la cueva del espíritu maligno que persigue a Tōru. Después de ser envenenado por el espíritu, pierde temporalmente la capacidad de ver youkai. Sin poder usar su habilidad, Natsume deberá encontrar la manera de impedir que el youkai se coma a Tōru.",
+        "released": "2009-02-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yFAXUZ04nzl56RnFIbnzvc9ADZo.jpg"
+      },
+      {
+        "id": "tt1352421:2:8",
+        "title": "Emociones inmortales",
+        "season": 2,
+        "episode": 8,
+        "overview": "Natsume, Kitamoto y Nishimura viajan a una antigua posada para pasar unos días haciendo la tarea juntos. Cerca de la posada hay un lago del que se dice que es el hogar de una sirena.",
+        "released": "2009-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xszs54pKXQqSThAeJnsX63oo1Ry.jpg"
+      },
+      {
+        "id": "tt1352421:2:9",
+        "title": "El hombre entre las hileras de cerezos",
+        "season": 2,
+        "episode": 9,
+        "overview": "Desde el día en que consigue una fotografía de una hilera de cerezos en un desolado paisaje invernal, Natsume despierta cada mañana y encuentra su habitación cubierta de pétalos. Para descubrir el origen de este extraño fenómeno, Natsume y Nyanko-sensei intentan devolver la fotografía a Miya, una misteriosa figura que parece estar vinculada a ella. Pero ¿por qué no pueden devolvérsela?",
+        "released": "2009-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m2LtNFeFL7hYCFQ0EsNKskCmUTT.jpg"
+      },
+      {
+        "id": "tt1352421:2:10",
+        "title": "Hogar provisional",
+        "season": 2,
+        "episode": 10,
+        "overview": "Extrañas huellas y marcas comienzan a aparecer en la entrada de la casa de los Fujiwara. Después de que ocurran varios sucesos extraños dentro de la casa, Shigeru confirma con Natsume que todo parece estar relacionado con el matrimonio que vivió allí anteriormente. Entonces Shigeru le cuenta la historia de aquella pareja, aunque lo hace de una manera inusualmente infantil.",
+        "released": "2009-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hlmUiruzndUVMXFgp0l8uQzDlp2.jpg"
+      },
+      {
+        "id": "tt1352421:2:11",
+        "title": "Asamblea de hechiceros",
+        "season": 2,
+        "episode": 11,
+        "overview": "Después de perseguir a un youkai herido, Natsume se encuentra con Natori, quien lo invita a asistir a una reunión de hechiceros. Allí conoce a otras personas que poseen habilidades similares a las suyas y que también enfrentan problemas relacionados con sus poderes.",
+        "released": "2009-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/apt9cymqqTibRDKuXiHLOuhTvQ9.jpg"
+      },
+      {
+        "id": "tt1352421:2:12",
+        "title": "El jovencito de la casa abandonada",
+        "season": 2,
+        "episode": 12,
+        "overview": "En una casa que tiene fama de estar embrujada, Natsume escucha la voz de un niño. Al seguirla hasta su origen, encuentra a un joven llamado Kai atrapado dentro de una caja parecida a un ataúd. Kai le cuenta a Natsume que alguien lo persigue todos los días.",
+        "released": "2009-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nkSZpZsuKvQXOImGJCoXKUKWhAG.jpg"
+      },
+      {
+        "id": "tt1352421:2:13",
+        "title": "Humanos y youkai",
+        "season": 2,
+        "episode": 13,
+        "overview": "Natori le hace a Natsume una pregunta decisiva: ¿por qué no se decide de una vez qué es más importante para él? La pregunta surge después de que Natsume descubre la verdadera naturaleza de Kai.",
+        "released": "2009-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zaFvejrGYbbgcaOwKNqnMKz3KEX.jpg"
+      },
+      {
+        "id": "tt1352421:3:1",
+        "title": "El nombre del monstruo",
+        "season": 3,
+        "episode": 1,
+        "overview": "Un día, Natsume encuentra cerca de su casa a un youkai llamado Kagejawan. Pronto descubre que su aparición es una señal de que algo terrible está a punto de suceder.",
+        "released": "2011-07-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j9ABkwdHGaoDz4lrwrzO8I5Qeq3.jpg"
+      },
+      {
+        "id": "tt1352421:3:2",
+        "title": "La aldea Ukiharu",
+        "season": 3,
+        "episode": 2,
+        "overview": "Natsume es abordado por un espíritu que le pide que le devuelva el nombre de su hermano. Ella explica que ambos provienen de la Aldea de la Primavera Flotante, un paraíso aislado del mundo de los humanos. Mientras tanto, los youkai de la zona se alegran de que el sacerdote local ya no esté en su templo. Natsume se preocupa por su amigo Tanuma, hijo del sacerdote, pero no sabe qué decirle.",
+        "released": "2011-07-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wg0VSNH80XRTbPsxg2F9sGPOmit.jpg"
+      },
+      {
+        "id": "tt1352421:3:3",
+        "title": "Falso amigo",
+        "season": 3,
+        "episode": 3,
+        "overview": "Natsume recibe la visita de alguien que conoció durante la primaria. Él no quiere tener nada que ver con esa persona, pero lo amenazan con revelar su secreto: que puede ver youkai. Si no los acompaña, contarán lo que saben. A regañadientes, Natsume acepta seguirlos y termina conociendo a una extraña chica.",
+        "released": "2011-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cPab5oSKKIfHu6I0eyCj9rxuw5p.jpg"
+      },
+      {
+        "id": "tt1352421:3:4",
+        "title": "Los días de la infancia",
+        "season": 3,
+        "episode": 4,
+        "overview": "Después de terminar sus exámenes parciales, Natsume sale de viaje con Nishimura, Kitamoto y Sasada. Al contemplar el paisaje desde el tren, reconoce uno de los lugares donde vivió durante su infancia, cuando pasaba de una familia a otra. Natsume siempre había pensado que no conservaba buenos recuerdos de aquella época, pero entonces recuerda lo que ocurrió cuando vivió allí.",
+        "released": "2011-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cngIWeecf2pwbmENisFggWscf0.jpg"
+      },
+      {
+        "id": "tt1352421:3:5",
+        "title": "La cosa que mora en el almacén",
+        "season": 3,
+        "episode": 5,
+        "overview": "Natsume ayuda a Tanuma a limpiar el almacén de la casa de Taki. Allí descubre que falta uno de los kimonos que pertenecían al abuelo de Taki, quien investigaba a los youkai y utilizaba esos objetos para ahuyentarlos. Natsume decide no decir nada para evitar preocuparlos. Sin embargo, el kimono es en realidad un antiguo youkai con forma de muñeca que intenta recuperar su cuerpo, el cual fue despedazado cuando el abuelo de Taki lo selló.",
+        "released": "2011-08-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nHjOesyWJfJoldKvH9gg0iDN8RX.jpg"
+      },
+      {
+        "id": "tt1352421:3:6",
+        "title": "Lo que no es humano",
+        "season": 3,
+        "episode": 6,
+        "overview": "Algo está asesinando youkai y drenando su sangre. Incapaz de ignorar lo que está ocurriendo, Natsume decide investigar y termina reencontrándose con algunos viejos conocidos.",
+        "released": "2011-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j76el1pxhyyIqCghjI8RgoIcm17.jpg"
+      },
+      {
+        "id": "tt1352421:3:7",
+        "title": "Exorcista",
+        "season": 3,
+        "episode": 7,
+        "overview": "Natsume descubre quién está robando la sangre de los youkai: el exorcista Seiji Matoba. Con la ayuda de Natori, comienza a investigar el asunto, pero termina siendo capturado por un youkai que sirve a Matoba. Matoba está dispuesto a sacrificar a cualquier cantidad de youkai para alcanzar sus objetivos. Le explica a Natsume que está reuniendo la sangre para romper el sello de un poderoso youkai. Natsume descubre así que existen personas que tratan a los youkai de una manera completamente diferente a la suya, e incluso a la de Natori.",
+        "released": "2011-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eEKDIUkiLvFTC6rjfHA7yvIAcTs.jpg"
+      },
+      {
+        "id": "tt1352421:3:8",
+        "title": "El reloj del zorrito",
+        "season": 3,
+        "episode": 8,
+        "overview": "Natsume recibe una invitación de Shigeru para asistir a una clase de cerámica. La actividad se lleva a cabo en una posada donde Natsume se había hospedado anteriormente. Al llegar, se encuentra con un viejo conocido: el pequeño zorro al que había ayudado tiempo atrás.",
+        "released": "2011-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gW8vKm7UGkxbWbecUQmRATvyc0Z.jpg"
+      },
+      {
+        "id": "tt1352421:3:9",
+        "title": "A través del viento de otoño",
+        "season": 3,
+        "episode": 9,
+        "overview": "Sin Nyanko-sensei para protegerlo, Natsume debe mantenerse constantemente alerta. Sin embargo, la presión de tener que ocultar sus secretos a sus amigos comienza a afectarlo cada vez más.",
+        "released": "2011-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6zDknEZl9A0vz8vGIInVhBHFM9r.jpg"
+      },
+      {
+        "id": "tt1352421:3:10",
+        "title": "El espejo roto",
+        "season": 3,
+        "episode": 10,
+        "overview": "Después de un breve incidente en el bosque, Tanuma comienza a mantenerse distante de Natsume, como si estuviera evitando algo. Mientras tanto, algo está rompiendo los cristales alrededor de la escuela.",
+        "released": "2011-09-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fnQGci2LF1dKOx7mhELcPVYPc4h.jpg"
+      },
+      {
+        "id": "tt1352421:3:11",
+        "title": "Lo que muestra el espejo",
+        "season": 3,
+        "episode": 11,
+        "overview": "Tanuma comienza a experimentar de primera mano cómo es la vida cotidiana de Natsume. Mientras tanto, Natsume y el youkai llegan a comprenderse mejor.",
+        "released": "2011-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gtP9ONx4E3IgaTvTAxld92RfYK3.jpg"
+      },
+      {
+        "id": "tt1352421:3:12",
+        "title": "Un hogar al que regresar",
+        "season": 3,
+        "episode": 12,
+        "overview": "Un youkai del pasado de Natsume logra encontrarlo. Mientras intenta enfrentarse a esta situación, Natsume recuerda los años que pasó viviendo con distintas familias antes de llegar con los Fujiwara.",
+        "released": "2011-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aF5c07zPQPjs0WnNzCX05Rk4Uws.jpg"
+      },
+      {
+        "id": "tt1352421:3:13",
+        "title": "El libro de los amigos y el espejo",
+        "season": 3,
+        "episode": 13,
+        "overview": "Los youkai organizan una fiesta para celebrar a Natsume. Las cosas se salen de control cuando le piden que les enseñe un juego humano y él propone jugar a las escondidas. Cuando Nyanko-sensei se convierte en «el que la trae», comienza a pisotear youkai por todas partes. Entonces aparece Misuzu-sama, un youkai de unos treinta metros de altura...",
+        "released": "2011-09-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wy2s0tCZMyLk4JWocEHgBc9fiTC.jpg"
+      },
+      {
+        "id": "tt1352421:4:1",
+        "title": "Natsume capturado",
+        "season": 4,
+        "episode": 1,
+        "overview": "Natsume es atacado por un grupo de youkai que intenta robarle el Libro de los Amigos para entregárselo a su amo. Una vez capturado, Natsume descubre que un viejo problema ha regresado con más fuerza que nunca.",
+        "released": "2012-01-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xtwtOOsUor3VynwlJjMMTAHNmJw.jpg"
+      },
+      {
+        "id": "tt1352421:4:2",
+        "title": "El bosque del este",
+        "season": 4,
+        "episode": 2,
+        "overview": "Natsume, ahora atrapado en la mansión, intenta impedir que el youkai con máscara de mono revele la existencia del Libro de los Amigos a Matoba. Mientras tanto, Hinoe y Misuzu intentan encontrar al amo de este extraño youkai.",
+        "released": "2012-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mIcUP7QcVURk7iQpov98jLPOI7f.jpg"
+      },
+      {
+        "id": "tt1352421:4:3",
+        "title": "Pequeña existencia",
+        "season": 4,
+        "episode": 3,
+        "overview": "Después de que Natsume le devuelve su nombre a Amana, ella lo acusa de haberle robado su anillo. Natsume tiene tres días para encontrarlo y devolvérselo antes de que ella queme su casa. Para empeorar las cosas, el anillo quedó atrapado en el cabello de un youkai migratorio y Nyanko-sensei no puede usar sus poderes.",
+        "released": "2012-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i1QzIaBe3R1BtQNcRC2Z21XCLvr.jpg"
+      },
+      {
+        "id": "tt1352421:4:4",
+        "title": "¿Quién respondió la carta?",
+        "season": 4,
+        "episode": 4,
+        "overview": "Una tarde, Natsume está en casa cuando escucha que alguien llama a la puerta. Al mirar, ve a Tōko afuera, pidiéndole que la deje entrar. Pero cuando abre la puerta, no hay nadie y una ráfaga de viento entra a toda velocidad. ¡Otro youkai está buscando el Libro de los Amigos!",
+        "released": "2012-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wVMtgbl5uRxzJOAWiEgI3Vd0yfz.jpg"
+      },
+      {
+        "id": "tt1352421:4:5",
+        "title": "Para ti, de los días pasados",
+        "season": 4,
+        "episode": 5,
+        "overview": "Una antigua compañera de clase, Yuriko, recuerda la época en que observaba a Natsume y le parecía un chico bastante extraño. Un youkai que se aferra a Natsume desde su pasado le hace recordar aquellos días en los que huía de un youkai que le guardaba rencor.",
+        "released": "2012-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2puVL1UtyLBQS3UDKLaA3ZROemo.jpg"
+      },
+      {
+        "id": "tt1352421:4:6",
+        "title": "El otro lado del cristal",
+        "season": 4,
+        "episode": 6,
+        "overview": "Natsume escucha rumores de que un poderoso youkai está regresando. Más tarde esa misma noche, queda atrapado dentro de una botella como ofrenda. Los humanos no pueden verlo ni escucharlo, así que Nyanko-sensei decide ayudarlo... a su manera.",
+        "released": "2012-02-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qQjb7nrN3Q4ukGRgKG2wWMpSsAH.jpg"
+      },
+      {
+        "id": "tt1352421:4:7",
+        "title": "La brecha entre humanos y youkai",
+        "season": 4,
+        "episode": 7,
+        "overview": "El peor temor de Natsume se ha hecho realidad: alguien ajeno al mundo de los youkai ha resultado herido por su culpa. Natori necesita que Natsume recupere la calma o ambos terminarán siendo devorados por Omibashira.",
+        "released": "2012-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ogKlph2f4CNW2QrczOXLGS1rbdk.jpg"
+      },
+      {
+        "id": "tt1352421:4:8",
+        "title": "Cuando fui engañada",
+        "season": 4,
+        "episode": 8,
+        "overview": "Un día, mientras Natsume regresa a casa, un tengu volador lo ataca y se lo lleva por los aires. Mientras tanto, Nyanko-sensei queda atrapado en un pozo, donde Nanase le cuenta cómo aprendió a no acercarse nunca demasiado a los youkai.",
+        "released": "2012-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rebk29lRRaexLy4Huy7AMS8QYwU.jpg"
+      },
+      {
+        "id": "tt1352421:4:9",
+        "title": "El festival de la luna",
+        "season": 4,
+        "episode": 9,
+        "overview": "Cada diez años, los seguidores de Houdzukigami y Fudzukigami se enfrentan en una batalla que decidirá el destino de la tierra. Los seguidores de Houdzukigami le piden a Natsume que ocupe el lugar de su dios desaparecido. Mientras tanto, Natori recibe la misión de encontrar al dios desaparecido o sellar a Fudzukigami antes de que consiga la victoria.",
+        "released": "2012-02-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yfnySegGPje7xiK5Ftf33OqrMlt.jpg"
+      },
+      {
+        "id": "tt1352421:4:10",
+        "title": "El dios consagrado",
+        "season": 4,
+        "episode": 10,
+        "overview": "Mientras Natsume es arrastrado por la corriente de un río, logra percibir la presencia de Hudzukigami. Natori deberá decidir si confía en los instintos de Natsume o si sella a Fudzukigami.",
+        "released": "2012-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zuU0dmIP25ZCcs2bZcPFId3crsY.jpg"
+      },
+      {
+        "id": "tt1352421:4:11",
+        "title": "Una sola fotografía",
+        "season": 4,
+        "episode": 11,
+        "overview": "Natsume recibe una llamada de un familiar: la casa de sus padres será vendida. Natsume se dice a sí mismo que no importa y que ya ha dejado atrás su pasado. Pero está muy lejos de haberlo superado.",
+        "released": "2012-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yu31UFW7Numa2kwnSLWeJ3sD054.jpg"
+      },
+      {
+        "id": "tt1352421:4:12",
+        "title": "La puerta de los recuerdos",
+        "season": 4,
+        "episode": 12,
+        "overview": "Natsume regresará a aquella casa por última vez, pero antes debe pasar por la casa de un familiar para recoger la llave. Sin embargo, tiene sus reservas, pues allí dentro se encuentra un youkai que lo atormentaba cuando era niño y una chica que siempre le guardó rencor.",
+        "released": "2012-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9nitsGqAXlGjpgufdzyTgzuLAHd.jpg"
+      },
+      {
+        "id": "tt1352421:4:13",
+        "title": "El largo camino a casa",
+        "season": 4,
+        "episode": 13,
+        "overview": "Natsume es poseído por un espíritu. Obsesionado con regresar a casa, recuerda los acontecimientos que ocurrieron poco después de la muerte de su padre.",
+        "released": "2012-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/815PkNWQFmBIxDDKxOEueVWf86E.jpg"
+      },
+      {
+        "id": "tt1352421:5:1",
+        "title": "Aspecto inalterable",
+        "season": 5,
+        "episode": 1,
+        "overview": "Natsume continúa pasando sus días devolviendo a los youkai los nombres que aparecen en el Libro de los Amigos. Un día, mientras regresa a casa, se encuentra huyendo de una enorme vasija que rueda tras él. El youkai que vive dentro asegura que su abuela Reiko le robó una muñeca. Cuando amenaza con hacerle daño a su familia, Natsume se ve obligado a salir en busca de ella. Pero ¿realmente la amable y sonriente Reiko sería capaz de robarle una muñeca a alguien?",
+        "released": "2016-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wmnuMocviyyyZPoTzoQznRfByJa.jpg"
+      },
+      {
+        "id": "tt1352421:5:2",
+        "title": "Lluvia juguetona",
+        "season": 5,
+        "episode": 2,
+        "overview": "En un día lluvioso, Natsume conoce a una joven youkai. Su nombre no aparece en el Libro de los Amigos, pero aun así quiere pedirle ayuda: desea encontrar a un hombre que conoció una vez. Normalmente, aquel hombre no podía ver youkai, pero un extraño fenómeno provocado por el clima le permitió verla durante un solo día. Durante los siguientes cincuenta años, ella volvió a visitarlo con la esperanza de que pudiera verla una vez más, pero nunca ocurrió. Ahora el hombre ha desaparecido. ¿Podrá Natsume encontrarlo por ella?",
+        "released": "2016-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ihfGUhbLcIqa6PsDIfZF37qx07W.jpg"
+      },
+      {
+        "id": "tt1352421:5:3",
+        "title": "La carta del exorcista",
+        "season": 5,
+        "episode": 3,
+        "overview": "Natsume recibe una carta de Matoba, un exorcista con quien ha tenido encuentros desagradables en el pasado. Últimamente, el mundo de los exorcistas se ha vuelto peligroso y Matoba necesita la ayuda de Natsume. Natsume quiere negarse, pero Matoba amenaza con revelar sus poderes a la familia que lo adoptó, lo que acabaría con su tranquila vida.",
+        "released": "2016-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xmBxS8QoPjhNu9tWhLGF5hGCBGj.jpg"
+      },
+      {
+        "id": "tt1352421:5:4",
+        "title": "La sombra de la sucesión",
+        "season": 5,
+        "episode": 4,
+        "overview": "Un exorcista inexperto intenta sellar por completo a un youkai cerca de la escuela de Natsume, pero fracasa. Natsume decide llevarle a Natori la vasija donde el youkai está sellado, con la esperanza de que pueda deshacerse de ella de la manera adecuada. Allí descubre que últimamente existe un conflicto entre los exorcistas y que, en particular, uno de ellos está atacando a sus rivales. Al regresar a casa, Natsume descubre que Matoba, otro exorcista que ya ha intentado aprovecharse de él en el pasado, quiere su ayuda para resolver precisamente ese problema.",
+        "released": "2016-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fOtXzT5grW7ikD2yxsF3WQZG8EP.jpg"
+      },
+      {
+        "id": "tt1352421:5:5",
+        "title": "No formes lazos",
+        "season": 5,
+        "episode": 5,
+        "overview": "Natsume llega a la reunión de exorcistas para ayudar a descubrir el paradero del youkai que Matoba está buscando. Sin embargo, pronto descubre que la situación es mucho más complicada de lo que parecía. El youkai puede multiplicarse y apoderarse de otras personas, y nadie excepto Natsume puede distinguir quién está poseído. Natsume y Nyanko-sensei recorren los pasillos en busca del youkai, aunque todavía no están seguros de querer involucrarse en todo aquello.",
+        "released": "2016-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r7Iyi4Zr1s4RqFCsDEWTftguKOf.jpg"
+      },
+      {
+        "id": "tt1352421:5:6",
+        "title": "El valle silencioso",
+        "season": 5,
+        "episode": 6,
+        "overview": "La casa de Taki está llena de trampas y laberintos diseñados para los youkai. Ella misma no puede verlos sin la ayuda de un círculo especial, pero sí puede escucharlos cuando quedan atrapados dentro de su casa. Taki rescata a uno de ellos, pero el youkai se niega a marcharse. Natsume sospecha que podría haber algún peligro y decide visitarla para asegurarse de que todo esté bien.",
+        "released": "2016-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w47G2tdp8sUN5K8UcDHmWmTDzBb.jpg"
+      },
+      {
+        "id": "tt1352421:5:7",
+        "title": "Fuego lejano",
+        "season": 5,
+        "episode": 7,
+        "overview": "Natsume y sus amigos viajan a unas aguas termales lejanas para ayudar con unas obras de renovación. Al llegar, Natsume conoce a una antigua amiga de Tanuma, pero pronto se ve involucrado en los problemas relacionados con los youkai de la zona. La antigua amiga de Tanuma es en realidad una youkai y amenaza con provocar terribles consecuencias si Natsume revela su secreto.",
+        "released": "2016-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hkTtKRxU6QGZrsExkQkUNklR74r.jpg"
+      },
+      {
+        "id": "tt1352421:5:8",
+        "title": "Un mundo sin distorsiones",
+        "season": 5,
+        "episode": 8,
+        "overview": "La familia de Natori se dedicó durante generaciones a exorcizar youkai, hasta que perdió la capacidad de verlos. Después de generaciones viviendo con el temor de una posible venganza de los youkai, Natori nace de repente con la capacidad de verlos. Sin embargo, su familia no quiere tener nada que ver con sus poderes y Natori debe aprender a vivir por su cuenta. Su vida cambia cuando conoce a un joven Matoba durante una reunión de exorcistas y ambos terminan enfrentándose juntos a un poderoso youkai.",
+        "released": "2016-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5cyMEwmXHQFsUVSWFrS4r5uoGUW.jpg"
+      },
+      {
+        "id": "tt1352421:5:9",
+        "title": "Un abismo inexpugnable",
+        "season": 5,
+        "episode": 9,
+        "overview": "Mientras huye de un temible youkai, Natsume se sienta accidentalmente sobre un pequeño youkai con forma de hongo. El pequeño youkai se enfurece, pues ese mismo día tiene una reunión con una «persona noble». Insiste en que Natsume lo ayude a prepararse para el encuentro y, sin darse cuenta, Natsume termina involucrándose en la extraña historia de su pasado.",
+        "released": "2016-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ordJSx9UJKfd8b1g7wi5AwG7F1G.jpg"
+      },
+      {
+        "id": "tt1352421:5:10",
+        "title": "Touko y Shigeru",
+        "season": 5,
+        "episode": 10,
+        "overview": "Tōko y Shigeru son la amable pareja de ancianos que acogió a Natsume cuando nadie más quiso hacerlo. Pero ¿cómo eran antes de que Natsume llegara a vivir con ellos?",
+        "released": "2016-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4yIj7c0WS0wYgANFuqvWXk5JV1O.jpg"
+      },
+      {
+        "id": "tt1352421:5:11",
+        "title": "Al ser efímero",
+        "season": 5,
+        "episode": 11,
+        "overview": "Natsume se resfría después de una aventura en las montañas. Todos sus amigos, tanto humanos como youkai, hacen lo posible por ayudarlo a sentirse mejor. Mientras permanece en cama, comienza a comprender cuánto se preocupan por él las personas que lo rodean y lo valiosos que son los lazos que ha formado.",
+        "released": "2016-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/51xHca4twW0oPqlu2PMdmHLQ8PV.jpg"
+      },
+      {
+        "id": "tt1352421:6:1",
+        "title": "Cometiempo",
+        "season": 6,
+        "episode": 1,
+        "overview": "Natsume ayuda a un youkai a salir de una vasija y, como «recompensa», el youkai lo hace volver más joven. Pero Natsume ya es joven, y rejuvenecerlo aún más solo lo confunde y afecta sus recuerdos. Sin saber en quién puede confiar, ¿tendrá la fuerza necesaria para reconocer quiénes son realmente sus amigos?",
+        "released": "2017-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vTHZimUpOYNATt29wHsgZBm9oKW.jpg"
+      },
+      {
+        "id": "tt1352421:6:2",
+        "title": "Lo que florece mañana",
+        "season": 6,
+        "episode": 2,
+        "overview": "Un lavapiedras llega al pueblo de Natsume. Se trata de un poderoso ser mágico capaz de purificar las piedras contaminadas. El lavapiedras está buscando a su discípulo desaparecido y recurre a Natsume para pedirle ayuda.",
+        "released": "2017-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/18e4xHu1efwqyoPU4MXq83w2UJX.jpg"
+      },
+      {
+        "id": "tt1352421:6:3",
+        "title": "Nitai",
+        "season": 6,
+        "episode": 3,
+        "overview": "Natsume recibe una llamada de su antiguo «amigo» Shibata, a quien ayudó en el pasado con un problema relacionado con un youkai. Shibata quiere que vaya a visitarlo y, aunque Natsume acepta de mala gana, él y Tanuma terminan yendo a verlo. Después de pasar un rato agradable conversando en un parque, Shibata menciona una casa embrujada de la zona y la visita de Natsume termina convirtiéndose en algo mucho más complicado de lo que esperaba.",
+        "released": "2017-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1hkuoPLQo9bLQRvMKJJoG7xiHPN.jpg"
+      },
+      {
+        "id": "tt1352421:6:4",
+        "title": "Ojos que no ven",
+        "season": 6,
+        "episode": 4,
+        "overview": "Natsume ve una película protagonizada por Natori y, al terminar, encuentra uno de los shikigami de papel de Natori. El papel está empapado y el texto es prácticamente ilegible, por lo que Natsume comienza a preocuparse por la seguridad de Natori. Viaja hasta el lugar que apenas puede distinguir en el papel y allí encuentra a una joven cuya casa está habitada nada menos que por tres youkai.",
+        "released": "2017-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3BTh3ubyWPJf8CEXXQRGSYypDqv.jpg"
+      },
+      {
+        "id": "tt1352421:6:5",
+        "title": "Atados",
+        "season": 6,
+        "episode": 5,
+        "overview": "Natsume descubre que la casa de Tsukiko está habitada por tres youkai diferentes, cada uno con sus propios motivos. Uno quiere proteger al padre de Tsukiko, mientras que los otros dos tienen sus propias razones para permanecer allí. Natori quiere exorcizarlos para proteger a Tsukiko, pero Natsume busca alguna manera de proteger también a los youkai. ¿Existirá una solución pacífica?",
+        "released": "2017-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2gg5ERr5pWIc2UfN17CpcaZNe2Y.jpg"
+      },
+      {
+        "id": "tt1352421:6:6",
+        "title": "Nishimura y Kitamoto",
+        "season": 6,
+        "episode": 6,
+        "overview": "Los amigos de Natsume recuerdan cómo lo conocieron y cómo su presencia cambió sus vidas. Natsume finalmente ha encontrado un hogar, y se ha convertido en alguien muy importante para las personas que viven allí.",
+        "released": "2017-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jVPcM56nkSDz6J6dTGLfYmOEes9.jpg"
+      },
+      {
+        "id": "tt1352421:6:7",
+        "title": "El agradecimiento de Gomochi",
+        "season": 6,
+        "episode": 7,
+        "overview": "Natsume conoce a un youkai llamado Gomochi, que ha llegado en busca de Reiko. El youkai tiene un mensaje para ella y quiere agradecerle por un favor que le hizo hace mucho tiempo. Al escuchar su historia, Natsume descubre un poco más sobre su misteriosa abuela.",
+        "released": "2017-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tLjB6fsXctFmAkQ5DwiOlsvgv6s.jpg"
+      },
+      {
+        "id": "tt1352421:6:8",
+        "title": "El día que llegará en algún momento",
+        "season": 6,
+        "episode": 8,
+        "overview": "Mientras regresa a casa, Natsume encuentra una carta tirada en el suelo. Al parecer, pertenece a un hombre de la zona, quien le pide a Natsume que lo lleve hasta su escuela. Sin embargo, el hombre es en realidad un youkai que alguna vez estuvo profundamente involucrado con una chica humana. Él puso fin a aquella relación, pero la chica no está dispuesta a renunciar a él.",
+        "released": "2017-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bimm0V93ffkJ0ABWPpTUGPMewlL.jpg"
+      },
+      {
+        "id": "tt1352421:6:9",
+        "title": "Corriente abajo",
+        "season": 6,
+        "episode": 9,
+        "overview": "Natsume viaja a una posada para estudiar junto con sus compañeros de clase. Mientras se encuentra allí, una inundación arrastra un santuario de la zona. Se dice que el santuario alberga tres máscaras, pero Natsume puede ver cuatro...",
+        "released": "2017-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sqercPNq52TDNZ9IfkngJPg76w6.jpg"
+      },
+      {
+        "id": "tt1352421:6:10",
+        "title": "La habitación cerrada",
+        "season": 6,
+        "episode": 10,
+        "overview": "Natori intenta obtener información sobre Natsume y el Libro de los Amigos. Mientras tanto, Natsume visita su casa para llevarle un poco de mermelada casera preparada por Tōko. Sin embargo, lo que parecía una simple visita termina dando inicio a una nueva aventura...",
+        "released": "2017-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pCVIrMxONbAQ71FpED2oKwjCme0.jpg"
+      },
+      {
+        "id": "tt1352421:6:11",
+        "title": "Lo que importa",
+        "season": 6,
+        "episode": 11,
+        "overview": "El grupo de Natori registra la mansión Hakozaki en busca del estudio. Sin embargo, otras fuerzas también quieren hacerse con las poderosas artes mágicas que se encuentran allí, y Natsume no está dispuesto a permitir que caigan en sus manos.",
+        "released": "2017-06-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ZmuDTw4uqLtH5iLvdrXIyfJGen.jpg"
+      },
+      {
+        "id": "tt1352421:7:1",
+        "title": "La melancolía de un fragmento",
+        "season": 7,
+        "episode": 1,
+        "overview": "Como agradecimiento por devolverle su nombre, un yokai le hace un regalo muy peculiar a Natsume. Sin embargo, ese presente parece haber atraído una presencia inesperada.",
+        "released": "2024-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4DnwEXULB4t5z7KsKZeCPl8kTvW.jpg"
+      },
+      {
+        "id": "tt1352421:7:2",
+        "title": "El jardín de algún día",
+        "season": 7,
+        "episode": 2,
+        "overview": "Natsume decide construir un nuevo cantero en el patio, pero cada noche algunas de sus piedras parecen desaparecer. Buscando resolver el misterio, acabará ocupandose de una pequeña y sagrada mansión.",
+        "released": "2024-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cDL4epCIS1WmskYFvEVP536eCKZ.jpg"
+      },
+      {
+        "id": "tt1352421:7:3",
+        "title": "Tookan'ya",
+        "season": 7,
+        "episode": 3,
+        "overview": "Durante una salida a un barrio lejano, Natsume y compañía divisan un grupo de espantapájaros que solo ellos pueden ver. Investigando, se topa con Natori, quien lo llevará con un entendido en el tema, aunque el exorcista parece tener sus propios planes.",
+        "released": "2024-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n6DrwbE2ONBv3o5uvZPUb8QuVt2.jpg"
+      },
+      {
+        "id": "tt1352421:7:4",
+        "title": "En las profundidades de las páginas",
+        "season": 7,
+        "episode": 4,
+        "overview": "Una tienda de libros usados reabre sus puertas tras mucho tiempo y Kitamoto y Natsume pasan a echar un vistazo. Sin embargo, una presencia maligna parece habitar la nostálgica librería y dependerá de Natsume y el maestro Nyanko hallarla por el bien de todos.",
+        "released": "2024-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xJRYy7wKilLvxp6pqGSue5b1PtG.jpg"
+      },
+      {
+        "id": "tt1352421:7:5",
+        "title": "El tesoro de Chobi",
+        "season": 7,
+        "episode": 5,
+        "overview": "El peine favorito de Chobi se ha roto y está muy deprimido. Natsume quiere hacer algo para animarlo y, con la ayuda de los youkai de siempre, se embarcará en la búsqueda de un hermoso y esquivo material.",
+        "released": "2024-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbYqMIzxqqeaYvAdlkg1vEUDtGe.jpg"
+      },
+      {
+        "id": "tt1352421:7:6",
+        "title": "Una estación abandonada y los dos círculos",
+        "season": 7,
+        "episode": 6,
+        "overview": "Natsume y el maestro Nyanko tienen un espeluznante encuentro con Matoba en una estación abandonada. Cuál será su sorpresa cuando coincidan nuevamente en la mansión Hakozaki, donde Natsume conocerá más sobre la maldición y el youkai que amenaza al clan.",
+        "released": "2024-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/24zGCebbG4jMhre6d3NdUbUbPDA.jpg"
+      },
+      {
+        "id": "tt1352421:7:7",
+        "title": "Dos personas torpes",
+        "season": 7,
+        "episode": 7,
+        "overview": "El hermano de Taki ha venido de visita, pero hay algo en su actitud que la tiene muy preocupada. No obstante, cuando ambos pidan la ayuda de Natsume, los recuerdos y una pequeña llave les mostrarán que tienen más en común de lo que pensaban.",
+        "released": "2024-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uWCDRn8cYnD3hIGEbN5PXdij5eS.jpg"
+      },
+      {
+        "id": "tt1352421:7:8",
+        "title": "Natsume en una noche de luna",
+        "season": 7,
+        "episode": 8,
+        "overview": "Nishimura descubre que Natsume va a visitarlo todas las noches a su casa, pero hay algo extraño en todo esto...",
+        "released": "2024-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/12ysCW7YEddwGC4QMQEDYpIYYxx.jpg"
+      },
+      {
+        "id": "tt1352421:7:9",
+        "title": "Lo que impide la ceremonia",
+        "season": 7,
+        "episode": 9,
+        "overview": "Natsume se encuentra en una casa donde se lleva a cabo un extraño ritual, mientras fuerzas desconocidas intentan impedir que quienes participan en él puedan llevarlo a cabo.",
+        "released": "2024-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g6Ozy1GYCsZTNx88tugBR0uPNdH.jpg"
+      },
+      {
+        "id": "tt1352421:7:10",
+        "title": "La casa atada a una promesa",
+        "season": 7,
+        "episode": 10,
+        "overview": "Natsume, Natori y Matoba trabajan juntos para completar el ritual destinado a recibir a un poderoso dios.",
+        "released": "2024-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xm2s3nKFXh5XIr7nVBagrmxAQ4O.jpg"
+      },
+      {
+        "id": "tt1352421:7:11",
+        "title": "Dime tu nombre",
+        "season": 7,
+        "episode": 11,
+        "overview": "Natsume conoce al primer youkai cuyo nombre fue escrito en el Libro de los Amigos.",
+        "released": "2024-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y99YeaNLrmwIVzj8x7cLaSTDbr.jpg"
+      },
+      {
+        "id": "tt1352421:7:12",
+        "title": "En un camino de ensueño",
+        "season": 7,
+        "episode": 12,
+        "overview": "Natsume acoge a una extraña muñeca de origami capaz de mostrar maravillosos sueños.",
+        "released": "2024-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lCymNrdK4aCPpHh3lUgLS2Gl4jO.jpg"
+      }
+    ]
+  }
+}

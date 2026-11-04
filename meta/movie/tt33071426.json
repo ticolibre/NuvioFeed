@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt33071426",
+    "type": "movie",
+    "name": "El Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+    "description": "Cuenta la historia de una pareja cuyo romance cambia radicalmente antes de su gran día.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

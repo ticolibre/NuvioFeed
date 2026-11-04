@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0117008",
+    "type": "movie",
+    "name": "Matilda",
+    "poster": "https://image.tmdb.org/t/p/w500/icsytUzUc9f97a9SdafFG0eqijR.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+    "description": "La historia de una maravillosa niña, que resulta ser una genio, y su maravillosa profesora contra los peores padres de la historia y la peor directora de escuela que nadie se pueda imaginar.",
+    "releaseInfo": "1996",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.2"
+        }
+      }
+    }
+  }
+}

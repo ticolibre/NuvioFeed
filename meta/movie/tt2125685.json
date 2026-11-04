@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2125685",
+    "type": "movie",
+    "name": "Mockingbird",
+    "poster": "https://image.tmdb.org/t/p/w500/h7tzWmIOqMlXqakPV21DPCGSFKr.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/mVNnXW3Hb5fahJRM1yUrSGg7vqK.jpg",
+    "description": "A couple are given a camera and a set of instructions which they must follow or else someone will die.",
+    "releaseInfo": "2014",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "4.7"
+        }
+      }
+    }
+  }
+}

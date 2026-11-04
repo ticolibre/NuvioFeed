@@ -1,0 +1,631 @@
+{
+  "meta": {
+    "id": "tt1308089",
+    "type": "series",
+    "name": "A Certain Magical Index",
+    "poster": "https://image.tmdb.org/t/p/w500/3dvNJsc1qfTuOxTQyl0gzIybWGQ.jpg",
+    "posterShape": "poster",
+    "description": "La historia se sitúa en Ciudad Academia, una ciudad tecnológicamente avanzada localizada al oeste de Tokio que se especializa en el desarrollo de poderes psíquicos, pero también se sitúa en un mundo donde la magia es real. Touma Kamijou es un estudiante de instituto que posee en su mano derecha un misterioso poder llamado Imagine Breaker, el cual puede negar cualquier fenómeno sobrenatural ya sea psíquico o mágico, lo que también anula su propia buena suerte. Un día encuentra a una chica llamada Index colgada de su balcón. Ella es una monja que posee en su mente el Index Librorum Prohibitorum, el cual es una colección de 103.000 libros mágicos. Cuando los caminos de la ciencia y la magia se cruzan, esta historia comienza.",
+    "releaseInfo": "2008",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Comedia",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/73uQJImy9J9w93zFEh8JtdQVOQR.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1308089:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2008-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o0wBri3WibVRP7g19RMQIK1rzP4.jpg"
+      },
+      {
+        "id": "tt1308089:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2008-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nx0q8KYWbnzwuUd3tWdaZghX1K4.jpg"
+      },
+      {
+        "id": "tt1308089:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2008-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lUKK39Bu0jKowauz6e5jGtTvUyL.jpg"
+      },
+      {
+        "id": "tt1308089:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2008-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d1tAAUxID3OCNZxavHcKOWntm6e.jpg"
+      },
+      {
+        "id": "tt1308089:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2008-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eUtafduLCMt6J7GHmZtycCFcLO0.jpg"
+      },
+      {
+        "id": "tt1308089:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2008-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rTntgpZLWN27gUgwyLHCHz9A4Tu.jpg"
+      },
+      {
+        "id": "tt1308089:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2008-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6u6FMNTrfShaiUA3VaLFoPQZlJb.jpg"
+      },
+      {
+        "id": "tt1308089:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2008-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qnIjFO485ittRG9d0Mii9pEr8vB.jpg"
+      },
+      {
+        "id": "tt1308089:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2008-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jQS56lYn5YfbD7saGOVeCwqZ1H9.jpg"
+      },
+      {
+        "id": "tt1308089:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2008-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dMNucmnhzu6lqxrvDItJbC6f77X.jpg"
+      },
+      {
+        "id": "tt1308089:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2008-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sMuHIEEyuaiVl9Pbb1RCsF4mSy.jpg"
+      },
+      {
+        "id": "tt1308089:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2008-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6NXdRxn5EdDJRoLSzZXKc1xy4Vh.jpg"
+      },
+      {
+        "id": "tt1308089:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2008-12-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6CYy8oLbbV7RUekz0OyypRzTFKD.jpg"
+      },
+      {
+        "id": "tt1308089:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2009-01-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ysElcJRLrO2Mi2Qmz6oQMeed6ra.jpg"
+      },
+      {
+        "id": "tt1308089:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2009-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2rhD5HtQY5UoSNvmgUsTyipD4t8.jpg"
+      },
+      {
+        "id": "tt1308089:1:16",
+        "title": "Episodio 16",
+        "season": 1,
+        "episode": 16,
+        "released": "2009-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/czgbqOd83Z1KOIaZseAaPyiSMvQ.jpg"
+      },
+      {
+        "id": "tt1308089:1:17",
+        "title": "Episodio 17",
+        "season": 1,
+        "episode": 17,
+        "released": "2009-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ckmPRnfPkZnl343bG0mJjlm68On.jpg"
+      },
+      {
+        "id": "tt1308089:1:18",
+        "title": "Episodio 18",
+        "season": 1,
+        "episode": 18,
+        "released": "2009-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dWcXv33dZTAjw3Po9aDPLPXPeEu.jpg"
+      },
+      {
+        "id": "tt1308089:1:19",
+        "title": "Episodio 19",
+        "season": 1,
+        "episode": 19,
+        "released": "2009-02-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vugEQs6Dse3zikBRNEsrpNR4dMu.jpg"
+      },
+      {
+        "id": "tt1308089:1:20",
+        "title": "Episodio 20",
+        "season": 1,
+        "episode": 20,
+        "released": "2009-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wKtKHKPyr7pP9w3YPWbw9AvTIO4.jpg"
+      },
+      {
+        "id": "tt1308089:1:21",
+        "title": "Episodio 21",
+        "season": 1,
+        "episode": 21,
+        "released": "2009-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5QAddSMPYGJmPJ66irRYsBLD0ox.jpg"
+      },
+      {
+        "id": "tt1308089:1:22",
+        "title": "Episodio 22",
+        "season": 1,
+        "episode": 22,
+        "released": "2009-03-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/syWfkN1JsnbZ3xcooQLTq2FaNEG.jpg"
+      },
+      {
+        "id": "tt1308089:1:23",
+        "title": "Episodio 23",
+        "season": 1,
+        "episode": 23,
+        "released": "2009-03-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m7V4Fa3N3FsjWuwovARn1E2OYHN.jpg"
+      },
+      {
+        "id": "tt1308089:1:24",
+        "title": "Episodio 24",
+        "season": 1,
+        "episode": 24,
+        "released": "2009-03-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t2jjrKq8P4HBPxBjoY1l8Cs2ckh.jpg"
+      },
+      {
+        "id": "tt1308089:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2010-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kvGZ9muExl6fLo9IEAZ222q1aCj.jpg"
+      },
+      {
+        "id": "tt1308089:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2010-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jADG0zAvB1rrHhj4lKYykeq6XNw.jpg"
+      },
+      {
+        "id": "tt1308089:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2010-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iOLG0IQcfbihEcVh2yUbnpsIEtn.jpg"
+      },
+      {
+        "id": "tt1308089:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2010-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wsuc2zOr1P63pI097uXJILSHWLS.jpg"
+      },
+      {
+        "id": "tt1308089:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2010-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4rfIeMatBR5JNsrrHvMEStattmt.jpg"
+      },
+      {
+        "id": "tt1308089:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2010-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bNM6bx2rmo8jdljQw1MRW57qtF9.jpg"
+      },
+      {
+        "id": "tt1308089:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2010-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aZ9fAtvBO70ojUJcHaoRV0ylbPx.jpg"
+      },
+      {
+        "id": "tt1308089:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2010-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mcLBDxFpCyp1xGHCdrUMnHTh4D2.jpg"
+      },
+      {
+        "id": "tt1308089:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2010-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6xSgpZaZJUQV16oyN0ZUrs8p6My.jpg"
+      },
+      {
+        "id": "tt1308089:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2010-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gmakXNFnRZkG5njXLWhyRDdj9OH.jpg"
+      },
+      {
+        "id": "tt1308089:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2010-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6tlgpEE7Gc7eGVqXweRNC5Hjm3w.jpg"
+      },
+      {
+        "id": "tt1308089:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2010-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ud5XJdGYsbFIVqAmQkkozFMB0hW.jpg"
+      },
+      {
+        "id": "tt1308089:2:13",
+        "title": "Episodio 13",
+        "season": 2,
+        "episode": 13,
+        "released": "2011-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5SgEu9GnzDlu3Za66umGAo8Ol8I.jpg"
+      },
+      {
+        "id": "tt1308089:2:14",
+        "title": "Episodio 14",
+        "season": 2,
+        "episode": 14,
+        "released": "2011-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4HJ7AZKFmYR8x0xweurpp8t8Yxn.jpg"
+      },
+      {
+        "id": "tt1308089:2:15",
+        "title": "Episodio 15",
+        "season": 2,
+        "episode": 15,
+        "released": "2011-01-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jCZ7FHXt63JFyoDLtCPV8tjrYfC.jpg"
+      },
+      {
+        "id": "tt1308089:2:16",
+        "title": "Episodio 16",
+        "season": 2,
+        "episode": 16,
+        "released": "2011-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AdnCWWxdoqBz6SnVRo3gumk9Jtk.jpg"
+      },
+      {
+        "id": "tt1308089:2:17",
+        "title": "Episodio 17",
+        "season": 2,
+        "episode": 17,
+        "released": "2011-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xjvMmX1aIVZuW8nHnDWPfuXcPGx.jpg"
+      },
+      {
+        "id": "tt1308089:2:18",
+        "title": "Episodio 18",
+        "season": 2,
+        "episode": 18,
+        "released": "2011-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sdx0F5p05XzL1IE3cNGeWQRDFyp.jpg"
+      },
+      {
+        "id": "tt1308089:2:19",
+        "title": "Episodio 19",
+        "season": 2,
+        "episode": 19,
+        "released": "2011-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u6CwqAyJIfL5PjXNp0zmE7rtIVs.jpg"
+      },
+      {
+        "id": "tt1308089:2:20",
+        "title": "Episodio 20",
+        "season": 2,
+        "episode": 20,
+        "released": "2011-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9qCQVmM35kvVvJ5jTyWxZiNgETX.jpg"
+      },
+      {
+        "id": "tt1308089:2:21",
+        "title": "Episodio 21",
+        "season": 2,
+        "episode": 21,
+        "released": "2011-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i4y56yEJlD95AYQi1zZfAvgi0r7.jpg"
+      },
+      {
+        "id": "tt1308089:2:22",
+        "title": "Episodio 22",
+        "season": 2,
+        "episode": 22,
+        "released": "2011-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eIgpcLRrOXvTa05rq6qpWnrfocH.jpg"
+      },
+      {
+        "id": "tt1308089:2:23",
+        "title": "Episodio 23",
+        "season": 2,
+        "episode": 23,
+        "released": "2011-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vHRFIKMYEQJQ4Fh73cWoYID82A9.jpg"
+      },
+      {
+        "id": "tt1308089:2:24",
+        "title": "Episodio 24",
+        "season": 2,
+        "episode": 24,
+        "released": "2011-04-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/isOotcfOdwfxveBshbPjRwJsGDj.jpg"
+      },
+      {
+        "id": "tt1308089:3:1",
+        "title": "Caos",
+        "season": 3,
+        "episode": 1,
+        "overview": "Toma sigue intentando llevar una vida más o menos corriente para su edad, pero por mucho que se lo proponga, su poder sigue siendo un codiciado elemento para muchos.",
+        "released": "2018-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nveNwcDEo3iwW0pdTuDteDeqaoj.jpg"
+      },
+      {
+        "id": "tt1308089:3:2",
+        "title": "Asiento Derecho de Dios",
+        "season": 3,
+        "episode": 2,
+        "overview": "Touma viaja hasta Aviñón, Francia, para investigar desde cerca qué es el Documento C y qué es lo que quiere Asiento Derecho de Dios.",
+        "released": "2018-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zSz446jST1A6v0wH0DR9ZdFD2LZ.jpg"
+      },
+      {
+        "id": "tt1308089:3:3",
+        "title": "Documento C",
+        "season": 3,
+        "episode": 3,
+        "overview": "En la ciudad francesa de Aviñón tendrá lugar el enfrentamiento de Touma y Terra por la posesión del Documento C.",
+        "released": "2018-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kB1LOvHZhbPpDEd85QokIznnV6O.jpg"
+      },
+      {
+        "id": "tt1308089:3:4",
+        "title": "El lado oscuro de Ciudad Academia",
+        "season": 3,
+        "episode": 4,
+        "overview": "La acción vuelve a situarse en Ciudad Academia. Allí veremos que School ha dado comienzo a un sucio plan que pretenderá atrapar desprevenidos a todos.",
+        "released": "2018-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vSn19O0lOR78p3b6wE9aMlbRBc4.jpg"
+      },
+      {
+        "id": "tt1308089:3:5",
+        "title": "Materia oscura",
+        "season": 3,
+        "episode": 5,
+        "overview": "Las varias organizaciones clandestinas de Ciudad Academia comienzan a actuar con un objetivo similar: llegar hasta Aleister. BLOCK pretende chantajear a Musujime para utilizarla y atacan el reformatorio donde están sus viejos compañeros mientras los de MEMBER parecen intervenir en todo conflicto sin un objetivo tan claro.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t2NeQSuXz7ClizKFr7g8xSegOKN.jpg"
+      },
+      {
+        "id": "tt1308089:3:6",
+        "title": "Espers",
+        "season": 3,
+        "episode": 6,
+        "overview": "Teitoku Kakine va por Takitsubo, pero Hamazura no está dispuesto a ser un don nadie. Mientras tanto Last Order busca a Accelerator, pero alguien la busca a ella para poder llegar al más poderoso esper de Ciudad Academia.",
+        "released": "2018-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iHHfhqceV2AsbHvpKcVSBkeb5Ut.jpg"
+      },
+      {
+        "id": "tt1308089:3:7",
+        "title": "Tercer estrato",
+        "season": 3,
+        "episode": 7,
+        "overview": "Touma sigue ganándose enemigos gracias a sus acciones y a su poder, en este caso es Acqua quien ha decidido ir con todo para pulverizarlo. Por suerte, cuenta con Itsuwa para protegerlo.",
+        "released": "2018-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/whTfUVmlbbLUwN0UGnBj4Sjl4FR.jpg"
+      },
+      {
+        "id": "tt1308089:3:8",
+        "title": "Devastasantos",
+        "season": 3,
+        "episode": 8,
+        "overview": "Itsuwa está destrozada por la pérdida, pero finalmente le hacen saber que tiene que hacer frente a su enemigo y seguir adelante con su misión.",
+        "released": "2018-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eOY2WgUuWkwqtrFVTkQShP3yluP.jpg"
+      },
+      {
+        "id": "tt1308089:3:9",
+        "title": "Adoración a la Madre Divina",
+        "season": 3,
+        "episode": 9,
+        "overview": "Tiene lugar un combate a muerte entre la Santa de la Iglesia Amakusa y Acqua de la Retaguardia.",
+        "released": "2018-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4e6g0ZcsbgVgnYKfMgmiGdKzhJy.jpg"
+      },
+      {
+        "id": "tt1308089:3:10",
+        "title": "Sky Bus 365",
+        "season": 3,
+        "episode": 10,
+        "overview": "Touma e Index tienen que viajar a Inglaterra cuanto antes, pero en el mismo viaje ya les esperan los sobresaltos.",
+        "released": "2018-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i5uq4bEuwd0Xq4JibYfOCfTAXDa.jpg"
+      },
+      {
+        "id": "tt1308089:3:11",
+        "title": "El laberinto de Inglaterra",
+        "season": 3,
+        "episode": 11,
+        "overview": "Touma e Index finalmente llegan a Inglaterra tras un viaje con bastantes problemas. Allí los informan de un problema que está empezando a ver la luz dentro del país.",
+        "released": "2018-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/56J6lU5C9rk0WUUJmdJpI074mm.jpg"
+      },
+      {
+        "id": "tt1308089:3:12",
+        "title": "Mercenario",
+        "season": 3,
+        "episode": 12,
+        "overview": "La situación en Inglaterra se complica de forma súbita en cuanto Carissa se apodera de la espada Curtana e inicia un ataque masivo.",
+        "released": "2018-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9BBWdCCpBI28lqULT2xLTrc5a9.jpg"
+      },
+      {
+        "id": "tt1308089:3:13",
+        "title": "Episodio 13",
+        "season": 3,
+        "episode": 13,
+        "released": "2018-12-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/plIuM4wNI0p2hM73Dwb0tzAucZg.jpg"
+      },
+      {
+        "id": "tt1308089:3:14",
+        "title": "Episodio 14",
+        "season": 3,
+        "episode": 14,
+        "released": "2019-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p7iWTrdRgb5HrLBsnyF4zRU6ENq.jpg"
+      },
+      {
+        "id": "tt1308089:3:15",
+        "title": "Episodio 15",
+        "season": 3,
+        "episode": 15,
+        "released": "2019-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x2r6QmR9czOPTps7SJJEsRRx3T4.jpg"
+      },
+      {
+        "id": "tt1308089:3:16",
+        "title": "Episodio 16",
+        "season": 3,
+        "episode": 16,
+        "released": "2019-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k7RvnAR0l5MDYyrLY0WJi8UfNhd.jpg"
+      },
+      {
+        "id": "tt1308089:3:17",
+        "title": "Episodio 17",
+        "season": 3,
+        "episode": 17,
+        "released": "2019-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2XZ3qOB7hWXQBbMXbQMAsMOK9Xj.jpg"
+      },
+      {
+        "id": "tt1308089:3:18",
+        "title": "Episodio 18",
+        "season": 3,
+        "episode": 18,
+        "released": "2019-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fXI4IDlANgknzMFUKxrTdeUETOr.jpg"
+      },
+      {
+        "id": "tt1308089:3:19",
+        "title": "Episodio 19",
+        "season": 3,
+        "episode": 19,
+        "released": "2019-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sILzmiZeZSftByS1bQSpembCq4T.jpg"
+      },
+      {
+        "id": "tt1308089:3:20",
+        "title": "Episodio 20",
+        "season": 3,
+        "episode": 20,
+        "released": "2019-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5jPXE2Tinf4n5KWEgPCPfak0sZ8.jpg"
+      },
+      {
+        "id": "tt1308089:3:21",
+        "title": "Episodio 21",
+        "season": 3,
+        "episode": 21,
+        "released": "2019-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iy3mQuTpGuTSfEMo91PdOiG0nbw.jpg"
+      },
+      {
+        "id": "tt1308089:3:22",
+        "title": "Episodio 22",
+        "season": 3,
+        "episode": 22,
+        "released": "2019-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jS2CNebpXJGqwYQJ34VriXFShAQ.jpg"
+      },
+      {
+        "id": "tt1308089:3:23",
+        "title": "Episodio 23",
+        "season": 3,
+        "episode": 23,
+        "released": "2019-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iXtbo4SpeDX0LmiMjfdxzLhq7TR.jpg"
+      },
+      {
+        "id": "tt1308089:3:24",
+        "title": "Episodio 24",
+        "season": 3,
+        "episode": 24,
+        "released": "2019-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hGXF7DI832CpVTcdwYjN7MwO7JM.jpg"
+      },
+      {
+        "id": "tt1308089:3:25",
+        "title": "Episodio 25",
+        "season": 3,
+        "episode": 25,
+        "released": "2019-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rMGboDFvI5qy3tKlmiUqOhgzAdG.jpg"
+      },
+      {
+        "id": "tt1308089:3:26",
+        "title": "Episodio 26",
+        "season": 3,
+        "episode": 26,
+        "released": "2019-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3TvwXaTBLRbj3Mthny6kP1wcY52.jpg"
+      }
+    ]
+  }
+}

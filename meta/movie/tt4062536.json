@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt4062536",
+    "type": "movie",
+    "name": "Habitación verde",
+    "poster": "https://image.tmdb.org/t/p/w500/srdbLfgqQeTsp0hFOqGzK2xqyCw.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
+    "description": "Los miembros de una banda de punk presencian un asesinato en un bar de neonazis. Encerrados en una habitación del recinto, el dueño del bar no quiere dejar testigos del crimen, por lo que deberán luchar por sus vidas. Asediados por la banda de cabezas rapadas, sus opciones son escapar o morir.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Terror",
+      "Crimen",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.7"
+        }
+      }
+    }
+  }
+}

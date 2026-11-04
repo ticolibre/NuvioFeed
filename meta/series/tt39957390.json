@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt39957390",
+    "type": "series",
+    "name": "Bass X Machina",
+    "poster": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "posterShape": "poster",
+    "description": "En un viejo Oeste retrofuturista plagado de forajidos, máquinas y fuerzas sobrenaturales, un padre se convierte en juez, juzgado y verdugo para proteger a su familia.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Animación",
+      "Western",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39957390:1:1",
+        "title": "Hasta entonces... soy Bass Reeves",
+        "season": 1,
+        "episode": 1,
+        "overview": "El Ejército de EE. UU. convoca al cazarrecompensas Bass Reeves a Fuerte Esperanza para un último trabajo: rescatar a un científico desaparecido y evitar una segunda guerra civil.",
+        "released": "2026-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8kPyhnlguTmV73CdG5M0OTrbLaO.jpg"
+      },
+      {
+        "id": "tt39957390:1:2",
+        "title": "Candidata a recibir un balazo",
+        "season": 1,
+        "episode": 2,
+        "overview": "Obligado a lidiar con una compañera inesperada, Bass cabalga hacia las tierras yermas para buscar a Bully Shaw... y se reencuentra con un viejo amigo.",
+        "released": "2026-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4dBp8BRCpOhyueSWfCUN2BSlxwt.jpg"
+      },
+      {
+        "id": "tt39957390:1:3",
+        "title": "Eso no parece Dios",
+        "season": 1,
+        "episode": 3,
+        "overview": "Un enfrentamiento electrizante con el pueblo sagrado deja a Bass conmocionado y herido. Después, Dana descubre detalles sobre el traumático pasado de su compañero de viaje.",
+        "released": "2026-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2BIfXxi6WsGhKNlNuRGxwTFrZKZ.jpg"
+      },
+      {
+        "id": "tt39957390:1:4",
+        "title": "Se acabó la segregación",
+        "season": 1,
+        "episode": 4,
+        "overview": "La tensión estalla en el tren a Tuskaheegee. Dana recuerda hechos trascendentales de su infancia... y empuja a Bass a una confrontación decisiva.",
+        "released": "2026-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/68ZmFozQburz231ik2Hm50ICtyI.jpg"
+      },
+      {
+        "id": "tt39957390:1:5",
+        "title": "Hago lo que tengo que hacer para sobrevivir",
+        "season": 1,
+        "episode": 5,
+        "overview": "Bass le pide a Ahni que deje de aferrarse a su ira. Mientras, la multitud se reúne en la Ciudad del Mañana, donde el general Rivenbark devela un arma colosal.",
+        "released": "2026-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eDKk8gvOuLcRkSJFrlyjnZVD1vF.jpg"
+      },
+      {
+        "id": "tt39957390:1:6",
+        "title": "Si quieres un país, debes matar por él",
+        "season": 1,
+        "episode": 6,
+        "overview": "Con vidas inocentes en juego, el Coloso lleva la batalla a Ciudad Central..., con Bass y su brazo celestial pisándole los talones.",
+        "released": "2026-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mmO4mn5hj1yS6FOr1yd6SoLAuSK.jpg"
+      }
+    ]
+  }
+}

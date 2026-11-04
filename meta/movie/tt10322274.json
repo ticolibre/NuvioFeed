@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt10322274",
+    "type": "movie",
+    "name": "Schumacher",
+    "poster": "https://image.tmdb.org/t/p/w500/tfCzpa35PUTuJg95vcMq1D6tc4x.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg",
+    "description": "Mediante entrevistas exclusivas e imágenes de archivo, este documental ofrece un retrato íntimo del heptacampeón de Fórmula Uno Michael Schumacher.",
+    "releaseInfo": "2021",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.3"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt4003440",
+    "type": "movie",
+    "name": "La Casa De Jack",
+    "poster": "https://image.tmdb.org/t/p/w500/oUQJZbLqTZTh287VSFUv1eoDDOl.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+    "description": "Un seguimiento durante doce años a Jack, un asesino en serie que mata mujeres y está obsesionado con la perfección. Su historia transcurre en paralelo a la de Estados Unidos durante las décadas de 1970 y 1980 en el estado de Washington.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Drama",
+      "Terror",
+      "Crimen",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

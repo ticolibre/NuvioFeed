@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0082398",
+    "type": "movie",
+    "name": "007: Sólo para tus ojos",
+    "poster": "https://image.tmdb.org/t/p/w500/rMd3KkWy1K7qeZLFlFKY0SSMnPx.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg",
+    "description": "El agente 007 debe recuperar el ATAC, un dispositivo militar secreto de guía por satélite, antes de que sea vendido a los rusos.",
+    "releaseInfo": "1981",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    }
+  }
+}

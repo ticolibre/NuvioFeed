@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0026725",
+    "type": "movie",
+    "name": "Les Misérables",
+    "poster": "https://image.tmdb.org/t/p/w500/9hSPMlFppQBCcDDECA0TgTL0F8k.jpg",
+    "posterShape": "poster",
+    "description": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+    "releaseInfo": "1935",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/l6A4m3IhK8OSScpo441tyn8or8L.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt10298810",
+    "type": "movie",
+    "name": "Lightyear",
+    "poster": "https://image.tmdb.org/t/p/w500/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+    "description": "Luego de un incidente en el que queda abandonado en un planeta hostil a 4.2 millones de años luz de la Tierra junto a su comandante y tripulación, Buzz intenta encontrar el camino de regreso a casa a través del espacio y el tiempo. Pero la misión se ve amenazada con la llegada de Zurg y su ejército de robots despiadados.",
+    "releaseInfo": "2022",
+    "genres": [
+      "Animación",
+      "Ciencia ficción",
+      "Familia",
+      "Aventura"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.8"
+        }
+      }
+    }
+  }
+}

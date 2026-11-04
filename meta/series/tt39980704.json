@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "id": "tt39980704",
+    "type": "series",
+    "name": "YAGA",
+    "poster": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+    "posterShape": "poster",
+    "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt39980704:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9pnbUiAVrof00kimkENjESS3A1q.jpg"
+      },
+      {
+        "id": "tt39980704:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hOJdDmyHRwaJlyRjsSaRGUhkfI6.jpg"
+      },
+      {
+        "id": "tt39980704:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cEcpDv3Vk3CovElIvum0jS12SUM.jpg"
+      },
+      {
+        "id": "tt39980704:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/frnziCuq4hZwOtWHlqS7XZeREkw.jpg"
+      },
+      {
+        "id": "tt39980704:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-11-13"
+      },
+      {
+        "id": "tt39980704:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-11-20"
+      },
+      {
+        "id": "tt39980704:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-11-27"
+      },
+      {
+        "id": "tt39980704:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-11-27"
+      }
+    ]
+  }
+}

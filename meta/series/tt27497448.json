@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "id": "tt27497448",
+    "type": "series",
+    "name": "El caballero de los Siete Reinos",
+    "poster": "https://image.tmdb.org/t/p/w500/vd1Qw2E8fgRVzeoCkeZBGUCHOyS.jpg",
+    "posterShape": "poster",
+    "description": "Ambientada en una época en la que el linaje Targaryen todavía ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, enemigos poderosos y hazañas peligrosas esperan a estos improbables e incomparables amigos.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt27497448:1:1",
+        "title": "El caballero errante",
+        "season": 1,
+        "episode": 1,
+        "overview": "En su camino al torneo de justas en Ashford, Dunk conoce a un astuto niño llamado Egg, quien se ofrece a ser su escudero.",
+        "released": "2026-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/skUblgYcUgTwcs1J2N0dAmIJcoF.jpg"
+      },
+      {
+        "id": "tt27497448:1:2",
+        "title": "Carne Salada",
+        "season": 1,
+        "episode": 2,
+        "overview": "Dunk intenta convencer a varios lores para que le permitan participar en el torneo... pero Egg le aconseja mantener su orgullo. Cuando los Targaryen llegan a Ashford, Dunk aprovecha la oportunidad para hablar con el príncipe Baelor.",
+        "released": "2026-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xIGDeFRQWNBYqGxzjLg1I8c22Ne.jpg"
+      },
+      {
+        "id": "tt27497448:1:3",
+        "title": "El Escudero",
+        "season": 1,
+        "episode": 3,
+        "overview": "Luego de que Egg intenta entrenar al indomable caballo de Dunk, este le enseña a su nuevo escudero una habilidad importante. Mientras disfrutan del primer día del torneo, Dunk recibe una propuesta del ayudante de Ashford que podría asegurar su futuro.",
+        "released": "2026-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8coDmuDhHGJGpgOqr7eT4FtA4uD.jpg"
+      },
+      {
+        "id": "tt27497448:1:4",
+        "title": "Siete",
+        "season": 1,
+        "episode": 4,
+        "overview": "Dunk exige un juicio por combate para demostrar su inocencia, pero Aerion tiene un idea más peligrosa.",
+        "released": "2026-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wl4Lm6bcmOc79Jxtl06pGZeLFhk.jpg"
+      },
+      {
+        "id": "tt27497448:1:5",
+        "title": "En nombre de la Madre",
+        "season": 1,
+        "episode": 5,
+        "overview": "Cuando un amigo le sugiere escapar de su triste vida, el joven Dunk duda entre su pasado y un nuevo futuro.",
+        "released": "2026-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qrqwS4n95ZOghrHWppvf6XZCmVN.jpg"
+      },
+      {
+        "id": "tt27497448:1:6",
+        "title": "El Mañana⁩",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mientras Ashford lamenta una gran pérdida, Dunk evalúa su próximo movimiento... y si mantener a Egg como su escudero o no.",
+        "released": "2026-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9VixNtswlKTzjSD0oFmT6eTcC9e.jpg"
+      }
+    ]
+  }
+}

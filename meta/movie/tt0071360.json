@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0071360",
+    "type": "movie",
+    "name": "La conversación",
+    "poster": "https://image.tmdb.org/t/p/w500/g4bVCc10hpWEiYaSdhL4Jo6MetA.jpg",
+    "posterShape": "poster",
+    "description": "Thriller dirigido por Francis Ford Coppola que sigue a Harry Caul, un experto en vigilancia contratado para espiar a una pareja. Caul se ve atrapado en una red de paranoia y obsesión mientras descubre secretos que podrían poner sus vidas en peligro.",
+    "releaseInfo": "1974",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/s7yfiwIshKQIT6M8ZcTnFKXHs8B.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

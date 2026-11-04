@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt14852624",
+    "type": "movie",
+    "name": "Stopmotion",
+    "poster": "https://image.tmdb.org/t/p/w500/tfcXyqmWFwVJ6s8vaVsXZYZhkcg.jpg",
+    "posterShape": "poster",
+    "description": "Una animadora de stop-motion lucha por controlar sus demonios tras la pérdida de su autoritaria madre.",
+    "releaseInfo": "2024",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/shS6buEDnEDoHTdLbGzCoDIZ9ur.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.1"
+        }
+      }
+    }
+  }
+}

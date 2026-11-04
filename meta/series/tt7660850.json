@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "id": "tt7660850",
+    "type": "series",
+    "name": "Succession",
+    "poster": "https://image.tmdb.org/t/p/w500/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+    "posterShape": "poster",
+    "description": "Succession es un retrato ficticio de una dinastía familiar con problemas emocionales que explora temas de poder, política y dinero a través de los ojos de Logan, un envejecido magnate de los medios de comunicación con planes de jubilarse, y sus cuatro hijos adultos, cuyos planes podrían no alinearse con los de su padre.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt7660850:1:1",
+        "title": "Celebración",
+        "season": 1,
+        "episode": 1,
+        "overview": "El magnate de los medios de comunicación Logan Roy sorprende a su familia con un importante anuncio durante su 80º cumpleaños.",
+        "released": "2018-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rIg9xLwoIGvgMaPlLbioQ08aKVd.jpg"
+      },
+      {
+        "id": "tt7660850:1:2",
+        "title": "Espectáculo de mierda en la fábrica de cagadas",
+        "season": 1,
+        "episode": 2,
+        "overview": "La incapacidad de Logan desencadena un acalorado debate sobre su sucesión entre sus hijos.",
+        "released": "2018-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pI4ua90GNgDxriiSMY6Px1BjekO.jpg"
+      },
+      {
+        "id": "tt7660850:1:3",
+        "title": "Salvavidas",
+        "season": 1,
+        "episode": 3,
+        "overview": "Kendall se enfrenta a una crisis de deudas en Waystar. Shiv se irrita por la influencia de Marcia sobre Logan.",
+        "released": "2018-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5znXaotuoGAY2rtPw8WWjbcsyyI.jpg"
+      },
+      {
+        "id": "tt7660850:1:4",
+        "title": "Trampa para los ricos y los desfavorecidos",
+        "season": 1,
+        "episode": 4,
+        "overview": "La familia asiste a una gala anual de la compañía, supervisada por Connor y marcada por un sorprendente anuncio.",
+        "released": "2018-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mZk2zOCxFBM7w0gXdG2ikqKw61J.jpg"
+      },
+      {
+        "id": "tt7660850:1:5",
+        "title": "Fui al mercado",
+        "season": 1,
+        "episode": 5,
+        "overview": "Kendall busca organizar un voto de no confianza en contra de Logan. Tom cuestiona su acuerdo prenupcial y recluta a Greg para una tarea.",
+        "released": "2018-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s51pU8QMDODpHQfQuvpJnSyr0NL.jpg"
+      },
+      {
+        "id": "tt7660850:1:6",
+        "title": "¿De qué lado estás?",
+        "season": 1,
+        "episode": 6,
+        "overview": "Roman y Kendall intentan convencer a la junta mientras Shiv explora sus opciones en Washington D.C.",
+        "released": "2018-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fDs0vCCDJPDR1lMyly0hrn4Dahr.jpg"
+      },
+      {
+        "id": "tt7660850:1:7",
+        "title": "Austerlitz",
+        "season": 1,
+        "episode": 7,
+        "overview": "Los Roy se reúnen para una sesión de terapia familiar. Shiv considera unirse al equipo de un atractivo, pero controversial candidato.",
+        "released": "2018-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kQjdw7YCB43DqBuddZTHs59HE2B.jpg"
+      },
+      {
+        "id": "tt7660850:1:8",
+        "title": "Praga",
+        "season": 1,
+        "episode": 8,
+        "overview": "Tom tiene una despedida de soltero digna de recordar. Kendall y Roman buscan nuevas oportunidades de negocio",
+        "released": "2018-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sbpFHOXksHfmVHJIcgypVTg1GTp.jpg"
+      },
+      {
+        "id": "tt7660850:1:9",
+        "title": "Prenupcial",
+        "season": 1,
+        "episode": 9,
+        "overview": "Los Roy se reúnen en un Castillo inglés para la boda de Shiv y Tom. Los planes de Kendall son apresurados.",
+        "released": "2018-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jksAOYiFfomjezjIR561oxqId8u.jpg"
+      },
+      {
+        "id": "tt7660850:1:10",
+        "title": "Nadie ha desaparecido",
+        "season": 1,
+        "episode": 10,
+        "overview": "Final de temporada. Logan se encuentra en una crisis al regarse la noticia de la compra de Waystar. Kendall busca una salida.",
+        "released": "2018-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/QFrxZg56jttjbRAgC83eNGoXLl.jpg"
+      },
+      {
+        "id": "tt7660850:2:1",
+        "title": "El palacio de verano",
+        "season": 2,
+        "episode": 1,
+        "overview": "Estreno de temporada. Kendall intenta hacer las paces con su padre. Logan recibe un duro consejo de su banquero.",
+        "released": "2019-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5MY4RFK1qlbFUSh9thmf6vbE8bE.jpg"
+      },
+      {
+        "id": "tt7660850:2:2",
+        "title": "Vaulter",
+        "season": 2,
+        "episode": 2,
+        "overview": "Roman y Kendall compiten para “arreglar” a Vaulter a su manera. Greg se pregunta si ATN es lo mejor para él.",
+        "released": "2019-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/26veg1bj8b4WfkJuRLKrLw3a26l.jpg"
+      },
+      {
+        "id": "tt7660850:2:3",
+        "title": "Cacería",
+        "season": 2,
+        "episode": 3,
+        "overview": "Logan toma una decisión nada popular para adquirir una compañía rival. El video del anuncio presidencial de Connor molesta a los Roy.",
+        "released": "2019-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/38TozU08psibnQGljsUOUyK2NsN.jpg"
+      },
+      {
+        "id": "tt7660850:2:4",
+        "title": "Cuarto seguro",
+        "season": 2,
+        "episode": 4,
+        "overview": "Roman empieza un programa de entrenamiento con los “normales” de la división Parks. Logan y Kendall organizan una reunión secreta.",
+        "released": "2019-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5mRxmdvG3GKqDhJe90LFv9zuRce.jpg"
+      },
+      {
+        "id": "tt7660850:2:5",
+        "title": "Tern Haven",
+        "season": 2,
+        "episode": 5,
+        "overview": "Logan intenta concretar la compra de PGM durante un fin de semana de descanso en casa de la familia Pierce.",
+        "released": "2019-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sH2UndwXxYpjGyKzi7BJyFszZiK.jpg"
+      },
+      {
+        "id": "tt7660850:2:6",
+        "title": "Argestes",
+        "season": 2,
+        "episode": 6,
+        "overview": "Un escandaloso artículo periodístico amenaza con exponer la división de cruceros de Waystar Royco.",
+        "released": "2019-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jHqhN4OJIeYOY5m1wGjQkryK5L6.jpg"
+      },
+      {
+        "id": "tt7660850:2:7",
+        "title": "Regreso",
+        "season": 2,
+        "episode": 7,
+        "overview": "Un viaje al Reino Unido hace que los chicos Roy negocien con su madre. Logan pide consejo a Rhea.",
+        "released": "2019-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v8GvkMkiVFz1HxdjI4SEtXehnfN.jpg"
+      },
+      {
+        "id": "tt7660850:2:8",
+        "title": "Dundee",
+        "season": 2,
+        "episode": 8,
+        "overview": "Logan reflexiona sobre su pasado y futuro al regresar a su ciudad natal de Dundee, Escocia. Shiv conspira para derrotar a Rhea.",
+        "released": "2019-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/35KiM5VxvYEddEu312aL6ABBeBy.jpg"
+      },
+      {
+        "id": "tt7660850:2:9",
+        "title": "DC",
+        "season": 2,
+        "episode": 9,
+        "overview": "Logan, Kendall, Gerri y Tom testifican ante al Congreso. Shiv es sincera con una testigo clave.",
+        "released": "2019-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qz3eifkfIkha66P4zbqrVnuu4SU.jpg"
+      },
+      {
+        "id": "tt7660850:2:10",
+        "title": "Esto no es para lágrimas",
+        "season": 2,
+        "episode": 10,
+        "overview": "Final de temporada. Logan busca algún chivo expiatorio entre sus aliados más cercanos mientras el futuro de la compañía pende de un hilo.",
+        "released": "2019-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9zH4Q67w0qvtXeD3cTMaiVKFuj6.jpg"
+      },
+      {
+        "id": "tt7660850:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2021-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/130ZyGzoPXdAG3ZQp5FfVcsrqIW.jpg"
+      },
+      {
+        "id": "tt7660850:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2021-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w9QosoYHuWPe7mdNHc1NjcSEcfa.jpg"
+      },
+      {
+        "id": "tt7660850:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2021-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kNr0xiy8PSVUTff7feUD5nj0pqF.jpg"
+      },
+      {
+        "id": "tt7660850:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2021-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mP4pvN58nyBsFhUGPjW18os7zRU.jpg"
+      },
+      {
+        "id": "tt7660850:3:5",
+        "title": "Retired Janitors of Idaho",
+        "season": 3,
+        "episode": 5,
+        "overview": "Kendall y el equipo de Waystar trabajan juntos en la reunión anual de accionistas, donde la salud de Logan da un giro.",
+        "released": "2021-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rRBERiQvUcpWgj9wJ6ZU8DZCIQJ.jpg"
+      },
+      {
+        "id": "tt7660850:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5hGlKWPhF0GbfvgwttY5C7uwgn5.jpg"
+      },
+      {
+        "id": "tt7660850:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uqvLgaO1MgdfrZK47Nb0nw5ehvE.jpg"
+      },
+      {
+        "id": "tt7660850:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cPTzIDuP4nFrmYTOsR30bLh1V8a.jpg"
+      },
+      {
+        "id": "tt7660850:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wTrGxtBRxcIg4ixccODsN9acJqg.jpg"
+      },
+      {
+        "id": "tt7660850:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-03-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6sPirsptcGhKK8Lzy0o0Tx9s5Mf.jpg"
+      },
+      {
+        "id": "tt7660850:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hB04cP1MJkcv6JdUnYF9fHankHb.jpg"
+      },
+      {
+        "id": "tt7660850:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tphh4wvLKfaaIUIqx87CXss48NB.jpg"
+      },
+      {
+        "id": "tt7660850:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sPrLwDsnPO5vXldhsPmkfRKGcoQ.jpg"
+      },
+      {
+        "id": "tt7660850:4:5",
+        "title": "Kill List",
+        "season": 4,
+        "episode": 5,
+        "overview": "Luego de ser convocados a Noruega para un retiro de trabajo en equipo de GoJo, la vieja guardia de Waystar se preocupa cada vez más por el verdadero propósito del viaje.",
+        "released": "2023-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vLWQ8jgLzJU17qi7iK87W35hU4V.jpg"
+      },
+      {
+        "id": "tt7660850:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Ut45xIXiKhupEEIlPoKnhb69Kh.jpg"
+      },
+      {
+        "id": "tt7660850:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "2023-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AequFivGIhmbcFeKWG5tjve8amq.jpg"
+      },
+      {
+        "id": "tt7660850:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "2023-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cWDU2UZmZZDiQkA7eKR8AQyAIV3.jpg"
+      },
+      {
+        "id": "tt7660850:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "2023-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/javcZZhlgHQVLARHL5IDqkUo1g5.jpg"
+      },
+      {
+        "id": "tt7660850:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "2023-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fEWGXc9Ymd4YYJJTk3QPKJxndyJ.jpg"
+      }
+    ]
+  }
+}

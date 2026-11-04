@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2870648",
+    "type": "movie",
+    "name": "Amy",
+    "poster": "https://image.tmdb.org/t/p/w500/AjzrnMUZsEYfXwDjkzzxq6ODRxC.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
+    "description": "Documental sobre la famosa cantante británica Amy Winehouse, que cuenta con imágenes inéditas de archivo y entrevistas con la malograda estrella, que murió en julio del 2011 a los 27 años de edad por parada cardíaca consecuencia de sus excesos con las drogas y el alcohol, adicciones agravadas por su bulimia. Amy Winehouse, ganadora de 6 Premios Grammys, se vio desde muy joven afectada por el divorcio de sus padres. Tenía un talento natural para el jazz y el soul y una voz prodigiosa que pronto la hizo una estrella mundial a pesar de lanzar sólo dos discos, pero la fama, la prensa sensacionalista, los intereses de la industria -y de su entorno- y su turbulento amor con el que fue su pareja Blake Fielder-Civil la condujeron finalmente a su trágico destino en su piso de Camden, Londres.",
+    "releaseInfo": "2015",
+    "genres": [
+      "Documental",
+      "Música"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

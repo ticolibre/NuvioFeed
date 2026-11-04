@@ -1,0 +1,682 @@
+{
+  "meta": {
+    "id": "tt1480925",
+    "type": "series",
+    "name": "Monogatari",
+    "poster": "https://image.tmdb.org/t/p/w500/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+    "posterShape": "poster",
+    "description": "Monogatari se centra en Koyomi Araragi, un estudiante de tercer año de instituto que es ahora casi humano después de haber sido vampiro por un tiempo. Un día, una compañera de clase llamada Hitagi Senjōgahara, quien nunca habla con nadie, cae desde una alta escalera en los brazos de Koyomi. Él descubre que Hitagi no pesa casi nada, una contradicción física. A pesar de ser amenazado por ella, Araragi le ofrece su ayuda, y la presenta a Meme Oshino, un hombre excéntrico de mediana edad viviendo en un edificio abandonado que le ayudó a dejar de ser un vampiro.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1480925:1:1",
+        "title": "Cangrejo Hitagi, Parte 1",
+        "season": 1,
+        "episode": 1,
+        "overview": "Koyomi Araragi descubre el secreto de su solitaria compañera de clase, Hitagi Senjougahara, al atraparla tras una caída accidental: ella no pesa absolutamente nada. Tras ser amenazado para guardar silencio, Koyomi le ofrece la ayuda de Meme Oshino para resolver el misterio de la entidad que le robó su peso corporal.",
+        "released": "2009-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v3y4HkePhLeVb4LtOQTdyELO3x2.jpg"
+      },
+      {
+        "id": "tt1480925:1:2",
+        "title": "Cangrejo Hitagi, Parte 2",
+        "season": 1,
+        "episode": 2,
+        "overview": "Bajo la guía de Oshino, Hitagi debe enfrentar cara a cara a la deidad cangrejo que aceptó su carga emocional a cambio de su peso. Koyomi presencia el doloroso proceso de aceptación de Hitagi, mientras ella intenta recuperar no solo sus kilogramos, sino también los sentimientos que decidió reprimir tras un trauma familiar.",
+        "released": "2009-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/doaYFDNGcuyfyHg7RWpbRw8mbF2.jpg"
+      },
+      {
+        "id": "tt1480925:1:3",
+        "title": "Caracol Mayoi, Parte 1",
+        "season": 1,
+        "episode": 3,
+        "overview": "Durante el día de la madre, Koyomi se encuentra con una niña de primaria llamada Mayoi Hachikuji en un parque, quien parece estar perdida buscando una dirección inexistente. Mientras Hitagi y Koyomi conversan sobre sus extrañas circunstancias, Araragi decide ayudar a la niña, sin sospechar que está entrando en el dominio de una nueva excentricidad.",
+        "released": "2009-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6xcF86Xjou2qTLbpfsOAgGwfWo.jpg"
+      },
+      {
+        "id": "tt1480925:1:4",
+        "title": "Caracol Mayoi, Parte 2",
+        "season": 1,
+        "episode": 4,
+        "overview": "Koyomi, Hitagi y Mayoi continúan deambulando sin éxito por el vecindario. La tensión aumenta cuando se dan cuenta de que están atrapados en un bucle espacial. Tras contactar con Oshino, este les revela la naturaleza del \"Caracol Perdido\" y la importancia de que sea Hitagi quien guíe el camino, poniendo a prueba su recién recuperada estabilidad emocional.",
+        "released": "2009-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qChfRN1IjjqEXhJcfolMPmXNEut.jpg"
+      },
+      {
+        "id": "tt1480925:1:5",
+        "title": "Caracol Mayoi, Parte 3",
+        "season": 1,
+        "episode": 5,
+        "overview": "Se revela la trágica verdad sobre el origen de Mayoi Hachikuji. Koyomi debe tomar una decisión difícil sobre cómo ayudar a la niña a llegar a su destino final. El desenlace del arco profundiza en la relación entre Koyomi y Hitagi, marcando un cambio definitivo en su dinámica personal.",
+        "released": "2009-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vVCoQpNEckaNyENV0iSYAnps2xK.jpg"
+      },
+      {
+        "id": "tt1480925:1:6",
+        "title": "Mono Suruga, Parte 1",
+        "season": 1,
+        "episode": 6,
+        "overview": "Suruga Kanbaru, una estrella del equipo de baloncesto y menor de Koyomi, comienza a seguirlo de manera persistente. Aunque Koyomi intenta ignorarlo, pronto descubre que Suruga guarda un rencor oculto hacia su relación con Hitagi y que posee una extremidad izquierda vendada que oculta una naturaleza sobrenatural.",
+        "released": "2009-08-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7tCjkYnZUhWePw3gNuHHK8KjpeX.jpg"
+      },
+      {
+        "id": "tt1480925:1:7",
+        "title": "Mono Suruga, Parte 2",
+        "season": 1,
+        "episode": 7,
+        "overview": "Koyomi es atacado por una entidad encapuchada con una fuerza sobrehumana. Tras sobrevivir al encuentro, busca la ayuda de Oshino, quien le revela que el brazo de Suruga está poseído por la \"Pata de Mono\", una excentricidad que concede deseos a cambio de un precio oscuro relacionado con los instintos del poseedor.",
+        "released": "2009-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dXQV1feXYtzQLRgAefC1xTY14Hn.jpg"
+      },
+      {
+        "id": "tt1480925:1:8",
+        "title": "Mono Suruga, Parte 3",
+        "season": 1,
+        "episode": 8,
+        "overview": "Para salvar a Suruga de la maldición y proteger su vida, Koyomi decide enfrentarla en un duelo físico, sabiendo que no puede ganar por fuerza bruta. El conflicto llega a su clímax con la intervención de Hitagi, quien obliga a Suruga a confrontar sus verdaderos sentimientos de soledad y envidia.",
+        "released": "2009-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eZwuPAWlls4LogQYDCUuTMMwStJ.jpg"
+      },
+      {
+        "id": "tt1480925:1:9",
+        "title": "Serpiente Nadeko, Parte 1",
+        "season": 1,
+        "episode": 9,
+        "overview": "Koyomi y Suruga visitan un santuario abandonado y encuentran a Nadeko Sengoku, una antigua amiga de la infancia de las hermanas de Araragi. Nadeko ha sido víctima de una maldición de escamas de serpiente que está consumiendo su cuerpo lentamente debido a un rencor escolar.",
+        "released": "2009-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/suDePt7Aq09TBtjjWx27YFWExXY.jpg"
+      },
+      {
+        "id": "tt1480925:1:10",
+        "title": "Serpiente Nadeko, Parte 2",
+        "season": 1,
+        "episode": 10,
+        "overview": "Con la guía de un ritual proporcionado por Oshino, Koyomi intenta exorcizar la maldición de la serpiente que aprieta el cuerpo de Nadeko. Sin embargo, el ritual se complica cuando descubren que no hay una, sino dos serpientes invisibles involucradas, poniendo en riesgo la vida de ambos.",
+        "released": "2009-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mVM65DzTkyJ4Efl1O4C86xOz0C6.jpg"
+      },
+      {
+        "id": "tt1480925:1:11",
+        "title": "Gato Tsubasa, Parte 1",
+        "season": 1,
+        "episode": 11,
+        "overview": "Tsubasa Hanekawa, la delegada de clase perfecta, comienza a sufrir de dolores de cabeza insoportables. Koyomi, preocupado por su bienestar, recuerda los eventos de la Semana Dorada y sospecha que el estrés de Hanekawa está despertando nuevamente a la excentricidad del \"Gato de Interferencia\".",
+        "released": "2009-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fQzbNrnSP2z23c6XNNPe7hZOcvC.jpg"
+      },
+      {
+        "id": "tt1480925:1:12",
+        "title": "Gato Tsubasa, Parte 2",
+        "season": 1,
+        "episode": 12,
+        "overview": "Hitagi invita a Koyomi a una cita bajo el cielo estrellado, donde comparten un momento de vulnerabilidad y ella le confiesa lo que realmente significa él en su vida. Mientras tanto, el estado mental de Hanekawa se deteriora en silencio, preparando el terreno para el regreso del espíritu felino.",
+        "released": "2009-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aSEqGXEStt6xvssRzs0J4WlYgyY.jpg"
+      },
+      {
+        "id": "tt1480925:2:1",
+        "title": "Abeja Karen, Parte 1",
+        "season": 2,
+        "episode": 1,
+        "overview": "Koyomi Araragi es despertado violentamente por su hermana menor, Karen, quien está investigando a un misterioso estafador que engaña a estudiantes de secundaria. Mientras Koyomi intenta lidiar con la intensidad de sus hermanas, recibe una llamada de Senjougahara que lo pone en alerta sobre la seguridad de su entorno.",
+        "released": "2012-01-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jfQu9sJq1xnrVAzAi6YOojs2E8M.jpg"
+      },
+      {
+        "id": "tt1480925:2:2",
+        "title": "Abeja Karen, Parte 2",
+        "season": 2,
+        "episode": 2,
+        "overview": "Tras un encuentro con Senjougahara en el que ella muestra una actitud inusualmente protectora, Koyomi se reúne con Kanbaru para limpiar su habitación. Durante la charla, profundizan en las sospechas sobre Kaiki Deishuu, el hombre que una vez estafó a la familia de Hitagi y que ahora parece estar vinculado a Karen.",
+        "released": "2012-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/64aXSwHFxLGEE5UklQFUNB0002Z.jpg"
+      },
+      {
+        "id": "tt1480925:2:3",
+        "title": "Abeja Karen, Parte 3",
+        "season": 2,
+        "episode": 3,
+        "overview": "Koyomi se encuentra con una misteriosa niña llamada Yotsugi Ononoki y su acompañante Yozuru Kagenui, quienes parecen buscar a Shinobu. La conversación revela que nuevos especialistas están llegando a la ciudad, lo que complica el equilibrio que Oshino dejó antes de partir.",
+        "released": "2012-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cTxUQlf2fqyNRh4o8q9fdV5ERiL.jpg"
+      },
+      {
+        "id": "tt1480925:2:4",
+        "title": "Abeja Karen, Parte 4",
+        "season": 2,
+        "episode": 4,
+        "overview": "Karen confronta finalmente a Kaiki para detener sus estafas, pero el encuentro resulta ser una derrota humillante y peligrosa para ella. Koyomi encuentra a su hermana en un estado físico deplorable, dándose cuenta de que ha sido víctima de una extraña fiebre sobrenatural.",
+        "released": "2012-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3znGWPm5AwdDvPo5fMqulqpXFyQ.jpg"
+      },
+      {
+        "id": "tt1480925:2:5",
+        "title": "Abeja Karen, Parte 5",
+        "season": 2,
+        "episode": 5,
+        "overview": "Koyomi cuida de Karen mientras su fiebre empeora. En un momento de vulnerabilidad, Karen explica sus motivos para buscar justicia, mientras Koyomi busca consejo en Shinobu para entender la naturaleza de la \"Abeja de Fuego\" que ha infectado a su hermana.",
+        "released": "2012-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dk6fRt4S3MPBEH2U0VeGtFFa9lB.jpg"
+      },
+      {
+        "id": "tt1480925:2:6",
+        "title": "Abeja Karen, Parte 6",
+        "season": 2,
+        "episode": 6,
+        "overview": "Senjougahara secuestra a Koyomi para evitar que este se enfrente a Kaiki solo. En un diálogo tenso y cargado de historia compartida, acuerdan que Hitagi se encargará personalmente de resolver su pasado con el estafador, mientras Koyomi intenta encontrar una cura para Karen.",
+        "released": "2012-02-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ep7o6Pgw9exBUGxGLb9RzC2rOok.jpg"
+      },
+      {
+        "id": "tt1480925:2:7",
+        "title": "Abeja Karen, Parte 7",
+        "season": 2,
+        "episode": 7,
+        "overview": "El enfrentamiento final con Kaiki Deishuu toma un rumbo inesperado. No es una batalla de magia, sino de ingenio y pragmatismo. Koyomi aprende que, a veces, la verdad no es tan efectiva como una mentira bien contada, y la fiebre de Karen finalmente cede.",
+        "released": "2012-02-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s0n1PO90pHEYOtEkUaQRpC0loCu.jpg"
+      },
+      {
+        "id": "tt1480925:2:8",
+        "title": "Fénix Tsukihi, Parte 1",
+        "season": 2,
+        "episode": 8,
+        "overview": "La atención se traslada a la hermana menor, Tsukihi. Koyomi pasa tiempo con ella intentando relajarse tras los eventos con Karen, pero la llegada de una nueva excentricidad vinculada a la inmortalidad comienza a cernirse sobre el hogar de los Araragi.",
+        "released": "2012-02-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tdU6D7fjEdzjFE3VSGwWoH48BEs.jpg"
+      },
+      {
+        "id": "tt1480925:2:9",
+        "title": "Fénix Tsukihi, Parte 2",
+        "season": 2,
+        "episode": 9,
+        "overview": "Koyomi se encuentra nuevamente con Ononoki, quien le advierte sobre los peligros de proteger a alguien que no es lo que parece. La tensión aumenta cuando se revela que Tsukihi está siendo blanco de especialistas que se dedican a exterminar \"imitaciones\" peligrosas.",
+        "released": "2012-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ooFNDQnzC1fVs99I9eGAOcwi7yX.jpg"
+      },
+      {
+        "id": "tt1480925:2:10",
+        "title": "Fénix Tsukihi, Parte 3",
+        "season": 2,
+        "episode": 10,
+        "overview": "Un enfrentamiento brutal ocurre en el patio de la casa Araragi. Koyomi debe demostrar su resolución para proteger a su hermana, sin importar si su naturaleza es humana o sobrenatural. La intervención de Shinobu es crucial para equilibrar la balanza contra la fuerza de Ononoki.",
+        "released": "2012-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jq91CRP6vrs1QGciMqP2ZjaWI31.jpg"
+      },
+      {
+        "id": "tt1480925:2:11",
+        "title": "Fénix Tsukihi, Parte 4",
+        "season": 2,
+        "episode": 11,
+        "overview": "Koyomi enfrenta la verdad definitiva sobre la naturaleza de Tsukihi tras el violento encuentro con Kagenui. A pesar de las revelaciones sobre la autenticidad de su hermana, Araragi reafirma su vínculo familiar, decidiendo que el amor y la convivencia diaria son más reales que cualquier origen sobrenatural. El conflicto con los especialistas llega a una tregua tensa, cerrando este capítulo de la vida de las Hermanas de Fuego.",
+        "released": "2012-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1cbQRdRnmLpCrawIeLhfuYgl6q8.jpg"
+      },
+      {
+        "id": "tt1480925:3:1",
+        "title": "Tigre Tsubasa, Parte 1",
+        "season": 3,
+        "episode": 1,
+        "overview": "En el primer día del segundo semestre, Tsubasa Hanekawa se encuentra con un gigantesco tigre blanco en su camino a la escuela. Poco después, su casa es consumida por un incendio repentino. Sin un hogar a donde ir y con Araragi desaparecido, Hanekawa debe aceptar la ayuda de Hitagi Senjougahara, mientras intenta comprender la naturaleza de la nueva excentricidad que parece acecharla.",
+        "released": "2013-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1nx4hrCb5q3nlhjl8AuZpiViPqT.jpg"
+      },
+      {
+        "id": "tt1480925:3:2",
+        "title": "Tigre Tsubasa, Parte 2",
+        "season": 3,
+        "episode": 2,
+        "overview": "Hanekawa se queda a dormir en la casa de Senjougahara, donde ambas comparten una conversación honesta sobre sus sentimientos y su pasado. Sin embargo, la presencia del Tigre Blanco sigue manifestándose. Tsubasa comienza a notar que su \"otra personalidad\", Black Hanekawa, está despertando de nuevo debido al estrés, pero esta vez el gato parece estar tan confundido como ella sobre el origen del tigre.",
+        "released": "2013-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fYfC9gPXmvqPUruJkFfCrCF6Oje.jpg"
+      },
+      {
+        "id": "tt1480925:3:3",
+        "title": "Tigre Tsubasa, Parte 3",
+        "season": 3,
+        "episode": 3,
+        "overview": "Tras el incendio de la casa de Senjougahara (provocado por el tigre), las chicas se refugian en el edificio abandonado de la escuela. Allí se encuentran con Gaen Izuko, una mujer misteriosa que afirma saberlo todo y que tiene una conexión profunda con el pasado de Meme Oshino. Gaen les advierte que la situación es mucho más grave de lo que imaginan.",
+        "released": "2013-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gVJVgN492WvD5x2Ss2njfUzbnng.jpg"
+      },
+      {
+        "id": "tt1480925:3:4",
+        "title": "Tigre Tsubasa, Parte 4",
+        "season": 3,
+        "episode": 4,
+        "overview": "Black Hanekawa toma el control para investigar la ciudad y confrontar al Tigre Blanco, descubriendo que la criatura es una excentricidad de \"envidia\" nacida de la propia represión de Tsubasa. Mientras tanto, Hanekawa decide escribir una carta a su otra identidad, aceptando por primera vez todos los aspectos negativos de su personalidad para poder enfrentar su destino.",
+        "released": "2013-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l3Z6cr2iY3O8oFAS6eVOiWLWAnb.jpg"
+      },
+      {
+        "id": "tt1480925:3:5",
+        "title": "Tigre Tsubasa, Parte 5",
+        "season": 3,
+        "episode": 5,
+        "overview": "El enfrentamiento final contra el Tigre Blanco llega a su clímax. Hanekawa decide absorber tanto al gato como al tigre, aceptando sus defectos y traumas como parte de sí misma. Justo cuando la situación parece perdida, Koyomi Araragi regresa en el último segundo para prestar su ayuda. Al final, Tsubasa logra una nueva estabilidad emocional, aunque con un cambio físico permanente que simboliza su madurez.",
+        "released": "2013-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wUKDrYRyq7ZbJ5lXkazYIL812LO.jpg"
+      },
+      {
+        "id": "tt1480925:3:6",
+        "title": "Ruta Mayoi, Parte 1",
+        "season": 3,
+        "episode": 6,
+        "overview": "Es el último día de las vacaciones de verano y Koyomi Araragi se da cuenta de que no ha hecho nada de su tarea. En un intento desesperado por retroceder el tiempo solo un día, le pide ayuda a Shinobu. Sin embargo, debido a un error en el flujo de energía espiritual en el templo Shirahebi, terminan viajando once años al pasado, al día antes de que Mayoi Hachikuji falleciera en un accidente de tráfico.",
+        "released": "2013-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s5z7Mx6uVFcq4xdeCLTMkv7FfGj.jpg"
+      },
+      {
+        "id": "tt1480925:3:7",
+        "title": "Ruta Mayoi, Parte 2",
+        "season": 3,
+        "episode": 7,
+        "overview": "Koyomi decide que, ya que están en el pasado, intentará salvar la vida de Mayoi para que no se convierta en una excentricidad. Tras varios intentos y encuentros con una versión más joven de personajes conocidos, logran evitar el accidente. Sin embargo, al intentar regresar al presente, descubren que el mundo que conocían ha cambiado drásticamente debido a este cambio en la línea temporal.",
+        "released": "2013-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8JtuRyPJrGpniIsWue9hhvrr9K5.jpg"
+      },
+      {
+        "id": "tt1480925:3:8",
+        "title": "Ruta Mayoi, Parte 3",
+        "season": 3,
+        "episode": 8,
+        "overview": "Al regresar al presente de la nueva línea temporal, Araragi y Shinobu encuentran una ciudad desierta y en ruinas. Descubren que, sin la presencia de Mayoi como excentricidad, Koyomi nunca la conoció, lo que desencadenó una cadena de eventos catastróficos que llevaron al fin de la humanidad a manos de una Shinobu fuera de control. Ahora deben encontrar una manera de contactar con los pocos supervivientes para arreglar el mundo.",
+        "released": "2013-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w6dd0LA05KczPr8ZJzGwT2tYsrH.jpg"
+      },
+      {
+        "id": "tt1480925:3:9",
+        "title": "Ruta Mayoi, Parte 4",
+        "season": 3,
+        "episode": 9,
+        "overview": "Koyomi y Shinobu se encuentran con una versión adulta de Mayoi Hachikuji, quien ha logrado sobrevivir en este mundo apocalíptico. Ella les entrega una carta de Meme Oshino que contiene las instrucciones para restaurar la línea temporal original. El encuentro obliga a Araragi a reflexionar sobre el peso de sus decisiones y el valor de las tragedias que forman nuestra identidad.",
+        "released": "2013-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j5hmjXp2eXxdfIYAwbRmwdmzrYH.jpg"
+      },
+      {
+        "id": "tt1480925:3:10",
+        "title": "Medusa Nadeko, Parte 1",
+        "season": 3,
+        "episode": 10,
+        "overview": "La historia se traslada a Nadeko Sengoku, quien comienza a ver alucinaciones de serpientes blancas por toda la escuela. Un día, una serpiente que dice ser una deidad llamada Kuchinawa se le aparece y le pide un favor: recuperar su cuerpo físico que está sellado en algún lugar de la ciudad. Nadeko, sintiéndose culpable por eventos pasados, acepta la misión sin saber las consecuencias.",
+        "released": "2013-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vPGucTMdvpkzYspgM5cshaRRe0z.jpg"
+      },
+      {
+        "id": "tt1480925:3:11",
+        "title": "Medusa Nadeko, Parte 2",
+        "season": 3,
+        "episode": 11,
+        "overview": "Nadeko continúa su búsqueda de los restos del cuerpo de Kuchinawa en la escuela. A medida que avanza, su estado mental se vuelve más inestable, revelando que su fachada de \"niña buena\" esconde un profundo resentimiento hacia quienes la rodean, especialmente hacia Araragi y su relación con otras chicas.",
+        "released": "2013-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cKDkIqRxSU1lVfuTCIeVeTRiKot.jpg"
+      },
+      {
+        "id": "tt1480925:3:12",
+        "title": "Medusa Nadeko, Parte 3",
+        "season": 3,
+        "episode": 12,
+        "overview": "Tras encontrar el talismán sagrado en el santuario, Nadeko toma una decisión irreversible impulsada por los celos y el deseo de ser amada. Al consumir el objeto, se transforma en una poderosa y aterradora deidad serpiente, convirtiéndose en una amenaza mortal incluso para Koyomi y Shinobu.",
+        "released": "2013-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5GvpPa2z8YoUQHJJpkFDjkChCuS.jpg"
+      },
+      {
+        "id": "tt1480925:3:13",
+        "title": "Medusa Nadeko, Parte 4",
+        "season": 3,
+        "episode": 13,
+        "overview": "Koyomi intenta detener a la nueva deidad, pero es derrotado fácilmente por el abrumador poder de Nadeko. Justo antes de un desenlace trágico, Senjougahara interviene telefónicamente y negocia una tregua: Nadeko esperará hasta el día de la graduación para matarlos a todos, dándoles un tiempo precioso para buscar una solución.",
+        "released": "2013-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c0B9mh59sNcXt7gNLsajOBKLL8I.jpg"
+      },
+      {
+        "id": "tt1480925:3:14",
+        "title": "Tiempo Shinobu, Parte 1",
+        "season": 3,
+        "episode": 14,
+        "overview": "Koyomi y Mayoi son perseguidos por una entidad oscura e indescriptible conocida como \"La Oscuridad\". Mientras huyen desesperadamente, se refugian en las ruinas de la escuela donde Shinobu explica que esta entidad no es una excentricidad, sino un fenómeno natural que aparece para borrar aquello que no cumple con su propósito original.",
+        "released": "2013-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nIEu0zLGJTFpMQzoPK8niZkHnvl.jpg"
+      },
+      {
+        "id": "tt1480925:3:15",
+        "title": "Tiempo Shinobu, Parte 2",
+        "season": 3,
+        "episode": 15,
+        "overview": "Shinobu relata su primer encuentro con \"La Oscuridad\" hace cuatrocientos años, cuando ella era adorada como una deidad en Japón. La historia revela el trágico destino de su primer servidor y cómo la entidad la persiguió por no actuar como un verdadero vampiro, estableciendo un paralelismo con la situación actual de Mayoi.",
+        "released": "2013-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/geBvO9e3rkA9DbLTbO12t24az7c.jpg"
+      },
+      {
+        "id": "tt1480925:3:16",
+        "title": "Tiempo Shinobu, Parte 3",
+        "season": 3,
+        "episode": 16,
+        "overview": "Bajo la presión de la entidad perseguidora, Gaen Izuko aparece para explicar la verdad definitiva: \"La Oscuridad\" está cazando a Mayoi Hachikuji porque ella ya no está cumpliendo su función de \"caracol perdido\" al haber dejado de hacer que la gente se pierda. El grupo debe enfrentar una despedida inevitable para salvar la existencia de los demás.",
+        "released": "2013-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2qzhWxEJ4VXGc2tLk1w1hEQZTNW.jpg"
+      },
+      {
+        "id": "tt1480925:3:17",
+        "title": "Tiempo Shinobu, Parte 4",
+        "season": 3,
+        "episode": 17,
+        "overview": "En un final melancólico, Mayoi decide aceptar su destino para proteger a Koyomi y evitar que la entidad destruya todo a su paso. Tras una despedida cargada de emoción, Araragi debe lidiar con la pérdida de uno de sus vínculos más cercanos, mientras las piezas para el conflicto final con Nadeko comienzan a moverse.",
+        "released": "2013-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6PXBBPmaiyqn0IsqqekAV3SkDv7.jpg"
+      },
+      {
+        "id": "tt1480925:3:18",
+        "title": "Final Hitagi, Parte 1",
+        "season": 3,
+        "episode": 18,
+        "overview": "Senjougahara toma una medida desesperada para salvar su vida y la de Araragi: contactar al estafador Kaiki Deishuu. Le ofrece una suma de dinero para que use sus habilidades de engaño y logre \"estafar\" a la deidad Nadeko Sengoku, convenciéndola de que deje de ser una diosa y regrese a ser humana.",
+        "released": "2013-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lu3csKUwRaVIzpua0GV5c30jRcd.jpg"
+      },
+      {
+        "id": "tt1480925:3:19",
+        "title": "Final Hitagi, Parte 2",
+        "season": 3,
+        "episode": 19,
+        "overview": "Kaiki llega a la ciudad y comienza su investigación sobre Nadeko, visitando el santuario diariamente como un fiel seguidor. A través de sus observaciones cínicas, empieza a desmantelar la psicología de la niña-diosa, buscando el ángulo perfecto para introducir su mentira sin ser descubierto por los poderes divinos de Nadeko.",
+        "released": "2013-12-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hB03Io05lLN9yxZr5YwEWftO5ob.jpg"
+      },
+      {
+        "id": "tt1480925:3:20",
+        "title": "Final Hitagi, Parte 3",
+        "season": 3,
+        "episode": 20,
+        "overview": "Mientras planea su estafa, Kaiki es advertido por figuras del pasado, incluyendo a Ononoki y Gaen, para que abandone la ciudad. Sin embargo, por razones que él mismo se niega a admitir como altruistas, decide continuar con el plan, arriesgando su vida en un juego de palabras contra una deidad caprichosa.",
+        "released": "2013-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/diJjsD18SiBc2I6zP06tPKXZVST.jpg"
+      },
+      {
+        "id": "tt1480925:3:21",
+        "title": "Final Hitagi, Parte 4",
+        "season": 3,
+        "episode": 21,
+        "overview": "Kaiki descubre el verdadero secreto que Nadeko esconde en su habitación, un secreto que ella valora más que su propia divinidad. Este descubrimiento le da el arma definitiva para su engaño. Mientras tanto, mantiene informada a Senjougahara, cuya ansiedad por el destino de Araragi pone a prueba la paciencia del estafador.",
+        "released": "2013-12-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9TA8acQjR7JddCGbD8Zc4GcZXIr.jpg"
+      },
+      {
+        "id": "tt1480925:3:22",
+        "title": "Final Hitagi, Parte 5",
+        "season": 3,
+        "episode": 22,
+        "overview": "El plan de Kaiki entra en su fase final. Se enfrenta a Nadeko en el santuario, utilizando una combinación de verdades dolorosas y mentiras elaboradas. La tensión alcanza su punto máximo cuando Araragi aparece inesperadamente, amenazando con arruinar el delicado equilibrio que Kaiki ha construido para salvarlos a todos.",
+        "released": "2013-12-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lQU8EmIwubQuzB6wipuXuYNHmPW.jpg"
+      },
+      {
+        "id": "tt1480925:3:23",
+        "title": "Final Hitagi, Parte 6",
+        "season": 3,
+        "episode": 23,
+        "overview": "En el enfrentamiento definitivo, Kaiki logra exponer la verdad sobre las aspiraciones humanas de Nadeko, obligándola a renunciar a su divinidad. El conflicto se resuelve no con magia, sino con una cruda lección sobre la realidad y la madurez. Kaiki abandona la ciudad tras cumplir su misión, dejando un rastro de incertidumbre sobre su propio destino final.",
+        "released": "2013-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zwB1cDHRipKdB9dyoHjTsmhHXRh.jpg"
+      },
+      {
+        "id": "tt1480925:4:1",
+        "title": "Fórmula Ougi",
+        "season": 4,
+        "episode": 1,
+        "overview": "Koyomi Araragi conoce a la misteriosa Ougi Oshino, quien lo guía a un aula que no debería existir. Al quedar atrapados, Koyomi debe resolver un enigma matemático de su pasado relacionado con un voto injusto en una asamblea de clase, enfrentando la culpabilidad que ha cargado durante dos años.",
+        "released": "2015-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/unJbIowRyURiaO7TUm18MODTBZP.jpg"
+      },
+      {
+        "id": "tt1480925:4:2",
+        "title": "Acertijo Sodachi, Parte 1",
+        "season": 4,
+        "episode": 2,
+        "overview": "Sodachi Oikura regresa a la escuela con un odio profundo hacia Araragi. Mientras Koyomi intenta entender este desprecio, Ougi lo ayuda a navegar por sus recuerdos de la infancia para encontrar el vínculo olvidado que lo une a su antigua compañera.",
+        "released": "2015-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tOl5dKthMIMH2s6ZXneTfkonihE.jpg"
+      },
+      {
+        "id": "tt1480925:4:3",
+        "title": "Acertijo Sodachi, Parte 2",
+        "season": 4,
+        "episode": 3,
+        "overview": "Araragi visita la casa de Sodachi para confrontar su pasado. La conversación revela la tragedia familiar de Oikura y cómo la ayuda que Koyomi intentó brindarle años atrás fue interpretada como una traición imperdonable.",
+        "released": "2015-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4k6SVSOgpnf880mHPOLGQrn4lXz.jpg"
+      },
+      {
+        "id": "tt1480925:4:4",
+        "title": "Pérdida Sodachi, Parte 1",
+        "season": 4,
+        "episode": 4,
+        "overview": "Con el apoyo de Hanekawa, Araragi investiga la desaparición de la madre de Sodachi. La búsqueda los lleva a descubrir la cruda realidad sobre el entorno en el que vivía Oikura, desvelando el misterio de su miseria actual.",
+        "released": "2015-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rZIm4Xd0Vdql0Wne0h22acdaxSN.jpg"
+      },
+      {
+        "id": "tt1480925:4:5",
+        "title": "Pérdida Sodachi, Parte 2",
+        "season": 4,
+        "episode": 5,
+        "overview": "Se revela el destino final de la madre de Sodachi. Araragi comprende que no puede salvar a todos y permite que Sodachi abandone la ciudad para buscar un nuevo comienzo, libre de su antiguo resentimiento.",
+        "released": "2015-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9WjclzkLBHgISBJ52vhNWrY6N9.jpg"
+      },
+      {
+        "id": "tt1480925:4:6",
+        "title": "Armadura Shinobu, Parte 1",
+        "season": 4,
+        "episode": 6,
+        "overview": "Koyomi se encuentra con una excentricidad que viste una armadura samurái: el primer servidor de Kiss-shot. Tras 400 años, esta entidad ha regresado para reclamar la espada Kokorowatari y su lugar junto a la vampira.",
+        "released": "2015-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j6iKaPVSSLNzr2hOgD9aRlhop8n.jpg"
+      },
+      {
+        "id": "tt1480925:4:7",
+        "title": "Armadura Shinobu, Parte 2",
+        "season": 4,
+        "episode": 7,
+        "overview": "Gaen Izuko interviene para explicar el origen del samurái, una manifestación de cenizas y arrepentimiento. Mientras Shinobu se niega a verlo, Koyomi debe decidir cómo lidiar con esta sombra del pasado de su compañera.",
+        "released": "2015-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k7T7XERBRin7qH1n7DzeN3NCz8n.jpg"
+      },
+      {
+        "id": "tt1480925:4:8",
+        "title": "Armadura Shinobu, Parte 3",
+        "season": 4,
+        "episode": 8,
+        "overview": "Gaen propone un duelo para resolver la disputa por la espada sagrada. Araragi acepta representar a Shinobu, dándose cuenta de que Ougi Oshino está manipulando la información detrás de escena para forzar el conflicto.",
+        "released": "2015-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lcYDjG0BXvAWlUd5mJkvVwvjh8V.jpg"
+      },
+      {
+        "id": "tt1480925:4:9",
+        "title": "Armadura Shinobu, Parte 4",
+        "season": 4,
+        "episode": 9,
+        "overview": "Se profundiza en la historia de Shinobu en el Japón antiguo. El duelo entre Araragi y el samurái comienza, poniendo a prueba no solo su fuerza, sino la legitimidad de su vínculo actual con la vampira frente al pasado.",
+        "released": "2015-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hRKJbvWnhikB1JlqwA769pK814j.jpg"
+      },
+      {
+        "id": "tt1480925:4:10",
+        "title": "Armadura Shinobu, Parte 5",
+        "season": 4,
+        "episode": 10,
+        "overview": "El enfrentamiento físico llega a su fin. A pesar de la superioridad de la excentricidad, Koyomi logra una victoria estratégica, preparando el camino para un encuentro final entre los dos servidores de Kiss-shot.",
+        "released": "2015-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gkVKvJcsbh6UFRkfu41J4N70BzI.jpg"
+      },
+      {
+        "id": "tt1480925:4:11",
+        "title": "Armadura Shinobu, Parte 6",
+        "season": 4,
+        "episode": 11,
+        "overview": "Shinobu finalmente confronta a su primer servidor, permitiéndole descansar al consumirlo. La paz regresa temporalmente, pero Araragi queda inquieto ante el papel que jugó Ougi en todo el incidente.",
+        "released": "2015-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zwtfdCUXB1usWmhB0d082kxVzlB.jpg"
+      },
+      {
+        "id": "tt1480925:4:12",
+        "title": "Koyomi Muerto",
+        "season": 4,
+        "episode": 12,
+        "overview": "En la víspera de sus exámenes de ingreso a la universidad, Araragi nota que su reflejo en el espejo ha desaparecido por completo. Al buscar a Gaen Izuko en el santuario para solucionar su pérdida de humanidad, se encuentra con una emboscada fatal que pone un final abrupto y trágico a su vida escolar.",
+        "released": "2015-12-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dWdgzCG58Yv7ug9Z5VTY0W5jaFm.jpg"
+      },
+      {
+        "id": "tt1480925:5:1",
+        "title": "Tsugimonogatari, Parte 1",
+        "season": 5,
+        "episode": 1,
+        "overview": "Tsukihi Araragi se encuentra en una situación inusual cuando Yotsugi Ononoki comienza a actuar de manera extraña en su casa. El episodio explora la dinámica entre la \"imitación\" y la \"muñeca\", mientras Tsukihi intenta navegar por un día cotidiano que se vuelve sutilmente sobrenatural, cuestionando la naturaleza de su propia existencia.",
+        "released": "2024-07-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zASngvqGGoxc7j4g9WgK5CZsGpH.jpg"
+      },
+      {
+        "id": "tt1480925:5:2",
+        "title": "Nadekomonogatari, Parte 1",
+        "season": 5,
+        "episode": 2,
+        "overview": "Nadeko Sengoku, ahora dedicada a su sueño de ser dibujante de manga, se enfrenta a un nuevo problema: ha creado \"clones\" de sus personalidades pasadas mediante un ritual que salió mal. Debe trabajar junto a Ononoki para capturar a sus versiones infantiles y divinas antes de que causen un caos irreversible en la ciudad.",
+        "released": "2024-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lBLGhEpAzcqozX9nflpYaPVq3Bu.jpg"
+      },
+      {
+        "id": "tt1480925:5:3",
+        "title": "Nadekomonogatari, Parte 2",
+        "season": 5,
+        "episode": 3,
+        "overview": "Nadeko persigue a su versión \"Diosa Serpiente\", confrontando directamente el trauma de su pasado en el santuario. A través de este encuentro, Nadeko demuestra cuánto ha crecido emocionalmente, utilizando su ingenio en lugar de su victimismo para resolver el conflicto con sus propias sombras.",
+        "released": "2024-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7eT8dFQgynyD2MKjf0ZDUlsiZaE.jpg"
+      },
+      {
+        "id": "tt1480925:5:4",
+        "title": "Nadekomonogatari, Parte 3",
+        "season": 5,
+        "episode": 4,
+        "overview": "El enfrentamiento con las múltiples Nadekos llega a su fin. Nadeko debe aceptar todas sus facetas, incluso las más oscuras, para poder integrarlas en su arte y en su vida diaria. Es un cierre vital para su arco de redención y crecimiento personal.",
+        "released": "2024-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cmSzc7Epo9hEEA2INqXhRgnZX6f.jpg"
+      },
+      {
+        "id": "tt1480925:5:5",
+        "title": "Nadekomonogatari, Parte 4",
+        "season": 5,
+        "episode": 5,
+        "overview": "Tras capturar a todas sus versiones, Nadeko reflexiona sobre su futuro como artista. El episodio cierra este arco mostrando su nueva determinación y la extraña pero sólida amistad que ha formado con Yotsugi, estableciendo un nuevo status quo para ella.",
+        "released": "2024-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jm2X5FkId2vz2FNPFc4mzX1R3bQ.jpg"
+      },
+      {
+        "id": "tt1480925:5:6",
+        "title": "Nadekomonogatari, Parte 5",
+        "season": 5,
+        "episode": 6,
+        "overview": "Epílogo del arco de Nadeko donde se exploran las consecuencias a largo plazo de sus acciones. Nadeko recibe una lección final sobre la responsabilidad de sus creaciones, tanto en el papel como en el mundo de las excentricidades.",
+        "released": "2024-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ylLMzUEgKvYkgJA1NHhtDxPGNYZ.jpg"
+      },
+      {
+        "id": "tt1480925:5:7",
+        "title": "Shinobumonogatari, Parte 1",
+        "season": 5,
+        "episode": 7,
+        "overview": "Koyomi Araragi, ahora universitario, se ve involucrado en un nuevo caso cuando varias chicas de su antigua preparatoria desaparecen. Las sospechas recaen sobre una excentricidad vampírica antigua, lo que obliga a Shinobu a retomar su papel como experta en la materia para proteger a los humanos.",
+        "released": "2024-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uDwd1AyWUTGHFxl0y58ADrUetj2.jpg"
+      },
+      {
+        "id": "tt1480925:5:8",
+        "title": "Shinobumonogatari, Parte 2",
+        "season": 5,
+        "episode": 8,
+        "overview": "La investigación lleva a Araragi y Shinobu a encontrarse con Deathtopia Virtuoso Suicide-Master, el vampiro que convirtió originalmente a Kiss-shot. La tensión aumenta cuando se revelan los motivos detrás de las desapariciones y la conexión con el pasado sangriento de Shinobu.",
+        "released": "2024-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gU0imXn792QJh0HMs2HbueCtJF5.jpg"
+      },
+      {
+        "id": "tt1480925:5:9",
+        "title": "Shinobumonogatari, Parte 3",
+        "season": 5,
+        "episode": 9,
+        "overview": "Koyomi debe actuar como mediador entre dos de los vampiros más poderosos de la historia. El episodio profundiza en la jerarquía de las excentricidades y el precio que se debe pagar por mantener la paz en un mundo que ya no pertenece a los monstruos.",
+        "released": "2024-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3rzwfWDcXAiTV9GVbZhKNGNHXQ6.jpg"
+      },
+      {
+        "id": "tt1480925:5:10",
+        "title": "Shinobumonogatari, Parte 4",
+        "season": 5,
+        "episode": 10,
+        "overview": "El misterio de las estudiantes desaparecidas se resuelve con un giro inesperado que involucra la envidia y la admiración. Araragi utiliza su experiencia acumulada para evitar un baño de sangre, demostrando que su madurez universitaria ha refinado sus métodos de resolución de problemas.",
+        "released": "2024-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dDrQkVOb0xtDwQYa62ivpYPDc1g.jpg"
+      },
+      {
+        "id": "tt1480925:5:11",
+        "title": "Shinobumonogatari, Parte 5",
+        "season": 5,
+        "episode": 11,
+        "overview": "Shinobu enfrenta las últimas consecuencias de su reencuentro con su creador. Es un episodio de reflexión sobre la inmortalidad y los lazos que perduran a través de los siglos, cerrando uno de los capítulos más personales para la pequeña vampiresa.",
+        "released": "2024-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gG2Qc5wY7f5dEyQKxW3mcYNJd8Z.jpg"
+      },
+      {
+        "id": "tt1480925:5:12",
+        "title": "Shinobumonogatari, Parte 6",
+        "season": 5,
+        "episode": 12,
+        "overview": "Conclusión del arco donde se restauran las desapariciones y se establece una nueva tregua entre los especialistas de la ciudad. Araragi regresa a su vida de estudiante, consciente de que su vínculo con Shinobu sigue evolucionando incluso después de la graduación.",
+        "released": "2024-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9QQM0M31X3m4VuS0Cn8zXfA2hMM.jpg"
+      },
+      {
+        "id": "tt1480925:5:13",
+        "title": "Musubimonogatari, Parte 1",
+        "season": 5,
+        "episode": 13,
+        "overview": "Cinco años después de la graduación, Araragi trabaja ahora en el departamento de policía encargado de casos sobrenaturales. Debe investigar un incidente que lo lleva a reencontrarse con viejas amistades, evaluando cómo el tiempo ha cambiado sus relaciones y sus perspectivas de vida.",
+        "released": "2024-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3wfKhBsGR5NbrAE1OpsHcPMfi6V.jpg"
+      },
+      {
+        "id": "tt1480925:5:14",
+        "title": "Musubimonogatari, Parte 2",
+        "season": 5,
+        "episode": 14,
+        "overview": "En el gran cierre de temporada, Araragi debe tomar decisiones definitivas sobre su carrera y su relación con Hitagi Senjougahara. Es una conclusión cargada de nostalgia y realismo que cierra los hilos pendientes de la juventud de los protagonistas, abriendo paso a su vida adulta definitiva.",
+        "released": "2024-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6iCTB3Ek8gchOMKAISXFDu7AYKe.jpg"
+      },
+      {
+        "id": "tt1480925:5:15",
+        "title": "Episodio 15",
+        "season": 5,
+        "episode": 15,
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bQ0DO5WbtqRJzCukcwxnrZ3ogiZ.jpg"
+      }
+    ]
+  }
+}

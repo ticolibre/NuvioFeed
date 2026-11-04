@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt2226495",
+    "type": "movie",
+    "name": "Not Safe for Work",
+    "poster": "https://image.tmdb.org/t/p/w500/z1yRp4QP7NNlgNSPxid3m0SGuP5.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/iK2SHkEQ3iNmjuyM4mmuKV9eG40.jpg",
+    "description": "An unsuspecting office worker, Tom Miller, becomes trapped in his office building with a demented killer.",
+    "releaseInfo": "2014",
+    "genres": [
+      "Suspense",
+      "Acción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "5.5"
+        }
+      }
+    }
+  }
+}

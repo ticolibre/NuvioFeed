@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0086661",
+    "type": "series",
+    "name": "Sherlock Holmes",
+    "poster": "https://image.tmdb.org/t/p/w500/mVmGmdfdWxVZ2vSbC8De0UG5QJW.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/klhQxNtnmFg1sqD6N83gT52KX7f.jpg",
+    "description": "Sherlock Holmes uses his abilities to take on cases by private clients and those that the Scotland Yard are unable to solve, along with his friend Dr. Watson.",
+    "releaseInfo": "1984",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    }
+  }
+}

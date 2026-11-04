@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt1756855",
+    "type": "movie",
+    "name": "Coyote vs. Acme",
+    "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+    "posterShape": "poster",
+    "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Comedia",
+      "Aventura",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

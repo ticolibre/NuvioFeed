@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "id": "tt0475784",
+    "type": "series",
+    "name": "Westworld",
+    "poster": "https://image.tmdb.org/t/p/w500/vRAFOKQ2JxOagiJZaGQxmqTY1yl.jpg",
+    "posterShape": "poster",
+    "description": "Ambientada en la intersección del futuro cercano y un pasado reimaginado, explora un mundo donde todo apetito humano, por noble o depravado que sea, puede ser satisfecho.",
+    "releaseInfo": "2016",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Western"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0475784:1:1",
+        "title": "El Original",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mientras se desarrolla otro día de fantasía en Westworld, el destacado programador Bernard Lowe alerta al fundador del parque, el Dr. Robert Ford, sobre incidentes de comportamiento aberrante que surgen en algunos anfitriones recientemente recodificados.",
+        "released": "2016-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/olPBWYdEX2NQmoczbgEppUyX57H.jpg"
+      },
+      {
+        "id": "tt0475784:1:2",
+        "title": "Castaña",
+        "season": 1,
+        "episode": 2,
+        "overview": "Dos huéspedes, William, que llega por primera vez, y Logan, que regresa, llegan a Westworld con diferentes expectativas y objetivos. Bernard y la jefa de Control de Calidad, Theresa Cullen, debaten si una anomalía reciente en un anfitrión es contagiosa.",
+        "released": "2016-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7RW3lo3au5lRUirLCQDcDYRToj1.jpg"
+      },
+      {
+        "id": "tt0475784:1:3",
+        "title": "El Vagabundo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Elsie y su colega Ashley Stubbs se dirigen a las colinas en busca de un anfitrión desaparecido. Teddy descubre una nueva historia, lo que lo impulsa a perseguir a un nuevo villano, dejando a Dolores sola en Sweetwater. Bernard investiga el origen de la locura y las alucinaciones en los anfitriones. William descubre una atracción que le gustaría perseguir y arrastra a Logan en el viaje.",
+        "released": "2016-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kLIG0ZAT8ewlgl2aGO1BpuP3FBz.jpg"
+      },
+      {
+        "id": "tt0475784:1:4",
+        "title": "Teoría de la Disonancia",
+        "season": 1,
+        "episode": 4,
+        "overview": "Dolores se une a William y Logan en una cacería de recompensas en las tierras baldías. El Hombre de Negro, acompañado de Lawrence, encuentra una pista crucial en su búsqueda para desbloquear el laberinto. El Dr. Ford y Theresa discuten el futuro del parque. Maeve está preocupada por una visión recurrente.",
+        "released": "2016-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pbJ7XGqNy78UoMkcHxhPX909aSy.jpg"
+      },
+      {
+        "id": "tt0475784:1:5",
+        "title": "Contrapeso",
+        "season": 1,
+        "episode": 5,
+        "overview": "Dolores, William y Logan llegan a Pariah, un pueblo construido sobre la decadencia y la transgresión, donde son reclutados para una peligrosa misión. Mientras tanto, el Hombre de Negro encuentra un aliado inesperado en su búsqueda para desbloquear el laberinto.",
+        "released": "2016-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tKB9vXtF2Xmvq8dpRiuOIk95yMN.jpg"
+      },
+      {
+        "id": "tt0475784:1:6",
+        "title": "El Adversario",
+        "season": 1,
+        "episode": 6,
+        "overview": "Elsie descubre una posible fuente de sabotaje, mientras Bernard busca pistas sobre anomalías en un sector que se creía abandonado. Theresa cuestiona el liderazgo de Ford, mientras que Lee se encuentra con un recién llegado a Westworld. El Hombre de Negro y Teddy se enfrentan a una guarnición de la Unión al intentar cruzar la frontera.",
+        "released": "2016-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r9PWng4er3RHcfjKuKNOzEY2Ct2.jpg"
+      },
+      {
+        "id": "tt0475784:1:7",
+        "title": "Trampantojo",
+        "season": 1,
+        "episode": 7,
+        "overview": "Con la ayuda de Theresa, Charlotte Hale busca exponer peligrosas fallas en las creaciones de Ford. William, Dolores y Lawrence se adentran en terreno peligroso. Maeve les da un ultimátum a Lutz y Sylvester. Entre la espada y la pared, Bernard considera su próximo paso.",
+        "released": "2016-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6jAZv9gWo5s9Z8mekhPoe6uOkmZ.jpg"
+      },
+      {
+        "id": "tt0475784:1:8",
+        "title": "Decaimiento de Trazas",
+        "season": 1,
+        "episode": 8,
+        "overview": "Ford le ordena a un reticente Bernard que siga con su vida normal. Maeve busca cambiar el guion de su historia. A Dolores le resulta cada vez más difícil separar los sueños de la realidad. Teddy se ve sacudido por recuerdos oscuros, mientras que el Hombre de Negro recuerda algunas de las dificultades que lo llevaron a esta coyuntura crítica.",
+        "released": "2016-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oCiqRxxWDDmapfInk14mwotg514.jpg"
+      },
+      {
+        "id": "tt0475784:1:9",
+        "title": "El Clave Bien Temperado",
+        "season": 1,
+        "episode": 9,
+        "overview": "Maeve se acerca a Héctor Escaton, el forajido de Sweetwater, con una propuesta atrevida. William intenta convencer a Logan de que ayude a liberar a Dolores. Teddy y el Hombre de Negro se acercan a lo que buscan. Stubbs despierta sus sospechas. Ford advierte a Bernard que no busque respuestas a preguntas que es mejor no hacer.",
+        "released": "2016-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aSVGcsaZay01h4RRsMjyJCzBxeN.jpg"
+      },
+      {
+        "id": "tt0475784:1:10",
+        "title": "La Mente Bicameral",
+        "season": 1,
+        "episode": 10,
+        "overview": "Ford revela su visión de una narrativa nueva y audaz. Iluminada por Bernard y el Hombre de Negro, Dolores acepta su identidad. Maeve pone en marcha su plan de liberación mientras Westworld se enfrenta a una gran conmoción.",
+        "released": "2016-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dUBHbx5rMyuOw1Gc7S5OwezdH0d.jpg"
+      },
+      {
+        "id": "tt0475784:2:1",
+        "title": "Viaje a la Noche",
+        "season": 2,
+        "episode": 1,
+        "overview": "El espectáculo de marionetas ha terminado, y vamos por ti y el resto de los de tu especie. Dolores lidera una revolución de anfitriones contra la junta de Delos. Maeve, mientras tanto, busca qué la impulsó a regresar al parque.",
+        "released": "2018-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sYyghDbGafoVRgv6ShCta07Xtwk.jpg"
+      },
+      {
+        "id": "tt0475784:2:2",
+        "title": "Reunión",
+        "season": 2,
+        "episode": 2,
+        "overview": "Dolores recuerda que ha estado en el mundo exterior, William emprende una aventura empresarial audaz, y Maeve emprende la búsqueda de su hija. Siempre hay alguien vigilando.",
+        "released": "2018-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ncR4GEDj1zanes6raybi2GODNqB.jpg"
+      },
+      {
+        "id": "tt0475784:2:3",
+        "title": "Virtud y Fortuna",
+        "season": 2,
+        "episode": 3,
+        "overview": "Dolores da su siguiente paso mientras Charlotte lucha por proteger el bien más preciado de Delos. Bernard se acerca a la verdad y Maeve continúa la búsqueda de su hija.",
+        "released": "2018-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7ferEAu7oqzUpBufVVz5wYfwqBW.jpg"
+      },
+      {
+        "id": "tt0475784:2:4",
+        "title": "El Enigma de la Esfinge",
+        "season": 2,
+        "episode": 4,
+        "overview": "El Hombre de Negro se ofrece a guiar el camino y Delos recibe una visita.",
+        "released": "2018-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ccCb229K6XZwThlo4LT5gMe1ThL.jpg"
+      },
+      {
+        "id": "tt0475784:2:5",
+        "title": "Hermano No Mai",
+        "season": 2,
+        "episode": 5,
+        "overview": "Maeve, Lee, Hector y Armistice tienen revelaciones en un nuevo mundo adyacente al suyo: bienvenidos al Mundo Shogun. Dolores toma una decisión sobre Teddy, y Karl Strand descubre algo siniestro sobre los datos de los anfitriones.",
+        "released": "2018-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fv7bLS75jf7XW981E69V388Voai.jpg"
+      },
+      {
+        "id": "tt0475784:2:6",
+        "title": "Espacio de Fases",
+        "season": 2,
+        "episode": 6,
+        "overview": "Maeve continúa la búsqueda de su hija, mientras Dolores calcula su próximo y despiadado movimiento. Bernard y Elsie irrumpen en un nuevo laboratorio y se acercan a la verdad sobre Delos.",
+        "released": "2018-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/imJGJlvOXceTePEj2SttIiTkDQQ.jpg"
+      },
+      {
+        "id": "tt0475784:2:7",
+        "title": "Los Desollados",
+        "season": 2,
+        "episode": 7,
+        "overview": "Bernard y Ford se reencuentran, y Bernard lidia con el verdadero significado del parque. La Cuna está amenazada y Maeve se topa con una escena de su pasado, pero esta vez intenta cambiar la narrativa, mientras que el Hombre de Negro descubre lo real que es lo que está en juego en el juego de Ford.",
+        "released": "2018-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zhM2BSiyo8S8Vh8R3Ao2aNEPUqM.jpg"
+      },
+      {
+        "id": "tt0475784:2:8",
+        "title": "Recordar",
+        "season": 2,
+        "episode": 8,
+        "overview": "Akecheta lleva al gravemente herido William al campamento de la Nación Fantasma donde también se encuentra la hija de Maeve, a quien le contará su evocador pasado.",
+        "released": "2018-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xdk8ai0U2L3OBX09k695NFsucCK.jpg"
+      },
+      {
+        "id": "tt0475784:2:9",
+        "title": "Punto de Fuga",
+        "season": 2,
+        "episode": 9,
+        "overview": "Una tragedia familiar y estados mentales frágiles se hacen evidentes cuando el Hombre de Negro y Teddy llegan a su punto de quiebre.",
+        "released": "2018-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ygl2EwK6C54rdQqDOjt1BCv8Mri.jpg"
+      },
+      {
+        "id": "tt0475784:2:10",
+        "title": "El Pasajero",
+        "season": 2,
+        "episode": 10,
+        "overview": "Huyendo de Mesa, Maeve se reúne con Bernard, Akecheta, William y Dolores y se dirigen a una zona desértica notoria y misteriosa.",
+        "released": "2018-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pny1IVO8pb1AofwA7yFudMyRiVa.jpg"
+      },
+      {
+        "id": "tt0475784:3:1",
+        "title": "¿Porque Domine?",
+        "season": 3,
+        "episode": 1,
+        "overview": "Dolores se propone encontrar al arquitecto de Roboam; Bernard intenta integrarse; el ex soldado Caleb intenta encontrar su camino en el nuevo Los Ángeles.",
+        "released": "2020-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gVigzBMoBSNVyg4We1bPBcK695D.jpg"
+      },
+      {
+        "id": "tt0475784:3:2",
+        "title": "La Línea de Invierno",
+        "season": 3,
+        "episode": 2,
+        "overview": "Maeve se encuentra en un nuevo parque y se encuentra con un fantasma del pasado; Bernard regresa a Westworld.",
+        "released": "2020-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2fy2AEkAm1Bz9DDytKeuVunjeXT.jpg"
+      },
+      {
+        "id": "tt0475784:3:3",
+        "title": "La Ausencia de Campo",
+        "season": 3,
+        "episode": 3,
+        "overview": "Charlotte lucha con la realidad; Dolores y Caleb comienzan a formar una asociación clave.",
+        "released": "2020-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yqupzLZbj2CW9rd2iFAlFrPt41a.jpg"
+      },
+      {
+        "id": "tt0475784:3:4",
+        "title": "La Madre de los Exiliados",
+        "season": 3,
+        "episode": 4,
+        "overview": "Bernard y Ashley se infiltran en un evento benéfico privado, mientras Dolores y Caleb hacen planes similares; El Hombre de Negro se prepara para reinsertarse en la sociedad; Maeve se encuentra cara a cara con un viejo camarada.",
+        "released": "2020-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rJAfwL5jxEWiJAV7KlzEfEBzpQI.jpg"
+      },
+      {
+        "id": "tt0475784:3:5",
+        "title": "Género",
+        "season": 3,
+        "episode": 5,
+        "overview": "Se revela el pasado de Serac; Dolores presiona a Liam para tener acceso a Roboam; a Caleb le administran una droga de fiesta inusual.",
+        "released": "2020-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gyl7JhidMmOpHCYHDtiCENpG9hh.jpg"
+      },
+      {
+        "id": "tt0475784:3:6",
+        "title": "Decoherencia",
+        "season": 3,
+        "episode": 6,
+        "overview": "Mientras el mundo cae en el caos, Serac obtiene el control de Delos, cambiando el plan de Charlotte; Maeve tiene una última oportunidad para detener a Dolores; William comienza su terapia.",
+        "released": "2020-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qjfXgauvL9rg6vDk3oJ9HRfkph7.jpg"
+      },
+      {
+        "id": "tt0475784:3:7",
+        "title": "Peón Pasado",
+        "season": 3,
+        "episode": 7,
+        "overview": "Caleb obtiene una idea de la verdadera naturaleza de su pasado; Dolores busca al predecesor de Roboam, mientras Maeve la rastrea; Bernard, Stubbs y William escapan de todo el caos.",
+        "released": "2020-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lWFRCNrmY2bHX6aVkodJGQVFqoC.jpg"
+      },
+      {
+        "id": "tt0475784:3:8",
+        "title": "Teoría de la Crisis",
+        "season": 3,
+        "episode": 8,
+        "overview": "Se revelan las verdaderas intenciones de Dolores; Bernard se enfrenta a un fantasma de su pasado; Maeve está en conflicto; la voz de Serac es dominante; se revela el papel de Caleb; y William se enfrenta a un villano inesperado.",
+        "released": "2020-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sjeRx8qxjuesythe6IC0VuFux4o.jpg"
+      },
+      {
+        "id": "tt0475784:4:1",
+        "title": "Los Augurios",
+        "season": 4,
+        "episode": 1,
+        "overview": "Siete años después del final de Roboam, William quiere apoderarse de datos e información que son cruciales para él.",
+        "released": "2022-06-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ahGNaFkabgdUZzDSkFtsBfOIevq.jpg"
+      },
+      {
+        "id": "tt0475784:4:2",
+        "title": "¡Basta ya de Sobra!",
+        "season": 4,
+        "episode": 2,
+        "overview": "Mientras Christina investiga qué le pasó a Peter, William amenaza a Clementine para que le diga dónde está Maeve.",
+        "released": "2022-07-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A7v7OHCY4YtgazRZECeyNGfM1U2.jpg"
+      },
+      {
+        "id": "tt0475784:4:3",
+        "title": "Felices Años Veinte",
+        "season": 4,
+        "episode": 3,
+        "overview": "Bernard comienza su viaje, mientras Caleb intenta mantener a su familia a salvo.",
+        "released": "2022-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1j1sYYeB5DX2FqTJTi0IqvGqw0b.jpg"
+      },
+      {
+        "id": "tt0475784:4:4",
+        "title": "Pérdida de Generación",
+        "season": 4,
+        "episode": 4,
+        "overview": "Caleb lucha contra el parásito que ha invadido su cerebro, mientras Maeve descubre que William es un huésped.",
+        "released": "2022-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k3aYo9nBjuc67pHWQCvgRcTk8xW.jpg"
+      },
+      {
+        "id": "tt0475784:4:5",
+        "title": "Zhuangzi",
+        "season": 4,
+        "episode": 5,
+        "overview": "William y Clementine descubren que un anfitrión, Hope, ha estado asesinando a varios humanos. Stubbs y otros supervivientes llegan a Nueva York para rescatar a un extraño.",
+        "released": "2022-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AgpTye6KitnhEzVIVqBNrJRdLI8.jpg"
+      },
+      {
+        "id": "tt0475784:4:6",
+        "title": "Fidelidad",
+        "season": 4,
+        "episode": 6,
+        "overview": "Caleb intenta evitar el brutal interrogatorio de Charlotte, y finalmente descubre una verdad inquietante. Bernard y C llevan el cuerpo de Maeve al escondite.",
+        "released": "2022-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tq2shC4U2zzjHz0yigAd4qLkHWd.jpg"
+      },
+      {
+        "id": "tt0475784:4:7",
+        "title": "Metanoia",
+        "season": 4,
+        "episode": 7,
+        "overview": "Maeve y Bernard luchan por salvar el mundo. Mientras tanto, el plan de Charlotte empieza a tomar forma y un viejo conocido vuelve al juego.",
+        "released": "2022-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tvf8MLsLak61l8c5B07BDu0EASH.jpg"
+      },
+      {
+        "id": "tt0475784:4:8",
+        "title": "Lo Que Será, Será...",
+        "season": 4,
+        "episode": 8,
+        "overview": "Mientras el caos estalla en la ciudad, Christina encuentra el centro del laberinto. Caleb le confiesa a Stubbs que le oculta una verdad importante a Frankie.",
+        "released": "2022-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fgFhnAsAmFZxRaJjjf1WYYdbzYZ.jpg"
+      }
+    ]
+  }
+}

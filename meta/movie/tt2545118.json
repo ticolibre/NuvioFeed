@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "tt2545118",
+    "type": "movie",
+    "name": "Blackfish",
+    "poster": "https://image.tmdb.org/t/p/w500/wJwLrbHeQbyn5QKgiQUv1xNmQj3.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/tCW0uGWwfZzRkupNFdI0yUo4A0w.jpg",
+    "description": "Este fabuloso documental analiza la vida de la ballena asesina Tilikum, que ha causado varias muertes durante su cautiverio.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

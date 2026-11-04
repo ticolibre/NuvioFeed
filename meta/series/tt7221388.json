@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "id": "tt7221388",
+    "type": "series",
+    "name": "Cobra Kai",
+    "poster": "https://image.tmdb.org/t/p/w500/imfqLcv6oHNn6bDdEUUUlxy0Ch9.jpg",
+    "posterShape": "poster",
+    "description": "Enemigos acérrimos. Dojos rivales. Sangre nueva. Daniel y Johnny reviven viejas rivalidades en esta secuela de las películas de «Karate Kid».",
+    "releaseInfo": "2018",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Comedia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt7221388:1:1",
+        "title": "As degenerado",
+        "season": 1,
+        "episode": 1,
+        "overview": "Alcohólico y harto de vivir a la sombra de Daniel, su antiguo rival, Johnny toca fondo y decide reabrir el dojo de karate Cobra Kai.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pU6SRSRhC9sSZoSwHqSpGMocpfQ.jpg"
+      },
+      {
+        "id": "tt7221388:1:2",
+        "title": "Golpear primero",
+        "season": 1,
+        "episode": 2,
+        "overview": "Daniel ve el nuevo dojo Cobra Kai, y eso le trae recuerdos dolorosos. Más tarde, se entera de que Kyler, el chico que le gusta a Sam, fue atacado por un karateca.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xN6SCMYz1jFCFsiFoM7rRFjAPB2.jpg"
+      },
+      {
+        "id": "tt7221388:1:3",
+        "title": "Esqueleto",
+        "season": 1,
+        "episode": 3,
+        "overview": "Con la idea de vigilar a Sam, Daniel se ofrece como chaperón para el baile de Halloween. Johnny intenta conseguir más alumnos para su flamante proyecto.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jId5woFWEPksXHImivp1Rh1apWZ.jpg"
+      },
+      {
+        "id": "tt7221388:1:4",
+        "title": "Cobra Kai nunca muere",
+        "season": 1,
+        "episode": 4,
+        "overview": "Alguien arruina uno de los carteles de Daniel. La madre de Miguel le prohíbe practicar karate a su hijo, y Johnny recibe una llamada preocupante de la escuela de Robby.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bNtQh5mHfJhR3Vjd155thIx7pAC.jpg"
+      },
+      {
+        "id": "tt7221388:1:5",
+        "title": "Contrapeso",
+        "season": 1,
+        "episode": 5,
+        "overview": "Una nueva alumna se suma a Cobra Kai. Entretanto, Daniel piensa en la forma de vengarse de Johnny. Kyler traiciona a Sam, y Miguel la defiende en la escuela.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b6xB58q2g0nlkILI1NwA4AbeIyL.jpg"
+      },
+      {
+        "id": "tt7221388:1:6",
+        "title": "Temblor",
+        "season": 1,
+        "episode": 6,
+        "overview": "Tras la pelea de Miguel, se inscriben más alumnos en Cobra Kai, pero Johnny no los recibe de la mejor manera. Para herir a su padre, Robby empieza a trabajar con Daniel.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2XTVHUz1Lj2CI3R3dhNAJIx2phv.jpg"
+      },
+      {
+        "id": "tt7221388:1:7",
+        "title": "All Valley",
+        "season": 1,
+        "episode": 7,
+        "overview": "Johnny debe persuadir al comité del torneo de levantar la prohibición impuesta a Cobra Kai, pero Daniel es uno de los miembros. Miguel y Sam tienen una cita.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3HhHvSeCQfRQ4AhipHLZxyqU0LN.jpg"
+      },
+      {
+        "id": "tt7221388:1:8",
+        "title": "Muda",
+        "season": 1,
+        "episode": 8,
+        "overview": "Mientras Johnny prepara a sus alumnos para el torneo de All Valley, Daniel empieza a entrenar a Robby en el Miyagi-do sin saber que es el hijo de Johnny.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wYBgEkvbOVawZBPDWTY6WPgQbXS.jpg"
+      },
+      {
+        "id": "tt7221388:1:9",
+        "title": "Diferentes pero iguales",
+        "season": 1,
+        "episode": 9,
+        "overview": "Una discusión hace que Johnny y Daniel revivan el pasado. Los alumnos de Cobra Kai planean vengarse de los chicos populares.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lhOAFlNw8EUYByPDCnzFr7j0rDd.jpg"
+      },
+      {
+        "id": "tt7221388:1:10",
+        "title": "Piedad",
+        "season": 1,
+        "episode": 10,
+        "overview": "Antes del torneo, Johnny les enseña a sus alumnos la tercera regla de Cobra Kai: sin piedad. Alguien inesperado regresa a la vida de Johnny.",
+        "released": "2018-05-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x6rU0g1i0CXLqK94LbXeaLtVBzM.jpg"
+      },
+      {
+        "id": "tt7221388:2:1",
+        "title": "Piedad (Parte 2)",
+        "season": 2,
+        "episode": 1,
+        "overview": "A pesar de la victoria de Cobra Kai, Johnny quiere cambiar el rumbo del dojo. Daniel abre su propia escuela con dos alumnos: Sam y Robby.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ae7bVkxC85Kob5o61DaqYhLMQ9s.jpg"
+      },
+      {
+        "id": "tt7221388:2:2",
+        "title": "Otra vez juntos",
+        "season": 2,
+        "episode": 2,
+        "overview": "Daniel les enseña a Sam y a Robby a encontrar el equilibrio. Johnny impresiona a Kreese con una técnica de entrenamiento creativa pero riesgosa.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Ikaxc1FM8wpThQyivgOxCxPYJu.jpg"
+      },
+      {
+        "id": "tt7221388:2:3",
+        "title": "Hielo y fuego",
+        "season": 2,
+        "episode": 3,
+        "overview": "Cuando Miguel descubre que Robby es hijo de Johnny, el sensei reconoce sus falencias paternales. En busca de más alumnos, Daniel hace una demostración en un festival.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tRJSVrofOb2zxPiIW7zyt2QoCN1.jpg"
+      },
+      {
+        "id": "tt7221388:2:4",
+        "title": "La hora de la verdad",
+        "season": 2,
+        "episode": 4,
+        "overview": "Daniel sigue intentando promocionar el Miyagi-do, pero Cobra Kai es el centro de atención. Johnny sospecha que Kreese exagera sus logros.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oiUAkGqWaPXXJzNU2fiand2D2xr.jpg"
+      },
+      {
+        "id": "tt7221388:2:5",
+        "title": "Darlo todo",
+        "season": 2,
+        "episode": 5,
+        "overview": "Después de que Eli desafía a Demetri en el centro comercial, Daniel ayuda a Demetri a tener confianza en sí mismo. Johnny se entera de que Robby está viviendo con Daniel.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nb4kO1an17iW4ccf3rjFCa8jaCx.jpg"
+      },
+      {
+        "id": "tt7221388:2:6",
+        "title": "Echa un vistazo a tu derecha",
+        "season": 2,
+        "episode": 6,
+        "overview": "Los nuevos alumnos de Daniel aprenden a conciliar sus diferencias. Mientras Johnny disfruta de un viaje con amigos, Kreese impone su autoridad en el dojo.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lnOVfMbL9cItiJNn0fAPsVldxSs.jpg"
+      },
+      {
+        "id": "tt7221388:2:7",
+        "title": "Calma",
+        "season": 2,
+        "episode": 7,
+        "overview": "Aunque cada sensei tiene su propio estilo, ambos prueban nuevas técnicas. Johnny confronta a Kreese, y la pasión de Daniel por el Miyagi-do pone en peligro su negocio.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mvUpEnLWPre0sqh8SGN8gTtDrS6.jpg"
+      },
+      {
+        "id": "tt7221388:2:8",
+        "title": "Glory of Love",
+        "season": 2,
+        "episode": 8,
+        "overview": "A medida que se enciende el romance secreto entre Sam y Robby, se enfría la relación entre Daniel y Amanda. Johnny intenta hallar el amor con ayuda de la tecnología.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7zkb0Fqz6HvaO3n9hLoTqb6sVl5.jpg"
+      },
+      {
+        "id": "tt7221388:2:9",
+        "title": "Pulpo",
+        "season": 2,
+        "episode": 9,
+        "overview": "Tras un encuentro imprevisto, Johnny y Daniel deciden darse una tregua. Por el contrario, la tensión acumulada entre los alumnos de ambos se descontrola en una fiesta.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/idUaLxCQkgzPvruHyzXLeh7wddW.jpg"
+      },
+      {
+        "id": "tt7221388:2:10",
+        "title": "Sin piedad",
+        "season": 2,
+        "episode": 10,
+        "overview": "El primer día de clases, la rencilla entre Tory y Sam termina explotando en un enfrentamiento de karate que acapara la atención de toda la escuela.",
+        "released": "2019-04-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kVXBPI1smqILLKgvnXoR74M9vRe.jpg"
+      },
+      {
+        "id": "tt7221388:3:1",
+        "title": "Repercusiones",
+        "season": 3,
+        "episode": 1,
+        "overview": "Mientras Miguel lucha por su vida y Robby está desaparecido, la comunidad de West Valley no duda en expresar su descontento con lo ocurrido... y con Daniel y Johnny.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iYXfd0o9oNP6lkT40nHAfG8y4dS.jpg"
+      },
+      {
+        "id": "tt7221388:3:2",
+        "title": "¿La herencia es más fuerte?",
+        "season": 3,
+        "episode": 2,
+        "overview": "Daniel y Johnny se unen para encontrar a Robby. Miguel enfrenta un futuro incierto, y Kreese intenta llevar a Tory de regreso a Cobra Kai.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nTyWMPV8VMz3Z6TvbQppIQm9B2F.jpg"
+      },
+      {
+        "id": "tt7221388:3:3",
+        "title": "Ahora tendrás que pagar",
+        "season": 3,
+        "episode": 3,
+        "overview": "La dañada reputación de Daniel afecta las ventas de la concesionaria, y alguien se ofrece a comprarla. Johnny busca dinero para la operación de Miguel.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zhh97DgMDsJgxdPsrtKkjpuoBAv.jpg"
+      },
+      {
+        "id": "tt7221388:3:4",
+        "title": "El camino correcto",
+        "season": 3,
+        "episode": 4,
+        "overview": "Después de una importante reunión que lo lleva hasta Japón, Daniel regresa a Okinawa, la ciudad natal del señor Miyagi. Johnny intenta estrechar su vínculo con Robby.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A5skA8QLei6kSuYFWioVRqEKYpR.jpg"
+      },
+      {
+        "id": "tt7221388:3:5",
+        "title": "Miyagi-Do",
+        "season": 3,
+        "episode": 5,
+        "overview": "En Okinawa, Daniel se encuentra con una vieja amiga y con un viejo enemigo con mucho para enseñarle. La rivalidad de los dojos se vuelve muy peligrosa.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x7HapDU5CVMcjVyr1fNogeJJAVw.jpg"
+      },
+      {
+        "id": "tt7221388:3:6",
+        "title": "El rey",
+        "season": 3,
+        "episode": 6,
+        "overview": "Miguel ayuda a Johnny a redactar el mensaje perfecto para enviar por una red social. Kreese busca nuevos reclutas, mientras Daniel y Amanda intentan cerrar Cobra Kai.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hRDo7YUJCWufQh2u8z7p2hCoNfd.jpg"
+      },
+      {
+        "id": "tt7221388:3:7",
+        "title": "Obstáculos",
+        "season": 3,
+        "episode": 7,
+        "overview": "Daniel pasa tiempo con Sam, quien no puede perdonarse por lo sucedido en la escuela. Johnny planea abrir un nuevo dojo, pero encontrarle un nombre no será tarea sencilla.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rzQ7sNybhu33mHLvsIMXNmF841W.jpg"
+      },
+      {
+        "id": "tt7221388:3:8",
+        "title": "El bueno, el malo y el incansable",
+        "season": 3,
+        "episode": 8,
+        "overview": "Cuando se enteran de la cancelación del Torneo de Karate All Valley, Daniel, Johnny y Kreese asisten a una reunión del ayuntamiento para salvarlo.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c6gEreHePB6yUknaWWvmUXcBH9x.jpg"
+      },
+      {
+        "id": "tt7221388:3:9",
+        "title": "Feel The Night",
+        "season": 3,
+        "episode": 9,
+        "overview": "Llega la Navidad al valle, y el romance está en el aire. Daniel y Miguel descubren que tienen algo inesperado en común, y los reclutas de Cobra Kai emprenden una misión.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/weTME44ZY3DDxuTzTP126Z7ovR9.jpg"
+      },
+      {
+        "id": "tt7221388:3:10",
+        "title": "19 de diciembre",
+        "season": 3,
+        "episode": 10,
+        "overview": "En una fiesta del club de campo, las viejas heridas comienzan a cicatrizar, pero un brutal ataque de los alumnos de Kreese da lugar a nuevas traiciones y nuevas alianzas.",
+        "released": "2021-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AvnkMnigxqapasWQCFpyXLPdxmG.jpg"
+      },
+      {
+        "id": "tt7221388:4:1",
+        "title": "¡Comencemos!",
+        "season": 4,
+        "episode": 1,
+        "overview": "Johnny y Daniel combinan sus dojos, pero sus estilos opuestos chocan de inmediato. Kreese intenta persuadir a un antiguo socio para que se una a Cobra Kai.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kCcDCmTM8tb9z3hM0xuUF7qgmWB.jpg"
+      },
+      {
+        "id": "tt7221388:4:2",
+        "title": "Primero estar de pie",
+        "season": 4,
+        "episode": 2,
+        "overview": "Johnny aprende estrategias defensivas mientras Daniel practica cómo atacar. Amanda confronta a Tory. Kenny, el nuevo alumno, es acosado en la escuela.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s8neffnobejZIOS7dPdzt1X5uu9.jpg"
+      },
+      {
+        "id": "tt7221388:4:3",
+        "title": "Luego aprender a volar",
+        "season": 4,
+        "episode": 3,
+        "overview": "Kenny intenta entrenar en Cobra Kai con el apoyo de Robby, mientras Johnny le pide a Sam que aprenda a confiar... en sí misma.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/34264WxGFy4nOzGCIHSdteMaMKm.jpg"
+      },
+      {
+        "id": "tt7221388:4:4",
+        "title": "Bicefalia",
+        "season": 4,
+        "episode": 4,
+        "overview": "Kreese lleva a Terry de vuelta a Cobra Kai, pero su antiguo socio no quiere repetir la historia. Daniel entrena a Miguel... y Johnny no puede controlar los celos.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xemcmDJQFFZww8cMtV55LJC8zY2.jpg"
+      },
+      {
+        "id": "tt7221388:4:5",
+        "title": "Punto de partido",
+        "season": 4,
+        "episode": 5,
+        "overview": "El dojo de Johnny y Daniel, así como su frágil alianza, quedan al borde del colapso cuando estos aceptan participar en un enfrentamiento entre sus sensei.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mAGMgNhG4B4YwEb18FBxsF8DEds.jpg"
+      },
+      {
+        "id": "tt7221388:4:6",
+        "title": "Las patadas consiguen damas",
+        "season": 4,
+        "episode": 6,
+        "overview": "Un gran cambio en el próximo torneo lleva a Johnny a apresurarse para encontrar una nueva alumna para el dojo. Tory debe pedirles un favor a los LaRusso.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1FpoLp5AyG4nAq5wknaBQkTbIzm.jpg"
+      },
+      {
+        "id": "tt7221388:4:7",
+        "title": "Campos minados",
+        "season": 4,
+        "episode": 7,
+        "overview": "Daniel invita a Anthony a unirse a Miyagi‑Do, pero descubre que no conoce a su hijo tanto como pensaba. Miguel se entera de la verdad sobre Johnny y Carmen.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cFLXoAQhE31fwzvC8JmYXQvJ5GV.jpg"
+      },
+      {
+        "id": "tt7221388:4:8",
+        "title": "Empieza la fiesta",
+        "season": 4,
+        "episode": 8,
+        "overview": "Miguel y Sam están emocionados por el baile escolar..., hasta que otra pareja aparece inesperadamente. Terry lleva a Johnny a un lugar muy familiar.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pb06joaqZVmBl4INIoYdkiebtNf.jpg"
+      },
+      {
+        "id": "tt7221388:4:9",
+        "title": "La caída",
+        "season": 4,
+        "episode": 9,
+        "overview": "El torneo anual empieza y varios dojos compiten para ser los campeones... y ajustar cuentas personales.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aTxE8PL9msdgicHwtjWQgzkddF7.jpg"
+      },
+      {
+        "id": "tt7221388:4:10",
+        "title": "El ascenso",
+        "season": 4,
+        "episode": 10,
+        "overview": "El torneo llega a un final impactante: sus consecuencias afectan a los participantes... y dos campeones afrontan futuros inciertos.",
+        "released": "2021-12-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6hQPOqaNZ1aKwuPlcgfCvjjH0kj.jpg"
+      },
+      {
+        "id": "tt7221388:5:1",
+        "title": "Muy lejos de casa",
+        "season": 5,
+        "episode": 1,
+        "overview": "El nuevo aliado y compañero de casa de Daniel pone a prueba la paciencia de Amanda. Miguel busca a su padre en México. Terry empieza a transformar Cobra Kai.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cU8Tug99ZvLzjtYvON6PoISUVI3.jpg"
+      },
+      {
+        "id": "tt7221388:5:2",
+        "title": "Topo",
+        "season": 5,
+        "episode": 2,
+        "overview": "Chozen y Daniel idean un arriesgado plan contra Terry. En México, Robby y Johnny buscan a Miguel, quien descubre la verdad sobre su padre.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/42mZ5yM4TZmmIxIER89VFFd2Iqp.jpg"
+      },
+      {
+        "id": "tt7221388:5:3",
+        "title": "Jugar con fuego",
+        "season": 5,
+        "episode": 3,
+        "overview": "Aparece otro enemigo del pasado de Daniel. Después de un día en el spa y un poco de reflexión, Sam toma una decisión sobre su futuro con Miguel.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fNAcoCksdyTCPJyYQAoIO7Zar64.jpg"
+      },
+      {
+        "id": "tt7221388:5:4",
+        "title": "Caída en espiral",
+        "season": 5,
+        "episode": 4,
+        "overview": "El romance de Johnny y Carmen va viento en popa, mientras Daniel y Amanda sufren las artimañas de Terry. Las diferencias del grupo salen a la luz en el parque acuático.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/waUx4M1N1QJYVZPlcKaH2zDIR7M.jpg"
+      },
+      {
+        "id": "tt7221388:5:5",
+        "title": "Medidas extremas",
+        "season": 5,
+        "episode": 5,
+        "overview": "Daniel confía en un amigo... y en un amienemigo. La tensión aumenta para Miguel y Robby. Regresa una cara conocida.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/DEecQIjwxicm4WNJCP5hKQsvf9.jpg"
+      },
+      {
+        "id": "tt7221388:5:6",
+        "title": "Uróboros",
+        "season": 5,
+        "episode": 6,
+        "overview": "Terry recluta a un experto en el Camino del Puño. Daniel evita una pelea, a diferencia de Johnny y Chozen. En la cárcel, Kreese enfrenta los traumas del pasado.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nXRm0ViWpExGMae4qmyG4YULegq.jpg"
+      },
+      {
+        "id": "tt7221388:5:7",
+        "title": "Huevos podridos",
+        "season": 5,
+        "episode": 7,
+        "overview": "Terry y Kim anuncian un desafío brutal, mientras Chozen tiene otro tipo de enseñanzas para sus alumnos. Johnny y Daniel le exigen respuestas a Kreese.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg"
+      },
+      {
+        "id": "tt7221388:5:8",
+        "title": "Taikai",
+        "season": 5,
+        "episode": 8,
+        "overview": "Un ansiado puesto en un torneo internacional enciende una pelea entre dojos. Se pone a prueba la lealtad de Tory. Sam se resiste a dejar ir a Miguel.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg"
+      },
+      {
+        "id": "tt7221388:5:9",
+        "title": "Sobrevivientes",
+        "season": 5,
+        "episode": 9,
+        "overview": "Tory paga por su desacato. Mantaraya lucha con su conciencia. Una noche de celebración en la ciudad da un vuelco para Johnny, Daniel y Chozen.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i6aFQjFR9Yb9L13nP9rH8rbKvNW.jpg"
+      },
+      {
+        "id": "tt7221388:5:10",
+        "title": "La cabeza de la serpiente",
+        "season": 5,
+        "episode": 10,
+        "overview": "Se desata una noche de combate cuando Johnny, Daniel, Chozen y los estudiantes suman sus fuerzas y destrezas para exponer y derrotar a Terry.",
+        "released": "2022-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4D2oGnrJ4TV6OrI2GBMEictxaWN.jpg"
+      },
+      {
+        "id": "tt7221388:6:1",
+        "title": "Tiempos de paz",
+        "season": 6,
+        "episode": 1,
+        "overview": "Los estudiantes del Miyagi‑do no logran dejar atrás sus antiguas rivalidades mientras entrenan para el Sekai Taikai. Johnny y Chozen tienen distintas ideas para reinventar el dojo.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hYlkiTMMr8zF8ceSdudnP7AGHHl.jpg"
+      },
+      {
+        "id": "tt7221388:6:2",
+        "title": "El premio",
+        "season": 6,
+        "episode": 2,
+        "overview": "Kreese debe superar una prueba peligrosa para mostrar su valía. Daniel le da una mano a Johnny mientras los jóvenes piensan en su futuro después de la escuela.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fI7BEdDnjK1X25pbeG7A7mKbAcC.jpg"
+      },
+      {
+        "id": "tt7221388:6:3",
+        "title": "Pijamada",
+        "season": 6,
+        "episode": 3,
+        "overview": "Daniel hace un descubrimiento que lo hace cuestionar todas sus creencias. Johnny busca cómo devolverles a Sam y Tory su actitud. Se revela la sede del torneo.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/36ypCuCP0JIZZkJ3c6yskhMCks6.jpg"
+      },
+      {
+        "id": "tt7221388:6:4",
+        "title": "Subestimados",
+        "season": 6,
+        "episode": 4,
+        "overview": "Daniel y Johnny invitan a un nuevo senséi para que evalúe a sus estudiantes. El deseo de llegar al Sekai Taikai hace que incluso las amistades más firmes se pongan a prueba.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/casOxbUTCtBuXAuwoCPoJeSIjqz.jpg"
+      },
+      {
+        "id": "tt7221388:6:5",
+        "title": "Lo mejor de lo mejor",
+        "season": 6,
+        "episode": 5,
+        "overview": "Los mejores estudiantes del Miyagi‑do se enfrentan para elegir al capitán, pero una tragedia terrible cambia las cosas. Kreese revela su sorpresa final.",
+        "released": "2024-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dzf8E8jr9ywTn0nPYuq2eZ0eT3L.jpg"
+      },
+      {
+        "id": "tt7221388:6:6",
+        "title": "Benvinguts a Barcelona",
+        "season": 6,
+        "episode": 6,
+        "overview": "El Sekai Taikai comienza, pero una traición amenaza con desestabilizar a Miyagi‑Do. Todos se llevan una sorpresa en el dramático primer encuentro.",
+        "released": "2024-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kfFoyd5x4ZkMgCP1daw1ugb8qwe.jpg"
+      },
+      {
+        "id": "tt7221388:6:7",
+        "title": "Pelear a cara de perro",
+        "season": 6,
+        "episode": 7,
+        "overview": "Daniel se pone en peligro al indagar en el pasado del señor Miyagi. Miguel duda sobre la concentración de Robby. Sam observa una conducta inapropiada en un rival.",
+        "released": "2024-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Qv4vp5zzBdjPj2fUn0OHEijBWe.jpg"
+      },
+      {
+        "id": "tt7221388:6:8",
+        "title": "Sospechas en el aire",
+        "season": 6,
+        "episode": 8,
+        "overview": "Una crisis personal afecta profundamente a Miguel y a Johnny. Chozen une fuerzas con una persona inesperada para encontrar a sus alumnos, y ambos terminan descubriendo algo más.",
+        "released": "2024-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hORd9qKMMWYogVldmc1rmn99XCu.jpg"
+      },
+      {
+        "id": "tt7221388:6:9",
+        "title": "Sangre por sangre",
+        "season": 6,
+        "episode": 9,
+        "overview": "¿Quién pasará a la siguiente ronda en el combate de eliminación? ¿Miyagi‑Do o Cobra Kai? Una revelación impactante sacude a Daniel.",
+        "released": "2024-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t4fTFhIScrSRfxddYyWgfaMCoQe.jpg"
+      },
+      {
+        "id": "tt7221388:6:10",
+        "title": "Eunjangdo",
+        "season": 6,
+        "episode": 10,
+        "overview": "Daniel y Johnny entrenan a sus capitanes en lugares históricos de Barcelona. Pero un golpe bajo en las semifinales desata una pelea sin precedentes.",
+        "released": "2024-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w1U9Icf1YnnyxutZ633FBo6bjS3.jpg"
+      },
+      {
+        "id": "tt7221388:6:11",
+        "title": "Prueba de fuego",
+        "season": 6,
+        "episode": 11,
+        "overview": "Mientras los estudiantes planean su vida después del karate, Daniel y Johnny discuten sobre volver al Sekai Taikai. Kreese reconsidera sus principios de enseñanza.",
+        "released": "2025-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lvPYAcVp35MEYAdg0N4IaoK1GKo.jpg"
+      },
+      {
+        "id": "tt7221388:6:12",
+        "title": "Fuera de sí",
+        "season": 6,
+        "episode": 12,
+        "overview": "Sam y Robby entrenan para los próximos desafíos y buscan apoyo en sus amigos. Johnny y Carmen dan la bienvenida a un nuevo miembro al equipo.",
+        "released": "2025-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/85cl8xRS8JbEBKF5djmuwCpvw2d.jpg"
+      },
+      {
+        "id": "tt7221388:6:13",
+        "title": "Fantasmas",
+        "season": 6,
+        "episode": 13,
+        "overview": "Llega el momento de la verdad y tanto Daniel como Johnny se enfrentan a su pasado. Comienza la pelea entre Robby y Axel en el campeonato mundial de karate.",
+        "released": "2025-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vtUyWT7A4jFEwRkCOftWe4dnDah.jpg"
+      },
+      {
+        "id": "tt7221388:6:14",
+        "title": "Golpear último",
+        "season": 6,
+        "episode": 14,
+        "overview": "Los ánimos se calientan cuando los mejores luchadores del Valle miden su valor contra la fuerza y la velocidad de sus rivales. Pero una última sorpresa lo cambia todo.",
+        "released": "2025-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h6mL6phWGSmotkj0nr4AqUNFhHb.jpg"
+      },
+      {
+        "id": "tt7221388:6:15",
+        "title": "As recuperado",
+        "season": 6,
+        "episode": 15,
+        "overview": "Feroces rivalidades. Nuevas oportunidades. Daniel y Johnny se encuentran de vuelta donde todo comenzó... y nunca ha habido tanto en juego.",
+        "released": "2025-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tfB0zgSSPV5jpa0PM2iycDjQ70p.jpg"
+      }
+    ]
+  }
+}

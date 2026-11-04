@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0120731",
+    "type": "movie",
+    "name": "La leyenda de 1900",
+    "poster": "https://image.tmdb.org/t/p/w500/8rttNpb83qdHFMPMgFlcspVGaio.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+    "description": "Un huérfano abandonado en un transatlántico demuestra ser prodigio para la música y vive su toda vida a bordo del barco.",
+    "releaseInfo": "1998",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    }
+  }
+}

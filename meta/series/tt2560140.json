@@ -1,0 +1,809 @@
+{
+  "meta": {
+    "id": "tt2560140",
+    "type": "series",
+    "name": "Attack on Titan",
+    "poster": "https://image.tmdb.org/t/p/w500/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+    "posterShape": "poster",
+    "description": "Muchos años atrás, la humanidad estuvo al borde de la extinción con la aparición de unas criaturas gigantes que devoraban a todas las personas. Huyendo, la humanidad consiguió sobrevivir en una ciudad fortificada de altas murallas que se ha convertido en el último reducto de la civilización contra los Titanes que campan a sus anchas por el mundo. Ahora esa paz está a punto de verse interrumpida por una cadena de acontecimientos que llevará a desvelar qué son los Titanes y cómo aparecieron.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.7"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt2560140:1:1",
+        "title": "A ti, 2,000 años en el futuro. La caída de Shiganshina - Primera Parte",
+        "season": 1,
+        "episode": 1,
+        "overview": "La humanidad lleva más de un siglo viviendo tras unas murallas inmensas para defenderse de unos extraños seres que amenaza sus vidas. Un día, la paz se verá alterada tras la aparición de un titán cuyo tamaño supera la muralla.",
+        "released": "2013-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e363TDn4uP8jP7kHAXQfHAs6HTR.jpg"
+      },
+      {
+        "id": "tt2560140:1:2",
+        "title": "Ese día. La caída de Shiganshina - Segunda Parte",
+        "season": 1,
+        "episode": 2,
+        "overview": "Eren ha sido testigo de cómo un titán ha devorado a su propia madre. Mientras están evacuando, toma la firme decisión de hacerse recluta y ganar fuerza para aniquilar a los titanes.",
+        "released": "2013-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3l0CkbEdnBeYvpEm9nSVIQXs237.jpg"
+      },
+      {
+        "id": "tt2560140:1:3",
+        "title": "Una tenue luz en la desesperación. La humanidad se levanta de nuevo - Primera Parte",
+        "season": 1,
+        "episode": 3,
+        "overview": "Por fin Eren va a empezar su instrucción como recluta para luchar contra los titanes en un futuro. Antes de nada, tendrá que habituarse a usar el equipo de maniobras tridimensionales.",
+        "released": "2013-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eBDbxFioIZQx7Nu0vOEQVP4cCIq.jpg"
+      },
+      {
+        "id": "tt2560140:1:4",
+        "title": "La noche de la ceremonia de graduación. La humanidad se levanta de nuevo - Segunda Parte",
+        "season": 1,
+        "episode": 4,
+        "overview": "Ya han pasado dos años desde que Eren, Mikasa y Armin empezaran el entrenamiento. Es hora de decidir a qué equipo se van a unir, aunque Eren lo tiene clarísimo: la Legión de Reconocimiento.",
+        "released": "2013-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iQMZuF65LHGnA7q9snxM8CHb7SW.jpg"
+      },
+      {
+        "id": "tt2560140:1:5",
+        "title": "Primera batalla. La batalla de Trost (1)",
+        "season": 1,
+        "episode": 5,
+        "overview": "Iba a comenzar el contraataque de la humanidad, pero la aparición del titán colosal ha hecho que cambien las tornas nuevamente. Ahora, un grupo de recién graduados deberá hacer frente a la invasión de los titanes.",
+        "released": "2013-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9O4oJGdRxVkjiqQOnahg1H0q6hf.jpg"
+      },
+      {
+        "id": "tt2560140:1:6",
+        "title": "El mundo a los ojos de la chica. La batalla de Trost (2)",
+        "season": 1,
+        "episode": 6,
+        "overview": "Se ha producido una verdadera masacre en Trost y muchos compañeros de Eren han caído. Por otro lado, Mikasa recuerda cómo conoció a Eren.",
+        "released": "2013-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m7Yzfqhvv3SAwiLwI0iWtj8px9v.jpg"
+      },
+      {
+        "id": "tt2560140:1:7",
+        "title": "Una pequeña hoja. La batalla de Trost (3)",
+        "season": 1,
+        "episode": 7,
+        "overview": "La situación es crítica en Trost. Hasta Eren ha muerto por salvarle la vida a Armin, quien no se lo puede perdonar. Mikasa jura venganza, pero algo raro le pasa.",
+        "released": "2013-05-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z2QHfSCLIO7PuVnI8hcVUAGgaJl.jpg"
+      },
+      {
+        "id": "tt2560140:1:8",
+        "title": "Oigo sus latidos. La batalla de Trost (4)",
+        "season": 1,
+        "episode": 8,
+        "overview": "Ha aparecido un misterioso titán que está atacando a los demás titanes. Armin decide que esa puede ser la solución para llegar hasta la base para reabastecerse.",
+        "released": "2013-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w7URwYFNTSqQhqtgoTZk3wUu1TA.jpg"
+      },
+      {
+        "id": "tt2560140:1:9",
+        "title": "El paradero del brazo izquierdo. La batalla de Trost (5)",
+        "season": 1,
+        "episode": 9,
+        "overview": "La situación parece haberse calmado relativamente. Ahora el problema está en que los propios humanos han visto lo que le ha pasado a Eren y dudan de su lealtad hacia la humanidad.",
+        "released": "2013-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wnZ2XNmROpeYIdNVnQ7zz1Gsx5M.jpg"
+      },
+      {
+        "id": "tt2560140:1:10",
+        "title": "Respuesta. La batalla de Trost (6)",
+        "season": 1,
+        "episode": 10,
+        "overview": "Eren afirma ser humano, pero los allí presentes no se lo creen y atacan igualmente. Todo empeora por momentos, pero la rápida actuación de Armin quizás pueda cambiarlo todo.",
+        "released": "2013-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iM0ZnpWE0pzZdNh2dDF5f0O6jK1.jpg"
+      },
+      {
+        "id": "tt2560140:1:11",
+        "title": "Símbolo. La batalla de Trost (7)",
+        "season": 1,
+        "episode": 11,
+        "overview": "El comandante Pixis hace que se detenga el ataque sobre Eren y compañía. Gracias a lo que dijo Armin, la humanidad dará un nuevo paso para iniciar el contraataque y recuperar Trost.",
+        "released": "2013-06-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gNy0q9EbzQKeRx4XsLh8dFMUT1c.jpg"
+      },
+      {
+        "id": "tt2560140:1:12",
+        "title": "Herida. La batalla de Trost (8)",
+        "season": 1,
+        "episode": 12,
+        "overview": "Eren se transforma en titán para cumplir con su nueva misión, pero acto seguido se descontrola y pierde de vista el objetivo real, atacando a Mikasa.",
+        "released": "2013-06-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nz1KTxTFXJMae4vvLvicQWxuhX0.jpg"
+      },
+      {
+        "id": "tt2560140:1:13",
+        "title": "Deseos primarios. La batalla de Trost (9)",
+        "season": 1,
+        "episode": 13,
+        "overview": "La providencial intervención de Armin hace que Eren reaccione y recupere la cordura. Ahora habrá que darlo todo para ayudar al titán a colocar la roca en el hueco.",
+        "released": "2013-06-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Yzzfpfjc00Z9ozWNDxqz4jsnhO.jpg"
+      },
+      {
+        "id": "tt2560140:1:14",
+        "title": "Aún no puedo mirarlo a los ojos. La noche antes de la contraofensiva (1)",
+        "season": 1,
+        "episode": 14,
+        "overview": "La humanidad teme el poder que ha despertado en Eren. Debido a ello, será juzgado para determinar si seguirá con vida o lo matarán para evitar problemas mayores en el futuro.",
+        "released": "2013-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g1emLjP0tFQXnV7wFaeRw8plBDG.jpg"
+      },
+      {
+        "id": "tt2560140:1:15",
+        "title": "Escuadrón de Operaciones Especiales. La noche antes de la contraofensiva (2)",
+        "season": 1,
+        "episode": 15,
+        "overview": "Eren finalmente ha entrado en la Legión de Reconocimiento. Allí conocerá a algunos de los que serán sus nuevos compañeros, como son Levi, Erwin o Hange.",
+        "released": "2013-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/niQbkMOzZCFeFa2wuufyBbDTbfp.jpg"
+      },
+      {
+        "id": "tt2560140:1:16",
+        "title": "Lo que hay que hacer. La noche antes de la contraofensiva (3)",
+        "season": 1,
+        "episode": 16,
+        "overview": "Es el momento de la elección de facción. Los reclutas que pasaron con éxito el entrenamiento tendrán que tomar una decisión que podrá determinar sus vidas.",
+        "released": "2013-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/imyHAoRf7yeVMal0UCvmSQulovr.jpg"
+      },
+      {
+        "id": "tt2560140:1:17",
+        "title": "La titán hembra. 57.ª expedición más allá de las murallas (1)",
+        "season": 1,
+        "episode": 17,
+        "overview": "Va a comenzar una nueva expedición de la Legión de Reconocimiento, aunque pronto sus planes se irán al traste debido a la aparición de un nuevo e inteligente titán.",
+        "released": "2013-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/biJWsiI2CzKxWlLJqyPPGj9Krbq.jpg"
+      },
+      {
+        "id": "tt2560140:1:18",
+        "title": "Bosque de árboles gigantes. 57.ª expedición más allá de las murallas (2)",
+        "season": 1,
+        "episode": 18,
+        "overview": "Esa misteriosa titán hembra no actúa como los demás, pues posee inteligencia y no devora a sus enemigos, simplemente los mata. Además, parece que va buscando a alguien en concreto.",
+        "released": "2013-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qytiWM8NAn3EzdLaoigJTJgLuD5.jpg"
+      },
+      {
+        "id": "tt2560140:1:19",
+        "title": "Mordisco. 57.ª expedición más allá de las murallas (3)",
+        "season": 1,
+        "episode": 19,
+        "overview": "La titán hembra se acerca cada vez más al grupo del capitán Levi y Eren. La situación se está volviendo crítica y Eren se plantea el convertirse en titán para hacerle frente.",
+        "released": "2013-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Uxxm7lpMdHOQ8ebTdfCGQYBL5d.jpg"
+      },
+      {
+        "id": "tt2560140:1:20",
+        "title": "Erwin Smith. 57.ª expedición más allá de las murallas (4)",
+        "season": 1,
+        "episode": 20,
+        "overview": "El verdadero plan que tenía el comandante Smith en realidad era atrapar a la titán hembra para saber quién se encuentra en su interior, pero parece que ella no se lo pondrá nada fácil.",
+        "released": "2013-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k5CjtyUxdfhlzyFhF4isJoY0855.jpg"
+      },
+      {
+        "id": "tt2560140:1:21",
+        "title": "Golpe devastador. 57.ª expedición más allá de las murallas (5)",
+        "season": 1,
+        "episode": 21,
+        "overview": "Parece que la titán hembra ha conseguido escapar, pero no está dispuesta a retirarse, así que prosigue con su misión. Por otro lado, los de la Legión de Reconocimiento también seguirán adelante.",
+        "released": "2013-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eFI6G70djH0OGRz1NFQZKicImGA.jpg"
+      },
+      {
+        "id": "tt2560140:1:22",
+        "title": "Los derrotados. 57.ª expedición más allá de las murallas (6)",
+        "season": 1,
+        "episode": 22,
+        "overview": "La titán hembra huye con Eren, así que Mikasa y Levi tendrán que hacer todo lo posible por evitar que se lo lleve definitivamente... si es que sigue con vida.",
+        "released": "2013-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2zk4zdZ12Oinssj4DVkVA15URrs.jpg"
+      },
+      {
+        "id": "tt2560140:1:23",
+        "title": "Sonrisa. Redada en el distrito Trost (1)",
+        "season": 1,
+        "episode": 23,
+        "overview": "La Legión ha vuelto a la ciudad completamente derrotada y debe soportar las duras críticas de la gente. Entretanto, Armin le pide ayuda a Annie para huir de la ciudad con Eren.",
+        "released": "2013-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vpINMIcoDuJRrQ5w719gsUDzdgH.jpg"
+      },
+      {
+        "id": "tt2560140:1:24",
+        "title": "Piedad. Redada en el distrito Trost (2)",
+        "season": 1,
+        "episode": 24,
+        "overview": "Por fin se conoce la verdadera identidad de la titán hembra, así que comienza la lucha definitiva para atraparla. La humanidad necesita a Eren más que nunca, pero él no es capaz de transformarse.",
+        "released": "2013-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/36TL36zTiN4GnYuBgqCPfHjsrWE.jpg"
+      },
+      {
+        "id": "tt2560140:1:25",
+        "title": "La muralla. Redada en el distrito Trost (3)",
+        "season": 1,
+        "episode": 25,
+        "overview": "Eren finalmente decide deshacerse de su humanidad para lograr una victoria para la humanidad. ¿Será capaz de derrotar a la titán hembra de una vez por todas?",
+        "released": "2013-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2euk86Y2huYGUHuuAAczyLydNWE.jpg"
+      },
+      {
+        "id": "tt2560140:2:1",
+        "title": "El titán bestia",
+        "season": 2,
+        "episode": 1,
+        "overview": "Pese a sus previas victorias, la humanidad sigue corriendo peligro porque los titanes han atravesado la Muralla Rose. Y por si fuera poco, ha aparecido un nuevo tipo de titán en las inmediaciones.",
+        "released": "2017-04-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sczAgbEyvLwnMhjSRo3KhSR5FEc.jpg"
+      },
+      {
+        "id": "tt2560140:2:2",
+        "title": "Regreso a casa",
+        "season": 2,
+        "episode": 2,
+        "overview": "Mientras surgen cada vez más dudas sobre la composición de los materiales de las murallas, algunos integrantes como Sasha o Connie regresan a sus aldeas, solo para ser testigos de un panorama desolador.",
+        "released": "2017-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cVtiOuKZbAOmPhJOipNokPae4cc.jpg"
+      },
+      {
+        "id": "tt2560140:2:3",
+        "title": "Hacia el suroeste",
+        "season": 2,
+        "episode": 3,
+        "overview": "Diferentes grupos están recorriendo las proximidades para encontrar la brecha en la muralla. Por otra parte, parece ser que Eren tendrá un papel muy importante para la protección de la muralla.",
+        "released": "2017-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kjjKsoZojdCWiydpkQf9dFIclZH.jpg"
+      },
+      {
+        "id": "tt2560140:2:4",
+        "title": "Soldado",
+        "season": 2,
+        "episode": 4,
+        "overview": "El grupo que se encuentra en las ruinas del castillo Utgard está teniendo serios problemas, dado que está sufriendo un gran asedio por parte de los titanes y liderado por el misterioso titán bestia.",
+        "released": "2017-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ykAYnzBvVkFlb4uik0jb50HeHh9.jpg"
+      },
+      {
+        "id": "tt2560140:2:5",
+        "title": "Historia",
+        "season": 2,
+        "episode": 5,
+        "overview": "En este episodio ahondaremos en el pasado que existe entre Christa e Ymir. Eso nos permitirá saber algo mejor qué motivaciones tiene Ymir para actuar como actúa en pleno enfrentamiento contra los titanes en el castillo Utgard.",
+        "released": "2017-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ixW3tXUUK4RrEzFhWhLU0NVI0zn.jpg"
+      },
+      {
+        "id": "tt2560140:2:6",
+        "title": "Guerrero",
+        "season": 2,
+        "episode": 6,
+        "overview": "Parece que la crisis se ha logrado evitar en gran parte gracias al sacrificio de Ymir, que ha mostrado públicamente quién es en realidad. Pero todo apunta a que la situación no ha terminado del todo, pues quedan más titanes.",
+        "released": "2017-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mGsGFFdkjXeLikNShJfBu81NVlD.jpg"
+      },
+      {
+        "id": "tt2560140:2:7",
+        "title": "Golpea, arroja, somete",
+        "season": 2,
+        "episode": 7,
+        "overview": "Tras la desgarradora revelación del episodio anterior, es hora de luchar a muerte contra el titán colosal y el titán acorazado. ¿Podrán Eren y sus compañeros salir con vida de esta dura situación?",
+        "released": "2017-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tXRinQf6X3DRrJjWGnq9wijIQQ0.jpg"
+      },
+      {
+        "id": "tt2560140:2:8",
+        "title": "Perseguidores",
+        "season": 2,
+        "episode": 8,
+        "overview": "Reiner y Bertholdt se llevaron a Eren y a Ymir. Mikasa, Armin y Hannes se han quedado atrás, sobre la muralla, preocupados por el destino de Eren. Mientras tanto, se prepara un grupo para ir en busca de nuestro protagonista.",
+        "released": "2017-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ryAWXAwuJVnssPYZU6tLCsdNZEr.jpg"
+      },
+      {
+        "id": "tt2560140:2:9",
+        "title": "Apertura",
+        "season": 2,
+        "episode": 9,
+        "overview": "Ymir y Eren están retenidos en contra de su voluntad. Eren quiere respuestas, pero ni Reiner ni Bertholdt parecen muy dispuestos a hablar de sus motivaciones u objetivos.",
+        "released": "2017-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1mLrRyRdD0KJLbMqUcHY5VCq72r.jpg"
+      },
+      {
+        "id": "tt2560140:2:10",
+        "title": "Niños",
+        "season": 2,
+        "episode": 10,
+        "overview": "La Legión ha dado caza a Reiner y compañía, así que tienen que emprender la huida. No obstante, Ymir está obsesionada con llevarse a Christa con ella y no parará hasta conseguirlo.",
+        "released": "2017-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mXvMLRj2rlYdoOSoVe5oHZz7faZ.jpg"
+      },
+      {
+        "id": "tt2560140:2:11",
+        "title": "Asalto",
+        "season": 2,
+        "episode": 11,
+        "overview": "Mientras Bertholdt y los demás huyen, los miembros de la Legión les dan caza para intentar salvar a Eren y a Christa. Y estarán dispuestos a sacrificarlo todo, pues sin Eren, la humanidad no tiene futuro.",
+        "released": "2017-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2WRCppDd5AXvFOidA5GZFiCG0Ix.jpg"
+      },
+      {
+        "id": "tt2560140:2:12",
+        "title": "Grito",
+        "season": 2,
+        "episode": 12,
+        "overview": "Eren por fin tiene ante sus ojos al titán que acabó con la vida de su madre, así que se dispondrá a matarlo para vengarse, pero algo no va bien.",
+        "released": "2017-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3wjYUJLyYK16Qm70IonUAaroCde.jpg"
+      },
+      {
+        "id": "tt2560140:3:1",
+        "title": "Señal de humo",
+        "season": 3,
+        "episode": 1,
+        "overview": "Hay que proteger a Eren y a Historia a cualquier precio debido a que son vitales para el futuro de la humanidad, pero ¿quién es el enemigo?",
+        "released": "2018-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g5gdbz4MUxHYAakgFeHfAOQMIvs.jpg"
+      },
+      {
+        "id": "tt2560140:3:2",
+        "title": "Dolor",
+        "season": 3,
+        "episode": 2,
+        "overview": "Kenny, un viejo fantasma del pasado de Levi, hace acto de presencia... pero de una forma para nada amistosa.",
+        "released": "2018-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5qFlHCtb82MWuMf72NgXltjnq96.jpg"
+      },
+      {
+        "id": "tt2560140:3:3",
+        "title": "Historias del pasado",
+        "season": 3,
+        "episode": 3,
+        "overview": "El pasado suele contener información muy importante sobre los hechos que tienen lugar en el presente, sobre todo si se trata del pasado de gente como Historia o Erwin.",
+        "released": "2018-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/40NoDcR6HqiUlMmuO84cC3BfW56.jpg"
+      },
+      {
+        "id": "tt2560140:3:4",
+        "title": "Confianza",
+        "season": 3,
+        "episode": 4,
+        "overview": "La conspiración de la Policía Interior parece estar viéndose cada vez con mayor claridad, y los miembros de la Legión de Reconocimiento harán lo imposible por frenar sus planes.",
+        "released": "2018-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hHRzu09zqzwA2c2J5VF48zAbc78.jpg"
+      },
+      {
+        "id": "tt2560140:3:5",
+        "title": "Respuesta",
+        "season": 3,
+        "episode": 5,
+        "overview": "La vida de Erwin corre un gravísimo peligro ya que ha sido apresado y se le va a someter a un juicio por traición a la humanidad.",
+        "released": "2018-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f4N2VrRSA8ghqGdCtSVRTNnpEO7.jpg"
+      },
+      {
+        "id": "tt2560140:3:6",
+        "title": "Pecado",
+        "season": 3,
+        "episode": 6,
+        "overview": "Eren está encerrado y encadenado mientras va a ser conocedor de una parte del pasado que quizá no le traiga muy buenos recuerdos.",
+        "released": "2018-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/GK11zADVSDF7VWS1CXvBrUhf0G.jpg"
+      },
+      {
+        "id": "tt2560140:3:7",
+        "title": "Deseo",
+        "season": 3,
+        "episode": 7,
+        "overview": "A medida que estalla la batalla para evitar el ritual, Historia toma una decisión impactante que lleva a una catástrofe.",
+        "released": "2018-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ujJLDJ8rC2jU8eMPEN7VsP2nftA.jpg"
+      },
+      {
+        "id": "tt2560140:3:8",
+        "title": "La muralla exterior de Orvud",
+        "season": 3,
+        "episode": 8,
+        "overview": "Cuando todo se derrumba, Eren debe creer en sí mismo para salvar a sus amigos. Pero Eren solo puede no ser suficiente para detener la inminente fatalidad.",
+        "released": "2018-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Gm8GDMPsviXQJRzunQTTWlXnw1.jpg"
+      },
+      {
+        "id": "tt2560140:3:9",
+        "title": "La reina de la muralla",
+        "season": 3,
+        "episode": 9,
+        "overview": "El nuevo y descomunal titán supone una amenaza terrible para la humanidad, que ya piensa en su extinción, por lo que si quieren evitarlo, deberán idear algo a la mayor brevedad posible.",
+        "released": "2018-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a5HryZioGnROWRyona6uSjZQyq5.jpg"
+      },
+      {
+        "id": "tt2560140:3:10",
+        "title": "Amigo",
+        "season": 3,
+        "episode": 10,
+        "overview": "Kenny es un personaje importante para la historia desde hace muchísimo tiempo, puesto que tenía vínculos con el anterior rey y también tuvo una parte de responsabilidad en la crianza de Levi.",
+        "released": "2018-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oIqiOCiui0wBkGImdxma4XfWsnJ.jpg"
+      },
+      {
+        "id": "tt2560140:3:11",
+        "title": "Espectador",
+        "season": 3,
+        "episode": 11,
+        "overview": "Hay muchas preguntas que todavía no tienen respuesta, pero Eren tuvo una visión en la cueva que quizás pueda aportar algo de luz a la situación.",
+        "released": "2018-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qeISjI2nxqaaUvf4LcW9rlExGcY.jpg"
+      },
+      {
+        "id": "tt2560140:3:12",
+        "title": "La noche de la operación de reconquista",
+        "season": 3,
+        "episode": 12,
+        "overview": "La Legión se prepara para comenzar con una operación vital que tiene el potencial de suponer el punto de inflexión para el futuro de la humanidad.",
+        "released": "2018-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aFmPdWGTXXRQun2yQzS9ojX3yzC.jpg"
+      },
+      {
+        "id": "tt2560140:3:13",
+        "title": "La ciudad donde empezó todo",
+        "season": 3,
+        "episode": 13,
+        "overview": "Eren y todos sus compañeros se dirigen a Shiganshina para dar el primer paso para acabar definitivamente con los titanes, pero al llegar allí ven que algo no encaja.",
+        "released": "2019-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uI0Aazy8kUgT7LKu4UGascoPw7i.jpg"
+      },
+      {
+        "id": "tt2560140:3:14",
+        "title": "Lanzas relámpago",
+        "season": 3,
+        "episode": 14,
+        "overview": "Los titanes tenían preparada una emboscada, pero nuestros protagonistas no vinieron sin preparar, ya que tienen estrategias y nuevo armamento en su poder para hacerles frente.",
+        "released": "2019-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2XX3Oq8VLE2khmISIvOtJgCOL19.jpg"
+      },
+      {
+        "id": "tt2560140:3:15",
+        "title": "Descenso",
+        "season": 3,
+        "episode": 15,
+        "overview": "Todo parecía ir viento en popa contra el titán acorazado gracias a las lanzas relámpago, pero el plan del bando de los titanes no se quedaba ahí y tenían más cosas en mente.",
+        "released": "2019-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9SLwCEPccFQaQabdoxDmjSIdDWU.jpg"
+      },
+      {
+        "id": "tt2560140:3:16",
+        "title": "Juego perfecto",
+        "season": 3,
+        "episode": 16,
+        "overview": "La situación parecía ir mejorando, pero la aparición del titán colosal ha revertido todo de golpe. Y si eso fuera poco, el titán bestia está fuera de la ciudad apoyándolo.",
+        "released": "2019-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jH3AxrnKAb1fbKwN2Pn3wIoqji2.jpg"
+      },
+      {
+        "id": "tt2560140:3:17",
+        "title": "Héroe",
+        "season": 3,
+        "episode": 17,
+        "overview": "Cada vez las cosas están peor en Shiganshina, y el titán bestia y los demás enemigos están masacrando a los luchadores de la humanidad, así que habrá que idear un nuevo plan.",
+        "released": "2019-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/osjtJwgfHr66m65Hnmb9qVqVn5s.jpg"
+      },
+      {
+        "id": "tt2560140:3:18",
+        "title": "Sol de medianoche",
+        "season": 3,
+        "episode": 18,
+        "overview": "El sacrificio de Armin no fue en vano y Bertholdt finalmente cae. Por suerte, hay un modo de salvarle la vida, aunque aparecerá un nuevo problema.",
+        "released": "2019-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/66eGWciFTEr2Igp5nXPpt8ZC8j.jpg"
+      },
+      {
+        "id": "tt2560140:3:19",
+        "title": "Sótano",
+        "season": 3,
+        "episode": 19,
+        "overview": "Una vez realizado un nuevo sacrificio, es hora de volver a la casa de Eren para visitar el sótano donde se encierra toda la verdad.",
+        "released": "2019-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6JT83J6bV4W4Yi9B1v1lrYsfMHy.jpg"
+      },
+      {
+        "id": "tt2560140:3:20",
+        "title": "Aquel día",
+        "season": 3,
+        "episode": 20,
+        "overview": "Finalmente han conseguido llegar al sótano donde Grisha ocultaba toda la información. Allí Eren finalmente conocerá toda la verdad sobre el pasado de su padre.",
+        "released": "2019-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h6NOM2GcAIGnS9buXire5MBmU8w.jpg"
+      },
+      {
+        "id": "tt2560140:3:21",
+        "title": "Ataque a los titanes",
+        "season": 3,
+        "episode": 21,
+        "overview": "Grisha y el Búho hablan largo y tendido sobre la situación actual, sobre los titanes y sobre el titán fundador, del que por ahora poco se sabe al respecto.",
+        "released": "2019-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k6vEmquLyVY1ke0iJwE0G9MP8Uw.jpg"
+      },
+      {
+        "id": "tt2560140:3:22",
+        "title": "Al otro lado de las murallas",
+        "season": 3,
+        "episode": 22,
+        "overview": "La humanidad ya tiene más información al respecto de los titanes y lo que puede haber más allá de las murallas, así que Eren y compañía iniciarán una nueva expedición.",
+        "released": "2019-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/opSGg7KLG01ja2nfiE715vbsumL.jpg"
+      },
+      {
+        "id": "tt2560140:4:1",
+        "title": "Al otro lado del mar",
+        "season": 4,
+        "episode": 1,
+        "overview": "La historia da un salto y nos muestra la guerra entre Marley y la Alianza de Medio Oriente.",
+        "released": "2020-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eqRF1ZQSzx31iLkyeJa95hMnWSr.jpg"
+      },
+      {
+        "id": "tt2560140:4:2",
+        "title": "Tren de medianoche",
+        "season": 4,
+        "episode": 2,
+        "overview": "Reiner regresa a Liberio después de mucho tiempo y se encuentra con sus familiares y seres queridos.",
+        "released": "2020-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oWqPmJGtbLpOlxLmlU5wSkaxBij.jpg"
+      },
+      {
+        "id": "tt2560140:4:3",
+        "title": "La puerta de la esperanza",
+        "season": 4,
+        "episode": 3,
+        "overview": "La historia se centra en el pasado de nuevo, cuando Reiner, Annie y los demás llegaron hasta la Isla Paradis.",
+        "released": "2020-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qy5HFULnm26qfIWOV98WOtJQTnD.jpg"
+      },
+      {
+        "id": "tt2560140:4:4",
+        "title": "De mano en mano",
+        "season": 4,
+        "episode": 4,
+        "overview": "Mientras todavía está pendiente saber quién heredará al titán acorazado, el cabeza de familia de los Tybur prepara algo impactante.",
+        "released": "2020-12-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9S4W9H69wM3YQv6ebH9iSFVqrmF.jpg"
+      },
+      {
+        "id": "tt2560140:4:5",
+        "title": "Declaración de guerra",
+        "season": 4,
+        "episode": 5,
+        "overview": "Mientras Willy Tybur revela la verdad en un impactante discurso al mundo, las tensiones aumentan detrás del escenario cuando Eren y Reiner se encuentran cara a cara.",
+        "released": "2021-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ykQuASjQ4Q93Dnv10h0AxEmkDym.jpg"
+      },
+      {
+        "id": "tt2560140:4:6",
+        "title": "Titán martillo de guerra",
+        "season": 4,
+        "episode": 6,
+        "overview": "El alboroto de Eren se ve frustrado por el Titán martillo de guerra, cuya tenacidad lo deja perplejo. Con el ejército de Marley uniéndose a la lucha, tendrá dificultades para sobrevivir por su cuenta.",
+        "released": "2021-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fYwa43vhmIEhTrrrNUJ13LA8YsG.jpg"
+      },
+      {
+        "id": "tt2560140:4:7",
+        "title": "Asalto",
+        "season": 4,
+        "episode": 7,
+        "overview": "Las fuerzas de Paradis comienzan su asalto, pero los Guerreros se mantienen firmes. Mientras las tropas de Marley se acercan a ellos, Eren lucha por romper las defensas del Martillo de Guerra.",
+        "released": "2021-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4fYKNPg6npvAr8S3gVs6NDmiz9Z.jpg"
+      },
+      {
+        "id": "tt2560140:4:8",
+        "title": "La bala del asesino",
+        "season": 4,
+        "episode": 8,
+        "overview": "Sin Titanes que amenacen con escapar, los Scouts se retiran en la aeronave. Decidida a hacerles pagar por pisotear su casa, Gabi la persigue con una pistola en la mano.",
+        "released": "2021-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2vpDtLZnQLSiwBko8xbAMDTqvDX.jpg"
+      },
+      {
+        "id": "tt2560140:4:9",
+        "title": "Voluntarios",
+        "season": 4,
+        "episode": 9,
+        "overview": "Todavía sin digerir lo ocurrido en el episodio anterior, Armin se plantea si muchas de las cosas que hicieron en el pasado fueron las correctas.",
+        "released": "2021-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aq8oMwYb3zewlbeb1uh53pf6IOy.jpg"
+      },
+      {
+        "id": "tt2560140:4:10",
+        "title": "Argumentos sólidos",
+        "season": 4,
+        "episode": 10,
+        "overview": "Hay muchos planes y muchas vidas en juego, y las dudas sobre la actitud y las inclinaciones de Eren no dejan de crecer.",
+        "released": "2021-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/so6rHSKqbB4epZ8gH2fchb3J4hP.jpg"
+      },
+      {
+        "id": "tt2560140:4:11",
+        "title": "Farsante",
+        "season": 4,
+        "episode": 11,
+        "overview": "Gabi y Falco consiguen escapar y emprenden la huida. Y se encuentran por el camino a una joven que les brindará su ayuda.",
+        "released": "2021-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a0IoWgOTP9l1b5ToMGdKPPGK0WC.jpg"
+      },
+      {
+        "id": "tt2560140:4:12",
+        "title": "Aquel que nos guía",
+        "season": 4,
+        "episode": 12,
+        "overview": "Las dudas y la desconfianza sobre Eren son cada vez mayores. Y un acontecimiento reciente acrecentará aún más esas dudas.",
+        "released": "2021-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pV4KZvQUFtXxCUuHpLZSeOUENi6.jpg"
+      },
+      {
+        "id": "tt2560140:4:13",
+        "title": "Los hijos del bosque",
+        "season": 4,
+        "episode": 13,
+        "overview": "La guerra solo sirve para sembrar más y más odio. ¿Qué hará el padre de Sasha cuando tenga ante sus ojos a Gabi y sepa lo ocurrido?",
+        "released": "2021-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AuJfvRvUQvXU38t4YdYhL2FHt55.jpg"
+      },
+      {
+        "id": "tt2560140:4:14",
+        "title": "Violencia",
+        "season": 4,
+        "episode": 14,
+        "overview": "Eren aparece ante sus antiguos amigos y les dice que quiere hablar con ellos. Mientras tanto, Levi y Zeke tendrán más que palabras.",
+        "released": "2021-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fcF46uEXO9VQtNgJkFSfOg27dU0.jpg"
+      },
+      {
+        "id": "tt2560140:4:15",
+        "title": "La única salvación",
+        "season": 4,
+        "episode": 15,
+        "overview": "Seremos testigos del pasado de Zeke, donde sufría una constante discriminación solo por su origen, algo que él no comprendía.",
+        "released": "2021-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4NKaIWiO8y5M33cKIOe70qxjpKV.jpg"
+      },
+      {
+        "id": "tt2560140:4:16",
+        "title": "Cielo y tierra",
+        "season": 4,
+        "episode": 16,
+        "overview": "Las piezas van encajando lentamente en el puzle. ¿Qué es lo que trama Jelena en realidad junto a Zeke?",
+        "released": "2021-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aWpoliRX1m1kR4uFqtgneMcBrNf.jpg"
+      },
+      {
+        "id": "tt2560140:4:17",
+        "title": "Juicio",
+        "season": 4,
+        "episode": 17,
+        "overview": "Hay un soldado abatido bajo la lluvia. A su lado, de entre el vapor de un titán, emerge él. Al mismo tiempo, Marley prepara un ataque sorpresa en Shiganshina y los titanes se movilizan. El titán fundador y el titán acorazado se enfrentarán. \"Ven, Reiner\".",
+        "released": "2022-01-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cQp51TGhvY4rBv1DOjXAUhlF32Y.jpg"
+      },
+      {
+        "id": "tt2560140:4:18",
+        "title": "Ataque furtivo",
+        "season": 4,
+        "episode": 18,
+        "overview": "¿Misaka quiere ayudar a Eren por iniciativa propia? ¿Por qué pelea Eren? El ataque sorpresa de Marley lanza a todos al campo de batalla mientras resuena el choque de los titanes.",
+        "released": "2022-01-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jaC9B14RbTOZskWjRX9nCpgcRg.jpg"
+      },
+      {
+        "id": "tt2560140:4:19",
+        "title": "Dos Hermanos",
+        "season": 4,
+        "episode": 19,
+        "overview": "El titán bestia y el titán fundador. El conflicto se extiende en torno a los titanes que son la clave de la situación. ¿Cuál es la meta de estos dos hermanos cuyos recuerdos y sentimientos se entrecruzan?",
+        "released": "2022-01-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xljKlZf3RIrRsrhaxdCBjvO1uFn.jpg"
+      },
+      {
+        "id": "tt2560140:4:20",
+        "title": "Recuerdos del futuro",
+        "season": 4,
+        "episode": 20,
+        "overview": "El menor rechazó al mayor y el mayor no abandonó al menor. En ese lugar remoto, Eren y Zeke conocen la verdad sobre su padre Grisha en sus recuerdos de aquel día.",
+        "released": "2022-01-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9NEZISr8VKpRVDqcC1i8cOpxsJf.jpg"
+      },
+      {
+        "id": "tt2560140:4:21",
+        "title": "De parte de tu yo de hace 2000 años",
+        "season": 4,
+        "episode": 21,
+        "overview": "La historia de gente que se resistió, peleó y siguió avanzando. ¿Quién fue el que la empezó? Eren habla con una Ymir que no deja de caminar. \"Hace 2 000 años que esperas a alguien\"",
+        "released": "2022-02-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vRXC0k8wsCFRwmgWwVu7KDcGKRT.jpg"
+      },
+      {
+        "id": "tt2560140:4:22",
+        "title": "Deshielo",
+        "season": 4,
+        "episode": 22,
+        "overview": "La tierra rugió. Una nube de polvo se alza hasta el cielo. Un grupo de titanes avanza hacia delante. Las murallas de la isla han desaparecido. Nadie podrá impedir que Eren extermine todas las vidas del mundo exterior.",
+        "released": "2022-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1b1TEZCiJqJ6c1Wcx9YQUdj37Aj.jpg"
+      },
+      {
+        "id": "tt2560140:4:23",
+        "title": "Atardecer",
+        "season": 4,
+        "episode": 23,
+        "overview": "Antes eran amigos. Antes eran enemigos. El tiempo congelado avanza y todo cambia. ¿Qué elegirá entonces?",
+        "released": "2022-02-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v3W1R7NSLQKiVf5Nmi6rFxFD7j4.jpg"
+      },
+      {
+        "id": "tt2560140:4:24",
+        "title": "Orgullo",
+        "season": 4,
+        "episode": 24,
+        "overview": "La horda de titanes avanza. Al verlos aplastar a gente que no sabe nada,¿se quedarán los soldados quietos o se alzarán? Los sentimientos de dos soldados en el bosque ya están claros.",
+        "released": "2022-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/atKHPrLW5RRG1dUrahRrTXjJVAr.jpg"
+      },
+      {
+        "id": "tt2560140:4:25",
+        "title": "La noche del fin",
+        "season": 4,
+        "episode": 25,
+        "overview": "Antes de la guerra solo teníamos un enemigo. Nos odiamos, despreciamos y matamos. Ahora, al otro lado de la hoguera, están aquellos con una \"justicia\" diferente",
+        "released": "2022-03-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2XNOaOXY073RsdSh6mhLjd8pF1V.jpg"
+      },
+      {
+        "id": "tt2560140:4:26",
+        "title": "Traidor",
+        "season": 4,
+        "episode": 26,
+        "overview": "Detendrán a Eren para salvar el mundo. Antiguos compañeros se postran ante ellos, cortándoles el paso. Pelean sabiendo que nadie quiere morir.",
+        "released": "2022-03-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xUcJ93Tt5RHjdFPeXBKDEH3J7U1.jpg"
+      },
+      {
+        "id": "tt2560140:4:27",
+        "title": "Nostalgia",
+        "season": 4,
+        "episode": 27,
+        "overview": "Para que el barco volador pueda despegar, los mecánicos necesitarán. Sabiendo que no aguantarán tanto tiempo con los refuerzos Jaegeristas en camino, el grupo se ve obligado a cambiar sus planes.",
+        "released": "2022-03-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z1ymXAlYjYeTfsFvOAveVdSBeqQ.jpg"
+      },
+      {
+        "id": "tt2560140:4:28",
+        "title": "El amanecer de la humanidad",
+        "season": 4,
+        "episode": 28,
+        "overview": "Sin importar donde empezó todo, Eren continúa su camino de destrucción durante la primera visita de la Legión a Marley. Mikasa se pregunta si las cosas pudieron ser de otra forma.",
+        "released": "2022-04-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9IT29LxBTDd610r2XzzGZXeca0b.jpg"
+      }
+    ]
+  }
+}

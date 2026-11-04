@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0065377",
+    "type": "movie",
+    "name": "Airport",
+    "poster": "https://image.tmdb.org/t/p/w500/6EijWVZtRhrrxUlNts0GzXluM5i.jpg",
+    "posterShape": "poster",
+    "description": "An airport manager tries to keep his terminals open during a snowstorm, while a suicide bomber plots to blow up a Boeing 707 airliner in flight.",
+    "releaseInfo": "1970",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Acción"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/4h4UaUk0ENBR9mdttafE1q4fkeI.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,890 @@
+{
+  "meta": {
+    "id": "tt2250192",
+    "type": "series",
+    "name": "Sword Art Online",
+    "poster": "https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
+    "posterShape": "poster",
+    "description": "En el año 2022, miles de jugadores quedan atrapados dentro de Sword Art Online, el primer VRMMORPG de inmersión total. Lo que parecía un sueño se convierte en una pesadilla cuando el creador del juego revela que morir en el mundo virtual significa morir en el mundo real. Kirito, un hábil jugador solitario, decide luchar para alcanzar el piso 100 de la torre de Aincrad y así liberar a todos, pero en su camino encontrará aliados, enemigos y un amor que trascenderá los límites digitales.",
+    "releaseInfo": "2012",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wJi7fRmHw0wRMldUY28sSzXpp4G.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.1"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt2250192:1:1",
+        "title": "El mundo de las espadas",
+        "season": 1,
+        "episode": 1,
+        "overview": "Diez mil jugadores quedan atrapados en el primer VRMMORPG de la historia. Kirito acepta su destino y parte solo para sobrevivir.",
+        "released": "2012-07-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wokec1ewZhYNMLcKuK01H09i2pB.jpg"
+      },
+      {
+        "id": "tt2250192:1:2",
+        "title": "Beater",
+        "season": 1,
+        "episode": 2,
+        "overview": "Un grupo de jugadores intenta derrotar al jefe del primer piso. Kirito es acusado de ser un \"Beater\" por su ventaja como Beta Tester.",
+        "released": "2012-07-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hiBynS5SFi0ltxFsaYtq39C9k76.jpg"
+      },
+      {
+        "id": "tt2250192:1:3",
+        "title": "El reno de la nariz roja",
+        "season": 1,
+        "episode": 3,
+        "overview": "Kirito se une al gremio \"Gatos Negros de la Luna Llena\", pero una tragedia en una trampa cambia su vida para siempre.",
+        "released": "2012-07-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kxBO1gp72V4uBWLSACzL3RvEjQ9.jpg"
+      },
+      {
+        "id": "tt2250192:1:4",
+        "title": "El espadachín negro",
+        "season": 1,
+        "episode": 4,
+        "overview": "Kirito ayuda a Silica, una joven domadora de bestias, a resucitar a su mascota dragón mientras enfrenta a una banda de criminales.",
+        "released": "2012-07-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xg8AqSOPUaEJvaG8GcdPsCIT2MI.jpg"
+      },
+      {
+        "id": "tt2250192:1:5",
+        "title": "Incidente de asesinato en la zona segura",
+        "season": 1,
+        "episode": 5,
+        "overview": "Kirito y Asuna investigan un misterioso asesinato ocurrido dentro de una ciudad, donde teóricamente nadie puede morir.",
+        "released": "2012-08-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4r89kn8VYl2NahtGAOS1V552w71.jpg"
+      },
+      {
+        "id": "tt2250192:1:6",
+        "title": "El vengador fantasma",
+        "season": 1,
+        "episode": 6,
+        "overview": "La resolución del misterio del asesinato revela una trama de rencor y traición dentro de un gremio ya disuelto.",
+        "released": "2012-08-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zz9Zw04cvobbS5Bf9MYKxptk9aQ.jpg"
+      },
+      {
+        "id": "tt2250192:1:7",
+        "title": "La temperatura del corazón",
+        "season": 1,
+        "episode": 7,
+        "overview": "Kirito busca una nueva espada y recurre a Lisbeth, una talentosa herrera. Juntos emprenden una misión para obtener materiales raros.",
+        "released": "2012-08-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iWGUPY39gmNrMmKAfkP8dalEVyz.jpg"
+      },
+      {
+        "id": "tt2250192:1:8",
+        "title": "La danza de la espada de blanco y negro",
+        "season": 1,
+        "episode": 8,
+        "overview": "Tras obtener un ingrediente de cocina legendario, Kirito y Asuna forman equipo nuevamente, enfrentando la envidia de otros jugadores.",
+        "released": "2012-08-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg"
+      },
+      {
+        "id": "tt2250192:1:9",
+        "title": "El demonio de ojos azules",
+        "season": 1,
+        "episode": 9,
+        "overview": "Kirito se ve obligado a revelar su habilidad única, \"Doble Empuñadura\", para salvar a un grupo de la aniquilación ante un jefe feroz.",
+        "released": "2012-09-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t2GBif2MdqYhZvQx755Y9xunQkF.jpg"
+      },
+      {
+        "id": "tt2250192:1:10",
+        "title": "Instinto asesino carmesí",
+        "season": 1,
+        "episode": 10,
+        "overview": "Kirito pierde un duelo contra Heathcliff y debe unirse a los Caballeros de la Hermandad de Sangre, topándose con un traidor.",
+        "released": "2012-09-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2A6GRQT5uDJhq9vc46fISn0CNzm.jpg"
+      },
+      {
+        "id": "tt2250192:1:11",
+        "title": "La chica del rocío matutino",
+        "season": 1,
+        "episode": 11,
+        "overview": "Kirito y Asuna se casan y se retiran al piso 22, donde encuentran en el bosque a una niña misteriosa llamada Yui.",
+        "released": "2012-09-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tULdNWI4qoToSyO5PUEiwRWncAh.jpg"
+      },
+      {
+        "id": "tt2250192:1:12",
+        "title": "El corazón de Yui",
+        "season": 1,
+        "episode": 12,
+        "overview": "Mientras ayudan a una líder de gremio en las mazmorras bajo la ciudad inicial, Yui revela su verdadera identidad y propósito.",
+        "released": "2012-09-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k8rzVr0A4jtsskjRMLEM5NNlqfr.jpg"
+      },
+      {
+        "id": "tt2250192:1:13",
+        "title": "El borde del abismo",
+        "season": 1,
+        "episode": 13,
+        "overview": "Una tranquila jornada de pesca se interrumpe cuando Kirito y Asuna son convocados para la batalla final en el piso 75.",
+        "released": "2012-09-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ooI4fJvu4eUZgvRTQx1v3uzUTLU.jpg"
+      },
+      {
+        "id": "tt2250192:1:14",
+        "title": "El fin del mundo",
+        "season": 1,
+        "episode": 14,
+        "overview": "Kirito descubre la verdadera identidad del líder Heathcliff. El duelo final por la libertad de todos los jugadores comienza.",
+        "released": "2012-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fcnSuM0WQyKODZ6BD1yUGJpDbIf.jpg"
+      },
+      {
+        "id": "tt2250192:1:15",
+        "title": "Regreso",
+        "season": 1,
+        "episode": 15,
+        "overview": "SAO ha terminado, pero 300 personas, incluida Asuna, no despiertan. Kazuto descubre una foto de ella atrapada en un nuevo juego: ALfheim Online.",
+        "released": "2012-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sMmzH8KpSNV9dGEQ3LP1Xzeokfo.jpg"
+      },
+      {
+        "id": "tt2250192:1:16",
+        "title": "El mundo de las hadas",
+        "season": 1,
+        "episode": 16,
+        "overview": "Kazuto se sumerge en ALfheim Online como un Spriggan para rescatar a Asuna de la cima del Árbol del Mundo.",
+        "released": "2012-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/grHJC5Gk7fuk8jywVhs7UYXLiLG.jpg"
+      },
+      {
+        "id": "tt2250192:1:17",
+        "title": "La reina cautiva",
+        "season": 1,
+        "episode": 17,
+        "overview": "Asuna intenta escapar de su jaula dorada en la cima del árbol, mientras Kirito conoce a una hábil guerrera Sylph llamada Leafa.",
+        "released": "2012-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b702zYjB82kk0APiyCCYBn7fGJU.jpg"
+      },
+      {
+        "id": "tt2250192:1:18",
+        "title": "Hacía el árbol del mundo",
+        "season": 1,
+        "episode": 18,
+        "overview": "Kirito y Leafa comienzan su viaje hacia la capital. Suguha lidia con sus sentimientos confusos hacia su hermano Kazuto.",
+        "released": "2012-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kP5JiBHMtIuiTcntCZUe9ERzAYj.jpg"
+      },
+      {
+        "id": "tt2250192:1:19",
+        "title": "El corredor Lugru",
+        "season": 1,
+        "episode": 19,
+        "overview": "Una emboscada de magos Salamander pone a prueba las habilidades de Kirito en el nuevo sistema de vuelo y magia.",
+        "released": "2012-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eMcIqPhChoBMpzqXG4CIUuEjKR3.jpg"
+      },
+      {
+        "id": "tt2250192:1:20",
+        "title": "El general de las llamas",
+        "season": 1,
+        "episode": 20,
+        "overview": "Kirito interviene en una reunión diplomática para evitar una guerra entre razas, enfrentándose al poderoso General Eugene.",
+        "released": "2012-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg"
+      },
+      {
+        "id": "tt2250192:1:21",
+        "title": "La verdad sobre ALfheim",
+        "season": 1,
+        "episode": 21,
+        "overview": "Kirito y Leafa llegan a la base del Árbol del Mundo, pero un descubrimiento accidental revela sus verdaderas identidades.",
+        "released": "2012-11-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9AZUXEji3uy6yu7rtnb2iRuapYm.jpg"
+      },
+      {
+        "id": "tt2250192:1:22",
+        "title": "La gran aventura",
+        "season": 1,
+        "episode": 22,
+        "overview": "Desesperado por llegar a Asuna, Kirito intenta cruzar la Gran Misión del Árbol del Mundo solo, enfrentando un ejército infinito.",
+        "released": "2012-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d3Bl4GEYdM6rLO2BYoNz2esIAD7.jpg"
+      },
+      {
+        "id": "tt2250192:1:23",
+        "title": "Vínculos",
+        "season": 1,
+        "episode": 23,
+        "overview": "Con la ayuda de las razas aliadas, Kirito logra abrirse paso. El reencuentro con Asuna está a un paso de distancia.",
+        "released": "2012-12-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2OrvGXAS28CGhEs96FCAjkHDAUJ.jpg"
+      },
+      {
+        "id": "tt2250192:1:24",
+        "title": "El héroe dorado",
+        "season": 1,
+        "episode": 24,
+        "overview": "Kirito enfrenta a Sugou (Oberon) en el duelo final. Con la ayuda del programa remanente de Kayaba, la pesadilla virtual termina.",
+        "released": "2012-12-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3hdDhZFnQ524Tjs5ehiyrDzXJjA.jpg"
+      },
+      {
+        "id": "tt2250192:1:25",
+        "title": "La semilla del mundo",
+        "season": 1,
+        "episode": 25,
+        "overview": "Kazuto y Asuna finalmente se encuentran en el mundo real. La semilla de un nuevo universo virtual es plantada para el futuro.",
+        "released": "2012-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oPuUnWxMttvfVXv99aVgXO3qxpV.jpg"
+      },
+      {
+        "id": "tt2250192:2:1",
+        "title": "El Mundo de las Armas",
+        "season": 2,
+        "episode": 1,
+        "overview": "Kirito es reclutado por Seijirou Kikuoka para investigar las misteriosas muertes en GGO.",
+        "released": "2014-07-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7OUSXOcIs9nzdLmLz0Bwdfhrm85.jpg"
+      },
+      {
+        "id": "tt2250192:2:2",
+        "title": "La francotiradora de hielo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Se presenta a Sinon, una jugadora de GGO que busca superar su trauma a través del juego.",
+        "released": "2014-07-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1sCbBCi1nxPqVhowB4PvH9SJPZr.jpg"
+      },
+      {
+        "id": "tt2250192:2:3",
+        "title": "Recuerdos de sangre",
+        "season": 2,
+        "episode": 3,
+        "overview": "El pasado traumático de Shino Asada se revela, explicando su fobia extrema a las armas.",
+        "released": "2014-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uYykJcutnYPW8O7LAs0T7MvjXS7.jpg"
+      },
+      {
+        "id": "tt2250192:2:4",
+        "title": "GGO (Gun Gale Online)",
+        "season": 2,
+        "episode": 4,
+        "overview": "Kirito entra a GGO con un avatar inusualmente femenino y conoce a Sinon por primera vez.",
+        "released": "2014-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eJjflgwMR7kcUTOrolwqAlppb4f.jpg"
+      },
+      {
+        "id": "tt2250192:2:5",
+        "title": "La pistola y la espada",
+        "season": 2,
+        "episode": 5,
+        "overview": "Kirito demuestra sus habilidades con el sable de luz en un torneo de apuestas para ganar dinero.",
+        "released": "2014-08-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oJ9RjaDYoyky1neZvAWQRZLPA9E.jpg"
+      },
+      {
+        "id": "tt2250192:2:6",
+        "title": "Duelo en el desierto",
+        "season": 2,
+        "episode": 6,
+        "overview": "Kirito y Sinon avanzan en las clasificatorias del torneo Bullet of Bullets (BoB).",
+        "released": "2014-08-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5Q0KetmCeYoWSimDuRp5aQ1jWEJ.jpg"
+      },
+      {
+        "id": "tt2250192:2:7",
+        "title": "Memorias carmesí",
+        "season": 2,
+        "episode": 7,
+        "overview": "Kirito confiesa a Sinon que él es un sobreviviente de SAO y sus temores sobre Death Gun.",
+        "released": "2014-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4Woe1gkRDZtZztJu1Spai6dUqDU.jpg"
+      },
+      {
+        "id": "tt2250192:2:8",
+        "title": "Bullet of Bullets",
+        "season": 2,
+        "episode": 8,
+        "overview": "Comienza la fase final del torneo BoB. La tensión aumenta mientras Death Gun acecha.",
+        "released": "2014-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3htNh1oP2IZjXTf2ej2H4ZynxKW.jpg"
+      },
+      {
+        "id": "tt2250192:2:9",
+        "title": "Death Gun",
+        "season": 2,
+        "episode": 9,
+        "overview": "Kirito y Sinon son testigos de un asesinato en vivo. El pánico se apodera de los finalistas.",
+        "released": "2014-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ueDp5eL3maMX8ZzTcHUcOeccnbv.jpg"
+      },
+      {
+        "id": "tt2250192:2:10",
+        "title": "Perseguidor mortal",
+        "season": 2,
+        "episode": 10,
+        "overview": "Kirito y Sinon deciden cooperar para cazar al asesino antes de que él los cace a ellos.",
+        "released": "2014-09-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vs3DpifrmbTGuEEzLDSXAqlhAtS.jpg"
+      },
+      {
+        "id": "tt2250192:2:11",
+        "title": "El significado de la fuerza",
+        "season": 2,
+        "episode": 11,
+        "overview": "Atrapados en una cueva, Sinon y Kirito comparten sus miedos y fortalecen su resolución.",
+        "released": "2014-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/chqwmSxOydZpXiad2BMCsYrtUK0.jpg"
+      },
+      {
+        "id": "tt2250192:2:12",
+        "title": "El fantasma de la bala",
+        "season": 2,
+        "episode": 12,
+        "overview": "La batalla final contra Death Gun alcanza su clímax. Kirito debe recordar su estilo de lucha.",
+        "released": "2014-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fH9uKZtzgbsTcIUcjlSOuNCVIoM.jpg"
+      },
+      {
+        "id": "tt2250192:2:13",
+        "title": "Phantom Bullet",
+        "season": 2,
+        "episode": 13,
+        "overview": "Se revela la identidad de Death Gun en el mundo real y la vida de Shino corre peligro.",
+        "released": "2014-09-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rZCPOKK3iWsROkGe66IideIFYSl.jpg"
+      },
+      {
+        "id": "tt2250192:2:14",
+        "title": "Un pequeño paso",
+        "season": 2,
+        "episode": 14,
+        "overview": "Shino comienza su proceso de sanación y Kirito le presenta a otras víctimas de SAO.",
+        "released": "2014-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tMF65VcMIJiUBaJnb0Flq6CZroz.jpg"
+      },
+      {
+        "id": "tt2250192:2:15",
+        "title": "La reina del lago",
+        "season": 2,
+        "episode": 15,
+        "overview": "Kirito y sus amigos emprenden una misión en ALO para obtener la legendaria espada Excalibur.",
+        "released": "2014-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2e9oCP375GrV99oioySGjl5CVz0.jpg"
+      },
+      {
+        "id": "tt2250192:2:16",
+        "title": "El rey de los gigantes",
+        "season": 2,
+        "episode": 16,
+        "overview": "El grupo lucha contra una invasión de gigantes que amenaza con destruir el mapa de ALO.",
+        "released": "2014-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mYSSD9v7EGqPYOapdbIuNSUkcoA.jpg"
+      },
+      {
+        "id": "tt2250192:2:17",
+        "title": "Excalibur",
+        "season": 2,
+        "episode": 17,
+        "overview": "El desenlace de la misión. Kirito debe tomar una decisión difícil para salvar la espada.",
+        "released": "2014-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vIqsyFzN4IPJF0xTbmfB3hIYK7d.jpg"
+      },
+      {
+        "id": "tt2250192:2:18",
+        "title": "La casa del bosque",
+        "season": 2,
+        "episode": 18,
+        "overview": "Asuna y Kirito logran recuperar su casa en el piso 22 de Aincrad dentro de ALO.",
+        "released": "2014-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9AVzrSS0syPcLXakRPROGF2REOA.jpg"
+      },
+      {
+        "id": "tt2250192:2:19",
+        "title": "Zekken",
+        "season": 2,
+        "episode": 19,
+        "overview": "Asuna escucha rumores sobre \"Zekken\", una jugadora invencible, y decide retarla a un duelo.",
+        "released": "2014-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hQZ4OVlfnc1tp1EZrysc7XiA29r.jpg"
+      },
+      {
+        "id": "tt2250192:2:20",
+        "title": "Los Caballeros Durmientes",
+        "season": 2,
+        "episode": 20,
+        "overview": "Yuuki invita a Asuna a unirse a su pequeño gremio para cumplir un último deseo en el juego.",
+        "released": "2014-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1qwzt6MCPEDZxBbY1DIG8rcOqyp.jpg"
+      },
+      {
+        "id": "tt2250192:2:21",
+        "title": "El monumento de los espadachines",
+        "season": 2,
+        "episode": 21,
+        "overview": "El gremio lucha contra el jefe del piso 27 para dejar sus nombres grabados permanentemente.",
+        "released": "2014-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ifdlJmiQmUelFhTDvl56ur4QpyP.jpg"
+      },
+      {
+        "id": "tt2250192:2:22",
+        "title": "El final del viaje",
+        "season": 2,
+        "episode": 22,
+        "overview": "Asuna descubre el secreto médico de Yuuki y la difícil realidad que vive fuera del juego.",
+        "released": "2014-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lwKmF4mpen4czxhWoUDEfJCrbSm.jpg"
+      },
+      {
+        "id": "tt2250192:2:23",
+        "title": "El comienzo del sueño",
+        "season": 2,
+        "episode": 23,
+        "overview": "Asuna ayuda a Yuuki a asistir a la escuela mediante una sonda de comunicación de realidad virtual.",
+        "released": "2014-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/elqZmxx3KnUFRvzeXJ1Z1iMeABE.jpg"
+      },
+      {
+        "id": "tt2250192:2:24",
+        "title": "El Rosario de la Madre",
+        "season": 2,
+        "episode": 24,
+        "overview": "El emotivo adiós a Yuuki. Miles de jugadores se reúnen para honrar a la mejor espadachina.",
+        "released": "2014-12-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gt2yB4qmF96FQHSwbBEuYwTUon1.jpg"
+      },
+      {
+        "id": "tt2250192:3:1",
+        "title": "Underworld",
+        "season": 3,
+        "episode": 1,
+        "overview": "Kirito explora Underworld con sus amigos de la infancia Eugeo y Alice, hasta que un incidente cambia sus vidas.",
+        "released": "2018-10-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4FpuWImV6U6SuYT8QY0SQ4LZWGa.jpg"
+      },
+      {
+        "id": "tt2250192:3:2",
+        "title": "El árbol del demonio",
+        "season": 3,
+        "episode": 2,
+        "overview": "Tras despertar de nuevo en Underworld sin memoria, Kirito ayuda a Eugeo a talar el Cedro Gigas.",
+        "released": "2018-10-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vklSxL0fGZsZeMf2JSnlE5CWHZS.jpg"
+      },
+      {
+        "id": "tt2250192:3:3",
+        "title": "Las montañas del fin",
+        "season": 3,
+        "episode": 3,
+        "overview": "Kirito y Eugeo viajan a las montañas prohibidas para buscar el hielo eterno y enfrentan a una horda de goblins.",
+        "released": "2018-10-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yubH2VEg4HfRBfxL38uPc0elJv4.jpg"
+      },
+      {
+        "id": "tt2250192:3:4",
+        "title": "Partida",
+        "season": 3,
+        "episode": 4,
+        "overview": "Tras derrotar a los goblins y salvar a Selka, Eugeo logra cumplir su tarea sagrada y ambos parten a Zakkaria.",
+        "released": "2018-10-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oGEAEJX0UOf00N37rP04iApymsR.jpg"
+      },
+      {
+        "id": "tt2250192:3:5",
+        "title": "La Academia de Maestría con la Espada",
+        "season": 3,
+        "episode": 5,
+        "overview": "Dos años después, Kirito y Eugeo son cadetes en la academia de Centoria, buscando convertirse en Caballeros de la Integridad.",
+        "released": "2018-11-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jq0Q41YWgV3ZcOzG17N2mHVuLkA.jpg"
+      },
+      {
+        "id": "tt2250192:3:6",
+        "title": "El deber de un mentor",
+        "season": 3,
+        "episode": 6,
+        "overview": "Kirito entrena bajo la tutela de Liena-senpai y se enfrenta en un duelo de entrenamiento contra el arrogante Uolo.",
+        "released": "2018-11-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xXZahtMZSkjhBvu5NrIY2KEA2bN.jpg"
+      },
+      {
+        "id": "tt2250192:3:7",
+        "title": "La espada de la flor de sangre",
+        "season": 3,
+        "episode": 7,
+        "overview": "Eugeo intenta dominar su técnica mientras lidia con las provocaciones de los nobles Raios y Humbert.",
+        "released": "2018-11-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mXyRnt3o7BBIb3esUrbiW1ZZ5cy.jpg"
+      },
+      {
+        "id": "tt2250192:3:8",
+        "title": "El honor del espadachín",
+        "season": 3,
+        "episode": 8,
+        "overview": "Las tensiones estallan en la academia. Kirito y Eugeo deben defender el honor de sus discípulas ante la injusticia noble.",
+        "released": "2018-11-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cDMMjmPqU3Bx6CdQLkobJMT1tCJ.jpg"
+      },
+      {
+        "id": "tt2250192:3:9",
+        "title": "Índice de Tabúes",
+        "season": 3,
+        "episode": 9,
+        "overview": "Eugeo rompe el Índice de Tabúes para salvar a sus amigas, lo que provoca la aparición de una Alice muy diferente.",
+        "released": "2018-12-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mVSRK03EZQVDkg6lpwDcFOSp4bp.jpg"
+      },
+      {
+        "id": "tt2250192:3:10",
+        "title": "Caballero de la Integridad",
+        "season": 3,
+        "episode": 10,
+        "overview": "Kirito y Eugeo son arrestados y llevados a la Catedral Central, donde planean su escape de las prisiones.",
+        "released": "2018-12-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/UB7mydlawxbobIxqWnV8lh1TcB.jpg"
+      },
+      {
+        "id": "tt2250192:3:11",
+        "title": "La Catedral Central",
+        "season": 3,
+        "episode": 11,
+        "overview": "Los jóvenes escapan de las celdas y se encuentran con Cardinal en la biblioteca infinita, quien revela la verdad del mundo.",
+        "released": "2018-12-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ER3PIe7IZbHxXi1jAjcvEoGVaI.jpg"
+      },
+      {
+        "id": "tt2250192:3:12",
+        "title": "La sabia de la biblioteca",
+        "season": 3,
+        "episode": 12,
+        "overview": "Cardinal explica el origen de Quinella (Administrator) y cómo tomó el control total del sistema Fluctlight.",
+        "released": "2018-12-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hR3N6Kwr8zlAZgEq3d6OBSgh1L1.jpg"
+      },
+      {
+        "id": "tt2250192:3:13",
+        "title": "La jefa de la iglesia",
+        "season": 3,
+        "episode": 13,
+        "overview": "Kirito y Eugeo inician el ascenso por la torre, enfrentando al primer caballero, Deusolbert de la Síntesis.",
+        "released": "2019-01-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/coCo7uFYVrbpwi1hcuO1ZTgL6aQ.jpg"
+      },
+      {
+        "id": "tt2250192:3:14",
+        "title": "El Caballero de la Flor de Osmanto",
+        "season": 3,
+        "episode": 14,
+        "overview": "El dúo enfrenta a Fanatio, la subcapitana, en una batalla de luz y reflejos dentro de la Catedral.",
+        "released": "2019-01-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9SRBdXwI7kWxCqnjmivCRXbUSgT.jpg"
+      },
+      {
+        "id": "tt2250192:3:15",
+        "title": "El Caballero del Sol Ardiente",
+        "season": 3,
+        "episode": 15,
+        "overview": "Alice intercepta a los intrusos. Tras un choque de voluntades, ella y Kirito salen expulsados fuera de la torre.",
+        "released": "2019-01-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gmHLaLAz9GyxSk3c6meRtHVZy3N.jpg"
+      },
+      {
+        "id": "tt2250192:3:16",
+        "title": "El Código 871",
+        "season": 3,
+        "episode": 16,
+        "overview": "Mientras escalan el muro exterior, Kirito intenta convencer a Alice de que sus recuerdos han sido sellados.",
+        "released": "2019-01-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bjpJIJCdQE5KPUqntpQMaqUWzJ5.jpg"
+      },
+      {
+        "id": "tt2250192:3:17",
+        "title": "Tregua",
+        "season": 3,
+        "episode": 17,
+        "overview": "Kirito y Alice forman una tregua temporal para sobrevivir al ascenso exterior y enfrentar a las gárgolas.",
+        "released": "2019-02-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j2F6KagBjK81YW5zPeG83phCWzJ.jpg"
+      },
+      {
+        "id": "tt2250192:3:18",
+        "title": "El recuerdo del héroe",
+        "season": 3,
+        "episode": 18,
+        "overview": "Eugeo llega al piso 90 y se enfrenta a Bercouli, el comandante de los caballeros, en un duelo de paciencia.",
+        "released": "2019-02-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gveaJc1HRJAIB0abGsOfoFN4doj.jpg"
+      },
+      {
+        "id": "tt2250192:3:19",
+        "title": "Sello en el ojo derecho",
+        "season": 3,
+        "episode": 19,
+        "overview": "Eugeo es capturado por la Administradora, quien manipula sus recuerdos y soledad para convertirlo en caballero.",
+        "released": "2019-02-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xbSBljqM4loFC7ZbKnItGFZSXD8.jpg"
+      },
+      {
+        "id": "tt2250192:3:20",
+        "title": "Synthesis",
+        "season": 3,
+        "episode": 20,
+        "overview": "Kirito y Alice regresan al interior para descubrir que Eugeo ha sido transformado en un Caballero de la Integridad.",
+        "released": "2019-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2PyE8uOVgjBvdp89fbamah6RFIs.jpg"
+      },
+      {
+        "id": "tt2250192:3:21",
+        "title": "El trigésimo segundo caballero",
+        "season": 3,
+        "episode": 21,
+        "overview": "Kirito se ve obligado a luchar contra su mejor amigo en un duelo a muerte para recuperar su voluntad.",
+        "released": "2019-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hGFKKtPvmhA9AcPjCF2gsrlj2HV.jpg"
+      },
+      {
+        "id": "tt2250192:3:22",
+        "title": "Titán del Crepúsculo",
+        "season": 3,
+        "episode": 22,
+        "overview": "El grupo llega al piso final. Cardinal se sacrifica para enfrentar a la monstruosa creación de Quinella.",
+        "released": "2019-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xTT4kEnlAjEPtep3i1ngPRp7adf.jpg"
+      },
+      {
+        "id": "tt2250192:3:23",
+        "title": "Administrator",
+        "season": 3,
+        "episode": 23,
+        "overview": "La batalla final contra la Administradora comienza. Eugeo toma una forma de espada para un ataque desesperado.",
+        "released": "2019-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/i1umIkndL7ofm6eSMtO0oHJD51u.jpg"
+      },
+      {
+        "id": "tt2250192:3:24",
+        "title": "Mi héroe",
+        "season": 3,
+        "episode": 24,
+        "overview": "Tras la victoria a un alto costo, Kirito intenta contactar con el mundo real mientras una tragedia ocurre en Ocean Turtle.",
+        "released": "2019-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3na4mgCr70jClF70lGEaG9xcYZz.jpg"
+      },
+      {
+        "id": "tt2250192:4:1",
+        "title": "En el Lejano Norte",
+        "season": 4,
+        "episode": 1,
+        "overview": "Alice vive recluida cuidando a un Kirito catatónico, pero debe volver a tomar su espada ante la invasión.",
+        "released": "2019-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z8cL9agh1EQ91AF03afc1O73zmv.jpg"
+      },
+      {
+        "id": "tt2250192:4:2",
+        "title": "Incursión",
+        "season": 4,
+        "episode": 2,
+        "overview": "Los caballeros de la integridad se reúnen para planificar la defensa ante el inminente ataque del Territorio Oscuro.",
+        "released": "2019-10-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oBgJg14AIUxX16x57fnxs0py6cq.jpg"
+      },
+      {
+        "id": "tt2250192:4:3",
+        "title": "La carga final",
+        "season": 4,
+        "episode": 3,
+        "overview": "Comienza la guerra. El ejército oscuro lanza su primera oleada contra las defensas del Imperio Humano.",
+        "released": "2019-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ps9zaKiZOSBYi5l3gWUnh2UGGuc.jpg"
+      },
+      {
+        "id": "tt2250192:4:4",
+        "title": "La tierra de las sombras",
+        "season": 4,
+        "episode": 4,
+        "overview": "Gabriel Miller entra a Underworld como Vecta, el Dios de la Oscuridad, liderando a las tribus salvajes.",
+        "released": "2019-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3uewQSR2HLDr9WsuMWGNlwnzhDG.jpg"
+      },
+      {
+        "id": "tt2250192:4:5",
+        "title": "Noche antes de la batalla",
+        "season": 4,
+        "episode": 5,
+        "overview": "Los soldados de ambos bandos reflexionan sobre sus vidas antes de que el frente de batalla colapse.",
+        "released": "2019-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qjQmvuTg2xkpeeWJiBHmIcpvTDa.jpg"
+      },
+      {
+        "id": "tt2250192:4:6",
+        "title": "Batalla de los Caballeros",
+        "season": 4,
+        "episode": 6,
+        "overview": "Bercouli y los caballeros demuestran su poder ante los jefes del Territorio Oscuro en una lucha sangrienta.",
+        "released": "2019-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9Ab7KV9JsbBKmAG9WZ6QQQTnNSx.jpg"
+      },
+      {
+        "id": "tt2250192:4:7",
+        "title": "Estigma del descalificado",
+        "season": 4,
+        "episode": 7,
+        "overview": "La traición y la ambición dentro del ejército oscuro complican el avance de las tropas de Vecta.",
+        "released": "2019-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7lUTCntkCiZmfI46FXtNi4TM7UA.jpg"
+      },
+      {
+        "id": "tt2250192:4:8",
+        "title": "Sangre y vida",
+        "season": 4,
+        "episode": 8,
+        "overview": "Renly de la Síntesis supera su cobardía para proteger a los soldados comunes en un momento crítico.",
+        "released": "2019-12-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aac9GQl1szARGPUH0e5dFUmu0y7.jpg"
+      },
+      {
+        "id": "tt2250192:4:9",
+        "title": "La Espada y el Puño",
+        "season": 4,
+        "episode": 9,
+        "overview": "Iskahn, jefe de los pugilistas, decide desafiar las órdenes de Vecta tras ver la crueldad hacia su pueblo.",
+        "released": "2019-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ngJJORUALoKW7OaoSaFlBg0Pr37.jpg"
+      },
+      {
+        "id": "tt2250192:4:10",
+        "title": "Stacia, la Diosa de la Creación",
+        "season": 4,
+        "episode": 10,
+        "overview": "Asuna desciende de los cielos como Stacia, alterando el terreno de batalla y reuniéndose con Kirito.",
+        "released": "2019-12-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9is6M5wHgBtftPHks9sLJ7ASoZx.jpg"
+      },
+      {
+        "id": "tt2250192:4:11",
+        "title": "Elección implacable",
+        "season": 4,
+        "episode": 11,
+        "overview": "Gabriel atrae a miles de jugadores estadounidenses a la guerra, convirtiendo el conflicto en una masacre masiva.",
+        "released": "2019-12-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ojEuCltZ3ZQIMYLYGhABH6AopnS.jpg"
+      },
+      {
+        "id": "tt2250192:4:12",
+        "title": "Rayo de luz",
+        "season": 4,
+        "episode": 12,
+        "overview": "Sinon llega a Underworld como la Diosa Solus para brindar apoyo aéreo en un momento de desesperación.",
+        "released": "2019-12-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/Agyt1VH7zVHwklzlb9IwVMSynjf.jpg"
+      },
+      {
+        "id": "tt2250192:4:13",
+        "title": "El desierto del fin",
+        "season": 4,
+        "episode": 13,
+        "overview": "Alice es capturada por Vecta. Bercouli inicia una persecución aérea épica para rescatar a su sobrina.",
+        "released": "2020-07-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pefmd7agmQ2xA2ZvLJqxHQMlEg6.jpg"
+      },
+      {
+        "id": "tt2250192:4:14",
+        "title": "Edicto",
+        "season": 4,
+        "episode": 14,
+        "overview": "Leafa entra como la Diosa Terraria y defiende a los locales en una batalla de resistencia física extrema.",
+        "released": "2020-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bN9TqIETmwNO0wXeZM2Y4p33vw.jpg"
+      },
+      {
+        "id": "tt2250192:4:15",
+        "title": "Agitación",
+        "season": 4,
+        "episode": 15,
+        "overview": "La lucha interna en Ocean Turtle llega a un punto crítico mientras los amigos de Kirito intentan intervenir.",
+        "released": "2020-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vdStwtLGjoZsWfVEyV0fLOUgl4l.jpg"
+      },
+      {
+        "id": "tt2250192:4:16",
+        "title": "Código 871",
+        "season": 4,
+        "episode": 16,
+        "overview": "Se revela la existencia de un traidor dentro de Rath que sabotea el sistema desde adentro.",
+        "released": "2020-08-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q6baJ9R5GwEnLLxoX1dC7pITrFC.jpg"
+      },
+      {
+        "id": "tt2250192:4:17",
+        "title": "Príncipe del Infierno",
+        "season": 4,
+        "episode": 17,
+        "overview": "Vassago regresa a Underworld para sembrar el caos y torturar psicológicamente a los sobrevivientes.",
+        "released": "2020-08-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5xhOYfgLATDxfqnjYZYHg49CQ2w.jpg"
+      },
+      {
+        "id": "tt2250192:4:18",
+        "title": "Memorias",
+        "season": 4,
+        "episode": 18,
+        "overview": "Los recuerdos de todos los que han amado a Kirito convergen para intentar reconstruir su Fluctlight.",
+        "released": "2020-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ahW4m6CEBXXHPhC6qejIKrgr39.jpg"
+      },
+      {
+        "id": "tt2250192:4:19",
+        "title": "Despertar",
+        "season": 4,
+        "episode": 19,
+        "overview": "Kirito recupera la conciencia en un momento glorioso, enfrentando a Vassago con el poder de la doble empuñadura.",
+        "released": "2020-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yGU5BwtNM1tMLMwZQNStubq5mN0.jpg"
+      },
+      {
+        "id": "tt2250192:4:20",
+        "title": "Filo de la noche estrellada",
+        "season": 4,
+        "episode": 20,
+        "overview": "Kirito y Gabriel Miller (Subtilizer) libran la batalla final por el destino de Underworld en el espacio.",
+        "released": "2020-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fLiy5OO1Bq6ykose7z4QiNIK1g6.jpg"
+      },
+      {
+        "id": "tt2250192:4:21",
+        "title": "Más allá del tiempo",
+        "season": 4,
+        "episode": 21,
+        "overview": "Con la guerra terminada, Kirito y Asuna quedan atrapados en Underworld durante 200 años de aceleración temporal.",
+        "released": "2020-09-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pOsw4FEifCe4sywwv59a9qJpmSr.jpg"
+      },
+      {
+        "id": "tt2250192:4:22",
+        "title": "Alice",
+        "season": 4,
+        "episode": 22,
+        "overview": "Alice despierta en el mundo real en un cuerpo robótico, convirtiéndose en la primera IA con derechos humanos.",
+        "released": "2020-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7lCpkD21iDINQX17Wd22MSjN28I.jpg"
+      },
+      {
+        "id": "tt2250192:4:23",
+        "title": "Nuevo Mundo",
+        "season": 4,
+        "episode": 23,
+        "overview": "Kirito, Asuna y Alice regresan a Underworld después de siglos para ver cómo ha evolucionado su legado.",
+        "released": "2020-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w0u1bSp9EWatole6ZoRKxGWhqpf.jpg"
+      }
+    ]
+  }
+}

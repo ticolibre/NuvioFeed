@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0249462",
+    "type": "movie",
+    "name": "Billy Elliot",
+    "poster": "https://image.tmdb.org/t/p/w500/lN6JppeFXbPFXFREickSSeHOjCz.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+    "description": "Un joven con talento se ve enfrentado entre su inesperado amor por la danza y la desintegración de su familia.",
+    "releaseInfo": "2000",
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Música"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

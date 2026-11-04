@@ -1,0 +1,551 @@
+{
+  "meta": {
+    "id": "tt12343534",
+    "type": "series",
+    "name": "Jujutsu Kaisen",
+    "poster": "https://image.tmdb.org/t/p/w500/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
+    "posterShape": "poster",
+    "description": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt12343534:1:1",
+        "title": "Ryomen Sukuna",
+        "season": 1,
+        "episode": 1,
+        "overview": "Yuji Itadori es un estudiante de secundaria con una habilidad física extraordinaria. La noche del día que fallece su abuelo, conoce a Megumi Fushiguro, un estudiante de primer año en el Colegio Técnico de Magia Metropolitana de Tokio que se encuentra en una misión para recuperar un objeto que se encuentra en posesión de Itadori.\n\nItadori le asegura que dicho objeto está en manos de sus compañeros. Mientras tanto, los compañeros de Itadori terminan rodeados de maldiciones. Tanto Itadori como Megumi corren a su rescate.",
+        "released": "2020-10-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3wymoL9HYpllpFrcD8VCvemktGg.jpg"
+      },
+      {
+        "id": "tt12343534:1:2",
+        "title": "Por mí",
+        "season": 1,
+        "episode": 2,
+        "overview": "El hecho de comerse el dedo de Sukuna le supondrá un grave problema a Yuuji, puesto que ahora tienen que ejecutarlo. Pero tiene un modo temporal de salvarse.",
+        "released": "2020-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k5U9vkpy31UiqCkEc6x6OPBBB0R.jpg"
+      },
+      {
+        "id": "tt12343534:1:3",
+        "title": "Chica de acero",
+        "season": 1,
+        "episode": 3,
+        "overview": "Yuuji deberá demostrar que es apto para formar parte de la Preparatoria de Hechicería. Además, conocerán a la tercera integrante del equipo.",
+        "released": "2020-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/foMCHRzZVfCTvrmfWWeWViBzvZH.jpg"
+      },
+      {
+        "id": "tt12343534:1:4",
+        "title": "La existencia terrenal del Vientre Maldito",
+        "season": 1,
+        "episode": 4,
+        "overview": "Los muchachos deberán partir a una misión de la que por el momento se desconoce el riesgo. Y cabe la posibilidad de que el peligro sea tremendo, mayor del que puedan manejar.",
+        "released": "2020-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7AxWD8EGwgurIeNoS40YidIlbcT.jpg"
+      },
+      {
+        "id": "tt12343534:1:5",
+        "title": "La existencia terrenal del Vientre Maldito - II",
+        "season": 1,
+        "episode": 5,
+        "overview": "Sukuna se apodera del cuerpo de Yuuji y se niega por completo a devolvérselo. Aunque sabe que tarde o temprano lo conseguirá, así que le dejará un regalo.",
+        "released": "2020-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xXIK0xhHMThQkSkbBMAznaUTubj.jpg"
+      },
+      {
+        "id": "tt12343534:1:6",
+        "title": "Tras la lluvia",
+        "season": 1,
+        "episode": 6,
+        "overview": "La situación de Yuuji pende de un hilo, y de él dependerá que consiga volver a la vida, pero ¿podrá aceptar las condiciones de Sukuna?",
+        "released": "2020-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p7iB7X4BBr1vxeIjfeIelKZWaeS.jpg"
+      },
+      {
+        "id": "tt12343534:1:7",
+        "title": "Asalto",
+        "season": 1,
+        "episode": 7,
+        "overview": "Gojou recibe una visita muy desagradable y poderosa. Pero no parece perder la calma en absoluto ante el devastador poder de su enemigo.",
+        "released": "2020-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggoWW4AChFzqNkVNr941EhRqTiX.jpg"
+      },
+      {
+        "id": "tt12343534:1:8",
+        "title": "Aburrimiento",
+        "season": 1,
+        "episode": 8,
+        "overview": "Antes del evento de intercambio se produce un pequeño encontronazo entre algunos de los futuros participantes.",
+        "released": "2020-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6RmiWPTEzDIOLmGI3zYo2GqVeOW.jpg"
+      },
+      {
+        "id": "tt12343534:1:9",
+        "title": "Donnadies y castigo",
+        "season": 1,
+        "episode": 9,
+        "overview": "Tras la masacre que se produce en el cine, Yuuji acompaña a un veterano a investigar la situación.",
+        "released": "2020-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2oiKacR5YLtv7dr6lyjoyUif1Za.jpg"
+      },
+      {
+        "id": "tt12343534:1:10",
+        "title": "Mutación Pasiva",
+        "season": 1,
+        "episode": 10,
+        "overview": "La investigación de la masacre en el cine lleva a Yuuji a encontrarse con Junpei, el humano que se relaciona con Mahito.",
+        "released": "2020-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rYa2K1q24GNb3dgAvgZm6K6OTzj.jpg"
+      },
+      {
+        "id": "tt12343534:1:11",
+        "title": "De mente cerrada",
+        "season": 1,
+        "episode": 11,
+        "overview": "Yuuji va conociendo poco a poco a Junpei y cree que incluso podrían ser amigos. Pero se da la casualidad de que Mahito tiene otros planes.",
+        "released": "2020-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dVRE3XvFfgm8BRww4AqxokPMds1.jpg"
+      },
+      {
+        "id": "tt12343534:1:12",
+        "title": "Para ti, algún día",
+        "season": 1,
+        "episode": 12,
+        "overview": "Yuuji cree que todavía puede convencer a Junpei para que no haga una masacre en la escuela. ¿Será capaz de frenar sus ansias de sangre?",
+        "released": "2020-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/toPm43S9jRbpOnU6JetStwUTFj6.jpg"
+      },
+      {
+        "id": "tt12343534:1:13",
+        "title": "Hasta mañana",
+        "season": 1,
+        "episode": 13,
+        "overview": "Yuuji recibe refuerzos en forma de Nanami. ¿Podrán entre los dos frenar la matanza de Mahito?",
+        "released": "2020-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5L3jkgKkzPvECLSiOxAqA4MIIiP.jpg"
+      },
+      {
+        "id": "tt12343534:1:14",
+        "title": "El evento de intercambio con la escuela de Kioto -Combate grupal 0-",
+        "season": 1,
+        "episode": 14,
+        "overview": "Llega el día en el que los de Tokio y los de Kioto se encuentran, aunque para desgracia de cierta persona, son los de Kioto los que acuden a Tokio. Juuji reaparece ante sus compañeros y esto desata ciertos acontecimientos.",
+        "released": "2021-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wzimi19uWzAboYzDjYUDpdhEMUO.jpg"
+      },
+      {
+        "id": "tt12343534:1:15",
+        "title": "El evento de intercambio con la escuela de Kioto -Combate grupal 1-",
+        "season": 1,
+        "episode": 15,
+        "overview": "El objetivo de los estudiantes de Kioto no es ganar el evento de intercambio, sino matar a Itadori bajo las órdenes de su decano. Pero la escuela de Tokio no permitirá que eso suceda.",
+        "released": "2021-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hoZfRWj2ROpzPnuKf45CUPzCRQE.jpg"
+      },
+      {
+        "id": "tt12343534:1:16",
+        "title": "El evento de intercambio con la escuela de Kioto -Combate grupal 2-",
+        "season": 1,
+        "episode": 16,
+        "overview": "En este nuevo episodio seremos testigos de la brutal batalla entre Panda y Mechamaru.",
+        "released": "2021-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bDM0qdyzYUMhNpIH9AUkz7okbRE.jpg"
+      },
+      {
+        "id": "tt12343534:1:17",
+        "title": "El evento de intercambio con la escuela de Kioto -Combate grupal 3-",
+        "season": 1,
+        "episode": 17,
+        "overview": "El enfrentamiento esta vez se centrará en el combate brutal que tienen las dos hermanas Zen'in.",
+        "released": "2021-02-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7BMedKvP6i1wIK7vLgL3v2BnRHe.jpg"
+      },
+      {
+        "id": "tt12343534:1:18",
+        "title": "Sabios",
+        "season": 1,
+        "episode": 18,
+        "overview": "El evento de intercambio sigue adelante, en teoría sin imprevistos. Pero de pronto, algo se sale de lo planeado.",
+        "released": "2021-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/haxqbRAfpDuS9MIEBk9ToRLNuxt.jpg"
+      },
+      {
+        "id": "tt12343534:1:19",
+        "title": "Destello Negro",
+        "season": 1,
+        "episode": 19,
+        "overview": "Yuuji y Toudou hacen acto de presencia para luchar contra el monstruo que tantos problemas está causando durante el evento.",
+        "released": "2021-02-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qpDxYXnn0ZkoLPz0lB6iQZVIkHM.jpg"
+      },
+      {
+        "id": "tt12343534:1:20",
+        "title": "Fuera de lo común",
+        "season": 1,
+        "episode": 20,
+        "overview": "Yuuji y Toudou se enfrentan al categoría especial y demuestran una gran sinergia entre ellos, aunque es el ataque de Satoru Gojou el que hace que el que asustará más al enemigo.",
+        "released": "2021-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f15D3bnszZigSKbc85wL8ItwLKn.jpg"
+      },
+      {
+        "id": "tt12343534:1:21",
+        "title": "Jujutsu Koshien",
+        "season": 1,
+        "episode": 21,
+        "overview": "Pese al incidente del categoría especial, el evento de intercambio seguirá su curso, aunque no habrá más peleas por ahora, sino un partido de béisbol.",
+        "released": "2021-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jhTrnQKXpc7rxDwM1Wm7ulKf71P.jpg"
+      },
+      {
+        "id": "tt12343534:1:22",
+        "title": "El origen de la fe ciega",
+        "season": 1,
+        "episode": 22,
+        "overview": "Los chicos van a investigar un incidente donde se produjeron tres muertes en circunstancias extrañas, muy probablemente debidas a una Maldición.",
+        "released": "2021-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oYPvSsCDALfVeQ5goo1aPibYiXm.jpg"
+      },
+      {
+        "id": "tt12343534:1:23",
+        "title": "El origen de la fe ciega II",
+        "season": 1,
+        "episode": 23,
+        "overview": "Los muchachos se enfrentan a varias Maldiciones para tratar de resolver el incidente del puente, pero parece que algo no encaja del todo.",
+        "released": "2021-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eLxlqoRzD7HPe8JgiJd5iGpXpaf.jpg"
+      },
+      {
+        "id": "tt12343534:1:24",
+        "title": "Cómplices",
+        "season": 1,
+        "episode": 24,
+        "overview": "Juuji y Kugisaki lucharán al máximo de su capacidad para acabar con esos hermanos tan peligrosos y letaltes.",
+        "released": "2021-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zIG6nADGUqJYDBXEsDaYyzYjHgH.jpg"
+      },
+      {
+        "id": "tt12343534:1:25",
+        "title": "El tesoro escondido",
+        "season": 1,
+        "episode": 25,
+        "overview": "La historia nos devuelve al pasado, cuando Gojo y Geto todavía eran compañeros y no eran completos enemigos.",
+        "released": "2023-07-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wR1ss0SiN0EjKOPgrGfCm9FzdVD.jpg"
+      },
+      {
+        "id": "tt12343534:1:26",
+        "title": "El tesoro escondido - Parte 2",
+        "season": 1,
+        "episode": 26,
+        "overview": "Comienza la verdadera misión de Gojo y Geto, proteger a Riko como sea de todas las amenazas posibles, pero los 30 millones de recompensa son un problema.",
+        "released": "2023-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xNMW94wR8jfsXZbMK3XD2ftOUd0.jpg"
+      },
+      {
+        "id": "tt12343534:1:27",
+        "title": "El tesoro escondido - Parte 3",
+        "season": 1,
+        "episode": 27,
+        "overview": "Kuroi sufre un ataque y sus secuestradores exigen intercambiarla por Riko, pero Satoru y Suguru seguirán adelante con su misión.",
+        "released": "2023-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hiWLnViLZISiSWmMi5aLUcWz79M.jpg"
+      },
+      {
+        "id": "tt12343534:1:28",
+        "title": "El tesoro escondido - Parte 4",
+        "season": 1,
+        "episode": 28,
+        "overview": "\"Vámonos a casa, Riko-chan\". En el momento en que Geto le tiende la mano a Amanai, ocurre lo peor que podría pasar. Geto se queda estupefacto cuando aparece Toji Fushiguro. Toji luego declara que mató a Satoru Gojo.",
+        "released": "2023-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mPm5BPw4dujoEHZNjpYTUEBLBZz.jpg"
+      },
+      {
+        "id": "tt12343534:1:29",
+        "title": "El tesoro perdido",
+        "season": 1,
+        "episode": 29,
+        "overview": "Geto tiene cada vez más dudas sobre lo que hace. ¿No es duro seguir siendo un hechicero? ¿Qué gana protegiendo a los débiles? ¿Qué quiere hacer realmente? Muchas dudas que acabarán con una conclusión que cambiará las cosas para siempre.",
+        "released": "2023-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gjWLlxTUqzf7t4HsMQhUCxke5EW.jpg"
+      },
+      {
+        "id": "tt12343534:1:30",
+        "title": "De eso se trata",
+        "season": 1,
+        "episode": 30,
+        "overview": "Mientras Gojo intenta dar con el topo que está filtrando información, Geto y Mahito siguen preparándose para el golpe de Shibuya.",
+        "released": "2023-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5sVDG2UKlryQ3YhAMzSHKwXE0nF.jpg"
+      },
+      {
+        "id": "tt12343534:1:31",
+        "title": "La víspera del festival",
+        "season": 1,
+        "episode": 31,
+        "overview": "Mientras Mechamaru se enfrenta a Mahito, se coloca un velo enorme en pleno Shibuya donde encierran a numerosas personas.",
+        "released": "2023-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AwgGz4NcjZEv65DoCx4sOoZ2hdn.jpg"
+      },
+      {
+        "id": "tt12343534:1:32",
+        "title": "El incidente de Shibuya",
+        "season": 1,
+        "episode": 32,
+        "overview": "El plan de Mahito y Geto sigue adelante, y la llegada de Satoru es precisamente el detonante para que todo dé comienzo.",
+        "released": "2023-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iWpee6FUvkhvA2ZQuWxRkwIltjy.jpg"
+      },
+      {
+        "id": "tt12343534:1:33",
+        "title": "El incidente de Shibuya - Apertura del portal",
+        "season": 1,
+        "episode": 33,
+        "overview": "Gojo se enfrenta a las maldiciones que están en pleno andén intentando que muera la menor gente posible, aunque no siempre es viable.",
+        "released": "2023-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbeKG5lUim0kUzygMojZ5XLH7ar.jpg"
+      },
+      {
+        "id": "tt12343534:1:34",
+        "title": "Confusión",
+        "season": 1,
+        "episode": 34,
+        "overview": "Geto consigue sellar a Gojo, lo que puede ser terrible para la humanidad. Mientras, Mechamaru se pone en contacto con Yuji para tratar de arreglarlo.",
+        "released": "2023-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vVKd4JzK1UV6sxuiPL28gZdtT4Q.jpg"
+      },
+      {
+        "id": "tt12343534:1:35",
+        "title": "Espiritismo",
+        "season": 1,
+        "episode": 35,
+        "overview": "Megumi y Yuji se enfrentan a Awasaka en un combate donde están en clara desventaja, pues primero deben descubrir cuál es su ritual.",
+        "released": "2023-10-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6CIaldfN1D3DyeqRELOaTgGlVLu.jpg"
+      },
+      {
+        "id": "tt12343534:1:36",
+        "title": "Espada obtusa",
+        "season": 1,
+        "episode": 36,
+        "overview": "El asesino de los directores asistentes tiene una nueva presa, pero no se da cuenta de que ese puede ser su final.",
+        "released": "2023-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kdpIM5MToGTQMwHCTpuMyabC7xu.jpg"
+      },
+      {
+        "id": "tt12343534:1:37",
+        "title": "Escamas carmesí",
+        "season": 1,
+        "episode": 37,
+        "overview": "Choso busca venganza y tiene delante de él al responsable de la muerte de sus hermanos, así que hará todo lo posible por lograr su objetivo.",
+        "released": "2023-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iKXFjdV8tmrQmqro2AsJ2e1AwjN.jpg"
+      },
+      {
+        "id": "tt12343534:1:38",
+        "title": "Temblores",
+        "season": 1,
+        "episode": 38,
+        "overview": "Mientras Nanami, Maki y Naobito siguen adelante por Shibuya, Mei Mei se enfrentará al espíritu maligno antes de enfrentarse a Geto.",
+        "released": "2023-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uUIXH9nBl7HFoaomIlL4CTolq39.jpg"
+      },
+      {
+        "id": "tt12343534:1:39",
+        "title": "Temblores, parte dos",
+        "season": 1,
+        "episode": 39,
+        "overview": "¿Qué puede suponer la irrupción de Toji en el dominio de Dagon? Por otro lado, Mimiko y Nanako piensan hacer que vuelva Sukuna.",
+        "released": "2023-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vzNGwCOfpuytEmR2UO29trlodjy.jpg"
+      },
+      {
+        "id": "tt12343534:1:40",
+        "title": "Trueno",
+        "season": 1,
+        "episode": 40,
+        "overview": "Toji está frente a Megumi y empieza a atacarlo con todas sus fuerzas. Por otra parte, Sukuna hace lo propio con Jogo.",
+        "released": "2023-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g9yiVw2BHqThSeevyuKBoJrsTpM.jpg"
+      },
+      {
+        "id": "tt12343534:1:41",
+        "title": "Trueno, parte 2",
+        "season": 1,
+        "episode": 41,
+        "overview": "Megumi se ve en un aprieto y no dudará en usar su técnica más poderosa. Como a Sukuna no le conviene que muera Megumi, intervendrá en la pelea.",
+        "released": "2023-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sduM7W14ngIFUMnXaWfjb96lv0I.jpg"
+      },
+      {
+        "id": "tt12343534:1:42",
+        "title": "Lo correcto y lo incorrecto",
+        "season": 1,
+        "episode": 42,
+        "overview": "Yuji está destrozado tras ser testigo del \"obsequio\" de Sukuna y todavía le queda ver algo aterrador.",
+        "released": "2023-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rAZeDUOFLQoLgEqcjvNoMy7lmpB.jpg"
+      },
+      {
+        "id": "tt12343534:1:43",
+        "title": "Lo correcto y lo incorrecto, parte 2",
+        "season": 1,
+        "episode": 43,
+        "overview": "Mahito sigue peleando contra Yuji abajo, pero arriba Nobara se encuentra con el clon de Mahito y también empieza a pelear contra él.",
+        "released": "2023-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/irunrX4hAbsTWUTZpWNJXg1Asbv.jpg"
+      },
+      {
+        "id": "tt12343534:1:44",
+        "title": "Lo correcto y lo incorrecto, parte 3",
+        "season": 1,
+        "episode": 44,
+        "overview": "Yuji es incapaz de superar lo que está viviendo en este breve lapso de tiempo y no puede enfrentarse a Mahito, pero por suerte aún le quedan aliados.",
+        "released": "2023-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vdpupuE0OtfInqCmwU9Wk4sMqC9.jpg"
+      },
+      {
+        "id": "tt12343534:1:45",
+        "title": "Metamorfosis",
+        "season": 1,
+        "episode": 45,
+        "overview": "Todo y Yuji están cooperando para vencer a Mahito de una vez por todas, pero el espíritu maldito está encontrando su verdadera fuerza.",
+        "released": "2023-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pg4bblgq3ywpFOphH5tEerg7Tu8.jpg"
+      },
+      {
+        "id": "tt12343534:1:46",
+        "title": "Metamorfosis, parte dos",
+        "season": 1,
+        "episode": 46,
+        "overview": "Mahito intenta huir gracias a la aparición de Geto, pero parece que nuestro villano tiene otros planes para él.",
+        "released": "2023-12-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iJbmi5vBd2eAt1LtKmTe7z4EXjM.jpg"
+      },
+      {
+        "id": "tt12343534:1:47",
+        "title": "El incidente de Shibuya, cierre del portal",
+        "season": 1,
+        "episode": 47,
+        "overview": "La llegada de Tsukumo frena un poco a Geto, quien informa a todos los presentes acerca de sus planes para el mundo del futuro.",
+        "released": "2023-12-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oZXG2hKiueV4A9RSbV6ZMNdhWyz.jpg"
+      },
+      {
+        "id": "tt12343534:1:48",
+        "title": "Ejecución",
+        "season": 1,
+        "episode": 48,
+        "overview": "Mientras Yuji enfrenta el peso de sus pecados, Naoya Zenin y Yuta Okkotsu son enviados a ejecutarlo.",
+        "released": "2026-01-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/akmW3aKQHlgcRvgxKsZd5m1LGKl.jpg"
+      },
+      {
+        "id": "tt12343534:1:49",
+        "title": "Una vez más",
+        "season": 1,
+        "episode": 49,
+        "overview": "Despues de luchar contra Yuta, Yuji descubre su verdadero objetivo. Megumi pide la ayuda de Yuji para salvar a su hermana.",
+        "released": "2026-01-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mVTNtGCnwuE1ayDQ4YellOGAqZ.jpg"
+      },
+      {
+        "id": "tt12343534:1:50",
+        "title": "Sobre el Viaje a la Extinción...",
+        "season": 1,
+        "episode": 50,
+        "overview": "Itadori y su grupo hablan con Tengen sobre los objetivos de Kenjaku y sus planes para el Viaje a la Extinción.",
+        "released": "2026-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/buHU8HMXtQIVirrrERclsvNhBkh.jpg"
+      },
+      {
+        "id": "tt12343534:1:51",
+        "title": "Preparación perfecta",
+        "season": 1,
+        "episode": 51,
+        "overview": "Maki despierta un nuevo potencial, en su intento de recolectar Herramientas Malditas en los almacenes del Clan Zenin",
+        "released": "2026-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kGNQcoL2zigPdrlDkZ40rh9tH95.jpg"
+      },
+      {
+        "id": "tt12343534:1:52",
+        "title": "Pasión",
+        "season": 1,
+        "episode": 52,
+        "overview": "Yuji y Fushiguro se infiltran en el mundo de las peleas clandestinas para encontrar a Kinji Hakari y pedir su ayuda",
+        "released": "2026-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iB7beiAcT76F49mIjY81en0CLcx.jpg"
+      },
+      {
+        "id": "tt12343534:1:53",
+        "title": "Pieza",
+        "season": 1,
+        "episode": 53,
+        "overview": "Fushiguro y Panda luchan contra Kirara para persuadirla de ayudarlos, mientras Yuji trata de convencer a Hakari de maneras poco convencionales",
+        "released": "2026-02-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nhktJ4DxPVV8qMswwBg4GY9klZk.jpg"
+      },
+      {
+        "id": "tt12343534:1:54",
+        "title": "Episodio 54",
+        "season": 1,
+        "episode": 54,
+        "released": "2026-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5o3IoYM0iwz0Zy2AdU5tEf3h5Ic.jpg"
+      },
+      {
+        "id": "tt12343534:1:55",
+        "title": "Episodio 55",
+        "season": 1,
+        "episode": 55,
+        "released": "2026-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dmvtvvYetrxgH217Qlgi5pgofzP.jpg"
+      },
+      {
+        "id": "tt12343534:1:56",
+        "title": "Episodio 56",
+        "season": 1,
+        "episode": 56,
+        "released": "2026-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vK5i4rioPM3JmX6LWu1SDBBf8fU.jpg"
+      },
+      {
+        "id": "tt12343534:1:57",
+        "title": "Episodio 57",
+        "season": 1,
+        "episode": 57,
+        "released": "2026-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dTxospdYJYATOY15svZiexTD6Uc.jpg"
+      },
+      {
+        "id": "tt12343534:1:58",
+        "title": "Episodio 58",
+        "season": 1,
+        "episode": 58,
+        "released": "2026-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cDtoVcO4zDWj3UhJQq7nf41xSg.jpg"
+      },
+      {
+        "id": "tt12343534:1:59",
+        "title": "Episodio 59",
+        "season": 1,
+        "episode": 59,
+        "released": "2026-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3A5kRJKO3ziU0cBVMBjzaaEhvSD.jpg"
+      }
+    ]
+  }
+}

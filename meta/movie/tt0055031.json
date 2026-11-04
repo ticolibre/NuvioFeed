@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0055031",
+    "type": "movie",
+    "name": "Juicio en Nuremberg",
+    "poster": "https://image.tmdb.org/t/p/w500/mIlp23l4dAURod8LBG0rnhcazNS.jpg",
+    "posterShape": "poster",
+    "description": "En 1948, un tribunal americano en la Alemania ocupada juzga a cuatro nazis juzgados por crímenes de guerra.",
+    "releaseInfo": "1961",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "id": "tt13293588",
+    "type": "series",
+    "name": "Mushoku Tensei Jobless Reincarnation",
+    "poster": "https://image.tmdb.org/t/p/w500/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+    "posterShape": "poster",
+    "description": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
+    "releaseInfo": "2021",
+    "genres": [
+      "Action & Adventure",
+      "Animación",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt13293588:1:1",
+        "title": "Reencarnación sin empleo",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un joven solitario y desempleado de 34 años es atropellado por un camión... ¡y se despierta como un bebé recién nacido en un mundo de fantasía! Con padres amorosos, toda una vida de arrepentimientos y un libro de magia para principiantes, se propone aprovechar al máximo su segunda oportunidad en la vida.",
+        "released": "2021-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sS93JaHkWvhecsmgSdg5MFel3y5.jpg"
+      },
+      {
+        "id": "tt13293588:1:2",
+        "title": "Maestra",
+        "season": 1,
+        "episode": 2,
+        "overview": "Rudy comienza a entrenar con su nueva maestra de magia y aprende a usar la espada con su padre. Progresa rápidamente, pero los recuerdos traumáticos de su vida pasada hacen que tenga miedo de salir. ¿Será que su segunda oportunidad ya está condenada al fracaso?",
+        "released": "2021-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gjktze6OF0wESkbHU4h3dxcWNoe.jpg"
+      },
+      {
+        "id": "tt13293588:1:3",
+        "title": "Un amigo",
+        "season": 1,
+        "episode": 3,
+        "overview": "Rudy comienza a explorar la aldea y rescata a un niño de cabello verde de un grupo de matones. Ambos comienzan a verse seguido y a practicar magia juntos. Sin embargo, parece que el nuevo amigo de Rudy esconde algo más.",
+        "released": "2021-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d29kiiic7xbvsxCnJ4syiO3JxYy.jpg"
+      },
+      {
+        "id": "tt13293588:1:4",
+        "title": "Reunión familiar de emergencia",
+        "season": 1,
+        "episode": 4,
+        "overview": "La familia Greyrat se alegra cuando Zenith anuncia que está embarazada de un segundo hijo, pero los ánimos dan un giro cuando Lilia revela que también está embarazada y que Paul es el padre. ¿Será éste el fin de la feliz familia de Rudy?",
+        "released": "2021-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uVN34pxWO1N1eFchpHdPXFMrMx0.jpg"
+      },
+      {
+        "id": "tt13293588:1:5",
+        "title": "Una joven y la violencia",
+        "season": 1,
+        "episode": 5,
+        "overview": "Rudy llega a la ciudad de Roa, donde debe pasar los próximos cinco años dando clases particulares a la hija del señor local. Sin embargo, su alumna es más de lo que esperaba, y tendrá que luchar para empezar su primer trabajo, por no hablar de mantenerlo.",
+        "released": "2021-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2oiW3SSj752soSVpj8LST72d4Ib.jpg"
+      },
+      {
+        "id": "tt13293588:1:6",
+        "title": "Un día libre en Roa",
+        "season": 1,
+        "episode": 6,
+        "overview": "Rudy es oficialmente el tutor de Eris, pero ella no quiere aprender nada más que magia. Mientras Rudy se esfuerza por hacer que se interese por otras asignaturas, se da cuenta de que las lecciones ininterrumpidas le están causando estrés y le propone un día libre en la ciudad.",
+        "released": "2021-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tSBi3Ob8qWKMlpG6pMeukJUhT25.jpg"
+      },
+      {
+        "id": "tt13293588:1:7",
+        "title": "Lo que hay más allá del esfuerzo",
+        "season": 1,
+        "episode": 7,
+        "overview": "El décimo cumpleaños de Eris se acerca rápidamente y su abuelo ha invitado a nobles de todo el reino a una fiesta de baile para celebrarlo. Solo hay un problema: Eris no sabe bailar y está perdiendo rápidamente la paciencia con sus lecciones.",
+        "released": "2021-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rrEKdSZXOT0cEX1fSEmty0Q6lD1.jpg"
+      },
+      {
+        "id": "tt13293588:1:8",
+        "title": "Punto de inflexión 1",
+        "season": 1,
+        "episode": 8,
+        "overview": "Se acerca el décimo cumpleaños de Rudy, y Eris y su familia planean una fiesta sorpresa para él. Mientras tanto, el extraño orbe que se cierne sobre la ciudad sigue siendo un misterio y llama la atención de entidades poderosas de todo el mundo.",
+        "released": "2021-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A68qEBAuk5ubUWdt6zTqiT2NiAB.jpg"
+      },
+      {
+        "id": "tt13293588:1:9",
+        "title": "Un encuentro fortuito",
+        "season": 1,
+        "episode": 9,
+        "overview": "Rudy y Eris se encuentran varados en las tierras salvajes del Continente Demonio. Su única posibilidad de sobrevivir parece depender de Ruijerd, un guerrero de la infame tribu de demonios Superd. Pero ¿se puede confiar en él?",
+        "released": "2021-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v4PQNKhosqXAHi9sq03UUDBkI7q.jpg"
+      },
+      {
+        "id": "tt13293588:1:10",
+        "title": "El primer encargo y el valor de la vida",
+        "season": 1,
+        "episode": 10,
+        "overview": "Rudeus, Eris y Ruijerd llegan a la ciudad. Necesitan ganar dinero para su viaje y deciden registrarse como aventureros, pero Ruijerd, al igual que los Superd, no tienen permitido entrar. Rudeus tiene un plan, pero ¿podrá funcionar en la práctica?",
+        "released": "2021-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wbJbzAKDloQ2ReMo8QcAYOQahAE.jpg"
+      },
+      {
+        "id": "tt13293588:1:11",
+        "title": "Niños y guerreros",
+        "season": 1,
+        "episode": 11,
+        "overview": "Con su nuevo plan para hacer dinero en marcha, los Dead End deben rastrear a un monstruo misterioso. Desafortunadamente, el trabajo no sale tan bien como esperaban y los planes de Rudy resultan ser mucho más peligrosos de lo que pensaban.",
+        "released": "2021-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3Wx5JiTG3pj0ShBiW84QLam3gyx.jpg"
+      },
+      {
+        "id": "tt13293588:1:12",
+        "title": "La mujer con los ojos de demonio",
+        "season": 1,
+        "episode": 12,
+        "overview": "Dead End descubre que Ruijerd tendrá que pagar una fortuna para salir del Continente Demonio. A medida que luchan por solucionar este inesperado contratiempo, Rudeus recibe otra visión.",
+        "released": "2021-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m30WM42H36PsnmHTmX9bhJDeBRA.jpg"
+      },
+      {
+        "id": "tt13293588:1:13",
+        "title": "Conexiones Perdidas",
+        "season": 1,
+        "episode": 13,
+        "overview": "Roxy llega a Continente Demonio para comenzar la búsqueda de la familia perdida de Paul. Mientras tanto, Rudeus hace un trato con contrabandistas para que crucen a Ruijerd a través del océano.",
+        "released": "2021-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ql4HhRdHbHhskgkz3LnghlVE9PT.jpg"
+      },
+      {
+        "id": "tt13293588:1:14",
+        "title": "Nada en la vida es gratis",
+        "season": 1,
+        "episode": 14,
+        "overview": "Rudeus es prisionero de la gente bestia en la aldea Doldia. ¿Podrán Ruijerd y Eris llegar a rescatarlo antes de que pierda la paciencia e intente pelear por su libertad?",
+        "released": "2021-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cx0Kk2gVD0ddq3PAdxPKs91C5qp.jpg"
+      },
+      {
+        "id": "tt13293588:1:15",
+        "title": "La tranquila vida en la aldea Doldia",
+        "season": 1,
+        "episode": 15,
+        "overview": "Dead End decide pasar la temporada de lluvia en la aldea Doldia. Eris se vuelve amigo de la hija del cacique, pero apego por Ghislaine conlleva a un inesperado conflicto.",
+        "released": "2021-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/g09JoU3CJLSvQWkcjdEKShdodMq.jpg"
+      },
+      {
+        "id": "tt13293588:1:16",
+        "title": "Conflicto familiar",
+        "season": 1,
+        "episode": 16,
+        "overview": "Rudeus, Eris y Ruijerd llegan al país sagrado de Millis, donde Rudeus comienza a pensar en su hogar. Cuando los tres se separan para tomarse un día libre, un encuentro aleatorio en un callejón lleva a Rudeus a una impactante reunión.",
+        "released": "2021-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f6h730Wa66eYDEaXPPQKCZwrM8X.jpg"
+      },
+      {
+        "id": "tt13293588:1:17",
+        "title": "Reunión",
+        "season": 1,
+        "episode": 17,
+        "overview": "Tras los sucesos de su desastrosa reunión, Paul y Rudeus reflexionan sobre sus actos y buscan cómo seguir adelante.",
+        "released": "2021-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1lHIF2yab9NQPVUFHdjmjfClfTI.jpg"
+      },
+      {
+        "id": "tt13293588:1:18",
+        "title": "Viajes divididos",
+        "season": 1,
+        "episode": 18,
+        "overview": "Después de partir de Millishion, Rudeus, Eris y Ruijerd abordan un barco de regreso al Continente Central. Mientras tanto, Roxy llega a Rikarisu, donde se encuentra con caras conocidas.",
+        "released": "2021-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k4UNFqOhrnlOaNc718ardTSM2Kz.jpg"
+      },
+      {
+        "id": "tt13293588:1:19",
+        "title": "Selección de ruta",
+        "season": 1,
+        "episode": 19,
+        "overview": "Dead End llega al reino Shirone en el continente central. Rudeus se siente ansioso por reunirse con Roxy, pero una visión inesperada del hombre dios le demuestra que se metió en algo mucho peor de lo que esperaba.",
+        "released": "2021-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2bDtXehgL6TxDfbAB2lj88uggPo.jpg"
+      },
+      {
+        "id": "tt13293588:1:20",
+        "title": "El nacimiento de mi hermana menor, la criada",
+        "season": 1,
+        "episode": 20,
+        "overview": "Rudeus está en graves aprietos, encerrado en un calabozo a prueba de magia por un déspota príncipe. Pero justo cuando todo parece estar perdido, llega un visitante inesperado con una extraña solicitud. ¿Podrá Rudeus zafarse de esta?",
+        "released": "2021-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/69yWIHRVl8QPzxqYg7rB6zY8hMu.jpg"
+      },
+      {
+        "id": "tt13293588:1:21",
+        "title": "Punto de inflexión 2",
+        "season": 1,
+        "episode": 21,
+        "overview": "Rudeus, Eris y Ruijerd están por terminar su viaje, pero un inesperado encuentro en el paso de una montaña nevada amenaza con finalizar prematuramente sus aventuras.",
+        "released": "2021-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s5oDEM3hfvVMdkWuOshxe5YcGU7.jpg"
+      },
+      {
+        "id": "tt13293588:1:22",
+        "title": "Sueños y realidad",
+        "season": 1,
+        "episode": 22,
+        "overview": "Rudeus y Eris por fin regresan a Fittoa, pero despedidas inesperadas y noticias desagradables arruinan su vuelta a casa.",
+        "released": "2021-12-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4EApeJZhmxtbzrbUv9LT906t1pT.jpg"
+      },
+      {
+        "id": "tt13293588:1:23",
+        "title": "Despierta y da un paso",
+        "season": 1,
+        "episode": 23,
+        "overview": "Rudeus se hunde en la depresión tras la partida de Eris. Mientras lucha por recuperarse, las muchas personas que ha conocido continúan sus propios viajes.",
+        "released": "2021-12-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2Wen3Widg6xKNbZOqSME2Y5NBKr.jpg"
+      },
+      {
+        "id": "tt13293588:2:1",
+        "title": "El mago descorazonado",
+        "season": 2,
+        "episode": 1,
+        "overview": "Rudeus se encuentra al norte para buscar a su madre. En su viaje, se encuentra con un grupo con el que quizás podrá entablar una alianza a la hora de recibir encargos y ganar dinero.",
+        "released": "2023-07-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mcSxW3rCNUN9FJkPugzIgnNdGBE.jpg"
+      },
+      {
+        "id": "tt13293588:2:2",
+        "title": "El bosque a medianoche",
+        "season": 2,
+        "episode": 2,
+        "overview": "Rudeus se dedica a trabajar como aventurero realizando encargos para labrarse un nombre con el objetivo de que llegue a oídos de Zenith.",
+        "released": "2023-07-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tuP5fqtVZYA1UKW8n2hwgJtykYv.jpg"
+      },
+      {
+        "id": "tt13293588:2:3",
+        "title": "Acercamiento repentino",
+        "season": 2,
+        "episode": 3,
+        "overview": "Después del incidente, Rudeus trabaja más a menudo con Counter Arrow. Sin embargo, también cambia otra cosa: su relación con Sara, la cual se empieza a estrechar.",
+        "released": "2023-07-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cDBi2NEvg3RiEKj9SuWpWh7BSBy.jpg"
+      },
+      {
+        "id": "tt13293588:2:4",
+        "title": "Carta de invitación",
+        "season": 2,
+        "episode": 4,
+        "overview": "La reputación de Rudeus es tal que hay gente que desea conocerlo. Un día recibe una carta de invitación para ir a la universidad, aunque no está seguro de qué debe hacer.",
+        "released": "2023-07-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2kTiEzn1u7h2yxL14fYehYR7ATV.jpg"
+      },
+      {
+        "id": "tt13293588:2:5",
+        "title": "La Universidad Mágica de Ranoa",
+        "season": 2,
+        "episode": 5,
+        "overview": "Tras el viaje, Rudeus llega a la Universidad Mágica de Ranoa dispuesto a aprender nuevas artes para mejorar su técnica y conocer a nueva gente.",
+        "released": "2023-08-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1TEiOCt9F60YHrf378nVkBrdmO.jpg"
+      },
+      {
+        "id": "tt13293588:2:6",
+        "title": "No quiero morir",
+        "season": 2,
+        "episode": 6,
+        "overview": "Rudeus se ha acostumbrado a su rutina en la universidad. Mientras estudia y conoce a sus compañeros, investiga sobre el incidente que le separó de su familia.",
+        "released": "2023-08-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7nKkKI1adnozFmJ1esGUzwt7Gl9.jpg"
+      },
+      {
+        "id": "tt13293588:2:7",
+        "title": "Secuestro y confinamiento de unas jóvenes bestias",
+        "season": 2,
+        "episode": 7,
+        "overview": "Mientras la amistad de Fitts y Rudeus crece, las chicas Doldia se meten en problemas y desatan la furia de Rudeus.",
+        "released": "2023-08-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pCcMTFLHxTrUHt3OqMhc1WYvind.jpg"
+      },
+      {
+        "id": "tt13293588:2:8",
+        "title": "Un compromiso angustioso",
+        "season": 2,
+        "episode": 8,
+        "overview": "Un amigo pide a Rudeus que le haga de consejero amoroso, algo para lo que Rudeus no se siente aún preparado. El otoño trae la época de declaraciones y los combates para ganarse el corazón de los demás.",
+        "released": "2023-08-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eM2ZRMsDWuNRUjR2uVuqaLaRmB4.jpg"
+      },
+      {
+        "id": "tt13293588:2:9",
+        "title": "La máscara blanca",
+        "season": 2,
+        "episode": 9,
+        "overview": "Fitts le cuenta a Rudeus que hay una alumna que sabe mucho de magia de invocación que quizás podría ayudarlo. Sin embargo, a cambio, la estudiante también necesita a Rudeus para algo.",
+        "released": "2023-09-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/59bGSEevD9shxXtUlnumDBYK8b1.jpg"
+      },
+      {
+        "id": "tt13293588:2:10",
+        "title": "Estos sentimientos",
+        "season": 2,
+        "episode": 10,
+        "overview": "Después de un año en la universidad, la amistad de Rudeus y Fitts se encuentra tan afianzada que una de las dos partes comienza a desarrollar sentimientos más intensos hacia el otro.",
+        "released": "2023-09-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wzigeQOp5KiMRZGEMiJrTiKPoLS.jpg"
+      },
+      {
+        "id": "tt13293588:2:11",
+        "title": "Para ti",
+        "season": 2,
+        "episode": 11,
+        "overview": "Fitts quiere contarle la verdad a Rudeus, aunque para ello tiene antes que encontrar el momento y la situación adecuados.",
+        "released": "2023-09-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uTL8idBcXNkWg1ZNUhDNACDRnn4.jpg"
+      },
+      {
+        "id": "tt13293588:2:12",
+        "title": "Quiero decírtelo",
+        "season": 2,
+        "episode": 12,
+        "overview": "Tras lo ocurrido, Sylphie quiere ayudar a Rudeus a solucionar el problema que lleva arrastrando desde hace un tiempo.",
+        "released": "2023-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pDxepnPctRVozi3uER4AZitz0Yv.jpg"
+      },
+      {
+        "id": "tt13293588:2:13",
+        "title": "Mi hogar de ensueño",
+        "season": 2,
+        "episode": 13,
+        "overview": "Después de que Sylphie lo haya ayudado a curar su enfermedad, Rudeus al fin vuelve a sentirse más humano y puede concentrarse en su vida académica y amorosa.",
+        "released": "2024-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h9qYsLX59hJEoqwudjfpp4G7zsb.jpg"
+      },
+      {
+        "id": "tt13293588:2:14",
+        "title": "Banquete de boda",
+        "season": 2,
+        "episode": 14,
+        "overview": "Para oficializar su compromiso, la nueva pareja decide invitar a un banquete a sus seres más queridos. Durante la celebración, conversarán y estrecharán lazos.",
+        "released": "2024-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t9goEAxsd8LudOnzgHJHMwIFzJB.jpg"
+      },
+      {
+        "id": "tt13293588:2:15",
+        "title": "Lejano",
+        "season": 2,
+        "episode": 15,
+        "overview": "Rudeus recibe una carta que cambia su estado de ánimo y su forma de relacionarse con la gente que le rodea, desde Sylphie a sus compañeros de universidad.",
+        "released": "2024-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/73G9pW6Hq6KSe32iYcSrwSllppN.jpg"
+      },
+      {
+        "id": "tt13293588:2:16",
+        "title": "Norn y Aisha",
+        "season": 2,
+        "episode": 16,
+        "overview": "Norn y Aisha, las hermanas de Rudeus, llegan para vivir con él. Pero, después de tanto sin verse, tendrán que acostumbrarse a ser una familia de nuevo.",
+        "released": "2024-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9YJCqvhLiRHHIfaR7PE1ou3ny3w.jpg"
+      },
+      {
+        "id": "tt13293588:2:17",
+        "title": "Los sentimientos de mi hermano mayor",
+        "season": 2,
+        "episode": 17,
+        "overview": "Tras conocer lo que sentía Rudeus en el conflicto con Norn, es el momento de conocer lo que piensa y siente la hermana pequeña de Rudeus.",
+        "released": "2024-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5uqn76jSS3Zy3NPbPSvO6bLIR08.jpg"
+      },
+      {
+        "id": "tt13293588:2:18",
+        "title": "Punto de inflexión 3",
+        "season": 2,
+        "episode": 18,
+        "overview": "Aunque los días parecen pasar tranquilamente, la llegada de una carta y otras noticias marcarán un punto de inflexión en la vida de Rudeus.",
+        "released": "2024-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lBwC3cCgMuGJRxAX52tRJaWi6dd.jpg"
+      },
+      {
+        "id": "tt13293588:2:19",
+        "title": "Viaje desértico",
+        "season": 2,
+        "episode": 19,
+        "overview": "Rudeus decide emprender su viaje para ayudar a su familia, pero antes debe despedirse de sus seres queridos y explicarles que estará fuera una temporada.",
+        "released": "2024-05-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xSi2t4SSx7XGrLdzy8Gp9GLJ1SD.jpg"
+      },
+      {
+        "id": "tt13293588:2:20",
+        "title": "Entrada al laberinto",
+        "season": 2,
+        "episode": 20,
+        "overview": "Rudeus y Elinalise llegan a su destino y deciden buscar a Paul a su grupo para trazar un plan antes de adentrarse en el temido laberinto que les espera.",
+        "released": "2024-06-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6UmlIWL3pW28dMVmPJvI0cGm8uY.jpg"
+      },
+      {
+        "id": "tt13293588:2:21",
+        "title": "Círculos mágicos del sexto estrato",
+        "season": 2,
+        "episode": 21,
+        "overview": "Roxy se encuentra perdida en el laberinto y sus posibilidades de supervivencia cada vez son menores. Por ello, debe salir por su propio pie o que alguien le encuentre cuanto antes.",
+        "released": "2024-06-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2iZ0wOEnZ6DyvBWqdLPvPDFjU8q.jpg"
+      },
+      {
+        "id": "tt13293588:2:22",
+        "title": "Padres",
+        "season": 2,
+        "episode": 22,
+        "overview": "Después de avanzar por el laberinto, el grupo de Rudeus y Paul se encuentran ante una gran puerta. Tras ella, les espera un guardián muy poderoso.",
+        "released": "2024-06-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oe5fQnzK6uixFvpmN0w0WAuc3Lk.jpg"
+      },
+      {
+        "id": "tt13293588:2:23",
+        "title": "Volvamos a casa",
+        "season": 2,
+        "episode": 23,
+        "overview": "Tras lo acontecido en el laberinto, a Rudeus le asaltan muchas dudas de qué debería hacer, aunque lo primero es regresar a casa con su familia.",
+        "released": "2024-06-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zsJlKRwGXI2dcgyMjiZqnQuO0gf.jpg"
+      },
+      {
+        "id": "tt13293588:2:24",
+        "title": "Sucesión",
+        "season": 2,
+        "episode": 24,
+        "overview": "Rudeus vuelve a casa a contarle a su familia todo lo ocurrido mientras ha estado fuera. Sylphie, Norn y Aisha tienen que procesar la nueva era que están a punto de vivir en casa.",
+        "released": "2024-07-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/34qxeVn9C6L15CnvovgP7smyNyq.jpg"
+      },
+      {
+        "id": "tt13293588:3:1",
+        "title": "El colmillo feroz se enciende",
+        "season": 3,
+        "episode": 1,
+        "overview": "Ghislaine lleva a Eris a entrenar directamente con el Dios de la Espada, Gal Farion. Sin embargo, la actitud impulsiva y desafiante de Eris no tarda en generar fuertes roces con los demás discípulos del dojo.",
+        "released": "2026-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9qTNrEMxqBtcGcY45S0otQsiDTa.jpg"
+      },
+      {
+        "id": "tt13293588:3:2",
+        "title": "Aullido del colmillo feroz",
+        "season": 3,
+        "episode": 2,
+        "overview": "Tras pasar años de riguroso entrenamiento en el norte, un encuentro crucial con la Reina del Agua, Isolde Cluel, obliga a Eris a reevaluar por completo su estilo de combate. Junto a Nina y la propia Isolde, busca superar sus propios límites para volverse más fuerte.",
+        "released": "2026-07-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8LbtykFB7jK5pC5CmZQL9GoAQxh.jpg"
+      },
+      {
+        "id": "tt13293588:3:3",
+        "title": "La rutina recuperada",
+        "season": 3,
+        "episode": 3,
+        "overview": "De vuelta en la academia, Rudeus intenta retomar su día a día enfocado en sus estudios y en el cuidado de su familia. No obstante, la tranquilidad dura poco al descubrir que Roxy ha sido asignada como la nueva profesora titular de su grupo, lo que desata tensiones inesperadas.",
+        "released": "2026-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zMv1IruZ7cJdmisb4gmTFuZU8jB.jpg"
+      },
+      {
+        "id": "tt13293588:3:4",
+        "title": "Mago de clase Rey del Agua",
+        "season": 3,
+        "episode": 4,
+        "overview": "Tras obtener su nueva prótesis gracias al ingenio de Zanoba y Cliff, Rudeus no baja la guardia ante futuras amenazas que puedan poner en riesgo a su familia. Impulsado por la firme determinación de no volver a perder a un ser querido, continúa sus investigaciones y le pide formalmente a Roxy que se convierta en su mentora una vez más para enseñarle magia de nivel Rey del Agua.",
+        "released": "2026-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n5rzMFaXeEliZbXtjDswvU4T0Ss.jpg"
+      },
+      {
+        "id": "tt13293588:3:5",
+        "title": "Celebraciones",
+        "season": 3,
+        "episode": 5,
+        "overview": "Rudeus asiste a la boda de Cliff y Elinalise, y más tarde sale a buscar regalos de cumpleaños para sus hermanas Aisha y Norn.",
+        "released": "2026-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7yeKe0EZ4Mosk8FMrsHEyNhIavU.jpg"
+      },
+      {
+        "id": "tt13293588:3:6",
+        "title": "¿Otro desastre doméstico?",
+        "season": 3,
+        "episode": 6,
+        "overview": "Rudeus intenta mantener la paz y la estabilidad en el hogar tras la llegada de nuevos miembros a la residencia Greyrat, pero la convivencia pronto desencadena malentendidos y situaciones caóticas. Mientras busca lidiar con las crecientes tensiones familiares, un nuevo e imprevisto problema amenaza con alterar la tranquilidad de la casa.",
+        "released": "2026-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6381zSllVVPtSsMUx2UazOTj0wM.jpg"
+      },
+      {
+        "id": "tt13293588:3:7",
+        "title": "Fase cuatro",
+        "season": 3,
+        "episode": 7,
+        "overview": "Los planes e investigaciones de Rudeus avanzan a una nueva etapa crucial. Mientras Linia y Pursena toman un rol activo para apoyar en los preparativos del grupo, nuevos desafíos estratégicos y alianzas se ponen a prueba antes de ejecutar el siguiente paso en su misión.",
+        "released": "2026-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rE5aRuoAGoKUMRuxlCgZCN61PvC.jpg"
+      },
+      {
+        "id": "tt13293588:3:8",
+        "title": "La fortaleza aérea",
+        "season": 3,
+        "episode": 8,
+        "overview": "Rudeus y su grupo acuden a la fortaleza aérea de Perugius, el Rey Dragón Blindado.",
+        "released": "2026-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/38UxygrYWG3Ln7ql3hjfoFjvfjZ.jpg"
+      },
+      {
+        "id": "tt13293588:3:9",
+        "title": "Lamento",
+        "season": 3,
+        "episode": 9,
+        "overview": "Nanahoshi contrae una enfermedad ancestral de origen desconocido. Al ver que ella pierde por completo la esperanza de sobrevivir, Rudeus inicia una carrera contra el tiempo para encontrar una cura.",
+        "released": "2026-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gvYNNlx7erytSG0e1oeYxOA2BHx.jpg"
+      },
+      {
+        "id": "tt13293588:3:10",
+        "title": "Audiencia con un Rey Demonio Inmortal",
+        "season": 3,
+        "episode": 10,
+        "overview": "Rudeus y sus compañeros logran ubicar a Kishirika, pero terminan siendo capturados junto a ella por la guardia de un belicoso Rey Demonio.",
+        "released": "2026-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c1ILhYyuPRejU39IrDBu767Pqba.jpg"
+      },
+      {
+        "id": "tt13293588:3:11",
+        "title": "Punto de inflexión 4",
+        "season": 3,
+        "episode": 11,
+        "overview": "Un evento totalmente imprevisto irrumpe en la vida de Rudeus, marcando un cambio drástico en su destino y obligándolo a tomar una decisión trascendental para proteger a sus seres queridos.",
+        "released": "2026-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cVco0tzbJkJjx38r6JIZRDfT6cp.jpg"
+      },
+      {
+        "id": "tt13293588:3:12",
+        "title": "Un final y un comienzo",
+        "season": 3,
+        "episode": 12,
+        "overview": "Un extraño visitante en la casa de Rudeus le relata los acontecimientos de su propio futuro y le revela la verdadera causa detrás de todas sus desgracias.",
+        "released": "2026-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kdn38Map1ghm92x6AhjdVzfIQ07.jpg"
+      },
+      {
+        "id": "tt13293588:3:13",
+        "title": "El diario",
+        "season": 3,
+        "episode": 13,
+        "overview": "En un futuro que bien pudo haber sido, Rudeus se quiebra por completo bajo el aplastante peso de la pérdida.",
+        "released": "2026-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wL2RFJZOQKaaREKkv0DxifHgu43.jpg"
+      },
+      {
+        "id": "tt13293588:3:14",
+        "title": "Determinación",
+        "season": 3,
+        "episode": 14,
+        "overview": "Rudeus toma las riendas y pasa a la acción para proteger a los suyos, decidido a impedir a toda costa una tragedia anunciada.",
+        "released": "2026-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wr6b0gP5nRqZNnjcRZt1rVQ0IZ8.jpg"
+      }
+    ]
+  }
+}

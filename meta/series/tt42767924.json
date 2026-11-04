@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "tt42767924",
+    "type": "series",
+    "name": "El intercambio",
+    "poster": "https://image.tmdb.org/t/p/w500/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+    "posterShape": "poster",
+    "description": "Durante sus vacaciones, dos parejas en crisis descubren verdades inquietantes sobre su intercambio de casas y sus anfitriones. Thriller basado en la novela de Stefan Ahnhem.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "4.3"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt42767924:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pKVcqBozL4DvOChW48Kx7PY3WrG.jpg"
+      },
+      {
+        "id": "tt42767924:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tv2opbTw5TaWcOyhYc7nl1gp9VX.jpg"
+      },
+      {
+        "id": "tt42767924:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hxBjpchijr4H4qQYknsVFHlh0Z2.jpg"
+      },
+      {
+        "id": "tt42767924:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2mJOZ6v6Lf0AcXaKCp9DSEjx0KC.jpg"
+      }
+    ]
+  }
+}

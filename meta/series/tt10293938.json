@@ -1,0 +1,475 @@
+{
+  "meta": {
+    "id": "tt10293938",
+    "type": "series",
+    "name": "Outer Banks",
+    "poster": "https://image.tmdb.org/t/p/w500/hOb5vSaMq4JLcobvguwKpj4qxrO.jpg",
+    "posterShape": "poster",
+    "description": "En una isla de ricos y pobres en Carolina del Norte, John B. y su sólido grupo de amigos encuentran misterios y aventuras mientras buscan un tesoro perdido.",
+    "releaseInfo": "2020",
+    "genres": [
+      "Action & Adventure",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/fGk5GVPP7qfEHr8b9pzS6AWsOmV.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt10293938:1:1",
+        "title": "Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Tras el paso de un huracán, John B., JJ, Pope y Kiara encuentran un misterioso barco hundido y se tiran de cabeza al peligro y la aventura.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wRB24gaHLhBK2OA2MNLuOTj12n9.jpg"
+      },
+      {
+        "id": "tt10293938:1:2",
+        "title": "La brújula de la suerte",
+        "season": 1,
+        "episode": 2,
+        "overview": "Convencido de que la pista que encontraron a bordo del barco tiene que ver con su padre desaparecido, John B. dirige a sus amigos en una búsqueda frenética de respuestas.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xpY8cLmD8a8UVzbmhqwjCPhehDV.jpg"
+      },
+      {
+        "id": "tt10293938:1:3",
+        "title": "La zona prohibida",
+        "season": 1,
+        "episode": 3,
+        "overview": "El grupo trama una estrategia ilegal para llegar al fondo del misterio submarino; John B. encara a Sarah, y Pope aprovecha la ocasión para vengarse.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fq4xfbhnhOCzFea0ZcaTpNmz6N5.jpg"
+      },
+      {
+        "id": "tt10293938:1:4",
+        "title": "Juegos de espías",
+        "season": 1,
+        "episode": 4,
+        "overview": "Justo cuando la vida sin supervisión que lleva John B. le pasa factura, recibe oportunamente ayuda —y un mejoramiento de imagen— de quien menos lo espera.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d6JvZCAjg8oIZpMzeVfLfbrEyE5.jpg"
+      },
+      {
+        "id": "tt10293938:1:5",
+        "title": "Fiesta del verano",
+        "season": 1,
+        "episode": 5,
+        "overview": "John B. cree haber hecho un gran avance en la búsqueda del oro, pero su deseo de incorporar a Sarah al proyecto causa roce entre los amigos.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uc9SolFUftnLjh5CzxwP5Z4hlKJ.jpg"
+      },
+      {
+        "id": "tt10293938:1:6",
+        "title": "Parcela 9",
+        "season": 1,
+        "episode": 6,
+        "overview": "El grupo de amigos busca el tesoro por todos lados, pero una leyenda siniestra, una amistad rota y las nuevas condiciones de vida de John B. los mantienen en ascuas.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mc8l4f8CnKJsSNz7tosurEBi3R0.jpg"
+      },
+      {
+        "id": "tt10293938:1:7",
+        "title": "Calma total",
+        "season": 1,
+        "episode": 7,
+        "overview": "La imprudencia de JJ se desata cuando los amigos intentan conseguir efectivo. Por otra parte, John B. se apega más a Sarah... y despierta las sospechas de su padre.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lmeYvnEr1xNWNAOSaJOEHwwgZBE.jpg"
+      },
+      {
+        "id": "tt10293938:1:8",
+        "title": "La pista",
+        "season": 1,
+        "episode": 8,
+        "overview": "John B. al fin descubre la verdad acerca de su padre y desencadena una serie de acontecimientos que compromete todo lo que él y sus amigos se han esforzado por lograr.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2OSp6ntJD1hj7Gpu8y7hVlcTYFv.jpg"
+      },
+      {
+        "id": "tt10293938:1:9",
+        "title": "El campanario",
+        "season": 1,
+        "episode": 9,
+        "overview": "John B. busca un plan de escape ahora que sus opciones se reducen y sus enemigos lo cercan. Sarah se siente presionada a tomar partido. Pope exterioriza sus emociones.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qzgVjMDHSoYRXfwBYMGokscwgn8.jpg"
+      },
+      {
+        "id": "tt10293938:1:10",
+        "title": "El Phantom",
+        "season": 1,
+        "episode": 10,
+        "overview": "La policía inunda la isla, y sobre ella se cierne una tormenta tropical. Y estos son solo dos de los obstáculos que deberá superar John B. para escapar.",
+        "released": "2020-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yqX8JDvGKlgiZ6mvuc78gnQc5cM.jpg"
+      },
+      {
+        "id": "tt10293938:2:1",
+        "title": "El oro",
+        "season": 2,
+        "episode": 1,
+        "overview": "Con la mira puesta en el oro, John B intenta evitar que lo atrapen, pero la promesa hecha a Sarah podría arruinar sus planes. En casa, sus amigos afrontan la vida sin él.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cwelHOreb6fSskjmVZ9iQXzuNjl.jpg"
+      },
+      {
+        "id": "tt10293938:2:2",
+        "title": "El robo",
+        "season": 2,
+        "episode": 2,
+        "overview": "Sin tiempo que perder, John B y Sarah cierran un trato incómodo, mientras Kiara, JJ y Pope buscan evidencia que podría implicar a Ward y Rafe.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t29KIIJIlkdfR1VSLFcvI3MHLL4.jpg"
+      },
+      {
+        "id": "tt10293938:2:3",
+        "title": "Plegarias",
+        "season": 2,
+        "episode": 3,
+        "overview": "En su desesperación por buscar ayuda, John B. y Sarah terminan en el lugar menos indicado. Pope recibe una invitación misteriosa a una reunión fuera del pueblo.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rfwHyzC8S6BzL7m7TWdC3gbsgEl.jpg"
+      },
+      {
+        "id": "tt10293938:2:4",
+        "title": "Volver a casa",
+        "season": 2,
+        "episode": 4,
+        "overview": "Sin combustible suficiente y cortos de dinero, John B y Sarah se meten en problemas. La propuesta de un canje le da un vuelco siniestro a la cita de Pope en Charleston.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k0MrvsJWOXtBDgmz0caImShsTC1.jpg"
+      },
+      {
+        "id": "tt10293938:2:5",
+        "title": "La hora más oscura",
+        "season": 2,
+        "episode": 5,
+        "overview": "JJ ingenia un plan arriesgado para liberar a John B. Pope busca información sobre la llave. Kiara y Sarah se pelean con sus familias a causa de los Pogues.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sbymbH8TQTbQ4SpPYuMLnMm6P1b.jpg"
+      },
+      {
+        "id": "tt10293938:2:6",
+        "title": "Hermanos",
+        "season": 2,
+        "episode": 6,
+        "overview": "John B se enoja porque Sarah vuelve a conectarse con un viejo amor. Empieza a desenredarse la trama de mentiras de Ward. Pope descubre un secreto familiar impactante.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y9g6utTfg7im5yuQQ3HibQ3X2Eq.jpg"
+      },
+      {
+        "id": "tt10293938:2:7",
+        "title": "La fogata",
+        "season": 2,
+        "episode": 7,
+        "overview": "Aún afectada por las acciones de Ward, Sarah ve puesta a prueba su lealtad hacia John B y los Pogues. En la fogata anual, se encienden los celos y los temperamentos.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u5Cqe0P2nEW2r1zdzzSe8tLWwQZ.jpg"
+      },
+      {
+        "id": "tt10293938:2:8",
+        "title": "La cruz",
+        "season": 2,
+        "episode": 8,
+        "overview": "Provisto de pistas frescas, el grupo corre entre pantanos y caminos peligrosos para impedir que la historia de Pope caiga en las manos equivocadas.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h1MjIGDELyWpjSQxNm7rpZi5yO0.jpg"
+      },
+      {
+        "id": "tt10293938:2:9",
+        "title": "Atrapados",
+        "season": 2,
+        "episode": 9,
+        "overview": "Los Pogues enfrentan varios contratiempos —una emergencia médica, un vecino ruidoso, un ultimátum paterno— cuando intentan salvar el legado familiar de Pope.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aqrUaSEXMRc4nXjoA8c2d4fpD6R.jpg"
+      },
+      {
+        "id": "tt10293938:2:10",
+        "title": "El Coastal Venture",
+        "season": 2,
+        "episode": 10,
+        "overview": "John B., Pope, JJ y Kiara se preparan para un enfrentamiento en el barco. Sarah se da cuenta de la cruda realidad de su situación familiar.",
+        "released": "2021-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x1fTloW79BxhMif7i94AGfzsZLK.jpg"
+      },
+      {
+        "id": "tt10293938:3:1",
+        "title": "Poguelandia",
+        "season": 3,
+        "episode": 1,
+        "overview": "Alguien inesperado rescata a los Pogues en una isla desierta y los lleva a Barbados, donde se encuentran con un poderoso cazador de tesoros que tiene sus propios planes.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8inkYcMEFX8rpzhLu3AMDjThSlT.jpg"
+      },
+      {
+        "id": "tt10293938:3:2",
+        "title": "Las campanas",
+        "season": 3,
+        "episode": 2,
+        "overview": "Mientras sus amigos organizan un rescate, Kiara acepta una tregua con Rafe. Un sonido familiar llama la atención de John B.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eTLpcjcXRUnXWq4gn2d76BzjMOB.jpg"
+      },
+      {
+        "id": "tt10293938:3:3",
+        "title": "Padres e hijos",
+        "season": 3,
+        "episode": 3,
+        "overview": "Big John y John B. retoman sus planes... para bien o para mal. Cleo y Pope forman un nuevo club. Rafe se vuelve a conectar con Ward.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pUYCZLm09aLpTTAQlwuymr7oTzu.jpg"
+      },
+      {
+        "id": "tt10293938:3:4",
+        "title": "El diario",
+        "season": 3,
+        "episode": 4,
+        "overview": "El emotivo regreso a casa es más fácil para algunos que para otros. Big John busca el diario. A Rafe no le agradan los planes que tiene Ward para una preciada posesión.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/esdTfiSe4FaRiScrZeCKDve1rU4.jpg"
+      },
+      {
+        "id": "tt10293938:3:5",
+        "title": "Robos",
+        "season": 3,
+        "episode": 5,
+        "overview": "Sarah convence a un viejo amigo para que la ayude con una arriesgada misión. John B. y su padre usan toda su creatividad para tener acceso a la colección de un museo.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iLHH5wuyRbxoPyeuvdQsKcEdZQG.jpg"
+      },
+      {
+        "id": "tt10293938:3:6",
+        "title": "El bosque oscuro",
+        "season": 3,
+        "episode": 6,
+        "overview": "Los secretos amenazan con abrir una brecha entre John B. y sus amistades. Sarah se reencuentra con el pasado. Pope llega al límite.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/luiMCVcWbw3I6t4anlIH35R7TdE.jpg"
+      },
+      {
+        "id": "tt10293938:3:7",
+        "title": "Feliz aniversario",
+        "season": 3,
+        "episode": 7,
+        "overview": "Singh está en marcha, y John B. y JJ se apresuran para atraparlo. Pope hace un descubrimiento importante. Sarah debe definir dónde depositar su lealtad.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/imH8pCs7aggJ9ntwDFkZbjVvDBm.jpg"
+      },
+      {
+        "id": "tt10293938:3:8",
+        "title": "Timón en movimiento",
+        "season": 3,
+        "episode": 8,
+        "overview": "Rafe pone sus cartas sobre la mesa, y Sarah pide dos favores. El plan poco ortodoxo de JJ para llegar a Sudamérica pone a John B. en problemas.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fPHER8KeV4LTaGkUw8iA4hZ1f09.jpg"
+      },
+      {
+        "id": "tt10293938:3:9",
+        "title": "Bienvenida a Kitty Hawk",
+        "season": 3,
+        "episode": 9,
+        "overview": "Cuando tienen el viaje al Orinoco listo, Kiara y JJ se topan con varias complicaciones. Rafe cambia de opinión.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ZeroNvasld2WpyqXOWJVb3Wgew.jpg"
+      },
+      {
+        "id": "tt10293938:3:10",
+        "title": "El secreto del gnomon",
+        "season": 3,
+        "episode": 10,
+        "overview": "La búsqueda de la ciudad de El Dorado lleva a los Pogues a lo más profundo de la selva, donde John B. y Sarah ponen a prueba el coraje y los lazos familiares.",
+        "released": "2023-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Ri5hwieS1bxtiUVcqrlpY816XX.jpg"
+      },
+      {
+        "id": "tt10293938:4:1",
+        "title": "El Enduro",
+        "season": 4,
+        "episode": 1,
+        "overview": "Los Pogues tienen los bolsillos llenos y grandes planes para el futuro. Pero cuando su suerte cambia, ¿hacer una apuesta arriesgada podrá salvarlos?",
+        "released": "2024-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vgyu716nEaB3Be0vOKXsGuM4EG9.jpg"
+      },
+      {
+        "id": "tt10293938:4:2",
+        "title": "Barbanegra",
+        "season": 4,
+        "episode": 2,
+        "overview": "La historia de una maldición familiar hace que los Pogues consideren aceptar una jugosa oferta para buscar un amuleto relacionado con Barbanegra.",
+        "released": "2024-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7fZb6OgURPZRg9XDc6EkR0WoFTH.jpg"
+      },
+      {
+        "id": "tt10293938:4:3",
+        "title": "Los Corsarios Lupinos",
+        "season": 4,
+        "episode": 3,
+        "overview": "El sheriff interroga a los Pogues sobre sus negocios con Wes Genrette. JJ y Kiara corren peligro nuevamente. Pope se entera de una misteriosa reliquia.",
+        "released": "2024-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nGk0kcoLVzRfPXj0H48MGNegpQF.jpg"
+      },
+      {
+        "id": "tt10293938:4:4",
+        "title": "Las olas",
+        "season": 4,
+        "episode": 4,
+        "overview": "La tensión sube como la marea cuando los Pogues y los Kooks llegan a la playa para el mejor oleaje del año. Pope busca información. Cleo se enfrenta al peligro.",
+        "released": "2024-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/35M07zKfF8sBppaHjHp1oMdIkgh.jpg"
+      },
+      {
+        "id": "tt10293938:4:5",
+        "title": "El Albatross",
+        "season": 4,
+        "episode": 5,
+        "overview": "El sheriff aparece en el peor momento para los Pogues. JJ recibe una carta misteriosa. Las pistas del amuleto conducen a Charleston.",
+        "released": "2024-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oVlJBlMqNcoSXCURKL5VAxOIvdk.jpg"
+      },
+      {
+        "id": "tt10293938:4:6",
+        "title": "El ayuntamiento",
+        "season": 4,
+        "episode": 6,
+        "overview": "JJ descubre algo sobre su pasado. Los Pogues consiguen apoyo para una audiencia de zonificación que decidirá su futuro. Sarah y John B tienen una teoría sobre el pergamino.",
+        "released": "2024-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rt0BW2u5yCEJcnLm0KnB9JMBv1y.jpg"
+      },
+      {
+        "id": "tt10293938:4:7",
+        "title": "Madres y padres",
+        "season": 4,
+        "episode": 7,
+        "overview": "Un encuentro en la isla Goat se pone peligroso y Sarah confirma sus sospechas mientras busca a JJ. El futuro de Pope es incierto. Topper provoca a John B.",
+        "released": "2024-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a1WFgfbTowBOo4uYM2jFS9dgAda.jpg"
+      },
+      {
+        "id": "tt10293938:4:8",
+        "title": "Trama familiar",
+        "season": 4,
+        "episode": 8,
+        "overview": "JJ y Groff se embarcan en una misión siniestra. Sarah comparte grandes noticias. Pope enfrenta un momento decisivo. Rafe ayuda al sheriff a atar cabos.",
+        "released": "2024-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zb6J63aZYKWxFuCAZJz12m69Ejr.jpg"
+      },
+      {
+        "id": "tt10293938:4:9",
+        "title": "La tormenta",
+        "season": 4,
+        "episode": 9,
+        "overview": "Persuadidos por la policía, los Pogues inician la siguiente fase de su misión y reciben una ayuda inesperada. La tensión estalla cuando John B. le confiesa un secreto a JJ.",
+        "released": "2024-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5fKam7cC2uTPXANpHOHIU7nmiyG.jpg"
+      },
+      {
+        "id": "tt10293938:4:10",
+        "title": "La Corona Azul",
+        "season": 4,
+        "episode": 10,
+        "overview": "La caza de Groff se acelera en Marruecos. En una carrera mortal por la corona, las lealtades se ponen a prueba y un momento de traición lo cambia todo.",
+        "released": "2024-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4UuD0rhCWsMRynRqr7f34Ho6HHP.jpg"
+      },
+      {
+        "id": "tt10293938:5:1",
+        "title": "El cruce",
+        "season": 5,
+        "episode": 1,
+        "overview": "Los Pogues, desolados por una pérdida y varados en Marruecos, sortean un peligroso cruce fronterizo mientras se apresuran a detener a Groff... y a apoderarse de la Corona Azul.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/15i0r6hEz5s1Pjea4VbNlSUuWBw.jpg"
+      },
+      {
+        "id": "tt10293938:5:2",
+        "title": "La corona",
+        "season": 5,
+        "episode": 2,
+        "overview": "Kiara, cuya búsqueda de venganza pende de un hilo, hace un trato difícil con un rival. El plan de Groff para hacerse rico da un giro inesperado en Dubrovnik.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kuF1UV61BA4qgNNonBJkp4oNjCc.jpg"
+      },
+      {
+        "id": "tt10293938:5:3",
+        "title": "El fardo",
+        "season": 5,
+        "episode": 3,
+        "overview": "El grupo enfrenta gran hostilidad al regresar a OBX, pero la marea empieza a cambiar cuando John B. pesca algo inesperadamente lucrativo.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aNv35ExKv2SN3OQzP26IqsBfsli.jpg"
+      },
+      {
+        "id": "tt10293938:5:4",
+        "title": "Trabajo interno",
+        "season": 5,
+        "episode": 4,
+        "overview": "Con la vida de Sarah en peligro, Rafe se infiltra en el torneo de golf de los Kooks mientras John B. intenta, osadamente, cometer un robo en el corazón de Figure Eight.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vEJm5XzGz175nY9f8hdPCN8Q7e6.jpg"
+      },
+      {
+        "id": "tt10293938:5:5",
+        "title": "La escítala",
+        "season": 5,
+        "episode": 5,
+        "overview": "Kiara y Pope buscan un artefacto misterioso que debería activar los poderes de la Corona Azul. Rafe se siente presionado a vender Tannyhill a promotores inmobiliarios.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5qoylTJv0RBdQMh8qTLnhi7z8bf.jpg"
+      },
+      {
+        "id": "tt10293938:5:6",
+        "title": "La cuna del jazz",
+        "season": 5,
+        "episode": 6,
+        "overview": "Cuando Sarah y John B. viajan a Nueva Orleans para seguir una pista, ella se encuentra cara a cara con una figura de su pasado.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4AwXPoKh3EQDyASA504yXdctol2.jpg"
+      },
+      {
+        "id": "tt10293938:5:7",
+        "title": "Baile de máscaras",
+        "season": 5,
+        "episode": 7,
+        "overview": "Los Pogues se cuelan en un suntuoso baile de máscaras para buscar los dibujos de la escítala..., pero Kiara se topa con un enemigo muy peligroso.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bB19g8nfhLs5fJiJwhufaIOqnwm.jpg"
+      },
+      {
+        "id": "tt10293938:5:8",
+        "title": "La pista (2)",
+        "season": 5,
+        "episode": 8,
+        "overview": "El grupo se vale de su ingenio para decodificar los secretos de la escítala. Un antiguo error pone a Rafe en la mira de las autoridades. Cleo planea una movida explosiva.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nuGFt8umCJZxQqxIjmL5VZGRs0C.jpg"
+      },
+      {
+        "id": "tt10293938:5:9",
+        "title": "Levántate",
+        "season": 5,
+        "episode": 9,
+        "overview": "Una misión en Azerbaiyán se vuelve escabrosa cuando Pope trama una peligrosa emboscada. Kiara intenta sacar ventaja sobre los Corsarios y poner a prueba los poderes de la corona.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oqX0tNQnAnJ5vXvsapndhgYowWz.jpg"
+      },
+      {
+        "id": "tt10293938:5:10",
+        "title": "La tormenta y lo que vino después",
+        "season": 5,
+        "episode": 10,
+        "overview": "Un huracán azota Kildare, y los Pogues deben correr para salvar a sus seres queridos y saldar cuentas pendientes antes de volver a perder el tesoro capaz de cambiar sus vidas.",
+        "released": "2026-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oesUd5VcoC3nnYJ0nQOfX1fWYo7.jpg"
+      }
+    ]
+  }
+}

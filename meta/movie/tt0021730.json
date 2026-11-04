@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0021730",
+    "type": "movie",
+    "name": "The Champ",
+    "poster": "https://image.tmdb.org/t/p/w500/7S6yb3SeakMas6MrV92Fm9ka0IS.jpg",
+    "posterShape": "poster",
+    "description": "A broken-down alcoholic prizefighter struggles to keep custody of his adoring son.",
+    "releaseInfo": "1931",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vT5TmlYo9Y16KGMx86bD3KLMIbL.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

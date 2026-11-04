@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt0351283",
+    "type": "movie",
+    "name": "Madagascar",
+    "poster": "https://image.tmdb.org/t/p/w500/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+    "description": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
+    "releaseInfo": "2005",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.9"
+        }
+      }
+    }
+  }
+}

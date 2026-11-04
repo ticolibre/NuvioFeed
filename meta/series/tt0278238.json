@@ -1,0 +1,566 @@
+{
+  "meta": {
+    "id": "tt0278238",
+    "type": "series",
+    "name": "Samurai Jack",
+    "poster": "https://image.tmdb.org/t/p/w500/6ic7e9zm5DmzGy4mYlIPKf1b3B4.jpg",
+    "posterShape": "poster",
+    "description": "Un malvado mago transporta a un joven guerrero samurái al futuro, donde inicia una búsqueda para regresar al pasado y deshacer los daños causados; en su camino, conseguirá algunos aliados que lucharán contra los secuaces del mago.",
+    "releaseInfo": "2001",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Animación"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0278238:1:1",
+        "title": "I - El Comienzo",
+        "season": 1,
+        "episode": 1,
+        "overview": "El maligno Aku ataca al emperador; Jack es enviado por su madre para ser entrenado para luchar contra Aku.",
+        "released": "2001-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uZjIAhMMB9qktNLOeC7WYYmDRLa.jpg"
+      },
+      {
+        "id": "tt0278238:1:2",
+        "title": "II - El Samurai Llamado Jack",
+        "season": 1,
+        "episode": 2,
+        "overview": "Jack se encuentra en el futuro. Se ofrece para ayudar a un grupo de perros arqueólogos que están forzados a excavar en búsqueda de joyas por Aku.",
+        "released": "2001-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5gdW1mxMEz9MjlVJ0GyAm0r9rHb.jpg"
+      },
+      {
+        "id": "tt0278238:1:3",
+        "title": "III - La Primera Pelea",
+        "season": 1,
+        "episode": 3,
+        "overview": "Aku envía una tropa de insectos robots para asesinar a Jack y a los perros. Con ayuda de sus nuevos amigos, Jack pone trampas y logra eliminar a la tropa.",
+        "released": "2001-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kscz7nf6sOKs3P1UF4GB6n5rdif.jpg"
+      },
+      {
+        "id": "tt0278238:1:4",
+        "title": "IV - Jack, los Lanudos y los Chritchellites",
+        "season": 1,
+        "episode": 4,
+        "overview": "Jack conoce a un pueblo de gente conocida como los Chritchellites, los cuales usaron su tecnología para esclavizar a un grupo de criaturas supuestamente salvajes conocidas como los lanudos. Jack luego se da cuenta de que el pueblo pertenecía a los lanudos.",
+        "released": "2001-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qqNHa9ZMzk8ML1Cit3yqkQYub5W.jpg"
+      },
+      {
+        "id": "tt0278238:1:5",
+        "title": "V - Jack en el Espacio",
+        "season": 1,
+        "episode": 5,
+        "overview": "Jack se encuentra con un grupo de científicos quienes estaban construyendo una nave para escapar de Aku. Ellos aceptan ayudar a Jack en su objetivo, con la condición de que él los ayude en su escape.",
+        "released": "2001-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uC5xj0cGSMlqcxcEsTVhw7uX22d.jpg"
+      },
+      {
+        "id": "tt0278238:1:6",
+        "title": "VI - Jack y la Mujer Guerrera",
+        "season": 1,
+        "episode": 6,
+        "overview": "Jack se encuentra con una extraña mujer guerrera con la que irá a buscar una gema mágica de gran poder.",
+        "released": "2001-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vPCyFC4k5UEyTfMWZQYKIIrr6qj.jpg"
+      },
+      {
+        "id": "tt0278238:1:7",
+        "title": "VII - Jack y los Tres Arqueros Ciegos",
+        "season": 1,
+        "episode": 7,
+        "overview": "Jack se entera de una lsla que posee una fuente que puede concederle cualquier deseo, pero que está custodiada por 3 arqueros ciegos.",
+        "released": "2001-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z8GUsOmd5BIud4Xf3MfTXimqQzs.jpg"
+      },
+      {
+        "id": "tt0278238:1:8",
+        "title": "VIII - Jack Contra Mad Jack",
+        "season": 1,
+        "episode": 8,
+        "overview": "Frustrado por la ineptitud de sus guerreros en enfrentar a Jack, Aku crea un espíritu maligno cuya forma es una copia de la de Jack para tratar de derrotarlo.",
+        "released": "2001-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tBFIzSM9JXBhrdT2S9gVTWAxJRN.jpg"
+      },
+      {
+        "id": "tt0278238:1:9",
+        "title": "IX - Jack Bajo el Mar",
+        "season": 1,
+        "episode": 9,
+        "overview": "Jack va en busca de ayuda de parte de un grupo de anfibios que poseen una máquina que podría mandar a Jack de regreso al pasado.",
+        "released": "2001-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w6979WDvNH3izeYQpfCHRxSFSz.jpg"
+      },
+      {
+        "id": "tt0278238:1:10",
+        "title": "X - Jack y el Monstruo de Lava",
+        "season": 1,
+        "episode": 10,
+        "overview": "Jack oye una voz que lo llama, este va a ver de donde es su origen. Después de sobrepasar una serie de obstáculos, es desafiado por un antiguo monstruo de lava.",
+        "released": "2001-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a5MeNkIVOQDEskJcPpal4rilUZR.jpg"
+      },
+      {
+        "id": "tt0278238:1:11",
+        "title": "XI - Jack y el Hombre Escocés",
+        "season": 1,
+        "episode": 11,
+        "overview": "Jack se encuentra con el Hombre Escocés en un puente sobre un pantano, en el cual caen y luego juntos deben enfrentar a una serie de robots.",
+        "released": "2001-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4ZfFFL4WqJt1H4VUhojWCpYqk92.jpg"
+      },
+      {
+        "id": "tt0278238:1:12",
+        "title": "XII - Jack y los Gángsters",
+        "season": 1,
+        "episode": 12,
+        "overview": "Jack decide unirse a un grupo de gánsteres para ayudarlos a robar un cristal que le podría dar a Aku poder sobre todo el planeta; sin embargo Jack también tiene su serie de planes ocultos.",
+        "released": "2001-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qHj1cKTup5kLSHoaMXpOgbGsWPr.jpg"
+      },
+      {
+        "id": "tt0278238:1:13",
+        "title": "XIII - Los Cuentos de Hada de Aku",
+        "season": 1,
+        "episode": 13,
+        "overview": "Aku cuenta a un grupo de niños tres cuentos de hada, cada uno de ellos con una versión malvada de Jack, para tratar de que los niños se pasen a su lado y créan en él.",
+        "released": "2001-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3Ep5bA06QjoaQ6oVuc7XUfGJKpH.jpg"
+      },
+      {
+        "id": "tt0278238:2:1",
+        "title": "XIV - Jack Aprende a Saltar Bien",
+        "season": 2,
+        "episode": 1,
+        "overview": "Jack le enseña a una tribu pacífica a defenderse de los ataques de tribus enemigas, para que él pueda tomar lecciones sobre como \"saltar bien\" (Saltar lo suficientemente alto como para alcanzar a Aku).",
+        "released": "2002-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6FEPfwi0f3uIV4O3u6LhY0FN1m0.jpg"
+      },
+      {
+        "id": "tt0278238:2:2",
+        "title": "XV - Cuentos de Jack",
+        "season": 2,
+        "episode": 2,
+        "overview": "Este episodio muestra tres historias cortas sobre algunos encuentros de Jack. Uno es con un gusano gigante de dos cabezas, otro es con una familia que se alimenta de metal, y en el último Jack trata de rescatar a un hada de una gárgola.",
+        "released": "2002-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/k45rE5BUHtFRhtYfk0FfmlVUfa5.jpg"
+      },
+      {
+        "id": "tt0278238:2:3",
+        "title": "XVI - Jack y la Cúpula de la Muerte",
+        "season": 2,
+        "episode": 3,
+        "overview": "Jack debe defenderse por su cuenta en la \"Cúpula del Juicio\"",
+        "released": "2002-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/riOZd6kINUlJgMxHRstKRe42QjX.jpg"
+      },
+      {
+        "id": "tt0278238:2:4",
+        "title": "XVII - Jack y el Hombre Escocés, Segunda Parte",
+        "season": 2,
+        "episode": 4,
+        "overview": "El Hombre Escocés requiere la ayuda de Jack para que lo ayude a rescatar a su esposa, que está prisionera en un castillo.",
+        "released": "2002-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y70wL4K8Q46ADkGt50tyBm4qqYA.jpg"
+      },
+      {
+        "id": "tt0278238:2:5",
+        "title": "XVIII - Jack y los Merodeadores",
+        "season": 2,
+        "episode": 5,
+        "overview": "Luego de que Jack pasara por varias ciudades destruidas, trata de detener a los 8 robots responsables de la destrucción, con la ayuda del profesor que inicialmente los creó.",
+        "released": "2002-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m3R3uZfVEWccdlFLLUdpdCb0xN8.jpg"
+      },
+      {
+        "id": "tt0278238:2:6",
+        "title": "XIX - Jack Recuerda el Pasado",
+        "season": 2,
+        "episode": 6,
+        "overview": "Jack regresa al lugar donde vivió y nació, donde recuerda su niñez.",
+        "released": "2002-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7yawiyoiOmvYivzye36PDlouJIf.jpg"
+      },
+      {
+        "id": "tt0278238:2:7",
+        "title": "XX - Jack y los Monjes",
+        "season": 2,
+        "episode": 7,
+        "overview": "Jack busca la verdad subiendo la \"Montaña de Fatoom\" junto a tres monjes.",
+        "released": "2002-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fNDHBEh5sWsaOiQul6mvy9fS41o.jpg"
+      },
+      {
+        "id": "tt0278238:2:8",
+        "title": "XXI - Jack y el Dragón Flatulento",
+        "season": 2,
+        "episode": 8,
+        "overview": "Jack llega a un pueblo infestado con un aliento que viene de una cueva. Jack, tras investigar, se da cuenta de que el aliento viene de un dragón con una fuerte indigestión.",
+        "released": "2002-09-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ilsncrXHUQGxoBSOn6vEYTwsr0u.jpg"
+      },
+      {
+        "id": "tt0278238:2:9",
+        "title": "XXII - Jack y los Cazadores",
+        "season": 2,
+        "episode": 9,
+        "overview": "Aku recluta a los cazadores Imagandi para capturar a Jack.",
+        "released": "2002-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oOG1l7CQKf6Nh1YVoQ2CzklHTgs.jpg"
+      },
+      {
+        "id": "tt0278238:2:10",
+        "title": "XXIII - Jack Contra Demongo, el Recolector de Almas",
+        "season": 2,
+        "episode": 10,
+        "overview": "Jack pelea contra Demongo (un sirviente de Aku) y su tropa de guerreros de ultratumba.",
+        "released": "2002-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6vC3Zn2Hm0pskVcNg2fQjvVqEID.jpg"
+      },
+      {
+        "id": "tt0278238:2:11",
+        "title": "XXIV - Jack Está Desnudo",
+        "season": 2,
+        "episode": 11,
+        "overview": "Jack debe ir en búsqueda de un conejo que robó su espada y ropa, mientras oculta su desnudez poniéndose diferentes ropas las cuales le acarrean problemas de identidad confundida.",
+        "released": "2002-09-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aTVxhLMlbJCJoTo3jw1lQGXqS5V.jpg"
+      },
+      {
+        "id": "tt0278238:2:12",
+        "title": "XXV - Jack y los Espartanos o los Trescientos Más Uno",
+        "season": 2,
+        "episode": 12,
+        "overview": "Jack, mientras sube hacia el pico de una gran montaña se encuentra con un grupo de 300 guerreros. Jack les ofrece su ayuda en la última etapa de cinco generaciones de guerra.",
+        "released": "2002-10-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vbqA4x1TTvGdgH5GVwIeFLYyU6p.jpg"
+      },
+      {
+        "id": "tt0278238:2:13",
+        "title": "XXVI - Las Sandalias de Jack",
+        "season": 2,
+        "episode": 13,
+        "overview": "Un grupo de robo-motociclistas destroza las sandalias de Jack, que por su parte debe ir en busca de algo que pueda ponerse para sus pies.",
+        "released": "2002-10-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xNmI7b0cRsM6cSipBaAdilAh1yh.jpg"
+      },
+      {
+        "id": "tt0278238:3:1",
+        "title": "XXVII - Jack Pollo",
+        "season": 3,
+        "episode": 1,
+        "overview": "Un mago transforma a Jack en un pollo. Este debe encontrar la manera de revertir el hechizo.",
+        "released": "2002-10-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zE56lSQwwFbP8Ws4zFP8RjUWkL1.jpg"
+      },
+      {
+        "id": "tt0278238:3:2",
+        "title": "XXVIII - Jack y el Bakalao",
+        "season": 3,
+        "episode": 2,
+        "overview": "Jack en su recorrido se encuentra con un pueblo en el que todos los niños de este están hipnotizados con la música de Aku, la cual los pone violentos y los hace separarse de sus padres.",
+        "released": "2002-10-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4iJDLumXinFkNMdHy6SWEzljkyN.jpg"
+      },
+      {
+        "id": "tt0278238:3:3",
+        "title": "XXIX - El Bueno, el Malo y la Hermosa",
+        "season": 3,
+        "episode": 3,
+        "overview": "En un viaje en tren al más puro estilo del Viejo Oeste, Jack es acechado por un cazarrecompensas llamado Ezekial Clench. Luego de evitar ser atrapado por él es atrapado por la esposa de Clench llamada Josephine.",
+        "released": "2002-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wKxjVTdTX44ExAztYtI11hfHXmC.jpg"
+      },
+      {
+        "id": "tt0278238:3:4",
+        "title": "XXX - Jack y los Zombies",
+        "season": 3,
+        "episode": 4,
+        "overview": "El camino de Jack lo lleva a un cementerio, donde en él debe pelear contra su propia espada en las manos de Aku.",
+        "released": "2002-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/osLAKcZqRnauMojvvAT3rMC7C91.jpg"
+      },
+      {
+        "id": "tt0278238:3:5",
+        "title": "XXXI - Jack en Egipto",
+        "season": 3,
+        "episode": 5,
+        "overview": "Los sirvientes de Seth son liberados por Aku. Solo una memoria distante es la que puede salvar a Jack, cuando él encuentra dentro de estos sirvientes un sentimiento muy familiar.",
+        "released": "2002-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/upZJH9oU2ZeV8VuD1Gmi2u3MhIa.jpg"
+      },
+      {
+        "id": "tt0278238:3:6",
+        "title": "XXXII - Jack y las Criaturas Migrantes",
+        "season": 3,
+        "episode": 6,
+        "overview": "El viaje de Jack lo lleva a un misterioso lago donde variadas criaturas lo guían a un pasaje a través del tiempo.",
+        "released": "2003-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ja8itYQfPP5Re5j9D1aLqoR4SD6.jpg"
+      },
+      {
+        "id": "tt0278238:3:7",
+        "title": "XXXIII - Jack y la Criatura",
+        "season": 3,
+        "episode": 7,
+        "overview": "Jack en su camino se encuentra con una criatura amigable, pero que le arruina toda acción que le sale bien.",
+        "released": "2003-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nKuXOwhCHDi24FtpSlCD1XhYZUj.jpg"
+      },
+      {
+        "id": "tt0278238:3:8",
+        "title": "XXXIV - Jack y el Monstruo del Pantano",
+        "season": 3,
+        "episode": 8,
+        "overview": "Jack debe resolver tres trampas para recuperar las piezas de una armadura que le permitiría regresar al pasado.",
+        "released": "2003-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7vTvFnsUYFIWd3VjBJ85CC7uudv.jpg"
+      },
+      {
+        "id": "tt0278238:3:9",
+        "title": "XXXV - Jack y la Casa Embrujada",
+        "season": 3,
+        "episode": 9,
+        "overview": "Jack se encuentra en medio de su viaje con una casa embrujada, donde debe liberar a la familia que está atrapada dentro de ella.",
+        "released": "2003-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9QxY96lKhl7cUayDrvDLQ1WtSBh.jpg"
+      },
+      {
+        "id": "tt0278238:3:10",
+        "title": "XXXVI - Jack, los Monjes y el Hijo del Antiguo Maestro",
+        "season": 3,
+        "episode": 10,
+        "overview": "Un templo Shaolin le presta ayuda a Jack para encontrar un portal que lo pueda llevar a su propia época.",
+        "released": "2003-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vSyIbrYFxgkzX1bmEEJRBPs9Xfb.jpg"
+      },
+      {
+        "id": "tt0278238:3:11",
+        "title": "XXXVII - El Nacimiento del Mal (1)",
+        "season": 3,
+        "episode": 11,
+        "overview": "El inicio de la existencia de Aku y el conflicto entre él y el padre de Jack. Parte 1 de 2.",
+        "released": "2003-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hLw9olhLQwyCzYUOmnTWxgUUs0x.jpg"
+      },
+      {
+        "id": "tt0278238:4:1",
+        "title": "XL - Samurai Contra Ninja",
+        "season": 4,
+        "episode": 1,
+        "overview": "Jack lucha contra un ninja enviado por aku.",
+        "released": "2003-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oDAGUIAWJTG9AmwkTwIUEgql882.jpg"
+      },
+      {
+        "id": "tt0278238:4:2",
+        "title": "XLI - Robo-samurai Vs Móndobot",
+        "season": 4,
+        "episode": 2,
+        "overview": "Jack usa un robot gigante para vencer a Móndobot y defender una ciudad de robots.",
+        "released": "2003-06-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cZaZaa3haeBSite8WimnKP6DSwe.jpg"
+      },
+      {
+        "id": "tt0278238:4:3",
+        "title": "XLII - Samurai Contra Samurai",
+        "season": 4,
+        "episode": 3,
+        "overview": "Jack se encuentra con un samurái fastidioso y le enseña una lección.",
+        "released": "2003-06-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xafctgj0FHWZHLWS0IpGSVwv3Xr.jpg"
+      },
+      {
+        "id": "tt0278238:4:4",
+        "title": "XLIII - La Infección de Aku",
+        "season": 4,
+        "episode": 4,
+        "overview": "Jack es accidentalmente infectado por la maldad de Aku.",
+        "released": "2003-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hp6LPNWOZz7a468MdQVFx4oV9s8.jpg"
+      },
+      {
+        "id": "tt0278238:4:5",
+        "title": "XLIV - Jack Contra los Cazadores Mercenarios",
+        "season": 4,
+        "episode": 5,
+        "overview": "Unos cazarrecompensas de élite tienden una emboscada a Jack.",
+        "released": "2003-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dJCSQ3wyhlaaD27pkWiLGOqv29H.jpg"
+      },
+      {
+        "id": "tt0278238:4:6",
+        "title": "XLV - Jack Pierde la Memoria, Primera Parte",
+        "season": 4,
+        "episode": 6,
+        "overview": "El hombre escocés ayuda a Jack a recuperar la memoria siguiendo hacia atrás sus pasos.",
+        "released": "2003-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xXr02MCUEMv9EplyLAitrKBgdEn.jpg"
+      },
+      {
+        "id": "tt0278238:4:7",
+        "title": "XLVI - Jack Pierde la Memoria, Segunda Parte",
+        "season": 4,
+        "episode": 7,
+        "overview": "El hombre escocés se embarca con Jack para ayudarle a recuperar la memoria.",
+        "released": "2003-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cq02g1kqAcTBLJer9OjabvEF7jt.jpg"
+      },
+      {
+        "id": "tt0278238:4:8",
+        "title": "XLVII - Jack y los Seres Voladores",
+        "season": 4,
+        "episode": 8,
+        "overview": "Jack ayuda a los príncipes de otro planeta a escapar de las garras de Aku.",
+        "released": "2003-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/haIJTgVTT9Ax2bXIDRvuzNZdyB2.jpg"
+      },
+      {
+        "id": "tt0278238:4:9",
+        "title": "XLVIII - Jack Contra Aku",
+        "season": 4,
+        "episode": 9,
+        "overview": "Aku reta a Jack a una lucha cuerpo a cuerpo.",
+        "released": "2003-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kem1LaBU9U8nszkNMGFc0nDLgt9.jpg"
+      },
+      {
+        "id": "tt0278238:4:10",
+        "title": "XLIX - Las Estaciones de la Muerte",
+        "season": 4,
+        "episode": 10,
+        "overview": "Son las aventuras que le pasan a Jack, una en cada estación del año.",
+        "released": "2004-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cK7Jm3ARNO9h4IjO08dcK7BQi6m.jpg"
+      },
+      {
+        "id": "tt0278238:4:11",
+        "title": "L - La Historia de X9",
+        "season": 4,
+        "episode": 11,
+        "overview": "Es la historia del único robot con sentimientos.",
+        "released": "2004-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gElv352RYY3kjc2rbjg7xnJtATh.jpg"
+      },
+      {
+        "id": "tt0278238:4:12",
+        "title": "LI - El Joven Jack en África",
+        "season": 4,
+        "episode": 12,
+        "overview": "Se narra lo sucedido cuando Jack (de joven)entrenó en un poblado de África.",
+        "released": "2004-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rADNtvqxlpx1ixT6EVn8IRGwXrL.jpg"
+      },
+      {
+        "id": "tt0278238:4:13",
+        "title": "LII - Jack y el Bebé",
+        "season": 4,
+        "episode": 13,
+        "overview": "Jack busca a los padres de un bebé al que salvó de unos ogros.",
+        "released": "2004-09-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5HjTPjLjGRBTrw6RPQ5YcTgdRze.jpg"
+      },
+      {
+        "id": "tt0278238:5:1",
+        "title": "XCII",
+        "season": 5,
+        "episode": 1,
+        "overview": "Cincuenta años han pasado desde que Jack llegó en el futuro; la espada no se encuentra, se ha perdido la esperanza de volver a su tiempo, y es atormentado por alucinaciones de sus padres, su reino, y una misteriosa figura a caballo. Jack rescata a una madre y su hija de varios robots, y vaga por la tierra en una motocicleta. Scaramouche -un robot parlanchín asesino de estilo musical- ha destruido un pueblo y mató a toda su gente para llamar la atención de Jack, quien lo destruye. Mientras tanto, siete chicas jóvenes son criadas y entrenadas desde su nacimiento para convertirse en las Hijas de Aku, un equipo de asesinos de élite con el único propósito de matar a Jack.",
+        "released": "2017-03-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kIfiskbwCGMkj2tcUsvg5c3Yu0d.jpg"
+      },
+      {
+        "id": "tt0278238:5:2",
+        "title": "XCIII",
+        "season": 5,
+        "episode": 2,
+        "overview": "Aku se ha cansado de perseguir a Jack y está empezando a perder la esperanza de volver a derrotarlo, desde que Jack ha dejado de envejecer. Las Hijas de Aku se enfrentan a Jack, lo abruman y desarman; al tiempo que se oculta de ellas, Jack alucina una discusión con él mismo sobre el punto de mantenerse con vida y de luchar. Él huye a las ruinas de un templo cercano, perseguido por las hijas de Aku, en uno de los pasillos una de ellas le apuñala con una daga en el costado, siendo asesinada por Jack en el acto. Horrorizado, al descubrir que la víctima no era como las demás máquinas al servicio de Aku, sino humana, Jack destruye parte del templo y se escapa en un río. El clímax del episodio es un homenaje a \" The Ecstasy of Gold \".",
+        "released": "2017-03-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7U9NjmJkXBQQPub7ECBS6YhTZup.jpg"
+      },
+      {
+        "id": "tt0278238:5:3",
+        "title": "XCIV",
+        "season": 5,
+        "episode": 3,
+        "overview": "Después de las Hijas de Aku han seguido el rastro de Jack al río exigen que se muestre, Jack les da una última advertencia antes de que comenzar una épica pelea.",
+        "released": "2017-03-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6T3ZFtrY6RzOSvnwKIyjubJndX0.jpg"
+      },
+      {
+        "id": "tt0278238:5:4",
+        "title": "XCV",
+        "season": 5,
+        "episode": 4,
+        "overview": "Con la furiosa y reacia ayuda de Ashi a su lado, Jack busca un escape de una criatura gigantesca que los ha tragado enteros. ¿Sus interacciones con el Samurai le revelarán a Ashi la luz del verdadero enemigo del mundo?",
+        "released": "2017-04-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fUJ8un49qvcF5dVRHdxMk8UvCu4.jpg"
+      },
+      {
+        "id": "tt0278238:5:5",
+        "title": "XCVI",
+        "season": 5,
+        "episode": 5,
+        "overview": "El escocés y su clan luchan contra Aku. Mientras tanto, Jack y Ashi trabajan juntos para salvar a un grupo de niños esclavos de ser cosechados como la fuente de energía para un monstruoso Mega-Robot.",
+        "released": "2017-04-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b9iGy9JSssZ9OTveHeIktHhPjON.jpg"
+      },
+      {
+        "id": "tt0278238:5:6",
+        "title": "XCVII",
+        "season": 5,
+        "episode": 6,
+        "overview": "La búsqueda de Ashi por Samurai Jack le ayuda a ver el efecto positivo que ha hecho en el mundo después de encontrarse con numerosas personas y lugares donde ha cambiado las cosas para mejor.",
+        "released": "2017-04-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sieS7O1mHnvbMO9cuK6yebkK8Im.jpg"
+      },
+      {
+        "id": "tt0278238:5:7",
+        "title": "XCVIII",
+        "season": 5,
+        "episode": 7,
+        "overview": "Jack y Ashi tienen que superar una serie de pruebas intensas; Tanto físicas como espirituales, para recuperar la espada mística de Jack del infinito abismo.",
+        "released": "2017-04-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zWqt2FgBPiTIoJbbqa9rq9cz9R.jpg"
+      },
+      {
+        "id": "tt0278238:5:8",
+        "title": "XCIX",
+        "season": 5,
+        "episode": 8,
+        "overview": "La creciente relación entre Jack y Ashi toma un giro después de que son cazados por una de las criaturas más mortíferas de la galaxia.",
+        "released": "2017-05-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t6MY5CuEulAb6PNHD2tKNnNY57U.jpg"
+      },
+      {
+        "id": "tt0278238:5:9",
+        "title": "C",
+        "season": 5,
+        "episode": 9,
+        "overview": "El peor miedo de Samurai Jack se hace realidad cuando se enfrenta a Aku; El demonio hace un sorprendente descubrimiento sobre Ashi que la pone en grave peligro.",
+        "released": "2017-05-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kPM0juQSpZNSjwVfwnTVhcwrM9H.jpg"
+      },
+      {
+        "id": "tt0278238:5:10",
+        "title": "CI",
+        "season": 5,
+        "episode": 10,
+        "overview": "El destino de todo el universo entra en juego mientras Jack se enfrenta a Aku.",
+        "released": "2017-05-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tF4gUe312a5GfSaTlEW7P7rS3eJ.jpg"
+      }
+    ]
+  }
+}

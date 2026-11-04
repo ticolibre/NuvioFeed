@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0112573",
+    "type": "movie",
+    "name": "Corazón Valiente",
+    "poster": "https://image.tmdb.org/t/p/w500/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
+    "posterShape": "poster",
+    "description": "Drama histórico que narra la vida de William Wallace, un héroe escocés del siglo XIII que lidera una rebelión contra el dominio inglés. Wallace lucha por la libertad de su pueblo y se convierte en un símbolo de resistencia y valentía en la lucha por la independencia de Escocia.",
+    "releaseInfo": "1995",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.9"
+        }
+      }
+    }
+  }
+}

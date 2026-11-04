@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0109707",
+    "type": "movie",
+    "name": "Ed Wood",
+    "poster": "https://image.tmdb.org/t/p/w500/l6DjxsCOlpT1xzztMHQDAZvqdhx.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+    "description": "Ed Wood es un joven director de cine, un visionario sin ninguna formación académica, aficionado a vestirse de mujer y con muy pocas oportunidades de hacer películas en un gran estudio. Sin embargo no ceja en su empeño de convertirse en un director famoso. Tras reunir a un curioso grupo de personajes, realiza películas de bajo presupuesto, excéntricas y no muy cuidadas técnicamente.",
+    "releaseInfo": "1994",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Historia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.5"
+        }
+      }
+    }
+  }
+}

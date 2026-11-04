@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt0032138",
+    "type": "movie",
+    "name": "El mago de Oz",
+    "poster": "https://image.tmdb.org/t/p/w500/ymUY2iIm8IuSYuIX1SsABgPyB48.jpg",
+    "posterShape": "poster",
+    "description": "Dorothy Gale es arrastrada de una granja en Kansas a una tierra mágica de Oz en un tornado y se embarca en una búsqueda con sus nuevos amigos para ver al Mago que puede ayudarla a volver a casa en Kansas y ayudar a sus amigos también.",
+    "releaseInfo": "1939",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Familia"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    }
+  }
+}

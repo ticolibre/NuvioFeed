@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "tt11286314",
+    "type": "movie",
+    "name": "No miren arriba",
+    "poster": "https://image.tmdb.org/t/p/w500/2JW1Uhs12ZsnxHG8EUbK5uHNK1J.jpg",
+    "posterShape": "poster",
+    "description": "Dos astrónomos realizan una gira mediática para advertirle a la humanidad de un cometa mortal que está en rumbo de colisión con la Tierra. La respuesta del mundo: ¿Y?",
+    "releaseInfo": "2021",
+    "genres": [
+      "Comedia",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

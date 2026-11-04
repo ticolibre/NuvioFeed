@@ -1,0 +1,2006 @@
+{
+  "meta": {
+    "id": "tt0409591",
+    "type": "series",
+    "name": "Naruto",
+    "poster": "https://image.tmdb.org/t/p/w500/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+    "posterShape": "poster",
+    "description": "Narra la historia de un ninja adolescente hiperactivo, impredecible y ruidoso llamado Naruto Uzumaki, quien aspira a convertirse afanosamente en Hokage, el máximo grado ninja en su aldea, con el propósito de ser reconocido como alguien importante dentro de la misma.",
+    "releaseInfo": "2002",
+    "genres": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.4"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt0409591:1:1",
+        "title": "¡Entra! ¡Naruto Uzumaki!",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un pergamino sagrado de la Aldea Oculta de la Hoja ha sido robado y el culpable no es otro que Naruto, un joven aspirante a ninja que acaba de suspender el examen de graduación y alberga un terrible secreto en su interior.",
+        "released": "2002-10-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7xOP0rKDniTZKEaRM7seKfY9SG8.jpg"
+      },
+      {
+        "id": "tt0409591:1:2",
+        "title": "¡Soy Konohamaru!",
+        "season": 1,
+        "episode": 2,
+        "overview": "Tras graduarse en la Academia Ninja, Naruto conoce a Konohamaru, el nieto del tercer Hokage. Impresionado por el hecho de que Naruto no le trate de forma especial, Konohamaru comienza a seguirle a todas partes y a imitarle.",
+        "released": "2002-10-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5e0sxZupgkWNRvEnSn8CtDaTNck.jpg"
+      },
+      {
+        "id": "tt0409591:1:3",
+        "title": "Sasuke y Sakura: ¿Amigos o enemigos?",
+        "season": 1,
+        "episode": 3,
+        "overview": "Como parte de su formación, Naruto es asignado al Grupo 7 junto a Sakura, la chica de sus sueños, y Sasuke, su rival por el que Sakura parece sentir algo. ¿Serán capaces de dejar de lado sus diferencias y funcionar como equipo?",
+        "released": "2002-10-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f4TFdgyxCJ7fF8J67WOfSGia1Av.jpg"
+      },
+      {
+        "id": "tt0409591:1:4",
+        "title": "Aprobar o reprobar: Un examen de supervivencia",
+        "season": 1,
+        "episode": 4,
+        "overview": "Naruto, Sakura y Sasuke conocen a Kakashi Hatake, su nuevo instructor, que les informa que para convertirse en genin tendrán que superar una prueba de supervivencia en la que uno de ellos quedará obligatoriamente descartado.",
+        "released": "2002-10-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/754Qrt6RuRblgazi8LiZ26AkmzK.jpg"
+      },
+      {
+        "id": "tt0409591:1:5",
+        "title": "¡Fallaste! La decisión final de Kakashi",
+        "season": 1,
+        "episode": 5,
+        "overview": "Tan sólo Sasuke sigue teniendo opciones de derrotar a Kakashi en una prueba que parece imposible de superar. ¿Cuál es el verdadero objetivo de la prueba? Y lo más importante, ¿serán Naruto y sus amigos capaces de superarla?",
+        "released": "2002-10-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6DUDSdvZIq4ebWB56EXPWNIt7Yp.jpg"
+      },
+      {
+        "id": "tt0409591:1:6",
+        "title": "Una misión peligrosa. Un viaje al País de las Olas",
+        "season": 1,
+        "episode": 6,
+        "overview": "Aburrido de misiones fáciles, Naruto le pide al tercer Hokage que les asigne una de mayor nivel. Finalmente, este cede y les encarga la misión de escoltar al constructor de puentes Tazuna hasta el País de las Olas.",
+        "released": "2002-11-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iFwElDN6atOMRNsTnO2xpGr9cfH.jpg"
+      },
+      {
+        "id": "tt0409591:1:7",
+        "title": "El asesino de la neblina",
+        "season": 1,
+        "episode": 7,
+        "overview": "Lo que prometía ser una misión fácil acaba complicándose cuando en el camino del Grupo 7 se cruza un ninja llamado Zabuza Momochi. Kakashi se ve obligado a recurrir a su Sharingan para poder hacer frente a su poderoso adversario.",
+        "released": "2002-11-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hCux6yOMEr0aTASISowEYR5HNm6.jpg"
+      },
+      {
+        "id": "tt0409591:1:8",
+        "title": "El juramento del dolor",
+        "season": 1,
+        "episode": 8,
+        "overview": "Naruto y sus amigos deben proteger a Tazuna de los ataques de Zabuza. A pesar de que su instructor les insta a huir, Naruto recuerda el juramento que hizo y decide unir fuerzas con Sasuke para liberarle usando un shuriken de viento endemoniado",
+        "released": "2002-11-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aHB9h0MKT9SM56QDpFEAThWmfZw.jpg"
+      },
+      {
+        "id": "tt0409591:1:9",
+        "title": "Kakashi: Guerrero Sharingan",
+        "season": 1,
+        "episode": 9,
+        "overview": "Kakashi reanuda su lucha contra Zabuza dispuesto a demostrarle de lo que es capaz su Sharingan, utilizándolo para replicar los ataques de agua de su enemigo.",
+        "released": "2002-11-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zPkIKMA53ysQZ2zj5inHwsXA2ME.jpg"
+      },
+      {
+        "id": "tt0409591:1:10",
+        "title": "El bosque de Chakra",
+        "season": 1,
+        "episode": 10,
+        "overview": "Tras la muerte de Zabuza, Tazuna puede comenzar a construir su puente sin miedo. Al mismo tiempo, Kakashi lleva a sus alumnos al bosque para enseñarles a controlar mejor su chakra, por lo que les pide que suban por unos árboles sin usar las manos, para lo que deberán aprender a enfocar su chakra en los pies.",
+        "released": "2002-12-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mgSDvvVi16W2jDvulu5kHr3Zsrs.jpg"
+      },
+      {
+        "id": "tt0409591:1:11",
+        "title": "La tierra donde alguna vez vivió un héroe",
+        "season": 1,
+        "episode": 11,
+        "overview": "Mientras Naruto y Sasuke compiten en el bosque, Sakura se encarga de proteger a Tazuna. En casa de Tazuna, Sakura se interesa por la historia de un héroe local, asesinado por Gato y sus secuaces, que parece ser motivo de dolor para los habitantes del lugar.",
+        "released": "2002-12-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cvhg1zkpVk67Nap3L9vCmmjhWVZ.jpg"
+      },
+      {
+        "id": "tt0409591:1:12",
+        "title": "Batalla en el puente: Zabuza regresa",
+        "season": 1,
+        "episode": 12,
+        "overview": "Completamente agotado tras completar su entrenamiento, Naruto se queda descansado mientras sus compañeros acompañan a Tazuna hasta el puente. Allí les está esperando Zabuza, vivo y dispuesto a librar una nueva batalla.",
+        "released": "2002-12-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2BOgs1XwMqakMbh55nFeWO1ad31.jpg"
+      },
+      {
+        "id": "tt0409591:1:13",
+        "title": "La técnica de Haku - Espejo Mágico Cristal de Hielo",
+        "season": 1,
+        "episode": 13,
+        "overview": "La segunda ronda con Zabuza ha comenzado, pero esta vez... Zabuza tiene a Haku luchando junto a él. Haku y Sasuke lo intentan con Sasuke quedando atrás hasta que logra patearlo. Mientras tanto, Naruto trata con algunos de los secuaces de Gato. De vuelta en el puente, Haku usa su jutsu secreto, Demonic Ice Mirrors. ¿Qué le depara este jutsu a Sasuke? ¿Naruto llegará al puente a tiempo y salvará a Tsunami e Inari también?",
+        "released": "2002-12-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rxmDDbuvKzAEmBljTXEntUFJBbS.jpg"
+      },
+      {
+        "id": "tt0409591:1:14",
+        "title": "¡El número 1 hiperactivo ninja cabeza hueca entra a jugar!",
+        "season": 1,
+        "episode": 14,
+        "overview": "Naruto finalmente se une a la batalla en el puente. Pero cuando Naruto también es atrapado estúpidamente en medio del jutsu de Haku, él y Sasuke deben trabajar juntos para escapar. Kakashi no puede ayudarlos, ya que debe lidiar con Zabuza para proteger a Sakura y Tazuna. ¿Cómo escaparán los dos de los espejos de hielo sin ninguna ayuda?",
+        "released": "2003-01-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dsNUKjlGPBKIoH1XYzr25IDxYum.jpg"
+      },
+      {
+        "id": "tt0409591:1:15",
+        "title": "Visibilidad cero: El Sharingan desquebrajado",
+        "season": 1,
+        "episode": 15,
+        "overview": "Naruto y Sasuke continúan luchando contra Haku y están siendo golpeados mal. Después de que Naruto intentara escapar algunas veces, Sasuke comienza a ver un patrón. Mientras tanto, fuera de Kakashi y Zabuza comienzan su pelea. ¿Pueden Naruto y Sasuke escapar del jutsu de Haku? ¿Qué plan tiene Zabuza para derrotar al Sharingan?",
+        "released": "2003-01-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/480oLCtY8CkKySvOeO0MyBbMI1b.jpg"
+      },
+      {
+        "id": "tt0409591:1:16",
+        "title": "El sello roto",
+        "season": 1,
+        "episode": 16,
+        "overview": "Naruto y Sasuke continúan su rigurosa batalla contra Haku. Cuando Haku apunta a un Naruto vulnerable, Sasuke arriesga todo para salvarlo. Al ver a su amigo mentir ante él, una poderosa fuerza despierta dentro de Naruto. Kyubi ha sido liberado. Si es así, ¿alguien puede detenerlo?",
+        "released": "2003-01-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/AntqxDoUOQkiuWfCQohBubKKA7.jpg"
+      },
+      {
+        "id": "tt0409591:1:17",
+        "title": "Pasado blanco, ambición escondida",
+        "season": 1,
+        "episode": 17,
+        "overview": "Naruto saca su ira contra Haku, quien no tiene ninguna posibilidad. Sin embargo, Naruto se da cuenta de que Haku es el chico que conoció en el bosque. Haku le cuenta a Naruto la historia de su pasado y le pide a Naruto que le haga un favor... ¿Hará Naruto lo único que nunca podría hacer como Haku lo desea?",
+        "released": "2003-01-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d0FSZc0LLbdEwhZ829dxpCN9b5t.jpg"
+      },
+      {
+        "id": "tt0409591:1:18",
+        "title": "Las armas conocidas como Shinobi",
+        "season": 1,
+        "episode": 18,
+        "overview": "Kakashi se prepara para detener a Zabuza de una vez por todas, pero Haku tiene otros planes. El empleador de Zabuza aparece y ha decidido tomar el asunto en sus propias manos...",
+        "released": "2003-02-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fWq5VAWWX2PQ8dZUFvmN8w095tb.jpg"
+      },
+      {
+        "id": "tt0409591:1:19",
+        "title": "El demonio en la nieve",
+        "season": 1,
+        "episode": 19,
+        "overview": "Zabuza ya no es el enemigo de Kakashi, y gracias a un pequeño discurso de Naruto sobre cómo son los ninjas, Zabuza se enfrenta a los hombres de Gato sin ayuda. El Demonio de la Niebla Oculta se venga de Gato y de todos los que son lo suficientemente tontos como para seguirlo, y se disculpa con Haku por lo que le hizo al amable niño. Después de que el grupo se encarga del resto de los hombres de Gato, Zabuza le pide a Kakashi una última solicitud, para ver a Haku una última vez. Este es el réquiem de Zabuza.",
+        "released": "2003-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vEo04e0vR3tySztQoLVgrBpiVIa.jpg"
+      },
+      {
+        "id": "tt0409591:1:20",
+        "title": "Un nuevo capítulo comienza: ¡El examen Chūnin!",
+        "season": 1,
+        "episode": 20,
+        "overview": "Con su última misión completada, es hora una vez más de que el grupo regrese a misiones mediocres. Después de todo, Konohamaru y sus amigos visitan a Naruto. Todo lo cual resulta en ser perseguido por Sakura. Sin embargo, todos terminaron pronto, ya que dos misteriosos ninja bloquean su camino, y uno de ellos no está muy contento con Konohamaru. Sasuke llega para salvar el día, pero el líder del grupo aparece, con habilidades de sigilo que sorprenden incluso a Sasuke. Mientras tanto, el Tercer Hokage anuncia que es hora una vez más para los exámenes de selección de Chuunin.",
+        "released": "2003-02-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r6DTT3moIK4CgU5OpmByLdOCU1x.jpg"
+      },
+      {
+        "id": "tt0409591:1:21",
+        "title": "Identifíquense: Nuevos y poderosos rivales",
+        "season": 1,
+        "episode": 21,
+        "overview": "Después de que los tres ninjas se van, Sasuke se da cuenta de que tiene un poderoso rival por ahí. Al día siguiente, Kakashi anuncia que los ha recomendado a todos para los exámenes de Chuunin. Mientras que Naruto y Sasuke están contentos, Sakura tiene miedo de decepcionar a todos. Además, alguien decide que no está listo y decide probar sus habilidades.",
+        "released": "2003-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lTZR0D5mFCmjGqUsvn66QxC0SAO.jpg"
+      },
+      {
+        "id": "tt0409591:1:22",
+        "title": "Reto Chūnin: ¡Rock Lee vs. Sasuke!",
+        "season": 1,
+        "episode": 22,
+        "overview": "Rock Lee desafía a Sasuke a una pelea uno a uno. Naruto se enoja y lo ataca, solo para ser derrotado en un ataque. Sasuke se da cuenta del desafío y acepta con entusiasmo. ¿Pero Sasuke será derrotado con la misma facilidad por este misterioso ninja? La única ventaja de Sasuke parece ser su Sharingan, pero ¿qué sucede cuando ni siquiera eso funcionará?",
+        "released": "2003-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2YRIgqJVVAycZ0ZZfIN4GQ169qM.jpg"
+      },
+      {
+        "id": "tt0409591:1:23",
+        "title": "¡La batalla Genin! Los nueve novatos se enfrentan",
+        "season": 1,
+        "episode": 23,
+        "overview": "Una reunión de todos los novatos no es muy feliz, ya que todos se preparan para tomar el examen Chuunin. Con tantos rivales alrededor, el equipo de Naruto necesitará la ayuda de un compañero ninja llamado Kabuto para saber a qué se enfrentan. ¿El grupo podrá durar el examen?",
+        "released": "2003-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8cusxVCLl6Vhz8z6EwLAvEPp0bV.jpg"
+      },
+      {
+        "id": "tt0409591:1:24",
+        "title": "Enciendan motores: ¡Los exámenes Chunin comienzan!",
+        "season": 1,
+        "episode": 24,
+        "overview": "La primera prueba del examen Chuunin es solo eso, una prueba escrita. Cuando Ibiki emite un estricto conjunto de reglas, Naruto no se da cuenta de que el objetivo de la prueba es hacer trampa sin ser atrapado. ¿Puede Naruto darse cuenta de la verdad antes de que se acabe el tiempo? ¿Y qué hay de la décima pregunta?",
+        "released": "2003-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9GXCX3b9hBg2Dke5Y2UQTdC3h5T.jpg"
+      },
+      {
+        "id": "tt0409591:1:25",
+        "title": "La décima pregunta: ¡Todo o nada!",
+        "season": 1,
+        "episode": 25,
+        "overview": "A medida que pasa el tiempo, la única esperanza de Naruto de pasar la prueba radica en la pregunta final. Sin embargo, hay un requisito para responder la pregunta final. Si elige no contestar, no pasa la prueba y puede volver a intentarlo la próxima vez. Pero, si eliges responderlo y equivocarte, ¡nunca podrás volver a tomar el examen y debes seguir siendo un Genin para siempre! ¿Cuál será la elección de Naruto?",
+        "released": "2003-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggsD7py8c7EDWHheDq2fMeM5JbS.jpg"
+      },
+      {
+        "id": "tt0409591:1:26",
+        "title": "Reporte especial: ¡En vivo desde el bosque de la muerte!*",
+        "season": 1,
+        "episode": 26,
+        "overview": "**Episodios de Relleno** Antes de que pueda comenzar el segundo examen, Konohamaru y sus amigos separan a los miembros del Equipo 7 para entrevistas, donde vuelven a contar la historia hasta este punto.",
+        "released": "2003-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c82OEFZfwvhIYDu4L2Wkiu0AidQ.jpg"
+      },
+      {
+        "id": "tt0409591:1:27",
+        "title": "El examen Chunin 2da. etapa: El bosque de la muerte",
+        "season": 1,
+        "episode": 27,
+        "overview": "El segundo examen está por comenzar, y cada ninja debe firmar un formulario para que su equipo pueda obtener el Pergamino del Cielo o la Tierra. El objetivo es obtener uno de cada pergamino y llegar a la torre en cinco días. Los grupos obtienen sus pergaminos y comienza el examen. Naruto es emboscado por un ninja que se hace pasar por él. Este ninja no engaña a Sasuke, quien inmediatamente se da cuenta. Mientras tanto, un nuevo enemigo los busca, pero ¿quién es este enemigo?",
+        "released": "2003-04-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e0GGbezmLS5SVYTgAHQEnB2pfXE.jpg"
+      },
+      {
+        "id": "tt0409591:1:28",
+        "title": "¿Comer o ser comido?: Pánico en el bosque",
+        "season": 1,
+        "episode": 28,
+        "overview": "Para evitar más problemas, Sasuke piensa una contraseña para determinar el amigo del enemigo, pero ¿será así de simple? Mientras tanto, Naruto tiene las manos llenas con una serpiente gigante. ¿Puede manejar esto por su cuenta y qué pasa con Sasuke y Sakura, pueden sobrevivir a la prueba?",
+        "released": "2003-04-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uUuQV1Ywfo4ZLyt5qS67sV64PzT.jpg"
+      },
+      {
+        "id": "tt0409591:1:29",
+        "title": "El contraataque de Naruto: ¡Nunca rendirse!",
+        "season": 1,
+        "episode": 29,
+        "overview": "Sasuke está a punto de rendirse y entregar su pergamino al enemigo, cuando Naruto lo detiene y lo acusa de ser falso. Naruto luego dirige su atención al Grass Ninja ... La batalla es intensa y cuando el Grass Ninja parece tomar la delantera, ¿puede Sasuke reunir el coraje para luchar?",
+        "released": "2003-04-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xO0wT3hZ7BA5ejNGqxYM4rDkrLo.jpg"
+      },
+      {
+        "id": "tt0409591:1:30",
+        "title": "Sharingan revivido: ¡El jutsu flama de dragón!",
+        "season": 1,
+        "episode": 30,
+        "overview": "Sasuke todavía está atrapado en su trance e incluso las súplicas de Sakura no pueden volverlo a la normalidad. Mientras tanto, Anko busca la falsa hierba ninja. Cuando el equipo parece tomar ventaja, la pregunta comienza a hacerse. ¿Están realmente derrotados los ninjas, o hay más de ellos de lo que parece?",
+        "released": "2003-04-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fow6cCMvQDNTZd4pojbB5n9Biw1.jpg"
+      },
+      {
+        "id": "tt0409591:1:31",
+        "title": "La promesa del cejas de azotador: ¡Amor imperecedero y protección!",
+        "season": 1,
+        "episode": 31,
+        "overview": "Como Sakura fue la única que no resultó herida en la batalla anterior, debe vigilar y proteger a sus compañeros de equipo. Sin embargo, sin que ella lo sepa, hay enemigos que observan desde los árboles... Atacan, pero un amigo llega para ayudar. ¿Será suficiente?",
+        "released": "2003-04-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8O4ZB71t8avTJlfeWgjYshH9uO3.jpg"
+      },
+      {
+        "id": "tt0409591:1:32",
+        "title": "¡Sakura florece!",
+        "season": 1,
+        "episode": 32,
+        "overview": "Lee en su estado debilitado tiene problemas para derrotar a Dosu. ¡Sakura se da cuenta de que todos la han estado protegiendo hasta ahora y que es hora de protegerlos! ¿Puede Sakura tener éxito donde incluso Lee falló?",
+        "released": "2003-05-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/upF0XMGkN88cNW5EJ9Fcvrn3BjK.jpg"
+      },
+      {
+        "id": "tt0409591:1:33",
+        "title": "Formación de batalla: ¡Ino-Shika-Cho!",
+        "season": 1,
+        "episode": 33,
+        "overview": "Con Sakura derrotada y enfrentando una muerte segura, más refuerzos entran en la refriega. Sin embargo, sienten un nivel de poder aún mayor, ¡y no proviene del trío de sonido! Mientras tanto, Sasuke se despierta con un siniestro aura oscura que lo rodea y el misterioso sello que se extiende sobre su cuerpo. Tiene un solo objetivo... ¡hacer que sus enemigos paguen!",
+        "released": "2003-05-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o27QYKY0FWstxJkLaw8k19VMHi1.jpg"
+      },
+      {
+        "id": "tt0409591:1:34",
+        "title": "Akamaru tiembla: ¡La fuerza cruel de Gaara!",
+        "season": 1,
+        "episode": 34,
+        "overview": "Kiba, Shino y Hinata deciden intentar eliminar a sus oponentes tomando más pergaminos. Llegan a un campo de batalla donde tres ninjas de Rain luchan contra Gaara, Kankuro y Temari. Permanecen ocultos y observan la batalla, pensando que uno de los ninjas de Rain es un enemigo peligroso. Después de darse cuenta de las increíbles habilidades de Gaara, descubren quién es el realmente peligroso, ¡y tendrán suerte si pueden escabullirse con sus vidas!",
+        "released": "2003-05-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lgaCuu47RnTkJFSaTGE8oVr0D79.jpg"
+      },
+      {
+        "id": "tt0409591:1:35",
+        "title": "El secreto del pergamino: No se permiten miradas",
+        "season": 1,
+        "episode": 35,
+        "overview": "El equipo Kakashi todavía tiene un solo pergamino y solo queda un día antes de que finalice la prueba. Naruto decide que necesitan hacer un pergamino falso y va a abrir su pergamino de la Tierra, cuando Kabuto aparece y lo detiene, explicando que el pergamino los eliminará hasta después de que termine el examen. Luego les dice que los ayudará a encontrar el pergamino que necesitan. Parecen ser los que cazan, pero ¿qué sucede cuando caen en una trampa colocada por el enemigo?",
+        "released": "2003-05-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/d8LGgOxvDIJgBpBIgypfOT0eJg5.jpg"
+      },
+      {
+        "id": "tt0409591:1:36",
+        "title": "Clon contra clon: ¡Los míos son mejores que los tuyos!",
+        "season": 1,
+        "episode": 36,
+        "overview": "¡Naruto y la pandilla se dan cuenta de que han sido atrapados en una técnica ilusoria y luego son atacados! ¿Pueden los cuatro derrotar al ninja cuando ni siquiera pueden verlo y cuáles son las verdaderas razones de Kabuto para ayudar al grupo?",
+        "released": "2003-06-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p4k6c0ElCzJfn8ixALdQprUbBXq.jpg"
+      },
+      {
+        "id": "tt0409591:1:37",
+        "title": "¡Sobreviviendo al corte! ¡Los nueve novatos juntos otra vez!",
+        "season": 1,
+        "episode": 37,
+        "overview": "El examen terminó, pero ¿realmente aprobaron? Un viejo amigo llega para explicar y mostrar su preocupación. Mientras tanto, Anko informa al ANBU sobre Orochimaru, el criminal de Clase S que ni siquiera ellos pueden detener. Más tarde, el Tercer Hokage explica a todos lo que realmente significa el tercer examen...",
+        "released": "2003-06-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rJhRWpsbk4cVwQsHcql10UalGOB.jpg"
+      },
+      {
+        "id": "tt0409591:1:38",
+        "title": "Reduciendo campos: ¡Eliminación por muerte súbita!",
+        "season": 1,
+        "episode": 38,
+        "overview": "Con tantos participantes aún restantes, se les dice a los grupos que se enfrentarán entre sí en partidos preliminares. Kabuto se va, luego le dicen a Sasuke que tiene que pelear. Saben que Sasuke recibió el sello maldito y si se hace cargo lo detendrán. ¿Puede Sasuke evitar que el sello vuelva a tomar el control y aún así ganar?",
+        "released": "2003-06-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kEUY1p3yB2zuzs6G0J9zRa3n5vA.jpg"
+      },
+      {
+        "id": "tt0409591:1:39",
+        "title": "Cejas de azotador celoso: ¡La ráfaga de leones se desata!",
+        "season": 1,
+        "episode": 39,
+        "overview": "Incapaz de usar su chakra contra Akado, Sasuke tiene que confiar en un buen taijutsu anticuado para derrotarlo. Kakashi siente que algo está mal con Sasuke y se lo lleva después del partido.",
+        "released": "2003-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yqXPIz1zU9g4FHbma3Hw4ZwzBv.jpg"
+      },
+      {
+        "id": "tt0409591:1:40",
+        "title": "Kakashi y Orochimaru: ¡Cara a cara!",
+        "season": 1,
+        "episode": 40,
+        "overview": "Mientras Shino y Zaku terminan su pelea, Kakashi trabaja en el sello maldito de Sasuke. Sin embargo, alguien siniestro aparece para arruinar las cosas, ¿podrá Kakashi proteger a Sasuke de este enemigo experto?",
+        "released": "2003-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ttIRnPMOec3EeQ6DScu0SR2OtnW.jpg"
+      },
+      {
+        "id": "tt0409591:1:41",
+        "title": "Estruendo Kunoichi: ¡Las rivales se confrontan!",
+        "season": 1,
+        "episode": 41,
+        "overview": "Kankuro se enfrenta a la compañera de equipo de Kabuto, Misumi, en una batalla rápida, demostrando cuán resistentes son realmente los ninjas de arena. ¡Sin embargo, la verdadera batalla llega cuando Sakura e Ino se enfrentan entre sí!",
+        "released": "2003-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3kBlIN2qODUZrcu2POv2mG3l2dZ.jpg"
+      },
+      {
+        "id": "tt0409591:1:42",
+        "title": "La Batalla Máxima: ¡Cha!",
+        "season": 1,
+        "episode": 42,
+        "overview": "¡Sakura e Ino se preparan para saldar la cuenta de una vez por todas! Sin embargo, cuando Sakura se convierta en la víctima del Interruptor Mente-Cuerpo de Ino, Justu, ¿se verá obligada a abandonar el combate?",
+        "released": "2003-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mje94QnuzJ0i3E9T41Et5wP5ws.jpg"
+      },
+      {
+        "id": "tt0409591:1:43",
+        "title": "La Kunoichi asesina y el tembloroso Shikamaru",
+        "season": 1,
+        "episode": 43,
+        "overview": "El próximo enfrentamiento es entre Temari y Tenten. Las invocaciones de armas de Tenten son bloqueadas por los ataques basados ​​en el viento de Temari, y ella es derrotada. Shikamaru Nara y Kin Tsuchi son elegidos para el próximo combate. Aunque Kin atrapa a Shikamaru en un Genjutsu, él la captura con su Técnica de Imitación de las Sombras y la obliga a dejarse inconsciente. Finalmente es el turno de Naruto de enfrentar a Kiba Inuzuka.",
+        "released": "2003-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cfyppAV2k3JNOk2w3OSNpy3iXSd.jpg"
+      },
+      {
+        "id": "tt0409591:1:44",
+        "title": "¡Akamaru desatado! ¿Quién es el más perrón ahora?",
+        "season": 1,
+        "episode": 44,
+        "overview": "La pelea entre Kiba y Naruto comienza, con Kiba inmediatamente demostrando que tiene la ventaja en la batalla. Todos todavía creen que Naruto es el ninja débil que siempre ha sido, todos excepto Hinata, Kakashi y Sakura. Ahora es el momento de que Naruto brille, y esta vez ... ¡todos lo estarán mirando!",
+        "released": "2003-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/99FrIir3fl2I4THjM8SMvmSj3MI.jpg"
+      },
+      {
+        "id": "tt0409591:1:45",
+        "title": "¡Ataque sorpresa! ¡El arma secreta de Naruto!",
+        "season": 1,
+        "episode": 45,
+        "overview": "La batalla entre Naruto y Kiba llega a su fin, y cada uno de ellos le da todo lo que tiene. Después de ser engañado por Naruto, Kiba ya no puede confiar en la ayuda de Akamaru. Naruto decide que ahora es el momento de lanzar su nuevo jutsu, ¡solo que Kiba no le dará tiempo para prepararlo!",
+        "released": "2003-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bE7SGcJpYQ7nQOgepW8awRopLbC.jpg"
+      },
+      {
+        "id": "tt0409591:1:46",
+        "title": "Batalla Byakugan: ¡Hinata se hace valiente!",
+        "season": 1,
+        "episode": 46,
+        "overview": "Kiba alerta a Hinata, mientras se lo llevan, que solo quedan unos pocos luchadores. Él le advierte que si ella lucha contra Gaara, tiene que darse por vencida inmediatamente o podría ser asesinada. También le dice que se rinda si se combina con Neji, porque Neji ya tiene problemas con ella. En ese momento, el tablero muestra la próxima pelea... Hinata vs. Neji. ¿Hasta dónde llegará Hinata para demostrar su valía?",
+        "released": "2003-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/799bK1KRz4M2YrMGyXI1Y1VZmhX.jpg"
+      },
+      {
+        "id": "tt0409591:1:47",
+        "title": "¡Una derrota digna!",
+        "season": 1,
+        "episode": 47,
+        "overview": "Hinata no se rendirá tan fácilmente, especialmente con Naruto mirándola. ¿Estará Hinata dispuesta a renunciar a su propia vida para demostrar su valía, o se detendrá el combate antes de que Neji pueda conectar un movimiento mortal?",
+        "released": "2003-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hgUDkVN629NTuACZK4ucL24H7ij.jpg"
+      },
+      {
+        "id": "tt0409591:1:48",
+        "title": "Gaara contra Rock Lee: ¡El poder de la juventud explota!",
+        "season": 1,
+        "episode": 48,
+        "overview": "¡El penúltimo partido finalmente llega! Rock Lee debe enfrentar al misterioso y peligroso Gaara, un ninja que se dice que nunca antes había sido realmente herido en una pelea.",
+        "released": "2003-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/by1hzL5jaQ5AgdP2pxYuPnLbKLo.jpg"
+      },
+      {
+        "id": "tt0409591:1:49",
+        "title": "La fuerza escondida de Lee: ¡El jutsu secreto prohibido!",
+        "season": 1,
+        "episode": 49,
+        "overview": "Mientras la batalla entre Lee y Gaara continúa, Gai recuerda lo duro que Lee solía entrenar y cómo Lee prácticamente no tiene habilidades de ninjutsu o genjutsu. Lee también es un desertor, como Naruto. Para derrotar a Gaara, Lee tendrá que usar el movimiento que Gai le prohibió usar.",
+        "released": "2003-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kc18Rwed6GBPz7EdwRTedULhsF0.jpg"
+      },
+      {
+        "id": "tt0409591:1:50",
+        "title": "La quinta puerta: Un espléndido ninja ha nacido",
+        "season": 1,
+        "episode": 50,
+        "overview": "El partido entre Gaara y Lee llega a su fin cuando Lee desata su último movimiento. Pero, ¿será esto suficiente para derrotar a Gaara? Incluso si Lee logra salir de una pieza, aún le esperan noticias más impactantes.",
+        "released": "2003-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4gpJWjIQqI9bxhzupttFUdycU6m.jpg"
+      },
+      {
+        "id": "tt0409591:1:51",
+        "title": "Una sombra en la oscuridad: El peligro se aproxima a Sasuke",
+        "season": 1,
+        "episode": 51,
+        "overview": "Cuando Chouji se enfrenta a Dosu, Orochimaru le ordena a Kabuto que rapte a Sasuke. También le dice a Kabuto que si quiere detenerlo, tendrá que matar a Sasuke. Cuando Kabuto se acerca a Sasuke, duda sobre qué hacer. Sin embargo, su cobertura de espía pronto se desvanece, ya que Kakashi aparece en la escena. ¿Kakashi salvará a Sasuke del alcance de Kabuto?",
+        "released": "2003-09-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eHcbJbaAc9jn7h5BZivDtJzjnyt.jpg"
+      },
+      {
+        "id": "tt0409591:1:52",
+        "title": "Ebisu regresa: ¡El entrenamiento más rudo de Naruto hasta ahora!",
+        "season": 1,
+        "episode": 52,
+        "overview": "Naruto quiere que Kakashi lo entrene, pero Kakashi tiene otros planes. Ebisu llega a un infeliz Naruto y hace un trato con él. Si Naruto puede escapar de Ebisu, hará que Kakashi lo entrene. Naruto decide aceptar el desafío de Ebisu, pero ¿puede ganar?",
+        "released": "2003-10-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rf92mvS6qERp44wplipu4sZUWXZ.jpg"
+      },
+      {
+        "id": "tt0409591:2:53",
+        "title": "Mucho tiempo de no verte: ¡Jiraiya regresa!",
+        "season": 2,
+        "episode": 53,
+        "overview": "Mientras Ebisu entrena a Naruto en una fuente termal, ¡ve a alguien tratando de espiar a las mujeres que se bañan! Ebisu ataca, pero no sale como estaba planeado. Naruto luego exige que el extraño se convierta en su maestro, pero necesitará algo de convicción. ¿Naruto tiene algún Jutsu especial para esta situación?",
+        "released": "2003-10-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ysw0MdJNERzxDfweMrvnNPhaCaR.jpg"
+      },
+      {
+        "id": "tt0409591:2:54",
+        "title": "Jutsu de invocación: ¡La sabiduría del Sapo sabio!",
+        "season": 2,
+        "episode": 54,
+        "overview": "Mientras Jiraiya intenta enseñarle a Naruto el Jutsu de Invocación, mientras investiga también, Dosu aprende por qué Gaara es tan peligroso. Mientras tanto, Baki y Kabuto se encuentran en secreto y revelan un siniestro complot contra Konoha. Cuando Hayate descubre este oscuro secreto, intenta advertir al Hokage. ¡Sin embargo, primero tendrá que pasar por Baki!",
+        "released": "2003-10-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eNydUbgt967IIM5p5Kp10F16XlU.jpg"
+      },
+      {
+        "id": "tt0409591:2:55",
+        "title": "Un sentimiento de anhelo, una flor llena de esperanza",
+        "season": 2,
+        "episode": 55,
+        "overview": "Sakura va a visitar a Sasuke y Lee en el hospital, en el camino, se encuentra con Ino y los dos hacen el viaje juntos. Lee intenta reanudar su entrenamiento con éxito limitado, haciendo que Sakura se preocupe más por él y Sasuke.",
+        "released": "2003-10-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/waR36bJbSNmTqfIpZarSFTAEGla.jpg"
+      },
+      {
+        "id": "tt0409591:2:56",
+        "title": "Vivir o morir: ¡Arriesgalo todo para ganarlo todo!",
+        "season": 2,
+        "episode": 56,
+        "overview": "Como Naruto está teniendo poco o ningún éxito al convocar a las ranas, Jiraiya cree que si Naruto aprende cómo invocar el chakra de Kyubi, tendrá que ser puesto en una situación que amenaza la vida. Después de que Naruto haga un montón de tareas, lanza a Naruto por un precipicio. La única esperanza de supervivencia de Naruto reside en un encuentro con el mismo zorro de nueve colas. Pero, ¿Kyubi estará dispuesto a ayudarlo?",
+        "released": "2003-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1ZIhi0HgNvgKwHouzNGe6SXM1Wx.jpg"
+      },
+      {
+        "id": "tt0409591:2:57",
+        "title": "¡Vuela! ¡Salta! ¡Acecha! ¡Aparece el jefe Sapo!",
+        "season": 2,
+        "episode": 57,
+        "overview": "Lleno de alegría por su éxito, Naruto logra enfurecer a Gamabunta. Con él no dispuesto a aceptar que Naruto pudo convocarlo, Naruto desafía a Gamabunta a aceptarlo como su subordinado si es capaz de permanecer boca arriba hasta la puesta del sol.",
+        "released": "2003-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v43wmw6mpecg1k1SXstxcsdvOGA.jpg"
+      },
+      {
+        "id": "tt0409591:2:58",
+        "title": "Asedio en el hospital: ¡La mano del mal se manifiesta!",
+        "season": 2,
+        "episode": 58,
+        "overview": "Debido a los eventos con Gamabunta, Naruto ahora está atrapado en el hospital. Shikamaru inesperadamente lo visita, diciendo que los dos son del tipo que nunca hacen que las niñas los visiten. Mientras tanto, Gaara se acerca a un Rock Lee inconsciente, con la plena intención de quitarle la vida. Por suerte para Lee, Naruto y Shikamaru están allí para protegerlo. Sin embargo, ¿pueden salvarse incluso a sí mismos después de aprender el impactante secreto de Gaara? ¿Qué es lo que Naruto se ha dado cuenta de Gaara?",
+        "released": "2003-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kvRfpd00BgpPqrn8D1XoA3S28Uq.jpg"
+      },
+      {
+        "id": "tt0409591:2:59",
+        "title": "Las rondas finales: ¡La prisa en el campo de batalla!",
+        "season": 2,
+        "episode": 59,
+        "overview": "Al despertarse tarde, Naruto se apresura al estadio donde se celebrarán los partidos de Chuunin, en el camino se detiene en su antiguo campo de entrenamiento y se encuentra con Hinata. Naruto le dice a Hinata que tiene miedo de perder, pero con el aliento de Hinata y una especie de confesión de sus sentimientos, Naruto se llena de renovada confianza y se dirige al estadio dejando a Hinata sacudida por la cáscara. Ahora Naruto debe intentar llegar al estadio antes de que sea demasiado tarde, y Konohamaru tiene un plan para ayudarlo.",
+        "released": "2003-11-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bKEmYjZaGJlynmGlFrY7mzMS0ny.jpg"
+      },
+      {
+        "id": "tt0409591:2:60",
+        "title": "Byakugan contra jutsu clones de sombras",
+        "season": 2,
+        "episode": 60,
+        "overview": "Comienza la ceremonia de apertura de los partidos finales y Sasuke falta, preocupando a Naruto. La ceremonia termina y Naruto comienza su pelea con Neji. ¿La confianza de Naruto lo llevará a la victoria o las habilidades de Neji son demasiado para él? ¿Y dónde está Sasuke?",
+        "released": "2003-11-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rchPkQfy5EV6cJDDectfZC8u55u.jpg"
+      },
+      {
+        "id": "tt0409591:2:61",
+        "title": "Máxima defensa: ¡No hay punto ciego!",
+        "season": 2,
+        "episode": 61,
+        "overview": "Naruto comienza su asalto con sus Clones de las Sombras, pero Neji analiza las acciones de Naruto y determina lo que él cree que es el verdadero. Incapaz de entender por qué Naruto no admitirá la derrota, se quita la diadema y revela una misteriosa marca en su frente. ¿Cuál es la verdad sobre su odio hacia la familia principal del Clan Hyuuga?",
+        "released": "2003-12-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/r82DlTVBLbQvhODuoUjdaBZCGyj.jpg"
+      },
+      {
+        "id": "tt0409591:2:62",
+        "title": "El verdadero poder de un fracasado",
+        "season": 2,
+        "episode": 62,
+        "overview": "Cuando parece que Naruto no puede ganar, Neji continúa diciéndole que no puede cambiar su destino y que no tiene idea de cómo se siente llevar un sello que no se puede quitar. Naruto recuerda su infancia y cómo fue tratado debido a las Nueve Colas selladas dentro de él. Sin embargo, esa misma maldición puede ser su única oportunidad de ganar...",
+        "released": "2003-12-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nM7CbPyJmZCKDITzX0n4BetFNFz.jpg"
+      },
+      {
+        "id": "tt0409591:2:63",
+        "title": "Triunfa o desiste: ¡Se complican las rondas finales!",
+        "season": 2,
+        "episode": 63,
+        "overview": "Con Sasuke todavía ausente, y todos ansiosamente anticipando su partido contra Gaara, el torneo se ve obligado a pasar a la siguiente ronda. Mientras tanto, Neji descubre la impactante verdad sobre su padre.",
+        "released": "2003-12-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1pmHzeVKL4SuOnczMh2YcjC9S1z.jpg"
+      },
+      {
+        "id": "tt0409591:2:64",
+        "title": "Sin motivación alguna: ¡El chico que envidiaba las nubes!",
+        "season": 2,
+        "episode": 64,
+        "overview": "Shikamaru se enfrenta a Temari, solo que no quiere pelear. ¿Puede el perezoso Shikamaru incluso durar la ronda? ¿O hay más en Shikamaru de lo que parece?",
+        "released": "2003-12-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m7p7qrHqu81pu4Qz1fccWpc1UZU.jpg"
+      },
+      {
+        "id": "tt0409591:2:65",
+        "title": "Hoja danzante, arena retorcida",
+        "season": 2,
+        "episode": 65,
+        "overview": "Es hora de la pelea de Sasuke contra Gaara, solo Sasuke aún no se ha presentado. Normalmente lo descalificarían, pero todos esperan ansiosamente el partido. Por lo tanto, le dan a Sasuke un límite de tiempo antes de descalificarlo. A medida que el tiempo comienza a agotarse, solo queda una pregunta en la mente de todos ... ¿dónde está Sasuke?",
+        "released": "2004-01-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nicTbMlWLsDnmv4UVEaXy2RHczJ.jpg"
+      },
+      {
+        "id": "tt0409591:2:66",
+        "title": "El jutsu del cejotas: ¡Al estilo Sasuke!",
+        "season": 2,
+        "episode": 66,
+        "overview": "¡El combate de Sasuke contra Gaara finalmente comienza! Gaara parece tener la ventaja al principio, hasta que Sasuke muestra sus técnicas de taijutsu recién descubiertas. Gaara está reviviendo la batalla contra Rock Lee nuevamente, solo que esta vez se enfrenta a un oponente que puede usar más que simples ataques de taijutsu.",
+        "released": "2004-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jHzXWuSlY9RdftdDoISMVL4DNWY.jpg"
+      },
+      {
+        "id": "tt0409591:2:67",
+        "title": "¡Tarde para el espectáculo, pero listo para hacerlo! ¡La técnica secreta final ha nacido!",
+        "season": 2,
+        "episode": 67,
+        "overview": "Con la defensa definitiva de Gaara en su lugar, la única esperanza de Sasuke de ganar radica en el movimiento que Kakashi le enseñó ... Chidori. Pero, ¿cómo reaccionará Gaara cuando Sasuke lo haga sangrar?",
+        "released": "2004-01-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/PjzvlbEtsmSPOmPCiNBEcdq4az.jpg"
+      },
+      {
+        "id": "tt0409591:2:68",
+        "title": "¡La hora cero! ¡Comienza la destrucción de la aldea escondida entre las hojas!",
+        "season": 2,
+        "episode": 68,
+        "overview": "La pelea de Sasuke se interrumpe cuando Orochimaru pone en práctica su plan. Temari y Kankuro tienen la orden de poner a Gaara a salvo hasta que se recupere, dejando a Sasuke para perseguirlos. La guerra ha comenzado!",
+        "released": "2004-01-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5SpdN25fJJFPZ3bSbtAez0ajeUX.jpg"
+      },
+      {
+        "id": "tt0409591:2:69",
+        "title": "Una aldea en desgracia: ¡Una nueva misión tipo A!",
+        "season": 2,
+        "episode": 69,
+        "overview": "Sabiendo que Sasuke está por encima de su cabeza, Kakashi envía a Naruto, Sakura y Shikamaru, siendo guiados por un perro llamado Pakkun, para evitar que Sasuke persiga a Gaara.",
+        "released": "2004-02-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gwhz3ARh6dydXvhoQaUg4Z9HngU.jpg"
+      },
+      {
+        "id": "tt0409591:2:70",
+        "title": "El tedioso llama la acción: ¡Se acabó la flojera!",
+        "season": 2,
+        "episode": 70,
+        "overview": "Naruto, Sakura, Shikamaru y Pakkun están siendo perseguidos por varios Sound ninja. Shikamaru decide detenerse e intentar detenerlos para que los demás puedan alcanzar a Sasuke sin temor a perseguirlos. Shikamaru es la elección lógica debido a su Jutsu de Posesión de las Sombras ... no hace falta decir que Shikamaru no está demasiado emocionado por esto.",
+        "released": "2004-02-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5u7hNYWBTpiWHLK3UXVGBS0htRD.jpg"
+      },
+      {
+        "id": "tt0409591:2:71",
+        "title": "Un encuentro sin igual: ¡La batalla real del Hokage!",
+        "season": 2,
+        "episode": 71,
+        "overview": "La batalla de los reyes comenzó cuando Orochimaru solicitó ayuda inesperada. ¿Cómo puede el Tercer Hokage manejar esta incómoda situación? Mientras tanto, Sasuke finalmente alcanza a Kakurou, Gaara y Temari ...",
+        "released": "2004-02-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1dWfcdBKLJ6w3i4Q4WWe3Fs5D34.jpg"
+      },
+      {
+        "id": "tt0409591:2:72",
+        "title": "Un error del pasado: ¡Conozcamos la otra cara!",
+        "season": 2,
+        "episode": 72,
+        "overview": "Mientras Naruto y Sakura continúan alcanzando a Sasuke, Temari intenta detener a Sasuke el tiempo suficiente para que Kankuro lleve a Gaara a un lugar seguro, ¡pero Sasuke no tiene tiempo que perder con ella! Mientras tanto, El tercer Hokage continúa su batalla con Orochimaru y está listo para usar un movimiento que ni siquiera él sabe...",
+        "released": "2004-02-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eLNIahjJGuslYiM8YCDdA6RZpFW.jpg"
+      },
+      {
+        "id": "tt0409591:2:73",
+        "title": "Técnica secreta prohibida: ¡Sello mortal de la parka!",
+        "season": 2,
+        "episode": 73,
+        "overview": "Un aliado poco probable parece ayudar a Sasuke y le permite continuar persiguiendo a Gaara. Mientras tanto, ¡el Hokage se prepara para hacer el último sacrificio para librar a su pueblo de Orochimaru!",
+        "released": "2004-03-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/75SJfq50RHvJACITcuTW1gizwPQ.jpg"
+      },
+      {
+        "id": "tt0409591:2:74",
+        "title": "¡Increíble verdad! ¡La identidad de Gaara emerge!",
+        "season": 2,
+        "episode": 74,
+        "overview": "Mientras Shino y Kankuro pelean la pelea, deberían haber luchado durante el examen de Chuunin, Naruto, Sakura y Pakkun lentamente alcanzan a Sasuke. Mientras tanto, Sasuke finalmente ha alcanzado a Gaara y Temari, pero ¿está listo para enfrentar el verdadero horror cuando Gaara revela su forma de demonio?",
+        "released": "2004-03-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fAWUNAhOqcTLDtJupdszpd4zneb.jpg"
+      },
+      {
+        "id": "tt0409591:2:75",
+        "title": "¡La decisión de Sasuke llevada al límite!",
+        "season": 2,
+        "episode": 75,
+        "overview": "Sasuke lucha por mantenerse al día con la monstruosa capacidad de Gaara. Solo capaz de usar Chidori dos veces en circunstancias normales, Sasuke recuerda ese día trágico en que murió su familia y se da cuenta de que debe arriesgarse a usar Chidori más allá de su límite si quiere derrotar a Gaara. Es decir, si puede...",
+        "released": "2004-03-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uBikQaHuGaxqDNBUNoTdRPX3y3m.jpg"
+      },
+      {
+        "id": "tt0409591:2:76",
+        "title": "El asesino de la noche de luna",
+        "season": 2,
+        "episode": 76,
+        "overview": "Cuando Sasuke está a punto de ser derrotado, Naruto y Sakura aparecen para salvarlo. Con esto Gaara comienza a tener recuerdos de su infancia. ¿Qué sucedió en el pasado de Gaara para hacerle experimentar tanto sufrimiento?",
+        "released": "2004-03-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oAdwnozSNsap20KT556ABAe2gZF.jpg"
+      },
+      {
+        "id": "tt0409591:2:77",
+        "title": "La luz contra la oscuridad: ¡Las dos caras de Gaara!",
+        "season": 2,
+        "episode": 77,
+        "overview": "Gaara continúa hablando sobre su pasado. Cuando Gaara dice que Naruto no puede volverse más fuerte cuando lucha por todos los demás, Naruto recuerda que si no se encuentra con sus amigos, sería lo mismo que Gaara. Al darse cuenta de que tiene que proteger a sus amigos, Naruto supera su miedo y decide enfrentarse a Gaara.",
+        "released": "2004-03-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jl8VxhTRTBsXpzBuJuMArsdHyIj.jpg"
+      },
+      {
+        "id": "tt0409591:2:78",
+        "title": "El manual ninja de Naruto",
+        "season": 2,
+        "episode": 78,
+        "overview": "Naruto y Gaara continúan su lucha. Naruto comienza a obtener una ventaja, y Gaara se transforma en la forma final de Shukaku de la Arena. Cuando comienza a apretar a Naruto, Naruto convoca a Gamabunta Oyabun, y comienza su regreso. Una vez más, Naruto comienza a obtener una ventaja, pero Gaara lanza la técnica del sueño falso, liberando todo el poder de Shukaku. Ahora que el demonio es libre, ¿qué hará Naruto?",
+        "released": "2004-04-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uRMBJY7cd9kxz8MY1Dgb3T65zET.jpg"
+      },
+      {
+        "id": "tt0409591:2:79",
+        "title": "Más allá del límite de la oscuridad y la luz",
+        "season": 2,
+        "episode": 79,
+        "overview": "Transformados en Kyubi, Naruto y Gamabunta se preparan para detener a Shukaku despertando a Gaara. Aunque tienen éxito, la batalla está lejos de terminar ya que Gaara no se detendrá hasta que Naruto esté muerto. Naruto y Gaara se preparan para sus ataques finales. Mientras tanto, Sarutobi continúa tratando de derrotar a Orochimaru. Y aunque Sarutobi no es lo suficientemente fuerte como para matar a Orochimaru, sí tiene la fuerza suficiente para quitarle la posesión más preciada de Orochimaru ... ¡el uso de sus armas!",
+        "released": "2004-04-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mMGQGrCL4JUHPucplu87TgxdcZY.jpg"
+      },
+      {
+        "id": "tt0409591:2:80",
+        "title": "El tercer Hokage, eternamente",
+        "season": 2,
+        "episode": 80,
+        "overview": "Cuando la guerra llega a su fin, Gaara admite su derrota ante Naruto, y Orochimaru se ve obligado a retirarse cuando Sarutobi le quitó los brazos. Ahora, todos los shinobi de Konoha se reúnen para presentar sus respetos a la persona a quien más respetan... Sarutobi, el Tercer Hokage.",
+        "released": "2004-04-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4T2KWvHoUVCManTbEAfXTe5vFyS.jpg"
+      },
+      {
+        "id": "tt0409591:2:81",
+        "title": "El regreso del rocío matinal",
+        "season": 2,
+        "episode": 81,
+        "overview": "Dos misteriosos ninjas se infiltran en Konoha, y uno de ellos descubre el Sharingan. ¿Qué son estos dos después? ¿Por qué Itachi Uchiha regresó a Konoha?",
+        "released": "2004-04-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9NKIZlWflgl93alhzEjafXtkB3V.jpg"
+      },
+      {
+        "id": "tt0409591:2:82",
+        "title": "Ojo por ojo: ¡Sharingan contra Sharingan!",
+        "season": 2,
+        "episode": 82,
+        "overview": "Kakashi se enfrenta a Itachi, y ambos usan el Sharingan. Sin embargo, Kakashi pronto se da cuenta de que no tiene ninguna posibilidad contra el legendario ninja. Itachi revela que no ha venido por su hermano pequeño, sino que ha venido a hacer otra cosa ... ¡secuestrar a Naruto y Kyubi también!",
+        "released": "2004-05-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yQYU1LX82FTNYKw5xNFeS9lJqCq.jpg"
+      },
+      {
+        "id": "tt0409591:2:83",
+        "title": "Jiraiya: ¡El desastre potencial de Naruto!",
+        "season": 2,
+        "episode": 83,
+        "overview": "Jiraiya y Naruto comienzan su búsqueda de Tsunade, pero Jiraiya los mira y mira constantemente a las chicas bonitas. Jiraiya le cuenta a Naruto algunas historias sobre el tercer y cuarto Hokages. Mientras tanto, Sasuke se entera de que su hermano, Itachi, persigue a Naruto y va a advertirle.",
+        "released": "2004-05-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vLjCoS6yygk0juyNLPoExLfkHK7.jpg"
+      },
+      {
+        "id": "tt0409591:2:84",
+        "title": "¡El rugir del Chidori! ¡Los hermanos se enfrentan!",
+        "season": 2,
+        "episode": 84,
+        "overview": "En un flashback, Sasuke Uchiha recuerda la noche en que mataron a todo su clan y cómo llegó a casa para encontrar a sus padres muertos e Itachi de pie junto a ellos. Mientras Kisame e Itachi contemplan la mejor manera de llevar a Naruto Uzumaki, Sasuke llega y ataca a Itachi con su Chidori. Sin interés en su pelea, Itachi detiene el ataque sin esfuerzo. Naruto intenta convocar a un sapo, pero Kisame absorbe su chakra antes de que pueda hacerlo y procede a atacar. Jiraiya llega para bloquear el ataque.",
+        "released": "2004-05-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/h9wdkqx3rNxHVpY0flxpNlGaGUA.jpg"
+      },
+      {
+        "id": "tt0409591:2:85",
+        "title": "Odio entre los Uchiha: ¡El último del clan!",
+        "season": 2,
+        "episode": 85,
+        "overview": "Aunque Jiraiya se prepara para luchar contra los dos miembros de Akatsuki, Sasuke proclama que matará a Itachi. Itachi golpea y reprende brutalmente a su hermano, incluso usando el Tsukuyomi. Sasuke cae inconsciente, y Jiraiya usa el caos resultante para preparar una poderosa técnica, lo que obliga al equipo de Akatsuki a huir. Guy llega y lleva a Sasuke de vuelta a Konoha. Antes de irse, le pide a Naruto y Jiraiya que encuentren a Tsunade, esperando que ella pueda curar las heridas de Lee. Lo tranquilizan, y Naruto y Jiraiya se disponen a reanudar su búsqueda.",
+        "released": "2004-05-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yDy6uWG5jq6hIds56uL9TWiEGEv.jpg"
+      },
+      {
+        "id": "tt0409591:2:86",
+        "title": "¡Un nuevo entrenamiento comienza! ¡Voy a ser fuerte!",
+        "season": 2,
+        "episode": 86,
+        "overview": "Naruto disfruta de un día en la ciudad mientras Jiraiya investiga el paradero de Tsunade. Cuando Jiraiya termina usando su tiempo, y el dinero de Naruto, para disfrutar del sake y las mujeres, comienza a enseñar a Naruto el Rasengan después de un conflicto con los ex-Chunnin Ninjas. Para comenzar a aprender la técnica, Naruto debe hacer estallar un globo lleno de agua sostenido en la palma de su mano haciendo girar el agua con su chakra, algo que comienza con gran entusiasmo.",
+        "released": "2004-06-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/NDPdK2WG0O4ymhRFcTkEqV3LBQ.jpg"
+      },
+      {
+        "id": "tt0409591:2:87",
+        "title": "¡Sigue entrenando! ¡Hay que reventar el globo de agua!",
+        "season": 2,
+        "episode": 87,
+        "overview": "Poco después de que comience su entrenamiento, Naruto se encuentra incapaz de hacer ningún progreso. Después de pedirle consejos a Jiraiya, Naruto decide que dominará el jutsu en tres días. Jiraiya duda de la posibilidad de que Naruto cumpla su promesa, explicando que el Rasengan fue desarrollado por el Cuarto Hokage en una duración de tres años. Luego continúa explicando que hacer estallar el globo es solo uno de los tres pasos, y deja que Naruto reanude su entrenamiento. Naruto pronto descubre que reventar el globo es más fácil si usa ambas manos después de observar a un gato y avanza al segundo paso.",
+        "released": "2004-06-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f30inCurfIkDkvYlWk9XDUoq4Zr.jpg"
+      },
+      {
+        "id": "tt0409591:2:88",
+        "title": "¡El punto de enfoque! ¡La marca de la hoja!",
+        "season": 2,
+        "episode": 88,
+        "overview": "El segundo paso implica que Naruto saque una pelota de goma, algo que requerirá mucha más potencia. Después de que Naruto lucha con este paso, Jiraiya lo ayuda a dibujar una hoja en su palma para darle un punto en el que concentrar sus esfuerzos. Con algo de práctica adicional, Naruto también puede completar esta etapa. Por otra parte, Tsunade, una jugadora ávida y extremadamente desafortunada, logra una racha ganadora, lo que la lleva a creer que algo malo está a punto de suceder. Ella tiene razón, ya que cuando trata de salir de la ciudad, Orochimaru y Kabuto se encuentran con ella.",
+        "released": "2004-06-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/662CHSkY9tHa9kl3evGKy4SAZgB.jpg"
+      },
+      {
+        "id": "tt0409591:2:89",
+        "title": "¡Una lección imposible! ¡El dolor del corazón de Tsunade!",
+        "season": 2,
+        "episode": 89,
+        "overview": "Naruto tiene la tarea de combinar el giro y el poder desarrollado en los pasos anteriores, algo con lo que Jiraiya no puede ayudarlo. Mientras intenta hacer ambas cosas, un frágil y enfermizo Orochimaru le pide a Tsunade que le cure sus brazos descompuestos y sin alma, ya que los efectos del Sello de la Muerte del segador le causan un dolor insoportable. Aunque no tiene intenciones de ayudar a Orochimaru debido a que mató a su maestro, Tsunade decide considerar el asunto cuando Orochimaru se ofrece a revivir a su hermano muerto, Nawaki, y a su novio, Dan.",
+        "released": "2004-06-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nrL3BhBaWA0HZBQwwvuXiwzSJNQ.jpg"
+      },
+      {
+        "id": "tt0409591:2:90",
+        "title": "¡Imperdonable! ¡Una total falta de respeto!",
+        "season": 2,
+        "episode": 90,
+        "overview": "Orochimaru le da a Tsunade una semana para pensarlo, y él se va. Mientras Tsunade cena esa noche, Jiraiya y Naruto llegan al mismo bar. Pensando la razón de Jiraiya para buscarla, Tsunade le pregunta qué quiere, a lo que él responde que Konoha quiere que ella sea la nueva Hokage. Ella rechaza la oferta, diciendo que cualquiera que quiera tomar el título voluntariamente es un tonto. Naruto, enfurecido por no respetar el título de Hokage y los que han mantenido su posición, desafía a Tsunade a una batalla. Los dos salen, pero Tsunade rápidamente demuestra ser mas fuerte que Naruto. No dispuesto a rendirse, Naruto prepara a su imperfecto Rasengan para un ataque.",
+        "released": "2004-07-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ccu4832dWKvWSYVbRU1jA4ntqos.jpg"
+      },
+      {
+        "id": "tt0409591:2:91",
+        "title": "¡La herencia! ¡El collar de la muerte!",
+        "season": 2,
+        "episode": 91,
+        "overview": "Al reconocer el peligro que impone el ataque, Tsunade la fuerza contra el suelo, donde el daño menor que inflige indica que aún no está completo. A pesar de esto, Tsunade le ofrece una propuesta a Naruto: si puede dominar la técnica en una semana, ella le dará su collar, algo que vale una inmensa cantidad de dinero. Si él no puede, ella se quedara con todo el dinero de su billetera. Naruto acepta la apuesta, y se marcha para empezar a entrenar. Tsunade se encuentra con Jiraiya para tomar algo, donde le dice que sabe que Orochimaru le ha ofrecido algo. Jiraiya deja claro que la matará si ella ayuda a Orochimaru. Mientras tanto, Naruto continúa entrenando, con la intención de ganar la apuesta con Tsunade.",
+        "released": "2004-07-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/B6RjvwU3vp7DQKlbHVyNi3rBuy.jpg"
+      },
+      {
+        "id": "tt0409591:2:92",
+        "title": "¡Una oferta tentadora! ¡La elección de Tsunade!",
+        "season": 2,
+        "episode": 92,
+        "overview": "A medida que transcurre la semana, Naruto continúa su entrenamiento, aunque no puede mezclar correctamente el hilado y la potencia y tiene resultados variables. Tsunade observa el progreso de Naruto desde el fondo, notando lo similar que es tanto a Nawaki como a Dan. Una vez que pasa una semana, parece que Naruto no tuvo éxito y queda inconsciente por la fatiga. Jiraiya, todavía inseguro sobre la situación con Orochimaru y Tsunade, decide llevarla a tomar algo y le recuerda la apuesta con Naruto. Mientras están juntos, Tsunade bebe su bebida y lo pone a dormir. A la mañana siguiente, Tsunade se reúne con Orochimaru según lo prometido, y se prepara para curar sus brazos. Antes de que ella pueda hacerlo, es detenida por Kabuto.",
+        "released": "2004-07-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mZcFxR6Htm3UguGcbcaosmA91RK.jpg"
+      },
+      {
+        "id": "tt0409591:2:93",
+        "title": "¡La gran crisis! ¡Se acabó el trato!",
+        "season": 2,
+        "episode": 93,
+        "overview": "Habiendo reconocido que el Jutsu de sanación de Tsunade estaba lleno de intenciones asesinas, Kabuto se dio cuenta de que no tenía intención de ayudar a Orochimaru. Con Tsunade siendo la única persona que puede curar a Orochimaru, Kabuto decide forzarla a ayudar mientras comienzan a pelear. Aunque Tsunade tiene mucha más experiencia en la batalla que Kabuto, él es capaz de defenderse contra ella, incluso logrando aterrizar algunos ataques debilitantes. Mientras Kabuto se prepara para poner a Tsunade fuera de servicio, Naruto, Jiraiya y la asistente de Tsunade, Shizune, llegan para ayudar. Sin interés en su ayuda, Tsunade intenta reanudar su batalla con Kabuto hasta que se entera de su hemofobia y la usa contra ella. Mientras se lleva a un lado para recuperarse, Naruto y Shizune lanzan ataques en Kabuto, que él derrota. Finalmente, Jiraiya afirma que él y Shizune deben unirse para enfrentarse a Orochimaru y Kabuto, respectivamente.",
+        "released": "2004-07-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oZhb4LW3U4YcDmsI1AlUxVOPfKA.jpg"
+      },
+      {
+        "id": "tt0409591:2:94",
+        "title": "¡Ataque! ¡La furia del Rasengan!",
+        "season": 2,
+        "episode": 94,
+        "overview": "Con Tsunade aterrada debido a su miedo a la sangre, Jiraiya asume el desafío de derrotar a Orochimaru. Kabuto continúa insultando a Tsunade, lo que enoja a Naruto y le da la fuerza para luchar contra Kabuto y proteger a Tsunade. Sin embargo, Naruto no es rival para Kabuto, quien escoge a Naruto y le trae los recuerdos de Tsunade sobre Nawaki, Dan y la apuesta realizada entre ella y Naruto. Naruto, en el fragor de la batalla, crea un método único utilizando un clon de sombra para ayudar a dividir los roles de rotación del chakra y es capaz de reunir toda la fuerza que le queda para realizar un ataque final con su mano derecha. Creando un clon de sombra y sacando un Rasengan completo. Habiendo derrotado a Kabuto, Naruto se desmaya después de dominar el nuevo jutsu.",
+        "released": "2004-08-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x2FZCDV5WBwpNHrSzdCYbANrX4e.jpg"
+      },
+      {
+        "id": "tt0409591:2:95",
+        "title": "¡El quinto Hokage! ¡Una vida al límite!",
+        "season": 2,
+        "episode": 95,
+        "overview": "A pesar de usar una poderosa técnica de curación, las heridas de Kabuto son demasiado extensas para que las pueda manejar. Cuando Naruto se derrumba debido a la severidad del último ataque de Kabuto, un ataque al corazón de Naruto, Tsunade hace lo que puede, decidida a salvarlo a él y su sueño de convertirse en Hokage. Sus esfuerzos funcionan, y él recupera la conciencia el tiempo suficiente para reclamar el collar que ha ganado en la apuesta. Orochimaru, reconociendo a Naruto como una potencial amenaza futura, trata de matarlo. Tsunade, decidida a asegurarse de que Naruto se convierta en Hokage, supera su miedo a la sangre y se usa a sí misma como un escudo humano para bloquear el ataque.",
+        "released": "2004-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aNzYo4VveK3YjW4NrljuUWSEvwd.jpg"
+      },
+      {
+        "id": "tt0409591:2:96",
+        "title": "¡Punto muerto! ¡El enfrentamiento Sannin!",
+        "season": 2,
+        "episode": 96,
+        "overview": "Katsuyu y Gamabunta hacen doble equipo con Manda, aunque este último es capaz de mantenerse a sí mismo. Usando su fuerza inhumana, Tsunade es capaz de sujetar a Manda y le da un golpe final a Orochimaru. Al decidir usar su último recurso para recuperar el uso de sus brazos, Orochimaru se retira con Kabuto, dejando a Tsunade, Jiraiya, Shizune y Naruto en sus propios dispositivos. Una vez que Naruto se recupera y se entera de la aceptación de Tsunade del título de Hokage, él comenta que ella no merece el trabajo porque el Tercero fue mejor en todos los aspectos posibles. Los dos salen para tener otra pelea, aunque esta vez Tsunade le da a Naruto un beso en la frente en lugar de un golpe en la cara. El grupo se pone en marcha para ir a la aldea de Konoha.",
+        "released": "2004-08-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Z6b6x1dV6I5v2OvtAITdgFQNJQ.jpg"
+      },
+      {
+        "id": "tt0409591:2:97",
+        "title": "¡Secuestro! ¡La aventura de Naruto en el balneario!*",
+        "season": 2,
+        "episode": 97,
+        "overview": "**Episodios de Relleno** En su camino de regreso a Konoha, el grupo se toma un descanso en una ciudad de aguas termales. Naruto se entera de que dos ninjas de la familia Akagi no pueden regresar a casa a menos que cobren las deudas de Tsunade e intenten ayudarlos. Shizune, temiendo que las deudas de Tsunade, si se expusieran, pondría en peligro sus posibilidades de convertirse en Hokage, se disfraza como Tsunade para detener a Naruto, pero ninguno de ellos se da cuenta de que la deuda ya había sido pagada.",
+        "released": "2004-08-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8vjEeOoQQtfIEJLAfLeGunfctL7.jpg"
+      },
+      {
+        "id": "tt0409591:2:98",
+        "title": "¡La advertencia de Tsunade! ¡Ya no seas ninja!",
+        "season": 2,
+        "episode": 98,
+        "overview": "Al llegar a Konoha, se hacen los preparativos para poner oficialmente a Tsunade en el cargo, aunque en general no está interesada en los trámites y deja la tarea a sus nuevos asistentes. Ella hace sus rondas en el hospital de Konoha, curando a Kakashi Hatake y Sasuke del daño hecho a sus mentes por los Tsukuyomi de Itachi. Al examinar las heridas en el cuerpo de Rock Lee, Tsunade descubre que el daño en su columna vertebral es demasiado grande, incluso para ella, para curarse con certeza. Ella aconseja a Lee que renuncie a sus sueños de ser un ninja, y menciona que solo hay un 50% de probabilidades de que él sobreviva a la operación.",
+        "released": "2004-08-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kIhu3CUQ9nPK4IJ0FMxOa4VD537.jpg"
+      },
+      {
+        "id": "tt0409591:2:99",
+        "title": "¡La voluntad de fuego sigue ardiendo!",
+        "season": 2,
+        "episode": 99,
+        "overview": "Incapaz de aceptar a Tsunade como el sucesor de su abuelo, Konohamaru hace todo lo posible para evitar su toma de posesión. Mientras Tsunade investiga, con la esperanza de aumentar las posibilidades de que Lee sobreviva a la operación, Naruto intenta convencer a Konohamaru de que será una buena Hokage. Después de que Tsunade demuestra su fuerza y ​​sus habilidades de curación, Konohamaru decide que Tsunade puede ser Hokage y que su abuelo no se desvanecerá en la memoria.",
+        "released": "2004-09-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/69ijZhZNdlEwjetxO9GEGLnYArI.jpg"
+      },
+      {
+        "id": "tt0409591:2:100",
+        "title": "¡Sensei a alumno! El vínculo del Shinobi!",
+        "season": 2,
+        "episode": 100,
+        "overview": "Guy y Lee discuten sobre la operación, y Lee expresa sus temores de morir, así como sus temores de nunca ser un ninja. Los dos rememoran su tiempo juntos, y Guy finalmente decide que si Lee muere durante la operación, él también, ya que no puede vivir si Lee no es un ninja. Las palabras de Guy inspiran a Lee, y él decide tomar la operación. Mientras tanto, Tsunade logra aumentar las probabilidades de supervivencia de Lee al 58%, y está satisfecho de que probablemente Lee sobrevivirá a la operación. Tsunade se inaugura como Hokage y el papel del protector de la aldea se transmite a ella.",
+        "released": "2004-09-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nTFASe9GNI4DVvuKa1Fnix6lGmF.jpg"
+      },
+      {
+        "id": "tt0409591:2:101",
+        "title": "¡Hay que verlo! ¡Hay que conocerlo! ¡El verdadero rostro de Kakashi Sensei!*",
+        "season": 2,
+        "episode": 101,
+        "overview": "**Episodios de Relleno** En este episodio basado en un omake especial, Naruto convence a Sasuke y Sakura Haruno para ayudarlo a ver cómo se ve la cara de Kakashi debajo de su máscara. Cada uno de sus planes, como comprarle ramen para obligarlo a quitarse la máscara mientras come, fracasa de manera cómica. Al mismo tiempo, inadvertidamente y sin saberlo, frustran los intentos de tres ninja de matar a Kakashi por razones ridículas. Finalmente, Kakashi acepta quitarse la máscara, revelando otra máscara ligeramente más pálida debajo de ella.",
+        "released": "2004-09-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4Lch0D357BnvIgR5NtbKIA0JO7S.jpg"
+      },
+      {
+        "id": "tt0409591:2:102",
+        "title": "¡Misión, ayudar a un viejo amigo en la tierra del té!*",
+        "season": 2,
+        "episode": 102,
+        "overview": "**Episodios de Relleno** El equipo 7, sin Kakashi, tiene la misión de proteger a un joven, Idate, durante su carrera a pie contra un clan rival que resolverá la disputa entre los dos. Idate, sin embargo, tiene un gran disgusto por los ninja. Al comienzo de la carrera, corre en la dirección equivocada, confundiendo a todos.",
+        "released": "2004-09-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mN2BqQdKqHIqcij3RPvcxZkWAJi.jpg"
+      },
+      {
+        "id": "tt0409591:2:103",
+        "title": "¡La carrera comenzó! ¡Problema en altamar!*",
+        "season": 2,
+        "episode": 103,
+        "overview": "**Episodios de Relleno** El equipo 7 sigue Idate a otro puerto, lo que hace que sea un mejor punto de inicio de la parte de navegación de la carrera, debido a los vientos y la corriente. En el camino, son atacados por los ninja de la lluvia del examen Chunin, que han sido contratados por el otro clan. El equipo 7 defiende a Idate y le dice que nade por la orilla, mientras ellos lo siguen más tarde. Lo hace, pero se enfrenta a Aoi, un ninja de Amegakure.",
+        "released": "2004-09-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kCK9SQVYgzBCS6TZDrv47HouSvB.jpg"
+      },
+      {
+        "id": "tt0409591:2:104",
+        "title": "¡Corre, Idate, corre! ¡La isla Nagi espera!*",
+        "season": 2,
+        "episode": 104,
+        "overview": "**Episodios de Relleno** Aoi se burla de Idate y lo ataca. El equipo 7, que todavía está nadando por la isla, es atacado bajo el agua por los ninja de la lluvia. Utilizando el primer paso de entrenamiento para los Rasengan, Naruto crea un enorme remolino que los salva. Luego intentan rescatar a Idate, pero no pueden competir con Aoi, quien los envenena y se va. Sakura les da toda la medicina que Tsunade le había dado, y buscan refugio en una cueva. Idate explica que una vez fue un ninja de la Hoja, pero Aoi lo engañó para que traicionara a la aldea después de fallar en el examen de Chunin.",
+        "released": "2004-10-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iwmKsev6KRn4QoD3VhTxg0FLloi.jpg"
+      },
+      {
+        "id": "tt0409591:3:105",
+        "title": "¡La gran batalla del rayo ondulado!*",
+        "season": 3,
+        "episode": 105,
+        "overview": "**Episodios de Relleno** Fukusuke continúa celebrando con las mujeres y la comida cuando Aoi le advierte que podría estar celebrando prematuramente. Naruto Uzumaki, llevando Idate, sube el largo tramo de escaleras hasta el Santuario Modoroki. Idate agarra el orbe y se dirige a su propio pie, pero Aoi los enfrenta rápidamente, esperando con la espada de Raijin de Tobirama que le hizo robar a Idate. Tanto el Rasengan de Naruto como el Chidori de Sasuke son repelidos por la espada, aunque este último es capaz de agrietarla ligeramente.",
+        "released": "2004-10-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qLH9n70keTIMlFzEwWALNvQpNLj.jpg"
+      },
+      {
+        "id": "tt0409591:3:106",
+        "title": "¡El último esfuerzo! ¡Un acto final de desesperación!*",
+        "season": 3,
+        "episode": 106,
+        "overview": "**Episodios de Relleno** Cuando Sasuke Uchiha y Sakura Haruno son derrotados, le toca a Naruto derrotar a Aoi para que Idate pueda continuar la carrera. Después de algunos ataques fallidos, Naruto finalmente puede derrotar a Aoi, lo que significa que Idate puede continuar la carrera. Aunque Fukusuke ya está cerca de la línea de meta, con la determinación y el aliento de Naruto, Idate logra ponerse al día y ganar la carrera, salvando al Clan Wasabi.",
+        "released": "2004-10-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3XFliAC7edd2ELsMNuRiIjo797t.jpg"
+      },
+      {
+        "id": "tt0409591:3:107",
+        "title": "¡La batalla comienza! Naruto contra Sasuke",
+        "season": 3,
+        "episode": 107,
+        "overview": "Shikamaru es promovido oficialmente a Chunin mientras que Lee acepta someterse a la operación. Sasuke se está recuperando en el hospital después de las lesiones que recibió en la Tierra de Té. Enojado y celoso de que Naruto haya continuado fortaleciéndose mientras el aún no es lo suficientemente fuerte como para derrotar a Itachi, desafía a Naruto a una pelea cuando él y Sakura vienen a visitarlo. Naruto acepta, y los dos se dirigen al techo. Después de intercambiar varios ataques, Naruto crea un Rasengan y Sasuke prepara su Chidori. Los dos corren el uno hacia el otro, con Sakura gritándoles que se detengan.",
+        "released": "2004-11-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aWKGkL8qvgi4l36L65fYWZwYPbL.jpg"
+      },
+      {
+        "id": "tt0409591:3:108",
+        "title": "Rivales resentidos y vínculo rotos",
+        "season": 3,
+        "episode": 108,
+        "overview": "Cuando Naruto y Sasuke están a punto de chocar, Kakashi Hatake aparece y desvía sus ataques en diferentes torres de agua. Sasuke encuentra que la torre de Naruto está considerablemente peor, y solo llega a envidiar la fuerza de Naruto más al ver el daño real. Kakashi lleva a Sasuke a un lado y le da una sermón sobre no atacar a sus amigos. Sasuke dijo que si alguien que le importara a Kakashi fuera asesinado delante de él, tal vez pensaría de otra manera, Kakashi le dice que es demasiado tarde para probarlo, porque ya están muertos. Kakashi le dice a Sasuke que la Venganza no le traerá felicidad de verdad y que es la respuesta incorrecta y lo deja, confiando en que no elegirá la venganza. Mientras tanto, Sakura le pregunta a Naruto sobre una fecha que había negado hacía mucho tiempo cuando fueron asignados por primera vez al Equipo 7.",
+        "released": "2004-11-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/deWKmy9pCyEvHbqEHBqoE1cxnBy.jpg"
+      },
+      {
+        "id": "tt0409591:3:109",
+        "title": "Una invitación por parte del sonido",
+        "season": 3,
+        "episode": 109,
+        "overview": "Sasuke continúa su batalla con los Cuatro del Sonido, pero eventualmente es derrotado, incluso cuando uso la Marca de la Maldición. Los Cuatro del Sonido le dicen a Sasuke que puede volverse más fuerte si le prestara su poder a Orochimaru. Sasuke, cansado de jugar juegos de ninja, finalmente se rinde, y va hacia ellos. Sakura intenta detenerlo, pero falla cuando Sasuke desaparece antes de que pueda persuadirlo más y deja inconsciente a Sakura después de decir \"Gracias\".",
+        "released": "2004-11-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4Au7ez6rMrsesmGciFczzRpfrAD.jpg"
+      },
+      {
+        "id": "tt0409591:3:110",
+        "title": "¡Formación! El escuadrón de rescate de Sasuke",
+        "season": 3,
+        "episode": 110,
+        "overview": "Cuando Sakura se despierta, le informa a Tsunade de la deserción de Sasuke. Incapaz de enviar un ninja de mayor rango a buscar a Sasuke, Tsunade le ordena a Shikamaru Nara que reúna a un equipo de Genin bajo su dirección para ir tras Sasuke. Selecciona a Naruto, Neji Hyuga, Choji Akimichi y Kiba Inuzuka, y rápidamente crea la formación óptima para el grupo. Antes de irse, Sakura le suplica a Naruto que se asegure de traer a Sasuke de vuelta. Naruto se compromete a hacerlo, y el grupo se pone en marcha.",
+        "released": "2004-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/76reSjhya7j17HBFORfuDB4XrWt.jpg"
+      },
+      {
+        "id": "tt0409591:3:111",
+        "title": "Sonido contra Hoja",
+        "season": 3,
+        "episode": 111,
+        "overview": "Como el primer paso para ganar poder, el sello maldito de Sasuke debe avanzar a su segundo estado. Para que esto suceda, los Cuatro del Sonido sellan a Sasuke en un barril y se lo llevan de Konoha mientras su sello avanza. Se enfrentan a dos ninjas de Konoha cercanos, Raido Namiashi y Genma Shiranui, pero eventualmente los derrotan gracias a sus sellos malditos. Después de llevar a Sasuke por un camino, los Cuatro del Sonido toman un descanso, dando al equipo de recuperación recientemente atrapado la oportunidad de intentar un ataque furtivo. Se detecta su presencia y los Cuatro del Sonido los atacan antes de que puedan hacer un movimiento.",
+        "released": "2004-11-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/noFI1tY7U3oXWgw6FqzJENs3w2E.jpg"
+      },
+      {
+        "id": "tt0409591:3:112",
+        "title": "¡Amotinamiento en el escuadrón! Todo fracasa",
+        "season": 3,
+        "episode": 112,
+        "overview": "Aunque el ataque de los Cuatro del Sonido parece forzar al equipo de recuperación a la defensiva, Shikamaru intentó ser atrapado y aprovecha la oportunidad para capturar a los Cuatro del Sonido con su Jutsu de Posesión de sombra. Los Cuatro del Sonido se las arreglan para escapar, y Jirobo captura al equipo de recuperación en una cúpula de rocas. Mientras los otros miembros de los Cuatro del Sonido siguen adelante, Jirobo absorbe el chakra de los ninja de Konoha. Antes de que su chakra se absorba completamente, Choji logra salir de la cúpula, liberando al equipo.",
+        "released": "2004-12-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cIYtMft4BDUeDnjKL0yC8AoOlOD.jpg"
+      },
+      {
+        "id": "tt0409591:3:113",
+        "title": "¡Poder a fondo! ¡Chouji en llamas!",
+        "season": 3,
+        "episode": 113,
+        "overview": "Liberado, Choji se ofrece como voluntario para quedarse atrás y pelear con Jirobo para dar al resto del equipo la oportunidad de atrapar a los otros miembros de los Cuatro del Sonido. A medida que el equipo continúa, Choji come la primera de las Tres pastillas coloreadas de Akimichi, aumentando su fuerza. Hacer eso es suficiente para vencer a Jirobo, lo que lo obliga a avanzar su sello maldito a su primer nivel. Ahora que Jirobo tiene la ventaja, Choji toma la segunda píldora Akimichi.",
+        "released": "2004-12-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sEtJZZX0jsrDweR7liZfxl0sxTS.jpg"
+      },
+      {
+        "id": "tt0409591:3:114",
+        "title": "¡Adiós viejo amigo! Siempre creeré en ti",
+        "season": 3,
+        "episode": 114,
+        "overview": "Con la segunda píldora en su sistema, Choji usa la técnica de múltiples tamaños para aumentar dramáticamente su tamaño y caer sobre Jirobo. Para escapar de los efectos aplastantes del aumento de volumen de Choji, Jirobo avanza al nivel 2 de su sello maldito, lo que le permite levantar a Choji y tirarlo a un lado. Superado, Choji considera tomar la última píldora. Si bien todas las píldoras que ha tomado hasta ahora le han hecho daño, la tercera casi garantiza la muerte al usuario. Pensando en Shikamaru, Choji toma la píldora, lo que le permite vencer y matar fácilmente a Jirobo. La batalla termina y Choji comienza a seguir a sus amigos, aunque cae inconsciente antes de llegar muy lejos",
+        "released": "2004-12-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rduRuso94I3ZDYNbX3ucChphEsO.jpg"
+      },
+      {
+        "id": "tt0409591:3:115",
+        "title": "¡Tu oponente soy yo!",
+        "season": 3,
+        "episode": 115,
+        "overview": "Cuando el equipo de recuperación alcanza a los Cuatro del Sonido, quedan atrapados rápidamente en las telarañas de Kidomaru. Mientras Kidomaru está a punto de terminar con Naruto, Neji se libera de las ataduras y salva al resto del equipo. Debido a que solo su estilo Puño Suave puede romper la telaraña infundida con chakra de Kidomaru, Neji decide quedarse a pelear e instruye a los demás para que continúen sin él y comienza a luchar contra Kidomaru. Kidomaru descubre cómo Neji puede cortar sus cintas. Aunque Kidomaru pronto cree que tiene la ventaja, Neji prepara sus Ocho Trigramas, Sesenta y Cuatro Palmas para demostrar que está equivocado.",
+        "released": "2004-12-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dwOcyIkVtrycLU6Sb619yCbBoOe.jpg"
+      },
+      {
+        "id": "tt0409591:3:116",
+        "title": "Visión de 360°, el punto ciego del Byakugan",
+        "season": 3,
+        "episode": 116,
+        "overview": "Kidomaru logra protegerse del ataque y huye a la seguridad de los árboles cercanos. Al decidir atacar a Neji desde una distancia alejada, Kidomaru avanza su sello a su primer nivel y envía múltiples arañas para atacar a Neji. Neji puede repelerlas a todas, aunque Kidomaru nota una reacción tardía en algunos de los bloqueos de Neji. Él deduce que las defensas de Neji tienen un punto ciego, y lo ataca más lejos desde este punto ciego. Su teoría ha demostrado ser correcta, ya que Neji no puede bloquear el ataque. Creyendo haber encontrado la debilidad de Neji, Kidomaru se prepara para terminar la batalla.",
+        "released": "2005-01-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uWMwErK6GDfHsOz0EBCLpqAgSXx.jpg"
+      },
+      {
+        "id": "tt0409591:3:117",
+        "title": "Perder no es una opción",
+        "season": 3,
+        "episode": 117,
+        "overview": "Después de avanzar su sello maldito a su segundo estado y crear un arco y una flecha con sus telas, Kidomaru comienza a disparar contra el punto ciego de Neji. Neji es capaz de bloquear los ataques lo suficiente para evitar que golpeen en puntos vitales, aunque todavía queda muy dañado con cada uno de los ataques de Kidomaru. Listo para terminar la batalla, Kidomaru prepara su flecha más letal para usarla y la dispara contra Neji. Neji toma la flecha con toda su fuerza, aunque ya sabiendo que su punto ciego se mueve en el último segundo para evitar que la flecha perforara su corazón. Con la flecha de Kidomaru conectada a él por una red, Neji envía su chakra a la red, paralizando a Kidomaru. Mientras Kidomaru se encuentra indefenso, Neji se acerca a él y asesta un golpe final. Sus lesiones son demasiado graves y Neji se derrumba, dejando la recuperación de Sasuke a los demás.",
+        "released": "2005-01-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lefnFzgM4ILXppX3ip4qciwhebz.jpg"
+      },
+      {
+        "id": "tt0409591:3:118",
+        "title": "El contenedor llega muy tarde",
+        "season": 3,
+        "episode": 118,
+        "overview": "El cuerpo de Orochimaru quedó inútil después de su fallida invasión de Konoha, asi que espera ansiosamente a Sasuke para que pueda cambiar al cuerpo de Sasuke. A pesar de que lo posterga todo lo que puede, con la esperanza de que los Cuatro del Sonido lleguen a tiempo, su cuerpo le causa demasiado dolor y se ve obligado a cambiar al cuerpo de uno de sus prisioneros. En otros lugares, el equipo de recuperación continua persiguiendo a los Cuatro del Sonido e intenta recuperar a Sasuke.",
+        "released": "2005-01-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bbnuYF2EAZ2CW4dwVYCzhI6U1c4.jpg"
+      },
+      {
+        "id": "tt0409591:3:119",
+        "title": "¡Un mal cálculo! Aparece un nuevo enemigo",
+        "season": 3,
+        "episode": 119,
+        "overview": "Poco después de que comience la batalla, Kiba y su perro, Akamaru, caen a un acantilado con Sakon. Shikamaru se involucra con Tayuya mientras Naruto persigue a Kimimaro, quien lleva el barril donde esta Sasuke. Desesperado por recuperar a Sasuke, Naruto comienza a utilizar el chakra del Zorro de las Nueve Colas para atraer a Kimimaro. Cuando comienza la batalla entre Shikamaru y Tayuya, Tayuya convoca a tres criaturas para que la ayuden en el combate. Con la batalla de Kiba y Sakon ya en marcha en otro lugar, el hermano de Sakon, Ukon se revela para ayudar a Sakon a luchar.",
+        "released": "2005-01-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5jmFFx0jNDuPwDMaPISgOGginVv.jpg"
+      },
+      {
+        "id": "tt0409591:3:120",
+        "title": "¡Gruñe y Aúlla! Un trabajo final en equipo",
+        "season": 3,
+        "episode": 120,
+        "overview": "Mientras Tayuya guía a sus tres bestias a atacar a Shikamaru, ella activa el primer nivel de su sello maldito para facilitar el control de ellas. Naruto también comienza su batalla con Kimimaro, creando una gran cantidad de clones de sombra con los que ataca a Kimimaro, aunque Kimimaro es capaz de derrotar a los clones facilmente. Mientras la lucha entre Kiba y Akamaru contra Sakon y Ukon continúa, Ukon empuja su sello maldito a su segundo nivel. Reconociendo el enorme aumento de fuerza que esto permite a los hermanos, Kiba y Akamaru se combinan para convertirse en un lobo gigante de dos cabezas.",
+        "released": "2005-02-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7yJ0zokKrt05FrYC0vI3s1WVGGb.jpg"
+      },
+      {
+        "id": "tt0409591:3:121",
+        "title": "Cada quien su propia pelea",
+        "season": 3,
+        "episode": 121,
+        "overview": "Ukon se separa de Kiba y se reúne con Sakon para que pueda recuperarse. Kiba encuentra a Akamaru, y los dos huyen río abajo, con la esperanza de escapar de los hermanos. Mientras tanto, Naruto no puede hacer frente a Kimimaro, y sus clones de sombra aún son derrotados rápidamente antes de que puedan asestar un golpe. Shikamaru, en otra parte, cree haber captado los movimientos de las criaturas de Tayuya, aunque rápidamente les hace cambiar de acción antes de que Shikamaru pueda actuar.",
+        "released": "2005-02-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lDmc1uDZWUCi429mVpWI1nhROt5.jpg"
+      },
+      {
+        "id": "tt0409591:3:122",
+        "title": "¡El engaño! Shikamaru de vuelta",
+        "season": 3,
+        "episode": 122,
+        "overview": "A pesar de los esfuerzos de Tayuya, Shikamaru ha ideado un plan para derrotar a sus criaturas. Usando una explosión de destello para alargar las sombras en el área, Shikamaru captura a las criaturas y se prepara para convertirlas contra Tayuya. Para evitar esto, Tayuya cancela a las criaturas, haciendo que se dispersen. A pesar de esto, Tayuya es capturada por la sombra de Shikamaru, lo que la obliga a avanzar su sello a su segundo estado para escapar. Con Tayuya ahora lo suficientemente fuerte como para dominar su sombra, Shikamaru decide usar su sombra para atacar, e intenta usar su sombra para estrangularla.",
+        "released": "2005-02-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cBEgDZ27aTWlNXAaBIG0RQYlLUf.jpg"
+      },
+      {
+        "id": "tt0409591:3:123",
+        "title": "¡El guapísimo de la aldea de la hoja!",
+        "season": 3,
+        "episode": 123,
+        "overview": "Cuando Naruto comienza a sentirse frustrado por su falta de progreso, el sello maldito de Sasuke finalmente alcanza su segundo nivel, lo que le permite salir de su ataúd y seguir adelante. Kimimaro evita que Naruto vaya tras él, aunque la llegada del recién recuperado Rock Lee lo obliga a dejar ir a Naruto. Lee y Kimimaro comienzan a intercambiar golpes, aunque el control único de Kimimaro sobre sus huesos dificulta las cosas para Lee. Poco después de que comience la pelea, Lee pide un tiempo de espera para que pueda tomar su medicina. Kimimaro está de acuerdo, y Lee bebe el contenido de su botella de medicina.",
+        "released": "2005-02-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bWxwpffChY5ZT5afoYqat5EpvUd.jpg"
+      },
+      {
+        "id": "tt0409591:3:124",
+        "title": "¡La bestia interna!",
+        "season": 3,
+        "episode": 124,
+        "overview": "En su forma borracha, los movimientos de Lee son impredecibles y Kimimaro no puede esquivar sus ataques. Cuando Lee comienza a ganar ventaja en la lucha, Kimimaro se ve obligado a usar sus habilidades más poderosas. Sin embargo, Lee comienza a recuperarse y vuelve a su estado anterior, siendo superado fácilmente por Kimimaro. Kimimaro se prepara para terminar con Lee, Tayuya comienza a luchar contra la sombra de Shikamaru, y Sakon y Ukon encuentran a Kiba y Akamaru. Antes de que cualquiera de los miembros de los Cuatro del Sonido pueda atacar a los ninja de Konoha, Gaara, Temari y Kankuro llegan a cada sitio de batalla para cuidar de los miembros de los Cuatro del Sonido.",
+        "released": "2005-03-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vFmR0felFFCe3JwQhxKCQ6JnuO8.jpg"
+      },
+      {
+        "id": "tt0409591:3:125",
+        "title": "Shinobi de la arena, aliado de la hoja",
+        "season": 3,
+        "episode": 125,
+        "overview": "La llegada de los ninja de la arena sorprende al equipo de recuperación de Konoha y a los Cuatro del Sonido. Aunque los ninja de Konoha piden a sus salvadores que huyan, cada uno se niega, ya que Tsunade les ha pedido que vengan a ayudar. La nariz de Kiba salva a Kankuro de un ataque furtivo. Ukon subestima a Kankuro y su títere en su estado de sello maldito, pero este último pronto puede atrapar a Ukon y Sakon en un segundo de sus títeres y matarlos. Con la llegada de Temari, Tayuya se escapa a los árboles circundantes para cubrirse, aunque el abanico de Temari atraviesa el bosque, eliminando a Tayuya con facilidad.",
+        "released": "2005-03-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hEeWtOsNcottNiwryPcFO7lGcWP.jpg"
+      },
+      {
+        "id": "tt0409591:3:126",
+        "title": "¡La gran pelea! ¡Gaara contra Kimimaro!",
+        "season": 3,
+        "episode": 126,
+        "overview": "Lee, queriendo ayudar a Gaara en su lucha, ataca a Kimimaro, pero su cuerpo es demasiado débil y Gaara le dice que solo se está interponiendo en el camino. Gaara lo ataca con su técnica de entierro de arena, pero Kimimaro sobrevive endureciendo una capa de hueso debajo de su piel. Kimimaro recuerda cómo creció en una jaula debido a su Kekkei Genkai, y la batalla que mató a todo su clan. Fue Orochimaru quien lo recibió y le dio un propósito en la vida. Kimimaro avanza su sello maldito al primero y luego al segundo estado y continúa luchando, para gran consternación de Lee y Gaara. Mientras tanto, Naruto continúa su implacable búsqueda de Sasuke.",
+        "released": "2005-03-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9ltXv5gSIDHXLlujMLVS7D80dzt.jpg"
+      },
+      {
+        "id": "tt0409591:3:127",
+        "title": "¡Un golpe de venganza! La danza del helecho",
+        "season": 3,
+        "episode": 127,
+        "overview": "Al reconocer la potencia del ataque de Gaara y la fuerza de sus defensas, Kimimaro endurece un hueso alrededor de su brazo en forma de taladro. Con esta, su arma más poderosa, Kimimaro carga contra Gaara, aunque la defensa final de Gaara prueba ser demasiado y la arma de Kimimaro se hace añicos. Al invocar la arena en el suelo, Gaara lleva a Kimimaro a gran profundidad, confinándolo allí hasta su muerte final. Mientras Kimimaro se hunde, crea un bosque de huesos para explotar desde el suelo, que Gaara puede ayudar a evitar a Lee en el último segundo. Mientras los dos se sientan, completamente agotados pero aliviados de haber ganado, Kimimaro aparece de uno de los huesos con su taladro para un ataque final. Su enfermedad se apodera de él en el último segundo, y muere antes de que pueda terminar con Gaara y Lee",
+        "released": "2005-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gXEG7HeA78fEm9wywCuGZ2Lr26v.jpg"
+      },
+      {
+        "id": "tt0409591:3:128",
+        "title": "Gritando ante oídos sordos",
+        "season": 3,
+        "episode": 128,
+        "overview": "Naruto le pregunta a Sasuke si está dispuesto a darle la espalda a todos sus amigos en Konoha por el simple hecho de volverse más fuerte. Sasuke dice que sí y comienza a alejarse, enfureciendo a Naruto. Determinado a devolver a Sasuke a sus sentidos y a Konoha, Naruto lo agarra y comienza a golpearlo. Hace que Sasuke escupa sangre con cada golpe, luego Sasuke se recupera y repele fácilmente a Naruto. Sasuke le dice a Naruto que no sueña con el futuro, solo el pasado, ya que recuerda su estrecho vínculo con su hermano mayor, Itachi. Naruto intenta usar la fuerza otra vez, y ataca a Sasuke, pero Sasuke lo esquiva, usa su Jutsu Flama de Dragón y lo envía hacia Naruto.",
+        "released": "2005-03-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dY3C4b3AMo1SLwBOZ6WE1hvwauq.jpg"
+      },
+      {
+        "id": "tt0409591:3:129",
+        "title": "Hermanos, distancia entre los Uchiha",
+        "season": 3,
+        "episode": 129,
+        "overview": "Naruto se levanta de las llamas ileso, y Sasuke recuerda su infancia, mientras luchaba contra su enemigo. Itachi solía ser un Uchiha alegre y un buen hermano, siendo los mejores capitanes de ANBU de Uchiha. Fugaku Uchiha siempre favoreció a Itachi mejor. Sasuke intenta vencer a Itachi, sin éxito, hasta que Itachi comienza a alejarse más del clan, y comienza a rebelarse contra los Uchihas.",
+        "released": "2005-04-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bFGEd2uCVv6EAeY50rugk5WCq3j.jpg"
+      },
+      {
+        "id": "tt0409591:3:130",
+        "title": "Padre e hijo. El emblema roto",
+        "season": 3,
+        "episode": 130,
+        "overview": "La lucha de Sasuke y Naruto progresa lentamente a medida que Sasuke continúa recordando su infancia. En sus recuerdos, Sasuke aprende el Jutsu Bola de Fuego, lo que le permite captar la atención de su padre, mientras Fugaku Uchiha le dice que no siga los pasos de su hermano. Entonces comienza a preguntarse si es solo para reemplazar a su hermano. Sin embargo, su madre confirma que todo lo demás está bien. Después de hacer esto, recuerda ir a la escuela y decidir que no perderá ante Itachi. En la actualidad, Naruto y Sasuke comienzan a pelear.",
+        "released": "2005-04-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4UemzF9CRd42xGxe15P5MG5S0V4.jpg"
+      },
+      {
+        "id": "tt0409591:3:131",
+        "title": "Los secretos del mangekyo sharingan",
+        "season": 3,
+        "episode": 131,
+        "overview": "Cuando Sasuke recuerda su infancia, Sasuke regresó a su casa de la Academia un día para encontrar a todos los miembros del Clan Uchiha asesinados. Al encontrar a sus padres; Sasuke descubrió a Itachi como responsable de la masacre. Usando su Mangekyo Sharingan, Itachi le mostró a Sasuke a la muerte de sus padres, causando que Sasuke corra con miedo. Itachi lo detuvo, diciéndole que no valía la pena matarlo. Cuando Itachi se fue, le informó a Sasuke que si quería vengarse del clan, tendría que fortalecerse. Para ayudar a Sasuke a obtener la habilidad más fuerte del Uchiha, Itachi le dice a Sasuke los requisitos para obtener su propio Mangekyo Sharingan: debe matar a su amigo más cercano. Con eso, Itachi se fue, dejando a Sasuke para construir un odio hacia su hermano.",
+        "released": "2005-04-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mp271d0AktbFa6BSHakOqsEzLUf.jpg"
+      },
+      {
+        "id": "tt0409591:3:132",
+        "title": "¡Por un amigo!",
+        "season": 3,
+        "episode": 132,
+        "overview": "Mientras Naruto lucha contra Sasuke, Kakashi se entera de la deserción de Sasuke de Tsunade y se enfrenta a Sakura Haruno. Después de intentar calmar a Sakura, Kakashi se dirige a buscar a Sasuke y Naruto. Mientras tanto, creyendo que Naruto es su mejor amigo, Sasuke se prepara para matarlo con la esperanza de que la muerte de Naruto sea un precio aceptable para que su Sharingan se convierta en un Mangekyo Sharingan. El Rasengan de Naruto y El Chidori de Sasuke se enfrentan, aunque ninguno es capaz de dominar al otro. Activando su sello maldito para obtener una ventaja, Sasuke golpea sin piedad a Naruto, pero su Chidori casi golpea el corazón de Naruto.",
+        "released": "2005-04-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6bZkRbQk7Dq8WZ81YasP0ur6Xqv.jpg"
+      },
+      {
+        "id": "tt0409591:3:133",
+        "title": "¡Súplica a un amigo!",
+        "season": 3,
+        "episode": 133,
+        "overview": "El nuevo poder de Naruto abruma a Sasuke mientras le grita a Naruto que no sabe cómo se siente perder a una familia. Pero Naruto, habiendo conocido el dolor de no tener una familia, explica que considera a Sasuke como un hermano. Sasuke se pone su banda para la cabeza mientras proclama que Naruto no podrá golpearlo ya que se las arregla para desarrollar completamente su Sharingan y ahora puede leer los movimientos rápidos y el contraataque de Naruto, incluso cuando usa los Clones de Sombra. Sasuke logra infligir numerosos ataques devastadores y aplastantes en Naruto.",
+        "released": "2005-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/p6ZsYVZsVTbghbkpf5ndtpRkRd4.jpg"
+      },
+      {
+        "id": "tt0409591:3:134",
+        "title": "Se acabaron las lágrimas",
+        "season": 3,
+        "episode": 134,
+        "overview": "Después de activar el Marca Maldita a su segunda etapa, Sasuke se transforma en un alado igual a Naruto en el poder. Ambos, recordando su tiempo como compañeros de equipo, Sasuke aclara a Naruto que están en el \"Valle Final\" y menciona la ironía de esto como un lugar apropiado para resolver las cosas entre ellos de una vez por todas. Con Naruto y Sasuke en sus limites de poder, los dos preparan sus ataques finales: el Chakra del Zorro de las Nueve Colas de Naruto infundió a el Rasengan y el Chidori mejorado de de Sasuke y formando una cúpula alrededor de los dos niños mientras intercambiaban numerosos golpes antes de que Sasuke golpeara el pecho de Naruto.",
+        "released": "2005-05-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ciJwrFb0SuX6Zw6np3yJCBW1CfC.jpg"
+      },
+      {
+        "id": "tt0409591:3:135",
+        "title": "La promesa que no pudo ser cumplida",
+        "season": 3,
+        "episode": 135,
+        "overview": "Al llegar en la espalda de Kakashi, mientras el resto del Equipo de Recuperación de Sasuke regresa a la Aldea Oculta de la Hoja para recuperarse por completo, Naruto descubre que Sasuke escapó. Una vez que se recuperó por completo en su cama de hospital, Naruto habla con Shikamaru de cómo no pudo atrapar a Sasuke. Escuchándolos y reacios a entrar hasta que Tsunade llegó para revisar a Naruto, Sakura decide esconder su tristeza para animar a su compañero de equipo mientras se disculpa con ella por no haber cumplido su promesa. Pero Sakura le dice que volverán a juntar a Sasuke cuando llegue otra oportunidad. Jiraiya le ofrece a Naruto la oportunidad de irse con él durante tres años para entrenarse y defenderse contra Orochimaru y los miembros de Akatsuki. Naruto rechaza su oferta, diciendo que primero debe centrarse en salvar a su amigo.",
+        "released": "2005-05-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wBwkuRJJXvJiGexztBeQTWXI3MT.jpg"
+      },
+      {
+        "id": "tt0409591:3:136",
+        "title": "¡Encubiertos! Una misión de tipo súper S*",
+        "season": 3,
+        "episode": 136,
+        "overview": "**Episodios de Relleno** Jiraiya comienza a preocuparse por el bienestar de Naruto y Sakura. Luego solicita que Tsunade que envíe a los dos en una misión con él. Encuentra a Naruto, diciéndole a Sakura que no va a impedir que persiga a Sasuke, pero va con ella y les cuenta sobre la misión. Se dirigen a la Tierra de los Campos de Arroz para encontrar la Aldea Oculta del Sonido, y con suerte también a Sasuke.",
+        "released": "2005-05-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9BQKuRD5HNCwf6mThhroLIkj7Pa.jpg"
+      },
+      {
+        "id": "tt0409591:3:137",
+        "title": "Un pueblo sin ley. La sombra del clan Fūma*",
+        "season": 3,
+        "episode": 137,
+        "overview": "**Episodios de Relleno** Naruto, Sakura y Jiraiya terminan en una ciudad que es peor que la que los persiguieron. Jiraiya se va y deja a Naruto y Sakura para conseguir comida. En el camino, encuentran a la chica ninja que los atacó antes. Debido a que el ninja está lesionado, Naruto y Sakura pelean contra un ninja del Sonido para salvarla. Luego se enteran de que su nombre es Sasame y que está buscando a su primo Arashi, quien fue con varios miembros de su clan para unirse a Orochimaru para revivir el clan.",
+        "released": "2005-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/awNZtoHTLdxLq16WeGaAZmsohDv.jpg"
+      },
+      {
+        "id": "tt0409591:3:138",
+        "title": "¡Una traición pura y una suplica breve!*",
+        "season": 3,
+        "episode": 138,
+        "overview": "**Episodios de Relleno** Cuando Sasame droga a Naruto, Sakura y Jiraiya, ella se prepara para dejar que se los entreguen a Orochimaru para que la guíen a Arashi. Pero, cuando descubre que estaban planeando matarlos, les ruega a los que están a punto de hacerlo que se detengan. Naruto revela que él y los demás fingieron ser dormidos y atacar. Kagerou ataca a Naruto y Jiraiya con una poderosa técnica que acorta su vida, luego se escapa con Jigumo y Kamikiri. Cuando Jigumo y Kamikiri descubren que estaban siendo utilizados por Orochimaru, lo atacan, pero son asesinados.",
+        "released": "2005-06-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/anclOWkAWq5Off11DBMJkOWmsyo.jpg"
+      },
+      {
+        "id": "tt0409591:3:139",
+        "title": "Terror puro. La casa de Orochimaru*",
+        "season": 3,
+        "episode": 139,
+        "overview": "**Episodios de Relleno** Sasame lleva a Naruto, Jiraiya y Sakura al escondite de Orochimaru. El grupo envia a Sasame de vuelta a la aldea debido al nivel de peligro. Jiraiya convoca a Gamakichi para que entre primero e investigue. Los cuatro llegan a tres túneles. Jiraiya se va hacia la derecha, Naruto y Sakura bajan por la mitad y Gamakichi hacia la izquierda. A través de los túneles, encuentran varias trampas mortales y peligros. Naruto se enamora fácilmente de lo primero, pero logra rescatar a Sakura del resto.",
+        "released": "2005-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o9LIF180XyVvdJRNPChWEmLiwgj.jpg"
+      },
+      {
+        "id": "tt0409591:3:140",
+        "title": "Dos latidos. La trampa de Kabuto*",
+        "season": 3,
+        "episode": 140,
+        "overview": "**Episodios de Relleno** En la habitación donde está Naruto, se encuentra con Gamakichi, que parece no ser de ninguna utilidad en su lucha y la habitación pronto se inunda con agua. Sakura intenta luchar contra Kabuto, diciéndole que cree que Naruto y ella misma salvarán a Sasuke juntos. Ella pronto pierde la razón cuando Kabuto comienza a asustarla con pensamientos sobre la inevitable muerte de Sasuke. Él dice \"que Sasuke ya está muerto, y ustedes dos pueden reunirse con él en la otra vida\".",
+        "released": "2005-06-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hdtctR7XxSVho8VkwjvnNXXukYV.jpg"
+      },
+      {
+        "id": "tt0409591:3:141",
+        "title": "La determinación de Sakura",
+        "season": 3,
+        "episode": 141,
+        "overview": "Naruto se enfrenta a Arashi, pero queda atrapado y es golpeado fácilmente. Sakura cree que está muerto y Naruto termina soplando su cubierta de ataque furtivo para protegerla, perforándose por la columna vertebral. Naruto intenta su ataque de nuevo, pero su lesión causa un problema. Naruto queda atrapado en un ataque que lo aplastará si no sale. Sasame ataca a Arashi y logra liberarlo por un segundo. Sin embargo, no dura mucho y pronto intenta matar a Sasame. Sakura salta en el camino y dice que dará su vida para proteger a sus amigos. Naruto le dice que no puede morir y Arashi trata de terminar con Naruto.",
+        "released": "2005-06-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/36to5pVssCLhADHG2wTnBXUYdaX.jpg"
+      },
+      {
+        "id": "tt0409591:3:142",
+        "title": "Los tres criminales de la prisión de máxima seguridad",
+        "season": 3,
+        "episode": 142,
+        "overview": "Con los eventos del campo de arroz detrás de ellos, todos se preparan para su entrenamiento. Pero, una nueva amenaza pronto surge. Mizuki está de regreso, y está planeando salir de las instalaciones correccionales de Konoha junto con la ayuda de Fujin y Raijin, los legendarios hermanos estúpidos (cambiados a los famosos hermanos idiotas en el doblaje). Sin embargo, esta vez Orochimaru puede estar tirando de los hilos. Asuma y Kurenai son enviados para interrogar a Mizuki, pero se encuentran en problemas en el camino. Naruto aparece y encuentra a los dos Jonin heridos y derrotados.",
+        "released": "2005-07-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oMME0r4ehfmbWWS1gFQYDAKbZMQ.jpg"
+      },
+      {
+        "id": "tt0409591:3:143",
+        "title": "¡Ton ton! ¡Cuento contigo!*",
+        "season": 3,
+        "episode": 143,
+        "overview": "**Episodios de Relleno** Shizune y su equipo se encuentran con Mizuki, pero todos son derrotados. Cuando Tonton regresa para avisar a Tsunade, Naruto toma la iniciativa de encontrar a Shizune con la ayuda de Tonton. Kakashi llega y descubre la situación. Desafortunadamente, él tiene otra misión. Entonces, él convoca a Pakkun quien guiará a Iruka a Naruto. Iruka finalmente alcanza a Naruto y Pakkun envía a Tonton de regreso a la aldea.",
+        "released": "2005-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/t5mCDarI0f3chW65m3QJdQPbvQr.jpg"
+      },
+      {
+        "id": "tt0409591:3:144",
+        "title": "Un nuevo equipo. Dos personas y ¿Un perro?*",
+        "season": 3,
+        "episode": 144,
+        "overview": "**Episodios de Relleno** Naruto está teniendo problemas con los dos hermanos, e Iruka está teniendo muchas dificultades con Mizuki. Iruka lucha por tratar de recuperar al viejo Mizuki, pero Mizuki explica que la única razón por la que fue amable con Iruka fue porque también quería ser el favorito del Hokage. Quería que Iruka fuera miserable, y que no todos los demás fueran tan amables con Iruka y no con él mismo.",
+        "released": "2005-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c7yvtNmjlUIFyFRVHj9TmBhD5pl.jpg"
+      },
+      {
+        "id": "tt0409591:3:145",
+        "title": "Una nueva formación. Ino-Shika-Cho*",
+        "season": 3,
+        "episode": 145,
+        "overview": "**Episodios de Relleno** El Equipo 10 le dice a Naruto que lucharan contra los hermanos y usarán sus habilidades combinadas para inmovilizarlos. Naruto se va para alcanzar a Iruka, quien está luchando contra Mizuki en un viejo edificio para poner a prueba a los instructores de la academia. Se revela que Iruka y Mizuki son amigos de la infancia, aunque Mizuki solo esperaba acercarse al Hokage. Mizuki revela que se ha vuelto más fuerte y ha aprendido nuevas técnicas mientras estuvo en prisión, y destruye el edificio en el que se encuentra",
+        "released": "2005-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yr1NaDoGsodxVkcR2k3PbUR5VEJ.jpg"
+      },
+      {
+        "id": "tt0409591:3:146",
+        "title": "La sombra de Orochimaru*",
+        "season": 3,
+        "episode": 146,
+        "overview": "**Episodios de Relleno** Naruto, Iruka y Pakkun se encuentran con la novia de Mizuki, Tsubaki, y ella ha venido a ofrecer ayuda a los tres, sintiéndose responsable de no haberlo detenido antes. Mientras tanto, Shikamaru, Ino y Choji están teniendo problemas para detener a los dos hermanos, y saben que no pueden vencerlos, por lo que se estancan por el tiempo. Mientras tanto, Tsunade descubre un sorprendente secreto sobre Mizuki y Orochimaru, y se va a intervenir.",
+        "released": "2005-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3z1xmsZa7QVvxKMqBeZxqYmFw7G.jpg"
+      },
+      {
+        "id": "tt0409591:3:147",
+        "title": "La batalla del destino. No puedes derrotarme*",
+        "season": 3,
+        "episode": 147,
+        "overview": "**Episodios de Relleno** Mizuki está decidido a hacer sufrir a Naruto e Iruka, y parece que tiene la ventaja con su fuerza y ​​velocidad mejoradas. Mientras tanto, Ino, Choji y Shikamaru están en sus límites, y ahora Fujin y Raijin son libres. Eso es hasta que Tsunade aparece y los derrota a ambos fácilmente. Fujin y Raijin se rinden y acuerdan regresar pacíficamente a la institución. Mizuki, por otro lado, ha convertido toda su velocidad en potencia y se prepara para acabar con Naruto.",
+        "released": "2005-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a87SCXNuerDAgX4h1SAjCpulBfw.jpg"
+      },
+      {
+        "id": "tt0409591:3:148",
+        "title": "En busca del extraño escarabajo Bykochu*",
+        "season": 3,
+        "episode": 148,
+        "overview": "**Episodios de Relleno** Naruto está frustrado por la incapacidad de Mizuki de llevarlo a Sasuke u Orochimaru, y comienza a molestar a Tsunade para que lo busque. Hinata simpatiza con Naruto, y sugiere tratar de encontrar una manera de ayudarlo. Shino se da cuenta de que un Bikochu, un insecto muy raro, podría rastrear a Sasuke si oliera su aroma. Mientras Kurenai está siendo hospitalizada por las lesiones sufridas durante la fuga de la prisión, Shino tiene la tarea de dirigir al Equipo 8 para encontrar al Bikochu, y Naruto se une como el cuarto miembro. También se revela que Hinata está practicando una nueva técnica defensiva, y casi la ha dominado.",
+        "released": "2005-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qJ8PcKUslwONCYBVkGu9tM5hWb0.jpg"
+      },
+      {
+        "id": "tt0409591:3:149",
+        "title": "¿Cual es la diferencia?. Que no todos son iguales*",
+        "season": 3,
+        "episode": 149,
+        "overview": "**Episodios de Relleno** Los miembros originales del Equipo 8 se dan cuenta de que están siendo seguidos por usuarios de errores hostiles (Clan Kamizuru), pero deciden no atacarlos o decirle a Naruto sobre la presencia del enemigo, por temor a poner en peligro a los Bikochu. Hinata comienza a preocuparse de que esté obstaculizando a su grupo, pero finalmente logra localizar a Bikochu con su Byakugan, lo que le permite a Naruto capturarlo. Sin embargo, antes de que el Equipo 8 pueda abandonar el bosque, Hinata es atacada y secuestrada por los usuarios de insectos, que exigen al Bikochu a cambio de Hinata.",
+        "released": "2005-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/taNxWYX5dbjlAPTSmT5FKAL2B8T.jpg"
+      },
+      {
+        "id": "tt0409591:3:150",
+        "title": "¡Una batalla de insectos! Los impostores y el engaño*",
+        "season": 3,
+        "episode": 150,
+        "overview": "**Episodios de Relleno** Se revela que los usuarios que secuestraron a Hinata son parte de un Clan que era un antiguo rival del Clan Aburame. Buscan recuperar un pergamino usando el Bikochu para restaurar su antigua gloria. Los compañeros de Hinata esconden el Bikochu e intentan rescatarla, pero son atraídos a una trampa. Hinata intenta escapar, pero es arrastrada por un río mientras está atrapada en un capullo.",
+        "released": "2005-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yyHe6S6nzDiMtA5DcjklZKOYu2U.jpg"
+      },
+      {
+        "id": "tt0409591:3:151",
+        "title": "¡Sin miedo, Byakugan!. Este es mi camino ninja*",
+        "season": 3,
+        "episode": 151,
+        "overview": "**Episodios de Relleno** Los compañeros de Hinata son capturados por el Clan Kamizuru, quienes intentan buscar al Bikochu, Hinata escapa con éxito y destruye a todos los usuarios de insectos rivales con su nueva técnica y los aleja, salvando a sus compañeros. Mientras intentaba recuperar el protector de la frente de Sasuke, Naruto se tiró accidentalmente en el Bikochu, causando que memorizara su olor en lugar del de Sasuke. Aunque la misión no logra encontrar una manera de localizar a Sasuke, Hinata parece tener más confianza y su padre parece respetarla más.",
+        "released": "2005-09-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fII2iLrhTNetZ2HZMnQUqlRkhQC.jpg"
+      },
+      {
+        "id": "tt0409591:3:152",
+        "title": "Marcha fúnebre por los vivos*",
+        "season": 3,
+        "episode": 152,
+        "overview": "**Episodios de Relleno** Cuando Naruto salva a tres tipos, es arrastrado a otra misión. Sin embargo, a diferencia de los dos últimos, este es uno en el que no desea participar. Sin embargo, cuando Guy revela información de que el líder de la Familia Kurosuki, Raiga, está conectado con los 7 espadachines de la neblina, Naruto decide cambiar de opinión, ya que Zabuza Momochi y Kisame Hoshigaki de Akatsuki formaban parte del grupo. Rock Lee concluye que como Kisame es el compañero de Itachi, encontrar a Itachi puede acercarlos a Sasuke. Con Neji, Lee y Tenten como sus aliados, el grupo emprende su nueva misión.",
+        "released": "2005-09-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c5gaPkbAb75SkihnVXwHJnBHs1P.jpg"
+      },
+      {
+        "id": "tt0409591:3:153",
+        "title": "Una lección aprendida. Los puños de acero del amor*",
+        "season": 3,
+        "episode": 153,
+        "overview": "**Episodios de Relleno** Naruto y los demás emboscan a los miembros de la Familia Kurosuki y salvan a un anciano. Pronto escuchan la campana del funeral y van a salvar a Roukusuke. Sin embargo, Rock Lee se encuentra con un viejo amigo del grupo, y Lee debe convencer a Karashi de que vuelva a su antigua forma de vida. Su tiempo juntos se acorta, mientras Raiga observa desde un lado. Naruto y su equipo persiguen a Raiga en una espesa niebla, y descubren que Raiga es capaz de ocultarse incluso de el Byakugan.",
+        "released": "2005-09-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tFAOe7TMJ5AJvVpaYLkVCf6JVCN.jpg"
+      },
+      {
+        "id": "tt0409591:3:154",
+        "title": "¡El enemigo del Byakugan!*",
+        "season": 3,
+        "episode": 154,
+        "overview": "**Episodios de Relleno** Con Neji incapaz de ver a través de la niebla, el grupo pierde la ventaja de su vista. Se le hace creer que los objetos aleatorios son personas reales por un misterioso Jutsu. Rock Lee logra detener a Raiga luchando mientras aún está inconsciente. Cuando un caso misterioso es eliminado de la espalda de Raiga, Raiga se debilita y finalmente es derrotado por Naruto. Cuando la pandilla abre el caso, descubren a un niño llamado Ranmaru, que ha estado montado en la espalda de Raiga todo el tiempo. Ranmaru revela que Raiga se preocupó por él, y que ayuda a Raiga a luchar sirviendo como sus \"ojos\".",
+        "released": "2005-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pNP36uwLFoDXsReUGPxvduWrYPg.jpg"
+      },
+      {
+        "id": "tt0409591:3:155",
+        "title": "Obscuras y tenebrosas nubes*",
+        "season": 3,
+        "episode": 155,
+        "overview": "**Episodios de Relleno** Con Raiga aparentemente muerto, la pandilla regresa para encontrar a Karashi esperándolos. Resulta ser una trampa cuando la familia Kurosuke los embosca. Por suerte, Naruto los engaña no una, sino dos veces, con sus Clones. Con los enemigos derrotados, los aldeanos centran su ira en Karashi. Rock Lee los intercepta y dice que Karashi todavía es joven y débil, y que es parcialmente culpa suya que Karashi se uniera a la Familia Kuruki. Lee les ruega que lo dejen regresar con su madre, prometiéndole castigar a Karashi en caso de que caiga en desgracia.",
+        "released": "2005-10-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6T6Q4eyxHw7Nq6DRG8LbXtTxDHY.jpg"
+      },
+      {
+        "id": "tt0409591:3:156",
+        "title": "Raiga contraataca*",
+        "season": 3,
+        "episode": 156,
+        "overview": "**Episodios de Relleno** Raiga se despierta para encontrar a Ranmaru inconsciente. Tenten no tiene más remedio que enfrentarse a Raiga por sí misma, pero finalmente es derrotada. Raiga luego exige que Karashi le entregue a Lee, Neji y Naruto, amenazando con matarlo a él y a su madre. Karashi engaña al grupo para que vaya a donde se encuentra Raiga e intenta escapar con su madre. Tenten regresa con Ranmaru, insistiendo en que vive porque es una elección que él y las víctimas de Raiga no tenían, y que Sanshou prepara el Curry de la Vida por él.",
+        "released": "2005-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vyzQGfQLiwVJpbLxGyedDqHSuLZ.jpg"
+      },
+      {
+        "id": "tt0409591:3:157",
+        "title": "¡Corre!. El curri de la vida*",
+        "season": 3,
+        "episode": 157,
+        "overview": "**Episodios de Relleno** Naruto, Lee y Neji continúan su lucha contra Raiga, y Raiga utiliza una tormenta local para proporcionarle una fuente de rayos prácticamente infinita. Raiga logra noquearlos a todos con su electricidad, pero Sanshou, Tenten, Karashi y Ranmaru les dan el Curry de la Vida, pero accidentalmente intoxican a Lee en el proceso. Ranmaru regresa con Raiga, diciéndole que los cuatro están muertos, y con su punto de vista del mundo cambiado por el ninja Konoha, intenta llevar a Raiga a un precipicio. Esto falla cuando un borracho Lee ataca a Raiga, quien lo despacha enojado.",
+        "released": "2005-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xjCjJS61f8dcFwKN5zusG0Ql8ks.jpg"
+      },
+      {
+        "id": "tt0409591:3:158",
+        "title": "¡Haganme caso!. ¡El gran reto de supervivencia!*",
+        "season": 3,
+        "episode": 158,
+        "overview": "**Episodios de Relleno** Cada uno de los Genin de Konoha ha sido asignado para dirigir un escuadrón de tres estudiantes de la academia en un ejercicio de supervivencia. Naruto se asoció con Konohamaru y sus dos amigos. Los tres descubren que las habilidades de liderazgo, navegación y alimentación de Naruto dejan mucho que desear y terminan perdidos en las montañas durante una tormenta eléctrica. Aprenden a aprovechar sus fuerzas para sobrevivir en las montañas el tiempo suficiente para que llegue la ayuda. Luego culpan a Naruto por llevarlos al desastre.",
+        "released": "2005-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/McWhXhmdppXYeeMYqAEI6iuEJr.jpg"
+      },
+      {
+        "id": "tt0409591:4:159",
+        "title": "El caza recompensas del páramo*",
+        "season": 4,
+        "episode": 159,
+        "overview": "**Episodios de Relleno** Naruto, Hinata y Kiba aceptan lo que creen que será una misión fácil para atrapar a un ladrón. Sin embargo, al llegar a la última ubicación conocida del ladrón, se enteran de que un cazarrecompensas está persiguiendo al ladrón y que el ladrón es un ninja habilidoso. El cazarrecompensas es herido en la batalla, y el grupo de Naruto lo lleva a un lugar seguro, pero descubren que él también es un criminal buscado.",
+        "released": "2005-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4eyB48fKpS5xxU6phL9grA1Gq7z.jpg"
+      },
+      {
+        "id": "tt0409591:4:160",
+        "title": "¡Perseguidor o Perseguido!. Confrontación el templo Okey*",
+        "season": 4,
+        "episode": 160,
+        "overview": "**Episodios de Relleno** El cazarrecompensas revela que fue acusado de asesinar a una familia y que el ladrón que él y el grupo de Naruto están cazando es el culpable y por eso quiere capturarlo para limpiar su nombre. Los cuatro ubican al ladrón en una ciudad cercana, en el proceso de intentar robar una valiosa campana. Después de que el cazarrecompensas captura al ladrón, él mismo es capturado y se revela su inocencia. A pesar de esto, el grupo de Naruto falla la misión porque no capturaron al ladrón.",
+        "released": "2005-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nlCkj92nHRFhMiayYhCo83UaOfE.jpg"
+      },
+      {
+        "id": "tt0409591:4:161",
+        "title": "¡La aparición de visitantes extraños!*",
+        "season": 4,
+        "episode": 161,
+        "overview": "**Episodios de Relleno** Dos forasteros, Mondai y Potcha, vienen a infiltrarse en el pueblo y reúnen sus secretos disfrazándose de Might Guy y Rock Lee, mientras que el verdadero Guy y Lee están en una misión. Son ajenos al hecho de que sus disfraces no engañan a nadie, excepto a Naruto. Tsunade, Sakura y Tenten los encadenan dándoles misiones escandalosas, evitando que aprendan algo. Los verdaderos Lee y Guy vuelven para echar a sus impostores en la distancia y descubren que Naruto nunca se dio cuenta de la verdad.",
+        "released": "2005-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kih4y4rewdCzT7YrQQXQv0mhVg2.jpg"
+      },
+      {
+        "id": "tt0409591:4:162",
+        "title": "¡El guerrero fantasma!*",
+        "season": 4,
+        "episode": 162,
+        "overview": "**Episodios de Relleno** Naruto, Neji y Tenten son enviados por Tsunade a la Tierra de los Pájaros para investigar los informes de un fantasma, Noroimusha, que aterroriza a la población local. Al llegar, se enteran de que el señor feudal ha muerto y que a su hijo, el sucesor, le importan poco sus deberes debido a la reciente muerte de su hermana. Más tarde esa noche, los ninjas de Konoha se encuentra con Noroimusha y lo persiguen. Sin embargo, después de arrinconarlo, un examen realizado por Byakugan de Neji hace que el grupo se dé cuenta de que la armadura que lleva Noroimusha está vacía.",
+        "released": "2005-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zwzVYa79q3anPgUleMIqaB67ZXm.jpg"
+      },
+      {
+        "id": "tt0409591:4:163",
+        "title": "El propósito del estratega*",
+        "season": 4,
+        "episode": 163,
+        "overview": "**Episodios de Relleno** Naruto, Neji, y Tenten estan hablando en la casa de Mousou. Después de eso, discuten que Koumei, el estratega de la aldea y el potencial rival de su hijo para la sucesión, pueden estar detrás de la Noroimusha. Para probar esto, intentan visitar al nuevo señor feudal Sagi en un lago donde guarda los recuerdos perdidos de su hermana Toki. El grupo protege al señor feudal de los asesinos y persigue a los Noroimusha hasta su reunión con Koumei, donde, una vez derrotado, se revela que él y los Noroimusha anteriores eran dos individuos diferentes. El grupo encuentra evidencia que indica que Koumei pudo haber estado detrás de la segunda aparición de Noroimusha, y Koumei fue arrestado.",
+        "released": "2005-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m1ac4AWGOTYk24l9qL6YbcMJHsR.jpg"
+      },
+      {
+        "id": "tt0409591:4:164",
+        "title": "Muy tarde para ayudar*",
+        "season": 4,
+        "episode": 164,
+        "overview": "**Episodios de Relleno** Mousou le dice al grupo que la misión ha terminado. Naruto, sin embargo, es escéptico e investiga dónde él y sus compañeros lucharon contra los Noroimusha. Encuentra un pasaje secreto a la mansión del señor feudal, pero es atrapado. Cuando Shima va a advertir a Mousou sobre la investigación de Naruto, accidentalmente ve a Mousou reuniéndose con el ninja Watari. Shima intenta escapar para informar a los demás sobre este desarrollo, pero es perseguido y herido por el ninja Watari. El Noroimusha llega a la celda de Naruto y es sentenciado a muerte.",
+        "released": "2005-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a0XX1iGF3YOn3ERp2tgBtyOxDsU.jpg"
+      },
+      {
+        "id": "tt0409591:4:165",
+        "title": "La muerte de Naruto*",
+        "season": 4,
+        "episode": 165,
+        "overview": "**Episodios de Relleno** El episodio comienza con Neji, Tenten y Kakashi mirando una tumba. Cuando se dirigen hacia atrás, arrojan a un perseguidor con un reemplazo, pero están siendo sombreados por otro. Koumei está a punto de verse obligado a cometer seppuku, pero el Noroimusha lo salva. Poco después, se revela que Naruto se disfrazó de Noroimusha. Kakashi lucha contra Nagare, quien usa movimientos copiados de otros ninjas. Naruto, Neji y Tenten descubren que la verdadera identidad de Noroimusha es el propio señor feudal, que busca matar a Mousou para vengar a su padre.",
+        "released": "2005-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9p7o3ClYFdkvSvJe69Y2f2ijhbf.jpg"
+      },
+      {
+        "id": "tt0409591:4:166",
+        "title": "Cuando el tiempo se detuvo*",
+        "season": 4,
+        "episode": 166,
+        "overview": "**Episodios de Relleno** El episodio comienza con un flashback que revela que Sagi, no Toki, murió, y que Toki tomó la identidad de su hermano para vengar su muerte. Toki asume la identidad de los Noroimusha e intenta atacar a Mousou, pero es dominado por el Ninjutsu de imitación de Mousou. Los ninjas Watari de Mousou y el grupo de Naruto se unen a la batalla. Mientras sus compañeros luchan contra el ninja Watari, Naruto persigue a Mousou y es atrapado en un Genjutsu.",
+        "released": "2006-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uzhsWWJtgsJLSBjeEpciDsCPLfd.jpg"
+      },
+      {
+        "id": "tt0409591:4:167",
+        "title": "Cuando las garzas extendieron sus alas*",
+        "season": 4,
+        "episode": 167,
+        "overview": "**Episodios de Relleno** Mousou se revela como Hoki, el ninja migrante, que planea viajar y recolectar la mayor cantidad de Jutsus posible. Aparentemente mata a Shima y golpea a Naruto bajo el agua. Naruto se despierta cuando el fantasma de Sagi le pide que salve a Toki de su deseo de venganza y derrotar a Mousou. Naruto se levanta del agua y golpea a Hoki, luego le dice a Toki que ha visto a Sagi. Naruto luego lucha y derrota a Hoki.",
+        "released": "2006-01-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ArO8am4TmgfgOKk0SMCycipzOJp.jpg"
+      },
+      {
+        "id": "tt0409591:4:168",
+        "title": "¡Mézcla, bátelo, que hierva, que se caliente la olla de cobre!*",
+        "season": 4,
+        "episode": 168,
+        "overview": "**Episodios de Relleno** Este episodio rinde homenaje a series de anime con temas de cocina como Chūka Ichiban y Yakitate en Japón. Naruto, Chouji y Sakura se ofrecen como voluntarios para ayudar a Teuchi, ya que su hija Ayame fue secuestrada por un grupo de ninjas de cocina. Para salvarla, deben idear la mejor receta de ramen. Teuchi intenta enseñarles cómo cocinar, y los tres aprovechan sus técnicas ninja para hacer el tazón perfecto de ramen.",
+        "released": "2006-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6fxFi7xHY1xziH8mn6qEIVKBxYT.jpg"
+      },
+      {
+        "id": "tt0409591:4:169",
+        "title": "¡Remembranza! ¡La página perdida!*",
+        "season": 4,
+        "episode": 169,
+        "overview": "**Episodios de Relleno** Anko Mitarashi es enviada a la Tierra del Mar con Naruto, Shino e Ino para investigar la naturaleza del monstruo \"Kaima\". Al llegar, Anko recuerda su tiempo con Orochimaru en esta área, y su sello maldito comienza a resonar y causarle dolor. En los muelles, el grupo ve a Yoroi Akado y Misumi Tsurugi acosando a una niña. Naruto los ahuyenta, pero no los reconoce. Cuando el grupo se dirige a una de las islas, Yoroi y Misumi atacan, y Naruto casi se ahoga hasta que la niña que vio antes lo salva.",
+        "released": "2006-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zCMgW6iChSW0cprGPQ5KLJdXDq3.jpg"
+      },
+      {
+        "id": "tt0409591:4:170",
+        "title": "La puerta cerrada*",
+        "season": 4,
+        "episode": 170,
+        "overview": "**Episodios de Relleno** Naruto se despierta en la choza de la niña, donde se identifica como Isaribi. Al agradecerle, Naruto se da cuenta de que los residentes locales la están molestando, y él se enoja y ahuyenta a los niños que han llegado para atormentarla. Mientras tanto, Orochimaru se reúne con Amachi, un científico que realiza experimentos bajo su dirección. Sasuke Uchiha también está presente, y termina su conversación cuando está dirigida hacia él.",
+        "released": "2006-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kVoxlcmHkYTsMrxU62iP51tQFD1.jpg"
+      },
+      {
+        "id": "tt0409591:4:171",
+        "title": "¡Infiltración! ¡La trampa preparada!*",
+        "season": 4,
+        "episode": 171,
+        "overview": "**Episodios de Relleno** En la playa, Anko, aún se encuentra inconsciente y está siendo atendido por Ino. Mientras tanto, Naruto explica su encuentro con Isaribi antes. El episodio continúa de nuevo en el recuerdo repentino de Anko de sus recuerdos. Ella ve a Orochimaru acercarse a ella, diciéndole que el Hokage sabe acerca de sus experimentos. Shino, Naruto e Ino decidieron continuar su misión original: proteger los pagos oficiales y capturar el Kaima (Isaribi). El grupo se dirige a la Isla Demonio (Kikaijima), una isla ubicada en la Tierra del Mar, donde supuestamente reside el Kaima. Anko se despierta y explica que el Kaima (El Demonio del Oceano) es un humano que ha sufrido transmutaciones físicas. Mientras hablan, Yoroi e Isaribi se dirigen bajo el agua a la guarida de Orochimaru.",
+        "released": "2006-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/phW1EEEqnNm2Mwgw3S7jmZKW0eJ.jpg"
+      },
+      {
+        "id": "tt0409591:4:172",
+        "title": "¡Desesperación! ¡Un corazón roto!*",
+        "season": 4,
+        "episode": 172,
+        "overview": "**Episodios de Relleno** Anko rescata al equipo al convocar a una serpiente gigante, que toma al equipo en su boca y rompe la pared. El Equipo Anko rápidamente persigue al enemigo. Después de encontrarse con Amachi, Naruto queda atrapado en su ataque y usa el Chakra del Zorro de las Nueve Colas para liberarse.",
+        "released": "2006-02-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eTWhDyyBX1LDUJvBeqXjDFyxwAk.jpg"
+      },
+      {
+        "id": "tt0409591:4:173",
+        "title": "¡Batalla en el mar! ¡El poder liberado!*",
+        "season": 4,
+        "episode": 173,
+        "overview": "**Episodios de Relleno** El Zorro de las Nueve Colas dentro de Naruto lo ayuda a vencer a Amachi. Aunque Amachi es rápidamente derrotado y capturado, el Jefe del Mar ataca a Naruto. Naruto convoca a Gamabunta y derrota al monstruo al evaporar su núcleo, luego es golpeado por Gama-sama (Gamabunta es una criatura de agua dulce que se siente extremadamente incómoda en un ambiente de agua salada). Isaribi se dio cuenta de que lo que Naruto dijo era correcto y que la entendió porque Naruto también fue tratado como un monstruo y con su ayuda, Isaribi pudo superar su ira. Después, Isaribi decidió ir a Konoha con la esperanza de que Tsunade pueda curarla.",
+        "released": "2006-02-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A8XSCajaYH6TaZcnxioVLekGwz1.jpg"
+      },
+      {
+        "id": "tt0409591:4:174",
+        "title": "¡Arte ninja célebre! ¡El jutsu del dinero!*",
+        "season": 4,
+        "episode": 174,
+        "overview": "**Episodios de Relleno** Naruto recibe la orden de mostrar a un niño rico mimado llamado Kunihisa, un día típico en la vida de un ninja. El niño tiene el hábito molesto de alardear continuamente de su riqueza para obtener lo que quiera. Los problemas surgen cuando unos secuestradores intentan secuestrar al niño para pedir un rescate, y Kunihisa, sin dinero, no puede convocar a sus guardaespaldas, a quienes los secuestradores han pagado. Naruto lo ayuda a escapar y le enseña que hay cosas más importantes en la vida que el dinero.",
+        "released": "2006-03-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9DZhX6WYqv04XXejrIgI5kdMLqP.jpg"
+      },
+      {
+        "id": "tt0409591:4:175",
+        "title": "¡A la caza del tesoro!*",
+        "season": 4,
+        "episode": 175,
+        "overview": "**Episodios de Relleno** Naruto, Hinata y Kiba tienen la misión de encontrar un tesoro, y se les dice que si no lo encuentran, regresaran a la academia, debido al pobre desempeño de Naruto en sus misiones con Kiba y Hinata. Se propusieron encontrarlo, pero los argumentos de Naruto y Kiba les impiden cooperar. Son emboscados y atrapados por tres personas que luego copian sus identidades, olores y pensamientos y descubren que la persona que solicitó la misión es su líder.",
+        "released": "2006-03-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/30JNXnJXUaHxj1cJ1HlkO9j59Wt.jpg"
+      },
+      {
+        "id": "tt0409591:4:176",
+        "title": "¡Corriendo, esquivando y hasta en zig zag! ¡Persigue o serás perseguido!*",
+        "season": 4,
+        "episode": 176,
+        "overview": "**Episodios de Relleno** Trabajando juntos, el grupo escapa del derrumbe con el tesoro, pero descubre que Hinata se lastimó la pierna. Después de darse cuenta de que Naruto y Kiba discuten con demasiada frecuencia mientras Hinata se preocupa demasiado por los demás, se dirigen a la ciudad para detener sus copias. El grupo burla y derrota a sus copias, excepto a Naruto, quien usa el Chakra del Zorro de las Nueve Colas para alimentar a los Clones de Sombra para derrotar a su copia, porque su copia estaba acumulando una gran deuda con su nombre, y se comió toda su comida (incluido el ramen que estaba ahorrando para un ocasión especial).",
+        "released": "2006-03-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/swPkgtu7lSjTPVoEMqi2DdmNV7d.jpg"
+      },
+      {
+        "id": "tt0409591:4:177",
+        "title": "¡Por favor, señor cartero!*",
+        "season": 4,
+        "episode": 177,
+        "overview": "**Episodios de Relleno** Naruto encuentra a Jiraiya con dos mujeres en una ciudad y Jiraiya se excusa y deja de entrenar para escribir su guión Icha Icha. Naruto finalmente decide escribirlo por el fantasma. Naruto obtiene el manuscrito de Icha Icha Tactics mezclado con un tratado de paz entre los países Fang y Claw. Los dos deben perseguir al ninja mensajero antes de que entregue el paquete equivocado e incite a la guerra. Desafortunadamente, el mensajero está absolutamente comprometido con su deber y no se detendrá ante nada para completar su entrega, sin importar cuáles sean las consecuencias.",
+        "released": "2006-03-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mxnn7sAutvRHfvo1uXuNKIBRkTN.jpg"
+      },
+      {
+        "id": "tt0409591:4:178",
+        "title": "¡Confrontación! ¡El chico con nombre de estrella!*",
+        "season": 4,
+        "episode": 178,
+        "overview": "**Episodios de Relleno** Tenten, Neji y Rock Lee están asignados a una misión para proteger a la estrella que pertenece a la Aldea Oculta de las Estrellas. Cuando Naruto se entera del poder especial de mejora de Chakra de la estrella, decide que él también debe ir, pues supone que Orochimaru puede estar involucrado. Naruto logra convencer a Tsunade para que le permita unirse a la misión del Equipo Guy sobornándola con un regalo caro. Naruto y El Equipo Guy se encuentran con Sumaru de la Aldea Oculta de la Estrella, quien los guía más allá de los gases venenosos que rodean la aldea después de demostrar técnicas con un extraño Chakra púrpura. Los Genin de Konoha se encuentran con el sustituto Hoshikage, Akahoshi, quien explica el deseo de la aldea de las estrellas de convertirse en una de las 5 aldeas ocultas principales.",
+        "released": "2006-03-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xio6mHf11NsPWetfLZjcsstI5w5.jpg"
+      },
+      {
+        "id": "tt0409591:4:179",
+        "title": "¡La canción de cuna de los recuerdos!*",
+        "season": 4,
+        "episode": 179,
+        "overview": "**Episodios de Relleno** Con la estrella robada, el grupo no tiene pistas sobre el misterioso ladrón que puede usar Chakra para volar. Naruto se entera de que los padres de Sumaru murieron defendiendo la estrella del ninja extranjero. Tenten y Lee intentan rastrear a dos de los hombres de Akahoshi, pero son descubiertos y no encuentran respuestas. Sumaru y algunos de sus amigos encuentran un ninja enmascarado y lo retienen, pero los deja inconscientes y secuestra a Sumaru.",
+        "released": "2006-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xWsmZRQ30IoKyibDmbuCDti5b3a.jpg"
+      },
+      {
+        "id": "tt0409591:4:180",
+        "title": "¡Jutsu escondido! ¡El precio del arte ninja Kujaku!*",
+        "season": 4,
+        "episode": 180,
+        "overview": "**Episodios de Relleno** Se revela que el ninja enmascarado que robó la estrella es la madre de Sumaru, y que Akahoshi es quien secuestró a Sumaru. El grupo aprende que el entrenamiento con la estrella es potencialmente fatal para los ninjas que participan en él, pero deciden encontrar la estrella. Tenten y Lee se infiltran en la residencia de Akahoshi y rescatan a Sumaru. Mientras tanto, Akahoshi se acerca a Natsuhi y exige la estrella a cambio de Sumaru, y los dos luchan.",
+        "released": "2006-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yAaaWZPbXgDe2cUbZSa1CwaUJ4d.jpg"
+      },
+      {
+        "id": "tt0409591:4:181",
+        "title": "¡Hoshikage, la verdad oculta!*",
+        "season": 4,
+        "episode": 181,
+        "overview": "**Episodios de Relleno** Akahoshi dice que la misión para los Shinobi de Konoha ha terminado, pero Neji dice que como la estrella no ha sido recuperada, la misión continuará. Neji, Lee y Tenten revelan la verdad sobre Akahoshi a los alumnos. Naruto se despierta y escucha que Natsuhi y su esposo ven los horrores del entrenamiento con la estrella y tratan de robar la estrella. Después de que los atraparon, el Tercer Hoshikage acordó terminar el entrenamiento con la estrella si abandonaban la aldea y observaban desde lejos para evitar que se reanudara. Natsuhi y su esposo aceptaron, pidiéndole al Hoshikage que le dijera a Sumaru que habían muerto.",
+        "released": "2006-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3DUyh6B8h0ulximMoNYVVbOgHso.jpg"
+      },
+      {
+        "id": "tt0409591:4:182",
+        "title": "¡Queda poco tiempo!*",
+        "season": 4,
+        "episode": 182,
+        "overview": "**Episodios de Relleno** Cuando Sumaru, el resto de los aprendices de la aldea de las estrellas y los compañeros de equipo de Naruto llegan, Akahoshi toma a Sumaru como rehén y obliga a Natsuhi a entregar la estrella. Neji examina a Natsuhi y revela que podría morir si usa su Chakra de nuevo. Después de que Sumaru se despierta, él habla con su madre, quien revela que aunque sabía que tenía que dejarlo atrás para evitarle el dolor de convertirse en un exiliado, se arrepiente de haberlo dejado. Mientras Naruto y Lee insisten en ir tras Akahoshi, Neji dice que la misión ha terminado y que, como ninja de la Hoja, no pueden traicionar a un cliente.",
+        "released": "2006-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4sse68nsLIVmzxQ14R47uXOwYHI.jpg"
+      },
+      {
+        "id": "tt0409591:4:183",
+        "title": "¡La brillante luz de la estrella!*",
+        "season": 4,
+        "episode": 183,
+        "overview": "**Episodios de Relleno** Después de que Akahoshi intenta ejecutar a Sumaru, Hokuto y el resto de los niños se ponen de pie para proteger su aldea, revelando el envenenamiento causado por la estrella. Después de aprender la verdad, los adultos también se vuelven contra Akahoshi. Después de que Akahoshi casi mata a Mizura, no tiene segundas oportunidades. Al no ser uno que pierda, Akahoshi fusiona su cuerpo con la Estrella, haciendo que su Chakra se salga de control.",
+        "released": "2006-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u8y6cGcLOFXm18dTDfYVU9KDeAA.jpg"
+      },
+      {
+        "id": "tt0409591:4:184",
+        "title": "Kiba tiene un día de perros*",
+        "season": 4,
+        "episode": 184,
+        "overview": "**Episodios de Relleno** Naruto está asignado a observar a Akamaru, el perro ninja de Kiba Inuzuka, que recientemente ha estado actuando de manera extraña después de haber sido infectado por una bacteria especial durante una misión. Esto se confirma cuando Akamaru comienza a atacar violentamente a los habitantes de Konoha, y los cazadores especiales ANBU lo detienen, preparándose para sacrificar a Akamaru si no pueden curarlo.",
+        "released": "2006-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o9qWgJarhVSBq90n9qRPkKkhgBl.jpg"
+      },
+      {
+        "id": "tt0409591:4:185",
+        "title": "¡El Onbaa! ¡Una leyenda de la aldea de la hoja!*",
+        "season": 4,
+        "episode": 185,
+        "overview": "**Episodios de Relleno** Una criatura legendaria, el Onbaa, es el foco central de este episodio, que se adhiere a la espalda de Naruto y causa estragos donde sea que vaya Naruto. A pesar de los esfuerzos de Naruto, permanece firmemente unido a la espalda de Naruto. Tsunade menciona que Jiraiya luchó una vez contra el Onbaa, aunque Tsunade no le prestó atención en ese momento, creyendo que era un tonto. El Onbaa continúa aumentando de tamaño, llegando a ser más grande que el propio Naruto.",
+        "released": "2006-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/falgRH1JEkzqUlCmyQvRqpurDfz.jpg"
+      },
+      {
+        "id": "tt0409591:4:186",
+        "title": "Shino se ríe*",
+        "season": 4,
+        "episode": 186,
+        "overview": "**Episodios de Relleno** Un hombre llamado Moshino Kagetsu Fuuta puede perder toda su herencia si se ríe durante el funeral de su padre. Sabiendo que todos sus familiares tratarán de hacerlo reír para mantener la herencia para sí mismos, contrata a los ninjas de Konoha para que asistan al funeral en su lugar. El pueblo elige enviar al siempre serio Shino Aburame, con Naruto que lo sigue. Sin embargo, antes de que comience el funeral, Shino es envenenado por una droga que lo hace reír sin control.",
+        "released": "2006-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pWQyrK6m43yuAkRuAmteetFCd96.jpg"
+      },
+      {
+        "id": "tt0409591:4:187",
+        "title": "¡Abierto al público! ¡Servicio de mudanzas de la hoja!*",
+        "season": 4,
+        "episode": 187,
+        "overview": "**Episodios de Relleno** Naruto, Choji y Hinata son enviados para ayudar a algunos vendedores ambulantes a mudarse de la Tierra de las Verduras. Sin que ellos lo supieran, un grupo llamado los Tres Hermanos Criminales, ha tomado el control de la tierra y está buscando a uno de los vendedores ambulantes.",
+        "released": "2006-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/57mJUGub0jWOiQQBqXv1NOngOiA.jpg"
+      },
+      {
+        "id": "tt0409591:4:188",
+        "title": "El misterio de los vendedores perseguidos*",
+        "season": 4,
+        "episode": 188,
+        "overview": "**Episodios de Relleno** Después de un ataque de Ruiga de los Tres Hermanos Criminales que resulta en la muerte de Kikujou, y Naruto nota que sus atacantes están buscando a una persona específica, el grupo de Naruto se da cuenta de que no se les ha dicho la verdad sobre los vendedores ambulantes. Aprenden que los vendedores ambulantes estaban siendo utilizados como cobertura para la princesa Haruna de la Tierra de las Verduras para escapar de los Tres Hermanos Criminales.",
+        "released": "2006-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eVegTnMoPrnmovV0JmadWZspVXP.jpg"
+      },
+      {
+        "id": "tt0409591:4:189",
+        "title": "Suministro ilimitado de técnicas ninja*",
+        "season": 4,
+        "episode": 189,
+        "overview": "**Episodios de Relleno** Naruto y Yurinojou luchan con Ruiga y, con la ayuda de Choji, pueden derrotarlo destruyendo sus tonfas \"radicales\", lo que le permite buscar lugares donde hay grandes cantidades de agua y llevarlo a un área seca para ponerlo en desventaja. Ruiga sobrevive a la batalla, pero el segundo hermano, Jiga, lo mata por una mayor parte de la riqueza del país.",
+        "released": "2006-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cTsWrNuP5pIPqa7JCyIllKKaavZ.jpg"
+      },
+      {
+        "id": "tt0409591:4:190",
+        "title": "El Byakugan descubre el punto débil*",
+        "season": 4,
+        "episode": 190,
+        "overview": "**Episodios de Relleno** Como a Naruto le va mal en la batalla con Jiga, Hinata llega. Aunque Hinata inicialmente no puede dañarlo, se da cuenta de que su magnetismo es su debilidad potencial. Ella usa su Byakugan para interferir con su Chakra, lo que hace que Jiga no pueda apagar su magnetismo y se entierra vivo en un vórtice de arena de hierro. Naruto salva a Hinata del vórtice y, como ella y Yurinojou están demasiado heridos para luchar, van a buscar a la princesa por su cuenta.",
+        "released": "2006-06-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qawrgJnKh69LBacqaW8gPYGE6bD.jpg"
+      },
+      {
+        "id": "tt0409591:4:191",
+        "title": "¡Pronóstico del tiempo: muerte! Día nublado con posibilidad de sol*",
+        "season": 4,
+        "episode": 191,
+        "overview": "**Episodios de Relleno** Naruto se entera de que sus compañeros han sido secuestrados por los hombres de Renga y solo serán liberados si él entrega a Haruna. Durante esta confrontación, se revela que el padre de la princesa, poco antes de su muerte, había confesado su arrepentimiento de entregar a la princesa por el bien de su pueblo y deseaba el bien de la gente independientemente de lo que le sucediera. Haruna, habiendo sido influenciada por Naruto y esta revelación, ofrece sacrificarse para proteger a Naruto",
+        "released": "2006-06-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pXmq2hsmmA0vfDK14WYZ5l9Oto7.jpg"
+      },
+      {
+        "id": "tt0409591:4:192",
+        "title": "¡El grito de Ino! ¡El paraíso de los gorditos!*",
+        "season": 4,
+        "episode": 192,
+        "overview": "**Episodios de Relleno** La princesa Fuku se encuentra con su prometido por primera vez. Duda en aparecer ante él en persona, pensando que no se ve atractiva porque tiene sobrepeso como resultado de comer bocadillos para aliviar el estrés. Ella contrata a Ino Yamanaka, que se parece exactamente a la princesa, excepto por la única diferencia obvia, para tomar su lugar y ganar el corazón de su prometido (que tiene un gran parecido con Elvis Presley).",
+        "released": "2006-07-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hUEXqxtq5VsJgcii0XrL8WNFyAY.jpg"
+      },
+      {
+        "id": "tt0409591:4:193",
+        "title": "¡Viva el reto del dojo! ¡La juventud solo es pasión!*",
+        "season": 4,
+        "episode": 193,
+        "overview": "**Episodios de Relleno** Rock Lee tiene hambre de un combate de entrenamiento, pero no tiene a nadie con quien entrenar. Él construye su propio dojo con la esperanza de atraer desafiantes. Guy está tan inspirado por la motivación de Lee que se pone un disfraz para que pueda servir como el retador que Lee busca. Pero antes de que desafíe a Lee, Guy se desvía por una misión. Luego, un intruso aparece para espiar a la aldea haciéndose pasar por Guy, pero involuntariamente queda atrapado en la lucha de entrenamiento excesivamente celoso de Lee.",
+        "released": "2006-07-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cTIK5mvqkzTcrfGlZGEt1LHtNSg.jpg"
+      },
+      {
+        "id": "tt0409591:4:194",
+        "title": "La misteriosa maldición del castillo embrujado*",
+        "season": 4,
+        "episode": 194,
+        "overview": "**Episodios de Relleno** Naruto, Kiba y Hinata entran en un castillo en busca de la esposa de Daimyo. Luego descubren que dentro hay un monstruo que fue convocado por los ocupantes originales del castillo, y descubren que la criatura está buscando liberarse del mundo. Naruto destruye el contrato que convocó al monstruo y regresa a casa, liberando a todos sus cautivos (incluida la esposa del Daimyo).",
+        "released": "2006-07-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4KTFPHPatnIPPCXQOGCKCbOMjlH.jpg"
+      },
+      {
+        "id": "tt0409591:4:195",
+        "title": "La tercera superbestia*",
+        "season": 4,
+        "episode": 195,
+        "overview": "**Episodios de Relleno** Tsunade, temiendo que Rock Lee se esfuerce demasiado y una vez más termine su carrera como ninja, le advierte que no acepte misiones o entrene demasiado. Al mismo tiempo, un estudiante llega a la ciudad y puede vencer a Lee en el Taijutsu, esquivando todos sus movimientos y usando uno que casi le rompe el tobillo. El estudiante sale con Guy en una misión mientras Lee se recupera, lo que hace que Lee crea que Guy lo ha abandonado. Entonces se revela que el estudiante es un impostor, y él atrae a Guy a una trampa cuando Naruto, Neji y Tenten llegan para apoyarlo.",
+        "released": "2006-07-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yYqwvpFNqROZmEPF5vkySSK0GTo.jpg"
+      },
+      {
+        "id": "tt0409591:4:196",
+        "title": "¡Férrea confrontación! ¡Estudiante vs. Maestro!*",
+        "season": 4,
+        "episode": 196,
+        "overview": "**Episodios de Relleno** Guy está atrapado dentro de una pagoda hecha de maniquíes de entrenamiento de Kung Fu, mientras que Naruto, Neji, Tenten y un recién llegado Lee luchan contra los maniquíes que están afuera. Se revela que el estudiante impostor y sus dos hermanos quieren venganza por el hecho de que Guy derrotó a su padre y lo hirió gravemente, lo que le impidió entrenar o tomar misiones y, finalmente, morir. Lee entra y queda atrapado en una técnica que hace que él y Guy confundan al otro con un muñeco de entrenamiento hostil. Los dos ven a través de la técnica, y simultáneamente usan el Loto Oculto para destruir a los muñecos sin hacerse daño, destrozando la pagoda.",
+        "released": "2006-08-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4SrjLb1M6xDavB04hRfDobh3Mth.jpg"
+      },
+      {
+        "id": "tt0409591:4:197",
+        "title": "¡Crisis! ¡Los once de la aldea de la Hoja se reúnen!*",
+        "season": 4,
+        "episode": 197,
+        "overview": "**Episodios de Relleno** Naruto almuerza con un anciano llamado Gennou, que vino a Konoha como carpintero para ayudar a reconstruir la aldea. Sin embargo, durante la noche, el carpintero se escapa con algunos documentos, y aparentemente se inmola en un atentado suicida, advirtiendo que la aldea de Konoha pronto será destruida. A los 10 Genin de Konoha y Shikamaru se les dice que descubran más sobre las actividades del hombre, pero los cazadores especiales ANBU traen a Naruto para interrogarlo, diciendo que Gennou fue quien robó los planes y escapó.",
+        "released": "2006-08-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pguFiVY5qFjLiK1ExMVmrccKQTX.jpg"
+      },
+      {
+        "id": "tt0409591:4:198",
+        "title": "¿Los Anbu se rinden? Los recuerdos de Naruto*",
+        "season": 4,
+        "episode": 198,
+        "overview": "**Episodios de Relleno** Los cazadores especiales ANBU usan la hipnosis inversa en Naruto, pero se dan cuenta de que no recuerda nada importante. Algunos del grupo investigan a Gennou, pero encuentran poco, excepto por ser un carpintero mediocre que hizo poco fuera de lo común. Sin embargo, se revela que su carta de presentación fue falsificada, y la investigación de la escena de su atentado suicida y el cadáver en el hospital sugiere que Gennou escenificó su muerte.",
+        "released": "2006-08-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1joFaRCsWU0GEaacU2LGvfqYo33.jpg"
+      },
+      {
+        "id": "tt0409591:4:199",
+        "title": "Objetivo fallado*",
+        "season": 4,
+        "episode": 199,
+        "overview": "**Episodios de Relleno** Un pájaro deja caer casi todos los planos robados en todo el pueblo, sirviendo como una distracción del verdadero plan de Gennou. El grupo descubre que un objetivo kunai en el dojo de la academia es en realidad el detonante de marcas explosivas en la academia, y que se colocan etiquetas explosivas en todo el pueblo.",
+        "released": "2006-08-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2Uc0maqAW95CJuXUuVYJCngbxz6.jpg"
+      },
+      {
+        "id": "tt0409591:4:200",
+        "title": "Una poderosa ayuda*",
+        "season": 4,
+        "episode": 200,
+        "overview": "**Episodios de Relleno** El grupo se propone desarmar las trampas sin que Gennou lo descubra. Luego, la investigación concluye que Gennou colocó las trampas hace 30 años, como parte de una misión para la Aldea del Demonio, que fue destruida por otro pueblo poco después de que completara su misión, lo que provocó la muerte de su hijo. Naruto acepta el hecho de que el viejo con el que se hizo amigo intentó destruir la aldea, y encuentra una pista de que Gennou está en las montañas detrás de la aldea.",
+        "released": "2006-09-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3U8fFBDxJCgSh4b5XClwgTwLuh7.jpg"
+      },
+      {
+        "id": "tt0409591:4:201",
+        "title": "¡Trampa sobre trampa! ¡Cuenta regresiva para la destrucción!*",
+        "season": 4,
+        "episode": 201,
+        "overview": "**Episodios de Relleno** Naruto persigue a Gennou a las montañas en la parte posterior de la ciudad, y escucha que planea detonar etiquetas explosivas allí, enterrando a Konoha en un deslizamiento de rocas masivo. Antes de que pueda hacerlo, llegan los amigos de Naruto, Hinata les ha informado a dónde iba. Combinan sus esfuerzos para evitar que detone etiquetas, y logran salvar la aldea. Gennou muere después de decir que quería que su hijo disfrutara de otra búsqueda del tesoro, y el grupo se da cuenta de que, aunque inicialmente tenía la intención de destruir a Konoha, porque Naruto le recordó a su hijo, convirtió sus trampas en una búsqueda del tesoro. Por lo tanto, Konoha no estaba realmente en peligro real.",
+        "released": "2006-09-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5a0SfwehwLZpueYDlkAxzeRFXD9.jpg"
+      },
+      {
+        "id": "tt0409591:4:202",
+        "title": "¡Las cinco mejores batallas llenas de sangre, sudor y lágrimas!*",
+        "season": 4,
+        "episode": 202,
+        "overview": "**Episodios de Relleno** Naruto y Sakura presentan un episodio especial de recapitulación. El episodio presenta aspectos destacados de 5 batallas del arco de recuperación de Sasuke: la batalla entre Naruto y Sasuke Uchiha en el techo del hospital, la batalla entre Choji y Jirobo, la batalla entre Kiba y Sakon, la batalla entre Neji y Kidomaru, y la última batalla entre Naruto y Sasuke.",
+        "released": "2006-09-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mqz3wIcrii7Q79HmFh4bgSYEyaB.jpg"
+      },
+      {
+        "id": "tt0409591:4:203",
+        "title": "¡La decisión de Kurenai! ¡El equipo 8 quedó atrás!*",
+        "season": 4,
+        "episode": 203,
+        "overview": "**Episodios de Relleno** Naruto se encuentra con una chica llamada Yakumo, quien, al dibujar a Konoha, hace que un rayo golpee la mansión de Tsunade. Poco después, Kurenai Yuhi dimite como líder del Equipo 8, y Naruto está decidido a descubrir por qué. Más tarde esa noche, Naruto se cuela en la mansión de Yakumo disfrazado de Kurenai, y descubre una habitación llena de pinturas de Yakumo. Naruto se escapa después de que una de las pinturas casi lo mata, y se enfrenta a la seguridad, que lo tranquiliza.",
+        "released": "2006-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dthYnJDpKWxHP4JAl3cqbAez8k5.jpg"
+      },
+      {
+        "id": "tt0409591:4:204",
+        "title": "El poder sellado de Yakumo*",
+        "season": 4,
+        "episode": 204,
+        "overview": "**Episodios de Relleno** Después de tranquilizarse, Naruto sueña con Kurenai amenazando con sellar las habilidades Genjutsu de Yakumo. Luego descubre que esta es la razón por la que dejó el equipo, pero Kurenai se niega a revelar más. Cuando Kurenai va a ver a Yakumo, varios miembros del Clan Kurama atacan.",
+        "released": "2006-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kq4YyWWFfCb1lz7Vlox7cLCB9Tg.jpg"
+      },
+      {
+        "id": "tt0409591:4:205",
+        "title": "¡La misión secreta de Kurenai! ¡La promesa con el Tercer Hokage!*",
+        "season": 4,
+        "episode": 205,
+        "overview": "**Episodios de Relleno** Como Kurenai intenta escapar con Yakumo; Naruto, Sakura, los miembros del Equipo 8 y Guy acuden en su ayuda y derrotan al enemigo. Kurenai y Yakumo revelan que Yakumo fue confiada a Kurenai como su estudiante, ya que aunque no pudo pelear, era una usuaria talentosa de Genjutsu. Sin embargo, Kurenai selló sus habilidades, y Yakumo revela que lo hizo bajo la orden del Tercer Hokage.",
+        "released": "2006-10-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fCJYKkiZCjajVyjcef2WDTwO5u.jpg"
+      },
+      {
+        "id": "tt0409591:4:206",
+        "title": "¿Genjutsu o realidad?*",
+        "season": 4,
+        "episode": 206,
+        "overview": "**Episodios de Relleno** Naruto, Kurenai, Yakumo y el Equipo 8 regresan a Konoha, que parece haber sido destruido en su ausencia. Aprenden del jefe del Clan Kurama que están atrapados en un Genjutsu que ha envuelto a toda la ciudad, y Naruto y el Equipo 8 logran escapar. Luego entran a la mansión para encontrar a Kurenai y Yakumo.",
+        "released": "2006-10-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3SutLagw2vltwOJGZZzbyr6K0h6.jpg"
+      },
+      {
+        "id": "tt0409591:4:207",
+        "title": "Habilidades que debieron ser selladas*",
+        "season": 4,
+        "episode": 207,
+        "overview": "**Episodios de Relleno** Naruto y los miembros del Equipo 8 se dirigen a la casa de Yakumo para encontrarla con Kurenai, amenazando con borrar a su antiguo sensei de la existencia. Se revela que la entidad maliciosa conocida como Idou habitaba en el subconsciente de Yakumo, y era la razón por la cual sus habilidades estaban selladas. Yakumo finalmente vence al Idou y se da cuenta de que Kurenai se preocupaba por ella. Kurenai luego regresa a un Equipo 8 muy feliz.",
+        "released": "2006-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eR1mxTZdpdCIEVKpxPK5L5L4rjP.jpg"
+      },
+      {
+        "id": "tt0409591:4:208",
+        "title": "El peso del artefacto valorado*",
+        "season": 4,
+        "episode": 208,
+        "overview": "**Episodios de Relleno** Naruto y Kiba reciben la orden de escoltar a un hombre llamado Shinemon que transporta un artefacto raro y valioso. Shinemon hace que la misión sea casi insoportable con su actitud pomposa y dominante y su disposición a poner a los dos en peligro solo para proteger sus propios intereses. Los bandidos roban el artefacto, y cuando Naruto salva a Shinemon después de que arriesga su vida para tratar de salvar al Kacho Fugetsu, le enseña que las personas son más valiosas que las posesiones. También se revela que Shinemon es el creador del Kacho Fugetsu y puede hacer fácilmente otro.",
+        "released": "2006-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8Rhiju1PnksVdclr5pT81v0iHZ8.jpg"
+      },
+      {
+        "id": "tt0409591:4:209",
+        "title": "¡Enemigo! Los ninja renegados*",
+        "season": 4,
+        "episode": 209,
+        "overview": "**Episodios de Relleno** Naruto, Sakura y Rock Lee son contratados para escoltar a un \"Ninja Desertor\", un ninja criminal llamado Gantetsu a prisión, y protegerlo contra sus camaradas, que pueden estar tratando de liberarlo. Aprenden que Todoroki, el capitán de la guardia, tiene una venganza personal contra Gantetsu por lo que le sucedió a sus padres y a su hermano menor. Durante un ataque de uno de los Ninja Desertores, Naruto, Todoroki y Gantetsu se separan de Sakura, Lee y los guardias.",
+        "released": "2006-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sNe7jsPZOQQ5NMj2QZy78l7AN4u.jpg"
+      },
+      {
+        "id": "tt0409591:4:210",
+        "title": "El bosque desconcertante*",
+        "season": 4,
+        "episode": 210,
+        "overview": "**Episodios de Relleno** El bote en el que se encuentra el grupo de Naruto se arrastra sobre una cascada, lo que permite que Naruto, Gantetsu y Todoroki escapen al bosque. Naruto aprende de Gantetsu que el bosque es el escondite de Ninja Desertor, y que solo un Ninja Desertor como él puede encontrar el camino. El grupo de Naruto derrota a uno de los miembros de los Ninjas Desertores, que ataca con una gran máquina con forma de garra. Sakura y Lee se encuentran con algunos huérfanos que se refugian en el bosque.",
+        "released": "2006-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6Wla1YK3UkzReV03qHvn2L78q8N.jpg"
+      },
+      {
+        "id": "tt0409591:4:211",
+        "title": "Recuerdos del fuego*",
+        "season": 4,
+        "episode": 211,
+        "overview": "**Episodios de Relleno** Cuando otro miembro de los Ninja Desertores ataca a Naruto y Todoroki, capturando a Gantetsu, se revela que los otros miembros quieren capturar a Gantetsu para encontrar el dinero que robó con ellos. El grupo de Naruto se entera de que Akio, el hermano de Todoroki, está vivo, y que él y sus otros huérfanos han sido atendidos por Gantetsu, que busca expiar sus crímenes. El grupo lucha y derrota a otro miembro de los Ninjas Desertores, pero Akio es secuestrado y llevado a la base de los Ninjas Desertores.",
+        "released": "2006-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lX3f7IXDoklEQK8znodJ0EIo4K2.jpg"
+      },
+      {
+        "id": "tt0409591:4:212",
+        "title": "A cada uno su propio camino*",
+        "season": 4,
+        "episode": 212,
+        "overview": "**Episodios de Relleno** Naruto, Todoroki y Gantetsu entran a la mansión de los Ninjas Desertores, dejando a Sakura para cuidar de los niños y Lee para luchar contra los miembros de Ninja Dropout afuera. Mientras Gantetsu y Todoroki van a rescatar a Akio, Naruto lucha contra el líder de los Ninjas Desertores y lo derrota. La mansión se incendia en la lucha, y Gantetsu salva a Akio antes de escapar con él y Todoroki. Todoroki aún no puede perdonar a Gantetsu, pero le permite quedarse con los niños al informar falsamente que había muerto en el incendio.",
+        "released": "2006-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tKOLDjaoelRE2oPKBZOjg2aPk7n.jpg"
+      },
+      {
+        "id": "tt0409591:4:213",
+        "title": "Recuerdos desvanecidos*",
+        "season": 4,
+        "episode": 213,
+        "overview": "**Episodios de Relleno** Mientras se dirige a recoger brotes de bambú para menma ramen, Naruto encuentra a un hombre cerca de la orilla del río y lo ayuda. El hombre no puede recordar ni siquiera su propio nombre, por lo que Naruto lo llama \"Menma\". Mientras Naruto intenta ayudarlo a recuperar sus recuerdos, se entera de que Menma es extraordinariamente amable y servicial. Cuando un hombre misterioso ataca a los dos, Menma usa una ocarina para aumentar las habilidades de Naruto, haciendo que Naruto se pregunte quién es realmente.",
+        "released": "2006-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iuuMJpCC450j7GJd5zaF8h5c7TV.jpg"
+      },
+      {
+        "id": "tt0409591:4:214",
+        "title": "Recuperando la realidad*",
+        "season": 4,
+        "episode": 214,
+        "overview": "**Episodios de Relleno** Naruto y Menma son enviados a una misión con Neji y Tenten. Tsunade comienza a sospechar que Menma era un Ninja del Sonido debido a sus habilidades, y Neji comienza a sospechar lo mismo cuando Menma se mueve aún más rápido que él. El grupo ingresa a una ciudad que fue destruida en gran parte por bandidos, y Menma convence al grupo de Naruto para que lo ayude a construir para defenderse de otro ataque.",
+        "released": "2006-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cObBXJ6VF7aADPUi2HwSTrD7iaK.jpg"
+      },
+      {
+        "id": "tt0409591:4:215",
+        "title": "Un pasado por borrar*",
+        "season": 4,
+        "episode": 215,
+        "overview": "**Episodios de Relleno** Cuando Menma es herido por uno de los bandidos, se revela que una vez fue uno de ellos y que estuvo en la ciudad durante el ataque. A pesar de esto, Menma está dispuesto a arriesgarse para ayudar a luchar contra los bandidos, y le cuenta a Naruto sobre el plan maestro del líder para inundar la ciudad con una presa. Después de revelar que perdió su memoria solo por un tiempo muy corto, Menma sacrifica su vida para causar un deslizamiento de rocas para salvar la ciudad. Naruto derrota al líder de los bandidos y llora la pérdida de Menma.",
+        "released": "2006-12-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cavW847bZp1KgEXrXHeChYW6OOH.jpg"
+      },
+      {
+        "id": "tt0409591:4:216",
+        "title": "¡El objetivo: Shukaku!*",
+        "season": 4,
+        "episode": 216,
+        "overview": "**Episodios de Relleno** Un grupo de ninjas malvados de la Aldea Takumi, llamada Shitenshonin (Cuatro Celestiales en la traducción inglesa), invaden la Aldea de Arena y secuestran a Matsuri, un estudiante de la Academia Ninja bajo Gaara. Buscan los poderes de Gaara para revivir el arma definitiva de su aldea. Gaara, Kankuro y Temari los persiguen sin la ayuda de la Aldea de la Arena. Mientras tanto, Shikamaru ensambla a 11 Genin de Konoha (menos Tenten) y se divide en equipos de dos hombres: Shikamaru e Ino, Naruto y Lee, y Kiba y Choji.",
+        "released": "2007-01-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sEautcEwXpAMABpDD2MaeOqKhpE.jpg"
+      },
+      {
+        "id": "tt0409591:4:217",
+        "title": "Alianza de la arena con los Shinobi de la hoja*",
+        "season": 4,
+        "episode": 217,
+        "overview": "**Episodios de Relleno** Los ninjas rebeldes continúan corriendo mientras Gaara, Temari y Kankuro los persiguen. Al mismo tiempo, Shino, Hinata y Neji están usando sus habilidades para encontrar la ubicación del Shitenshounnin. Temari se encuentra con el primero de los miembros (una mujer que usa espadas para producir viento) y deja a Gaara y Kankuro para perseguir a los otros tres miembros. Poco después, Kankuro se encuentra con otro ninja que usa una espada de 3 cuchillas que puede separarse y aún estar conectada por un cable.",
+        "released": "2007-01-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pKDsHukixNHNxN3NnYoqQlt6t0P.jpg"
+      },
+      {
+        "id": "tt0409591:4:218",
+        "title": "¡Arena Sellada: El Contraataque!*",
+        "season": 4,
+        "episode": 218,
+        "overview": "**Episodios de Relleno** Los miembros de Shitenshonin crean una formación triangular, utilizando los canales para evitar que Gaara use sus poderes de arena. Mientras tanto, Shikamaru y Kiba están teniendo problemas para respaldar a Temari y Kankuro. Antes de que el tercer miembro de los pícaros ninjas pueda matar a Gaara, Lee y Naruto llegan para salvarlo. En este punto, la tarea de Sakura es ayudar a aquellos con heridas.",
+        "released": "2007-01-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/anXB48uvc0AjlOVGmFbEyDZwM3E.jpg"
+      },
+      {
+        "id": "tt0409591:4:219",
+        "title": "El arma suprema resucitada*",
+        "season": 4,
+        "episode": 219,
+        "overview": "**Episodios de Relleno** Aunque sus compañeros están derrotados, Hoki pone en marcha su plan final utilizando a Gaara para revivir a Seimei. Para hacer esto, atrapa a Gaara en una esfera de metal que comienza a drenar su Chakra. Gaara se transforma parcialmente en el Shukaku de una cola, que es lo que Hoki quería todo el tiempo.",
+        "released": "2007-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hxbvC3AsHTKVGxvqwrHEqpWT48r.jpg"
+      },
+      {
+        "id": "tt0409591:4:220",
+        "title": "La partida",
+        "season": 4,
+        "episode": 220,
+        "overview": "La batalla concluye con Gaara matando a Seimei. Todos regresan a la Aldea de la Hoja y reanudan su entrenamiento. Ino hace una solicitud para convertirse también en estudiante de Tsunade; Tenten está enfurecida por el hecho de que la dejaron fuera de la misión; y todos se despiden de Naruto, quien está a punto de partir para sus dos años y medio de entrenamiento con Jiraiya (quien regresó con información sobre los planes de Akatsuki).",
+        "released": "2007-02-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kErbglX2IHAESEWHqEDdAmMcELU.jpg"
+      }
+    ]
+  }
+}

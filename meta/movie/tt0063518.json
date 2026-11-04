@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0063518",
+    "type": "movie",
+    "name": "Romeo y Julieta",
+    "poster": "https://image.tmdb.org/t/p/w500/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+    "posterShape": "poster",
+    "description": "La adaptación de la tragedia de Shakespeare acerca del romance entre los hijos de dos familias enemigas.",
+    "releaseInfo": "1968",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zf8DvfTPHUWhJSb24937ZJKW5pH.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

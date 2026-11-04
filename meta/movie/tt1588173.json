@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt1588173",
+    "type": "movie",
+    "name": "Mi novio es un zombie",
+    "poster": "https://image.tmdb.org/t/p/w500/8XAX6KaqNGcLXcwoDwxyU0bxhxm.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/faEe5nH1VP2xMmE8f9lgqjhsmYI.jpg",
+    "description": "R, un zombi con problemas existenciales, entabla una extraña amistad con la novia de una de sus víctimas. Esta insólita relación provoca una reacción en cadena que cambia su vida, la de otros zombis y probablemente la de todo el planeta.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Terror",
+      "Comedia",
+      "Romance",
+      "Ciencia ficción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.5"
+        }
+      }
+    }
+  }
+}

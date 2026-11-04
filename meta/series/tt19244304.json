@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "id": "tt19244304",
+    "type": "series",
+    "name": "IT: Bienvenidos a Derry",
+    "poster": "https://image.tmdb.org/t/p/w500/vC6LSYC8uhZPkPM01L6HKrr1lMD.jpg",
+    "posterShape": "poster",
+    "description": "En 1958, un grupo de siete amigos están empezando a ver cosas extrañas en el tranquilo pueblito Derry. Con el tiempo, descubren que todos estaban viendo lo mismo: un ser sobrenatural y malvado que puede adoptar muchas formas.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.2"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt19244304:1:1",
+        "title": "El Piloto",
+        "season": 1,
+        "episode": 1,
+        "overview": "Mientras cuatro niños inadaptados prometen encontrar a su compañero de clase desaparecido, el mayor Leroy Hanlon llega a una recepción mixta en la Base de la Fuerza Aérea de Derry.",
+        "released": "2025-10-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg"
+      },
+      {
+        "id": "tt19244304:1:2",
+        "title": "La Cosa en la Oscuridad",
+        "season": 1,
+        "episode": 2,
+        "overview": "Mientras Charlotte y Will se adaptan a su nueva vida en Derry, Ronnie se preocupa por el destino de su padre.",
+        "released": "2025-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg"
+      },
+      {
+        "id": "tt19244304:1:3",
+        "title": "⁨Ahora Lo Ves⁩",
+        "season": 1,
+        "episode": 3,
+        "overview": "Mientras Leroy, Pauly y Dick buscan un nuevo sitio de excavación, los chicos buscan pruebas visuales de lo que han experimentado.",
+        "released": "2025-11-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg"
+      },
+      {
+        "id": "tt19244304:1:4",
+        "title": "El Gran Mecanismo Giratorio del Funcionamiento de Nuestro Planeta⁩",
+        "season": 1,
+        "episode": 4,
+        "overview": "Los chicos viven experiencias cada vez más aterradoras, Charlotte intenta ayudar a Hank y el general Shaw intensifica sus esfuerzos.",
+        "released": "2025-11-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg"
+      },
+      {
+        "id": "tt19244304:1:5",
+        "title": "⁨Calle Neibolt 29⁩",
+        "season": 1,
+        "episode": 5,
+        "overview": "Mientras los militares llegan a la calle Neibolt, los chicos se adentran en las alcantarillas con su propia misión.",
+        "released": "2025-11-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wDTjvS7dTnIko5JukSzgYSa3QQW.jpg"
+      },
+      {
+        "id": "tt19244304:1:6",
+        "title": "En el Nombre del Padre⁩",
+        "season": 1,
+        "episode": 6,
+        "overview": "Atormentado por visiones oscuras, Dick recibe una sorpresa en el Black Spot. Mientras tanto, los chicos enfrentan sus propios desafíos.",
+        "released": "2025-11-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6phQvyEMeX84oeRznxnJWAM91dz.jpg"
+      },
+      {
+        "id": "tt19244304:1:7",
+        "title": "⁨El Black Spot⁩",
+        "season": 1,
+        "episode": 7,
+        "overview": "Un ataque al Black Spot desata fuerzas dormidas. Tras la tragedia, Dick ayuda a descubrir otro artefacto crucial.",
+        "released": "2025-12-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zOAW0v0WLV7vv636Cx8VfSYSktu.jpg"
+      },
+      {
+        "id": "tt19244304:1:8",
+        "title": "Fuego de Invierno⁩",
+        "season": 1,
+        "episode": 8,
+        "overview": "Mientras Shaw avanza con su misión, los Hanlon, Rose, Dick y los chicos descubren que está en sus manos salvar a Derry.",
+        "released": "2025-12-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg"
+      }
+    ]
+  }
+}

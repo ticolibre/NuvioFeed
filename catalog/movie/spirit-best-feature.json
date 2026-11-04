@@ -1,0 +1,874 @@
+{
+  "metas": [
+    {
+      "id": "tt29768334",
+      "type": "movie",
+      "name": "Sueños de trenes",
+      "poster": "https://image.tmdb.org/t/p/w500/2gE6z0de4RZVW7YG1IcYBClH9MZ.jpg",
+      "posterShape": "poster",
+      "description": "Un leñador que lleva una vida tranquila experimenta el amor y la pérdida durante una era de cambios monumentales en los Estados Unidos de principios del siglo XX.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt28607951",
+      "type": "movie",
+      "name": "Anora",
+      "poster": "https://image.tmdb.org/t/p/w500/vpoxEgEHu3B8apJMGygtrTlh1I4.jpg",
+      "posterShape": "poster",
+      "description": "Anora, una joven trabajadora sexual de Brooklyn, tiene la oportunidad de protagonizar una historia de Cenicienta cuando conoce al hijo de un oligarca y se casa impulsivamente con él. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado cuando los padres parten hacia Nueva York para anular el matrimonio.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/spGbtEo5sglgOb7OBevxzm5Agj8.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt13238346",
+      "type": "movie",
+      "name": "Vidas Pasadas",
+      "poster": "https://image.tmdb.org/t/p/w500/z34UKyOAONFN54O340rL1dQRHKa.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+      "description": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt6710474",
+      "type": "movie",
+      "name": "Todo en Todas Partes al Mismo Tiempo",
+      "poster": "https://image.tmdb.org/t/p/w500/vbR5YirdyIQyLzWHALmdDAJshWC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg",
+      "description": "Cuando una ruptura interdimensional altera la realidad, Evelyn Wang, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que solo ella puede salvar el mundo.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9770150",
+      "type": "movie",
+      "name": "Nomadland",
+      "poster": "https://image.tmdb.org/t/p/w500/6CFE3b0iHmv3m2cRrmBXHIP2vhv.jpg",
+      "posterShape": "poster",
+      "description": "Después de haberlo perdido todo por culpa de la crisis económica, una mujer de Nevada emprende un viaje por el oeste estadounidense en una casa rodante. Ella desea explorar un estilo de vida nómada, alejado de las convenciones sociales.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9100054",
+      "type": "movie",
+      "name": "La Hija Oscura",
+      "poster": "https://image.tmdb.org/t/p/w500/aBlCeU1udaQnNncOvfSyDwzFuuV.jpg",
+      "posterShape": "poster",
+      "description": "Las vacaciones en la playa de una mujer madura toman un giro oscuro cuando comienza a obsesionarse con otra mujer y su hija, lo que la obligará a tener que enfrentarse a problemas de su pasado y de su primera maternidad.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8637428",
+      "type": "movie",
+      "name": "The Farewell",
+      "poster": "https://image.tmdb.org/t/p/w500/dpthmMUnjMzyD2QEYJHyE6RCPzV.jpg",
+      "posterShape": "poster",
+      "description": "Billi es una mujer, de nacionalidad chino-americana, que regresa a su país natal cuando se entera de que su abuela padece un cáncer terminal. Las cosas no mejoran cuando esta se da cuenta de que su familia le había ocultado la enfermedad a la anciana, programando una falsa boda para reunirse antes de morir.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt7125860",
+      "type": "movie",
+      "name": "Si la colonia hablara",
+      "poster": "https://image.tmdb.org/t/p/w500/sUqjGgFbOPToq0RBQKnJzuWHxYt.jpg",
+      "posterShape": "poster",
+      "description": "Basada en la novela de James Baldwin, \"If Beale Street Could Talk\", la película sigue a Tish, una mujer de Harlem embarazada y recién prometida que lucha contrarreloj para demostrar la inocencia de su pareja.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5052448",
+      "type": "movie",
+      "name": "¡Huye!",
+      "poster": "https://image.tmdb.org/t/p/w500/s0BriSYHEOIypAM0ZhUIQUOr3HE.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+      "description": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy y Dean. Al principio, Chris piensa que el comportamiento \"demasiado\" complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Terror"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4975722",
+      "type": "movie",
+      "name": "Luz de luna",
+      "poster": "https://image.tmdb.org/t/p/w500/xVzMkuXkRrmfYSYTzBCCJlj990Y.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+      "description": "La historia sensible, angustiosa de un joven que se esfuerza por encontrarse, contada a través de tres capítulos definitorios en su vida, ya que experimenta el éxtasis, el dolor y la belleza de enamorarse, mientras lucha cuerpo a cuerpo con su propia sexualidad.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1895587",
+      "type": "movie",
+      "name": "En Primera Plana",
+      "poster": "https://image.tmdb.org/t/p/w500/oejKAjGVxmm8cJLiKQMGe2A2A4g.jpg",
+      "posterShape": "poster",
+      "description": "La verdadera historia de cómo el Boston Globe descubrió el escándalo masivo de abuso y encubrimiento infantil en la arquidiócesis católica local, sacudiendo a toda la Iglesia Católica hasta lo más profundo.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2562232",
+      "type": "movie",
+      "name": "Birdman o (La Inesperada Virtud de la Ignorancia)",
+      "poster": "https://image.tmdb.org/t/p/w500/8FC3R7ElysTIze9ooCYZnb6TR22.jpg",
+      "posterShape": "poster",
+      "description": "Después de hacerse famoso interpretando a un célebre superhéroe, un actor trata de darle un nuevo rumbo a su vida, recuperando a su familia y preparándose para el estreno de una obra teatral en Broadway.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2024544",
+      "type": "movie",
+      "name": "12 Años de Esclavitud",
+      "poster": "https://image.tmdb.org/t/p/w500/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg",
+      "posterShape": "poster",
+      "description": "En los Estados Unidos de antes de la guerra, Solomon Northup, un hombre negro libre del norte del estado de Nueva York, es secuestrado y vendido como esclavo.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1045658",
+      "type": "movie",
+      "name": "Los Juegos del Destino",
+      "poster": "https://image.tmdb.org/t/p/w500/fLJ8HeOTV2yilfBtU7RRzPDZ3tk.jpg",
+      "posterShape": "poster",
+      "description": "Un hombre con trastorno bipolar se muda a casa de sus padres y establece un vínculo con una joven viuda. Juntos, encontrarán una nueva forma de sanar.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1655442",
+      "type": "movie",
+      "name": "El artista",
+      "poster": "https://image.tmdb.org/t/p/w500/pc7GRY2mXCIppmp6710B5iwSwa6.jpg",
+      "posterShape": "poster",
+      "description": "Hollywood, 1927. George Valentin es una gran estrella del cine mudo a quien la vida sonríe. Pero la llegada del cine sonoro le conducirá al olvido. Por su parte Peppy Miller, una joven actriz, verá impulsada su carrera a lo más alto, al firmamento de las estrellas.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0947798",
+      "type": "movie",
+      "name": "El cisne negro",
+      "poster": "https://image.tmdb.org/t/p/w500/eJuoXzQPnBeiezrRsQCMjetS1fM.jpg",
+      "posterShape": "poster",
+      "description": "Nina Sayers, una bailarina comprometida, lucha por mantener su cordura después de ganar el papel principal en una producción de \"El lago de los cisnes\" de Tchaikovsky.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0929632",
+      "type": "movie",
+      "name": "Precious: Based on the Novel 'Push' by Sapphire",
+      "poster": "https://image.tmdb.org/t/p/w500/kQCG6o9M1EVUBtQXjgkvFvlLQ7n.jpg",
+      "posterShape": "poster",
+      "description": "Claireece 'Precious' Jones tiene 16 años, es obesa y analfabeta y espera su segundo hijo de su propio padre ausente. Vive en Harlem, el reino de los invisibles, de los sin voz, con su madre, una reclusa cruel que mira la televisión sin cesar y la somete a los más denigrantes abusos. Forzada a abandonar la escuela a causa de su embarazo, Precious acaba en un instituto para casos desesperados. Y allí, en el último escalón de aquellos que ya han bajado todas las escaleras, está la señorita Rain, una maestra joven, combativa y radical a través de la cual Precious tendrá la posibilidad de recuperar su voz y su dignidad descubriendo un nuevo mundo en el que puede al fin expresarse de una manera que nunca antes había imaginado.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/81ME78JndOYu7IluTi1rxh0cLY2.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1125849",
+      "type": "movie",
+      "name": "El Luchador",
+      "poster": "https://image.tmdb.org/t/p/w500/hQpBhEHCFNYgakxpP6pAVB2k3fp.jpg",
+      "posterShape": "poster",
+      "description": "Randy \"The Ram\" Robinson (Mickey Rourke) es un luchador profesional de wrestling que, tras haber sido una estrella en la década de los ochenta, trata de continuar su carrera en el circuito independiente, combatiendo en cuadriláteros de tercera categoría. Cuando se da cuenta de que los brutales golpes que ha recibido a lo largo de su carrera le empiezan a pasar factura, decide poner un poco de orden en su vida: intenta acercarse a Stephanie, la hija que abandonó (Evan Rachel Wood) y trata de superar la soledad con su amor por Cassidy, una streaper (Marisa Tomei).",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wcJmFsz8RqIhozMwvU81hreTX4i.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0467406",
+      "type": "movie",
+      "name": "Juno: Crecer, correr y tropezar",
+      "poster": "https://image.tmdb.org/t/p/w500/jMn8zYdy02C6LtaYx4I2B8Wa346.jpg",
+      "posterShape": "poster",
+      "description": "Ante un embarazo no planificado, Juno MacGuff, una estudiante de secundaria de dieciséis años, toma una decisión inusual con respecto a su hijo por nacer.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0449059",
+      "type": "movie",
+      "name": "Pequeña Miss Sunshine",
+      "poster": "https://image.tmdb.org/t/p/w500/qE2ii6o1ndrhpI5ZYpxStvF5sKN.jpg",
+      "posterShape": "poster",
+      "description": "Una familia muy diversa se amontona en una vieja camioneta y viaja por carretera a California para que la pequeña Olive compita en un concurso de belleza.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/twdtjJm31AExNx73DXaD4KRNU9c.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0388795",
+      "type": "movie",
+      "name": "Secreto en la Montaña",
+      "poster": "https://image.tmdb.org/t/p/w500/dxZ0S9dQ3tRhy0x112TQHFp6rMY.jpg",
+      "posterShape": "poster",
+      "description": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0375063",
+      "type": "movie",
+      "name": "Sideways:  Entre Copas",
+      "poster": "https://image.tmdb.org/t/p/w500/ae4kP6wQsBEmDUO8pZ1UVk9WCA7.jpg",
+      "posterShape": "poster",
+      "description": "Dos hombres de mediana edad se embarcan en un viaje espiritual por la región vinícola de California. Uno es un novelista inédito que sufre depresión y el otro está a sólo unos días de caminar hacia el altar.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0335266",
+      "type": "movie",
+      "name": "Perdidos en Tokio",
+      "poster": "https://image.tmdb.org/t/p/w500/q78hqepKsya6LRSXsxt4xr77fgo.jpg",
+      "posterShape": "poster",
+      "description": "Bob Harris, un actor norteamericano en decadencia, acepta una oferta para hacer un anuncio de whisky japonés en Tokio. Está atravesando una aguda crisis y pasa gran parte del tiempo libre en el bar del hotel. Y, precisamente allí, conoce a Charlotte, una joven casada con un fotógrafo que ha ido a Tokio a hacer un reportaje; pero mientras él trabaja, su mujer se aburre mortalmente. Además del aturdimiento que les producen las imágenes y los sonidos de la inmensa ciudad, Bob y Charlotte comparten también el vacío de sus vidas. Poco a poco se hacen amigos y, a medida que exploran la ciudad juntos, empiezan a preguntarse si su amistad podría transformarse en algo más.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0297884",
+      "type": "movie",
+      "name": "Far from Heaven",
+      "poster": "https://image.tmdb.org/t/p/w500/4MpSGwWZBNv3W3lCxRAi3UM6De6.jpg",
+      "posterShape": "poster",
+      "description": "In 1950s Connecticut, a housewife's life is upended by a marital crisis and mounting racial tensions in society.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/k0HFJNOfwuWbYKon7BwCbnX8OkB.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0190332",
+      "type": "movie",
+      "name": "El tigre y el dragón",
+      "poster": "https://image.tmdb.org/t/p/w500/mdAh06X2sCPpgfmMp6wx0glHZOO.jpg",
+      "posterShape": "poster",
+      "description": "China del año 43 (1779) y ambientada en la historia de la Dinastía Quing. Li Mu Bai, un virtuoso de las artes marciales, tiene en su poder una espada mágica conocida como \"Destino Verde\". Éste no quiere seguir siendo un guerrero, por lo que decide darle la espada a su mejor amigo, Sir Te. Antes de que llegue el momento de entregarla, se la confía a su enamorada, la guerrera Yu Shu Lien, quien será la encargada de llevarla a la ciudad de Pekín, donde se encuentra su compañero. Sin embargo, una noche, un enmascarado entra en la casa de Sir Te y roba la espada. Así, Mu Bai y Shu Lien se lanzarán en la búsqueda de \"Destino Verde\", despertando, con ello, viejos fantasmas del pasado.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0209144",
+      "type": "movie",
+      "name": "Amnesia",
+      "poster": "https://image.tmdb.org/t/p/w500/4fyZ1u4amzo5a5dIxUApACIvsl1.jpg",
+      "posterShape": "poster",
+      "description": "Un hombre con pérdida de memoria a corto plazo intenta localizar al asesino de su esposa.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0126886",
+      "type": "movie",
+      "name": "La Elección",
+      "poster": "https://image.tmdb.org/t/p/w500/8OetgQOUc4VRhj2tgjOUWwywh9K.jpg",
+      "posterShape": "poster",
+      "description": "Tras doce años como profesor y tutor, Jim McAllister (Matthew Broderick) es ya toda una institución en el Instituto George Washington Carver donde da clases, en tres ocasiones ha sido elegido Profesor del Año y su popularidad entre los alumnos es indiscutible.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120684",
+      "type": "movie",
+      "name": "Gods and Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/zMFQVlyOCPqSjqdst3hFROFSSwp.jpg",
+      "posterShape": "poster",
+      "description": "It's 1957, and James Whale's heyday as the director of \"Frankenstein,\" \"Bride of Frankenstein\" and \"The Invisible Man\" is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0118632",
+      "type": "movie",
+      "name": "The Apostle",
+      "poster": "https://image.tmdb.org/t/p/w500/9KqCzLhWbFMBPjqRpZ69izRiYgG.jpg",
+      "posterShape": "poster",
+      "description": "After his happy life spins out of control, a preacher from Texas changes his name, goes to Louisiana and starts preaching on the radio.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iDNA5Bbl9NgcYbyn8dDrpnf2MUt.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0116282",
+      "type": "movie",
+      "name": "Fargo: Secuestro Voluntario",
+      "poster": "https://image.tmdb.org/t/p/w500/wKrz1zOlj5t5YKBdpULRFBgnnXj.jpg",
+      "posterShape": "poster",
+      "description": "Un hombre apocado y tímido, casado con la hija de un millonario que le impide disfrutar de su fortuna, decide contratar a dos delincuentes para que secuestren a su mujer con el fin de montar un negocio propio con el dinero del rescate. Pero, por una serie de azarosas circunstancias, al secuestro se suman tres brutales asesinatos, lo que obliga a la policía a intervenir.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0113627",
+      "type": "movie",
+      "name": "Adiós a Las Vegas",
+      "poster": "https://image.tmdb.org/t/p/w500/pzp3EwKATK7Xl8K14L85daSt60M.jpg",
+      "posterShape": "poster",
+      "description": "Ben es un alcohólico cuya vida se está yendo al traste. Decide irse a Las Vegas, la ciudad donde los bares nunca cierran, para beber hasta morir. Allí conoce a Sera, una prostituta. Se aceptan, se enamoran, se separan y se reencuentran. Una maravillosa historia sobre dos personas que aprenden a aceptarse el uno al otro, sobre cómo en medio de la oscuridad puede surgir una pequeña llama de esperanza en sus vidas.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ckTh7Ej33m9O4eiKDQ1u91Opd9N.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0110912",
+      "type": "movie",
+      "name": "Tiempos Violentos",
+      "poster": "https://image.tmdb.org/t/p/w500/sjb1KYPp57GhG96Sc6WJDddP3f7.jpg",
+      "posterShape": "poster",
+      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0108122",
+      "type": "movie",
+      "name": "Short Cuts",
+      "poster": "https://image.tmdb.org/t/p/w500/djb04es37zyRLkBOOFyDDkZTNpo.jpg",
+      "posterShape": "poster",
+      "description": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0105151",
+      "type": "movie",
+      "name": "The Player",
+      "poster": "https://image.tmdb.org/t/p/w500/cp7JGonwcKI0b5bqK8AeHYmZ3AP.jpg",
+      "posterShape": "poster",
+      "description": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+      "releaseInfo": "1992",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0102753",
+      "type": "movie",
+      "name": "Rambling Rose",
+      "poster": "https://image.tmdb.org/t/p/w500/bhQYk1QRpkvucWYV5TOpmBs9Y7.jpg",
+      "posterShape": "poster",
+      "description": "In the Deep South of the 1930s, Rose is taken in by the Hillyer family to serve as housemaid so that she can avoid falling into a life of prostitution. Her appearence and personality is such that all men fall for her, and she knows it. She can't help herself from getting into trouble with men.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uAr9ideK1TCMDVTwRRaXr36Kha2.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0099703",
+      "type": "movie",
+      "name": "The Grifters",
+      "poster": "https://image.tmdb.org/t/p/w500/ogft6ISyzMI0EkFIOD59CmW6ZLz.jpg",
+      "posterShape": "poster",
+      "description": "A small-time conman has his loyalties torn between his estranged mother and his new girlfriend, both of whom are high-stakes grifters with their own angles to play.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/i8vHWue4YFBQPI4wsnnBJq2RQV9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0098724",
+      "type": "movie",
+      "name": "Sexo mentiras y cintas de video",
+      "poster": "https://image.tmdb.org/t/p/w500/ljjGjNopDUNkhZwGf0QlB85B5fv.jpg",
+      "posterShape": "poster",
+      "description": "El marido de una mujer sexualmente reprimida está enredado con su hermana. La llegada de un invitado con un fetiche bastante extraño cambia todo.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wD95UmpUazo9820qnbbjRtbQ884.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0094027",
+      "type": "movie",
+      "name": "Con ganas de triunfar",
+      "poster": "https://image.tmdb.org/t/p/w500/zAZb6vW7zg8xz6PLtcRqBWwzk93.jpg",
+      "posterShape": "poster",
+      "description": "Jaime Escalante (Edward James Olmos, nominado al Oscar al mejor actor) es el nuevo profesor de matemáticas en un instituto para jóvenes de origen hispano en un barrio de Los Angeles. Son alumnos difíciles que no esperan llegar a la universidad, y que aspiran tan sólo a algún trabajo que apenas les permita sobrevivir. Jaime tendrá que hacerles cambiar de opinión, y exigirles fuertes sacrificios.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fSmCPURM80YLuXNvSmU6zoJ52ZN.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091763",
+      "type": "movie",
+      "name": "Pelotón",
+      "poster": "https://image.tmdb.org/t/p/w500/sh1dRGFjbjwWMA6YfNms5N7OqIv.jpg",
+      "posterShape": "poster",
+      "description": "Un joven soldado norteamericano es enviado a la frontera entre Vietnam y Camboya para incorporarse a un pelotón. Además de la crueldad de la guerra, tendrá que sufrir las difíciles relaciones con sus camaradas.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Bélica",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091860",
+      "type": "movie",
+      "name": "Instinto sádico",
+      "poster": "https://image.tmdb.org/t/p/w500/6S4FJeZZrqGPcwgij4q7fDqvR8f.jpg",
+      "posterShape": "poster",
+      "description": "El cadáver desnudo de una adolescente brutalmente asesinada yace en la orilla de un río. En el instituto cercano, Samson (Roebuck), presume ante Matt (Reeves) y sus amigos de ser el autor del crimen. Los jóvenes, incrédulos, se acercan al río, tambaleándose bajo los efectos del alcohol y la marihuana, y descubren que Samson les ha dicho la verdad. Inexplicablemente, los muchachos deciden proteger a su compañero con un pacto de silencio. Pero, atormentado por la culpa, Matt cuestiona el pacto y se enfrenta a la difícil disyuntiva de actuar de acuerdo con su conciencia, o callar y vivir con el peso del terrible secreto el resto de su vida.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1WW94dBZmOf7LgvjTPqh9cA36KZ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0088680",
+      "type": "movie",
+      "name": "Después de Hora",
+      "poster": "https://image.tmdb.org/t/p/w500/xF98wR8hvZsvNqDu8CZeWlsIHM9.jpg",
+      "posterShape": "poster",
+      "description": "Al finalizar su jornada laboral, un solitario empleado de una compañía de informática (Griffin Dunne) se ve envuelto en una serie de extrañas circunstancias que le llevan a uno de los peores barrios de Nueva York. Allí, vivirá una interminable y alocada noche…",
+      "releaseInfo": "1985",
+      "genres": [
+        "Comedia",
+        "Suspense",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

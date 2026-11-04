@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "id": "tt33043892",
+    "type": "series",
+    "name": "Dexter: Resurrección",
+    "poster": "https://image.tmdb.org/t/p/w500/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+    "posterShape": "poster",
+    "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+    "releaseInfo": "2025",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.5"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt33043892:1:1",
+        "title": "Latido",
+        "season": 1,
+        "episode": 1,
+        "overview": "Dexter Morgan despierta de un coma de diez semanas. Durante una dolorosa recuperación se entera que su hijo huyo a Nueva York.",
+        "released": "2025-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cdxZjP0S2K1FGO3NiXbQAM6TqwS.jpg"
+      },
+      {
+        "id": "tt33043892:1:2",
+        "title": "Tímido Ante La Cámara",
+        "season": 1,
+        "episode": 2,
+        "overview": "En Nueva York, Dexter se integra a la comunidad de viajes compartidos para rastrear a un asesino en serie. Harrison se ve arrastrado por la culpa de un arrebato violento.",
+        "released": "2025-07-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gxTEgknl8AequxdxtkLHOMFN5T3.jpg"
+      },
+      {
+        "id": "tt33043892:1:3",
+        "title": "Órdenes De Copiloto",
+        "season": 1,
+        "episode": 3,
+        "overview": "Siguiendo buscando al asesino en serie, Dexter debe equilibrar cuidadosamente los intentos de Blessing Kamara de ayudarlo a aclimatarse. Mientras tanto, Harrison se involucra más profundamente en la investigación policial.",
+        "released": "2025-07-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yVtgDRQDFbQ7EMhpFfqhWHzyH5J.jpg"
+      },
+      {
+        "id": "tt33043892:1:4",
+        "title": "Llámame \"Red\"",
+        "season": 1,
+        "episode": 4,
+        "overview": "Dexter asiste a una misteriosa reunión, organizada por una figura muy influyente con ambiciones macabras. Harrison continúa luchando con la creciente culpa y presión en el trabajo.",
+        "released": "2025-07-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c1sOxW3Xr6tAu11Gkqzq0ZaVSDp.jpg"
+      },
+      {
+        "id": "tt33043892:1:5",
+        "title": "Hormona asesina",
+        "season": 1,
+        "episode": 5,
+        "overview": "Un encuentro empuja a Harrison aún más hacia su propia oscuridad, aumentando su miedo a ser arrestado. Mientras tanto, Batista se acerca y Dexter persigue una peligrosa conexión con un seductor asesino, creyendo que operan bajo un código similar.",
+        "released": "2025-08-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nEehUPK1SB6wzjVBOIdPi84CMsb.jpg"
+      },
+      {
+        "id": "tt33043892:1:6",
+        "title": "El gato y el ratón",
+        "season": 1,
+        "episode": 6,
+        "overview": "Mientras Dexter se acerca a un asesino narcisista, Harrison enfrenta una crisis de identidad al intentar encontrar su lugar en el mundo. Batista persigue la conexión entre el Carnicero de la Bahía y los recientes asesinatos en Nueva York.",
+        "released": "2025-08-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/sWBM9e5YQLVflxV17puSOlKA7wk.jpg"
+      },
+      {
+        "id": "tt33043892:1:7",
+        "title": "Corrección de Rumbo",
+        "season": 1,
+        "episode": 7,
+        "overview": "Dexter descubre información inquietante y Harrison contempla su futuro.",
+        "released": "2025-08-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lZPs7ZVXnbhgdaW1bU0mReubEDf.jpg"
+      },
+      {
+        "id": "tt33043892:1:8",
+        "title": "La Sala de Asesinatos Donde Sucede",
+        "season": 1,
+        "episode": 8,
+        "overview": "Dexter redirige su atención para ser un mejor padre. Claudette investiga el pasado tumultuoso de Miami Metro, acercándose a la verdad. Mientras, Prater descubre información que podría poner a Harrison en grave peligro.",
+        "released": "2025-08-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oNF42UdW8L6P3aBz96Ens0mE0fF.jpg"
+      },
+      {
+        "id": "tt33043892:1:9",
+        "title": "Tocado por Angel",
+        "season": 1,
+        "episode": 9,
+        "overview": "Prater y Charley revelan que conocen una información crucial, lo que obliga a Dexter a tomar medidas extremas. Sin embargo, mientras Dexter intenta concertar una reunión con Prater, Harrison se ve cada vez más envuelto en la trama.",
+        "released": "2025-08-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mQUCZxHgcjMe5KTLioBoQbEXn5Q.jpg"
+      },
+      {
+        "id": "tt33043892:1:10",
+        "title": "Y Justicia para Todos...",
+        "season": 1,
+        "episode": 10,
+        "overview": "La lealtad de Charley hacia Prater llega al límite, lo que le obliga a tomar una decisión. Dexter y Harrison se enfrentan en una confrontación final, asumiendo las consecuencias de su oscuridad. Final de temporada.",
+        "released": "2025-09-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gHuIndo51r3cyA1UwYiEYAcXEbo.jpg"
+      },
+      {
+        "id": "tt33043892:2:1",
+        "title": "Negocio arriesgado",
+        "season": 2,
+        "episode": 1,
+        "overview": "Dexter lucha por encontrar un propósito más allá de la caza mientras Harrison comienza su carrera en el NYPD. Un nuevo asesino descarado pone a la ciudad en alerta.",
+        "released": "2026-11-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iOxWqj1jM5ROPvlfKYHqvONdqVi.jpg"
+      },
+      {
+        "id": "tt33043892:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-11-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oRr8xKcJvgFihuQWRmrszL85kt7.jpg"
+      },
+      {
+        "id": "tt33043892:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-11-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kbfPiCofpWEnWM9fK8tlZ2YcRvt.jpg"
+      },
+      {
+        "id": "tt33043892:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2026-11-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tAX9ecuUfYMwoJZsQlx7yua5yDw.jpg"
+      },
+      {
+        "id": "tt33043892:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2026-11-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/a7Ofz6lgowoSVajts2FhhQOpNJK.jpg"
+      },
+      {
+        "id": "tt33043892:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2026-12-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7mkEnm06lbOAYgWUb04gTJTgKUI.jpg"
+      },
+      {
+        "id": "tt33043892:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2026-12-13"
+      },
+      {
+        "id": "tt33043892:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2026-12-20"
+      },
+      {
+        "id": "tt33043892:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2026-12-27"
+      },
+      {
+        "id": "tt33043892:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2027-01-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e08ZoQpSWCraTQlwYBKJo6sdwmj.jpg"
+      }
+    ]
+  }
+}

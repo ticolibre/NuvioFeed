@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1502407",
+    "type": "movie",
+    "name": "Halloween",
+    "poster": "https://image.tmdb.org/t/p/w500/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/8VjIXC2x8SHwAO52rfFpejKL4wc.jpg",
+    "description": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie \"Halloween\", ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
+    "releaseInfo": "2018",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.6"
+        }
+      }
+    }
+  }
+}

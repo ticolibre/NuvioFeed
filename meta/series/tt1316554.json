@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "id": "tt1316554",
+    "type": "series",
+    "name": "Black Butler",
+    "poster": "https://image.tmdb.org/t/p/w500/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+    "posterShape": "poster",
+    "description": "Ciel Phantomhive, Conde de Phantomhive y propietario de Juguetes Phantom, la compañía de juguetes más grande de la Inglaterra Victoriana, es un niño de 12 años y un amo exigente. Apesar de su corta edad, Ciel Phantomhive cuenta con la confianza total de la Reina Victoria para hacerse cargo de ciertos \"casos\" de índole extraña. A su lado siempre está Sebastian Michaels, el perfecto mayordomo inglés en todos los sentidos, quien puede, de la manera más rápida y eficiente, tanto mantener la mansión en perfecto estado como derrotar a cualquier enemigo que se atreva a interponerse en su camino. Pero qué es exactamente lo que el Conde de Phantomhive busca, y cuáles son las verdaderas intenciones de Sebastian, son las cuestiones que en realidad absolutamente nadie conoce.",
+    "releaseInfo": "2008",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1316554:1:1",
+        "title": "Episodio 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2008-10-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6V9FLEgDKpBke3Yg43ANAxPkbO2.jpg"
+      },
+      {
+        "id": "tt1316554:1:2",
+        "title": "Episodio 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2008-10-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mXasAWwBpYgDeFXUddjNzKo4RQx.jpg"
+      },
+      {
+        "id": "tt1316554:1:3",
+        "title": "Episodio 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2008-10-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fhlRNZfnx2WS7deBQDwW25ZGAMh.jpg"
+      },
+      {
+        "id": "tt1316554:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2008-10-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vHNVJhwoG6Fa5lJtJT94CiZrYYB.jpg"
+      },
+      {
+        "id": "tt1316554:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2008-10-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2NKd68EUVC7h4zaXS5J10iXzfJs.jpg"
+      },
+      {
+        "id": "tt1316554:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2008-11-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7qE7DeGBmR6XDh5WqZylqQckCmW.jpg"
+      },
+      {
+        "id": "tt1316554:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2008-11-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yweKCtv2trDFoYXgh6VIEbtjfRe.jpg"
+      },
+      {
+        "id": "tt1316554:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2008-11-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pVvQF2nxsxdzZ7NxCTX2YQexg7f.jpg"
+      },
+      {
+        "id": "tt1316554:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2008-11-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/o83S6xkzjOj4wlyV1W9beK7jASR.jpg"
+      },
+      {
+        "id": "tt1316554:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2008-12-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lOJ7RgjIwGMg2eQuYFHQ47uFBNO.jpg"
+      },
+      {
+        "id": "tt1316554:1:11",
+        "title": "Episodio 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2008-12-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9O5GCHlW9QDz8Qm79MeUiFZ3aCU.jpg"
+      },
+      {
+        "id": "tt1316554:1:12",
+        "title": "Episodio 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2008-12-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Qr7MnqicXrnlj1uGo0J5icHepv.jpg"
+      },
+      {
+        "id": "tt1316554:1:13",
+        "title": "Episodio 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2008-12-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ad8jTb9ER6RcrLk48nSK9lpYAjl.jpg"
+      },
+      {
+        "id": "tt1316554:1:14",
+        "title": "Episodio 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2009-01-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2gum2eRvvWYRwKfIkqbNaznPdZP.jpg"
+      },
+      {
+        "id": "tt1316554:1:15",
+        "title": "Episodio 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2009-01-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8K34NpmlQ0kw0hg1Fe0cnYV1ero.jpg"
+      },
+      {
+        "id": "tt1316554:1:16",
+        "title": "Episodio 16",
+        "season": 1,
+        "episode": 16,
+        "released": "2009-01-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5S6vgVaNYEN55fFQ5FLET9UWVlA.jpg"
+      },
+      {
+        "id": "tt1316554:1:17",
+        "title": "Episodio 17",
+        "season": 1,
+        "episode": 17,
+        "released": "2009-02-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/q7f5aPB6lBP2gZf6xm8No0awcDz.jpg"
+      },
+      {
+        "id": "tt1316554:1:18",
+        "title": "Episodio 18",
+        "season": 1,
+        "episode": 18,
+        "released": "2009-02-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jTL96Kd9HNhnW28JE0AKBtGJvEi.jpg"
+      },
+      {
+        "id": "tt1316554:1:19",
+        "title": "Episodio 19",
+        "season": 1,
+        "episode": 19,
+        "released": "2009-02-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hgvRUBxAsrt6AKKPKRXir5Mr79k.jpg"
+      },
+      {
+        "id": "tt1316554:1:20",
+        "title": "Episodio 20",
+        "season": 1,
+        "episode": 20,
+        "released": "2009-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5vXylhqsJEFIGShm1kFxgWSzp48.jpg"
+      },
+      {
+        "id": "tt1316554:1:21",
+        "title": "Episodio 21",
+        "season": 1,
+        "episode": 21,
+        "released": "2009-03-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kyVxswP9zMX5iPXnhzIiCreTySP.jpg"
+      },
+      {
+        "id": "tt1316554:1:22",
+        "title": "Episodio 22",
+        "season": 1,
+        "episode": 22,
+        "released": "2009-03-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3pWLZ8kbFiOEtiEOX8MJBrxHH2L.jpg"
+      },
+      {
+        "id": "tt1316554:1:23",
+        "title": "Episodio 23",
+        "season": 1,
+        "episode": 23,
+        "released": "2009-03-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yQjOiAcnXWlxHqb1gQiDRddCs3F.jpg"
+      },
+      {
+        "id": "tt1316554:1:24",
+        "title": "Episodio 24",
+        "season": 1,
+        "episode": 24,
+        "released": "2009-03-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jbl5b7NdIga3NDY92mZ7HZWGDm0.jpg"
+      },
+      {
+        "id": "tt1316554:2:1",
+        "title": "Episodio 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2010-07-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v5WbuxDjus63F2Y43gsTKBEHkk4.jpg"
+      },
+      {
+        "id": "tt1316554:2:2",
+        "title": "Episodio 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2010-07-09",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5iRLygaZFtU2XmV9HtpWjNDdrNB.jpg"
+      },
+      {
+        "id": "tt1316554:2:3",
+        "title": "Episodio 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2010-07-16",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s72rsMKhgtBE6qrScOXXZMRsGMr.jpg"
+      },
+      {
+        "id": "tt1316554:2:4",
+        "title": "Episodio 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2010-07-23",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5sWz5O7WgxBXHlu3AmYdwMZMJYv.jpg"
+      },
+      {
+        "id": "tt1316554:2:5",
+        "title": "Episodio 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2010-07-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4OYVyanOLwY7WvkGrxGuYYLVqWi.jpg"
+      },
+      {
+        "id": "tt1316554:2:6",
+        "title": "Episodio 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2010-08-06",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/54pAdE6OyVAm3Dw9ozF4qWPJ5RV.jpg"
+      },
+      {
+        "id": "tt1316554:2:7",
+        "title": "Episodio 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2010-08-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xltRtvS3rg4rkwVZ55R26R99jCh.jpg"
+      },
+      {
+        "id": "tt1316554:2:8",
+        "title": "Episodio 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2010-08-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uPTInNoEGzn6qGjxfURk8HBqvxV.jpg"
+      },
+      {
+        "id": "tt1316554:2:9",
+        "title": "Episodio 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2010-08-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gwKuVQLjnr5c3UtTWejzmSzYgZ6.jpg"
+      },
+      {
+        "id": "tt1316554:2:10",
+        "title": "Episodio 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2010-09-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/s9Pnb0LHU8sTZjeZrfAfPDa4k2.jpg"
+      },
+      {
+        "id": "tt1316554:2:11",
+        "title": "Episodio 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2010-09-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fJvB3z58McFPs3Coa1OCeKq49Xv.jpg"
+      },
+      {
+        "id": "tt1316554:2:12",
+        "title": "Episodio 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2010-09-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/u7rXbt78LHrdYLta6q9H4Hr2dZT.jpg"
+      },
+      {
+        "id": "tt1316554:3:1",
+        "title": "Episodio 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2014-07-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tg7F7SIJlYvxRor4AyaMGQTC1kB.jpg"
+      },
+      {
+        "id": "tt1316554:3:2",
+        "title": "Episodio 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2014-07-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cozMb7zhqkUEIeM0Xh5SEpEw6F0.jpg"
+      },
+      {
+        "id": "tt1316554:3:3",
+        "title": "Episodio 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2014-07-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iL38sYpNrEsed29ZqoaPI0WPxp5.jpg"
+      },
+      {
+        "id": "tt1316554:3:4",
+        "title": "Episodio 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2014-08-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tXVNuJIUyBCZsEGEFr2e0OQKfBY.jpg"
+      },
+      {
+        "id": "tt1316554:3:5",
+        "title": "Episodio 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2014-08-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/coEwQZVE4AwGn9DscJLWOAJVcJq.jpg"
+      },
+      {
+        "id": "tt1316554:3:6",
+        "title": "Episodio 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2014-08-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/70dt2R0wh61Jz5pyol2ZuYafrsq.jpg"
+      },
+      {
+        "id": "tt1316554:3:7",
+        "title": "Episodio 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2014-08-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9KWi73s2DzFbK74UwDhVVrXsMBV.jpg"
+      },
+      {
+        "id": "tt1316554:3:8",
+        "title": "Episodio 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2014-08-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7TIZqFTrgwYfNNc0EzTZ01vQwEo.jpg"
+      },
+      {
+        "id": "tt1316554:3:9",
+        "title": "Episodio 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2014-09-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/c72jrNU0RTtJa8jw7Lpbpr2eGud.jpg"
+      },
+      {
+        "id": "tt1316554:3:10",
+        "title": "Episodio 10",
+        "season": 3,
+        "episode": 10,
+        "released": "2014-09-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4xnOsQ99dn9QNEBgtVBiAeUCUOR.jpg"
+      },
+      {
+        "id": "tt1316554:4:1",
+        "title": "Episodio 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2024-04-13",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jhBbcsuEj70d3d8RjJhTuoTz1CJ.jpg"
+      },
+      {
+        "id": "tt1316554:4:2",
+        "title": "Episodio 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2024-04-20",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ve3HkK0v46kcfevrE4zLcVvW3Je.jpg"
+      },
+      {
+        "id": "tt1316554:4:3",
+        "title": "Episodio 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2024-04-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1e2N1XBorJ9dNmCXpoMEdrIthr0.jpg"
+      },
+      {
+        "id": "tt1316554:4:4",
+        "title": "Episodio 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2024-05-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aBPjzBRUs4sjRPyJGsumm7K0cGu.jpg"
+      },
+      {
+        "id": "tt1316554:4:5",
+        "title": "Episodio 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2024-05-11",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lPOOSRdrEcikCsh5xwNdoJXf2SY.jpg"
+      },
+      {
+        "id": "tt1316554:4:6",
+        "title": "Episodio 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2024-05-18",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5t3eqjVEXcwzA8Ij7TFLZGHcO4Z.jpg"
+      },
+      {
+        "id": "tt1316554:4:7",
+        "title": "Episodio 7",
+        "season": 4,
+        "episode": 7,
+        "released": "2024-05-25",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/prwCkcwW1Y9NZNgFiPanxOPoDQ6.jpg"
+      },
+      {
+        "id": "tt1316554:4:8",
+        "title": "Episodio 8",
+        "season": 4,
+        "episode": 8,
+        "released": "2024-06-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9wQjnMqoSnOnIMyYbHbUf7EGFjb.jpg"
+      },
+      {
+        "id": "tt1316554:4:9",
+        "title": "Episodio 9",
+        "season": 4,
+        "episode": 9,
+        "released": "2024-06-08",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9IYea1QtUw4Ks1QVIJEXUvsOMBR.jpg"
+      },
+      {
+        "id": "tt1316554:4:10",
+        "title": "Episodio 10",
+        "season": 4,
+        "episode": 10,
+        "released": "2024-06-15",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hszkM4Eghh2Zqfxw0YnzUsHOoNf.jpg"
+      },
+      {
+        "id": "tt1316554:4:11",
+        "title": "Episodio 11",
+        "season": 4,
+        "episode": 11,
+        "released": "2024-06-22",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dxALhLfMzgDoKxJ1nkLaC91BCOI.jpg"
+      },
+      {
+        "id": "tt1316554:5:1",
+        "title": "Episodio 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2025-04-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m0fiVDezHV6prGokh8C6rAsiQAI.jpg"
+      },
+      {
+        "id": "tt1316554:5:2",
+        "title": "Episodio 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2025-04-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/j1Nzm2oLwXbq9YmjvdhtX9MQR0D.jpg"
+      },
+      {
+        "id": "tt1316554:5:3",
+        "title": "Episodio 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2025-04-19",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4DQ3r6SC7Fd6y5yZfjggVNpXo4v.jpg"
+      },
+      {
+        "id": "tt1316554:5:4",
+        "title": "Episodio 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2025-04-26",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8CJHDO2k1bsvLtrDqB17SdWP4s4.jpg"
+      },
+      {
+        "id": "tt1316554:5:5",
+        "title": "Episodio 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2025-05-03",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/rsGj4FmbPaT0w4j9QRYlvRTBJPl.jpg"
+      },
+      {
+        "id": "tt1316554:5:6",
+        "title": "Episodio 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2025-05-10",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/yHAAIN6GeaxVZUEdfR0UP5EtRDL.jpg"
+      },
+      {
+        "id": "tt1316554:5:7",
+        "title": "Episodio 7",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-05-17",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cJXOMQ30HIq2YQb5w6gdBGWXPmG.jpg"
+      },
+      {
+        "id": "tt1316554:5:8",
+        "title": "Episodio 8",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-05-24",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iLlmKdh0Muxpx1eY8dQxS21wwaY.jpg"
+      },
+      {
+        "id": "tt1316554:5:9",
+        "title": "Episodio 9",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-05-31",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/frtQgHppfK7Jn6GZH92lOWVb6M6.jpg"
+      },
+      {
+        "id": "tt1316554:5:10",
+        "title": "Episodio 10",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-06-07",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/y71QfqlEwBFIc4O8thFYf2HiKMl.jpg"
+      },
+      {
+        "id": "tt1316554:5:11",
+        "title": "Episodio 11",
+        "season": 5,
+        "episode": 11,
+        "released": "2025-06-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/fTJM5VaKiVjhXpktqx2wtXAQmDO.jpg"
+      },
+      {
+        "id": "tt1316554:5:12",
+        "title": "Episodio 12",
+        "season": 5,
+        "episode": 12,
+        "released": "2025-06-21",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6PaDSihlWex5b5HTv80HtZGVGQo.jpg"
+      },
+      {
+        "id": "tt1316554:5:13",
+        "title": "Episodio 13",
+        "season": 5,
+        "episode": 13,
+        "released": "2025-06-28",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/4gVshxHUsoghgMqS5oK8gHt9ilc.jpg"
+      }
+    ]
+  }
+}

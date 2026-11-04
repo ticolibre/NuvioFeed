@@ -1,0 +1,681 @@
+{
+  "meta": {
+    "id": "tt1856010",
+    "type": "series",
+    "name": "House of Cards",
+    "poster": "https://image.tmdb.org/t/p/w500/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+    "posterShape": "poster",
+    "description": "Traicionado por la Casa Blanca, Frank Underwood inicia una fiera lucha por el poder. Sus armas: chantaje y seducción.",
+    "releaseInfo": "2013",
+    "genres": [
+      "Drama"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/zoAxfThy7ntyCutBeNgdaKhRoSX.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "8.0"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt1856010:1:1",
+        "title": "Capítulo 1",
+        "season": 1,
+        "episode": 1,
+        "overview": "Frank y Claire deciden romper con todas las reglas y alianzas cuando el recién elegido presidente se niega a cumplir su promesa.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/84y60T8qT6xnLUW1M73Zy1c3Pne.jpg"
+      },
+      {
+        "id": "tt1856010:1:2",
+        "title": "Capítulo 2",
+        "season": 1,
+        "episode": 2,
+        "overview": "Frank consigue que una joven periodista publique una historia que repercute en la Casa Blanca. Por otra parte, Claire toma una decisión radical en su trabajo.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ciUOYOPKco839FIqAygLHHMZVY3.jpg"
+      },
+      {
+        "id": "tt1856010:1:3",
+        "title": "Capítulo 3",
+        "season": 1,
+        "episode": 3,
+        "overview": "Frank se aleja de las negociaciones con los sindicatos para arreglar un asunto en su distrito. Zoe enfrenta los problemas de una periodista que sube como la espuma.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ccZOvS3Bm4SJFGgRhpu9jj0x7zU.jpg"
+      },
+      {
+        "id": "tt1856010:1:4",
+        "title": "Capítulo 4",
+        "season": 1,
+        "episode": 4,
+        "overview": "Frank sacude a los líderes del Congreso. Peter Russo deberá elegir entre la política o la familia.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1BseCNuPiQHWChHbxGDz5WaBoxG.jpg"
+      },
+      {
+        "id": "tt1856010:1:5",
+        "title": "Capítulo 5",
+        "season": 1,
+        "episode": 5,
+        "overview": "Frank pelea por la Ley Educativa, que va en contra de los intereses de Claire. Zoe comienza el peligroso camino de mezclar trabajo y ocio.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l5NSUaca7PthsJDHayyG99joMTo.jpg"
+      },
+      {
+        "id": "tt1856010:1:6",
+        "title": "Capítulo 6",
+        "season": 1,
+        "episode": 6,
+        "overview": "Frank se pone en contra de los maestros huelguistas. Una confesión en el lecho de muerte toma a Claire completamente por sorpresa.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/oTvZpRnBvXjpvI69grcLzwb0LhT.jpg"
+      },
+      {
+        "id": "tt1856010:1:7",
+        "title": "Capítulo 7",
+        "season": 1,
+        "episode": 7,
+        "overview": "Frank gana una importante batalla, pero no se duerme en los laureles. Peter tendrá que enfrentar su pasado y Stamper se calla un secreto.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vj7hlPqAKTHrQxCMmp74G04VPPY.jpg"
+      },
+      {
+        "id": "tt1856010:1:8",
+        "title": "Capítulo 8",
+        "season": 1,
+        "episode": 8,
+        "overview": "Frank recibe honores de su alma mater, su universidad, mientras Peter regresa de su viaje. Ambos se encargan de aplacar un asunto sin terminar.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aQjFqJtsyySgtOt5273N2GAQIaJ.jpg"
+      },
+      {
+        "id": "tt1856010:1:9",
+        "title": "Capítulo 9",
+        "season": 1,
+        "episode": 9,
+        "overview": "Russo se lanza a la carretera con V.P. Matthews. Frank y Stamper tratan de obtener apoyo en el Congreso mientras Claire se protege.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/5O2VgTQ10iDPBEhi2xlBW2EUnCM.jpg"
+      },
+      {
+        "id": "tt1856010:1:10",
+        "title": "Capítulo 10",
+        "season": 1,
+        "episode": 10,
+        "overview": "Sublevación en todos los frentes. Claire desafía a Frank, Zoe se refugia en otra persona y Peter da un ultimátum.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/v3jUPbKmVpaH8a6Qv295qkEdhVm.jpg"
+      },
+      {
+        "id": "tt1856010:1:11",
+        "title": "Capítulo 11",
+        "season": 1,
+        "episode": 11,
+        "overview": "Claire aviva una vieja llama, Peter pelea con sus demonios y Frank llega al punto de no retorno.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tVxl2dA9O8ajENIaHhwHo69fk5y.jpg"
+      },
+      {
+        "id": "tt1856010:1:12",
+        "title": "Capítulo 12",
+        "season": 1,
+        "episode": 12,
+        "overview": "Frank debe enfrentar un contratiempo. Zoe, Lucas y Janine se acercan cada vez más a la verdad.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/gDaXcrDeIbgAm7MmRcMZ3g6PYVH.jpg"
+      },
+      {
+        "id": "tt1856010:1:13",
+        "title": "Capítulo 13",
+        "season": 1,
+        "episode": 13,
+        "overview": "Frank lucha por mantener su plan a flote. A Claire la persiguen sus decisiones pasadas y futuras. Zoe supone una grave amenaza.",
+        "released": "2013-02-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/vsuWBB8cF18VKfCAIei1htFGKkf.jpg"
+      },
+      {
+        "id": "tt1856010:2:1",
+        "title": "Capítulo 14",
+        "season": 2,
+        "episode": 1,
+        "overview": "La pareja Underwood se enfrenta a dos problemas que pueden llevarlos a la ruina. Frank prepara su reemplazo y Claire comienza su ofensiva.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/z91LQoFwhVcpeu3bZAQVIQ8B7kS.jpg"
+      },
+      {
+        "id": "tt1856010:2:2",
+        "title": "Capítulo 15",
+        "season": 2,
+        "episode": 2,
+        "overview": "Frank tiene a China en la mira. Claire se enfrenta a un trauma del pasado, mientras Lucas Goodwin presiona por la verdad.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/m8q2ieefvKyHKLhwfCFebJXlWU4.jpg"
+      },
+      {
+        "id": "tt1856010:2:3",
+        "title": "Capítulo 16",
+        "season": 2,
+        "episode": 3,
+        "overview": "La tensión aumenta entre Frank y Raymond Tusk mientras la situación en China se deteriora. Una batalla en el senado enfrenta a Frank y a los republicanos.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/24l2YvpyQct1tEa9mQiPJu33Pwe.jpg"
+      },
+      {
+        "id": "tt1856010:2:4",
+        "title": "Capítulo 17",
+        "season": 2,
+        "episode": 4,
+        "overview": "Frank queda atrapado con un resentido Donald Blythe durante una emergencia en el Capitolio. Claire realiza una entrevista en vivo que provoca un terremoto mediático.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/lPprjEmxdRE2nNQy1AzG8tFEAh1.jpg"
+      },
+      {
+        "id": "tt1856010:2:5",
+        "title": "Capítulo 18",
+        "season": 2,
+        "episode": 5,
+        "overview": "Frank negocia extraoficialmente con un multimillonario chino. Lucas busca destapar al vicepresidente mientras un nuevo miembro llega al equipo Underwood.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/3d9v7vXp1e9EoVKB3mwZc3mXBih.jpg"
+      },
+      {
+        "id": "tt1856010:2:6",
+        "title": "Capítulo 19",
+        "season": 2,
+        "episode": 6,
+        "overview": "En medio de una crisis energética, Frank y Tusk deshacen su ya delicada alianza. Lucas debe tomar una importante decisión y Stamper se acerca cada vez más a Rachel.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mtgMfDZ6ljzYMIqzaojoZTzhKol.jpg"
+      },
+      {
+        "id": "tt1856010:2:7",
+        "title": "Capítulo 20",
+        "season": 2,
+        "episode": 7,
+        "overview": "A pesar de algunos enfrentamientos, los Walker estrechan sus relaciones con los Underwood. Pero la guerra continua entre Frank y Tusk.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/czCMtso3Q1ZmKBnryMjIvP6CQQe.jpg"
+      },
+      {
+        "id": "tt1856010:2:8",
+        "title": "Capítulo 21",
+        "season": 2,
+        "episode": 8,
+        "overview": "La guerra contra Tusk se intensifica mientras Claire influencia a Tricia Walker tanto política como personalmente.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/7rvGPOhfKWOUSQRl96OGtE0SmWh.jpg"
+      },
+      {
+        "id": "tt1856010:2:9",
+        "title": "Capítulo 22",
+        "season": 2,
+        "episode": 9,
+        "overview": "Un escándalo convierte en personal la guerra entre Tusk y los Underwood. Freddy y su barbacoa están en el mismo medio.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/nLfMbhVy4iucq2fUN039roQfUOd.jpg"
+      },
+      {
+        "id": "tt1856010:2:10",
+        "title": "Capítulo 23",
+        "season": 2,
+        "episode": 10,
+        "overview": "Frank quiere acabar con Tusk para siempre, mientras Claire y Jackie Sharp se enfrentan.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/afyuq0jXHjYVjlzj2Tl1I0YvZDq.jpg"
+      },
+      {
+        "id": "tt1856010:2:11",
+        "title": "Capítulo 24",
+        "season": 2,
+        "episode": 11,
+        "overview": "Frank es interrogado por un fiscal especial. Remy Danton intenta mantener opciones a su mano y Stamper se pelea con sus demonios.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/grwrv79vDn0w8UrQhcBNe9kTTK7.jpg"
+      },
+      {
+        "id": "tt1856010:2:12",
+        "title": "Capítulo 25",
+        "season": 2,
+        "episode": 12,
+        "overview": "Frank se encuentra fuera de acción y Claire se sacrifica. Stamper lucha por conseguir el control de nuevo.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/f3R8OI96qFR3YMLGuU9W7hkTYbA.jpg"
+      },
+      {
+        "id": "tt1856010:2:13",
+        "title": "Capítulo 26",
+        "season": 2,
+        "episode": 13,
+        "overview": "Frank se enfrenta a la aniquilación, mientras Stamper debe atar los cabos sueltos. Claire paga el precio de la crueldad.",
+        "released": "2014-02-14",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/eED02PqgQFR9aePrwfm5J24bfEw.jpg"
+      },
+      {
+        "id": "tt1856010:3:1",
+        "title": "Capítulo 27",
+        "season": 3,
+        "episode": 1,
+        "overview": "Tras un inicio difícil para la presidencia de Underwood, Frank planea un ambicioso programa de empleo y Claire tiene a las Naciones Unidas en la mira.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2gNNgW8xXmRoHnsXunVFj25mMMn.jpg"
+      },
+      {
+        "id": "tt1856010:3:2",
+        "title": "Capítulo 28",
+        "season": 3,
+        "episode": 2,
+        "overview": "La candidatura de Claire se tambalea. Frank repele un motín con un audaz llamado al país.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tL5Lc6GVS5KVzdnyWPxjVF8D3YA.jpg"
+      },
+      {
+        "id": "tt1856010:3:3",
+        "title": "Capítulo 29",
+        "season": 3,
+        "episode": 3,
+        "overview": "La visita de Estado del presidente de Rusia se convierte en una guerra fría de voluntades, aun cuando ciertos rebeldes caldean los ánimos.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/hxSlmvv4rIwOicW676WKDN5jbw.jpg"
+      },
+      {
+        "id": "tt1856010:3:4",
+        "title": "Capítulo 30",
+        "season": 3,
+        "episode": 4,
+        "overview": "Claire logra evadir a Rusia en la ONU, mientras Frank intenta aventajar a un contrincante y termina cara a cara con un poder superior.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/feCub9gamQSMsdx9AkEQgO8TrLg.jpg"
+      },
+      {
+        "id": "tt1856010:3:5",
+        "title": "Capítulo 31",
+        "season": 3,
+        "episode": 5,
+        "overview": "Frank le declara la guerra al Congreso para poder arrancar su programa de empleos. Claire discute con el embajador ruso.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l1Sd4Duk0SIxhytd7KeWj9Mb3EX.jpg"
+      },
+      {
+        "id": "tt1856010:3:6",
+        "title": "Capítulo 32",
+        "season": 3,
+        "episode": 6,
+        "overview": "Frank y Claire viajan a Moscú para negociar la liberación de un ciudadano estadounidense. Claire asume una postura que arriesga los planes de ambos.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e0bU22Y3Vm2Yr0Q2WzsJtAJea5S.jpg"
+      },
+      {
+        "id": "tt1856010:3:7",
+        "title": "Capítulo 33",
+        "season": 3,
+        "episode": 7,
+        "overview": "El daño está hecho y los Underwood deben remediarlo. Pero las heridas no sanan rápido y a veces no lo hacen nunca.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x2H1GiRP8dYJjDGzDlrjdNlnIpN.jpg"
+      },
+      {
+        "id": "tt1856010:3:8",
+        "title": "Capítulo 34",
+        "season": 3,
+        "episode": 8,
+        "overview": "Un huracán amenaza más que la costa Este del país. Frank debe tomar una decisión muy difícil.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1WRs1GTO8jp5sVNboR0Kg9KPNBr.jpg"
+      },
+      {
+        "id": "tt1856010:3:9",
+        "title": "Capítulo 35",
+        "season": 3,
+        "episode": 9,
+        "overview": "Estalla el caos en el valle del Jordán justo cuando la campaña de Frank empieza a tomar impulso. Claire recibe información inquietante y lo asesora.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pCNZMCI3J51O2HfJdjk81ctihSO.jpg"
+      },
+      {
+        "id": "tt1856010:3:10",
+        "title": "Capítulo 36",
+        "season": 3,
+        "episode": 10,
+        "overview": "Frank debe enfrentar personalmente a Petrov mientras Claire intenta preservar la misión para mantener la paz. Se deberán hacer muchos sacrificios.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/mLfR2irG1pL83XhqHzAholTdDIK.jpg"
+      },
+      {
+        "id": "tt1856010:3:11",
+        "title": "Capítulo 37",
+        "season": 3,
+        "episode": 11,
+        "overview": "Todo se complica cuando Frank, Jackie y Heather se enfrentan en el primer debate. Tom se une a Claire en la campaña electoral.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/n32TwwAv6Tplb3AsHz4dA0KUSAD.jpg"
+      },
+      {
+        "id": "tt1856010:3:12",
+        "title": "Capítulo 38",
+        "season": 3,
+        "episode": 12,
+        "overview": "Heather Dunbar va por la yugular, forzando a Claire a enfrentar sus peores temores. Frank y Claire se distancian cada vez más.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/uj78KJ8K9SyMYgSMdxCFhky1pqm.jpg"
+      },
+      {
+        "id": "tt1856010:3:13",
+        "title": "Capítulo 39",
+        "season": 3,
+        "episode": 13,
+        "overview": "Durante las reuniones de electores de Iowa, Frank y Claire deben enfrentar duras verdades mutuas.",
+        "released": "2015-02-27",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2WHN2XkL1kTsCrdeIRcS9YwBx9b.jpg"
+      },
+      {
+        "id": "tt1856010:4:1",
+        "title": "Capítulo 40",
+        "season": 4,
+        "episode": 1,
+        "overview": "La ausencia de Claire se hace evidente durante la campaña de Frank y genera problemas tras los rumores de su separación.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aBRHJaIdUCuvpdyBFT2vmolivhw.jpg"
+      },
+      {
+        "id": "tt1856010:4:2",
+        "title": "Capítulo 41",
+        "season": 4,
+        "episode": 2,
+        "overview": "Claire piensa en su propia campaña mientras realiza movimientos estratégicos con Frank. Pero esta vez, no tienen los mismos intereses.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tVhVriRNt2xnCTAdKvpBNPOAHiV.jpg"
+      },
+      {
+        "id": "tt1856010:4:3",
+        "title": "Capítulo 42",
+        "season": 4,
+        "episode": 3,
+        "overview": "Claire se reúne con Frank en Carolina del Sur, pero él no confía en ella. Un escándalo opaca la campaña durante la elección primaria.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xodFyCDBVa4zjzEf37poflRSk4N.jpg"
+      },
+      {
+        "id": "tt1856010:4:4",
+        "title": "Capítulo 43",
+        "season": 4,
+        "episode": 4,
+        "overview": "Claire amenaza a Frank, y este toma una decisión que podría afectar su relación con Rusia. Un incidente durante la campaña lo cambia todo.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/cWtYBHuXvq6Ln7PuJUcoMRCOeRj.jpg"
+      },
+      {
+        "id": "tt1856010:4:5",
+        "title": "Capítulo 44",
+        "season": 4,
+        "episode": 5,
+        "overview": "Claire aconseja a Donald Blythe sobre Petrov. La investigación de Lucas Goodwin deja en evidencia las acusaciones contra Frank.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6SOT8a8LyYryetkJu6e8XS9jcjO.jpg"
+      },
+      {
+        "id": "tt1856010:4:6",
+        "title": "Capítulo 45",
+        "season": 4,
+        "episode": 6,
+        "overview": "Al involucrarse en las negociaciones con Rusia, Claire entra en conflicto con la secretaria de Estado. Dunbar debe elegir entre su campaña y su ética.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/9q6yyuAUWB2roAROftI6MJ1ZSKB.jpg"
+      },
+      {
+        "id": "tt1856010:4:7",
+        "title": "Capítulo 46",
+        "season": 4,
+        "episode": 7,
+        "overview": "Mientras los Underwood se adaptan a la situación, Frank reflexiona sobre los candidatos a la vicepresidencia e intenta debilitar la campaña de Conway.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A8PGgUxcCUUtXYMH3RiLhWRumLX.jpg"
+      },
+      {
+        "id": "tt1856010:4:8",
+        "title": "Capítulo 47",
+        "season": 4,
+        "episode": 8,
+        "overview": "Los astutos Underwood dejan clara su ambición cuando intentan manipular a un posible candidato y promueven su iniciativa de armas.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w9QdJLpENrJC1vVViRLdCDj6DHr.jpg"
+      },
+      {
+        "id": "tt1856010:4:9",
+        "title": "Capítulo 48",
+        "season": 4,
+        "episode": 9,
+        "overview": "Frank apoya públicamente la candidatura de Catherine Durant a la vicepresidencia, sin embargo, sus planes son muy distintos.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/al9EvPl9huoVdAnTlYj9RlNAr4E.jpg"
+      },
+      {
+        "id": "tt1856010:4:10",
+        "title": "Capítulo 49",
+        "season": 4,
+        "episode": 10,
+        "overview": "Frank tiene que esquivar un obstáculo más en su candidatura, pero Claire cuestiona sus planes; además tiene que tomar una decisión difícil sobre su madre.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pLarLmlsGWE0kgK7UWB2z3NCPl7.jpg"
+      },
+      {
+        "id": "tt1856010:4:11",
+        "title": "Capítulo 50",
+        "season": 4,
+        "episode": 11,
+        "overview": "Para contrarrestar la campaña Conway, Frank es tajante en su postura contra el terrorismo. Tom acompaña a Claire durante la campaña.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wOJ3lE3aoAKWpdsJWDYaxeNV0XI.jpg"
+      },
+      {
+        "id": "tt1856010:4:12",
+        "title": "Capítulo 51",
+        "season": 4,
+        "episode": 12,
+        "overview": "Bajo la amenaza de los extremistas, Frank le pide a Will lidiar con la situación. Hammerschmidt investiga a profundidad las acusaciones contra Frank.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8u5D1m70rE0GUGOgcW3cOVPgjHX.jpg"
+      },
+      {
+        "id": "tt1856010:4:13",
+        "title": "Capítulo 52",
+        "season": 4,
+        "episode": 13,
+        "overview": "Mientras continúa la delicada situación con los rehenes, Claire hace una negociación secreta. Frank enfrenta a Hammerschmidt.",
+        "released": "2016-03-04",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bOSRKC4CBpgKR4xb7lkNfZUbheC.jpg"
+      },
+      {
+        "id": "tt1856010:5:1",
+        "title": "Capítulo 53",
+        "season": 5,
+        "episode": 1,
+        "overview": "Mientras el Congreso se plantea investigar a Frank, los Underwood intentan reavivar el miedo al terrorismo. Tom Yates continúa con su estadía en la Casa Blanca.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Xn58CmmTOHnzxOUK1VvuoyYrjR.jpg"
+      },
+      {
+        "id": "tt1856010:5:2",
+        "title": "Capítulo 54",
+        "season": 5,
+        "episode": 2,
+        "overview": "Frank y su equipo tratan de ganarse el apoyo de los estados claves. Por otra parte, Claire recibe malas noticias de un amigo de Frank.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6dQYl0NPFSwXvbv8JfMmxmcZ0V5.jpg"
+      },
+      {
+        "id": "tt1856010:5:3",
+        "title": "Capítulo 55",
+        "season": 5,
+        "episode": 3,
+        "overview": "Un día antes de las elecciones, Conway hace una sesión online de 24 horas con los votantes, y Frank y Claire intentan desacreditarlo mientras visitan los estados claves.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/A3SE9uT3RmdCUibnWU9LOkf9eB3.jpg"
+      },
+      {
+        "id": "tt1856010:5:4",
+        "title": "Capítulo 56",
+        "season": 5,
+        "episode": 4,
+        "overview": "La elección está muy reñida y hay poca convocatoria en las urnas. El panorama se ve negro, pero Frank todavía tiene un as bajo la manga...",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wqBIFrlV4EeZGxbsBKKL8MTvFbC.jpg"
+      },
+      {
+        "id": "tt1856010:5:5",
+        "title": "Capítulo 57",
+        "season": 5,
+        "episode": 5,
+        "overview": "Pasaron nueve semanas de las elecciones, y los Underwood buscan consolidar su poder. Entretanto, LeAnn intenta ubicar a Aidan Macallan.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/dRi75KIvck74TjqRAdluwWZRKX3.jpg"
+      },
+      {
+        "id": "tt1856010:5:6",
+        "title": "Capítulo 58",
+        "season": 5,
+        "episode": 6,
+        "overview": "Fuerzas desconocidas toman una estación estadounidense en la Antártida, y se filtra información que podría dañar a Frank.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/jTry9NWJOrF33vBjJTmnmMHvDNZ.jpg"
+      },
+      {
+        "id": "tt1856010:5:7",
+        "title": "Capítulo 59",
+        "season": 5,
+        "episode": 7,
+        "overview": "Mientras el personal de la Casa Blanca se refugia en un búnker por una amenaza, la subsecretaria de Comercio Jane Davis hace negociaciones extraoficiales.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1Qf2vfDj2DVdAnexu6PMNsUji1e.jpg"
+      },
+      {
+        "id": "tt1856010:5:8",
+        "title": "Capítulo 60",
+        "season": 5,
+        "episode": 8,
+        "overview": "Frank busca apoyo entre los hombres más poderosos del país, y Claire se enfrenta a un barco ruso varado y a las amenazas de Petrov.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/iF36sfyjNGzVWBBMZ16hmOcWe8C.jpg"
+      },
+      {
+        "id": "tt1856010:5:9",
+        "title": "Capítulo 61",
+        "season": 5,
+        "episode": 9,
+        "overview": "Petrov intenta influir en las decisiones de EE. UU. Jane se reúne con Claire. LeAnn acude a una periodista cuando su puesto pende de un hilo.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/6iPiSM8syysd8zpkGGAbiWhbbeq.jpg"
+      },
+      {
+        "id": "tt1856010:5:10",
+        "title": "Capítulo 62",
+        "season": 5,
+        "episode": 10,
+        "overview": "Los Underwood y su equipo intentan socavar al comité que investiga a Frank. Por otro lado, la investigación de Hammerschmidt se intensifica.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2SxvMgTT5ypTqhpXtkniw5h74SS.jpg"
+      },
+      {
+        "id": "tt1856010:5:11",
+        "title": "Capítulo 63",
+        "season": 5,
+        "episode": 11,
+        "overview": "Todos están bajo la lupa mientras el equipo trata de controlar los efectos de las filtraciones y declaraciones, y crecen las tensiones entre Frank y Claire.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/wNzFCt5jYWv1xkXCTRVScA6v6mr.jpg"
+      },
+      {
+        "id": "tt1856010:5:12",
+        "title": "Capítulo 64",
+        "season": 5,
+        "episode": 12,
+        "overview": "Frank trata de convencer a Cathy. Con Hammerschmidt mordiéndoles los talones, los Underwood sacrifican a alguien muy cercano.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/8QTtCMqMY5u9CMFNrTYSBlWgrNV.jpg"
+      },
+      {
+        "id": "tt1856010:5:13",
+        "title": "Capítulo 65",
+        "season": 5,
+        "episode": 13,
+        "overview": "Un anuncio sorprendente sacude la Casa Blanca. Declarar la guerra es una posibilidad.",
+        "released": "2017-05-30",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/bOi7rBg2yPkDtVcxN1hy8tgcxuJ.jpg"
+      },
+      {
+        "id": "tt1856010:6:1",
+        "title": "Capítulo 66",
+        "season": 6,
+        "episode": 1,
+        "overview": "La primera mujer presidenta está bajo la lupa esquivando amenazas, mientras los poderosos hermanos Annette y Bill Shepherd intentan mover los hilos de la política.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/qtsv3uWX8MMOsBaFwtyE9sxVvBY.jpg"
+      },
+      {
+        "id": "tt1856010:6:2",
+        "title": "Capítulo 67",
+        "season": 6,
+        "episode": 2,
+        "overview": "Claire choca contra los Shepherd y Mark Usher, que la hostigan para firmar una ley. Doug toma una decisión inesperada.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/ggZQJTQDhptpcaAfbiZx73InNYe.jpg"
+      },
+      {
+        "id": "tt1856010:6:3",
+        "title": "Capítulo 68",
+        "season": 6,
+        "episode": 3,
+        "overview": "Los Shepherd presionan a la presidenta para una nominación en la Corte Suprema. Doug busca otra salida. Claire consulta a Jane sobre Siria.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1MygPdHhGE69hAu9FVcw8YIkt7j.jpg"
+      },
+      {
+        "id": "tt1856010:6:4",
+        "title": "Capítulo 69",
+        "season": 6,
+        "episode": 4,
+        "overview": "El presidente ruso Viktor Petrov quiere hacer un trato con Claire en medio de la creciente crisis en Siria. Surgen preguntas sobre el paradero de Tom Yates.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2MxXbG4o562vru2WAW6Jjg2YTGo.jpg"
+      },
+      {
+        "id": "tt1856010:6:5",
+        "title": "Capítulo 70",
+        "season": 6,
+        "episode": 5,
+        "overview": "Claire deja que sus enemigos crean que no puede cumplir con su deber mientras planean destituirla. La investigación de Doug lo conduce a revelar un secreto.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w9JJ2llwULkBuwSJWGR3s5y8qPA.jpg"
+      },
+      {
+        "id": "tt1856010:6:6",
+        "title": "Capítulo 71",
+        "season": 6,
+        "episode": 6,
+        "overview": "Claire hace cambios en el personal. Los Shepherd tratan de que Doug juegue para su lado. Jane le ofrece consejos a Mark, que está bajo escrutinio.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/xTZBFVSb46xWQK6gNQhgUohVNUg.jpg"
+      },
+      {
+        "id": "tt1856010:6:7",
+        "title": "Capítulo 72",
+        "season": 6,
+        "episode": 7,
+        "overview": "Los Shepherd tratan de quitarle poder a Claire. Doug desaparece del mapa, pero no pierde de vista su objetivo.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/b2Ye45kpZn1Y76rJBW1oDaPHaSl.jpg"
+      },
+      {
+        "id": "tt1856010:6:8",
+        "title": "Capítulo 73",
+        "season": 6,
+        "episode": 8,
+        "overview": "Claire intenta manchar el legado de Frank, y Doug la provoca sacando a la luz fragmentos del diario del expresidente. Se abre una grieta entre los Shepherd.",
+        "released": "2018-11-02",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/aLwAEjt9TpuVylQ14SvMagqXZE8.jpg"
+      }
+    ]
+  }
+}

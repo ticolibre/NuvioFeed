@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "tt26598805",
+    "type": "series",
+    "name": "Nocturno",
+    "poster": "https://image.tmdb.org/t/p/w500/iyZbDfI9fdHXT92H475wM0d6kRm.jpg",
+    "posterShape": "poster",
+    "description": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino.",
+    "releaseInfo": "2026",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "background": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.6"
+        }
+      }
+    },
+    "videos": [
+      {
+        "id": "tt26598805:1:1",
+        "title": "¡Lázaro, levántate!",
+        "season": 1,
+        "episode": 1,
+        "overview": "Un niño desaparecido regresa después de tres años y reinicia la búsqueda por su hermana.",
+        "released": "2026-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/x74TmfI68ZgYePLQQ4HVuawGMAi.jpg"
+      },
+      {
+        "id": "tt26598805:1:2",
+        "title": "En tiempos como estos",
+        "season": 1,
+        "episode": 2,
+        "overview": "El descubrimiento de un viejo cómplice cambia el caso. Saga se propone como agente encubierto.",
+        "released": "2026-10-29",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/e7INUYmf1ZXQwYiH77orh2h09BQ.jpg"
+      },
+      {
+        "id": "tt26598805:1:3",
+        "title": "Ojos en el interior",
+        "season": 1,
+        "episode": 3,
+        "overview": "Saga pierde las comunicaciones y debe ser creativa. Jonah investiga un símbolo críptico.",
+        "released": "2026-11-05",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/zb9wrAzO5GV8Cx62Mi95K91VoOE.jpg"
+      },
+      {
+        "id": "tt26598805:1:4",
+        "title": "Episodio 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-11-12",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/w3Oo4kJuuS1H26iBzCLPiRyLZ9W.jpg"
+      },
+      {
+        "id": "tt26598805:1:5",
+        "title": "Episodio 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-11-19"
+      },
+      {
+        "id": "tt26598805:1:6",
+        "title": "Episodio 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-11-26"
+      },
+      {
+        "id": "tt26598805:1:7",
+        "title": "Episodio 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-12-03"
+      },
+      {
+        "id": "tt26598805:1:8",
+        "title": "Episodio 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-12-10"
+      },
+      {
+        "id": "tt26598805:1:9",
+        "title": "Episodio 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-12-17"
+      },
+      {
+        "id": "tt26598805:1:10",
+        "title": "Episodio 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-12-24"
+      }
+    ]
+  }
+}

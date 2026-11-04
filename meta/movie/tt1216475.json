@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt1216475",
+    "type": "movie",
+    "name": "Cars 2",
+    "poster": "https://image.tmdb.org/t/p/w500/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/robYRZk9LxJTwD7GlZCginji5k.jpg",
+    "description": "El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.",
+    "releaseInfo": "2011",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Aventura",
+      "Comedia"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "6.2"
+        }
+      }
+    }
+  }
+}

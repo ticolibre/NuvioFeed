@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0089927",
+    "type": "movie",
+    "name": "Rocky IV",
+    "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/uiUb4KJ6tadldqlJme49TW1r3jA.jpg",
+    "description": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
+    "releaseInfo": "1985",
+    "genres": [
+      "Drama",
+      "Acción"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.1"
+        }
+      }
+    }
+  }
+}

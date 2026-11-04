@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt1477715",
+    "type": "movie",
+    "name": "This Is It",
+    "poster": "https://image.tmdb.org/t/p/w500/a7nyJrfaI4lHyPDh4ptecylfqD7.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/mqAuLsN6oOme6lSKoTb6yyP4U8E.jpg",
+    "description": "Una compilación de entrevistas, ensayos y metraje de entre bastidores de Michael Jackson ya que se preparó para su serie de espectáculos vendidos en Londres.",
+    "releaseInfo": "2009",
+    "genres": [
+      "Música",
+      "Documental"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.4"
+        }
+      }
+    }
+  }
+}

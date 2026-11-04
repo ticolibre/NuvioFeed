@@ -1,0 +1,1762 @@
+{
+  "metas": [
+    {
+      "id": "tt14905854",
+      "type": "movie",
+      "name": "Hamnet",
+      "poster": "https://image.tmdb.org/t/p/w500/qXF968t2LfHZJ8Zrq2NgMGNomnE.jpg",
+      "posterShape": "poster",
+      "description": "Agnes y su esposo William Shakespeare luchan por superar la pérdida de su único hijo, Hamnet.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8999762",
+      "type": "movie",
+      "name": "El brutalista",
+      "poster": "https://image.tmdb.org/t/p/w500/zOHNOv5JHzDjDXt24mM9aSXKpSU.jpg",
+      "posterShape": "poster",
+      "description": "Tras escapar de la Europa de posguerra, el visionario arquitecto László Tóth llega a Estados Unidos para reconstruir su vida, su trabajo y su matrimonio con su esposa Erzsébet, tras verse obligados a separarse durante la guerra por el cambio de fronteras y regímenes. László se establece en Pensilvania, donde el rico y destacado industrial Harrison Lee Van Buren reconoce su talento para la construcción.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt15398776",
+      "type": "movie",
+      "name": "Oppenheimer",
+      "poster": "https://image.tmdb.org/t/p/w500/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "posterShape": "poster",
+      "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt14208870",
+      "type": "movie",
+      "name": "Los Fabelman",
+      "poster": "https://image.tmdb.org/t/p/w500/wcgPDyvKkgo2agNXcdE1eXLGzmf.jpg",
+      "posterShape": "poster",
+      "description": "A finales de la década de 1950 y principios de los años 60, un niño de Arizona llamado Sammy Fabelman, influido por su excéntrica madre artista y su pragmático padre ingeniero informático, descubre un secreto familiar devastador y explora cómo el poder de las películas puede ayudarlo a contar historias y a forjar su propia identidad.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt9770150",
+      "type": "movie",
+      "name": "Nomadland",
+      "poster": "https://image.tmdb.org/t/p/w500/6CFE3b0iHmv3m2cRrmBXHIP2vhv.jpg",
+      "posterShape": "poster",
+      "description": "Después de haberlo perdido todo por culpa de la crisis económica, una mujer de Nevada emprende un viaje por el oeste estadounidense en una casa rodante. Ella desea explorar un estilo de vida nómada, alejado de las convenciones sociales.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt10293406",
+      "type": "movie",
+      "name": "El Poder Del Perro",
+      "poster": "https://image.tmdb.org/t/p/w500/1l9aOf6vL01NAiljwDczv3YlwHN.jpg",
+      "posterShape": "poster",
+      "description": "Un hacendado dominante pero carismático emprende una cruel guerra contra la nueva esposa de su hermano y su hijo... Hasta que viejos secretos salen a la luz.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt8579674",
+      "type": "movie",
+      "name": "1917",
+      "poster": "https://image.tmdb.org/t/p/w500/aeCHv2Cwmum1Wc8a4NiGogdDDoA.jpg",
+      "posterShape": "poster",
+      "description": "En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield y Blake reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Bélica",
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1727824",
+      "type": "movie",
+      "name": "Bohemian Rhapsody",
+      "poster": "https://image.tmdb.org/t/p/w500/gk6IErM0acV6HJRwKZy8ecBoddc.jpg",
+      "posterShape": "poster",
+      "description": "Freddie Mercury desafía los estereotipos y se convierte en uno de los vocalistas más reconocidos de la música mundial. Después de dejar la banda Queen para seguir una carrera como solista, Mercury se reúne con la banda para dar una de las mejores actuaciones en la historia del rock and roll.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Música",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt5027774",
+      "type": "movie",
+      "name": "Tres anuncios por un crimen",
+      "poster": "https://image.tmdb.org/t/p/w500/54fz9hyM3ODZ7mXyFVjDkealVKk.jpg",
+      "posterShape": "poster",
+      "description": "Mildred Hayes , una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la Policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denunciando la situación y señalando al jefe de policía, William Willoughby, como responsable principal de la pasividad policial.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt4975722",
+      "type": "movie",
+      "name": "Luz de luna",
+      "poster": "https://image.tmdb.org/t/p/w500/xVzMkuXkRrmfYSYTzBCCJlj990Y.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/w1280/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+      "description": "La historia sensible, angustiosa de un joven que se esfuerza por encontrarse, contada a través de tres capítulos definitorios en su vida, ya que experimenta el éxtasis, el dolor y la belleza de enamorarse, mientras lucha cuerpo a cuerpo con su propia sexualidad.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1663202",
+      "type": "movie",
+      "name": "Revenant: El renacido",
+      "poster": "https://image.tmdb.org/t/p/w500/xDWCJg0Ax29j5D5CM5c5suLKPLJ.jpg",
+      "posterShape": "poster",
+      "description": "Un fronterizo en una expedición de comercio de pieles en la década de 1820 lucha por la supervivencia después de haber sido atacado por un oso y dejado por muerto por los miembros de su propio equipo de caza.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Western",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1065073",
+      "type": "movie",
+      "name": "Boyhood: Momentos de una vida",
+      "poster": "https://image.tmdb.org/t/p/w500/7wB1OG7YrJRolO74PhvzikeWVCv.jpg",
+      "posterShape": "poster",
+      "description": "Desde los 6 hasta los 18 años, muestra un íntimo viajé en la vida de Mason. Pero a medida que crece con el tiempo, se produce todo tipo de cambios.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt2024544",
+      "type": "movie",
+      "name": "12 Años de Esclavitud",
+      "poster": "https://image.tmdb.org/t/p/w500/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg",
+      "posterShape": "poster",
+      "description": "En los Estados Unidos de antes de la guerra, Solomon Northup, un hombre negro libre del norte del estado de Nueva York, es secuestrado y vendido como esclavo.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1024648",
+      "type": "movie",
+      "name": "Argo",
+      "poster": "https://image.tmdb.org/t/p/w500/j1sBm1fZUhlFW5Qe0238H1LjDwA.jpg",
+      "posterShape": "poster",
+      "description": "Encubierto como productor de Hollywood, Un agente de la CIA emprende una peligrosa misión para rescatar a seis Estadounidenses durante la crisis de rehenes en Irán.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1033575",
+      "type": "movie",
+      "name": "Los descendientes",
+      "poster": "https://image.tmdb.org/t/p/w500/5pEIZT8uhW0jInLywrStNmj8N0w.jpg",
+      "posterShape": "poster",
+      "description": "Matt King, casado y padre de dos niñas, se ve obligado a replantearse la vida cuando su mujer sufre un terrible accidente que la deja en coma. Intenta torpemente recomponer la relación con sus problemáticas hijas -la precoz Scottie, de 10 años, y la rebelde Alexandra, de 17- al tiempo que se enfrenta a la difícil decisión de vender las propiedades de la familia. Herederos de la realeza hawaiana y de los misioneros, los King poseen en Hawai tierras vírgenes de un valor incalculable.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/afC5IhoNZb8MqDHuiWOAcLjqi6b.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1285016",
+      "type": "movie",
+      "name": "Red Social",
+      "poster": "https://image.tmdb.org/t/p/w500/tnkqSGo8jV2JE8SwTwWmp91bag4.jpg",
+      "posterShape": "poster",
+      "description": "Durante una noche de otoño de 2003, el genio de la programación de computación de la Universidad de Harvard, Mark Zuckerberg, se sienta en su computadora y comienza a trabajar en una nueva idea: una red social global. A sólo seis años y 500 millones de amigos más tarde, Mark es el multimillonario más joven de la historia... pero también su éxito conduce a complicaciones tanto personales como legales.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0499549",
+      "type": "movie",
+      "name": "Avatar",
+      "poster": "https://image.tmdb.org/t/p/w500/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
+      "posterShape": "poster",
+      "description": "Jake Sully, un soldado parapléjico, ha sido designado para ir a la luna Pandora, habitado por una raza de humanoides extraterrestres inteligentes llamados Los Na'vi, en una misión única a través de un avatar.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt1010048",
+      "type": "movie",
+      "name": "Quisiera Ser Millonario",
+      "poster": "https://image.tmdb.org/t/p/w500/gLXXzIynvst1lvcoQraaHWQKT6N.jpg",
+      "posterShape": "poster",
+      "description": "Un adolescente de Mumbai reflexiona sobre su vida después de ser acusado de engañar a la versión india de «¿Quién quiere ser millonario?».",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0783233",
+      "type": "movie",
+      "name": "Expiación, deseo y pecado",
+      "poster": "https://image.tmdb.org/t/p/w500/cVOfYUTJ2sGlwXaAtJxuKq5sUaN.jpg",
+      "posterShape": "poster",
+      "description": "La escritora novata Briony Tallis, de trece años, cambia irrevocablemente el curso de varias vidas cuando acusa al amante de su hermana mayor de un crimen.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ffKYRCEVOzpb5y4tA7VW1DwhQw9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0449467",
+      "type": "movie",
+      "name": "Babel",
+      "poster": "https://image.tmdb.org/t/p/w500/os6R4WX50SoOclBt0U9XjdyReaR.jpg",
+      "posterShape": "poster",
+      "description": "La tragedia golpea a un matrimonio que está de vacaciones en el desierto marroquí, lo que da inicio a una historia entrelazada que involucra a cuatro familias diferentes.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9YoLdWeBSxAdR6BqQ5uS88d3FWO.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0388795",
+      "type": "movie",
+      "name": "Secreto en la Montaña",
+      "poster": "https://image.tmdb.org/t/p/w500/dxZ0S9dQ3tRhy0x112TQHFp6rMY.jpg",
+      "posterShape": "poster",
+      "description": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0338751",
+      "type": "movie",
+      "name": "El Aviador",
+      "poster": "https://image.tmdb.org/t/p/w500/sZNc61SsUdKWl8yNhKjqesYStre.jpg",
+      "posterShape": "poster",
+      "description": "Biografía del polifacético Howard Hughes, un hombre que con el poco dinero que heredó de su padre se trasladó a Hollywood, donde amasó un gran fortuna. Fue uno de los productores más destacados del cine americano durante las décadas de los treinta y los cuarenta. Lanzó al estrellato a actrices como Jean Harlow y llegó a ser dueño de la RKO Radio Pictures. Pero Hughes, además de productor, fue un gran industrial y comerciante que desempeñó un importante papel por sus innovaciones en el mundo de la aviación.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2RICPuzwGAVNktqiyptouqjgeXM.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0167260",
+      "type": "movie",
+      "name": "El señor de los anillos: El retorno del rey",
+      "poster": "https://image.tmdb.org/t/p/w500/vvxufoFLVxdA8JoCqjUGjHlTs5V.jpg",
+      "posterShape": "poster",
+      "description": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0274558",
+      "type": "movie",
+      "name": "Las horas",
+      "poster": "https://image.tmdb.org/t/p/w500/jq5fYgl8C0IEaMaagH6ct7heJrU.jpg",
+      "posterShape": "poster",
+      "description": "\"The Hours\" es la historia de tres mujeres que buscan vidas más potentes y significativas. Cada uno está vivo en un tiempo y lugar diferentes, todos están vinculados por sus anhelos y sus miedos. Sus historias se entrelazan y finalmente se unen en un momento sorprendente y trascendente de reconocimiento compartido.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0268978",
+      "type": "movie",
+      "name": "Una Mente Brillante",
+      "poster": "https://image.tmdb.org/t/p/w500/pxKbpqPVjRQj87G8Pd6sQsbmf4S.jpg",
+      "posterShape": "poster",
+      "description": "En la Universidad de Princeton, John Nash se esfuerza por hacer una valiosa contribución y así dejar un legado al mundo de las matemáticas.  Después de la escuela de postgrado se enfoca en la enseñanza, lo que lo lleva a una relación romántica con su estudiante Alicia. Mientras tanto, el gobierno pide su ayuda para romper los códigos soviéticos, lo que pronto lo involucra en una conspiración aterradora. Ahora sólo con la ayuda de Alicia podrá recuperar su fuerza mental y recuperar su estatus como el gran matemático que hoy conocemos.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0172495",
+      "type": "movie",
+      "name": "Gladiador",
+      "poster": "https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "posterShape": "poster",
+      "description": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0169547",
+      "type": "movie",
+      "name": "Belleza Americana",
+      "poster": "https://image.tmdb.org/t/p/w500/5Friz3hXc7yqw1aV4t9XiYHcDh4.jpg",
+      "posterShape": "poster",
+      "description": "Lester Burnham, un cuarentón en crisis, cansado de su trabajo y de su mujer Carolyn, despierta de su letargo cuando conoce a la atractiva amiga de su hija, a la que intentará impresionar a toda costa.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120815",
+      "type": "movie",
+      "name": "Rescatando al soldado Ryan",
+      "poster": "https://image.tmdb.org/t/p/w500/yfExW9uPK4idbUDjRGBlXLbMxRR.jpg",
+      "posterShape": "poster",
+      "description": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Bélica",
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0120338",
+      "type": "movie",
+      "name": "Titanic",
+      "poster": "https://image.tmdb.org/t/p/w500/c32fxD3D7a7PuxYxOvSLcssHj8G.jpg",
+      "posterShape": "poster",
+      "description": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0116209",
+      "type": "movie",
+      "name": "El Paciente Inglés",
+      "poster": "https://image.tmdb.org/t/p/w500/rFrE4iRB9Cdj2T3H1JeeV6DOuL8.jpg",
+      "posterShape": "poster",
+      "description": "Finales de la Segunda Guerra Mundial (1939-1945). Un hombre herido viaja en un convoy sanitario por una carretera italiana, pero su estado es tan grave que tiene que quedarse en un monasterio deshabitado y semiderruido, donde se encarga de cuidarlo Hana, una enfermera canadiense. Aunque su cuerpo está totalmente quemado a consecuencia de un accidente sufrido en África, tiene todavía ánimo para contarle a Hana la trágica historia de su vida.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/em5kAUF8QbwThG5BCqVgFomxNT5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0114388",
+      "type": "movie",
+      "name": "Sensatez y sentimientos",
+      "poster": "https://image.tmdb.org/t/p/w500/m9uBQtgUcFdY5hBWdTlgEypkcDq.jpg",
+      "posterShape": "poster",
+      "description": "La señora Dashwood, Elinor, Marianne y Margaret, son tres hermanas del segundo matrimonio del señor Dashwood. Cuando este muere, deja toda la herencia al hijo de su primer matrimonio. Las Dashwood, se quedan un corto tiempo en la que era su casa, donde conocen a Edward Ferrars, cuñado de su hermanastro del cual Elinor se enamora. Cuando se trasladan a una casa en el campo, Marianne se enamora de John Willoughby, que vive cerca de su nueva casa. Durante su estancia allí ella aprenderá a madurar acerca de los conceptos del amor.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0109830",
+      "type": "movie",
+      "name": "Forrest Gump",
+      "poster": "https://image.tmdb.org/t/p/w500/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+      "posterShape": "poster",
+      "description": "Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0108052",
+      "type": "movie",
+      "name": "La Lista de Schindler",
+      "poster": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "posterShape": "poster",
+      "description": "La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0105323",
+      "type": "movie",
+      "name": "Perfume de mujer",
+      "poster": "https://image.tmdb.org/t/p/w500/31rD4J0DmVgq6RLjBGz6DKA1Vdf.jpg",
+      "posterShape": "poster",
+      "description": "Frank Slade (Al Pacino) es un malhumorado Coronel en la reserva del ejército norteamericano, retirado pues sufre de ceguera. Durante el fin de semana de Acción de Gracias el joven estudiante Charlie Simms (Chris O'Donnell), contratado por la familia de Slade, se queda en su casa para servirle de lazarillo y procurar que no beba mucho. Pero Frank tiene otros planes: irse a la gran ciudad de Nueva York...",
+      "releaseInfo": "1992",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0101516",
+      "type": "movie",
+      "name": "Bugsy",
+      "poster": "https://image.tmdb.org/t/p/w500/hSGncpMByW8zx2aOSXdZB0e70yA.jpg",
+      "posterShape": "poster",
+      "description": "Benjamin \"Bugsy\" Siegel (Warren Beatty), Meyer Lansky (Ben Kingsley) y Charlie \"Lucky\" Luciano (Bill Graham) controlan los negocios del hampa en Nueva York, y quieren extenderse hacia el oeste. Bugsy se traslada a Los Angeles y se vincula a la industria del cine. Dejando atrás a su familia, dos grandes pasiones se apoderarán de su vida: la atractiva y temperamental Virginia Hill (Annette Bening), y su obsesiva idea de levantar una ciudad de lujo y juego en medio del desierto de Nevada, Las Vegas.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t353Hj5sFXWQFriVzB1GiT3TSlm.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0099348",
+      "type": "movie",
+      "name": "Danza con Lobos",
+      "poster": "https://image.tmdb.org/t/p/w500/sKVwj51kTWdOweIFFNjmLVN1qG1.jpg",
+      "posterShape": "poster",
+      "description": "El teniente John Dunbar, un soldado de la Unión durante la Guerra Civil, se encuentra solo en un puesto fronterizo y desarrolla una relación con una tribu de nativos americanos. La película explora su conexión con la naturaleza y la cultura nativa, mientras enfrenta conflictos entre su lealtad y su creciente simpatía por los indígenas. Danza con lobos\" recibió elogios de la crítica y ganó siete premios Oscar, incluido el de Mejor Película.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Western"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0096969",
+      "type": "movie",
+      "name": "Nacido el Cuatro de Julio",
+      "poster": "https://image.tmdb.org/t/p/w500/wube6W2ntQeuIO42ND76oUP25Y1.jpg",
+      "posterShape": "poster",
+      "description": "Ron Kovic, veterano de Vietnam, vive los horrores de la guerra, tanto en el frente de batalla como en su vida civil.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y9QjSsIH4vBIIqGmAFT1zJzsqPh.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0095953",
+      "type": "movie",
+      "name": "Cuando los Hermanos se Encuentran",
+      "poster": "https://image.tmdb.org/t/p/w500/2KygAn0ybrpBm0MROuxWMjwVN0w.jpg",
+      "posterShape": "poster",
+      "description": "En este papel que le valió el Oscar®, Dustin Hoffman al lado del rompecorazones de Hollywood Tom Cruise, nos ofrece una divertida y conmovedora historia de amor fraternal. El insensible Charlie Babbitt, espera recibir una enorme herencia tras la muerte de su alejado padre. Pero Raymond, su hermano mayor recluido en una institución y a quien prácticamente no conoce, es el único heredero. Raymond “es un sabio autista” con algunas habilidades mentales limitadas, pero con otras destrezas geniales. Cuando Charlie secuestra a Raymond, el recorrido a lo largo del país que los llevará hasta Los Ángeles, les enseña algunas lecciones para toda la vida. Así, mientras superan su mutua desconfianza, un fuerte lazo se forma al compartir recuerdos del pasado, problemas del presente y un posible y deslumbrante futuro juntos.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0093389",
+      "type": "movie",
+      "name": "El último emperador",
+      "poster": "https://image.tmdb.org/t/p/w500/tjj1b3VluoIhbdt9VHxQkEqiCzH.jpg",
+      "posterShape": "poster",
+      "description": "Pekín, 1908. China se encuentra en plena decadencia. Pu Yi, un niño de tres años, es arrancado de los brazos de su madre, en medio de la noche, y conducido hasta la Ciudad Prohibida, donde es coronado emperador, pero tendrá que vivir recluido dentro de este recinto inaccesible.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0091763",
+      "type": "movie",
+      "name": "Pelotón",
+      "poster": "https://image.tmdb.org/t/p/w500/sh1dRGFjbjwWMA6YfNms5N7OqIv.jpg",
+      "posterShape": "poster",
+      "description": "Un joven soldado norteamericano es enviado a la frontera entre Vietnam y Camboya para incorporarse a un pelotón. Además de la crueldad de la guerra, tendrá que sufrir las difíciles relaciones con sus camaradas.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Drama",
+        "Bélica",
+        "Acción"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0089755",
+      "type": "movie",
+      "name": "África mía",
+      "poster": "https://image.tmdb.org/t/p/w500/9Uv8V13yVhBIpswAEkxqkS0SFEM.jpg",
+      "posterShape": "poster",
+      "description": "La Baronesa Bixen (Meryl Streep), quien utiliza como escritora el seudónimo de Isak Denisen, se enamora del cazador británico Denys Finch Hatton (Robert Redford) a principios del siglo XX en Kenia.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Historia",
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086879",
+      "type": "movie",
+      "name": "Amadeus",
+      "poster": "https://image.tmdb.org/t/p/w500/yMD3achn3e6tODrO65exYJNpa0I.jpg",
+      "posterShape": "poster",
+      "description": "La pelicula Amadeus nos presenta a Antonio Salieri, el músico más destacado de la corte del Emperador José II de Austria. Entregado completamente a la música, le promete a Dios humildad y castidad si, a cambio, conserva sus extraordinarias dotes musicales. Pero, después de la llegada a la corte de un joven llamado Wolfang Amadeus Mozart, Salieri queda relegado a un segundo plano. Enfurecido por la pérdida de protagonismo, hará todo lo posible para arruinar la carrera del músico de Salzburgo. Mientras tanto, Mozart, ajeno a las maquinaciones de Salieri, sorprende a todos con su genialidad como músico, pero también con sus excentricidades.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0086425",
+      "type": "movie",
+      "name": "La fuerza del cariño",
+      "poster": "https://image.tmdb.org/t/p/w500/iUa8SO1t0d89cXtDKOzYYsSge7M.jpg",
+      "posterShape": "poster",
+      "description": "Aurora (Shirley MacLaine) y Emma (Debra Winger) son una madre y una hija muy unidas, pero con puntos de vista muy distintos sobre la vida. Aurora, que está viuda, es una mujer temperamental pero de buen corazón, y Emma es una joven rebelde que está deseando salir de casa e independizarse; lo malo es que para conseguirlo sigue el camino más convencional: casarse. Por su parte, Aurora tiene un romance otoñal con un ex-astronauta (Jack Nicholson). A través de los años, madre e hija intentan siempre buscar la forma de soportarse y encontrar la felicidad.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rZXTcmx7mKysaseyWZHs6wzPAcZ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0083866",
+      "type": "movie",
+      "name": "E.T. El Extraterrestre",
+      "poster": "https://image.tmdb.org/t/p/w500/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
+      "posterShape": "poster",
+      "description": "Obra maestra del cine que ha cautivado a audiencias de todas las edades desde su lanzamiento en 1982. Dirigida por Steven Spielberg, esta película narra la emotiva historia de la amistad entre un niño llamado Elliott y un adorable extraterrestre perdido en la Tierra. Con una combinación perfecta de aventura, emoción y magia cinematográfica, sigue siendo una experiencia inolvidable que continúa inspirando a generaciones.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Familia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0082846",
+      "type": "movie",
+      "name": "On Golden Pond",
+      "poster": "https://image.tmdb.org/t/p/w500/tS5Y4IAieLY3dTRJOHGaNNYwiXv.jpg",
+      "posterShape": "poster",
+      "description": "For Norman and Ethel Thayer, this summer on golden pond is filled with conflict and resolution. When their daughter Chelsea arrives, the family is forced to renew the bonds of love and overcome the generational friction that has existed for years.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ydGY4z0hN8XebemBOJgnTD4ceiJ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0081283",
+      "type": "movie",
+      "name": "Gente como uno",
+      "poster": "https://image.tmdb.org/t/p/w500/vI626IhqpcwiASA7F5boT0mhxje.jpg",
+      "posterShape": "poster",
+      "description": "Un adolescente se culpa después de que su hermano murió ahogado en su barco. A pesar de intensas sesiones de terapia, no puede liberarse de la creencia de que debería haber muerto en su lugar y sus padres tampoco le ofrecen mucho consuelo.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0079417",
+      "type": "movie",
+      "name": "Kramer vs. Kramer",
+      "poster": "https://image.tmdb.org/t/p/w500/btdZ6vSOqQ3zI3ftEm2QTF9yiId.jpg",
+      "posterShape": "poster",
+      "description": "Ted Kramer es un joven padre y esposo que adora a su familia, pero también su trabajo ya que es allí donde pasa la mayor parte del tiempo. Una tarde, al volver de trabajar, su mujer Joanna se enfrenta con él y le abandona para que cuide del hijo de ambos, de seis años. Ted deberá aprender a ser padre procurando al mismo tiempo no descuidar su carrera profesional. Pero cuando ya se ha adaptado a su nueva vida y comienza a sentirse realizado como padre, Joanna vuelve. Y quiere recuperar a su hijo.",
+      "releaseInfo": "1979",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0077928",
+      "type": "movie",
+      "name": "Expreso de medianoche",
+      "poster": "https://image.tmdb.org/t/p/w500/47uWcpAj2RAjHJQpwhAk0iVluvd.jpg",
+      "posterShape": "poster",
+      "description": "Billy Hayes, un joven estadounidense, fue detenido en el aeropuerto de Estambul cuando se disponía a subir a un avión con varios paquetes de hachís. Acusado de uno de los delitos considerados más graves en Turquía, Billy es condenado a cuatro años de cárcel. En prisión sufrirá las atrocidades propias de un sistema penitenciario brutal e inhumano.",
+      "releaseInfo": "1978",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f4dcx5U9X3w27e8iithmsaohF5t.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0076843",
+      "type": "movie",
+      "name": "The Turning Point",
+      "poster": "https://image.tmdb.org/t/p/w500/6CD90BQEDexEIMqIwMSnbJStF5x.jpg",
+      "posterShape": "poster",
+      "description": "As young dancers, they were best friends and fierce rivals. Deedee left the stage for marriage and motherhood, while Emma would become an international ballet icon. But when Deedee's teenage daughter is invited to join Emma's dance company and begins an affair with a young Russian star, the two women are forced to confront the choices they've made, the resentments they've hidden and the emotional truths they must face at the turning point.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rlXOCkER3ajPMt9IqjyebWztZUx.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0075148",
+      "type": "movie",
+      "name": "Rocky",
+      "poster": "https://image.tmdb.org/t/p/w500/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "posterShape": "poster",
+      "description": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",
+      "releaseInfo": "1976",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0073486",
+      "type": "movie",
+      "name": "Atrapado sin Salida",
+      "poster": "https://image.tmdb.org/t/p/w500/aFb4y84cmDGotn2BwVEtqr4q8m5.jpg",
+      "posterShape": "poster",
+      "description": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+      "releaseInfo": "1975",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0071315",
+      "type": "movie",
+      "name": "Barrio Chino",
+      "poster": "https://image.tmdb.org/t/p/w500/aohWIzG32eLyS8xuLdIWefZexlw.jpg",
+      "posterShape": "poster",
+      "description": "Los Ángeles, 1937. El detective Gittes, especializado en divorcios, recibe la visita de la esposa de Mulwray, el jefe del Servicio de Aguas de la ciudad, que sospecha que su marido la engaña. Al mismo tiempo, Gittes descubre que los agricultores acusan a Mulwray de corrupción por su negativa a construir un pantano que paliaría la sequía que sufren. Poco después, el escándalo salta a la prensa, pero la cosa se complica cuando una mujer se presenta en el despacho de Gittes con una sorprendente revelación.",
+      "releaseInfo": "1974",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0070047",
+      "type": "movie",
+      "name": "El Exorcista",
+      "poster": "https://image.tmdb.org/t/p/w500/hzuJXNUqL8v5ushjoDEcmUXJ2DT.jpg",
+      "posterShape": "poster",
+      "description": "Regan, una niña de doce años, es víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste, convencido de que el mal no es físico sino espiritual, es decir que se trata de una posesión diabólica, decide practicar un exorcismo. Seguramente la película de terror más popular de todos los tiempos.",
+      "releaseInfo": "1973",
+      "genres": [
+        "Terror"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0068646",
+      "type": "movie",
+      "name": "El Padrino",
+      "poster": "https://image.tmdb.org/t/p/w500/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "posterShape": "poster",
+      "description": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: una chica, Connie, y tres varones: el impulsivo Sonny, el pusilánime Freddie y Michael, que no quiere saber nada de los negocios de su padre. Cuando Corleone, siempre aconsejado por su consejero Tom Hagen, se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.",
+      "releaseInfo": "1972",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0067116",
+      "type": "movie",
+      "name": "Contacto en Francia",
+      "poster": "https://image.tmdb.org/t/p/w500/x4qslAMvhbHsWvvj7IgPzK2yFTi.jpg",
+      "posterShape": "poster",
+      "description": "Jimmy Doyle y Buddy Rosso son dos policías neoyorquinos que siguen la pista de una red de traficantes de drogas. El primero, que confía en su olfato, sospecha que una confitería de Brooklyn está implicada y convence a su jefe para intervenir la línea telefónica. Poco después, Doyle y sus hombres siguen al dueño de la confitería, que los conduce hasta Nicoly y Charnier, dos franceses que acaban de llegar a Estados Unidos.",
+      "releaseInfo": "1971",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0066011",
+      "type": "movie",
+      "name": "Historia de amor",
+      "poster": "https://image.tmdb.org/t/p/w500/nXZIBFEp8nMjASqdLRAAHAAhtpt.jpg",
+      "posterShape": "poster",
+      "description": "El estudiante de derecho de Harvard Oliver Barrett IV y la estudiante de música Jennifer Cavilleri comparten una química que no pueden negar y un amor que no pueden ignorar. A pesar de sus orígenes opuestos, la joven pareja se arriesgó el uno por el otro. Cuando se casan, el adinerado padre de Oliver amenaza con desheredarlo. Jenny intenta reconciliar al padre con el hijo, pero sin éxito.",
+      "releaseInfo": "1970",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jZC1xS5DVTe4T5azqJ4NB2QBpgt.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0064030",
+      "type": "movie",
+      "name": "Ana de los mil días",
+      "poster": "https://image.tmdb.org/t/p/w500/yKYmMOPyjdbTBgK0mxhtfshlQS6.jpg",
+      "posterShape": "poster",
+      "description": "Enrique VIII de Inglaterra (1509-1547), casado con Catalina de Aragón, hija de los Reyes Católicos, se encapricha de Ana Bolena, una dama de la Corte, y decide casarse con ella. Pero, como el Papa no accede a concederle el divorcio, rompe con la Iglesia de Roma y crea la Iglesia Anglicana (Acta de Supremacía de 1534), convirtiéndose así en la suprema autoridad eclesiástica de Inglaterra. Años después, el rey acusa a Ana de alta traición y ordena que sea ejecutada",
+      "releaseInfo": "1969",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zyLU9jHFS2IInPagitMfasDwss.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0063227",
+      "type": "movie",
+      "name": "El leon en invierno",
+      "poster": "https://image.tmdb.org/t/p/w500/bcr96pyEByNBxbipCB8f9lmTpKQ.jpg",
+      "posterShape": "poster",
+      "description": "Año 1183. El rey de Inglaterra Enrique II Plantagenet reúne a toda su familia para pasar las Navidades y decidir quién le sucederá en el trono. Manda llamar a su esposa, la maquiavélica Leonor de Aquitania, a quien mantiene encerrada en una torre después de haberla repudiado, y también a sus tres hijos: el taimado Geoffrey, el insignificante John (Juan sin Tierra) y el colérico Richard (Ricardo I Corazón de León). Conviene tener en cuenta que, algunos años antes (1173-1174), los tres, incitados por su ambiciosa madre, se habían sublevado contra su padre.",
+      "releaseInfo": "1968",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.4"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0061811",
+      "type": "movie",
+      "name": "In the Heat of the Night",
+      "poster": "https://image.tmdb.org/t/p/w500/lRkD04pmGpVSYsObL4LZctxiCt9.jpg",
+      "posterShape": "poster",
+      "description": "En una pequeña población de Mississippi, el policía Sam Wood (Warren Oates) descubre el cadáver de un industrial. Poco después, detiene en la estación a un hombre negro que, tras ser interrogado por el jefe de la policía local, Billl Gillespie (Rod Steiger), resulta ser un inspector de la policía de Filadelfia llamado Virgil Tibbs (Sidney Poitier). Ambos policías deciden colaborar para investigar el asesinato.",
+      "releaseInfo": "1967",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xY5sgU09cOsvEAgJZaYo2aOZEFi.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0060665",
+      "type": "movie",
+      "name": "Un hombre de dos reinos",
+      "poster": "https://image.tmdb.org/t/p/w500/ktOGYwg9wWojDSfCInx9eMdmqnN.jpg",
+      "posterShape": "poster",
+      "description": "El rey Enrique VIII acusa a Tomás Moro de haberlo traicionado cuando se opone a sus designios, lo que intensifica el conflicto con la monarquía. Insatisfechos, el rey y los juristas extienden la acusación a otras personas.",
+      "releaseInfo": "1966",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o8Pc05f7zwgZCLrcfqszHWEQF0w.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0059113",
+      "type": "movie",
+      "name": "Doctor Zhivago",
+      "poster": "https://image.tmdb.org/t/p/w500/ewV2RlSlMs5jRKVlFNHZ9u8t6Ms.jpg",
+      "posterShape": "poster",
+      "description": "Rusia, revolución bolchevique (1917). La guerra produce una convulsión general en un país dividido. En medio del conflicto, asistimos al drama íntimo de un hombre que lucha por sobrevivir. Este hombre es Zhivago, poeta y cirujano, marido y amante, cuya vida trastornada por la guerra afecta a las vidas de otros, incluida Tonya, su mujer, y Lara, la mujer de la que se enamora.",
+      "releaseInfo": "1965",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wUaDgHfW7fViru7IubWa6Nronq9.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0057877",
+      "type": "movie",
+      "name": "Becket",
+      "poster": "https://image.tmdb.org/t/p/w500/5FUglHtUdv5vtgqaLyPCO2lwwn2.jpg",
+      "posterShape": "poster",
+      "description": "Thomas Becket, Henry II's longtime advisor, finds his friendship with the debauched king corroding when he is unwillingly appointed as Archbishop of Canterbury in an attempt to gain absolute loyalty from the Church.",
+      "releaseInfo": "1964",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bYwrsPgIloJsqD6nWfLycAp7tn6.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0056907",
+      "type": "movie",
+      "name": "El cardenal",
+      "poster": "https://image.tmdb.org/t/p/w500/vpbS2EFFYHZkOjtKX90ex3fbF7.jpg",
+      "posterShape": "poster",
+      "description": "Un sacerdote de Boston comienza a ascender en la jerarquía eclesiástica gracias a sus grandes cualidades. Sin embargo, tendrá que afrontar delicados problemas personales y situaciones políticas muy peligrosas, como la invasión de Austria por los nazis (1938).",
+      "releaseInfo": "1963",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pQ2I2MxlZYc43jAVsEVWMhg7FTd.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0056172",
+      "type": "movie",
+      "name": "Lawrence de Arabia",
+      "poster": "https://image.tmdb.org/t/p/w500/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg",
+      "posterShape": "poster",
+      "description": "El Cairo, 1917. Durante la Gran Guerra (1914-1918), T.E. Lawrence, un conflictivo y enigmático oficial británico, es enviado al desierto para participar en una campaña de apoyo a los árabes contra Turquía. Él y su amigo Sherif Alí pondrán en esta misión toda su alma. Los nativos adoran a Lawrence porque ha demostrado sobradamente ser un amante del desierto y del pueblo árabe. En cambio, sus superiores británicos creen que se ha vuelto loco.",
+      "releaseInfo": "1962",
+      "genres": [
+        "Aventura",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eULrEMwgXnWmzdowUfegaw2YYgD.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0054953",
+      "type": "movie",
+      "name": "Los Cañones de Navarone",
+      "poster": "https://image.tmdb.org/t/p/w500/61u2a8SB38GOKdPGv8qEiow7rtk.jpg",
+      "posterShape": "poster",
+      "description": "Durante la II Guerra Mundial (1939-1945), los alemanes dominan las aguas del Mediterráneo gracias a un eficaz sistema de defensa que los aliados no pueden contrarrestar. La causa de la superioridad alemana es el fortín de Navarone, que, gracias a sus gigantescos cañones, cierra el paso a la navegación por el mar Egeo.",
+      "releaseInfo": "1961",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0054331",
+      "type": "movie",
+      "name": "Espartaco",
+      "poster": "https://image.tmdb.org/t/p/w500/azXoEA108BvWjeKxIW9tfYlxY2I.jpg",
+      "posterShape": "poster",
+      "description": "Espartaco era un esclavo tracio que fue vendido como gladiador a Léntulo Batiato. En Italia promovió y dirigió la rebelión de los esclavos (73-71 a.C.) contra la República romana. A medida que recorrían el país, innumerables esclavos se iban sumando a la rebelión. Espartaco intentará llegar con su ejército al sur de Italia para poner rumbo a sus hogares.",
+      "releaseInfo": "1960",
+      "genres": [
+        "Historia",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0052618",
+      "type": "movie",
+      "name": "Ben-Hur",
+      "poster": "https://image.tmdb.org/t/p/w500/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
+      "posterShape": "poster",
+      "description": "Judah Ben-Hur, un príncipe judío, es traicionado por su amigo de la infancia, Messala, y condenado a la esclavitud. Después de años de sufrimiento, Ben-Hur se convierte en un héroe y busca venganza en una carrera de cuadrigas épica que cambiará su destino para siempre.",
+      "releaseInfo": "1959",
+      "genres": [
+        "Historia",
+        "Drama",
+        "Aventura"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0051525",
+      "type": "movie",
+      "name": "Fuga en cadenas",
+      "poster": "https://image.tmdb.org/t/p/w500/7DykAW1ILpHzVR7oXmxFpY5qTSV.jpg",
+      "posterShape": "poster",
+      "description": "Two convicts—one white, one black—escape while chained to each other.",
+      "releaseInfo": "1958",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Aventura",
+        "Suspense"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0050212",
+      "type": "movie",
+      "name": "El puente sobre el río Kwai",
+      "poster": "https://image.tmdb.org/t/p/w500/z5uKyonXIGiVub5RtJKaPgGevlI.jpg",
+      "posterShape": "poster",
+      "description": "Durante la Segunda Guerra Mundial (1939-1945), un grupo de prisioneros británicos son obligados por los japoneses a construir un puente. Los oficiales, capitaneados por su flemático coronel, se opondrán a toda orden que viole la Convención de Ginebra sobre los derechos y las condiciones de vida de los prisioneros de guerra.",
+      "releaseInfo": "1957",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cGi9obHiooPoNR4JX72L9RooeOY.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0048960",
+      "type": "movie",
+      "name": "La vuelta al mundo en 80 días",
+      "poster": "https://image.tmdb.org/t/p/w500/5sOJTtPJfOT74sSTABd3E0K5Zmy.jpg",
+      "posterShape": "poster",
+      "description": "Adaptación de la novela homónima de Julio Verne. Un ladrón ha robado 55.000 libras del banco de Inglaterra. Todos creen que ha sido Phileas Fogg, un auténtico caballero inglés, que ha hecho una apuesta con sus compañeros de club, asegurando que es capaz de dar la vuelta al mundo en 80 días.",
+      "releaseInfo": "1956",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Familia",
+        "Fantasía",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/AiSfsXyFdze5UhlSC3YVqIdG8vS.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0048028",
+      "type": "movie",
+      "name": "Al este del paraíso",
+      "poster": "https://image.tmdb.org/t/p/w500/scR9IoLj0zGwR5d3yc0NyjsjYsw.jpg",
+      "posterShape": "poster",
+      "description": "Un granjero californiano tiene dos hijos, Cal y Aron, de caracteres muy diferentes, pero ambos compiten por el cariño de su padre. La situación de Cal se complica cuando averigua que, en realidad, su madre no sólo no está muerta, sino que además regenta un local de alterne.",
+      "releaseInfo": "1955",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0047296",
+      "type": "movie",
+      "name": "Nido de ratas",
+      "poster": "https://image.tmdb.org/t/p/w500/eDse5sgw3UwRHO315cTEjkl4qLJ.jpg",
+      "posterShape": "poster",
+      "description": "Johnny Friendly (Lee J Cobb), el jefe del sindicato portuario, utiliza métodos mafiosos para controlar y explotar a los estibadores de los muelles neoyorquinos. Terry Malloy (Marlon Brando), un boxeador fracasado que trabaja para él, se ha visto involuntariamente implicado en uno de sus crímenes. Cuando Malloy conoce a Edie Doyle (Eva Marie Saint), la hermana de la víctima, se produce en él una profunda transformación moral que lo lleva a arrepentirse de su vida pasada. A través de Edie conoce al padre Barrie (Karl Malden), que trata de animarlo para que acuda a los tribunales y cuente todo lo que sabe.",
+      "releaseInfo": "1954",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j0qTehcyVVV1VEzrJ7YYtoFmWNw.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0046247",
+      "type": "movie",
+      "name": "El manto sagrado",
+      "poster": "https://image.tmdb.org/t/p/w500/on6qoCFnkn0zuHzWnheiKteKZV9.jpg",
+      "posterShape": "poster",
+      "description": "Siglo I d.C. En la Roma de Tiberio, el joven y noble Marcelo Galio encuentra en una subasta de esclavos a la bella Diana, enamorada de él desde que eran niños, y ahora pupila del emperador. Marcelo se enfrenta en una violenta puja con Calígula, hijo y sucesor de Tiberio, y consigue quitarle al esclavo griego Demetrio. Enterado el emperador de la disputa, castiga a Marcelo enviándolo a Palestina en calidad de tribuno. Cuando llega, Poncio Pilato acaba de condenar a Cristo a morir en la cruz.",
+      "releaseInfo": "1953",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWCcl7iY718qikjbYfERstvcBrn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.8"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0044672",
+      "type": "movie",
+      "name": "El espectáculo más grande del mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/pfiW3yQlcNIXBmUrDmtmSSlvTlW.jpg",
+      "posterShape": "poster",
+      "description": "To ensure a full profitable season, circus manager Brad Braden engages The Great Sebastian, though this moves his girlfriend Holly from her hard-won center trapeze spot. Holly and Sebastian begin a dangerous one-upmanship duel in the ring, while he pursues her on the ground.",
+      "releaseInfo": "1952",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/y22C1YyK8YXjU8LHoyA06MclOs6.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0043924",
+      "type": "movie",
+      "name": "A Place in the Sun",
+      "poster": "https://image.tmdb.org/t/p/w500/3H0tJhxZa38duyrCvWw4lldaZZw.jpg",
+      "posterShape": "poster",
+      "description": "A young social climber wins the heart of a beautiful heiress but his former girlfriend's pregnancy stands in the way of his ambition.",
+      "releaseInfo": "1951",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crimen"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/49LzDsuSefYnEOaNjsoYLMUDn0r.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0043014",
+      "type": "movie",
+      "name": "El ocaso de una vida",
+      "poster": "https://image.tmdb.org/t/p/w500/ixKIpgBIJn8xargoB7MHTMbuC4h.jpg",
+      "posterShape": "poster",
+      "description": "Joe Gillis es un joven escritor de segunda fila que, acosado por sus acreedores, se refugia casualmente en la mansión de Norma Desmond, antigua estrella del cine mudo, que vive fuera de la realidad, acompañada únicamente de su fiel criado Max. A partir de ese momento, la actriz pretende que Joe corrija un guión que ella ha escrito y que va a significar su regreso al cine.",
+      "releaseInfo": "1950",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "8.3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0041113",
+      "type": "movie",
+      "name": "Decepción",
+      "poster": "https://image.tmdb.org/t/p/w500/51L1K8GVyzvJB2tW8h4wdxq4OrG.jpg",
+      "posterShape": "poster",
+      "description": "Willie Stark (Broderick Crawford), un hombre honrado y valiente, sufre una transformación el día que decide entrar en política y descubre que todo es juego sucio. Tras ser elegido gobernador, olvidando sus principios, lo primero que hace es apoderarse de la prensa y la radio. Convertido en un ser corrupto hará cuanto esté en su mano para permanecer en el poder.",
+      "releaseInfo": "1949",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0040495",
+      "type": "movie",
+      "name": "Johnny Belinda",
+      "poster": "https://image.tmdb.org/t/p/w500/lIkYFx7ZaU56iG507lgLoSh1GNR.jpg",
+      "posterShape": "poster",
+      "description": "A small-town doctor helps a deaf-mute farm girl learn to communicate.",
+      "releaseInfo": "1948",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u3lmI4KMiU2tV5zWQPm6222kq92.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.9"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0039416",
+      "type": "movie",
+      "name": "Gentleman's Agreement",
+      "poster": "https://image.tmdb.org/t/p/w500/rqDbV9DHozJgy194SPTrnBXEf5J.jpg",
+      "posterShape": "poster",
+      "description": "A magazine writer poses as a Jew to expose anti-Semitism.",
+      "releaseInfo": "1947",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4XMEwQVADrym6XWcxudH11caLCA.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0036868",
+      "type": "movie",
+      "name": "Lo mejor de nuestra vida",
+      "poster": "https://image.tmdb.org/t/p/w500/go8vB0DsCStVvr6vc1kv8LVmEep.jpg",
+      "posterShape": "poster",
+      "description": "Tras la Segunda Guerra Mundial (1939-1945), los soldados supervivientes, algunos con taras físicas, regresan a los Estados Unidos. Aunque al principio se les trata como héroes, poco tiempo después comienzan a verse marginados.",
+      "releaseInfo": "1946",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Bélica"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0037884",
+      "type": "movie",
+      "name": "Días sin huella",
+      "poster": "https://image.tmdb.org/t/p/w500/kNXR9S1XJ89EuAZnirDC8SVhI8y.jpg",
+      "posterShape": "poster",
+      "description": "Longtime alcoholic Don Birnam has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last – one way or another.",
+      "releaseInfo": "1945",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.6"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0036872",
+      "type": "movie",
+      "name": "Going My Way",
+      "poster": "https://image.tmdb.org/t/p/w500/4IL2ZGconSNa1XpFtu833TclANe.jpg",
+      "posterShape": "poster",
+      "description": "Youthful Father Chuck O'Malley led a colorful life of sports, song, and romance before joining the Roman Catholic clergy. After being appointed to a run-down New York parish, O'Malley's worldly knowledge helps him connect with a gang of boys looking for direction, eventually winning over the aging, conventional Parish priest.",
+      "releaseInfo": "1944",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Música"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "6.7"
+          }
+        }
+      }
+    },
+    {
+      "id": "tt0036377",
+      "type": "movie",
+      "name": "La canción de Bernadette",
+      "poster": "https://image.tmdb.org/t/p/w500/kRZItSgFaSDnHePwxX5PfZvu5M8.jpg",
+      "posterShape": "poster",
+      "description": "Historia de Bernadette Soubirous (Jennifer Jones) y el misterio de la aparición de la Virgen en Lourdes (Francia) en 1858. Cuando a Bernadette, una niña asmática, se le aparece la Señora vestida de blanco, cambia sustancialmente la vida del pueblo de Massadiel, donde surge un manantial cuyas aguas curan a los peregrinos enfermos. Estos hechos serán exhaustivamente investigados por la Iglesia, los médicos y toda suerte de expertos.",
+      "releaseInfo": "1943",
+      "genres": [
+        "Drama"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg",
+      "app_extras": {
+        "ratings": {
+          "tmdb": {
+            "rating": "7.1"
+          }
+        }
+      }
+    }
+  ],
+  "cacheMaxAge": 86400,
+  "staleRevalidate": 3600,
+  "staleError": 86400
+}

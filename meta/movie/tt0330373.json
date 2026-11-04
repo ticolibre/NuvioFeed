@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "tt0330373",
+    "type": "movie",
+    "name": "Harry Potter y el cáliz de fuego",
+    "poster": "https://image.tmdb.org/t/p/w500/gNWbmxWljihbirfdrVM71lLJLNN.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w1280/cClWTo3ftVXvV1sF8vlLuWfnlph.jpg",
+    "description": "El Torneo de los Tres Magos llega a la escuela Hogwarts. Sin embargo, Harry Potter se convierte en un competidor, pero nunca presentó su nombre. A medida que avanza los juegos, poco a poco Harry descubre las intenciones detras de este torneo.",
+    "releaseInfo": "2005",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "app_extras": {
+      "ratings": {
+        "tmdb": {
+          "rating": "7.8"
+        }
+      }
+    }
+  }
+}
